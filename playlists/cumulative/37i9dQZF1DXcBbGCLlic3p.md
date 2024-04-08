@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-297 songs - 14 hr 30 min
+298 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Crayons Part 2](https://open.spotify.com/track/19vWPaRELzfUUlA4e9c7RB) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Dear Dawn](https://open.spotify.com/album/65IrZAMOiYuxHlrbxFYwGJ) | 2:10 | 2022-07-22 | 2023-07-14 |
 | [Crescent Moon](https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Crescent Moon](https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD) | 3:46 | 2024-02-16 |  |
 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 | 2022-09-13 |  |
+| [Curiousity](https://open.spotify.com/track/3I5RnTlsZ6qGd512wilesA) | [Warpzeit](https://open.spotify.com/artist/3e9fK5PYMDiMgY0s1Am6iJ) | [Curiousity](https://open.spotify.com/album/0YdloNcXRtehS3B9HYHLWd) | 2:29 | 2024-04-07 |  |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-03-03 |  |
 | [Darkness Turns to Sky](https://open.spotify.com/track/2s321Nxw1BYFr5VuMxqDUV) | [Shiloh Mirage](https://open.spotify.com/artist/50tMFE32bqSKVZEMuZjnCO) | [Darkness Turns to Sky](https://open.spotify.com/album/1vAt0HnVVDSyxAKf3xnObw) | 2:15 | 2024-03-07 |  |
 | [Desear](https://open.spotify.com/track/4a20vranOH3ic2txQ463jc) | [Julia Alvarez](https://open.spotify.com/artist/1G10mtuBoefYi1F0aNfa6G) | [In Dreams](https://open.spotify.com/album/3dbqdpVgDrnCWuqHD2KRXm) | 3:07 | 2023-07-14 |  |

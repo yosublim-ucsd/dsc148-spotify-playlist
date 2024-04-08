@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Royal & the Serpent + GAYLE
 
-729 songs - 1 day 13 hr 43 min
+730 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Fall](https://open.spotify.com/track/6WAOCbAm7uGk2GJtVEW6Ys) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Fall](https://open.spotify.com/album/43Nas20O0zcGIXKxI6YJmO) | 3:03 | 2022-03-24 | 2022-04-20 |
 | [fall apart \(with glaive\)](https://open.spotify.com/track/6RYlGPwrNuwG8CqIRDYes6) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [fall apart \(with glaive\)](https://open.spotify.com/album/7vAT0ccu9ehuxQnfcCmqCn) | 2:35 | 2022-03-17 | 2022-07-28 |
 | [Falling \- So In Love](https://open.spotify.com/track/3Wxa4sAD07yLRmbHmJn9QF) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Falling \(So In Love\)](https://open.spotify.com/album/2WKM7bPaS5fiUj3utIac6l) | 3:43 | 2022-03-17 | 2022-07-24 |
+| [Falling for the Sky](https://open.spotify.com/track/4nDfJDZaUVtwOSnGROb2GN) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [Girl Next Door](https://open.spotify.com/album/4yJY4gKm1R8OsJN3C6tos1) | 2:44 | 2024-03-08 |  |
 | [Falling from the Sky](https://open.spotify.com/track/58vqgltwYoOCSPIyqNiBaU) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [Girl Next Door](https://open.spotify.com/album/4fXvwuGNst1OzuwVdoK80D) | 2:44 | 2023-11-17 | 2024-03-21 |
 | [Falling Out Without Me](https://open.spotify.com/track/5thiW6TbemZYqew8pnYgLI) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [FIVE V2](https://open.spotify.com/album/7hcRtN78v3VotQfLg4Mqju) | 4:18 | 2022-03-24 | 2022-04-17 |
 | [Father, Son, Holy Ghost](https://open.spotify.com/track/0aJb0z0Izv8Hjr3Oh4nC4Y) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Father, Son, Holy Ghost](https://open.spotify.com/album/1yYflK4Y3nuKYeA7LyPyhF) | 2:33 | 2023-04-07 | 2023-08-12 |
@@ -276,7 +277,7 @@
 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 | 2023-05-31 |  |
 | [Glory of Music II](https://open.spotify.com/track/4owBrksGX5hhX7rqdAfScg) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage: The Complete Recordings](https://open.spotify.com/album/2uPspfPV2yUhwAziXXQCnH) | 4:41 | 2022-03-24 | 2022-04-11 |
 | [Go](https://open.spotify.com/track/3ZzQA64sTohfVJJCCZZhs0) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [So Long EP](https://open.spotify.com/album/2zWKE8LGvNPCZhhEQHwRPw) | 3:33 | 2022-03-24 | 2022-04-18 |
-| [Go Getter](https://open.spotify.com/track/6UWvbA3Jx5ubUTFumQibEs) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Subtitles for Feelings](https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa) | 4:03 | 2024-02-20 |  |
+| [Go Getter](https://open.spotify.com/track/6UWvbA3Jx5ubUTFumQibEs) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Subtitles for Feelings](https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa) | 4:03 | 2024-02-20 | 2024-04-08 |
 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-09 |  |
 | [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 | 2022-08-26 | 2022-09-02 |
 | [god save me, but don't drown me out](https://open.spotify.com/track/0rUTQPibpskoXRrKjbGZjo) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [god save me, but don't drown me out](https://open.spotify.com/album/0RQkNpv7OGwqMiDCsZMliz) | 3:37 | 2022-03-17 | 2022-07-24 |

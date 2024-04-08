@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 22969,
+  "num_followers": 23003,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmUxOTUzNWMxZDdmNmRlNmZiZjRlMTEwNTUyMDgzZDIwN2MzZjBk",
+  "snapshot_id": "MCw4NWU1NzExZWJkNzRmMjIwZDk0Njc2NmE3ODllNWQ3MDcwMTQ1NzQx",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Solaris (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
-      },
-      "artists": [
-        {
-          "name": "Cliff Martinez",
-          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
-        }
-      ],
-      "duration_ms": 300680,
-      "name": "Will She Come Back",
-      "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Dead Texan",
         "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+        "name": "Solaris (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
       },
       "artists": [
         {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+          "name": "Cliff Martinez",
+          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Sheets Two",
-      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
+      "duration_ms": 300680,
+      "name": "Will She Come Back",
+      "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -383,6 +367,22 @@
       "duration_ms": 141746,
       "name": "I'm Dragging a Dead Deer Up a Hill",
       "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Sheets Two",
+      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -415,22 +415,6 @@
       "duration_ms": 656026,
       "name": "Piano Aquieu",
       "url": "https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "The Dead Texan",
-        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
-      },
-      "artists": [
-        {
-          "name": "The Dead Texan",
-          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "The Six Million Dollar Sandwich",
-      "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -491,18 +475,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+        "name": "The Dead Texan",
+        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "The Dead Texan",
+          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
         }
       ],
-      "duration_ms": 270680,
-      "name": "Wind and Snow",
-      "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
+      "duration_ms": 182720,
+      "name": "The Six Million Dollar Sandwich",
+      "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -551,6 +535,22 @@
       "duration_ms": 137826,
       "name": "Sin Nanna",
       "url": "https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Wind and Snow",
+      "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 344560,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Black Earth",
         "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 403573,
       "name": "Crimson Ways",
       "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 344560,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Dead Texan",
-        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
-      },
-      "artists": [
-        {
-          "name": "The Dead Texan",
-          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
-        }
-      ],
-      "duration_ms": 347706,
-      "name": "A Chronicle of Early Failures - Part 2",
-      "url": "https://open.spotify.com/track/3lOKW6po9WXDidfTxRZROT"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 273186,
       "name": "Piano Abg",
       "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Dead Texan",
+        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
+      },
+      "artists": [
+        {
+          "name": "The Dead Texan",
+          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
+        }
+      ],
+      "duration_ms": 347706,
+      "name": "A Chronicle of Early Failures - Part 2",
+      "url": "https://open.spotify.com/track/3lOKW6po9WXDidfTxRZROT"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Songs for the Broken Hearted",
-        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 140840,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Mist",
         "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 231240,
       "name": "The Mist",
       "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Songs for the Broken Hearted",
+        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 140840,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
-      },
-      "artists": [
-        {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "S\u00f8vnens Kvelertak",
-      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Chessa",
         "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 418880,
       "name": "chessa",
       "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
+      },
+      "artists": [
+        {
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "S\u00f8vnens Kvelertak",
+      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
-      },
-      "artists": [
-        {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Arves\u00f8lv",
-      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Prism of Eternal Now",
         "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 404200,
       "name": "Waves",
       "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
+      },
+      "artists": [
+        {
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Arves\u00f8lv",
+      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
     },
     {
       "added_at": "2023-08-04 12:53:28",

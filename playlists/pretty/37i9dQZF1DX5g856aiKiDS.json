@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 484459,
+  "num_followers": 484493,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWE3NDM3NGExNmRkYmE3Njk2NDQwNzE4NmIwMTZlNzI3NDY5ZTI2",
+  "snapshot_id": "MCxhOTU2OGQxYTE4YTNhZDBlNjg0MDZkNDgwZjllMzhjYTk1MDUwZjJj",
   "tracks": [
     {
       "added_at": "2024-03-21 12:57:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-03-21 12:57:00",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
-    },
-    {
-      "added_at": "2024-03-21 12:57:00",
-      "album": {
         "name": "ZZZ",
         "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 202342,
       "name": "\uba4b\uc9c0\uac8c \uc778\uc0ac\ud558\ub294 \ubc95 (Hello Tutorial) (Feat. \uc2ac\uae30 (SEULGI) of Red Velvet)",
       "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
+    },
+    {
+      "added_at": "2024-03-21 12:57:00",
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
     },
     {
       "added_at": "2024-03-21 12:57:00",
@@ -571,22 +571,18 @@
     {
       "added_at": "2024-03-21 12:57:00",
       "album": {
-        "name": "Sun And Moon",
-        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 257631,
-      "name": "It's You (Feat. ZICO)",
-      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
     },
     {
       "added_at": "2024-03-21 12:57:00",
@@ -607,34 +603,22 @@
     {
       "added_at": "2024-03-21 12:57:00",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+        "name": "Sun And Moon",
+        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
       "artists": [
         {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
-    },
-    {
-      "added_at": "2024-03-21 12:57:00",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
-      },
-      "artists": [
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
+      "duration_ms": 257631,
+      "name": "It's You (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
     },
     {
       "added_at": "2024-03-21 12:57:00",
@@ -651,6 +635,22 @@
       "duration_ms": 247173,
       "name": "Across the universe",
       "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+    },
+    {
+      "added_at": "2024-03-21 12:57:00",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2024-03-21 12:57:00",
@@ -711,6 +711,22 @@
       "duration_ms": 187089,
       "name": "Gloomy Star (feat. 1ho & Chan)",
       "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
+    },
+    {
+      "added_at": "2024-03-21 12:57:00",
+      "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 271215,
+      "name": "Popo (How deep is our love?)",
+      "url": "https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z"
     },
     {
       "added_at": "2024-03-21 12:57:00",
@@ -787,8 +803,8 @@
     {
       "added_at": "2024-03-21 12:57:00",
       "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
       },
       "artists": [
         {
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 271215,
-      "name": "Popo (How deep is our love?)",
-      "url": "https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z"
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
     },
     {
       "added_at": "2024-03-21 12:57:00",
@@ -827,42 +843,6 @@
     {
       "added_at": "2024-03-21 12:57:00",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        },
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 264052,
-      "name": "Angel (feat. TAEYEON)",
-      "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
-    },
-    {
-      "added_at": "2024-03-21 12:57:00",
-      "album": {
-        "name": "The Spring of Twenty",
-        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 190846,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf"
-    },
-    {
-      "added_at": "2024-03-21 12:57:00",
-      "album": {
         "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
         "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
@@ -883,18 +863,38 @@
     {
       "added_at": "2024-03-21 12:57:00",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+        "name": "The Spring of Twenty",
+        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+      "duration_ms": 190846,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf"
+    },
+    {
+      "added_at": "2024-03-21 12:57:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 264052,
+      "name": "Angel (feat. TAEYEON)",
+      "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
     },
     {
       "added_at": "2024-03-21 12:57:00",
@@ -919,22 +919,18 @@
     {
       "added_at": "2024-03-21 12:57:00",
       "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/6J8ozqrMlo6p3PmcTwFM6Y"
+        "name": "5\uc6d4\uc758 \ubc24 (May)",
+        "url": "https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi"
       },
       "artists": [
         {
-          "name": "DOWOON",
-          "url": "https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs"
-        },
-        {
-          "name": "Song Heejin",
-          "url": "https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 196661,
-      "name": "Out of the Blue (Duet with Song Heejin)",
-      "url": "https://open.spotify.com/track/2tsqYaAoyvZ53hUKXTrBfq"
+      "duration_ms": 196881,
+      "name": "5\uc6d4\uc758 \ubc24 (May)",
+      "url": "https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ"
     }
   ],
   "unique_name": "Dalkom Cafe",

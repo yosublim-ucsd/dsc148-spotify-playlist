@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-  "num_followers": 12753,
+  "num_followers": 12764,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDJlNzAxMDk4OGUyNjM3NWRhMmY5OWQ4YzI1NzI0NGE2Yjk1YmYx",
+  "snapshot_id": "MCw1ZGNlYTBmMDQ1MTUxOTdlMTFjMjlhMjUwYWZjOTZhMmEzNTZlOWVl",
   "tracks": [
     {
       "added_at": "2024-04-02 18:08:39",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-04-02 18:08:39",
       "album": {
-        "name": "\u98a8\u306e\u5642",
-        "url": "https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5"
-      },
-      "artists": [
-        {
-          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "\u98a8\u306e\u5642",
-      "url": "https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA"
-    },
-    {
-      "added_at": "2024-04-02 18:08:39",
-      "album": {
         "name": "\u8db3\u308a\u306a\u3044\u304f\u3089\u3044\u304c\u3061\u3087\u3046\u3069\u3044\u3044",
         "url": "https://open.spotify.com/album/3o9xBUEP8K9RCApLjEmr5b"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 155627,
       "name": "\u8db3\u308a\u306a\u3044\u304f\u3089\u3044\u304c\u3061\u3087\u3046\u3069\u3044\u3044",
       "url": "https://open.spotify.com/track/1KzqFsguec79BMBJ5eG4M6"
+    },
+    {
+      "added_at": "2024-04-02 18:08:39",
+      "album": {
+        "name": "\u98a8\u306e\u5642",
+        "url": "https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "\u98a8\u306e\u5642",
+      "url": "https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA"
     },
     {
       "added_at": "2024-04-02 18:08:39",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-04-02 18:08:39",
       "album": {
+        "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
+        "url": "https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH"
+      },
+      "artists": [
+        {
+          "name": "YUTORI-SEDAI",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+        }
+      ],
+      "duration_ms": 201140,
+      "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
+      "url": "https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk"
+    },
+    {
+      "added_at": "2024-04-02 18:08:39",
+      "album": {
         "name": "\u30a4\u30a8\u30ed\u30fc",
         "url": "https://open.spotify.com/album/0eHdWFvgTbDhrI0GImMGyA"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 319073,
       "name": "\u30a4\u30a8\u30ed\u30fc",
       "url": "https://open.spotify.com/track/7KsID2OzgAdWP4CL06pHAU"
-    },
-    {
-      "added_at": "2024-04-02 18:08:39",
-      "album": {
-        "name": "\u7fbd\u5316",
-        "url": "https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR"
-      },
-      "artists": [
-        {
-          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "\u904e\u547c\u5438\u611b",
-      "url": "https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2"
     },
     {
       "added_at": "2024-04-02 18:08:39",
@@ -1323,6 +1323,38 @@
     {
       "added_at": "2024-04-02 18:08:39",
       "album": {
+        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
+        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "FIVE",
+      "url": "https://open.spotify.com/track/22gPvcIwQOXDIxbZSxWuu7"
+    },
+    {
+      "added_at": "2024-04-02 18:08:39",
+      "album": {
+        "name": "\u7fbd\u5316",
+        "url": "https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "\u904e\u547c\u5438\u611b",
+      "url": "https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2"
+    },
+    {
+      "added_at": "2024-04-02 18:08:39",
+      "album": {
         "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
         "url": "https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1"
       },
@@ -1339,8 +1371,8 @@
     {
       "added_at": "2024-04-02 18:08:39",
       "album": {
-        "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
-        "url": "https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH"
+        "name": "\u3059\u304d\u3002",
+        "url": "https://open.spotify.com/album/1D3eDRDjd8nnhyS5LLGiUK"
       },
       "artists": [
         {
@@ -1348,25 +1380,9 @@
           "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
         }
       ],
-      "duration_ms": 201140,
-      "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
-      "url": "https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk"
-    },
-    {
-      "added_at": "2024-04-02 18:08:39",
-      "album": {
-        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
-        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "FIVE",
-      "url": "https://open.spotify.com/track/22gPvcIwQOXDIxbZSxWuu7"
+      "duration_ms": 188733,
+      "name": "\u3059\u304d\u3002",
+      "url": "https://open.spotify.com/track/3AxjdcjAKcidO2oUApgVsd"
     },
     {
       "added_at": "2024-04-02 18:08:39",
@@ -1415,22 +1431,6 @@
       "duration_ms": 277800,
       "name": "\u559c\u6012\u54c0\u697d",
       "url": "https://open.spotify.com/track/3jRp2IETgPfv44mIUUEiKf"
-    },
-    {
-      "added_at": "2024-04-02 18:08:39",
-      "album": {
-        "name": "\u3059\u304d\u3002",
-        "url": "https://open.spotify.com/album/1D3eDRDjd8nnhyS5LLGiUK"
-      },
-      "artists": [
-        {
-          "name": "YUTORI-SEDAI",
-          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
-        }
-      ],
-      "duration_ms": 188733,
-      "name": "\u3059\u304d\u3002",
-      "url": "https://open.spotify.com/track/3AxjdcjAKcidO2oUApgVsd"
     },
     {
       "added_at": "2024-04-02 18:08:39",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-04-02 18:08:39",
       "album": {
-        "name": "\u30cf\u30ed\u30fc\u30fb\u30b0\u30c3\u30c9\u30d0\u30a4 - EP",
-        "url": "https://open.spotify.com/album/6s2g4Wz0f21TY7FJF4709H"
-      },
-      "artists": [
-        {
-          "name": "Teikokukissa",
-          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
-        }
-      ],
-      "duration_ms": 219899,
-      "name": "\u3055\u3088\u306a\u3089\u3088\u308a\u9060\u3044\u3069\u3053\u304b\u3078",
-      "url": "https://open.spotify.com/track/6hsG3pTwhHGo0MaA88bgx8"
-    },
-    {
-      "added_at": "2024-04-02 18:08:39",
-      "album": {
         "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
         "url": "https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 194813,
       "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365"
+    },
+    {
+      "added_at": "2024-04-02 18:08:39",
+      "album": {
+        "name": "\u30cf\u30ed\u30fc\u30fb\u30b0\u30c3\u30c9\u30d0\u30a4 - EP",
+        "url": "https://open.spotify.com/album/6s2g4Wz0f21TY7FJF4709H"
+      },
+      "artists": [
+        {
+          "name": "Teikokukissa",
+          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
+        }
+      ],
+      "duration_ms": 219899,
+      "name": "\u3055\u3088\u306a\u3089\u3088\u308a\u9060\u3044\u3069\u3053\u304b\u3078",
+      "url": "https://open.spotify.com/track/6hsG3pTwhHGo0MaA88bgx8"
     },
     {
       "added_at": "2024-04-02 18:08:39",

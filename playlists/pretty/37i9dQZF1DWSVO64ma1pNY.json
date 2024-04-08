@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296632,
+  "num_followers": 296648,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzQwNDc1MGU3ZTRkMzc0NTQ0MGFkOTZiMGEzYzk1OTFiY2Y2MDIy",
+  "snapshot_id": "MCw1NGFlMDY4NTc4ZmM1MDFiMWExYmY0YzgxNGY4MThhYTNlMTVlYzI2",
   "tracks": [
     {
       "added_at": "2024-03-06 16:30:36",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Don't Stay",
-      "url": "https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 199253,
       "name": "Why Worry",
       "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut"
     },
     {
       "added_at": "2024-03-06 16:30:36",

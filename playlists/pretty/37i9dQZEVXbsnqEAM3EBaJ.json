@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MzgxMDAsMDAwMDAwMDA2OTVjYjlmYTM5OWUwODliNmMyZTY1YTY1NzA0YmViNA==",
+  "snapshot_id": "Mjg1MzgxMDAsMDAwMDAwMDA2MTlkYTAzNzM4Y2U1OWE3MjJiMzFkODdkMWNhOThjZg==",
   "tracks": [
     {
       "added_at": "2024-04-05 03:00:00",
@@ -20,29 +20,9 @@
           "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
         }
       ],
-      "duration_ms": 1202155,
-      "name": "Heaven And Hell - Live 1983",
-      "url": "https://open.spotify.com/track/0wI2hXk97kuIMcEgTIPQ1j"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "Gone 2 Long (Pete Hammond Hi-NRG Remix)",
-        "url": "https://open.spotify.com/album/2jtVLsikbURUSKJRoGhBl3"
-      },
-      "artists": [
-        {
-          "name": "Dead Or Alive",
-          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
-        },
-        {
-          "name": "Pete Hammond",
-          "url": "https://open.spotify.com/artist/0LYfg5xv5IpmpOTEn2B0Ql"
-        }
-      ],
-      "duration_ms": 493030,
-      "name": "Gone 2 Long - Pete Hammond Hi-NRG Remix",
-      "url": "https://open.spotify.com/track/0OBvf9StzZ72I9gf25Ugn5"
+      "duration_ms": 640287,
+      "name": "Holy Diver - Live 1983",
+      "url": "https://open.spotify.com/track/45fByU34ICfj1vbxgII7A6"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -75,6 +55,26 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "Gone 2 Long (Pete Hammond Hi-NRG Remix)",
+        "url": "https://open.spotify.com/album/2jtVLsikbURUSKJRoGhBl3"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        },
+        {
+          "name": "Pete Hammond",
+          "url": "https://open.spotify.com/artist/0LYfg5xv5IpmpOTEn2B0Ql"
+        }
+      ],
+      "duration_ms": 493030,
+      "name": "Gone 2 Long - Pete Hammond Hi-NRG Remix",
+      "url": "https://open.spotify.com/track/0OBvf9StzZ72I9gf25Ugn5"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "The Unforgiven II",
         "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
       },
@@ -91,18 +91,18 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Under My Umbrella",
-        "url": "https://open.spotify.com/album/4ZF7L3zqI5zHSUcxZ5fkxy"
+        "name": "Besar",
+        "url": "https://open.spotify.com/album/4yi3wXhft1ZSKwjtcPBBn2"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Under My Umbrella",
-      "url": "https://open.spotify.com/track/1rCGgMWxlCsgpuu17ufTdX"
+      "duration_ms": 205893,
+      "name": "Besar",
+      "url": "https://open.spotify.com/track/6h4TezY1CEQGGJPYyT7RzV"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -127,38 +127,18 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Besar",
-        "url": "https://open.spotify.com/album/4yi3wXhft1ZSKwjtcPBBn2"
+        "name": "Under My Umbrella",
+        "url": "https://open.spotify.com/album/4ZF7L3zqI5zHSUcxZ5fkxy"
       },
       "artists": [
         {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 205893,
-      "name": "Besar",
-      "url": "https://open.spotify.com/track/6h4TezY1CEQGGJPYyT7RzV"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "Southern Hostility",
-        "url": "https://open.spotify.com/album/5q24cunZhuYVqbCLp1F01Q"
-      },
-      "artists": [
-        {
-          "name": "Filth",
-          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
-        },
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 194775,
-      "name": "Play Dead",
-      "url": "https://open.spotify.com/track/11CCwCjixBQpz4I1pFBjfP"
+      "duration_ms": 220973,
+      "name": "Under My Umbrella",
+      "url": "https://open.spotify.com/track/1rCGgMWxlCsgpuu17ufTdX"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -199,46 +179,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/3LX2JhMQanwcOe4Bu81gl0"
+        "name": "Southern Hostility",
+        "url": "https://open.spotify.com/album/5q24cunZhuYVqbCLp1F01Q"
       },
       "artists": [
         {
-          "name": "Scary Kids Scaring Kids",
-          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+          "name": "Filth",
+          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
         },
         {
-          "name": "Rat Park",
-          "url": "https://open.spotify.com/artist/3HltfqsiDmqwrvNWGwco9K"
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
         }
       ],
-      "duration_ms": 194375,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/1UU3Rz7R3htJ1W636jxzKd"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/4jWbZGm0Sa0F2joWL2aDKJ"
-      },
-      "artists": [
-        {
-          "name": "Valor",
-          "url": "https://open.spotify.com/artist/1ey7wGRj30HEfBJrsJ4yhF"
-        },
-        {
-          "name": "Mark Holcomb",
-          "url": "https://open.spotify.com/artist/04RVlXizrnATIdNw4tRywd"
-        },
-        {
-          "name": "Periphery",
-          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Purgatory",
-      "url": "https://open.spotify.com/track/0yOeEBHL5tgsjgk1bpdAWs"
+      "duration_ms": 194775,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/11CCwCjixBQpz4I1pFBjfP"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -275,6 +231,50 @@
       "duration_ms": 378806,
       "name": "United States Of Division",
       "url": "https://open.spotify.com/track/42IywCSd29OYc49Nfpxzcb"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/4jWbZGm0Sa0F2joWL2aDKJ"
+      },
+      "artists": [
+        {
+          "name": "Valor",
+          "url": "https://open.spotify.com/artist/1ey7wGRj30HEfBJrsJ4yhF"
+        },
+        {
+          "name": "Mark Holcomb",
+          "url": "https://open.spotify.com/artist/04RVlXizrnATIdNw4tRywd"
+        },
+        {
+          "name": "Periphery",
+          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Purgatory",
+      "url": "https://open.spotify.com/track/0yOeEBHL5tgsjgk1bpdAWs"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/3LX2JhMQanwcOe4Bu81gl0"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        },
+        {
+          "name": "Rat Park",
+          "url": "https://open.spotify.com/artist/3HltfqsiDmqwrvNWGwco9K"
+        }
+      ],
+      "duration_ms": 194375,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/1UU3Rz7R3htJ1W636jxzKd"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Machine Head (Remix 2024 / Remaster 2024)",
-        "url": "https://open.spotify.com/album/1PYl2uQNd51wwrEVsjEgg1"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 370160,
-      "name": "Highway Star - 2024 Remix",
-      "url": "https://open.spotify.com/track/79iqhAauL0vjOXtZvf0Hy5"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
         "name": "Ese Lugar de Ninguna Parte",
         "url": "https://open.spotify.com/album/5dqPE0OJqJ37nEXMIj1eTI"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "Machine Head (Remix 2024 / Remaster 2024)",
+        "url": "https://open.spotify.com/album/1PYl2uQNd51wwrEVsjEgg1"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 370160,
+      "name": "Highway Star - 2024 Remix",
+      "url": "https://open.spotify.com/track/79iqhAauL0vjOXtZvf0Hy5"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "Hasta La Verdad / Esquemas Juveniles (En Vivo en Teatro Municipal)",
         "url": "https://open.spotify.com/album/3awhJRhSGf7W1l4hh9NePi"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 223967,
       "name": "Esquemas Juveniles - En Vivo en Teatro Municipal",
       "url": "https://open.spotify.com/track/216rA2DznHEIi60e9NUG1t"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "B Sides and C Sides",
-        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 116893,
-      "name": "Just A Feeling",
-      "url": "https://open.spotify.com/track/1T0l7luhYfoOoGRKDD4X5P"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -463,6 +447,22 @@
       "duration_ms": 232603,
       "name": "Save Me (Feat. Sanne Mieloo & Charlotte Wessels)",
       "url": "https://open.spotify.com/track/2jU82yk8trZmHit4jn4zK1"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 116893,
+      "name": "Just A Feeling",
+      "url": "https://open.spotify.com/track/1T0l7luhYfoOoGRKDD4X5P"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "Sleepers / Translating The Name (Live)",
+        "url": "https://open.spotify.com/album/1YZ7UDGuD8tJdkkhXpChdU"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "Translating The Name - Live",
+      "url": "https://open.spotify.com/track/4XLbTgRVximzSiiUYxCtxW"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "GALA Y DAL\u00cd",
         "url": "https://open.spotify.com/album/6Pwm0aU0x9kKrt3doES2tc"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Sleepers / Translating The Name (Live)",
-        "url": "https://open.spotify.com/album/1YZ7UDGuD8tJdkkhXpChdU"
+        "name": "Zig Zag",
+        "url": "https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z"
       },
       "artists": [
         {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         }
       ],
-      "duration_ms": 226005,
-      "name": "Translating The Name - Live",
-      "url": "https://open.spotify.com/track/4XLbTgRVximzSiiUYxCtxW"
+      "duration_ms": 254285,
+      "name": "Zig Zag",
+      "url": "https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -567,22 +583,6 @@
       "duration_ms": 159142,
       "name": "S\u2019old (Acoustic)",
       "url": "https://open.spotify.com/track/3K3piObEj9QrcJq1kFuhgY"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "Zig Zag",
-        "url": "https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 254285,
-      "name": "Zig Zag",
-      "url": "https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "LIES WE TELL OURSELVES",
-        "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "LIES WE TELL OURSELVES",
-      "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
         "name": "No Se Vende Este \u00c1lbum",
         "url": "https://open.spotify.com/album/4gRU0Nhf2f4sYl8hFyKvq2"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 213481,
       "name": "Un Mundo Roto",
       "url": "https://open.spotify.com/track/5bufeKl3PAMGbpleSEi3IY"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "LIES WE TELL OURSELVES",
+        "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "LIES WE TELL OURSELVES",
+      "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "What About The Children",
+        "url": "https://open.spotify.com/album/3GRDspM8YHRS8P5ci5n2nx"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 279359,
+      "name": "What About The Children",
+      "url": "https://open.spotify.com/track/1H3ZNotB3Z6kQBcMovZwPX"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "Freefall",
         "url": "https://open.spotify.com/album/1KvZxJl5SCOf7Yqc2qo7c7"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 365737,
       "name": "Faster Than the Speed of Night - Single Edit [Live]",
       "url": "https://open.spotify.com/track/2kNTF2pFrtu3ooyL0vF3R4"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "What About The Children",
-        "url": "https://open.spotify.com/album/3GRDspM8YHRS8P5ci5n2nx"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 279359,
-      "name": "What About The Children",
-      "url": "https://open.spotify.com/track/1H3ZNotB3Z6kQBcMovZwPX"
     },
     {
       "added_at": "2024-04-05 03:00:00",

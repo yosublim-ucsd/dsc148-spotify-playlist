@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: CPM 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,595 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,602 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [E Foi Assim](https://open.spotify.com/track/7elsjWBo5jzqJQ3SLePYBj) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [E Foi Assim](https://open.spotify.com/album/35I7xwlS2UKao7pU9GSQt0) | 2:17 |
 | 75 | [Nossa Amizade](https://open.spotify.com/track/3OiDED20S9xhjGL0TZ6mb5) | [Anima Mea](https://open.spotify.com/artist/5Cu2zpWPt83iBOsNBdgvOI) | [Nossa Amizade](https://open.spotify.com/album/4ZTbVtTCuViTg5bG7v6N3J) | 3:17 |
 
-Snapshot ID: `MCwxZDZhMTZhMzQ0ZWI5MzU3MWE3ODUwMjZmOGZiMGFmY2IwYmY3OWNj`
+Snapshot ID: `MCwyZDJiMmYzMzk3ZTRkYmIzMDMzM2Y5YzE3YjExNDQ2MDZmMTdmZGUw`

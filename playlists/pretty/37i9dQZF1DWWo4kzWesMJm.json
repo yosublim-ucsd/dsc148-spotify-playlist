@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 151634,
+  "num_followers": 151894,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzRkYTc3MGIwM2ZlNGJlNTY0MGVlYzg0ZmViNTY2Njk4Nzg0NzM0",
+  "snapshot_id": "MCwwNmE3NDFiMDI2ZTE0Y2Q3Y2YwYTM1YWI2ZjYxMmFkOWU4MGI4MTMz",
   "tracks": [
     {
       "added_at": "2024-03-11 10:01:59",
@@ -311,26 +311,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Cats On Trees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
-      },
-      "artists": [
-        {
-          "name": "Cats On Trees",
-          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
-        },
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 176618,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 180745,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Cats On Trees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
+      },
+      "artists": [
+        {
+          "name": "Cats On Trees",
+          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
+        },
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 176618,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Sacha Distel: Crooner",
-        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
-      },
-      "artists": [
-        {
-          "name": "Sacha Distel",
-          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
-        }
-      ],
-      "duration_ms": 123053,
-      "name": "La belle vie",
-      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "D\u00e9cembre en \u00e9t\u00e9",
         "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 185065,
       "name": "L'ind\u00e9cision",
       "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Sacha Distel: Crooner",
+        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
+      },
+      "artists": [
+        {
+          "name": "Sacha Distel",
+          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
+        }
+      ],
+      "duration_ms": 123053,
+      "name": "La belle vie",
+      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "La vitesse",
+        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
+      },
+      "artists": [
+        {
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Mon c\u0153ur",
+      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "Cach\u00e9 derri\u00e8re",
         "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "La vitesse",
-        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
+        "name": "la derniere annee",
+        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
       "artists": [
         {
-          "name": "Iz\u00efa",
-          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
         }
       ],
-      "duration_ms": 198973,
-      "name": "Mon c\u0153ur",
-      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
+      "duration_ms": 221666,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -823,22 +839,6 @@
       "duration_ms": 232440,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "la derniere annee",
-        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
-      },
-      "artists": [
-        {
-          "name": "De Palmas",
-          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Histoires de",
-        "url": "https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG"
+        "name": "Je sais pas si \u00e7a va",
+        "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
       },
       "artists": [
         {
-          "name": "Myl\u00e8ne Farmer",
-          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
         }
       ],
-      "duration_ms": 256693,
-      "name": "C'est une belle journ\u00e9e",
-      "url": "https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX"
+      "duration_ms": 166293,
+      "name": "Mal barr\u00e9",
+      "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Je sais pas si \u00e7a va",
-        "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
+        "name": "Histoires de",
+        "url": "https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG"
       },
       "artists": [
         {
-          "name": "Marie-Flore",
-          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
         }
       ],
-      "duration_ms": 166293,
-      "name": "Mal barr\u00e9",
-      "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
+      "duration_ms": 256693,
+      "name": "C'est une belle journ\u00e9e",
+      "url": "https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "La recette",
-        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        }
-      ],
-      "duration_ms": 197691,
-      "name": "La recette",
-      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Repenti",
         "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 215813,
       "name": "Les voisines",
       "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "La recette",
+        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "duration_ms": 197691,
+      "name": "La recette",
+      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Osez Josephine",
         "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
       },
@@ -1107,6 +1091,38 @@
       "duration_ms": 178173,
       "name": "Osez Jos\u00e9phine",
       "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1127,22 +1143,6 @@
       "duration_ms": 217186,
       "name": "Mourir demain",
       "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
-      },
-      "artists": [
-        {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Meilleurs souvenirs - Best Of",
-        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
+        "name": "Tout savoir",
+        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
       },
       "artists": [
         {
-          "name": "Les Innocents",
-          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
         }
       ],
-      "duration_ms": 249666,
-      "name": "L'autre finist\u00e8re",
-      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
+      "duration_ms": 196506,
+      "name": "Tout savoir",
+      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
     }
   ],
   "unique_name": "Bleu Blanc Route",

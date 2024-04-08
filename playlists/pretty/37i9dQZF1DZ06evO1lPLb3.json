@@ -1,13 +1,29 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 43537,
+  "num_followers": 43586,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2Y5Njg5NTUyZWQ4OTMyNTRlMjQzMTMzY2Y3ZThjNjk4YjdiOTNl",
+  "snapshot_id": "MCxkZDY5OWU5ZjgyZWUxY2M5NDVmM2MxZDEzZDA0NzhhYTlkOTQ4YmQy",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+    },
     {
       "added_at": null,
       "album": {

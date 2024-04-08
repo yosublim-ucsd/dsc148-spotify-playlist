@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,012 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,124 likes - 174 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MCw2MWVhNDQ5MjEwMTQ0NjEzNmVkZTI1ZTZhYWI4NjJiNWFlMTZmZTNj`
+Snapshot ID: `MCw1MDk1OWU5MGEwMWMxYzMxMWI1NDg2Yjc0MjMyODcwYjlkYTJjMmQz`

@@ -821,6 +821,28 @@
     },
     {
       "album": {
+        "name": "Professionalism",
+        "url": "https://open.spotify.com/album/7FXCeryLiLzxMIRVrFNIt1"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Hannya",
+          "url": "https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292866,
+      "name": "Professionalism",
+      "url": "https://open.spotify.com/track/7K3oYLroJb1bK9qW2YiK4j"
+    },
+    {
+      "album": {
         "name": "SHOW TIME",
         "url": "https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw"
       },

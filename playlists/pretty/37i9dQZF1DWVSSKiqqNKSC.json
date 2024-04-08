@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 241670,
+  "num_followers": 241794,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjNjYjVjOGZiYWQ1OTRjYWI5OTcyODk3M2ZmZWE2YTc0MjIwNzVm",
+  "snapshot_id": "MCxlZjA0ZDk4M2JmZWUyNjI5NWQ2MWI4Yjg4MmM1YWRiOTYwZTNlMzlk",
   "tracks": [
     {
       "added_at": "2024-03-19 14:46:33",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Los Campeones De La Salsa",
+      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
         "name": "Me Dicen Cuba / Rosa la Peligrosa",
         "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 298374,
       "name": "Me Dicen Cuba",
       "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Los Campeones De La Salsa",
-      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
     },
     {
       "added_at": "2024-03-19 14:46:33",

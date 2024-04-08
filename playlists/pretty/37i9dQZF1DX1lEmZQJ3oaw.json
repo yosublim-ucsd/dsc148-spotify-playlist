@@ -1,13 +1,377 @@
 {
   "description": "Best of Jazz music from Bollywood. Cover - A R Rahman",
-  "num_followers": 37362,
+  "num_followers": 37403,
   "original_name": "Bollywood Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGIxMjljYTVkZmM4ZDMxZjNhYWVlNzViYTZmMTc3YzkwM2VkY2Rj",
+  "snapshot_id": "MCw2ZmI2M2JjMTIyMWYwNDgxMjgwYWYxMTFlZWRlYTc0MzVhMWU4NzNi",
   "tracks": [
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Talaash",
+        "url": "https://open.spotify.com/album/7ASasKA02nhm5nI7tlZNjQ"
+      },
+      "artists": [
+        {
+          "name": "Suman Sridhar",
+          "url": "https://open.spotify.com/artist/6swk5jDsD7ahHLnUOioVfq"
+        }
+      ],
+      "duration_ms": 197914,
+      "name": "Muskaanein Jhooti Hai",
+      "url": "https://open.spotify.com/track/6LX6modQsxnBouh7yZT6qx"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Murder (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5LgQDhI9gMBEiH2YJhByxz"
+      },
+      "artists": [
+        {
+          "name": "Alisha Chinai",
+          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "duration_ms": 334162,
+      "name": "Dil Ko Hazar Bar - From \"Murder\"",
+      "url": "https://open.spotify.com/track/0vjHodY8Gqt7rAs8kPIfMd"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Bhola Bhala Baby (From \"Murder Mubarak\")",
+        "url": "https://open.spotify.com/album/4uucsIPMPcEtDqCIkFqijB"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "duration_ms": 233991,
+      "name": "Bhola Bhala Baby - From \"Murder Mubarak\"",
+      "url": "https://open.spotify.com/track/69GPJv1vz7Z6dWcyDuVQVt"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "7 Khoon Maaf (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5KeZZK7MItXn4A5SNwock7"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+        },
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/6z3p3Gm5FOH1n22ummzEh7"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Ek Main Aur Ekk Tu",
+        "url": "https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq"
+      },
+      "artists": [
+        {
+          "name": "Ash King",
+          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
+        },
+        {
+          "name": "Neuman Pinto",
+          "url": "https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6"
+        },
+        {
+          "name": "Bianca Gomes",
+          "url": "https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T"
+        }
+      ],
+      "duration_ms": 274784,
+      "name": "Aunty Ji",
+      "url": "https://open.spotify.com/track/0e5STSwtLEXKN4ygFYydJd"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Honeymoon Travels Pvt. Ltd.",
+        "url": "https://open.spotify.com/album/4OkX72Pbnh40SH9Rib11tD"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Gayatri Iyer",
+          "url": "https://open.spotify.com/artist/6dgPKPKtpOXxPpMe8STn1N"
+        }
+      ],
+      "duration_ms": 328093,
+      "name": "Pyaar Ki Yeh Kahani",
+      "url": "https://open.spotify.com/track/7cRyUMxmpNGbWG9xpDoPn5"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Dil Dhadakne Do",
+        "url": "https://open.spotify.com/album/0ZRVDoVuEiOxJLVTSpNFk6"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "duration_ms": 243165,
+      "name": "Girls Like To Swing",
+      "url": "https://open.spotify.com/track/5JlZLXvZBEFD9u8OoJq6Yh"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Guzaarish",
+        "url": "https://open.spotify.com/album/5aNyDyemGpcaJGMuLvUife"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Shail Hada",
+          "url": "https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC"
+        }
+      ],
+      "duration_ms": 201471,
+      "name": "Udi",
+      "url": "https://open.spotify.com/track/3B5pWnmR739mZFh4eVdFla"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Shaitan",
+        "url": "https://open.spotify.com/album/4cn69YpvoKVFW5bzEkpiOU"
+      },
+      "artists": [
+        {
+          "name": "Suman Sridhar",
+          "url": "https://open.spotify.com/artist/6swk5jDsD7ahHLnUOioVfq"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Hawa Hawai",
+      "url": "https://open.spotify.com/track/6B0RSaHnLZidlE2w3AjQfO"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Thank You for Coming (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ"
+      },
+      "artists": [
+        {
+          "name": "Devashri Manohar",
+          "url": "https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1"
+        },
+        {
+          "name": "Rajesh Johri",
+          "url": "https://open.spotify.com/artist/4Jl8jq6OJfgIj896dVWVn2"
+        }
+      ],
+      "duration_ms": 101319,
+      "name": "Pari Hoon Main (Jazz Version)",
+      "url": "https://open.spotify.com/track/5GBG8qe6XDkw19QULbZWMK"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Fifi - Jata Kahan Hai Deewane (From \"Bombay Velvet\") - Single",
+        "url": "https://open.spotify.com/album/4bZRXfYeUiTSaqXGd8omp2"
+      },
+      "artists": [
+        {
+          "name": "Suman Sridhar",
+          "url": "https://open.spotify.com/artist/6swk5jDsD7ahHLnUOioVfq"
+        }
+      ],
+      "duration_ms": 196609,
+      "name": "Fifi - Jata Kahan Hai Deewane (From \"Bombay Velvet\")",
+      "url": "https://open.spotify.com/track/1f7l6tzcBAU9CPvYBBBdBS"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Ghajini",
+        "url": "https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 311057,
+      "name": "Behka",
+      "url": "https://open.spotify.com/track/0prCd0oIexRBiok6kBOeLp"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Break Ke Baad",
+        "url": "https://open.spotify.com/album/3R2nfXGgY4PD6kf52GeEzc"
+      },
+      "artists": [
+        {
+          "name": "Monica Dogra",
+          "url": "https://open.spotify.com/artist/39EjzNKNNzzSvtyHJHzFSV"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "duration_ms": 249242,
+      "name": "Dooriyan Hain Zaroori",
+      "url": "https://open.spotify.com/track/0VgggdMuIsDLjOlEFS6WQU"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Eena Meena Deeka (From \"Shaandaar\") - Single",
+        "url": "https://open.spotify.com/album/1aMfxfSwXG0mWaWKV7LYPO"
+      },
+      "artists": [
+        {
+          "name": "Rachel Varghese",
+          "url": "https://open.spotify.com/artist/2ze4daRTNBfPdpZJnIACef"
+        }
+      ],
+      "duration_ms": 186272,
+      "name": "Eena Meena Deeka (From \"Shaandaar\")",
+      "url": "https://open.spotify.com/track/3zlkrizG30ZqCDfeTO57Vb"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Delhi-6",
+        "url": "https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "duration_ms": 409274,
+      "name": "Rehna Tu",
+      "url": "https://open.spotify.com/track/5RZbS87YI2wd87SWuO0YAX"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Jaane Tu... Ya Jaane Na",
+        "url": "https://open.spotify.com/album/7J5iE51Mk97Mf0BjjwYXUZ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Tu Bole .Main Boloon",
+      "url": "https://open.spotify.com/track/73m0ROzv1B86iNvuo8rh8z"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Gangubai Kathiawadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "duration_ms": 238103,
+      "name": "Meri Jaan",
+      "url": "https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Dear Zindagi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 278238,
+      "name": "Taarefon Se",
+      "url": "https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Rock On",
+        "url": "https://open.spotify.com/album/43Fh1hMumKDCcax2JOWEmR"
+      },
+      "artists": [
+        {
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/4iKhzZlW5dpmbF2LWnNlPr"
+        }
+      ],
+      "duration_ms": 324057,
+      "name": "Ye Tumhari Meri Baatein",
+      "url": "https://open.spotify.com/track/1xaj4bm3GMthtoZHUfepl1"
+    },
+    {
+      "added_at": "2024-03-13 04:16:41",
+      "album": {
+        "name": "Yeh Raat Yeh Chandni - MTV Unwind - Single",
+        "url": "https://open.spotify.com/album/4QyWUvanlMbR4ytjDOBbhL"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "duration_ms": 230663,
+      "name": "Yeh Raat Yeh Chandni - MTV Unwind",
+      "url": "https://open.spotify.com/track/7tWcgBy0KmYWjInHYrLInN"
+    },
     {
       "added_at": "2024-03-13 04:16:41",
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 255138,
+  "2024-04-08": 255161,
   "date_first_scraped": "2021-12-21",
   "description": "Fresh takes on that high lonesome sound. Cover: Sierra Ferrell",
   "name": "Indie Bluegrass",
@@ -2674,6 +2674,24 @@
     },
     {
       "album": {
+        "name": "Homesick for Virginia",
+        "url": "https://open.spotify.com/album/7bKzaaGIKW0RhHMVgUlLil"
+      },
+      "artists": [
+        {
+          "name": "Liam Purcell & Cane Mill Road",
+          "url": "https://open.spotify.com/artist/3Zdda3wic9zbMrYwKDcDBV"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134133,
+      "name": "Homesick for Virginia",
+      "url": "https://open.spotify.com/track/7m8LF6U3aa7jH6f7jULYBU"
+    },
+    {
+      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -2689,6 +2707,24 @@
       "duration_ms": 180240,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+    },
+    {
+      "album": {
+        "name": "Honey & Cinnamon",
+        "url": "https://open.spotify.com/album/377OoOZTTTuXxkMxPpNt0f"
+      },
+      "artists": [
+        {
+          "name": "George William Thomas",
+          "url": "https://open.spotify.com/artist/4AGIlngJOEQHDALpn2VotA"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222072,
+      "name": "Honey & Cinnamon",
+      "url": "https://open.spotify.com/track/4RGUfZNhjyNeQI6qgtxLDE"
     },
     {
       "album": {
@@ -2797,6 +2833,36 @@
       "duration_ms": 289240,
       "name": "How Long",
       "url": "https://open.spotify.com/track/62Y0ujNxDSwplJU2locl1E"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/1yOiLeaU6WhoODolHNzXKa"
+      },
+      "artists": [
+        {
+          "name": "Eli Waltz",
+          "url": "https://open.spotify.com/artist/009jvUML9QGYMzYNAqbHDV"
+        },
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Jon Notar",
+          "url": "https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX"
+        },
+        {
+          "name": "Hannah Wyatt",
+          "url": "https://open.spotify.com/artist/4y0H8rJ0yFMp7L0o9aWVMP"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/3l4WkITpO5BerAC0pHBa6C"
     },
     {
       "album": {
@@ -5135,7 +5201,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 257573,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/0QeflzeEU43UcWP6vNeCFp"
@@ -6055,6 +6121,28 @@
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
+    },
+    {
+      "album": {
+        "name": "The Crow and The Raven (III)",
+        "url": "https://open.spotify.com/album/4UUIZjLtkjxMEeCAH8d3Cu"
+      },
+      "artists": [
+        {
+          "name": "Kitchen Dwellers",
+          "url": "https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31"
+        },
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352814,
+      "name": "The Crow and The Raven (III)",
+      "url": "https://open.spotify.com/track/23ET0QBqjrlDjxau5lf8Hx"
     },
     {
       "album": {
@@ -7329,6 +7417,24 @@
       "duration_ms": 238000,
       "name": "With the Tide",
       "url": "https://open.spotify.com/track/4N3fdgQr6zHbEdP8nvD2jP"
+    },
+    {
+      "album": {
+        "name": "Woman of God",
+        "url": "https://open.spotify.com/album/4imsdVu8PXiir1vnGc99JL"
+      },
+      "artists": [
+        {
+          "name": "The Montvales",
+          "url": "https://open.spotify.com/artist/0FYazSWo7TGjPJz0Jz4O9t"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186169,
+      "name": "Woman of God",
+      "url": "https://open.spotify.com/track/0U5fYsxg8idzi3XhS3nCqK"
     },
     {
       "album": {

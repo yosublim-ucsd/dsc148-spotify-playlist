@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Elsa y Elmar.",
-  "num_followers": 122936,
+  "num_followers": 122962,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2QzNzU1OWYxZTQyYjk2Zjg4OTYyY2M0MWRhM2EwMGFkNzJjNzE3",
+  "snapshot_id": "MCwzMWJhZTgxODE3ZmQwYTQ4OGI5MzQxMDU4ODZmOTAxZGQ0NDUwMWMy",
   "tracks": [
     {
       "added_at": "2024-04-05 13:57:27",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "papel de fumar",
-        "url": "https://open.spotify.com/album/16MEYDdZd4HA04KPmf2SBo"
-      },
-      "artists": [
-        {
-          "name": "Candela G\u00f3mez",
-          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
-        }
-      ],
-      "duration_ms": 219143,
-      "name": "papel de fumar",
-      "url": "https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "TANDA",
         "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
@@ -539,22 +523,18 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
+        "name": "papel de fumar",
+        "url": "https://open.spotify.com/album/16MEYDdZd4HA04KPmf2SBo"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        },
-        {
-          "name": "Ernesto Snajer",
-          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
         }
       ],
-      "duration_ms": 181798,
-      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
-      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
+      "duration_ms": 219143,
+      "name": "papel de fumar",
+      "url": "https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -575,6 +555,26 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        },
+        {
+          "name": "Ernesto Snajer",
+          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
+        }
+      ],
+      "duration_ms": 181798,
+      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
+      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/07lKXcTObjoJTSbZ3ja38O"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Ainoa Buitrago",
-          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 171744,
-      "name": "23",
-      "url": "https://open.spotify.com/track/3en9r8oxZAF08fshqAaswq"
+      "duration_ms": 290250,
+      "name": "Tratar\u00e9",
+      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+        "name": "23",
+        "url": "https://open.spotify.com/album/07lKXcTObjoJTSbZ3ja38O"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "Ainoa Buitrago",
+          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
         }
       ],
-      "duration_ms": 290250,
-      "name": "Tratar\u00e9",
-      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
+      "duration_ms": 171744,
+      "name": "23",
+      "url": "https://open.spotify.com/track/3en9r8oxZAF08fshqAaswq"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+        "name": "Qui\u00e9n Lo Dir\u00eda",
+        "url": "https://open.spotify.com/album/47v626dipoxlz7BCMgum3Q"
       },
       "artists": [
         {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
         }
       ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+      "duration_ms": 197144,
+      "name": "Qui\u00e9n Lo Dir\u00eda",
+      "url": "https://open.spotify.com/track/0v6BKaRYR08RgEmyZigUKf"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
         "name": "Rumba en Cahuita",
         "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
       },
@@ -1055,6 +1071,22 @@
       "duration_ms": 167752,
       "name": "Rumba en Cahuita",
       "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1075,22 +1107,6 @@
       "duration_ms": 122821,
       "name": "Despi\u00e9rtame Cuando Llegues",
       "url": "https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1127,22 +1143,22 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Continuar",
-        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
       "artists": [
         {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
         },
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 157928,
-      "name": "Continuar",
-      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1167,22 +1183,22 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Mundo Nuevo",
-        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
+        "name": "Continuar",
+        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
       "artists": [
         {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
         },
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 201346,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+      "duration_ms": 157928,
+      "name": "Continuar",
+      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Qui\u00e9n Lo Dir\u00eda",
-        "url": "https://open.spotify.com/album/47v626dipoxlz7BCMgum3Q"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 197144,
-      "name": "Qui\u00e9n Lo Dir\u00eda",
-      "url": "https://open.spotify.com/track/0v6BKaRYR08RgEmyZigUKf"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "El siglo del loro",
         "url": "https://open.spotify.com/album/1p9J4Gk71sOHPFeEmJYVvP"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Asesina",
-        "url": "https://open.spotify.com/album/19rufpTetxXAnNTU0BeLYS"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/1oTv4yrhxmIEJNc31vv4db"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 219681,
       "name": "poquito",
       "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/19rufpTetxXAnNTU0BeLYS"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/1oTv4yrhxmIEJNc31vv4db"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "La Serrana",
-        "url": "https://open.spotify.com/album/5l0f2RgDat84Z7xWUM5zgS"
-      },
-      "artists": [
-        {
-          "name": "Karmento",
-          "url": "https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF"
-        }
-      ],
-      "duration_ms": 265015,
-      "name": "La Serrana",
-      "url": "https://open.spotify.com/track/01h6ipg9kKVRfBpTywnKhb"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "Sana sana",
         "url": "https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ"
       },
@@ -1511,6 +1495,42 @@
       "duration_ms": 302976,
       "name": "Sana sana",
       "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "San Nosotros",
+        "url": "https://open.spotify.com/album/0Du489jVeI92AyatEtdmYm"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00edlopez",
+          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
+        },
+        {
+          "name": "David Parejo",
+          "url": "https://open.spotify.com/artist/4asbNH05UWkBskErFyBC1x"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "San Nosotros",
+      "url": "https://open.spotify.com/track/0I120QSj7hSLvHqd5x57r3"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "La Serrana",
+        "url": "https://open.spotify.com/album/5l0f2RgDat84Z7xWUM5zgS"
+      },
+      "artists": [
+        {
+          "name": "Karmento",
+          "url": "https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF"
+        }
+      ],
+      "duration_ms": 265015,
+      "name": "La Serrana",
+      "url": "https://open.spotify.com/track/01h6ipg9kKVRfBpTywnKhb"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1715,26 +1735,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "De Mi Pena Nacen Flores",
-        "url": "https://open.spotify.com/album/14AlQbVJZBcPehbS4Ud8Xx"
-      },
-      "artists": [
-        {
-          "name": "Moreira",
-          "url": "https://open.spotify.com/artist/7oprBrcyjELdAALY8hK9pr"
-        },
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 241300,
-      "name": "Como la Primavera",
-      "url": "https://open.spotify.com/track/5C2VTZ3VN8xE04UViMEavj"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "Resalada",
         "url": "https://open.spotify.com/album/4BiDgfahVGuGbUdMPMxLeY"
       },
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "San Nosotros",
-        "url": "https://open.spotify.com/album/0Du489jVeI92AyatEtdmYm"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00edlopez",
-          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
-        },
-        {
-          "name": "David Parejo",
-          "url": "https://open.spotify.com/artist/4asbNH05UWkBskErFyBC1x"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "San Nosotros",
-      "url": "https://open.spotify.com/track/0I120QSj7hSLvHqd5x57r3"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "Propuestas Imposibles",
         "url": "https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 223047,
       "name": "Propuestas Imposibles",
       "url": "https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "De Mi Pena Nacen Flores",
+        "url": "https://open.spotify.com/album/14AlQbVJZBcPehbS4Ud8Xx"
+      },
+      "artists": [
+        {
+          "name": "Moreira",
+          "url": "https://open.spotify.com/artist/7oprBrcyjELdAALY8hK9pr"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 241300,
+      "name": "Como la Primavera",
+      "url": "https://open.spotify.com/track/5C2VTZ3VN8xE04UViMEavj"
     },
     {
       "added_at": "2024-04-05 13:57:27",

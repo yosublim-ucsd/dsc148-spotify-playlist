@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 65461,
+  "num_followers": 65473,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGI3MDMyYmIwMTdiMjViODkwNjExNWU1NjJmODgxNzE0NzhhYjQx",
+  "snapshot_id": "MCxkNGNlMTBjMzM1YjYzZmM2NWJiYTc2NjAwMGU5YmVkMDk3YWUzZmE2",
   "tracks": [
     {
       "added_at": "2023-10-05 22:49:47",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Me Voy a Lanzar",
-        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
-      },
-      "artists": [
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        }
-      ],
-      "duration_ms": 177363,
-      "name": "Me Voy a Lanzar",
-      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Lo Mejor 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 154746,
       "name": "La Guaracha del Fay Fay",
       "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Me Voy a Lanzar",
+        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
+      },
+      "artists": [
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 177363,
+      "name": "Me Voy a Lanzar",
+      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
-      },
-      "artists": [
-        {
-          "name": "Los Bohemios de Chile",
-          "url": "https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4"
-        }
-      ],
-      "duration_ms": 252651,
-      "name": "Deja de Llorar",
-      "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 273066,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/6hVSRMIzwSJ5jBXJyk1oKd"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
+      },
+      "artists": [
+        {
+          "name": "Los Bohemios de Chile",
+          "url": "https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4"
+        }
+      ],
+      "duration_ms": 252651,
+      "name": "Deja de Llorar",
+      "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del Sur",
-          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
-        }
-      ],
-      "duration_ms": 494471,
-      "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/2nzHumHZo0aDR0A5nPM1Su"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Qu\u00e9date con el",
         "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 328974,
       "name": "Ahora por unas monedas",
       "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
+        }
+      ],
+      "duration_ms": 494471,
+      "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/2nzHumHZo0aDR0A5nPM1Su"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "\u00c9xitos de Antolog\u00eda",
-        "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
-      },
-      "artists": [
-        {
-          "name": "Los Manantiales",
-          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Las Flores de Tu Florero",
-      "url": "https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/6mQtinz30aDoHEkPNalyBS"
       },
@@ -987,18 +971,34 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "La Diuca",
-        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
+        "name": "\u00c9xitos de Antolog\u00eda",
+        "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
       },
       "artists": [
         {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+          "name": "Los Manantiales",
+          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
         }
       ],
-      "duration_ms": 200248,
-      "name": "La Diuca",
-      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
+      "duration_ms": 177560,
+      "name": "Las Flores de Tu Florero",
+      "url": "https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Vuelve la Mezcla Perfecta",
+        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Plata",
+          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+        }
+      ],
+      "duration_ms": 268053,
+      "name": "Vamos a Amarla los Dos",
+      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Vuelve la Mezcla Perfecta",
-        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
+        "name": "La Diuca",
+        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
       },
       "artists": [
         {
-          "name": "Los Rancheros de Plata",
-          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
         }
       ],
-      "duration_ms": 268053,
-      "name": "Vamos a Amarla los Dos",
-      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
+      "duration_ms": 200248,
+      "name": "La Diuca",
+      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Rancheras Populares 16 \u00c9xitos (Vol. 3)",
-        "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
+        "name": "La Fiesta de Koky",
+        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
       },
       "artists": [
         {
-          "name": "Los Gatos Negros",
-          "url": "https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6"
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
         }
       ],
-      "duration_ms": 169960,
-      "name": "Te Lavaste la Cara y el Mono No",
-      "url": "https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8"
+      "duration_ms": 204069,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "La Fiesta de Koky",
-        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+        "name": "Rancheras Populares 16 \u00c9xitos (Vol. 3)",
+        "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
       },
       "artists": [
         {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+          "name": "Los Gatos Negros",
+          "url": "https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6"
         }
       ],
-      "duration_ms": 204069,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
+      "duration_ms": 169960,
+      "name": "Te Lavaste la Cara y el Mono No",
+      "url": "https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Camino al \u00c9xito",
-        "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
-      },
-      "artists": [
-        {
-          "name": "Kevin y Sus Lumaquinos",
-          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Los Vampiros",
-      "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "El Sol No Regresa",
         "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 174474,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Camino al \u00c9xito",
+        "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
+      },
+      "artists": [
+        {
+          "name": "Kevin y Sus Lumaquinos",
+          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Los Vampiros",
+      "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Galantes y Caballeros",
-        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 152816,
-      "name": "Galantes y Caballeros",
-      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Golero Emparamao",
         "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 268324,
       "name": "Golero Emparamao",
       "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Galantes y Caballeros",
+        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 152816,
+      "name": "Galantes y Caballeros",
+      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
     },
     {
       "added_at": "2023-10-05 22:49:47",

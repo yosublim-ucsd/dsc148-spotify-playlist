@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 491051,
+  "num_followers": 491058,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGQ1ODkxODVlMTc5ZDU5MzdjZjgxMzc2ZTI2N2VmYzhhOTBmNTFk",
+  "snapshot_id": "MCw2MTc1YzUyMDRhNjc5MGI5OGM4ZmExZWZiZGJmMzk0Nzg0NWYxMTAw",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "reason to live",
+        "url": "https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 150577,
+      "name": "reason to live",
+      "url": "https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "CAVES",
         "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 249466,
       "name": "Dreams (feat. Judah & The Lion)",
       "url": "https://open.spotify.com/track/6upqycHdFZkd1JzVeqjnGo"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "reason to live",
-        "url": "https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 150577,
-      "name": "reason to live",
-      "url": "https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 253253,
+      "name": "Stand For Myself",
+      "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 153151,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "It's Been a While",
-        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "It's Been a While",
-      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1019,18 +1019,34 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+        "name": "Waste of Time",
+        "url": "https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6"
       },
       "artists": [
         {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 253253,
-      "name": "Stand For Myself",
-      "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
+      "duration_ms": 183139,
+      "name": "Waste of Time",
+      "url": "https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "It's Been a While",
+        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "It's Been a While",
+      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1047,22 +1063,6 @@
       "duration_ms": 291826,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Waste of Time",
-        "url": "https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 183139,
-      "name": "Waste of Time",
-      "url": "https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
-      },
-      "artists": [
-        {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/5NRQoXu68ypYS1QUyZc1Yx"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 282045,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3qV8W6cytQG53azQ5FnSE4"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Rudolph",
-        "url": "https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 211348,
-      "name": "Rudolph",
-      "url": "https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Why Are You OK",
         "url": "https://open.spotify.com/album/4xBayAng8qIv3227mj3xjN"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 253560,
       "name": "Whatever, Wherever",
       "url": "https://open.spotify.com/track/3IURvsSAiD5EmqZLjtyJsS"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Rudolph",
+        "url": "https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 211348,
+      "name": "Rudolph",
+      "url": "https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k"
     },
     {
       "added_at": "2024-03-22 04:00:00",

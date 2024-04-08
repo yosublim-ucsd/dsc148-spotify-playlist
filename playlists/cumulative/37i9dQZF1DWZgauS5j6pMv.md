@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: TWRP
 
-408 songs - 1 day 0 hr 3 min
+409 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,8 @@
 | [WASABI](https://open.spotify.com/track/7LafokGsEiIKUA7ziJuPga) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [WASABI](https://open.spotify.com/album/6uNSXdsZ6dBAGHV8BMAOBM) | 2:47 | 2022-07-22 | 2024-02-29 |
 | [Waste My Time](https://open.spotify.com/track/0EVVIialQkNLFen9S5tEo2) | [Rachel Horter](https://open.spotify.com/artist/6TRCClB2b8EhHakLcDyjV2) | [Waste My Time](https://open.spotify.com/album/4vPgUWYdrztuLoY8wKA8gb) | 2:51 | 2022-09-23 | 2024-03-16 |
 | [Wasting Time](https://open.spotify.com/track/6qwwMUQBq2yy2bqBejBCIc) | [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Wasting Time](https://open.spotify.com/album/1l45FmdRw6IPM0jjDMd2fq) | 2:13 | 2021-04-16 | 2022-01-29 |
-| [We Belong](https://open.spotify.com/track/1iFLqxy0jMaCXshHTAHIFQ) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [We Belong](https://open.spotify.com/album/35v2JrGN2UKU9QDwSfcaa5) | 4:01 | 2024-03-01 |  |
+| [We Belong](https://open.spotify.com/track/1iFLqxy0jMaCXshHTAHIFQ) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [We Belong](https://open.spotify.com/album/35v2JrGN2UKU9QDwSfcaa5) | 4:01 | 2024-03-01 | 2024-04-08 |
+| [We Belong](https://open.spotify.com/track/4UWuluqabYpNZGoqNVGmBI) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [We Belong](https://open.spotify.com/album/1CswJNzuinL7ezwVCQPPLr) | 4:01 | 2024-03-01 |  |
 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 | 2021-05-07 | 2022-07-16 |
 | [Westside Story](https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Westside Story](https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa) | 4:02 | 2023-06-16 |  |
 | [What Can We Do? \(feat\. Nate Dogg\)](https://open.spotify.com/track/0kOxmoYqRXjAnc5ZfQ6TIs) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 2:56 | 2020-11-20 | 2022-01-29 |

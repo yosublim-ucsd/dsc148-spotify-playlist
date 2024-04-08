@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: I.M\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,940 likes - 404 songs - 22 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,115 likes - 404 songs - 22 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -413,4 +413,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 403 | [Summer](https://open.spotify.com/track/5vSoyvZo568CGDvdygsLXN) | [ffpp](https://open.spotify.com/artist/0cmwhNwoxr4KixoRbYwMox) | [Summer](https://open.spotify.com/album/4ZqvsRCEQvVrrI5GDxqpfh) | 3:37 |
 | 404 | [Baby it’s you](https://open.spotify.com/track/6NHnmWs8FNOdaWH3eq3mnx) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [9colors](https://open.spotify.com/album/69Xh5E4nygc7AqQyvPtf3T) | 3:40 |
 
-Snapshot ID: `MCxhYjVlZWJjNmRjNzE1OTI5Y2JlMDBlOTJiYTk5MTE5MGQ1OWU4NjMy`
+Snapshot ID: `MCw1OWMzZGJlMDQzMjdkYzFlMzI0NzA2NjMzZjc2Njg2ZGE2ZWViNTEx`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 84893,
+  "num_followers": 84907,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDRjMTYxNDc0Y2JhYzdiNTY5NjVhMmRkYmExMDg5N2EyOGNhNWY3",
+  "snapshot_id": "MCw0OTNlZmU0MDU4MTE5MzVkNDU3MjVkNTg4YjlkMmNlMWY0NzI4Mzli",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
-        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4AlPwIoAo5TzpQQ6b8KwBv"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 358640,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4AlPwIoAo5TzpQQ6b8KwBv"
     },
     {
       "added_at": "2022-08-05 04:02:00",

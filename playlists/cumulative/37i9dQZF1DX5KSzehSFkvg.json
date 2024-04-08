@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 182272,
       "name": "3lah 3lah",
       "url": "https://open.spotify.com/track/6mjWcrUhGtvPwAaRMN00e5"
@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "jouj wjouh",
+        "url": "https://open.spotify.com/album/70i2vMQAEKAp6wHqJfALY8"
+      },
+      "artists": [
+        {
+          "name": "khalil guenich",
+          "url": "https://open.spotify.com/artist/3ypFeqG4YdmOcibtlJynvd"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "jouj wjouh",
+      "url": "https://open.spotify.com/track/7og4nJoCVU3AT67bR9l5hL"
+    },
+    {
+      "album": {
         "name": "JRO7I",
         "url": "https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA"
       },
@@ -1112,6 +1130,28 @@
       "duration_ms": 134060,
       "name": "Ma Houwa Jari",
       "url": "https://open.spotify.com/track/5Veho0QUWxN6rKnTK4DuxQ"
+    },
+    {
+      "album": {
+        "name": "Ma Tebki Ya Ain",
+        "url": "https://open.spotify.com/album/2v0YFXim7Ucs85m5lokaHE"
+      },
+      "artists": [
+        {
+          "name": "JenJoon",
+          "url": "https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK"
+        },
+        {
+          "name": "Myne",
+          "url": "https://open.spotify.com/artist/4cqqwyFXQGG2bWTwfVchMv"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Ma Tebki Ya Ain",
+      "url": "https://open.spotify.com/track/6Fv6mqIai6eGsGAvJ4M2s6"
     },
     {
       "album": {
@@ -1480,7 +1520,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 253783,
       "name": "SBABO NTI",
       "url": "https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi"

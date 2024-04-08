@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 
 > The jazz giant's classic recordings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,866 likes - 80 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,905 likes - 80 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 39 | [Greensleeves](https://open.spotify.com/track/71RPjNw25QN44DbMHhNlFO) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [The Complete Africa / Brass Sessions](https://open.spotify.com/album/04nfBhMWMp1Y6zhl4o0psq) | 10:01 |
 | 40 | [I'll Wait and Pray](https://open.spotify.com/track/1Rph9i0FWKDa9Aq9H4iiMx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Jazz](https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX) | 3:26 |
 | 41 | [Come Rain Or Come Shine](https://open.spotify.com/track/5JhHBvu41PEkDQLtUy0I2g) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Last Trane](https://open.spotify.com/album/7vidJBr8AgwyiVYQnMHaZ9) | 8:43 |
-| 42 | [Stardust](https://open.spotify.com/track/1tmS9GlMz65L605SucDUsA) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 10:41 |
+| 42 | [Stardust \- Remastered 1998](https://open.spotify.com/track/1tmS9GlMz65L605SucDUsA) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 10:41 |
 | 43 | [Blues to Elvin](https://open.spotify.com/track/6zsXduqHYbAAy318vQqNTA) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Plays the Blues](https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv) | 7:50 |
 | 44 | [I'm Old Fashioned](https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:59 |
 | 45 | [Take The Coltrane](https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 79 | [Milestones \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 5:42 |
 | 80 | [Love Thy Neighbor](https://open.spotify.com/track/1gKTf31EAVW8F57Z36uu0A) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 9:22 |
 
-Snapshot ID: `MCwwYTA2NGMwMGU1MjViZDI3ZmNjYzY2NWRlMDdhMDY0ZjAzYzQzOTUy`
+Snapshot ID: `MCxmMTgwYTNiZGU1YTU3MWE0YTk4YWM0ODY5NDVjMTA5NGE4ZjMwMjlj`

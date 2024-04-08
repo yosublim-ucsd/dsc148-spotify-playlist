@@ -4,7 +4,7 @@
 
 > Alpha Wolf is on top of today's best Metal playlist.
 
-640 songs - 1 day 18 hr 38 min
+641 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,7 +620,8 @@
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2022-02-11 |
 | [When Death Sighs](https://open.spotify.com/track/08F6fDGMqgigPUBhLvUI8Q) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [Sweet Evil Sun](https://open.spotify.com/album/24cOhaktfXSqjSNg77Y1Ee) | 5:59 | 2022-11-25 | 2023-02-25 |
 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 | 2022-04-22 | 2022-09-17 |
-| [Whenever You're Ready](https://open.spotify.com/track/1D4e0sbGmBzi6AiBwkINRZ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Whenever You're Ready](https://open.spotify.com/album/4cAwxejAnu55ULguqm9NeI) | 4:13 | 2024-04-05 |  |
+| [Whenever You're Ready](https://open.spotify.com/track/1D4e0sbGmBzi6AiBwkINRZ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Whenever You're Ready](https://open.spotify.com/album/4cAwxejAnu55ULguqm9NeI) | 4:13 | 2024-04-05 | 2024-04-08 |
+| [Whenever You're Ready](https://open.spotify.com/track/5amiUEezPSB9yXMxXpz4Dh) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Half Living Things](https://open.spotify.com/album/7C8apxgn0J0n0AMvPrfLxN) | 4:13 | 2024-04-05 |  |
 | [Where Angels Fear to Fly](https://open.spotify.com/track/4Ytkv0PncFeYbkJ58N9J3I) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Where Angels Fear to Fly](https://open.spotify.com/album/38t4KgvHehPZhi9X55tZ8O) | 3:56 | 2022-01-07 | 2022-04-29 |
 | [WHERE'S THE EXIT](https://open.spotify.com/track/56zJdpbi7686kWKHiZoKjf) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [EXIT EMOTIONS](https://open.spotify.com/album/6fVCPp8fii8Rx071H0R78q) | 2:37 | 2024-03-15 | 2024-03-23 |
 | [While We Serve](https://open.spotify.com/track/3LmcjJ7e4tlRqwYs2VNRq0) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [The Forgotten](https://open.spotify.com/album/0jIKQkG06Op47HFg6slCS1) | 6:02 | 2023-12-22 |  |

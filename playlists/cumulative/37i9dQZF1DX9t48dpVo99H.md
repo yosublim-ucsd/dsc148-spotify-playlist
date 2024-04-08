@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-79 songs - 3 hr 28 min
+81 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [741 Hz Release](https://open.spotify.com/track/4rkQICXJfWg1UH2LWM2gqd) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 | 2023-08-07 |  |
 | [741 Hz Spectral Journey](https://open.spotify.com/track/6t4LHtbQMqoTVGdn5SH6hu) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [741 Hz Spectral Journey](https://open.spotify.com/album/6Ntmmhb1UBLkdbwIrT9mSY) | 2:42 | 2023-11-30 |  |
 | [741 Hz Spiritual Bath](https://open.spotify.com/track/5OANFC7h3nM3Jj1nrTM1vM) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [New Beginning](https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH) | 3:01 | 2023-03-10 |  |
+| [741 Hz Voice Unveiled](https://open.spotify.com/track/6S6iGO59lg5Lh1MsC9GPIf) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [741 Hz Voice Unveiled](https://open.spotify.com/album/6NYKUVr1koEQUOE2a82CI9) | 2:35 | 2024-04-07 |  |
 | [741Hz \- Deep Sleep](https://open.spotify.com/track/1vuP2xOAisIelsfgcg5O94) | [Velodrome](https://open.spotify.com/artist/4Xv4mNOYUc05QngjAvNUWB) | [Deep Sleep](https://open.spotify.com/album/4rgY7wUEdsxw8CHdrcT0uj) | 1:53 | 2023-03-10 | 2024-03-14 |
 | [741hz Eliminates Negativity](https://open.spotify.com/track/2OXirAv8badcQ2VJH3oMBe) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 3:59 | 2023-11-30 |  |
 | [741hz Purifies Mind and Body](https://open.spotify.com/track/7yOZ0gYi6owjohpcmTOKAe) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 4:09 | 2023-11-30 |  |
@@ -60,6 +61,7 @@
 | [HAM \- Throat Chakra \- Truth](https://open.spotify.com/track/3I5l2Ulolh87Hnt7RoGDKY) | [Float Waves](https://open.spotify.com/artist/3ktvAYSUnQfoS8vxYex8Jp) | [440Hz Chakra Suite, Vol 1](https://open.spotify.com/album/0oETsqI9kxTYL37kYxFRaU) | 2:04 | 2023-03-10 | 2023-08-08 |
 | [Harmonizing Throat Chakra](https://open.spotify.com/track/4ubDW4ReffTJffdzkjp4rR) | [Vincent de Carsenti](https://open.spotify.com/artist/3o0sqYPgNVNs4Br8gQxSMs) | [All the Ways of God \(Meditative Music\)](https://open.spotify.com/album/0RzeIk6LNn3zkl2e7Cy1uD) | 0:59 | 2023-03-10 | 2023-12-01 |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2023-03-10 |  |
+| [Insight 741 Hz](https://open.spotify.com/track/67xkzXf2kjBohSyjk5zU4Z) | [Emotional Pleasure](https://open.spotify.com/artist/1EP08kGH9Qa0yxHOLxzCC9) | [Insight 741 Hz](https://open.spotify.com/album/4fkMdxjXstSp00j3kIqm2C) | 2:35 | 2024-04-07 |  |
 | [Late Night Meditation](https://open.spotify.com/track/7zT6CQ1og08NiVfn8E8Yfx) | [Perducci](https://open.spotify.com/artist/0VEXjsf3JyYFipCgZ2P8Fp) | [Late Night Meditation](https://open.spotify.com/album/4USXXfJHQgf1gB0yS9jmOJ) | 2:28 | 2023-03-10 | 2023-12-01 |
 | [Light Beam](https://open.spotify.com/track/0cBFe5cufslKKaBKCh7awt) | [Pink Opal](https://open.spotify.com/artist/4G2znNneRZlbCwuDAIQi2E) | [Wisdowm Of REM](https://open.spotify.com/album/1wEZdYZRQsdkRIByTyqH6E) | 1:51 | 2023-03-10 | 2024-03-14 |
 | [Miram Ease 741Hz](https://open.spotify.com/track/5NKPpH9Uh20AKuXeSsOsdV) | [The Relief Experience](https://open.spotify.com/artist/3NY4Ze0E1m0C4LPlYgFZxr) | [Miram Ease 741Hz](https://open.spotify.com/album/4E7CMpRPT7YSO225D0XwQm) | 2:45 | 2024-03-13 |  |

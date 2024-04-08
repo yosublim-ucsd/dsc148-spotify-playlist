@@ -1,12 +1,12 @@
 {
   "description": "Escute Manu e mais mulheres no volume m\u00e1ximo! Co-curadoria com ",
-  "num_followers": 177156,
+  "num_followers": 177376,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDFlOWNlNDljNWM0ZmU5M2M1ZjhiYjY3OGI2MzYxZTA3M2RjN2Ew",
+  "snapshot_id": "MCxjMjU1MDgxODdkMjE1ZjBmMWY3ZTFiNGJiYjc1ODMwNjhlN2E1NzFj",
   "tracks": [
     {
       "added_at": "2024-04-03 03:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
-        "name": "Paracetamal (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7FHzD8nwNRLAccMkllpQb8"
-      },
-      "artists": [
-        {
-          "name": "Allana Macedo",
-          "url": "https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q"
-        },
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 170548,
-      "name": "Paracetamal - Ao Vivo",
-      "url": "https://open.spotify.com/track/67xNafdAPTbpPN1rxmA5DM"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
         "name": "Cleide",
         "url": "https://open.spotify.com/album/3QY7ydZS435baVDOqu4h8L"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 209506,
       "name": "Cleide",
       "url": "https://open.spotify.com/track/4vJAhyVQqc08HKmeWwmTWk"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
+        "name": "Paracetamal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7FHzD8nwNRLAccMkllpQb8"
+      },
+      "artists": [
+        {
+          "name": "Allana Macedo",
+          "url": "https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q"
+        },
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 170548,
+      "name": "Paracetamal - Ao Vivo",
+      "url": "https://open.spotify.com/track/67xNafdAPTbpPN1rxmA5DM"
     },
     {
       "added_at": "2024-04-03 03:00:00",

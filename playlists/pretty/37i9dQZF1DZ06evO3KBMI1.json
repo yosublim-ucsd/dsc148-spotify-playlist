@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 69344,
+  "num_followers": 69354,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzkxNWQ0ODI0MzdlODRmMTU1ZTBhMzliMTIwODgwNmMyNTU4OTNl",
+  "snapshot_id": "MCxmNjBmNjM2MzRkM2FjYjExNGQyNmJhYzQ2ZGQ5ZGVlNTE4Nzk2NDYx",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "\u5728\u308b\u3079\u304d\u5f62",
-      "url": "https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 270706,
       "name": "CHANCE!",
       "url": "https://open.spotify.com/track/6ASc0gMzq0KSiVB8WLPHCP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "\u5728\u308b\u3079\u304d\u5f62",
+      "url": "https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 270173,
+      "name": "\u30af\u30aa\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "0 CHOIR",
         "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 218573,
       "name": "echoOZ",
       "url": "https://open.spotify.com/track/1BUBBIuLNVeaoTqRCYxzPx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 270173,
-      "name": "\u30af\u30aa\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AVALANCHE",
-        "url": "https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "AVALANCHE",
-      "url": "https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TYCOON",
         "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 222786,
       "name": "Q.E.D.",
       "url": "https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x"
     },
     {
       "added_at": null,

@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Malo Del Cuento",
+        "url": "https://open.spotify.com/album/1ElHkMCS6BxSRtiCFpIrfD"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Navarro",
+          "url": "https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Malo Del Cuento",
+      "url": "https://open.spotify.com/track/2gdgNi2PPsbhlIxVofs6mq"
+    },
+    {
+      "album": {
         "name": "Mentira No Es",
         "url": "https://open.spotify.com/album/3ci1tvSNex0gbdl7JwiOSO"
       },

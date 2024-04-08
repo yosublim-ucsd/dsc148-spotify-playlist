@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Maggie Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,421 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,431 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 30 | [Long Goodbye](https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 4:23 |
 | 31 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 |
 | 32 | [Hello](https://open.spotify.com/track/1H4fnvmxwS2CoJMrZu44mb) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Hello](https://open.spotify.com/album/7jRUkMkhGxRbXklc8SbPKd) | 3:30 |
-| 33 | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv) | 2:53 |
+| 33 | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/6Ft6nfssjDYmgmXF19poJE) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/78cUZ3f7KXyEIPVTD3WsDp) | 2:53 |
 | 34 | [The Other Side](https://open.spotify.com/track/3LiU0TOvZTzf3qJXXF5bEJ) | [WYATT](https://open.spotify.com/artist/3xAoVcrMl08h9mS8UHsfKM) | [TAKE ME HOME \(Wait Till Dawn\) \- EP](https://open.spotify.com/album/3GauA9rLPf2AIVMVv9pysi) | 3:37 |
 | 35 | [Lemons](https://open.spotify.com/track/3zoXDAiViLi1eysasfw5GB) | [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Lemons](https://open.spotify.com/album/4t0UxZRkTUPCNT0XDIBqux) | 2:44 |
 | 36 | [Nice To You \- Little Yacov Version](https://open.spotify.com/track/540lnJGdmc4mesMYF6SBYG) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB) | [Nice To You \(Little Yacov Version\)](https://open.spotify.com/album/2maIRZ22DNJ7YYGI6gBCAC) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 |
 | 100 | [Turn the Radio Up \(feat\. Jewel\)](https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Turn the Radio Up](https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ) | 3:19 |
 
-Snapshot ID: `MCw0ODRkNWY2OGI5NmZkNDQyYWQyMjBhMzZkNzY3ZThiMGM2NDYxZTIy`
+Snapshot ID: `MCw4YTZlY2NlM2YzZmY5ZjBlMmUxNzIwZTgzMjhiYzMxNDI2ZGNiMWQ0`

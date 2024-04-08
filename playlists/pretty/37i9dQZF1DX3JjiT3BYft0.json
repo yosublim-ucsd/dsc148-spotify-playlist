@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 68648,
+  "num_followers": 68671,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjJmYTNlMzY0M2Q0MDNjZjcwNmJiNjQ0NTZiMDY2NjllZTM4ZTVl",
+  "snapshot_id": "MCxiZjZjNzk4OGQxNTI5OWMxYmU0OWUyN2JhNDEyMTY3YTg3YmE5ZGVk",
   "tracks": [
     {
       "added_at": "2024-03-23 16:15:14",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
+        "name": "SMILE ON PARADE",
+        "url": "https://open.spotify.com/album/179xDc6x7RPbG09o0rEjXW"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "\u308f\u3061\u3083\u30fb\u3082\u3061\u3083\u30fb\u307a\u3063\u305f\u3093\u884c\u9032\u66f2",
+      "url": "https://open.spotify.com/track/4fcpTiauZx5tEi7JvtmWNf"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
         "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
         "url": "https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 259466,
       "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
       "url": "https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "SMILE ON PARADE",
-        "url": "https://open.spotify.com/album/179xDc6x7RPbG09o0rEjXW"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "\u308f\u3061\u3083\u30fb\u3082\u3061\u3083\u30fb\u307a\u3063\u305f\u3093\u884c\u9032\u66f2",
-      "url": "https://open.spotify.com/track/4fcpTiauZx5tEi7JvtmWNf"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
+        "name": "\u306b\u3053\u306b\u3053\u306d\u304f\u3068\uff01",
+        "url": "https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 249200,
+      "name": "\u3048\u304c\u304a\uff65\u30b7\u30f3\u30b0\uff65\u3042\uff65\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/19ejmhBUzhgVoX8W9bMK8S"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
         "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 238835,
       "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
       "url": "https://open.spotify.com/track/0BFyIMS0AV0nQPey197CAh"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "\u306b\u3053\u306b\u3053\u306d\u304f\u3068\uff01",
-        "url": "https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 249200,
-      "name": "\u3048\u304c\u304a\uff65\u30b7\u30f3\u30b0\uff65\u3042\uff65\u30bd\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/19ejmhBUzhgVoX8W9bMK8S"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "ROZEN HORIZON",
-        "url": "https://open.spotify.com/album/5YgaGp6mhmDjRndCtaKj3d"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 366568,
-      "name": "ROZEN HORIZON",
-      "url": "https://open.spotify.com/track/590mAad0xehlwm9SbdZgrK"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "\uff32",
         "url": "https://open.spotify.com/album/5XtGy68gBjYEZpZCbEfQiI"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 284833,
       "name": "R",
       "url": "https://open.spotify.com/track/45jaPXs1EROGdFRtT0T8Sx"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "ROZEN HORIZON",
+        "url": "https://open.spotify.com/album/5YgaGp6mhmDjRndCtaKj3d"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 366568,
+      "name": "ROZEN HORIZON",
+      "url": "https://open.spotify.com/track/590mAad0xehlwm9SbdZgrK"
     },
     {
       "added_at": "2024-03-23 16:15:14",

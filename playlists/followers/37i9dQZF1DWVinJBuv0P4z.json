@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 392563,
+  "2024-04-08": 392764,
   "date_first_scraped": "2021-12-30",
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
   "name": "Feel Good Classics",
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 150866,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
@@ -4711,7 +4711,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 204106,
       "name": "Shambala - Single Version",
       "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"

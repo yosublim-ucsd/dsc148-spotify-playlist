@@ -4,7 +4,7 @@
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-108 songs - 5 hr 12 min
+109 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Comunicação Falhou \- Ao Vivo](https://open.spotify.com/track/55L3RVujZtkR96JIEgTbQg) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Comunicação Falhou \(Ao Vivo\)](https://open.spotify.com/album/6Dlff39auFLb9esJgg5Fgm) | 3:00 | 2023-10-23 |  |
 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 | 2023-10-23 |  |
 | [Coração Piriguete](https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Coração Piriguete](https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB) | 2:48 | 2023-10-23 |  |
-| [Cracudo](https://open.spotify.com/track/456nQoGd4zPrJtfeugR221) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou na Mosca](https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N) | 2:51 | 2023-10-23 |  |
+| [Cracudo](https://open.spotify.com/track/456nQoGd4zPrJtfeugR221) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou na Mosca](https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N) | 2:51 | 2023-10-23 | 2024-04-08 |
 | [Decida](https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Estouro das Vaquejadas](https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD) | 2:42 | 2023-10-23 |  |
 | [Deixa Eu te Chamar de Meu Amor](https://open.spotify.com/track/35eYxu0ugoHtbKjwxrFdwA) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [O Trator Chegou](https://open.spotify.com/album/7LFeYdOTeUVrihpmpiehjw) | 2:22 | 2023-10-23 | 2024-03-27 |
 | [Desce Deslizando](https://open.spotify.com/track/3pAmu2snfRsk8tyGx5WtEb) | [Lucas Boquinha](https://open.spotify.com/artist/2sFYm8AmgLWa4WNxfppJtP), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Desce Deslizando](https://open.spotify.com/album/1ZxKx6QpyMR9pAbcDHyyWl) | 2:08 | 2023-10-23 |  |
@@ -88,7 +88,8 @@
 | [Quero Ver é Me Esquecer \(feat\. Jorge\) \- Ao Vivo](https://open.spotify.com/track/2SUPbyD77tJuOUbqbxct6l) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Da Roça Pra Cidade \(Ao Vivo\), Vol\. 02](https://open.spotify.com/album/0EB9cgGjaXmq2YDrcpdSDE) | 2:27 | 2023-10-23 |  |
 | [Recairei \- Ao Vivo](https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Piseiro 2020 Ao Vivo](https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP) | 2:46 | 2023-10-23 |  |
 | [Revoada No Colchão](https://open.spotify.com/track/4kGdnA7FzSVsXC29LPghej) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Revoada No Colchão](https://open.spotify.com/album/7hzvwdgrY4xuqKehIntS3o) | 2:33 | 2023-10-23 |  |
-| [Rita](https://open.spotify.com/track/1nDCZBI8MaHXI2f36dnQyG) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Aô Saudade da Mãe dos Meninos](https://open.spotify.com/album/2V9i8lh4qbIj6oLqECVS6k) | 2:36 | 2023-10-23 |  |
+| [Rita](https://open.spotify.com/track/1nDCZBI8MaHXI2f36dnQyG) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Aô Saudade da Mãe dos Meninos](https://open.spotify.com/album/2V9i8lh4qbIj6oLqECVS6k) | 2:36 | 2023-10-23 | 2024-04-08 |
+| [Rita](https://open.spotify.com/track/6NEJZvJeu2pIMpRbiyhCPi) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Aô Saudade Da Mãe Dos Meninos](https://open.spotify.com/album/5YvNCAEo2mumV4xkS7HXfN) | 2:37 | 2024-03-28 |  |
 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 | 2023-10-23 |  |
 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 | 2023-10-23 |  |
 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 | 2023-10-23 |  |
@@ -96,7 +97,7 @@
 | [Se Você Se Entregar](https://open.spotify.com/track/3WbtamPQS9wdB784HVTeAN) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vem Me Amar](https://open.spotify.com/album/54zbtfsS8bCb9PTvwpw2F2) | 3:20 | 2023-10-23 |  |
 | [Sextou](https://open.spotify.com/track/2N0Xa9oYEcL544AH2qVQME) | [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv), [Pedrinho Pisadinha](https://open.spotify.com/artist/3vL5YvNXI8BDr7foh27rzv) | [O Maior Piseiro de Todos os Tempos!](https://open.spotify.com/album/0oxygTtCqNQwwgTd7xIezI) | 2:27 | 2023-10-23 |  |
 | [Solinho Agressivo](https://open.spotify.com/track/5DVplKEWRFgG3t29UTHkWA) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl) | [Solinho Agressivo](https://open.spotify.com/album/5Rtw1qMF1Y3mdXmBWz4fVh) | 2:31 | 2023-10-23 |  |
-| [Status](https://open.spotify.com/track/3dE99KYI09Vu4EkTTyi6sQ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Status](https://open.spotify.com/album/7Akci0vFaGZq89dVxEl07F) | 2:31 | 2024-02-23 | 2024-03-29 |
+| [Status](https://open.spotify.com/track/3dE99KYI09Vu4EkTTyi6sQ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Status](https://open.spotify.com/album/7Akci0vFaGZq89dVxEl07F) | 2:31 | 2024-02-23 |  |
 | [Storiezin](https://open.spotify.com/track/1h6a1gcgHa4hg09xEmue3V) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Storiezin](https://open.spotify.com/album/0JAqfnn7bGnuh6siVnog8t) | 2:18 | 2023-10-23 |  |
 | [Só Pra Castigar](https://open.spotify.com/track/1Qda9UHtYhe5KycSNXGT0J) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws Mais Uma Vez](https://open.spotify.com/album/0cmScSlyjIcoBgz35qz9kg) | 2:43 | 2023-10-23 |  |
 | [Só Tem Eu](https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Só Tem Eu](https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e) | 2:44 | 2023-10-23 |  |

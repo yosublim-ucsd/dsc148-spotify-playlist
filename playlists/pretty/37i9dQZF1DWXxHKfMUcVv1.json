@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 115467,
+  "num_followers": 115501,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTUxNmY1OTA4ZjZkMTE1ZmM5OGJkOTkxY2E1OTg5OGU5YzAyYjcz",
+  "snapshot_id": "MCxjNWZjOTA3NGNhODRmNGI2ZTk3OWZhOWRkNjU4NmYwMzU5MjJmZTAw",
   "tracks": [
     {
       "added_at": "2024-04-05 17:19:39",
@@ -203,26 +203,6 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Welcome To The Jungle",
-        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
-      },
-      "artists": [
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Tico El Imigrante",
-          "url": "https://open.spotify.com/artist/45CYEQIVD1Al0co9LLtklO"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "He Querido Quererte",
-      "url": "https://open.spotify.com/track/5buC1VFP7FSaB0YokvP0EJ"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -243,6 +223,26 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
+        "name": "Welcome To The Jungle",
+        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
+      },
+      "artists": [
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Tico El Imigrante",
+          "url": "https://open.spotify.com/artist/45CYEQIVD1Al0co9LLtklO"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "He Querido Quererte",
+      "url": "https://open.spotify.com/track/5buC1VFP7FSaB0YokvP0EJ"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
         "name": "Super Cumbias (Remastered)",
         "url": "https://open.spotify.com/album/1XeQOKWV65fT6734OdV6qd"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "A Bailar La Cumbia - 20 Exitos",
-        "url": "https://open.spotify.com/album/00lFBQtaRZLtvBHLrONEVf"
-      },
-      "artists": [
-        {
-          "name": "Tropical Caribe",
-          "url": "https://open.spotify.com/artist/2dEjLtjgTsWfw5itGqF97f"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Tomame O Dejame",
-      "url": "https://open.spotify.com/track/3X0jce1hWcs0sP2AIO94pK"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 187271,
       "name": "Amor Platonico",
       "url": "https://open.spotify.com/track/189ZkWdzkPWrNy5HmGW4XA"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
+        "name": "A Bailar La Cumbia - 20 Exitos",
+        "url": "https://open.spotify.com/album/00lFBQtaRZLtvBHLrONEVf"
+      },
+      "artists": [
+        {
+          "name": "Tropical Caribe",
+          "url": "https://open.spotify.com/artist/2dEjLtjgTsWfw5itGqF97f"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Tomame O Dejame",
+      "url": "https://open.spotify.com/track/3X0jce1hWcs0sP2AIO94pK"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -531,22 +531,18 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Amigos Con Derecho",
-        "url": "https://open.spotify.com/album/0WlUBg6W43IB3Wp6vY9YuK"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
       },
       "artists": [
         {
-          "name": "Japiaguar",
-          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
-        },
-        {
-          "name": "Mama Santa",
-          "url": "https://open.spotify.com/artist/4yfN6I5gIxbvuSCWEgM3SW"
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
         }
       ],
-      "duration_ms": 186960,
-      "name": "Amigos Con Derecho",
-      "url": "https://open.spotify.com/track/0s20N1FV0QZ5Stp5GXH2cj"
+      "duration_ms": 223608,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -571,18 +567,22 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
+        "name": "Amigos Con Derecho",
+        "url": "https://open.spotify.com/album/0WlUBg6W43IB3Wp6vY9YuK"
       },
       "artists": [
         {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+          "name": "Japiaguar",
+          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
+        },
+        {
+          "name": "Mama Santa",
+          "url": "https://open.spotify.com/artist/4yfN6I5gIxbvuSCWEgM3SW"
         }
       ],
-      "duration_ms": 223608,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
+      "duration_ms": 186960,
+      "name": "Amigos Con Derecho",
+      "url": "https://open.spotify.com/track/0s20N1FV0QZ5Stp5GXH2cj"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Macumba y Pay\u00e9",
-        "url": "https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg"
-      },
-      "artists": [
-        {
-          "name": "Bohemia Urbana",
-          "url": "https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV"
-        }
-      ],
-      "duration_ms": 159477,
-      "name": "Todo va a estar mejor",
-      "url": "https://open.spotify.com/track/7dho4N5H5etH68vQkROikt"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
         "name": "Rumbo a Tu Corazon",
         "url": "https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 219586,
       "name": "En La Luna Y En Marte",
       "url": "https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
+        "name": "Macumba y Pay\u00e9",
+        "url": "https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg"
+      },
+      "artists": [
+        {
+          "name": "Bohemia Urbana",
+          "url": "https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV"
+        }
+      ],
+      "duration_ms": 159477,
+      "name": "Todo va a estar mejor",
+      "url": "https://open.spotify.com/track/7dho4N5H5etH68vQkROikt"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Hemisferios",
-        "url": "https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh"
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
       "artists": [
         {
-          "name": "La De Roberto",
-          "url": "https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U"
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
         }
       ],
-      "duration_ms": 209773,
-      "name": "Hemisferios",
-      "url": "https://open.spotify.com/track/23PqbeqTrFllYLOUER2FVy"
+      "duration_ms": 204346,
+      "name": "La Mami Que Mas Quiero",
+      "url": "https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

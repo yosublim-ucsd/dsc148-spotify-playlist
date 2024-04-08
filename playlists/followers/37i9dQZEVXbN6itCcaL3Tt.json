@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 263059,
+  "2024-04-08": 263075,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Poland.",
   "name": "Top 50 - Poland",
@@ -231,6 +231,28 @@
       "duration_ms": 265966,
       "name": "(Po)ci\u0105g dalszy nast\u0105pi",
       "url": "https://open.spotify.com/track/3UMqSWigx4NrVPIkpPDP2U"
+    },
+    {
+      "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131520,
+      "name": "0:00",
+      "url": "https://open.spotify.com/track/2oLXGUeqZkAwMBcmyoyhB5"
     },
     {
       "album": {
@@ -1068,6 +1090,24 @@
     },
     {
       "album": {
+        "name": "8MILA",
+        "url": "https://open.spotify.com/album/4aKvcMUnw2chfeJ8aa9FY0"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "8MILA",
+      "url": "https://open.spotify.com/track/5zOQ3PjlARswR8wvJaby8A"
+    },
+    {
+      "album": {
         "name": "</3 + :(",
         "url": "https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM"
       },
@@ -1101,6 +1141,32 @@
       "duration_ms": 131250,
       "name": "</3",
       "url": "https://open.spotify.com/track/14154tJOTjeyeOyhnqP4QM"
+    },
+    {
+      "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151077,
+      "name": "@champagnepapi",
+      "url": "https://open.spotify.com/track/1y62mw3mC3mtVOOtjrVVl1"
     },
     {
       "album": {
@@ -3310,6 +3376,24 @@
     },
     {
       "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -3321,7 +3405,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -4180,6 +4264,36 @@
     },
     {
       "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Suwal",
+          "url": "https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY"
+        },
+        {
+          "name": "Kusha",
+          "url": "https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137480,
+      "name": "BLOK!",
+      "url": "https://open.spotify.com/track/2M99NGhMFpCFmnqx0uxWur"
+    },
+    {
+      "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
@@ -4235,7 +4349,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
@@ -6194,6 +6308,28 @@
     },
     {
       "album": {
+        "name": "Chyba \u017ce z Tob\u0105",
+        "url": "https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Chyba \u017ce z Tob\u0105",
+      "url": "https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ"
+    },
+    {
+      "album": {
         "name": "CH\u0141OPAK NATSU",
         "url": "https://open.spotify.com/album/1FdHwtx2Hx3C2R9kMw1Gsz"
       },
@@ -7304,6 +7440,32 @@
     },
     {
       "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165545,
+      "name": "Czarne Chmury",
+      "url": "https://open.spotify.com/track/4j4MfFJWESnAgaI5pWDA97"
+    },
+    {
+      "album": {
         "name": "Adwokat Diabla",
         "url": "https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf"
       },
@@ -7663,7 +7825,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 209577,
       "name": "DAM CI PORADY",
       "url": "https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM"
@@ -9829,7 +9991,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 127059,
       "name": "EMBASSY / AMBASADA",
       "url": "https://open.spotify.com/track/4Oa9XS4sTknYw9awQN5cEt"
@@ -12631,7 +12793,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 272000,
       "name": "HILL BOMB",
       "url": "https://open.spotify.com/track/7wJlIeRSoYmBZFtOgOOaZF"
@@ -12649,7 +12811,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 251455,
       "name": "hip hip hura!",
       "url": "https://open.spotify.com/track/5uSsPBP88T6OIYvh9hrSfy"
@@ -13589,7 +13751,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
@@ -14747,7 +14909,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 174557,
       "name": "Jestem Twoj\u0105 Bajk\u0105",
       "url": "https://open.spotify.com/track/4qN8jx5g3h1oKz95qr3bF0"
@@ -15850,6 +16012,36 @@
     },
     {
       "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Reni Jusis",
+          "url": "https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Kusha",
+          "url": "https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179030,
+      "name": "Kiedy\u015b Ci\u0119 Znajd\u0119",
+      "url": "https://open.spotify.com/track/39PDJqBMIsXLdwh0Wr9eDy"
+    },
+    {
+      "album": {
         "name": "Kiedy\u015b to b\u0119dzie",
         "url": "https://open.spotify.com/album/27jR8kcGY0dCC9S3Ilt1s2"
       },
@@ -16273,6 +16465,28 @@
       "duration_ms": 177906,
       "name": "Kl\u0119kaj przed panem",
       "url": "https://open.spotify.com/track/4U8ZJ3uMe4epN62wEqJwrb"
+    },
+    {
+      "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Kochaj Mnie Albo Rzu\u0107",
+      "url": "https://open.spotify.com/track/1z32fWZoI86GGNEjQBJOn6"
     },
     {
       "album": {
@@ -17652,6 +17866,36 @@
     },
     {
       "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Antiquant",
+          "url": "https://open.spotify.com/artist/3lh9eKKxJxiZux6r9IgOHq"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156426,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/4sMYOX0jOwDdrwwNMqPHo8"
+    },
+    {
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -17725,7 +17969,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -20083,7 +20327,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 175667,
       "name": "Motyle",
       "url": "https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY"
@@ -21603,6 +21847,36 @@
       "duration_ms": 135300,
       "name": "New York Freestyle",
       "url": "https://open.spotify.com/track/0Q0sBnoTWkeswHbvvpQyK6"
+    },
+    {
+      "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Kusha",
+          "url": "https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf"
+        },
+        {
+          "name": "Suwal",
+          "url": "https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135300,
+      "name": "New York Freestyle",
+      "url": "https://open.spotify.com/track/5T4tD1rM4aQzZ9dkOU6vgw"
     },
     {
       "album": {
@@ -24711,7 +24985,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 142225,
       "name": "PASEK PLAYBOYA",
       "url": "https://open.spotify.com/track/6g76ndArDHwMe3OsrYxKiu"
@@ -25101,7 +25375,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 184864,
       "name": "PG$",
       "url": "https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis"
@@ -25153,6 +25427,32 @@
       "duration_ms": 157894,
       "name": "Piegi",
       "url": "https://open.spotify.com/track/5mJ816ZkF5m0PQSk8NRjnP"
+    },
+    {
+      "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Piegi",
+      "url": "https://open.spotify.com/track/7lwJj6qkmRgUH5Oxlixrhg"
     },
     {
       "album": {
@@ -27405,6 +27705,28 @@
       "duration_ms": 200211,
       "name": "Rampampam",
       "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
+    },
+    {
+      "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "RAP",
+      "url": "https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7"
     },
     {
       "album": {
@@ -31855,7 +32177,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
@@ -32631,7 +32953,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -33101,7 +33423,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
@@ -35894,6 +36216,28 @@
     },
     {
       "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166989,
+      "name": "Za Du\u017co",
+      "url": "https://open.spotify.com/track/7CN57u3DjY1RXSkkqpW5HX"
+    },
+    {
+      "album": {
         "name": "Hotel Maffija 2",
         "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
       },
@@ -37345,6 +37689,32 @@
       "duration_ms": 247986,
       "name": "\u017b\u00f3\u0142ta Taks\u00f3wka",
       "url": "https://open.spotify.com/track/1AvkniPPyLWcGuUF5Gsa7N"
+    },
+    {
+      "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157720,
+      "name": "\u201eTak to lecia\u0142o!\u201d",
+      "url": "https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbN6itCcaL3Tt"

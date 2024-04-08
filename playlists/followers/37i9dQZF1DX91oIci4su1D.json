@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 817801,
+  "2024-04-08": 817860,
   "date_first_scraped": "2021-12-21",
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
   "name": "Trance Mission",
@@ -5883,7 +5883,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 240656,
       "name": "Forever",
       "url": "https://open.spotify.com/track/79RYcYdQO7Ue7yZJ9tZp6x"
@@ -6913,7 +6913,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 192000,
       "name": "Happier Than Now",
       "url": "https://open.spotify.com/track/2y8J80BwsxKggLzZeSeziX"
@@ -9604,6 +9604,28 @@
     },
     {
       "album": {
+        "name": "Love Is Enough",
+        "url": "https://open.spotify.com/album/2CqlLD4Ho2MmE4HV4UNryN"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Sue McLaren",
+          "url": "https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176417,
+      "name": "Love Is Enough",
+      "url": "https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P"
+    },
+    {
+      "album": {
         "name": "Love Like We're Dying",
         "url": "https://open.spotify.com/album/0bGX3xsVSohtC2i22yXamg"
       },
@@ -11465,6 +11487,36 @@
       "duration_ms": 216491,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/04q38wqa9G0d6mX0gCfxYu"
+    },
+    {
+      "album": {
+        "name": "Now We Are Free",
+        "url": "https://open.spotify.com/album/5PyEZtjd1UNnbeqBIu0Njj"
+      },
+      "artists": [
+        {
+          "name": "Elysian",
+          "url": "https://open.spotify.com/artist/6IPtgWMGTP1ZVcfMeo0XlO"
+        },
+        {
+          "name": "Emma Hewitt",
+          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
+        },
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        },
+        {
+          "name": "Maor Levi",
+          "url": "https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306693,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/2xfL7Mx5AqbWP0YcwxlcI7"
     },
     {
       "album": {
@@ -14395,7 +14447,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 232285,
       "name": "Someone - Kinetica Remix",
       "url": "https://open.spotify.com/track/14b6rZyEHbOsuUL992hPZn"
@@ -15049,6 +15101,28 @@
       "duration_ms": 197000,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/3hm1EsJDnzYk3I1Pw7cmbL"
+    },
+    {
+      "album": {
+        "name": "Stolen",
+        "url": "https://open.spotify.com/album/4NGhLoa8GbcUqRfryIOkVV"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Pretty Poison",
+          "url": "https://open.spotify.com/artist/4Xe7UmOgczT2GMm5uK8Axu"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204309,
+      "name": "Stolen",
+      "url": "https://open.spotify.com/track/34NcElWmekutGStNPk3oeZ"
     },
     {
       "album": {
@@ -16729,7 +16803,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 198654,
       "name": "Till The Sun Is Up High",
       "url": "https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY"
@@ -17073,6 +17147,24 @@
       "duration_ms": 188880,
       "name": "Tremor",
       "url": "https://open.spotify.com/track/0oyz9ppZNpoLDk6UspF8C5"
+    },
+    {
+      "album": {
+        "name": "Tribe of the Sun",
+        "url": "https://open.spotify.com/album/1RC6Z0Js4nxSWxzJXNvpgO"
+      },
+      "artists": [
+        {
+          "name": "Driftmoon",
+          "url": "https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263696,
+      "name": "Tribe of the Sun",
+      "url": "https://open.spotify.com/track/3Ceb3GYj9R9s1lip096GnG"
     },
     {
       "album": {

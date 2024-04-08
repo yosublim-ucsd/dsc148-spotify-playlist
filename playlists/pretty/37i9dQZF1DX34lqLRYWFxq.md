@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Gustaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,116 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,118 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Hate That I Love Your Love](https://open.spotify.com/track/1Bx2fRCPbNMf8AFgasOT3i) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/76jhxPZPgnxpfmK9EGoYEc) | 2:20 |
 | 100 | [you're the one to blame](https://open.spotify.com/track/1jmQZK2rhRyFuXSoWHY955) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [you're the one to blame](https://open.spotify.com/album/3P8MUep1suyTtd4WI0pQft) | 2:31 |
 
-Snapshot ID: `MCw3MDgyM2FmZGI0NjhjYzVlYjc3ZTFmZDdkODMxMjVmZWM0ZDI2MzM1`
+Snapshot ID: `MCxjYmUxZmFkZDZiZmMwMzczNGNiNjY5ODUzYWJiNzAyZmNmYjc4YzUy`

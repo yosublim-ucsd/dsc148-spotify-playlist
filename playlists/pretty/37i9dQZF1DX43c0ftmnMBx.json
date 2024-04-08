@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 238090,
+  "num_followers": 238169,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2Y0MTM3ZTg0YzhjYjJjNGM5Njk4MGIxNjQwNjQ5Y2U0Mzk5ZWNk",
+  "snapshot_id": "MCw0MWVjNWU2MTBiZmVkYTU1MDA0YmRkY2JkYjU5OTQ3OTdlY2M2NWRk",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "Bachatas Para La Historia",
+        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
+      },
+      "artists": [
+        {
+          "name": "Marino Castellanos",
+          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
+        }
+      ],
+      "duration_ms": 210991,
+      "name": "Eso da Pa To",
+      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Sentimiento",
         "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 257488,
       "name": "Creiste",
       "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Bachatas Para La Historia",
-        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
-      },
-      "artists": [
-        {
-          "name": "Marino Castellanos",
-          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
-        }
-      ],
-      "duration_ms": 210991,
-      "name": "Eso da Pa To",
-      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -875,18 +875,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh"
+        "name": "La Historia de Mi Vida: El Final, Vol. 1",
+        "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
       },
       "artists": [
         {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 221080,
-      "name": "Bailando Con El",
-      "url": "https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO"
+      "duration_ms": 243500,
+      "name": "Bellas",
+      "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -907,22 +911,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "La Historia de Mi Vida: El Final, Vol. 1",
-        "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
         }
       ],
-      "duration_ms": 243500,
-      "name": "Bellas",
-      "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
+      "duration_ms": 221080,
+      "name": "Bailando Con El",
+      "url": "https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "La Soga",
-        "url": "https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0"
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
       },
       "artists": [
         {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 219866,
-      "name": "El Profesor",
-      "url": "https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx"
+      "duration_ms": 372733,
+      "name": "P\u00e9game Tu Vicio",
+      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
+        "name": "La Soga",
+        "url": "https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
         }
       ],
-      "duration_ms": 372733,
-      "name": "P\u00e9game Tu Vicio",
-      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
+      "duration_ms": 219866,
+      "name": "El Profesor",
+      "url": "https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Vete y Alejate de Mi",
-      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Vine a Decirte Adios",
         "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 277453,
       "name": "Vine A Decirte Adios",
       "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Vete y Alejate de Mi",
+      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1",
-        "url": "https://open.spotify.com/album/4CwW8sORJ7AuVjUKBJkeoQ"
+        "name": "Devu\u00e9lveme Mi Libertad",
+        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
         }
       ],
-      "duration_ms": 248500,
-      "name": "Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1",
-      "url": "https://open.spotify.com/track/3ocPf13AZvX6QlNuQf6RVV"
+      "duration_ms": 204564,
+      "name": "Mujer de las Mil Batallas",
+      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Devu\u00e9lveme Mi Libertad",
-        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
+        "name": "Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1",
+        "url": "https://open.spotify.com/album/4CwW8sORJ7AuVjUKBJkeoQ"
       },
       "artists": [
         {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 204564,
-      "name": "Mujer de las Mil Batallas",
-      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
+      "duration_ms": 248500,
+      "name": "Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1",
+      "url": "https://open.spotify.com/track/3ocPf13AZvX6QlNuQf6RVV"
     },
     {
       "added_at": "2023-04-27 23:54:49",

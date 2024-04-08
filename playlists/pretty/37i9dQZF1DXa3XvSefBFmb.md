@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Marisa Liz, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,145 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,149 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 48 | [Thrill Seeker](https://open.spotify.com/track/0ErnuWGDC8zZSfdlAJm44h) | [Aurea](https://open.spotify.com/artist/752oCkLr3xnW9IVBnAhMMn) | [Confessions](https://open.spotify.com/album/1DP7JDT5iLjq4CEpgzcP5L) | 3:35 |
 | 49 | [Tentação](https://open.spotify.com/track/5XEoPgQZnEhEMG9CfUT2kn) | [Allis](https://open.spotify.com/artist/3UHXnkjXYnwQXXEDgVEHy1) | [Tentação](https://open.spotify.com/album/5AgNj4BvL8LAQv7vJpiVmk) | 2:28 |
 
-Snapshot ID: `MCwzZWM2Mzg0YzhmNzBiNDg3MDAyMzk2YjkwMTM2NGE1OWU5NDU0MGQ5`
+Snapshot ID: `MCxhMzRlMWU3NWM0YTc1YTJmNTRmMGQxYmRhZDg5OTZkYjY1MGQxMTQ3`

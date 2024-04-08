@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 34712,
+  "2024-04-08": 34746,
   "date_first_scraped": "2022-06-05",
   "description": "Dive into the deep end of the tech house spectrum.",
   "name": "Minimal Tech",
@@ -1633,6 +1633,28 @@
       "duration_ms": 204836,
       "name": "Fuck The Regs",
       "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1U7zIaMNbQJU120cU6iEym"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        },
+        {
+          "name": "Moonage",
+          "url": "https://open.spotify.com/artist/3IA8v0laMEfTiVfDPekUDX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i"
     },
     {
       "album": {
@@ -5215,7 +5237,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 164340,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"

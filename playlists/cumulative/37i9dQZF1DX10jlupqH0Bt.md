@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-72 songs - 3 hr 23 min
+73 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [852 Hz Solfeggio Frequency](https://open.spotify.com/track/1BlShSC3ve29Ot3wFSrnVF) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [852 Hz Solfeggio Frequency](https://open.spotify.com/album/6YXl3OaEfbc3QwjBhrHVaI) | 2:29 | 2023-03-10 | 2023-12-07 |
 | [852 Hz Soothe Anxiety](https://open.spotify.com/track/1l3mTHxVzws34jKfWmXH0M) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [852 Hz Soothe Anxiety](https://open.spotify.com/album/5pfGTMLg9ot9u4HlUyiniK) | 2:29 | 2023-03-10 |  |
 | [852 Hz Spiritual Order](https://open.spotify.com/track/5WVra5Ra0EBm5cbEfDT7Cr) | [Particle Guidance](https://open.spotify.com/artist/2Ol6nr2IZ1Jqs1scycbjLZ) | [Harmonic Intonation](https://open.spotify.com/album/4L17rtwyeMNeQJDnoxwgET) | 3:42 | 2023-03-10 |  |
+| [852 Hz The Sacred Call](https://open.spotify.com/track/0fmO230foTgdidV10QKOUf) | [Tottori](https://open.spotify.com/artist/2cxaVq3RTbmSCpIv1jBvSp) | [852 Hz The Sacred Call](https://open.spotify.com/album/0QvNA80NWGvPAXMFeZHswv) | 2:13 | 2024-04-07 |  |
 | [852hz Awaken your Intuition](https://open.spotify.com/track/0alIWUlJRDiiyOmq1y4uB1) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 4:50 | 2023-11-30 |  |
 | [852hz Return to Spiritual Order](https://open.spotify.com/track/2v07Tr7WeqbNTW2r037GEJ) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:08 | 2023-11-30 |  |
 | [Ajna](https://open.spotify.com/track/4h4F7TC8bXOzxU34kMMhXL) | [Klangschalenmeditation](https://open.spotify.com/artist/6XUAMk67lcJtkJ6M9ikGF6) | [Chakrameditation](https://open.spotify.com/album/3lnoWrwdm2ynZoG6ESDO46) | 1:48 | 2023-03-10 | 2024-03-14 |

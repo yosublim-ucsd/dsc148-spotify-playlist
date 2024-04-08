@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Banzy Banero
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,522 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,525 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 |
 | 80 | [Not Good Alone](https://open.spotify.com/track/5AuTu4aIJDB1pBEvEMN9Es) | [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [JC Machin](https://open.spotify.com/artist/2FEnjKB2FwfbtfpCkUlEvi) | [Not Good Alone](https://open.spotify.com/album/7pjqxEIqprQ26c3bqGOrKL) | 3:04 |
 
-Snapshot ID: `MCw5NzJlODg5NGU5YjI4MjgyMjM0ZGFkZjJiNGFiZGVhZjMwYjA1N2M1`
+Snapshot ID: `MCxlOGU1NGJjMGM1NTM3YjFmNTFjMTU3MDMzZjRhZGJjMzMxMzQ0NWU0`

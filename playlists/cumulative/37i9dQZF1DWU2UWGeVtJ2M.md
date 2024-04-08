@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-312 songs - 17 hr 13 min
+313 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Baby Cakes](https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Baby Cakes](https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu) | 3:48 | 2022-06-06 | 2022-07-29 |
 | [Bayou](https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 2:13 | 2023-09-18 | 2023-10-08 |
 | [Be On My Way \(Full\)](https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 2:37 | 2024-02-12 | 2024-03-18 |
+| [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 | 2024-04-08 |  |
 | [Better Version](https://open.spotify.com/track/3TSi3kAdU1PLg3bEQbMKes) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 3:35 | 2023-03-20 |  |
 | [Better Version](https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Better Version](https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU) | 3:35 | 2022-07-25 | 2023-03-23 |
 | [betterlove](https://open.spotify.com/track/020BU0EzWu1qQDj6qXRNRe) | [The Legacy](https://open.spotify.com/artist/4A8MJHyHDhtgq8QxOUkx2A) | [betterlove](https://open.spotify.com/album/2R6iU9N1ucrdfMVEqt08qZ) | 3:07 | 2022-06-06 | 2022-07-29 |
@@ -72,7 +73,7 @@
 | [Complexion](https://open.spotify.com/track/2nQtfIkK3eE4SQiaUfAgd5) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Complexion](https://open.spotify.com/album/6mLbfA9FOK4gnbcdXD0Mr6) | 3:09 | 2022-07-11 | 2022-07-29 |
 | [complicated](https://open.spotify.com/track/27IVr9M62UTAYt6wR6NPWo) | [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [y?](https://open.spotify.com/album/7yw1daRd2TJxXYeasjXICE) | 3:54 | 2022-06-06 | 2022-07-24 |
 | [Corners](https://open.spotify.com/track/2Olgc28d1IdtLvleeBhtOd) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Corners](https://open.spotify.com/album/078PETq9bWATB06HaidwY8) | 2:59 | 2022-06-13 | 2022-07-27 |
-| [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 | 2022-10-24 |  |
+| [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 | 2022-10-24 | 2024-04-08 |
 | [Crush](https://open.spotify.com/track/7Gwq1C5FdI1PDnO7n4iIWY) | [izzy mariano](https://open.spotify.com/artist/1TC8lQaC63mXEXArQWLScf) | [Crush](https://open.spotify.com/album/5bWXQXxvr94OyOnDdTtz4b) | 3:18 | 2022-06-06 | 2022-07-28 |
 | [DANCE FOR ME!](https://open.spotify.com/track/5dC4u25f9GHzZIPLAcJKEC) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [DANCE FOR ME!](https://open.spotify.com/album/1EXAGR62lkR5QQ9Zn6dMZk) | 4:24 | 2022-07-11 | 2022-07-24 |
 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 | 2024-03-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,054 likes - 209 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,119 likes - 209 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 208 | [Ultraviolet Dream](https://open.spotify.com/track/2RvWqqueP3Qfwqn0s3dWCI) | [Pax Magnolia](https://open.spotify.com/artist/1rTNvNMPdbMrZwTzvu1e7U) | [Ultraviolet Dream](https://open.spotify.com/album/3KXRBPQAbUeBveuZ4yEWTo) | 2:45 |
 | 209 | [Idyllica](https://open.spotify.com/track/595wjSvF9vZ3yiyu6yzicF) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Idyllica](https://open.spotify.com/album/4YWyvu33UuHfzQFcfixhYW) | 2:13 |
 
-Snapshot ID: `MCxjMTY0MDlkMDc2YWQwNGFiZWFkNmViYmVkMjQ2YjhkZjk2YWU4YzE5`
+Snapshot ID: `MCw2MjhkNDI2YWRlNzRjNDQxYTNkNmYzOGJhOGVjYzVjMjBkOWM3YzA4`

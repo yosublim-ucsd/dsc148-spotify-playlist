@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 197106,
+  "num_followers": 197155,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTEyMDE3OGU0NmNjNGU1YmE4MjU2ZmNhMTI2N2VlZWYwY2I4OTdi",
+  "snapshot_id": "MCxhYzFkZDk2N2FlNzM0MjNhNGFjYTc0NDY5MWIyOThmN2Q2ZDY0ZTJj",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Noche En Culiac\u00e1n",
-        "url": "https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 173125,
-      "name": "Una Noche En Culiac\u00e1n",
-      "url": "https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto"
+      "duration_ms": 146360,
+      "name": "Mafia Nueva",
+      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
     },
     {
       "added_at": null,
@@ -479,8 +475,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Una Noche En Culiac\u00e1n",
+        "url": "https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 173125,
+      "name": "Una Noche En Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
       "artists": [
         {
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Mafia Nueva",
-      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
+      "duration_ms": 203128,
+      "name": "Tu Fotografia",
+      "url": "https://open.spotify.com/track/5YXbNf3uYo713jo7uDARia"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
       "duration_ms": 194220,
       "name": "Soy de Parral - En Vivo",
       "url": "https://open.spotify.com/track/6uYfaTJYYC0WCCLu9N3hCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 203128,
-      "name": "Tu Fotografia",
-      "url": "https://open.spotify.com/track/5YXbNf3uYo713jo7uDARia"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 195303,
-      "name": "Soy de Rancho",
-      "url": "https://open.spotify.com/track/0FwUglqH6FtXpI41kBLTfI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 230635,
       "name": "Abusamos Del Alcohol",
       "url": "https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 195303,
+      "name": "Soy de Rancho",
+      "url": "https://open.spotify.com/track/0FwUglqH6FtXpI41kBLTfI"
     },
     {
       "added_at": null,

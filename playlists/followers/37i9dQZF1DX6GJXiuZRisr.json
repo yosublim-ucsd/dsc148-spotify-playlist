@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 1551216,
+  "2024-04-08": 1551369,
   "date_first_scraped": "2021-12-21",
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
   "name": "Night Rider",
@@ -5594,6 +5594,28 @@
     },
     {
       "album": {
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226048,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "album": {
         "name": "Numb (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
       },
@@ -8089,7 +8111,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 156795,
       "name": "The Maker",
       "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"

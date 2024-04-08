@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:1q6xQXmuTccwh7gBR7ToUN">Common Hymnal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,053 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,151 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Impossible](https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:53 |
 | 100 | [Big Big God \- Extended Version](https://open.spotify.com/track/1z4hjQ1OCC8EaYW1J45LcO) | [Craig Mizell](https://open.spotify.com/artist/1rOY1iw4CvLiLh22QXlO7i), [The Collective](https://open.spotify.com/artist/4VJFjCxnsUyDyHdKGrxJIn), [Detroit Youth Choir](https://open.spotify.com/artist/66FHA5afkqcg2K3Qwd9LaT), [Kevin Stewart](https://open.spotify.com/artist/6NqkRIkLkQMU2ojpWSTBoN), [Leila Taraneh](https://open.spotify.com/artist/7Gv6D9y5s4AaW0thF3f06F) | [Big Big God](https://open.spotify.com/album/1fUMDYlFFUXuBy8BpVwm9D) | 4:52 |
 
-Snapshot ID: `MCw1MWVlOTMyMzQyNTZhMGU0MDUzMGQ3NmE1M2FhYTEyYjFjMTNiZjNh`
+Snapshot ID: `MCw0MGRmYmU1NTQ0YTQ0MWQ0MmVjYjMzMzRmZjg1OGEyYjBmMTM5Y2E5`

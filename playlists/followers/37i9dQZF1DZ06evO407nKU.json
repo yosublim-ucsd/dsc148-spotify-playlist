@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 48327,
+  "2024-04-08": 48326,
   "date_first_scraped": "2022-06-02",
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
   "name": "This Is Perdidos De Sinaloa",
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 156688,
       "name": "Las Cosas Claras - En Vivo",
       "url": "https://open.spotify.com/track/1SifK6XZXviazGWP2w1uGH"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 303297,
       "name": "Popurri Cumbias - En Vivo",
       "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
@@ -2017,6 +2017,24 @@
       "duration_ms": 214915,
       "name": "Un Desengano",
       "url": "https://open.spotify.com/track/0rCIHeL20CCCOWjvyIv2sP"
+    },
+    {
+      "album": {
+        "name": "Un Idiota",
+        "url": "https://open.spotify.com/album/5DoFTiNjJxXKRIzUaiRQkG"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173412,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/1JUwppOYBF8S2zKGq6JDye"
     },
     {
       "album": {

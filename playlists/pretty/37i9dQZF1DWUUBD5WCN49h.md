@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Kojo Blak
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,645 likes - 103 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,651 likes - 103 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 37 | [WRONGS](https://open.spotify.com/track/7ydl4S47WMYBgG54b2jet3) | [Drizzy Bangz](https://open.spotify.com/artist/6FGjwThohKOCI6VcmYYLtA) | [WRONGS](https://open.spotify.com/album/2GAiGdCq0THhILBhe409Cd) | 2:24 |
 | 38 | [ALWAYS](https://open.spotify.com/track/6Wkoz5kAWOTIHewXzn9srF) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [ALWAYS](https://open.spotify.com/album/5M3zUxFgRlneZtiEXGuKYe) | 2:52 |
 | 39 | [BEBE](https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [BEBE/CINNAMON](https://open.spotify.com/album/1xNUH2MsviQz6p4firxKHR) | 2:45 |
-| 40 | [Hot Box](https://open.spotify.com/track/7sEYYNhpjS2XUoS2YXmmBO) | [Plug Music](https://open.spotify.com/artist/5sVHv1gaAjQw2X2gyYpKq6), [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ), [Peb](https://open.spotify.com/artist/3bvytC8mIZgNlMGiWtzTU1), [Reynbow](https://open.spotify.com/artist/61XaM5gMcoCAslh87geEVQ), [Yoma](https://open.spotify.com/artist/0Ifsqx9PTlmpGRqE0jnXNK) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 2:10 |
+| 40 | [Hot Box](https://open.spotify.com/track/7sEYYNhpjS2XUoS2YXmmBO) | [Plug Music](https://open.spotify.com/artist/5sVHv1gaAjQw2X2gyYpKq6), [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ), [PEB](https://open.spotify.com/artist/4ski8pfswvIcQOXTfTeAWF), [Reynbow](https://open.spotify.com/artist/61XaM5gMcoCAslh87geEVQ), [Yoma](https://open.spotify.com/artist/0Ifsqx9PTlmpGRqE0jnXNK) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 2:10 |
 | 41 | [Butterfly](https://open.spotify.com/track/19otAriajhp52Uo23vCRJ9) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw) | [Butterfly](https://open.spotify.com/album/6Wkf2TL4mufO0wLrfqsfzF) | 2:59 |
 | 42 | [Love practitioner](https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love practitioner](https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y) | 2:35 |
 | 43 | [Tonic No Lime](https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Tonic No Lime](https://open.spotify.com/album/0urB5NaXZ8nuLaYyAL5kil) | 3:03 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 102 | [Afro Bass](https://open.spotify.com/track/57SIbxmrWA7GsMtv5micLJ) | [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [Afro Bass](https://open.spotify.com/album/5OFYLCyFCuhR4hnTlqQtvn) | 2:32 |
 | 103 | [Proverbs 31 Woman](https://open.spotify.com/track/4fi5eKXzsVMDo5lSxqWx6X) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Proverbs 31 Woman](https://open.spotify.com/album/4ZFXhqhJQ01oYZiMk8pC63) | 2:47 |
 
-Snapshot ID: `MCxmOTQyNmI5YWMwYjhiMjM2MzQ1YTZkMDY4YjYyZDllMTQzN2FiMzMw`
+Snapshot ID: `MCxkYjQ4MWYwMTNmZmI2MDU3NDc3ZjlkM2Q1ODc1MmU5MzZiOTc3MGI3`

@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-139 songs - 10 hr 34 min
+140 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [shibuya \(feat\. San Holo\)](https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [effloresce](https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny) | 5:45 | 2021-05-04 |  |
 | [Silkroad](https://open.spotify.com/track/6EZ4V32DQZ7V7hRUwBVb7u) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [The Journey](https://open.spotify.com/album/6QJNcXUow95qKDvfg1byG2) | 4:33 | 2023-07-21 |  |
 | [SkyBluePink](https://open.spotify.com/track/7epiIQqEvELiXG9YOG5Nj6) | [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2) | [SkyBluePink](https://open.spotify.com/album/4300q4yRsvBxrZlr64K42v) | 5:25 | 2022-10-11 |  |
-| [Slam](https://open.spotify.com/track/5ur2JO683Tt1D3hPttMQ0d) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/4YqnydxjrIqxytqlHXCyxJ) | 4:37 | 2021-05-04 |  |
+| [Slam](https://open.spotify.com/track/2z54PSmczfteELFLbzo52H) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/5egVrnO8AjlG56mdm1GEtg) | 4:37 | 2021-05-04 |  |
+| [Slam](https://open.spotify.com/track/5ur2JO683Tt1D3hPttMQ0d) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/4YqnydxjrIqxytqlHXCyxJ) | 4:37 | 2021-05-04 | 2024-04-08 |
 | [Soundtrack Life](https://open.spotify.com/track/7E6VxeL3kzU330AA11FhqE) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Soundtrack Life / Yesterday Meets Today](https://open.spotify.com/album/2kipIDLTDxSHWM7MC6MqUx) | 4:19 | 2022-07-29 |  |
 | [Spare Tire](https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Spare Tire](https://open.spotify.com/album/2YUPATCVtrrTMw5kFRqdhk) | 2:48 | 2021-07-30 |  |
 | [Star Catchers \(feat\. Steve Lukather, Jason “JT” Thomas, Wes Stephenson, Philip Lassiter & The Philthy Hornz\)](https://open.spotify.com/track/0jLeYaIIEyCkZSW3gxgAeL) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Jason "JT" Thomas](https://open.spotify.com/artist/5sN8E3sVIXfIgkW8rvOutw), [Wes Stephenson](https://open.spotify.com/artist/0su3WUFcvO40NtFuDiaT88), [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Philthy Hornz](https://open.spotify.com/artist/0d2ebWZLrHX5Wzaekd1lZM) | [Star Catchers \(feat\. Steve Lukather, Jason "JT" Thomas, Wes Stephenson, Philip Lassiter & The Philthy Hornz\)](https://open.spotify.com/album/4Ji2GH0mZW6q7kGFjMAqiK) | 5:37 | 2021-05-04 |  |

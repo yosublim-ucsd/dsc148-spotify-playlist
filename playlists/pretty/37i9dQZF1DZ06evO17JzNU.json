@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 21478,
+  "num_followers": 21490,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjMyNmFhZTFmM2Q2MTJlYjFlOTM5NTNiMDkwNDlkMDJjOGJmYmQw",
+  "snapshot_id": "MCw4OTFkNjhiNzdmMmJiMjViOGU3OTQ2NGM1NmVkYzZlYzVkYTg3MWVi",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Michoacano",
+        "url": "https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 227808,
+      "name": "El Michoacano",
+      "url": "https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 175616,
+      "name": "RUEDA AZUL",
+      "url": "https://open.spotify.com/track/0c10rwA7d7c36i4p3qGqgL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Nuevo Dia",
         "url": "https://open.spotify.com/album/6w3v2OwRiIPlygawEW9rXM"
       },
@@ -615,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+        "name": "Corridos Chakalosos",
+        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
       },
       "artists": [
         {
@@ -624,25 +656,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 175616,
-      "name": "RUEDA AZUL",
-      "url": "https://open.spotify.com/track/0c10rwA7d7c36i4p3qGqgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Michoacano",
-        "url": "https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 227808,
-      "name": "El Michoacano",
-      "url": "https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5"
+      "duration_ms": 188778,
+      "name": "La Vida Recia",
+      "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
       "duration_ms": 116000,
       "name": "Sin Opci\u00f3n",
       "url": "https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Chakalosos",
-        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 188778,
-      "name": "La Vida Recia",
-      "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Achillo",
+        "url": "https://open.spotify.com/album/1J6Edxly1ds40IcPhE6Fvx"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "El Achillo",
+      "url": "https://open.spotify.com/track/1wV8nsIBPLpovpqOZnb24y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nos Traicionamos",
         "url": "https://open.spotify.com/album/3Rq5R5vEESkgS4IkSpXqJ2"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 283255,
       "name": "Nos Traicionamos",
       "url": "https://open.spotify.com/track/2QoKoiOyMDhqXll6ldKoMp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Achillo",
-        "url": "https://open.spotify.com/album/1J6Edxly1ds40IcPhE6Fvx"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "El Achillo",
-      "url": "https://open.spotify.com/track/1wV8nsIBPLpovpqOZnb24y"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqui Voy",
-        "url": "https://open.spotify.com/album/7elYugvYZ06KpKoPkJGjbQ"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174566,
-      "name": "Aqui Voy",
-      "url": "https://open.spotify.com/track/09WLhpyPAcQhPh5HAAjgUj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos y Sentimientos (Vol 2)",
         "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 206250,
       "name": "Apellido Guzman",
       "url": "https://open.spotify.com/track/0CrErg58IbHXNzDqiMBTfT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqui Voy",
+        "url": "https://open.spotify.com/album/7elYugvYZ06KpKoPkJGjbQ"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174566,
+      "name": "Aqui Voy",
+      "url": "https://open.spotify.com/track/09WLhpyPAcQhPh5HAAjgUj"
     },
     {
       "added_at": null,

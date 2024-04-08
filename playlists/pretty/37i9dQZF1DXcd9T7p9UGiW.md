@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Aya Nakamura & Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,534 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,589 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [How We Roll \- Major League DJz & Yumbs Mix](https://open.spotify.com/track/7hi8GmnR1Jma6J0ABBbxYc) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How We Roll \(Major League DJz & Yumbs Mix\)](https://open.spotify.com/album/2hmGOyMvAd7YDHqIzTmXGb) | 3:41 |
 | 80 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 |
 
-Snapshot ID: `MCxmYmM5ODZjZGFmMmZmMWRjMjRjMGJmZDE1ZWNmOWYxNmI3MTQ2MGU5`
+Snapshot ID: `MCwzMDk0ODY4M2YzNGFjODZiZDI3NWZkNWQ1Zjc5ZDVlMGNkMGJhMDlh`

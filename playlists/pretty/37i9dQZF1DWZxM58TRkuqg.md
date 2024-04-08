@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Ghea Indrawari
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,697 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,028 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 59 | [Setia](https://open.spotify.com/track/7aqMkjcUMFvv5cQIqnevts) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Setia](https://open.spotify.com/album/7xZeCDDpE6SHQI3qZBPT0B) | 3:40 |
 | 60 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 |
 
-Snapshot ID: `MCxjZWZmYTkyY2ZjYTc4OTk1MmI3OTQyNDA5YTdmODM3NjJkYWIyODY0`
+Snapshot ID: `MCw2NWU3ZGE1MmU1YTRhYTZkMjljYjlkNWMzYjMxNWI3NGFjYmRjN2Q4`

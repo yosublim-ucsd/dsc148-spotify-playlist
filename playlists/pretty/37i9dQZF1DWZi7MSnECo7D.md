@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Bruno Berle
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,896 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,911 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 15 | [Oração 18 \(pra viver junto\)](https://open.spotify.com/track/7pocXmDZywvGx6vNz2VpIc) | [Luiza Brina](https://open.spotify.com/artist/09h0yBO50UAcaFa4papv3X) | [Oração 18 \(pra viver junto\)](https://open.spotify.com/album/1G5SOAr5BN4J50Sa54mE3f) | 3:02 |
 | 16 | [Não Tem Ninguém Vivo Aos Domingos](https://open.spotify.com/track/0AK189S1vIQRcK5SiQxHJQ) | [Soprü](https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9) | [Semana Estreita](https://open.spotify.com/album/0M0EqrfLQpwgU3xaGcKyaj) | 3:32 |
 | 17 | [tuas pegadas](https://open.spotify.com/track/2WUTnaCLjbm5P0lVNx0vxM) | [sonhos tomam conta](https://open.spotify.com/artist/7rVsNgf4xbMJcVPNilWTnV) | [corpos de água](https://open.spotify.com/album/2NIwvzVlWeAIZdA6sRTSlz) | 7:08 |
-| 18 | [Tirolirole](https://open.spotify.com/track/2xJrDU7mL8LwzCKISGXYPN) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Tirolirole](https://open.spotify.com/album/127vWtIY7ifAeFWhIhpgPW) | 3:01 |
+| 18 | [Tirolirole](https://open.spotify.com/track/3ByPnYe3VB9nnR8ID3Nvtt) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [No Reino Dos Afetos 2](https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3) | 3:01 |
 | 19 | [Cada Caos](https://open.spotify.com/track/54fFmNQNkzUzNi12QWyWwA) | [Camurça](https://open.spotify.com/artist/403tGQ47rMxSshoKZCmTck) | [Cada Caos](https://open.spotify.com/album/4FtQh0GCseTVdDXSCiB2gT) | 3:18 |
 | 20 | [Strokinho](https://open.spotify.com/track/2k6DnW7pZj1x5eRMVCrAth) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Strokinho](https://open.spotify.com/album/1nYKRWKxbNnZNFHI9Vinuy) | 1:56 |
 | 21 | [Goteira de Amor](https://open.spotify.com/track/7zWem6BVqAtotg4nHH7RxX) | [Fantástico Caramelo](https://open.spotify.com/artist/0LsC50sqPpTcHPGY8lyvwJ) | [Goteira de Amor](https://open.spotify.com/album/4T3Uv1Khl0uXyocpB9C4OW) | 2:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 59 | [Terra do Nunca Mais](https://open.spotify.com/track/7Kt4Z5D10KiBFzBu1PPeAM) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Terra do Nunca Mais](https://open.spotify.com/album/4IVbk8x030ph7yTku23iEP) | 3:30 |
 | 60 | [Horas Iguais](https://open.spotify.com/track/3Ya1g8ylZheWcFhyF5RzKM) | [Lúcio Maia](https://open.spotify.com/artist/0uu17DoK7kT8DWzO9CLA5O) | [Horas Iguais](https://open.spotify.com/album/3XATFGhrDvTibddYrjAXpJ) | 3:14 |
 
-Snapshot ID: `MCxkZjQyYzkxOWFmOWI0Yjc4ZGE0YzMyZmVmZTFjMTE1ZTAxOWFmNTRm`
+Snapshot ID: `MCw5MDEyMDdkODA3ZWM1ZTgwZDlmN2JhMDc3YzlhZTNhMDA5NWIzMTAy`

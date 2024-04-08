@@ -7956,10 +7956,32 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 241626,
       "name": "We Belong",
       "url": "https://open.spotify.com/track/1iFLqxy0jMaCXshHTAHIFQ"
+    },
+    {
+      "album": {
+        "name": "We Belong",
+        "url": "https://open.spotify.com/album/1CswJNzuinL7ezwVCQPPLr"
+      },
+      "artists": [
+        {
+          "name": "Sinkane",
+          "url": "https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w"
+        },
+        {
+          "name": "STOUT",
+          "url": "https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "We Belong",
+      "url": "https://open.spotify.com/track/4UWuluqabYpNZGoqNVGmBI"
     },
     {
       "album": {

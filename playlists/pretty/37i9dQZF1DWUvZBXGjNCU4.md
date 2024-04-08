@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,308 likes - 104 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,319 likes - 104 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 103 | [As Lovely as You](https://open.spotify.com/track/1DM9o5mLVWg0gigkcHBLHE) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [As Lovely As You](https://open.spotify.com/album/332IMrwRY4IP3srSACnjH4) | 3:07 |
 | 104 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 |
 
-Snapshot ID: `MCxlODAxMTk4ODc3ODY0MTgzZjQ0NTUxNjE0MTZhNTEyMjUyYzkzOGRl`
+Snapshot ID: `MCw0ZjQyYmM3Yjk3NjI0YzlkZWY2MmY4NDE4NjM5NWQyMjg2ODI2NDQ0`

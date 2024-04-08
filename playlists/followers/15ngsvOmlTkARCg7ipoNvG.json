@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 18937,
+  "2024-04-08": 18937,
   "date_first_scraped": "2022-10-03",
   "description": "Beautiful instrumental music to keep you in the flow as you code or study. An ideal playlist for programming during stressful times --- | program | programmer | software | software engineer | computer science | concentrate | concentration | focusing |",
   "name": "CODING FOCUS",
@@ -14321,6 +14321,24 @@
       "duration_ms": 62367,
       "name": "Inner Frost",
       "url": "https://open.spotify.com/track/5CqSikTVudc3u3UQK00MC4"
+    },
+    {
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/10JQaOmLw1XPMMHYaD1Kwh"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60495,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/43EbOJD3L0SEwSUusgq39w"
     },
     {
       "album": {

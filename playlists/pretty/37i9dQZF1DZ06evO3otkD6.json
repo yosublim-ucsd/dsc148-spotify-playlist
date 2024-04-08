@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 64962,
+  "num_followers": 64970,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTNjMGMxNTE5NDc0Y2Y3Y2M0ZDIzODcxMDZjNTY3YWE1NjcxNzVk",
+  "snapshot_id": "MCwyMWUxMTNlMTc2NjBhZTk0MzMxZGFmNmUzNzNjM2UzYWE1MmFmNzNl",
   "tracks": [
     {
       "added_at": null,
@@ -71,30 +71,6 @@
       "duration_ms": 165230,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 204414,
-      "name": "La Ni\u00f1a de la Escuela",
-      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": null,
@@ -231,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "\u00c1ngel - Once in Your Lifetime",
+      "url": "https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Detector De Metal",
         "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
       },
@@ -247,22 +239,6 @@
       "duration_ms": 250866,
       "name": "Muriendo Lento (feat. Belinda)",
       "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "\u00c1ngel - Once in Your Lifetime",
-      "url": "https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G"
     },
     {
       "added_at": null,
@@ -323,6 +299,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 164649,
+      "name": "Ll\u00f3rame Un R\u00edo",
+      "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The King Is Back",
         "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
       },
@@ -343,26 +339,6 @@
       "duration_ms": 185480,
       "name": "Si No Te Quisiera",
       "url": "https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FINAL (Vol.2)",
-        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 164649,
-      "name": "Ll\u00f3rame Un R\u00edo",
-      "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
     },
     {
       "added_at": null,
@@ -852,9 +828,9 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Lolita",
-      "url": "https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP"
+      "duration_ms": 206226,
+      "name": "Sal De Mi Piel",
+      "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
     },
     {
       "added_at": null,
@@ -932,9 +908,9 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 206226,
-      "name": "Sal De Mi Piel",
-      "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
+      "duration_ms": 206400,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP"
     },
     {
       "added_at": null,
@@ -995,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial de Belinda",
-        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
-      },
-      "artists": [
-        {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Amigos por Siempre",
-      "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ao Vivo No Rio",
         "url": "https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6"
       },
@@ -1035,18 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+        "name": "Lo Esencial de Belinda",
+        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
       },
       "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 193706,
-      "name": "Alguien Mas",
-      "url": "https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ"
+      "duration_ms": 194080,
+      "name": "Amigos por Siempre",
+      "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
     },
     {
       "added_at": null,
@@ -1067,6 +1027,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Alguien Mas",
+      "url": "https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
@@ -1079,26 +1055,6 @@
       "duration_ms": 213760,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aventuras En El Tiempo",
-        "url": "https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Aventuras En El Tiempo",
-      "url": "https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz"
     },
     {
       "added_at": null,
@@ -1119,6 +1075,26 @@
       "duration_ms": 194576,
       "name": "Madrid X Marbella",
       "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aventuras En El Tiempo",
+        "url": "https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Aventuras En El Tiempo",
+      "url": "https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz"
     },
     {
       "added_at": null,
@@ -1231,6 +1207,26 @@
       "duration_ms": 216520,
       "name": "I Love You... Te Quiero",
       "url": "https://open.spotify.com/track/7FFFRavnUPwKhidY259LMD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial de Belinda",
+        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Paso, Paso",
+      "url": "https://open.spotify.com/track/0rUm6IbXJzwwenvxE72ntm"
     }
   ],
   "unique_name": "This Is Belinda",

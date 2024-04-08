@@ -1,12 +1,12 @@
 {
   "description": "la nueva ola de artistas con Noa Sainz en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79551,
+  "num_followers": 79557,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGI4OGQ1MDljY2ZmNGI2ZTdlZWM5NzMwNmRhZDdkMThjZGU1ZTg0",
+  "snapshot_id": "MCw5MzU1ZjQ3N2ZiZGQ1NjQ3NTNiODk0Zjk4ZmM5YzcxY2YyMDgwOWQ0",
   "tracks": [
     {
       "added_at": "2024-03-22 06:00:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "DIME X FAVOR",
+        "url": "https://open.spotify.com/album/2kbXiRgoHS4gf0xlkaqFXb"
+      },
+      "artists": [
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        },
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "DIME X FAVOR",
+      "url": "https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "rangerover",
         "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
       },
@@ -983,22 +1003,18 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "DIME X FAVOR",
-        "url": "https://open.spotify.com/album/2kbXiRgoHS4gf0xlkaqFXb"
+        "name": "odio esta casa (cuando te vas)",
+        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
       },
       "artists": [
         {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
-        },
-        {
-          "name": "Angie",
-          "url": "https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm"
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
         }
       ],
-      "duration_ms": 179000,
-      "name": "DIME X FAVOR",
-      "url": "https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr"
+      "duration_ms": 194048,
+      "name": "odio esta casa (cuando te vas)",
+      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1019,38 +1035,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "odio esta casa (cuando te vas)",
-        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 194048,
-      "name": "odio esta casa (cuando te vas)",
-      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 224363,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Ya No Es Lo Mismo",
         "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 144749,
       "name": "Algo Que Escuch\u00e9 / Algo Que Vi",
       "url": "https://open.spotify.com/track/7GrNmmMydQfmhBN9YfCeRc"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "La Lista",
-        "url": "https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 224363,
-      "name": "La Lista",
-      "url": "https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF"
     },
     {
       "added_at": "2024-03-22 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld\. featuring a 10 track co\-curation from <a href="spotify:artist:0I7VmE5LkRmWoHltutTUh9">asteria</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,600 likes - 100 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,760 likes - 100 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 99 | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW) | 2:48 |
 | 100 | [Just A Hint](https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:14 |
 
-Snapshot ID: `MCwzM2YzOTAzNWQ3YzBmZTFiNThmYjMxZWYzODgwNzNkNTY0MmY4YzNi`
+Snapshot ID: `MCw1N2MzODM1MTczZDgyODRkZjRiY2M3YTNiMjdlYzkyOWJjMDhiMmY1`

@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 132360,
+  "num_followers": 132393,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTI2MThjZTRiOTkxZmZmMzgyNTY5NDFmZDIyMWNhMThmYjRmYzA4",
+  "snapshot_id": "MCw3NjFlZjdmYzk3MWM0YzcyNTU4ZjZmNWZkYWVkMjJmNTVkYTRhMWU5",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akoma",
-        "url": "https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE"
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
       "artists": [
-        {
-          "name": "Jlin",
-          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
-        },
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 246053,
-      "name": "Borealis",
-      "url": "https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q"
+      "duration_ms": 290906,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/1R2UhZCSxL1N4kcwa929Fu"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+        "name": "Akoma",
+        "url": "https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE"
       },
       "artists": [
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        },
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 290906,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/1R2UhZCSxL1N4kcwa929Fu"
+      "duration_ms": 246053,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Wittenberg Orca (Expanded Edition)",
-        "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
-      },
-      "artists": [
-        {
-          "name": "Dirty Projectors",
-          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Sharing Orb",
-      "url": "https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 242341,
       "name": "Afterwards",
       "url": "https://open.spotify.com/track/0XZTpSctNFE0WVQQL7qWMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mount Wittenberg Orca (Expanded Edition)",
+        "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Sharing Orb",
+      "url": "https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 195943,
+      "name": "Sorrowful Soil",
+      "url": "https://open.spotify.com/track/1hxJTaQouJURyxUA7yxOwM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mount Wittenberg Orca (Expanded Edition)",
         "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 136360,
       "name": "Beautiful Mother",
       "url": "https://open.spotify.com/track/3shbvAgUyh9nhJa53JN8mB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 195943,
-      "name": "Sorrowful Soil",
-      "url": "https://open.spotify.com/track/1hxJTaQouJURyxUA7yxOwM"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

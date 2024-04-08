@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Artie 5ive, Rondodasosa, MACE, Silent Bob e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,900 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,932 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 4 | [SAB](https://open.spotify.com/track/2feRGIQMsbAiaREBKD5Jpl) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [SAB](https://open.spotify.com/album/53OXeIn2SNDGOYmrYAchK7) | 2:46 |
 | 5 | [Mood Blu](https://open.spotify.com/track/0ayXlzf3J7QqeHw8bsSSdd) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Mood Blu](https://open.spotify.com/album/4L7VB7EeJUl3JP5kqduP1M) | 2:15 |
 | 6 | [La mia città \(feat\. Vale Pain\)](https://open.spotify.com/track/6RTF8VRxvvodW2PSs5pHww) | [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [La mia città \(feat\. Vale Pain\)](https://open.spotify.com/album/5dR2KTWOy28XvjNz3NZGRx) | 3:10 |
-| 7 | [SANTO \(feat\. Tony Boy & Swan\)](https://open.spotify.com/track/6dToetZB2vW270C9QvdAdO) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Swan](https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE) | [Real Talk \- 5/6 feat\. Tony Boy](https://open.spotify.com/album/70xzri4dvGeP1pU5i9awfo) | 1:22 |
+| 7 | [SANTO \(feat\. Tony Boy & Swan\)](https://open.spotify.com/track/6dToetZB2vW270C9QvdAdO) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Swan](https://open.spotify.com/artist/3OozESsnCC27eiR9Wx6xBL) | [Real Talk \- 5/6 feat\. Tony Boy](https://open.spotify.com/album/70xzri4dvGeP1pU5i9awfo) | 1:22 |
 | 8 | [Sex Drugs Money](https://open.spotify.com/track/7wIPI84dqSrD7bgPPgHygA) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [4ever Young \(Deluxe\)](https://open.spotify.com/album/0gm6fM3b5HrfV306e20I5l) | 2:28 |
 | 9 | [MERCOLEDÌ](https://open.spotify.com/track/3us3mAJQ3FHF7f5VvqMVCi) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [MERCOLEDÌ](https://open.spotify.com/album/3Az1k3g9oasddvMM5umLe2) | 3:45 |
 | 10 | [LUMIERE ᯤ \(con Izi, Ernia, Tony Boy, Digital Astro\)](https://open.spotify.com/track/4hGOZFnihN22IsswyRpueW) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [1K 2K 3K](https://open.spotify.com/track/0uF1EfAMmFWW3EvdqMzJfe) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [1K 2K 3K](https://open.spotify.com/album/2kqRGd6HpKXCJ7rrvjR8SM) | 2:38 |
 | 100 | [NASTY](https://open.spotify.com/track/7FmJ24EdZb8ktn5OBg11b8) | [XWOND](https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX) | [NASTY](https://open.spotify.com/album/4wsyabPdMHIJmWB38ytUeL) | 2:18 |
 
-Snapshot ID: `MCxkZmI5MTk0YmE1YmMwMTdlYjkzODI2NWQ0YTVlNTgwODliMmMwMGI3`
+Snapshot ID: `MCw5NThjNTYyMzNhZTI4YWVlZDZiNDJkNzY2NTNmMjE3MGU4MjYyNzZj`

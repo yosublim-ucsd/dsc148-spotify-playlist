@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: \(G\)I\-DLE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,333 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,330 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Dive in Love](https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [Dive in Love](https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7) | 3:39 |
 | 50 | [Somebody Else](https://open.spotify.com/track/13MHQicBjjElwv14aHpcE3) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [Somebody Else](https://open.spotify.com/album/3RK9FRnsI2zS5PFT1AG33m) | 3:30 |
 
-Snapshot ID: `MCwxNjMzMTllMTkxZWM5NDg0NmVlM2M5MThhM2Y4ZDI2NTUxOGI5M2Qx`
+Snapshot ID: `MCxmYzMwYjJkYTJmZGRlOThmMzk3ZTU4NGEzODdiODUxNWEyNWVjOTc1`

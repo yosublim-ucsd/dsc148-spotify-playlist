@@ -4,7 +4,7 @@
 
 > i dance with a pillow in my arms 🌸 📷: Griff
 
-2,006 songs - 4 day 5 hr 8 min
+2,007 songs - 4 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-05-26 | 2024-01-05 |
 | [Bowie](https://open.spotify.com/track/5qH4Pfu4TDSfQij1rkmlxj) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men](https://open.spotify.com/album/0ervPmQvzezaMUGR8W36SV) | 4:41 | 2022-01-14 | 2022-10-29 |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-10-08 | 2022-07-29 |
-| [boy i'd like to kill](https://open.spotify.com/track/46upLPyvXHEh4n3Ernt4U6) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [boy i'd like to kill](https://open.spotify.com/album/6Gc6cvlf1UpJHF4cp6ZFu7) | 2:27 | 2024-02-16 |  |
+| [boy i'd like to kill](https://open.spotify.com/track/46upLPyvXHEh4n3Ernt4U6) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [boy i'd like to kill](https://open.spotify.com/album/6Gc6cvlf1UpJHF4cp6ZFu7) | 2:27 | 2024-02-16 | 2024-04-08 |
 | [Boy Of The Month](https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Boy Of The Month](https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu) | 1:46 | 2023-06-30 | 2023-08-05 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-10 | 2024-01-05 |
 | [BOYFREN](https://open.spotify.com/track/3WmgMoWZ1E5yNyn2aUzWAr) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [BOYFREN](https://open.spotify.com/album/0wgevfr942iLPDrYSG3GuN) | 2:16 | 2021-03-02 | 2021-10-11 |
@@ -396,6 +396,7 @@
 | [Crypto ₿oy](https://open.spotify.com/track/1huSguFFPyo3saFH9u5Sb6) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Crypto ₿oy](https://open.spotify.com/album/6SBASHxpyWAGkqt2kMsBvY) | 2:21 | 2022-06-06 | 2022-07-16 |
 | [Crystal Ball](https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Crystal Ball](https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7) | 3:35 | 2021-11-19 | 2022-01-22 |
 | [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-01 | 2022-09-03 |
+| [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 | 2024-03-15 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-24 | 2023-04-04 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 | 2023-09-15 | 2024-04-07 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-24 | 2023-09-26 |

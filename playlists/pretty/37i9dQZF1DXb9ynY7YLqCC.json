@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 168316,
+  "num_followers": 168388,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDJiMzAwYmQyMTQ1NjM2OTFiYjRkODhmNTNkYzhhMDhmNzExN2Ni",
+  "snapshot_id": "MCxmOWZlZWRhMmQyOWUzZDg4OTQ1NjE4ZjY5MGViYjYyNGQ3MzIzOWQw",
   "tracks": [
     {
       "added_at": "2024-01-26 03:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Aunque Cueste Ver El Sol",
-        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 244093,
-      "name": "Cielo De Un Solo Color",
-      "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Gardeliando",
         "url": "https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 357586,
       "name": "Amor de Contramano",
       "url": "https://open.spotify.com/track/7JgwIV9KCu0CdpfBxPmjjV"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Aunque Cueste Ver El Sol",
+        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 244093,
+      "name": "Cielo De Un Solo Color",
+      "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Seremos",
-        "url": "https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop"
-      },
-      "artists": [
-        {
-          "name": "Salta La Banca",
-          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Asuntos de Familia",
         "url": "https://open.spotify.com/album/2K8wTPG1Ca0CadebWMf2Jo"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 255315,
       "name": "Magdalena",
       "url": "https://open.spotify.com/track/5TSZARtbGtoYOHLFDqeYLG"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Seremos",
+        "url": "https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop"
+      },
+      "artists": [
+        {
+          "name": "Salta La Banca",
+          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg"
     },
     {
       "added_at": "2024-01-26 03:00:00",

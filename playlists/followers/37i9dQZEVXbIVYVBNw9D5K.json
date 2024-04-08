@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 822947,
+  "2024-04-08": 823066,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -5587,7 +5587,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 155406,
       "name": "Fark Ettim",
       "url": "https://open.spotify.com/track/4rbXJipz3CaSQwtG3xXzzT"
@@ -9138,6 +9138,24 @@
     },
     {
       "album": {
+        "name": "Kaptan",
+        "url": "https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "Kaptan",
+      "url": "https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw"
+    },
+    {
+      "album": {
         "name": "Kara Tiyatro",
         "url": "https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe"
       },
@@ -9637,7 +9655,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 210840,
       "name": "Kumral\u0131m",
       "url": "https://open.spotify.com/track/3tCCD2qQLdC99YkRwGPSsx"
@@ -9949,6 +9967,28 @@
       "duration_ms": 196075,
       "name": "Lan",
       "url": "https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH"
+    },
+    {
+      "album": {
+        "name": "LANNISTER",
+        "url": "https://open.spotify.com/album/6ofhyEoqDiB2YqK3QVp5DM"
+      },
+      "artists": [
+        {
+          "name": "Tanerman",
+          "url": "https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129966,
+      "name": "LANNISTER",
+      "url": "https://open.spotify.com/track/3kahv1hGB5bOr5blQMguOx"
     },
     {
       "album": {
@@ -11303,6 +11343,28 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "album": {
+        "name": "YBF",
+        "url": "https://open.spotify.com/album/45cQk54hGNWgTImfVD5RAB"
+      },
+      "artists": [
+        {
+          "name": "BEGE",
+          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
+        },
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "M\u00fcmk\u00fcnse",
+      "url": "https://open.spotify.com/track/1LYVm4xK4dAoBNd4IDs5Wa"
     },
     {
       "album": {
@@ -13997,7 +14059,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 151059,
       "name": "Seni Yazd\u0131m",
       "url": "https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb"

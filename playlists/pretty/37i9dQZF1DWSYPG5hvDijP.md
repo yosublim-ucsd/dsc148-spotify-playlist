@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,146 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [FUKA SARI RAAT](https://open.spotify.com/track/1zGYGFRRFQdgTPE6aCzIqQ) | [Thoratt](https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu) | [FUKA SARI RAAT](https://open.spotify.com/album/4obb7ExNOKh59K8JQ3pOy8) | 4:21 |
 | 75 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 |
 
-Snapshot ID: `MCw2NjI0MmU5Yjg0OGRjNGNjZjE5MTc5Zjk2ZjFlMGYyYjI5ODRjOTBk`
+Snapshot ID: `MCw2YjAyZDZhMTBkZTY5Y2NjZTg5NzJiM2YyZDAwODQyMTk1MWNlY2E1`

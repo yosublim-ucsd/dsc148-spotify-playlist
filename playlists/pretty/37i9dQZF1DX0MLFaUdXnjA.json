@@ -1,12 +1,12 @@
 {
   "description": "Keeping it lowkey with the best chill pop. Cover: Khalid",
-  "num_followers": 1819492,
+  "num_followers": 1819587,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmY4NmJhNDY1ODAyNTAwMDc1MTAwMjczYWE1M2Y4ODE4M2M3MTI5",
+  "snapshot_id": "MCxiZjc4NWRlN2I2M2M4MTEzNTNiNWIxYmZiZWYyMzQyZTYxNmE0N2Jk",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -703,7 +703,7 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Stay Gold (from The Outsiders - A New Musical)",
+        "name": "Stay Gold (from The Outsiders, A New Musical)",
         "url": "https://open.spotify.com/album/0gG73d6zYl2QdYPWqjJCo8"
       },
       "artists": [
@@ -714,10 +714,14 @@
         {
           "name": "Brody Grant",
           "url": "https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj"
+        },
+        {
+          "name": "Original Broadway Cast of The Outsiders - A New Musical",
+          "url": "https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w"
         }
       ],
       "duration_ms": 247238,
-      "name": "Stay Gold - from The Outsiders - A New Musical",
+      "name": "Stay Gold - from The Outsiders, A New Musical",
       "url": "https://open.spotify.com/track/3TI5bdaIEvc8piXWTl64xP"
     },
     {

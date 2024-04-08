@@ -2108,7 +2108,7 @@
     {
       "album": {
         "name": "Aerial Visions",
-        "url": "https://open.spotify.com/album/4YqnydxjrIqxytqlHXCyxJ"
+        "url": "https://open.spotify.com/album/5egVrnO8AjlG56mdm1GEtg"
       },
       "artists": [
         {
@@ -2119,6 +2119,24 @@
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 277106,
+      "name": "Slam",
+      "url": "https://open.spotify.com/track/2z54PSmczfteELFLbzo52H"
+    },
+    {
+      "album": {
+        "name": "Aerial Visions",
+        "url": "https://open.spotify.com/album/4YqnydxjrIqxytqlHXCyxJ"
+      },
+      "artists": [
+        {
+          "name": "Vinnie Moore",
+          "url": "https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-08",
       "duration_ms": 277110,
       "name": "Slam",
       "url": "https://open.spotify.com/track/5ur2JO683Tt1D3hPttMQ0d"

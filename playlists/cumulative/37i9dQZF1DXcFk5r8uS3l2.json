@@ -3722,10 +3722,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 205026,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC"
+    },
+    {
+      "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/3j3AQiQEe24de1EcYqVxc3"
     },
     {
       "album": {

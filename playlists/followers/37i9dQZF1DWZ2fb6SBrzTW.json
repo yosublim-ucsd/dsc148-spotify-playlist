@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 30433,
+  "2024-04-08": 30488,
   "date_first_scraped": "2022-07-19",
   "description": "Your go to Afrobeats workout playlist ",
   "name": "Keep Fit Club ",
@@ -645,7 +645,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 137885,
       "name": "Away",
       "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
@@ -7185,6 +7185,28 @@
       "duration_ms": 163653,
       "name": "Tight Condition",
       "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
+    },
+    {
+      "album": {
+        "name": "For Your Soul",
+        "url": "https://open.spotify.com/album/0CxIrMM2xgsXxPiXhlBTmd"
+      },
+      "artists": [
+        {
+          "name": "Megadrumz",
+          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319369,
+      "name": "Tjina",
+      "url": "https://open.spotify.com/track/4DO34AAYHCCF2gs7jxLFYx"
     },
     {
       "album": {

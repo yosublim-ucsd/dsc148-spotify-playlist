@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,069 songs - 6 day 11 hr 29 min
+4,070 songs - 6 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1352,6 +1352,7 @@
 | [Golf](https://open.spotify.com/track/4Q0ZofPES3MtMsPS5tiAtm) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Clueless Alchemy](https://open.spotify.com/album/0rfCvbnokYvLxSccXTll9c) | 2:33 | 2022-05-26 | 2022-06-22 |
 | [Gone](https://open.spotify.com/track/2cIhJbKQmwASz7jskATGqy) | [Akari Raheem](https://open.spotify.com/artist/5n3BCICNBvPPPIAEYnfHzn), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu), [F\. Raheem](https://open.spotify.com/artist/7bUNII7c3b3xI14EQWWP9Q), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Gone](https://open.spotify.com/album/5KIVevm18orsdanqyUjxAK) | 1:47 | 2022-12-15 | 2023-01-20 |
 | [Gonfa](https://open.spotify.com/track/2MiOFnEyKmEcQsJ3RTl9aL) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Gonfa // Land of Birds](https://open.spotify.com/album/09Jqw7b6tIszpoBreOsoEK) | 1:43 | 2022-09-08 | 2022-09-23 |
+| [Good Days](https://open.spotify.com/track/0D2uyP2g9J35PIPgruBw4f) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn) | [Good Days](https://open.spotify.com/album/0uhsl9xStElxg7iywFRmA9) | 2:04 | 2024-04-04 |  |
 | [Good Days](https://open.spotify.com/track/3wqzpq6GjCZba3B07Lx6zs) | [Lazy Toro](https://open.spotify.com/artist/0fEDsWJ3Na3vlZ3hxo9DQw) | [Good Days](https://open.spotify.com/album/3LOv68VbnZ2JotvYfBId59) | 1:51 | 2023-10-19 | 2023-11-17 |
 | [Good Life](https://open.spotify.com/track/5BPKNG6yHbj0Q2W6ksMbbH) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Good Life](https://open.spotify.com/album/14nfJf9nfZN9RcigywyrMI) | 2:20 | 2021-11-19 | 2021-12-11 |
 | [Good Morning](https://open.spotify.com/track/0RVzAEJdh4VsuRIkLqmo7t) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Good Morning](https://open.spotify.com/album/4SCB9uNYIdzpQeicMrtFFy) | 1:05 | 2020-01-17 | 2020-04-24 |
@@ -4028,7 +4029,7 @@
 | [Y](https://open.spotify.com/track/1nyuf5arf1SxflGNeWso26) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Y](https://open.spotify.com/album/0SJ4V2JC8YfL9Z1yfEukJr) | 2:53 | 2020-09-04 | 2020-12-18 |
 | [Yak Sher](https://open.spotify.com/track/1fzwKTifesIDlGeRJOsEQ6) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt) | [Yak Sher](https://open.spotify.com/album/3nuZGEbOtrC51hRVw4x7OG) | 3:25 | 2020-09-18 | 2020-12-04 |
 | [Yama](https://open.spotify.com/track/2t3rjRGEcoN7OG9Dc0CBfy) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Yama](https://open.spotify.com/album/1CatjoRX6zP6h3fVK25nfb) | 2:07 | 2021-05-14 | 2022-07-28 |
-| [Yard](https://open.spotify.com/track/7uI9pFWk4XEOzd11mU8iF5) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Yard](https://open.spotify.com/album/3ZSbErqGOs5yfOjXzDrKhn) | 1:45 | 2024-04-04 |  |
+| [Yard](https://open.spotify.com/track/7uI9pFWk4XEOzd11mU8iF5) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Yard](https://open.spotify.com/album/3ZSbErqGOs5yfOjXzDrKhn) | 1:45 | 2024-04-04 | 2024-04-08 |
 | [yashinoki](https://open.spotify.com/track/7JcKF4YAz6AOW1b7RjTxnp) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [yashinoki \| suna](https://open.spotify.com/album/66S6ZKiFczEOJUOXe075Ec) | 2:24 | 2020-07-18 | 2021-02-12 |
 | [Yazzy](https://open.spotify.com/track/3k46yZpUrnR5NC9CwdrfT3) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Yazzy](https://open.spotify.com/album/2CvLIhp14AbDfAlM1wfXFr) | 1:12 | 2023-01-12 | 2023-06-02 |
 | [Yeah](https://open.spotify.com/track/4hoSfhzUqM9Qgs9QRx77cn) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Yeah](https://open.spotify.com/album/4BjK32Z7tjeSVZKoCyCu56) | 1:09 | 2020-09-04 | 2020-11-07 |

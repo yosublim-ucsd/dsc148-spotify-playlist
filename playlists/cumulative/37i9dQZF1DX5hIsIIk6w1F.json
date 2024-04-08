@@ -8847,6 +8847,28 @@
     },
     {
       "album": {
+        "name": "Los Rompecorazones, Vol. 2",
+        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Daiko 02",
+          "url": "https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "Minnie <3",
+      "url": "https://open.spotify.com/track/4awSm1QqlLxMW58vi428bq"
+    },
+    {
+      "album": {
         "name": "Minnie <3",
         "url": "https://open.spotify.com/album/4Uyu0NIsdhY3HUpteAKFIa"
       },
@@ -8862,7 +8884,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 232653,
       "name": "Minnie <3",
       "url": "https://open.spotify.com/track/68uKmFCHsrjSpaCUCzVlqW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Denise Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,141 likes - 86 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,184 likes - 86 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 85 | [Feelings For You](https://open.spotify.com/track/6mWiNbLn42n9owATnMSVau) | [EDDI](https://open.spotify.com/artist/1bRHF6zV7n8uymi2ReMRQG) | [Feelings For You](https://open.spotify.com/album/5WVPOwHNsiXEXtQFigEuaR) | 1:59 |
 | 86 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 |
 
-Snapshot ID: `MCw0MzBhNGM1ZWM1MjM0OGJhZTVlZDRiMDE4ODZhOWU5ZGM1NzM4ZTRl`
+Snapshot ID: `MCw0ODU5MzBkZTc0YjE1NzY3MTFkZDcwNWIxYmFjYjU0MzA0MzY1ZDk0`

@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 133427,
+  "num_followers": 133469,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTM4NjEwNjQ2OTlhZDUwY2UyYTQ4ZDdmY2JjZGY1Mzk1Y2JjMDE3",
+  "snapshot_id": "MCwxNzA3ODNkOGExNjQyZjM3YTFhNjg1MjhhZDU0ZGQyMDAxOWU0N2Nk",
   "tracks": [
     {
       "added_at": "2024-04-05 11:03:22",
@@ -1031,6 +1031,30 @@
     {
       "added_at": "2024-04-05 11:03:22",
       "album": {
+        "name": "O Menino do Cabelo Rosa",
+        "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 224491,
+      "name": "Esqueceu Seu Brinco",
+      "url": "https://open.spotify.com/track/29s3cKc0N9nS08Kc6Zv06B"
+    },
+    {
+      "added_at": "2024-04-05 11:03:22",
+      "album": {
         "name": "THE BOX MEDLEY 5",
         "url": "https://open.spotify.com/album/6qqxoTPnsQM5yHapA7WF6u"
       },
@@ -1059,30 +1083,6 @@
       "duration_ms": 189658,
       "name": "THE BOX MEDLEY 5",
       "url": "https://open.spotify.com/track/35djHlD5VERjzdKzFknuUs"
-    },
-    {
-      "added_at": "2024-04-05 11:03:22",
-      "album": {
-        "name": "O Menino do Cabelo Rosa",
-        "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
-      },
-      "artists": [
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 224491,
-      "name": "Esqueceu Seu Brinco",
-      "url": "https://open.spotify.com/track/29s3cKc0N9nS08Kc6Zv06B"
     },
     {
       "added_at": "2024-04-05 11:03:22",
@@ -1135,34 +1135,6 @@
     {
       "added_at": "2024-04-05 11:03:22",
       "album": {
-        "name": "237",
-        "url": "https://open.spotify.com/album/3VGvkH5X8bhjIV0rSohaVU"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Jaya Luuck",
-          "url": "https://open.spotify.com/artist/6FDtch9VfXoXymUYL4CLl5"
-        },
-        {
-          "name": "Duzz",
-          "url": "https://open.spotify.com/artist/6tRGYcs5KQjLB19jVMGxJG"
-        },
-        {
-          "name": "Rubro",
-          "url": "https://open.spotify.com/artist/12Q1vJ1wMjyzZMmW4QOcgw"
-        }
-      ],
-      "duration_ms": 228012,
-      "name": "S\u00f3 Quando Ela Me Quer",
-      "url": "https://open.spotify.com/track/70D4ZYmLC8Kxxw4rGthU0Q"
-    },
-    {
-      "added_at": "2024-04-05 11:03:22",
-      "album": {
         "name": "Mds",
         "url": "https://open.spotify.com/album/2x3FO0DZC61UwKBFNsnkzX"
       },
@@ -1187,38 +1159,30 @@
     {
       "added_at": "2024-04-05 11:03:22",
       "album": {
-        "name": "The Box Medley 2",
-        "url": "https://open.spotify.com/album/1Rm56TQw5OpOICfF4WCwM6"
+        "name": "237",
+        "url": "https://open.spotify.com/album/3VGvkH5X8bhjIV0rSohaVU"
       },
       "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
         {
           "name": "Yunk Vino",
           "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         },
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "Jaya Luuck",
+          "url": "https://open.spotify.com/artist/6FDtch9VfXoXymUYL4CLl5"
         },
         {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/6tRGYcs5KQjLB19jVMGxJG"
         },
         {
-          "name": "Ojizzy",
-          "url": "https://open.spotify.com/artist/1Jqziieqyx94PNBfIJlj6R"
-        },
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+          "name": "Rubro",
+          "url": "https://open.spotify.com/artist/12Q1vJ1wMjyzZMmW4QOcgw"
         }
       ],
-      "duration_ms": 237000,
-      "name": "The Box Medley 2",
-      "url": "https://open.spotify.com/track/6MEDqys4CFyW9Y95LR6qGC"
+      "duration_ms": 228012,
+      "name": "S\u00f3 Quando Ela Me Quer",
+      "url": "https://open.spotify.com/track/70D4ZYmLC8Kxxw4rGthU0Q"
     },
     {
       "added_at": "2024-04-05 11:03:22",
@@ -1275,6 +1239,42 @@
       "duration_ms": 167384,
       "name": "Quadro",
       "url": "https://open.spotify.com/track/6quxGsXP50tQOZG9onTDMI"
+    },
+    {
+      "added_at": "2024-04-05 11:03:22",
+      "album": {
+        "name": "The Box Medley 2",
+        "url": "https://open.spotify.com/album/1Rm56TQw5OpOICfF4WCwM6"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Ojizzy",
+          "url": "https://open.spotify.com/artist/1Jqziieqyx94PNBfIJlj6R"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "The Box Medley 2",
+      "url": "https://open.spotify.com/track/6MEDqys4CFyW9Y95LR6qGC"
     },
     {
       "added_at": "2024-04-05 11:03:22",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2024-04-05 11:03:22",
       "album": {
-        "name": "THE BOX MEDLEY 6",
-        "url": "https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "tchelo rodrigues",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "Lipinho Oficial",
-          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
-        }
-      ],
-      "duration_ms": 241799,
-      "name": "THE BOX MEDLEY 6",
-      "url": "https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu"
-    },
-    {
-      "added_at": "2024-04-05 11:03:22",
-      "album": {
         "name": "Chega de Falar de Ice",
         "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
       },
@@ -1475,6 +1443,38 @@
       "duration_ms": 206451,
       "name": "Sal e Pimenta",
       "url": "https://open.spotify.com/track/41PSYvvRRloahcTUdYBchA"
+    },
+    {
+      "added_at": "2024-04-05 11:03:22",
+      "album": {
+        "name": "THE BOX MEDLEY 6",
+        "url": "https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+        }
+      ],
+      "duration_ms": 241799,
+      "name": "THE BOX MEDLEY 6",
+      "url": "https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu"
     },
     {
       "added_at": "2024-04-05 11:03:22",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2024-04-05 11:03:22",
       "album": {
+        "name": "Um Toque de Malandragem",
+        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Ensinamento do Pai",
+      "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
+    },
+    {
+      "added_at": "2024-04-05 11:03:22",
+      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/6JOx2S6RtfukBnIaxCUpUy"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 125217,
       "name": "Real",
       "url": "https://open.spotify.com/track/0hpuo3I6zdHt0NjPu6MP8x"
-    },
-    {
-      "added_at": "2024-04-05 11:03:22",
-      "album": {
-        "name": "Um Toque de Malandragem",
-        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Ensinamento do Pai",
-      "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
     },
     {
       "added_at": "2024-04-05 11:03:22",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2024-04-05 11:03:22",
       "album": {
-        "name": "MIDNIGHT CALLS",
-        "url": "https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 251923,
-      "name": "30 Dias",
-      "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
-    },
-    {
-      "added_at": "2024-04-05 11:03:22",
-      "album": {
         "name": "Gigante",
         "url": "https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 167937,
       "name": "A Cunhada",
       "url": "https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ"
+    },
+    {
+      "added_at": "2024-04-05 11:03:22",
+      "album": {
+        "name": "MIDNIGHT CALLS",
+        "url": "https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 251923,
+      "name": "30 Dias",
+      "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
     },
     {
       "added_at": "2024-04-05 11:03:22",
@@ -2023,26 +2023,6 @@
     {
       "added_at": "2024-04-05 11:03:22",
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "GEMINI",
-      "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
-    },
-    {
-      "added_at": "2024-04-05 11:03:22",
-      "album": {
         "name": "Fio a Fio",
         "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
       },
@@ -2063,6 +2043,26 @@
       "duration_ms": 178356,
       "name": "Fio a Fio",
       "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
+    },
+    {
+      "added_at": "2024-04-05 11:03:22",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
     },
     {
       "added_at": "2024-04-05 11:03:22",

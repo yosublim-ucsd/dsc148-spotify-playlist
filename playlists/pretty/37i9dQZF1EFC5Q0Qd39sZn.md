@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,670 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,671 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -378,8 +378,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 368 | [The Door to Your Heart \(feat\. Keith Washington\)](https://open.spotify.com/track/1OGSsXXBllCCApaVAuLKDG) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68), [Keith Washington](https://open.spotify.com/artist/5l0XyfQLHoWFvINcSaSrSx) | [Soul Dancing \(Expanded Edition\)](https://open.spotify.com/album/2Z1SUk5Jo7clpF4ZWqlGmc) | 4:10 |
 | 369 | [I Don't Know How I Got By](https://open.spotify.com/track/7xXlY5tR7PL7mgNF9SCfgf) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Playlist: The Best of Edwin McCain](https://open.spotify.com/album/4uFXMAwIhO6y7zJ1gS4k2q) | 3:46 |
 | 370 | [One More Mountain \(Free Again\)](https://open.spotify.com/track/0k4X5Ikasw226QDLnOnL6F) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 3:41 |
-| 371 | [From Loving You](https://open.spotify.com/track/7bO7jSjgAmpEAQ7TpYWGwc) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Mandy Moore](https://open.spotify.com/album/5HcsWBlYBlkqVAmKl3ZM8k) | 3:32 |
-| 372 | [One Nation Under Love \(Ukrainian Version\)](https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
+| 371 | [One Nation Under Love \(Ukrainian Version\)](https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
+| 372 | [From Loving You](https://open.spotify.com/track/7bO7jSjgAmpEAQ7TpYWGwc) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Mandy Moore](https://open.spotify.com/album/5HcsWBlYBlkqVAmKl3ZM8k) | 3:32 |
 | 373 | [Twisted](https://open.spotify.com/track/6kHZH0mvuI6mgCI8l5ZnEf) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:05 |
 | 374 | [I Wanna Get Back With You](https://open.spotify.com/track/1nvVkERyrtBdV8mDj1bcdU) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [The Lead And How To Swing It](https://open.spotify.com/album/45QU97Z1TooErTjggqMadG) | 5:00 |
 | 375 | [When You Walk Away](https://open.spotify.com/track/4lmb9BoFcfF2ATMZhdH09r) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 4:21 |
@@ -403,8 +403,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 393 | [OLI MAZI \(We Are All Together\)](https://open.spotify.com/track/2kNdcf6YKLNC8mtQalv4H6) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [OLI MAZI \(We Are All Together\)](https://open.spotify.com/album/0BaHbx9vN3XE8tBJMp6T38) | 3:18 |
 | 394 | [Remedy](https://open.spotify.com/track/3bxzT4yaeRHQPT8CHEwpvB) | [Riker Lynch](https://open.spotify.com/artist/55V2PZSif52loZswGkBTeK) | [Remedy](https://open.spotify.com/album/7GzMp5E159jqdlQ4hJCBZi) | 3:23 |
 | 395 | [Daylight](https://open.spotify.com/track/4j2E0T6fsZAk6vMuIgMUcl) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Celebration: A Musical Journey](https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO) | 4:32 |
-| 396 | [Divine Intervention](https://open.spotify.com/track/743lgsVmLZO2GKihzpujjz) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Vulnerability](https://open.spotify.com/album/3BCRYCaw74NdHjjFnoyxap) | 3:47 |
-| 397 | [Deeper Into You](https://open.spotify.com/track/54Iege5B0R9bQZYbsR1c2o) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:50 |
+| 396 | [Deeper Into You](https://open.spotify.com/track/54Iege5B0R9bQZYbsR1c2o) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:50 |
+| 397 | [Divine Intervention](https://open.spotify.com/track/743lgsVmLZO2GKihzpujjz) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Vulnerability](https://open.spotify.com/album/3BCRYCaw74NdHjjFnoyxap) | 3:47 |
 | 398 | [If This Time Is The Last Time](https://open.spotify.com/track/2ji3qfdV8NceFnmLiQAsbs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [From Q, With Love](https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r) | 4:42 |
 | 399 | [More Than Forever](https://open.spotify.com/track/540HEQbY9Zc7Y3B0SpGweo) | [Kru](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [The Way We Jam](https://open.spotify.com/album/4XLALu8f0eqEUEmivyqqZZ) | 4:57 |
 | 400 | [My Heart's With You](https://open.spotify.com/track/1sRu5lflEcRB3Xi9EuQnxA) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:30 |
@@ -440,8 +440,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 430 | [In a Heart Beat](https://open.spotify.com/track/1RA4Mt2feSah7BiLWprjRp) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Time Takes Time](https://open.spotify.com/album/3MoLlCEQ0QmJZQ6KQ9y9iY) | 4:30 |
 | 431 | [Much Too Much](https://open.spotify.com/track/4LCX83dSdKakjhmCgko1l1) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Friends Can Be Lovers](https://open.spotify.com/album/6kgvNUbpx187PBV8fuWpog) | 4:30 |
 | 432 | [You're the Story of My Life](https://open.spotify.com/track/5srPNy3C5r0mW13xt26msH) | [Desmond Child](https://open.spotify.com/artist/7KgW65389e5w4xWzaVOuCg) | [Discipline](https://open.spotify.com/album/7hYpyujW1Wj6KaVDwBZZK2) | 4:58 |
-| 433 | [Respondeme](https://open.spotify.com/track/3gktJwRyGoWOxpWQLgItbT) | [Nu Flavor](https://open.spotify.com/artist/2gdX1GbQ8sljsTVwDaIpkc) | [Nu Flavor \[New Remix Version\]](https://open.spotify.com/album/7EGNz7EXbb9I7uEjWYC8mh) | 3:52 |
-| 434 | [Never Changing Love](https://open.spotify.com/track/64qO6AAaDncpMt2rZJc2fB) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Ultimate Collection: Shanice](https://open.spotify.com/album/5tjVOvUObHGTP3XPOKtRIe) | 4:16 |
+| 433 | [Never Changing Love](https://open.spotify.com/track/64qO6AAaDncpMt2rZJc2fB) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Ultimate Collection: Shanice](https://open.spotify.com/album/5tjVOvUObHGTP3XPOKtRIe) | 4:16 |
+| 434 | [Respondeme](https://open.spotify.com/track/3gktJwRyGoWOxpWQLgItbT) | [Nu Flavor](https://open.spotify.com/artist/2gdX1GbQ8sljsTVwDaIpkc) | [Nu Flavor \[New Remix Version\]](https://open.spotify.com/album/7EGNz7EXbb9I7uEjWYC8mh) | 3:52 |
 | 435 | [I Wish That](https://open.spotify.com/track/33nrcL4rmviolRoVWOm02O) | [Bianca Ryan](https://open.spotify.com/artist/0SGZfHICh9e4oEXS8zGOXt) | [Bianca Ryan](https://open.spotify.com/album/4mAToiuP7G4FiXfl9W3oGl) | 3:59 |
 | 436 | [Only Love](https://open.spotify.com/track/29kLaik7s8woznFMjGv2qW) | [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [WHEN YOU'RE A BOY](https://open.spotify.com/album/5jggxDQtP1eGNgqOAThQSY) | 4:24 |
 | 437 | [Come to me](https://open.spotify.com/track/4OAcAKsJdDUOKpTwrWuJfW) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [Leave a Light On](https://open.spotify.com/album/0X64CLJ2eu6WIDHIPB5xyy) | 4:35 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg1NDA5MzAsMDAwMDAwMDBkMGQ1MWRjMDMzYmFjZjdhZTYxZGU3YTAyMDYxZWEyNw==`
+Snapshot ID: `Mjg1NDIzNzAsMDAwMDAwMDAwYjE2OTQxZmUyNDkyNTJlNTFmMWI1ZWU0OTY3Njg0OQ==`

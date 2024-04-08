@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: X Ambassadors
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,871 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,947 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 72 | [Paperweight](https://open.spotify.com/track/3meqXVybYf6CCIeH312Efn) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Paperweight](https://open.spotify.com/album/2bONWaTmE30VRymaDGMdca) | 3:14 |
 | 73 | [Knowing U Exist](https://open.spotify.com/track/2d8kfISfGgiksl9Bl8kEXH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Knowing U Exist](https://open.spotify.com/album/50e9zfmHABJ6zaAK8HcIZm) | 2:23 |
 | 74 | [Dead Set](https://open.spotify.com/track/6I3wMXAzckUMLsBKeTOuCE) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Dead Set](https://open.spotify.com/album/43iMtHxInmUT7KitV9wS3j) | 2:48 |
-| 75 | [Half\-Life](https://open.spotify.com/track/4e8nrSuEiqVYEFzs6eY8Ow) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Half\-Life](https://open.spotify.com/album/45M2A6qlpeR1vhm7JxAnF5) | 3:13 |
+| 75 | [Half\-Life](https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:13 |
 | 76 | [Worst Case Scenario](https://open.spotify.com/track/6FYzRAZxBYuKTGWMmLVi6I) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Worst Case Scenario](https://open.spotify.com/album/5IDMf5wH24WxyNRZmGL02o) | 3:26 |
 | 77 | [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 |
 | 78 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Tender](https://open.spotify.com/track/0q7NYBwAYdAELOSwnyzFoO) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Tender](https://open.spotify.com/album/7kFPWvFvhsBWzfc6Q3ZFUf) | 5:06 |
 | 150 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 |
 
-Snapshot ID: `MCwwODcwZWE0NGI0NzY4MzM0MjNjYTlmMDhlZTI1ZWZjNGNmNDNkNWRk`
+Snapshot ID: `MCwwZjEyNTRhYjA2MjIzNTIwOTFlNmU2MDBkNDg0YzAyMzVjN2JmNTIz`

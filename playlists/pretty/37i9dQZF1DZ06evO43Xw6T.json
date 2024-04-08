@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 78946,
+  "num_followers": 79160,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTIwZDdkOWY2YjJiMjQwOTg3MDEzMzM3NDM3Y2FhODdiMzkxNTY1",
+  "snapshot_id": "MCwyYzIzOWEwZmY5MTI5YWIxZWQyMDRlYmQyNGIwMzljNjkxNDExZGE1",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fresa",
-        "url": "https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174923,
-      "name": "La Fresa",
-      "url": "https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/5eRZ0rvliggbPqTZtYqBgC"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 170769,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fresa",
+        "url": "https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174923,
+      "name": "La Fresa",
+      "url": "https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Idiota",
+        "url": "https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 166086,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba Las Manos",
         "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 135960,
       "name": "Arriba Las Manos",
       "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Idiota",
-        "url": "https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 166086,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vete Ya",
-        "url": "https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 157336,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SS23",
         "url": "https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S"
       },
@@ -799,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vete Ya",
+        "url": "https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 157336,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -815,6 +815,26 @@
       "duration_ms": 178408,
       "name": "DIME QUE HAY QUE HACER (with Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/1NI2e5ins81xjWlohNsqZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": null,
@@ -959,26 +979,6 @@
       "duration_ms": 170035,
       "name": "El Piquetito",
       "url": "https://open.spotify.com/track/298dyueCmj0HCawVppZasg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 230795,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": null,

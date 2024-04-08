@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,330 songs - 3 day 21 hr 2 min
+1,331 songs - 3 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [Heartstrings \(feat\. Men At Work\)](https://open.spotify.com/track/7lAZCWy3JF1Ujgy2womI68) | [FENON MIKEL](https://open.spotify.com/artist/3fa1iFZ40gVALqyIlh1DVt), [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Heartstrings \(feat\. Men At Work\)](https://open.spotify.com/album/7y9OLJtYHJAPSknCehRGzL) | 1:52 | 2023-03-24 | 2023-04-01 |
 | [Heaven \- Blawan Dub](https://open.spotify.com/track/2Uy70uR153d5ZtAQkYegoT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Delta Machine \| The 12" Singles](https://open.spotify.com/album/2fjQkaOCx5vQSkNCEhundG) | 7:12 | 2023-10-06 | 2023-10-21 |
 | [Heaven \- steps to heaven voxdub](https://open.spotify.com/track/7kZVx2vnpCsahzVqhRluHz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Thomas Fehlmann](https://open.spotify.com/artist/71GWL6ijlpTh7oGqYlMMpM) | [Delta Machine \| The 12" Singles](https://open.spotify.com/album/2fjQkaOCx5vQSkNCEhundG) | 6:09 | 2023-10-06 | 2023-10-12 |
-| [Heaven And Hell \- Live 1983](https://open.spotify.com/track/0wI2hXk97kuIMcEgTIPQ1j) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Born of Fire \(Live\)](https://open.spotify.com/album/4IbhjwBe3BkFY8w5FMr6aF) | 20:02 | 2024-04-05 |  |
+| [Heaven And Hell \- Live 1983](https://open.spotify.com/track/0wI2hXk97kuIMcEgTIPQ1j) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Born of Fire \(Live\)](https://open.spotify.com/album/4IbhjwBe3BkFY8w5FMr6aF) | 20:02 | 2024-04-05 | 2024-04-08 |
 | [Heaven’s On Fire \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/1a5kyYNvler2ipEArgvvys) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Poughkeepsie](https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj) | 4:20 | 2023-04-28 | 2023-05-03 |
 | [Heavy](https://open.spotify.com/track/3yK0UZGl9XxNgl0OkMHBBr) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Live At The Print Shop](https://open.spotify.com/album/78vpk67a7qWeo1hqcLjRSN) | 2:58 | 2024-02-16 | 2024-02-21 |
 | [Heidrun \(2023 Remix\)](https://open.spotify.com/track/4ZmcdD9qI3RYmWcPymv3mw) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Heidrun](https://open.spotify.com/album/46SLNuMmAJD0lYog885M8a) | 4:42 | 2023-08-25 | 2023-09-02 |
@@ -490,6 +490,7 @@
 | [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 | 2023-08-25 | 2023-09-12 |
 | [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/4GBMd137VlyG371NlP4f0p) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:37 | 2023-09-01 | 2023-09-13 |
 | [Hologramas](https://open.spotify.com/track/7fz3vtDl7DGXa5HLQTGXR1) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [Endlos](https://open.spotify.com/album/4jW8H7KBRZuRalIQ43bQKy) | 5:32 | 2023-11-03 | 2023-12-03 |
+| [Holy Diver \- Live 1983](https://open.spotify.com/track/45fByU34ICfj1vbxgII7A6) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Born of Fire \(Live\)](https://open.spotify.com/album/4IbhjwBe3BkFY8w5FMr6aF) | 10:40 | 2024-04-05 |  |
 | [Holy War \(Live at HMV Forum, London, UK, 14 December 2010\)](https://open.spotify.com/track/06W0y2v7x5lQOnq4Gy8ZIe) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Live at HMV Forum, London, UK, 14 December 2010](https://open.spotify.com/album/06rI2jgE1FJ47te1GiFCBo) | 6:25 | 2024-02-16 | 2024-02-19 |
 | [Home \(with Michael Bublé\)](https://open.spotify.com/track/3bGcmjOqLYBVt1AtiLpmmT) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Home \(with Michael Bublé\)](https://open.spotify.com/album/30Z0pm7xXbQYjP2wUVy3ER) | 3:44 | 2023-10-20 | 2023-11-19 |
 | [Home \(with Michael Bublé\)](https://open.spotify.com/track/4nX0jG14mSIi0LcmK3sq0b) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:44 | 2023-11-10 | 2023-11-18 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDM2NTAyYmU3MTRkZDNjZGVmNTkyMTdjYWE4NzgxMDE3N2MwMzMy",
+  "snapshot_id": "MCwyOWQzZjgzYzA3YjhhZDZhN2I2OTJiMDM3MDE2YjU5NDJmMGFjZTRk",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -99,6 +99,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 39640,
+      "name": "Fertilizer",
+      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 75800,
       "name": "Wavy (Interlude) (feat. James Fauntleroy)",
       "url": "https://open.spotify.com/track/3LcoHjgdNl4xtWVaJGSA1p"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 39640,
-      "name": "Fertilizer",
-      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Discipline",
-        "url": "https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM"
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
         }
       ],
-      "duration_ms": 76173,
-      "name": "The Meaning - Interlude",
-      "url": "https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2"
+      "duration_ms": 216320,
+      "name": "Whoomp (Interlude)",
+      "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM"
       },
       "artists": [
         {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 216320,
-      "name": "Whoomp (Interlude)",
-      "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
+      "duration_ms": 76173,
+      "name": "The Meaning - Interlude",
+      "url": "https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2"
     },
     {
       "added_at": "2022-12-03 05:29:16",

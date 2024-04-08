@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 1065513,
+  "2024-04-08": 1065841,
   "date_first_scraped": "2022-05-09",
   "description": "Dance, bass, EDM, trap, phonk: the perfect gaming mix.",
   "name": "Ultra Gaming",
@@ -2091,6 +2091,24 @@
       "duration_ms": 176000,
       "name": "Devil",
       "url": "https://open.spotify.com/track/4BVKDnYVUxbfBYJIip2RBp"
+    },
+    {
+      "album": {
+        "name": "Di0nysus Juni0r",
+        "url": "https://open.spotify.com/album/5E98i6wIwntvi9spfPTkSD"
+      },
+      "artists": [
+        {
+          "name": "Swan Meat",
+          "url": "https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211750,
+      "name": "Di0nysus Juni0r",
+      "url": "https://open.spotify.com/track/2cZDJU1mxc903hta2IcKDM"
     },
     {
       "album": {

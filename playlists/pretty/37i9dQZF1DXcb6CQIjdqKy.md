@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. <br/> Cover:  <a href="spotify:artist:5WcisvYoq6332gCUX039Jd">We Are Messengers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,131 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,264 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Thousand Times](https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [A Thousand Times](https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr) | 3:39 |
-| 2 | [Any More \- Acoustic](https://open.spotify.com/track/4Jme1JSX2QMM3YUwCXyMNa) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Any More \(Acoustic\)](https://open.spotify.com/album/2yG0CoIOGbTO532dm7vmS6) | 3:04 |
+| 2 | [Any More \(Acoustic\)](https://open.spotify.com/track/4Jme1JSX2QMM3YUwCXyMNa) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Any More \(Acoustic\)](https://open.spotify.com/album/2yG0CoIOGbTO532dm7vmS6) | 3:04 |
 | 3 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 |
 | 4 | [Everything At Your Feet \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/0tZ2gIuKTGST2pLdR4TepM) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Sunday, Vol\. 1 \(Live\)](https://open.spotify.com/album/4J60UHKXz09ZxxCpLJZP8i) | 7:20 |
 | 5 | [Invited](https://open.spotify.com/track/7y5x9ZsfnVZKd5nyL7ekqp) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Invited](https://open.spotify.com/album/1wj7dPYIb0ECjKmgZ50fZ0) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Firm Foundation \(He Won’t\) \- Live](https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:20 |
 | 100 | [Fall On Me \(feat\. Carly Pearce\)](https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:24 |
 
-Snapshot ID: `MCwxYTNkZGU3MWNjNDJjN2I5YTM4MTQ0YzNkNTU4NTFhYmM3YjE5NjM4`
+Snapshot ID: `MCwwMDA0OWM0N2UzODdlNzdiMWM3ZWQzMTQ2MTgzMjhiZjEzMTczYzU3`

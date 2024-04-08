@@ -1,12 +1,12 @@
 {
   "description": "Musical songs from Broadway, the West End and beyond. Cover: Merrily We Roll Along",
-  "num_followers": 516493,
+  "num_followers": 516497,
   "original_name": "Best of Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjY2ZWRmNzAwNGRkN2Q3NzYwNWQ3Zjg1N2UzNTU0NWU3OTZiMDAw",
+  "snapshot_id": "MCwwNDVhYjg2ODFjNjk1ZmY4MGE4OTE2ZmRhMDFjYmM5M2JiZjMyYzNi",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -379,7 +379,7 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Stay Gold (from The Outsiders - A New Musical)",
+        "name": "Stay Gold (from The Outsiders, A New Musical)",
         "url": "https://open.spotify.com/album/0gG73d6zYl2QdYPWqjJCo8"
       },
       "artists": [
@@ -390,10 +390,14 @@
         {
           "name": "Brody Grant",
           "url": "https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj"
+        },
+        {
+          "name": "Original Broadway Cast of The Outsiders - A New Musical",
+          "url": "https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w"
         }
       ],
       "duration_ms": 247238,
-      "name": "Stay Gold - from The Outsiders - A New Musical",
+      "name": "Stay Gold - from The Outsiders, A New Musical",
       "url": "https://open.spotify.com/track/3TI5bdaIEvc8piXWTl64xP"
     },
     {

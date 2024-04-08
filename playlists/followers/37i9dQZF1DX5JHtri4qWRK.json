@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 8340,
+  "2024-04-08": 8344,
   "date_first_scraped": "2022-02-24",
   "description": "R&B jams for the brokenhearted.",
   "name": "Heartbreak Hotel",
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 273438,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 259000,
       "name": "Did You Wrong",
       "url": "https://open.spotify.com/track/5klW2KKu4GaHWfTR01ywrj"

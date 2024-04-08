@@ -1,12 +1,12 @@
 {
   "description": "Chug chug chug to some 90s/00s throwbacks. ",
-  "num_followers": 52973,
+  "num_followers": 53066,
   "original_name": "Keg Stand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTExZDE5YTI0N2FmM2RmM2FjZGZlNzQ3MDM4ZTRkMTU3NmU0NTJk",
+  "snapshot_id": "MCw5YjhkYjFlZDc2YzYwYWE2NmZjZDZlZmFjMmYxZjljYmYxMWZiZWMx",
   "tracks": [
     {
       "added_at": "2023-01-19 16:40:23",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-19 16:40:23",
       "album": {
-        "name": "Fush Yu Mang (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt"
-      },
-      "artists": [
-        {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Walkin' On The Sun",
-      "url": "https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1"
-    },
-    {
-      "added_at": "2023-01-19 16:40:23",
-      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2023-01-19 16:40:23",
+      "album": {
+        "name": "Fush Yu Mang (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Walkin' On The Sun",
+      "url": "https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1"
     },
     {
       "added_at": "2023-01-19 16:40:23",

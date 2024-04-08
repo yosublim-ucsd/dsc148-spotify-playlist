@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-464 songs - 1 day 3 hr 0 min
+465 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/1bNapzbrWh3wI8gqd06ejG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried](https://open.spotify.com/album/7vFwTbOPsY6pMaYDcvCyCr) | 2:34 | 2024-01-29 | 2024-02-02 |
 | [I Ain't Worried \(feat\. Becky G\) \- Latin Version](https://open.spotify.com/track/0kljJKo5ibiYiLQkzEXKsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [I Ain’t Worried \(Versions\)](https://open.spotify.com/album/5Xl3sLXOwckPLzoBYIte7O) | 2:16 | 2024-01-29 |  |
 | [I Am Woman](https://open.spotify.com/track/0vKuYHEs83maj9GNB8Y0Hp) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [I Am Woman](https://open.spotify.com/album/2zyPeQvdKUTL8VycWoXHOP) | 3:30 | 2024-01-29 |  |
+| [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-07 |  |
 | [I Got U](https://open.spotify.com/track/6vPEqVjxCWRsBlvRzENDSG) | [Blake Lewis](https://open.spotify.com/artist/4H6tLRh1nuIuVxHtXo68ZE) | [Audio Day Dream](https://open.spotify.com/album/2DNbIvMrY2HPcgBkJtiY6W) | 3:37 | 2024-01-29 |  |
 | [I Know Places](https://open.spotify.com/track/6EwNJz8CuVsrsLvXprJ20Q) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:15 | 2024-01-29 |  |
 | [I Know Places \- Voice Memo](https://open.spotify.com/track/4JQm7ebhsrt10wmrP6AfXL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 3:36 | 2024-01-29 |  |
@@ -456,8 +457,8 @@
 | [Wild Life](https://open.spotify.com/track/4zD9RBG51Lj8bnQwolLnyu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 4:27 | 2024-01-29 |  |
 | [Wildfire](https://open.spotify.com/track/40MNdK1qPu8kDB0cSI51ds) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:19 | 2024-01-29 |  |
 | [Wings](https://open.spotify.com/track/2Kz5qeXifBxE0zmuoVchlM) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 4:12 | 2024-01-29 |  |
-| [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0BTGKEEaehTuLJVEJe1U3B) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 2:55 | 2024-01-29 | 2024-04-03 |
-| [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0jKTqmGVLgbeP5GpOJVCrp) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/1pMHhe4WlERO69FvVOaB3y) | 2:55 | 2024-02-06 |  |
+| [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0BTGKEEaehTuLJVEJe1U3B) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 2:55 | 2024-01-29 |  |
+| [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0jKTqmGVLgbeP5GpOJVCrp) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/1pMHhe4WlERO69FvVOaB3y) | 2:55 | 2024-02-06 | 2024-04-08 |
 | [Won't Stop](https://open.spotify.com/track/5ZEY2HUEstaLlhxGoWmzCE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 | 2024-01-29 |  |
 | [Won't Walk Away](https://open.spotify.com/track/4TOvwLHReu2LywMpfoUcSJ) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Reason](https://open.spotify.com/album/21rolf1dBBSNqsEZqC7L7l) | 3:41 | 2024-01-29 |  |
 | [Words as Weapons](https://open.spotify.com/track/5dhVen8NZSxwjQuZAqU7Sa) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Words as Weapons](https://open.spotify.com/album/5UBqu6PBcuFGx8t2SccBUb) | 3:53 | 2024-01-29 | 2024-02-02 |

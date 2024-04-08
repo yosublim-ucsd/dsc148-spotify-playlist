@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,520 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,523 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 52 | [Naomi birthday song](https://open.spotify.com/track/2lQrFQNl5kmZoNCs1KkAL8) | [ml godi](https://open.spotify.com/artist/6xa4Dk2GZqhLboPS1eXDqg) | [Collection](https://open.spotify.com/album/1YogiBfwL9qhYX1bENFWgZ) | 2:38 |
 | 53 | [Trap House](https://open.spotify.com/track/43zm30JtK99xSDIGGnGnXU) | [YBKPO](https://open.spotify.com/artist/4zpBA01pzPN4x3VvlO5y1B), [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [ACE.](https://open.spotify.com/artist/1Cliz3Lx3b9qzsHraYmKh1) | [Trap House](https://open.spotify.com/album/1KdZif8ksWZUllwYBSxTwO) | 2:20 |
 | 54 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 |
-| 55 | [Genderera](https://open.spotify.com/track/2Doy5uupIp7I3bnDygeM6g) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX) | [Genderera](https://open.spotify.com/album/14qDGe4Lr8EROJmzTJ0nnx) | 2:51 |
+| 55 | [Genderera](https://open.spotify.com/track/6nAKUOvzI9aCrUbPEUU9i0) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX) | [Genderera](https://open.spotify.com/album/0BygS81lTKXfgOWQ5ZzlZo) | 2:51 |
 | 56 | [Ndolelele](https://open.spotify.com/track/644cjZFzNtNz5dNYwvSuH9) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH), [Sharon Sento](https://open.spotify.com/artist/0HQs6VxGr3meRHHTkvObxy) | [NDURA EP](https://open.spotify.com/album/4DWD8hAqgT9nzglxp1dVSG) | 3:23 |
 | 57 | [Nobody](https://open.spotify.com/track/6krUogRWd9GJTqmLX4qiGH) | [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp), [J\-Wats](https://open.spotify.com/artist/5SICeSfCoS3DTaNhNnZj94) | [Nobody](https://open.spotify.com/album/6jLFWGaIVgdgKXBIJZKkNn) | 3:43 |
 | 58 | [I Give Her Love](https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Herbert Ssensamba](https://open.spotify.com/artist/551y4ECPYt7eD0EIlew8sg) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 4:38 |
 | 59 | [Tough Timez](https://open.spotify.com/track/6HlV4tWyzvYsjhJqALInJJ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/79Z6HX577GPeUdKD4CUWgW) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCwxMmU1NTc0Y2NiN2IzMWM3OTk2MGE2MDVmNWY5YTBhZDE1MzM4OGQ5`
+Snapshot ID: `MCw0NmExYWM1YTM4YTgxZmY4OGJjNTlmYmEyN2Y5ZWM5NzNlYzhkYjNm`

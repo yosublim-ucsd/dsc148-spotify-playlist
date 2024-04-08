@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Peggy Gou
 
-2,162 songs - 5 day 0 hr 18 min
+2,163 songs - 5 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1010,7 +1010,8 @@
 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 | 2023-12-21 | 2024-01-26 |
 | [JOY \(Up The Street\)](https://open.spotify.com/track/5PFSQQxlsdUrR63J31spMv) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Up The Street\)](https://open.spotify.com/album/757FRJv2zPA021rfTPK7hr) | 3:57 | 2023-11-02 | 2023-11-25 |
 | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/track/06ETw1BcQZSbimPaKjdB5Z) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/album/7HwXrG10cc8BqUfZtQOLHR) | 4:45 | 2022-12-08 | 2022-12-24 |
-| [Jump](https://open.spotify.com/track/6a9aHCocZ8ehn89uW0FqUJ) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/7cihYq8t0Rg0W44L7uY1xR) | 2:33 | 2024-03-28 |  |
+| [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 | 2024-03-28 |  |
+| [Jump](https://open.spotify.com/track/6a9aHCocZ8ehn89uW0FqUJ) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/7cihYq8t0Rg0W44L7uY1xR) | 2:33 | 2024-03-28 | 2024-04-08 |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2023-09-21 | 2023-10-13 |
 | [Jungle City](https://open.spotify.com/track/1soAhifV2nFE6don2XMWbX) | [AUSMAX](https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ) | [Jungle City](https://open.spotify.com/album/0XnTgfuWGzF0yLQ4lmMUg2) | 3:36 | 2023-05-11 | 2023-06-02 |
 | [Just A Kid](https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Just A Kid](https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh) | 2:56 | 2024-02-22 | 2024-03-22 |

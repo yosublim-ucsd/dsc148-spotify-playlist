@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,564 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,566 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 79 | [SLUT ME OUT \- Live From Spotify Green Screen](https://open.spotify.com/track/5Uu6DwDs2C7pIlSaLL90CA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT \(Live From Spotify Green Screen\)](https://open.spotify.com/album/04vFQKejywyFsm8Imdddv1) | 2:02 |
 | 80 | [Been A Minute](https://open.spotify.com/track/6XLhGACqeNj0WR1kCRc2po) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Been A Minute](https://open.spotify.com/album/0OzEJkpwtapBQPuYlPcOvy) | 3:35 |
 
-Snapshot ID: `MCwwNzg5MGNlZTRjNWMxYzk3NjNmNzQ1NDgyNTU3NmJiMzg4OGMzZDE4`
+Snapshot ID: `MCxmYzg4ZTJjNjRiOTZlMmM3NmY2NDFiZDAwMjY3OWZlYmVlYzI2MTky`

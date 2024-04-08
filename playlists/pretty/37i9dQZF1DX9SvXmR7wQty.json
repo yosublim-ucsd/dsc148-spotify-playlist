@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Roy",
-  "num_followers": 40274,
+  "num_followers": 40282,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjkxNTlkMTBlM2QzMTUxNzhlMTFlODFmMDdjODAyYWNmNjkzZTcz",
+  "snapshot_id": "MCw3NWQxMzg1ZTY4ZGNjMWU0MDc1YTllNTkxZmIxZDU3ZmIyMTQxOGJh",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "AD VITAM \u00c6TERNAM",
-        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
-      },
-      "artists": [
-        {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
-        }
-      ],
-      "duration_ms": 194540,
-      "name": "Saga",
-      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Hyp\u00e9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 157402,
       "name": "Hyp\u00e9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "AD VITAM \u00c6TERNAM",
+        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "duration_ms": 194540,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -267,22 +267,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "NEI LETTI DEGLI ALTRI",
-        "url": "https://open.spotify.com/album/7tEHuB4Y4KaSAMB1CjTUho"
+        "name": "Doggy",
+        "url": "https://open.spotify.com/album/5cSq4ThXJUx5kyFZePn5go"
       },
       "artists": [
         {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        },
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 192991,
-      "name": "SEMPRE / JAMAIS (feat. Ang\u00e8le)",
-      "url": "https://open.spotify.com/track/4kPslR1KKiN9QOZnK5he23"
+      "duration_ms": 132676,
+      "name": "Doggy",
+      "url": "https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -307,18 +303,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Doggy",
-        "url": "https://open.spotify.com/album/5cSq4ThXJUx5kyFZePn5go"
+        "name": "NEI LETTI DEGLI ALTRI",
+        "url": "https://open.spotify.com/album/7tEHuB4Y4KaSAMB1CjTUho"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         }
       ],
-      "duration_ms": 132676,
-      "name": "Doggy",
-      "url": "https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq"
+      "duration_ms": 192991,
+      "name": "SEMPRE / JAMAIS (feat. Ang\u00e8le)",
+      "url": "https://open.spotify.com/track/4kPslR1KKiN9QOZnK5he23"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -515,8 +515,8 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
-        "url": "https://open.spotify.com/album/7IWx54OEov6VaGLamUs43C"
+        "name": "Bushi Tape 3",
+        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
       },
       "artists": [
         {
@@ -524,13 +524,13 @@
           "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 183453,
-      "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
-      "url": "https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn"
+      "duration_ms": 184360,
+      "name": "Oc\u00e9ane",
+      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -555,6 +555,26 @@
       "duration_ms": 206950,
       "name": "Matata",
       "url": "https://open.spotify.com/track/2r8eknpCO79WImm5i9Aaiz"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "SAUDADE",
+        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
+      },
+      "artists": [
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "barcelona92",
+      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -623,24 +643,8 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "C24",
-        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "C24",
-      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Bushi Tape 3",
-        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
+        "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
+        "url": "https://open.spotify.com/album/7IWx54OEov6VaGLamUs43C"
       },
       "artists": [
         {
@@ -648,13 +652,13 @@
           "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
         },
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 184360,
-      "name": "Oc\u00e9ane",
-      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
+      "duration_ms": 183453,
+      "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
+      "url": "https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -671,6 +675,22 @@
       "duration_ms": 196334,
       "name": "Recommence-moi",
       "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -731,6 +751,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Dis-toi que c'est la vie",
+        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "duration_ms": 147405,
+      "name": "Dis-toi que c'est la vie",
+      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "EMC",
         "url": "https://open.spotify.com/album/6BF3lSyJtGjnKeUqqYMjdG"
       },
@@ -747,22 +783,6 @@
       "duration_ms": 180000,
       "name": "PLAGE ENNEIGEE",
       "url": "https://open.spotify.com/track/5eaS2PEdjSDGK1MfvRDUe4"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Dis-toi que c'est la vie",
-        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
-      },
-      "artists": [
-        {
-          "name": "Keen' V",
-          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
-        }
-      ],
-      "duration_ms": 147405,
-      "name": "Dis-toi que c'est la vie",
-      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -787,26 +807,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "SAUDADE",
-        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
-      },
-      "artists": [
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "barcelona92",
-      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Le Rang des \u00c9toiles",
         "url": "https://open.spotify.com/album/3iQda7g4gHv1ynJHXrHFph"
       },
@@ -819,38 +819,6 @@
       "duration_ms": 111780,
       "name": "Le Rang des \u00c9toiles",
       "url": "https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Parisienne High Level",
-        "url": "https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 151414,
-      "name": "Parisienne High Level",
-      "url": "https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Je pense \u00e0 vous",
-        "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
-      },
-      "artists": [
-        {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
-        }
-      ],
-      "duration_ms": 172263,
-      "name": "Je pense \u00e0 vous",
-      "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -871,18 +839,54 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Multicolore",
-        "url": "https://open.spotify.com/album/5pshEhto6fETHUMWA42en8"
+        "name": "Parisienne High Level",
+        "url": "https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp"
       },
       "artists": [
         {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Multicolore",
-      "url": "https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq"
+      "duration_ms": 151414,
+      "name": "Parisienne High Level",
+      "url": "https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Fabiana Martone",
+          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
+        }
+      ],
+      "duration_ms": 244075,
+      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Je pense \u00e0 vous",
+        "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "duration_ms": 172263,
+      "name": "Je pense \u00e0 vous",
+      "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

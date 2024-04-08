@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: dosii(\ub3c4\uc2dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 465618,
+  "num_followers": 465657,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGVlOTk4NmMzZWZhOGVmZWMzODZmODY2NTBlN2MzZGZiODE0ZTIx",
+  "snapshot_id": "MCxkZTA3ZjFlZjMxZmQ5OTA0MjY2N2ZiMGU4Njk2YzY5ZTY4NDU2ZWQ3",
   "tracks": [
     {
       "added_at": "2024-04-04 05:45:36",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
+        "name": "Okinawa",
+        "url": "https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 348445,
+      "name": "Okinawa",
+      "url": "https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf"
+    },
+    {
+      "added_at": "2024-04-04 05:45:36",
+      "album": {
         "name": "RAL 9002",
         "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
-        "name": "A Call from My Dream",
-        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
-      },
-      "artists": [
-        {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
-        }
-      ],
-      "duration_ms": 255297,
-      "name": "A Call from My Dream",
-      "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
-    },
-    {
-      "added_at": "2024-04-04 05:45:36",
-      "album": {
         "name": "Calibrate",
         "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 225813,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+    },
+    {
+      "added_at": "2024-04-04 05:45:36",
+      "album": {
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "duration_ms": 255297,
+      "name": "A Call from My Dream",
+      "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
     },
     {
       "added_at": "2024-04-04 05:45:36",
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
-        "name": "YOUTH",
-        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
-      },
-      "artists": [
-        {
-          "name": "Dasutt",
-          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
-        }
-      ],
-      "duration_ms": 361426,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
-    },
-    {
-      "added_at": "2024-04-04 05:45:36",
-      "album": {
         "name": "The Land of Fantasy",
         "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
       },
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
+        "name": "YOUTH",
+        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
+      },
+      "artists": [
+        {
+          "name": "Dasutt",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "duration_ms": 361426,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
+    },
+    {
+      "added_at": "2024-04-04 05:45:36",
+      "album": {
         "name": "Puberty Book\u2161 Pum",
         "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 186120,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"
-    },
-    {
-      "added_at": "2024-04-04 05:45:36",
-      "album": {
-        "name": "Okinawa",
-        "url": "https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6"
-      },
-      "artists": [
-        {
-          "name": "92914",
-          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-        }
-      ],
-      "duration_ms": 348445,
-      "name": "Okinawa",
-      "url": "https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf"
     },
     {
       "added_at": "2024-04-04 05:45:36",

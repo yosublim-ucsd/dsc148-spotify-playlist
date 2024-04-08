@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 148834,
+  "2024-04-08": 148934,
   "date_first_scraped": "2024-01-26",
   "description": "These ones are taking off \ud83d\ude80\ud83d\ude80\ud83d\ude80 Cover:  Artemas",
   "name": "!!!",
@@ -558,6 +558,28 @@
     },
     {
       "album": {
+        "name": "DO NOT DISTURB (DELUXE)",
+        "url": "https://open.spotify.com/album/2rIbOVBLitHcUD2g9UCz1P"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "ETA (feat. Luciano)",
+      "url": "https://open.spotify.com/track/2k0DfombK3vPkkaCVhEhEG"
+    },
+    {
+      "album": {
         "name": "DO NOT DISTURB",
         "url": "https://open.spotify.com/album/45wG3jFqzHeQIX8QsXJO5e"
       },
@@ -573,7 +595,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 160000,
       "name": "ETA (feat. Luciano)",
       "url": "https://open.spotify.com/track/422qTU33m36TliSm27uONY"

@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12574,
+  "num_followers": 12580,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmVlMDcxZThhNDI2ZDcwM2IzYjc0NWVlNjU3MDExZjE5MTZkYjFh",
+  "snapshot_id": "MCw2ODJkYzlkZGJmYmU5ODVhY2NjN2MzMjc4YzRlMWM5MzAwZmJjMDQ3",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -407,22 +407,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 172645,
-      "name": "Feeling This",
-      "url": "https://open.spotify.com/track/26AYR77170U49cMcXB7aRV"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 242413,
       "name": "My Happy Ending",
       "url": "https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 172645,
+      "name": "Feeling This",
+      "url": "https://open.spotify.com/track/26AYR77170U49cMcXB7aRV"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -955,6 +955,22 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
+        "name": "Parce qu'on vient de loin",
+        "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        }
+      ],
+      "duration_ms": 232932,
+      "name": "Parce qu'on vient de loin",
+      "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
         "name": "la fierte des notres",
         "url": "https://open.spotify.com/album/5Cp07JiZnqruQBNZb88OCf"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 224200,
       "name": "Le son qui tue (avec Natty)",
       "url": "https://open.spotify.com/track/3ee6eXqZqJo3DJEiBr1SHs"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
-        "name": "Parce qu'on vient de loin",
-        "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
-      },
-      "artists": [
-        {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
-        }
-      ],
-      "duration_ms": 232932,
-      "name": "Parce qu'on vient de loin",
-      "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"
     },
     {
       "added_at": "2020-10-27 12:12:52",

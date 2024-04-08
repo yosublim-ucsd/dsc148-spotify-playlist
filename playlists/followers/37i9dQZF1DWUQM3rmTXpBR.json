@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 71024,
+  "2024-04-08": 71058,
   "date_first_scraped": "2021-12-28",
   "description": "Alternative Arabic songs. Cover: Mohammed Saeed",
   "name": "Arab Indie",
@@ -1419,10 +1419,32 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 229539,
       "name": "Kol Shi",
       "url": "https://open.spotify.com/track/5mMdUcYJpQHEFiqdV2ECOU"
+    },
+    {
+      "album": {
+        "name": "Kol Shi",
+        "url": "https://open.spotify.com/album/4dgpwbYDlwPxdKc0kL4lfO"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        },
+        {
+          "name": "MoJaNaD",
+          "url": "https://open.spotify.com/artist/1RdYVBRHQwqUHHT9uQCVJk"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249242,
+      "name": "Kol Shi",
+      "url": "https://open.spotify.com/track/4M2oY0Ro0OsldqdRiTvEJN"
     },
     {
       "album": {

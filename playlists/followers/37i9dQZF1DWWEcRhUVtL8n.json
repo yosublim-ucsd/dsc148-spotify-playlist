@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 1688530,
+  "2024-04-08": 1688505,
   "date_first_scraped": "2020-10-13",
   "description": "New and approved indie pop. Cover: Empress Of",
   "name": "Indie Pop",
@@ -4351,8 +4351,8 @@
       },
       "artists": [
         {
-          "name": "Ree6e",
-          "url": "https://open.spotify.com/artist/2U90T4sTIVVjC3klG9QrHW"
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
         }
       ],
       "date_added": "2024-03-26",
@@ -8807,6 +8807,24 @@
       "duration_ms": 205294,
       "name": "Drugs in California",
       "url": "https://open.spotify.com/track/2pFsmLD22nDUkAejzukYuW"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "album": {
@@ -23011,7 +23029,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 163050,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
@@ -27735,7 +27753,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
@@ -29007,7 +29025,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 179049,
       "name": "Sweet N Low",
       "url": "https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG"

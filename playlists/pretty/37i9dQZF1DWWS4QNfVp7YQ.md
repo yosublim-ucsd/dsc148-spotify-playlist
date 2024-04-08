@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,691 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,730 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 19 | [Chiquetere vs Rockstar Tribal Mix](https://open.spotify.com/track/4vPRVHNmPf310sQRYJmSQO) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ) | [Chiquetere vs Rockstar Tribal Mix](https://open.spotify.com/album/2NBtKwtr7Nd38M6wKlRYDn) | 3:23 |
 | 20 | [Dame](https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Dame](https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ) | 2:36 |
 | 21 | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/track/5HjFgPcDGw2aheShNLvoFq) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ), [Chunti](https://open.spotify.com/artist/0ygGyoQL8ERbkZFOmwZWPb) | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/album/0Qqm11AsJS2mnGNYiStZ6k) | 2:37 |
-| 22 | [La Trompeta Del Diablo](https://open.spotify.com/track/60cUW8whWzeVIONqISksOO) | [Jey Agredo](https://open.spotify.com/artist/6s6TzzI6MiyL8FzhiEXULY), [Guaracha Aleteo Vip](https://open.spotify.com/artist/4qDy1sm9QajMeYMFflFwUA) | [Aleteo VIP Golden Edition](https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb) | 4:26 |
-| 23 | [La Culebritica](https://open.spotify.com/track/35sjMmzqvrsfus9qmHFUqq) | [Tribal Guarachero](https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt) | [La Culebritica](https://open.spotify.com/album/4QdDnd3evfl3o5pGKc7k3S) | 3:40 |
+| 22 | [La Culebritica](https://open.spotify.com/track/35sjMmzqvrsfus9qmHFUqq) | [Tribal Guarachero](https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt) | [La Culebritica](https://open.spotify.com/album/4QdDnd3evfl3o5pGKc7k3S) | 3:40 |
+| 23 | [La Trompeta Del Diablo](https://open.spotify.com/track/60cUW8whWzeVIONqISksOO) | [Jey Agredo](https://open.spotify.com/artist/6s6TzzI6MiyL8FzhiEXULY), [Guaracha Aleteo Vip](https://open.spotify.com/artist/4qDy1sm9QajMeYMFflFwUA) | [Aleteo VIP Golden Edition](https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb) | 4:26 |
 | 24 | [Noches de Soledad](https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M) | 3:38 |
 | 25 | [Mi Trompeta](https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Yer Cortez](https://open.spotify.com/artist/1PaP0yYtwyr8l6RUNtNwlw) | [Mi Trompeta](https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI) | 3:58 |
 | 26 | [Cuando](https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Cuando](https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 49 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
 | 50 | [Conga Sound Machine](https://open.spotify.com/track/1b9fjZC3K4MmP3hUwYxrj0) | [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 4:45 |
 
-Snapshot ID: `MCw1MTU2ODYzNzQ5ZWU2YWQxZjc4MDJlNzFkNjM5NmY1NDIxNjA2M2Mx`
+Snapshot ID: `MCw4MDc2MzU4MzM3ZTQwNTYwYjE0MTU2ZDc4MjhiOWY0NjI5NTI2OGJh`

@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Night Flight",
+        "url": "https://open.spotify.com/album/0udVdJFqOQjfUYimXyPyxd"
+      },
+      "artists": [
+        {
+          "name": "Multidimensional Control Mechanism YODAKA",
+          "url": "https://open.spotify.com/artist/2QzSCrLHW000QqZshAnNWV"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Night Flight",
+      "url": "https://open.spotify.com/track/39YZ1EwwNaMqblHgADpfM5"
+    },
+    {
+      "album": {
         "name": "Days With Uncertainty",
         "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
       },

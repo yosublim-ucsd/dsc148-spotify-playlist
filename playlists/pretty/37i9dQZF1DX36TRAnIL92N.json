@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 306015,
+  "num_followers": 306322,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWFkYTMzMDdjMTg3MWQyZTdkOTg5ZDM4YzBlNDdjZTc4NGQ0ZjIx",
+  "snapshot_id": "MCw0ZWNjODlmZDZlNjQ3Mjg0MTJhN2E2YTJhYTA3MzE0Nzc4MWU4NTJl",
   "tracks": [
     {
       "added_at": "2024-03-20 20:00:00",
@@ -667,8 +667,8 @@
     {
       "added_at": "2024-03-20 20:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/0C24gM4unxLDwJNa0ax8LP"
+        "name": "Robot",
+        "url": "https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 365568,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt"
+      "duration_ms": 205652,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW"
     },
     {
       "added_at": "2024-03-20 20:00:00",
@@ -771,8 +771,8 @@
     {
       "added_at": "2024-03-20 20:00:00",
       "album": {
-        "name": "Robot",
-        "url": "https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0C24gM4unxLDwJNa0ax8LP"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 205652,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW"
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt"
     },
     {
       "added_at": "2024-03-20 20:00:00",

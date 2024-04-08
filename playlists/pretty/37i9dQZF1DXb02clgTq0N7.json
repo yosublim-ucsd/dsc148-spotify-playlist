@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 132701,
+  "num_followers": 132759,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjhlMWY1ZGMyOTU4NDJlNGE3ZGVmN2EyNTBkNzM3NjllMjUyNWI0",
+  "snapshot_id": "MCw5ZjI2MGU3ZTIyZWMzNGY5MzMzNmVmYzdmOTJiMTA4ZTBiZTg2OTQ1",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Se\u00f1alado por Costumbre",
-        "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 182739,
-      "name": "Cuando los Necesit\u00e9 - Banda",
-      "url": "https://open.spotify.com/track/6Qx0b9ArGdO5LCnG9UBdkO"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Corridos Famosos Al Estilo De...",
         "url": "https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 184000,
       "name": "Quiero Charlar Con La Muerte",
       "url": "https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Se\u00f1alado por Costumbre",
+        "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 182739,
+      "name": "Cuando los Necesit\u00e9 - Banda",
+      "url": "https://open.spotify.com/track/6Qx0b9ArGdO5LCnG9UBdkO"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Barquillero",
+        "url": "https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Barquillero",
+      "url": "https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 161733,
       "name": "Bayo 17",
       "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Barquillero",
-        "url": "https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Barquillero",
-      "url": "https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Cosas Del Diablo",
-        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 145773,
-      "name": "Ray02",
-      "url": "https://open.spotify.com/track/6ghrwhaBnkhJaEM25wm3s4"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "RDSD (En Vivo)",
         "url": "https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 185500,
       "name": "RDSD (En Vivo)",
       "url": "https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Cosas Del Diablo",
+        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 145773,
+      "name": "Ray02",
+      "url": "https://open.spotify.com/track/6ghrwhaBnkhJaEM25wm3s4"
     },
     {
       "added_at": "2023-06-16 06:00:00",

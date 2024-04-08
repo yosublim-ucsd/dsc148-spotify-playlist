@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Glass Animals \(pictured\), Benson Boone, Griff and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,009 likes - 127 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,054 likes - 127 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 126 | [If It Is Love](https://open.spotify.com/track/0OFsRCsWTeW2hmPxRI7VZQ) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [If It Is Love](https://open.spotify.com/album/4kb1Sw8lZoThU29WhGR48o) | 3:22 |
 | 127 | [One](https://open.spotify.com/track/2jZ7QU2zzb4upMpVXAm1nb) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [One](https://open.spotify.com/album/07xQoYhMMM1fjl3y8eQPTo) | 4:02 |
 
-Snapshot ID: `MCwwOTRhMTY0N2ZhZTc1Y2EwOWVjMDcwYzQyNWZkYTg1NTMyN2I3NjU2`
+Snapshot ID: `MCxjZmU3ZDI3MDBlYjc1OTZhNTQ5ZDJlYzAxNWNhYWVmNTJmNzE0OTUw`

@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-152 songs - 8 hr 44 min
+153 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [FTF](https://open.spotify.com/track/55RCEUpoNk99ItvUo74QfT) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:38 | 2023-09-01 | 2023-09-12 |
 | [Gang](https://open.spotify.com/track/2j4nuG55QE2D9eGZb655is) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:51 | 2023-09-01 | 2023-09-12 |
 | [Gbesile \- Remix](https://open.spotify.com/track/0dszKrcyZztwHO5Akp7ieb) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Strength In Numbers](https://open.spotify.com/album/28volG5cNQEUI0U8CdD6DF) | 3:40 | 2023-09-01 | 2023-09-12 |
-| [Genderera](https://open.spotify.com/track/2Doy5uupIp7I3bnDygeM6g) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX) | [Genderera](https://open.spotify.com/album/14qDGe4Lr8EROJmzTJ0nnx) | 2:51 | 2023-01-20 |  |
+| [Genderera](https://open.spotify.com/track/2Doy5uupIp7I3bnDygeM6g) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX) | [Genderera](https://open.spotify.com/album/14qDGe4Lr8EROJmzTJ0nnx) | 2:51 | 2023-01-20 | 2024-04-08 |
+| [Genderera](https://open.spotify.com/track/6nAKUOvzI9aCrUbPEUU9i0) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX) | [Genderera](https://open.spotify.com/album/0BygS81lTKXfgOWQ5ZzlZo) | 2:51 | 2024-03-01 |  |
 | [Give You Love](https://open.spotify.com/track/2sLohdWs9SCAdPEMWOKusH) | [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv) | [Give You Love](https://open.spotify.com/album/5xodDEpuEEZ3ZdzTUhVj2u) | 3:06 | 2022-09-08 |  |
 | [Go Hard](https://open.spotify.com/track/012SqkMWLGmVlyFeAq6piw) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf) | [Destination Africa](https://open.spotify.com/album/2liRYegZRtPJknhLPM7Pti) | 3:51 | 2023-09-01 | 2023-09-12 |
 | [Good Vibes](https://open.spotify.com/track/6tDDEef6iDZebc5GuLDNBv) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Good Vibes](https://open.spotify.com/album/31gljWSwmGdlJmB6OelcS0) | 3:12 | 2023-09-01 | 2023-09-12 |

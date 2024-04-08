@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: Yunchan Lim\(임윤찬\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,847 likes - 105 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,850 likes - 105 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 104 | [Island baby](https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k) | [Denis Sungho](https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp), [COAST82](https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL) | [ISLAND](https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT) | 4:39 |
 | 105 | [The Steps Of Tomorrow](https://open.spotify.com/track/4SGvRalrhEY1s389vbLK0x) | [Kai](https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD) | [KAI ON MUSICAL](https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N) | 3:32 |
 
-Snapshot ID: `MCxjZjNmYTRiZjI3YmU0ZjMxMzBiYjJlMDQ3YTg1MmVhNzIxNmM5ODNl`
+Snapshot ID: `MCwwYzYyYTE2ODM3MTUwNjQ2MjFmYWY5YWU1YTk1ODJiZDNjYzlmODQy`

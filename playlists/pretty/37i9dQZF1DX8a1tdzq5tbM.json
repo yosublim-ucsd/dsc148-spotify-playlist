@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1560196,
+  "num_followers": 1560594,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmIyNzAwMDUxNmU4MjJjODIyNmE5MTdiZTA1ZmZhN2U1N2JhNTcx",
+  "snapshot_id": "MCxkOTY3MGY4NDc4YmExMDc0ODExZmY2YWI3YzM4MmU0NGE4ZDk3YTZi",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "I Am the Club Rocker",
+        "url": "https://open.spotify.com/album/7LUW42pRwoFJV3bIFeliVJ"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 224531,
+      "name": "Sun Is Up",
+      "url": "https://open.spotify.com/track/1TtteYFQeZfSU8AmfIAOvu"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 199386,
       "name": "Love Is Gone - Fred Riester & Joachim Garraud Radio Edit Remix",
       "url": "https://open.spotify.com/track/2MGRnjJc7C0z3EOEWRqcMw"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "I Am the Club Rocker",
-        "url": "https://open.spotify.com/album/7LUW42pRwoFJV3bIFeliVJ"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 224531,
-      "name": "Sun Is Up",
-      "url": "https://open.spotify.com/track/1TtteYFQeZfSU8AmfIAOvu"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Toca (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
-      },
-      "artists": [
-        {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
-        }
-      ],
-      "duration_ms": 200483,
-      "name": "Toca's Miracle - Radio Edit",
-      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Blue (Da Ba Dee)",
         "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 219618,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
       "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Toca (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
+      },
+      "artists": [
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "duration_ms": 200483,
+      "name": "Toca's Miracle - Radio Edit",
+      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Day 'N' Nite (Crookers Remix)",
         "url": "https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 281080,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 181946,
       "name": "Destination Calabria - UK Radio Edit",
       "url": "https://open.spotify.com/track/7pGboneNRAZ5zwT7M3WayC"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "It's Too Late",
-        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
-      },
-      "artists": [
-        {
-          "name": "Dirty South",
-          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
-        },
-        {
-          "name": "Evermore",
-          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
-        }
-      ],
-      "duration_ms": 181230,
-      "name": "It's Too Late - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 524933,
       "name": "Just Be",
       "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "It's Too Late",
+        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Evermore",
+          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
+        }
+      ],
+      "duration_ms": 181230,
+      "name": "It's Too Late - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Underlying Feeling",
-        "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Tosun",
-          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Underlying Feeling - Adam K & Soha Radio Edit",
-      "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "I Am Free",
         "url": "https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Underlying Feeling",
+        "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Tosun",
+          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "Underlying Feeling - Adam K & Soha Radio Edit",
+      "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Fight For You",
         "url": "https://open.spotify.com/album/3ICJTj5U5bm2mql3QduFLb"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 236706,
       "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
       "url": "https://open.spotify.com/track/2YdJ7ZnaXUMZcGe46eCiER"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 719133,
+      "name": "Forever Today",
+      "url": "https://open.spotify.com/track/3v2ZkuMfIB57fXEQLNynjA"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1475,22 +1491,6 @@
       "duration_ms": 151621,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 719133,
-      "name": "Forever Today",
-      "url": "https://open.spotify.com/track/3v2ZkuMfIB57fXEQLNynjA"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "I Like Your Booty / The Big Fake",
+        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
+      },
+      "artists": [
+        {
+          "name": "Traffic Signs",
+          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
+        }
+      ],
+      "duration_ms": 384733,
+      "name": "The Big Fake",
+      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Ready to Dare",
         "url": "https://open.spotify.com/album/5Qaao9KPcE0dL21razJGx9"
       },
@@ -1711,18 +1727,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "I Like Your Booty / The Big Fake",
-        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
+        "name": "Worldwide Dance Hits",
+        "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
       },
       "artists": [
         {
-          "name": "Traffic Signs",
-          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
+          "name": "Mischa Daniels",
+          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
+        },
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3hd8HRM16g6gi6RMUzuQhz"
         }
       ],
-      "duration_ms": 384733,
-      "name": "The Big Fake",
-      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
+      "duration_ms": 217500,
+      "name": "Another Place",
+      "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1747,26 +1767,6 @@
       "duration_ms": 228986,
       "name": "Everything (feat. Myah) - Radio Edit",
       "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Worldwide Dance Hits",
-        "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
-      },
-      "artists": [
-        {
-          "name": "Mischa Daniels",
-          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
-        },
-        {
-          "name": "Crown",
-          "url": "https://open.spotify.com/artist/3hd8HRM16g6gi6RMUzuQhz"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Another Place",
-      "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
     },
     {
       "added_at": "2023-03-22 14:00:00",

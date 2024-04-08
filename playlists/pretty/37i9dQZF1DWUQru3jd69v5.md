@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Silent Bob in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,784 likes - 53 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,785 likes - 53 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 3 | [E Io Gioco A Hockey](https://open.spotify.com/track/58sLGcshW6p5uzZSPVMLZb) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Così Ghiacciato Tony](https://open.spotify.com/album/3N93FlcPvFKrGhQx81K5Uh) | 3:05 |
 | 4 | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK) | 2:48 |
 | 5 | [Sex Drugs Money](https://open.spotify.com/track/7wIPI84dqSrD7bgPPgHygA) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [4ever Young \(Deluxe\)](https://open.spotify.com/album/0gm6fM3b5HrfV306e20I5l) | 2:28 |
-| 6 | [SANTO \(feat\. Tony Boy & Swan\)](https://open.spotify.com/track/6dToetZB2vW270C9QvdAdO) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Swan](https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE) | [Real Talk \- 5/6 feat\. Tony Boy](https://open.spotify.com/album/70xzri4dvGeP1pU5i9awfo) | 1:22 |
+| 6 | [SANTO \(feat\. Tony Boy & Swan\)](https://open.spotify.com/track/6dToetZB2vW270C9QvdAdO) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Swan](https://open.spotify.com/artist/3OozESsnCC27eiR9Wx6xBL) | [Real Talk \- 5/6 feat\. Tony Boy](https://open.spotify.com/album/70xzri4dvGeP1pU5i9awfo) | 1:22 |
 | 7 | [MERCOLEDÌ](https://open.spotify.com/track/3us3mAJQ3FHF7f5VvqMVCi) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [MERCOLEDÌ](https://open.spotify.com/album/3Az1k3g9oasddvMM5umLe2) | 3:45 |
 | 8 | [Ridendo Nella Banca](https://open.spotify.com/track/59wVqn7bVIAgwDTvoSIj9m) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z) | [Ridendo Nella Banca](https://open.spotify.com/album/7AkaleUxdBo73UPbULTx6m) | 2:48 |
 | 9 | [Prima Ci Prendiamo Roma](https://open.spotify.com/track/5CP4uqaXaVVNdwS6DphiJN) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Welcome To CS Nord](https://open.spotify.com/album/6xjyRhsVX5LYAf92xE7YGP) | 2:27 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 52 | [LOOP](https://open.spotify.com/track/4pyB9Zy8Hy8Bko67IihYZR) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [LOOP](https://open.spotify.com/album/68caZ3EhG2FXjPPda0Sqp1) | 2:42 |
 | 53 | [Ekip](https://open.spotify.com/track/7158jz8FPmq8DkrqDjIDB6) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Ekip](https://open.spotify.com/album/1u94zj4rvh7F7pRTKkNC81) | 2:35 |
 
-Snapshot ID: `MCw1NjJhNDJiMDc3N2NmMjk0ZjRiNDU3ZGJiOGNjYzUzMjgwZTE1Y2Ix`
+Snapshot ID: `MCxjYWY2ODIyNjUyZDQwNWYyM2ZhYWM0N2Q2MzZmMmU2MjE1N2ZiMThk`

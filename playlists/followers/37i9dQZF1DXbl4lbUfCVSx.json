@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 31332,
+  "2024-04-08": 31342,
   "date_first_scraped": "2023-04-12",
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
   "name": "Kompas Dir\u00e8k",
@@ -60,6 +60,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4LxfQP8a6lHhZ6gU3AFnn4"
+      },
+      "artists": [
+        {
+          "name": "Carimi",
+          "url": "https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308266,
+      "name": "Ayiti - Bang Bang",
+      "url": "https://open.spotify.com/track/2c8QOX0nztxqKjK2QtP9Nb"
+    },
+    {
+      "album": {
         "name": "Zouk soir\u00e9e priv\u00e9e (Danse avec moi)",
         "url": "https://open.spotify.com/album/0Y0PGUE8JK9gE83cy1uNRR"
       },
@@ -96,6 +114,42 @@
     },
     {
       "album": {
+        "name": "Chay",
+        "url": "https://open.spotify.com/album/6VLcntqnLsNkREacIO31xl"
+      },
+      "artists": [
+        {
+          "name": "Enposib",
+          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252461,
+      "name": "Bom sou 2 bo",
+      "url": "https://open.spotify.com/track/7vi3BWFIq8RMsAVlMjT5kn"
+    },
+    {
+      "album": {
+        "name": "Calypso : Winter Edition",
+        "url": "https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161560,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/7nHGMX1tgemCoNTwuEnYm5"
+    },
+    {
+      "album": {
         "name": "Degaje",
         "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
@@ -107,7 +161,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 271712,
       "name": "Cheri Benyen M'",
       "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
@@ -150,6 +204,32 @@
     },
     {
       "album": {
+        "name": "Douce Tankou Sirop",
+        "url": "https://open.spotify.com/album/6aciWh0PwWbGK0eijriQVm"
+      },
+      "artists": [
+        {
+          "name": "Massiv3",
+          "url": "https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr"
+        },
+        {
+          "name": "Dj Son",
+          "url": "https://open.spotify.com/artist/4CcCHfqnROkTsWA85BZ0BS"
+        },
+        {
+          "name": "Dj Excel",
+          "url": "https://open.spotify.com/artist/6CWTh5dOTapfp6pJS0z98l"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315898,
+      "name": "Douce Tankou Sirop",
+      "url": "https://open.spotify.com/track/3ovFI5AbptfOzODNeUsYE6"
+    },
+    {
+      "album": {
         "name": "Atis Lokal Pap Janm Lague",
         "url": "https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy"
       },
@@ -183,7 +263,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 247663,
       "name": "F\u00e8 Sa W Vle Av\u00e8 M'",
       "url": "https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz"
@@ -245,7 +325,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 316706,
       "name": "Grev B\u00e8b\u00e8",
       "url": "https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I"
@@ -263,7 +343,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 332910,
       "name": "Habitude",
       "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
@@ -281,10 +361,32 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 391253,
       "name": "Heartbreak & Misery",
       "url": "https://open.spotify.com/track/23gqX7KTpI4ZEiCbyIRrzX"
+    },
+    {
+      "album": {
+        "name": "I'll Yayad (Pretty Bumpy)",
+        "url": "https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF"
+      },
+      "artists": [
+        {
+          "name": "Carimi",
+          "url": "https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat"
+        },
+        {
+          "name": "5Lan",
+          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "I'll Yayad - Pretty Bumpy",
+      "url": "https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW"
     },
     {
       "album": {
@@ -419,7 +521,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 309936,
       "name": "Kilot",
       "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
@@ -437,7 +539,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 165224,
       "name": "Kimb\u00e9 sa nan rinw",
       "url": "https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9"
@@ -459,6 +561,28 @@
       "duration_ms": 114934,
       "name": "Kompa SHATTA",
       "url": "https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3"
+    },
+    {
+      "album": {
+        "name": "JIJE'M",
+        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        },
+        {
+          "name": "Bedjine",
+          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316998,
+      "name": "KOUPAB",
+      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
     },
     {
       "album": {
@@ -495,7 +619,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 255000,
       "name": "Lanmou Doudou",
       "url": "https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD"
@@ -553,7 +677,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 308000,
       "name": "L\u00e8 Nap F\u00e8 Lanmou",
       "url": "https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2"
@@ -596,6 +720,24 @@
     },
     {
       "album": {
+        "name": "Magic Gouyad #3",
+        "url": "https://open.spotify.com/album/7ydEyjwDsDDH0tdoRKnwZA"
+      },
+      "artists": [
+        {
+          "name": "R Dydy",
+          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304352,
+      "name": "Magic Gouyad #3",
+      "url": "https://open.spotify.com/track/32SZRFOF9JUQRxAIOfaEkd"
+    },
+    {
+      "album": {
         "name": "Malade (feat. Richard Cave)",
         "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
       },
@@ -615,6 +757,60 @@
       "duration_ms": 309107,
       "name": "Malade (feat. Richard Cave)",
       "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
+    },
+    {
+      "album": {
+        "name": "Chambre 12",
+        "url": "https://open.spotify.com/album/49ooEM5Xre2NvBHVcg6aFe"
+      },
+      "artists": [
+        {
+          "name": "Massiv3",
+          "url": "https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Metro Gouyad",
+      "url": "https://open.spotify.com/track/32txcWZeusEWrCZAM14yJS"
+    },
+    {
+      "album": {
+        "name": "Juste Moi (Part 1)",
+        "url": "https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo"
+      },
+      "artists": [
+        {
+          "name": "Princess' Lover",
+          "url": "https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257506,
+      "name": "Mon Soleil",
+      "url": "https://open.spotify.com/track/5R6kK3ZRUlb2dkI0E3psXo"
+    },
+    {
+      "album": {
+        "name": "Mortal kompa",
+        "url": "https://open.spotify.com/album/7Icz6IIxVeARwDOZo9csfx"
+      },
+      "artists": [
+        {
+          "name": "lucas seb",
+          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273835,
+      "name": "Mortal kompa",
+      "url": "https://open.spotify.com/track/0o1aJCYLo904JH0xyA8fgz"
     },
     {
       "album": {
@@ -665,7 +861,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 298057,
       "name": "Mwen bouke",
       "url": "https://open.spotify.com/track/2FsxVv8SMZHUGLh7EFEGWF"
@@ -683,7 +879,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 268240,
       "name": "Ou pati",
       "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
@@ -741,7 +937,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 386733,
       "name": "Pam Pam Pam",
       "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
@@ -766,6 +962,46 @@
     },
     {
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/7BJ2XJcYzTUoiw7EQtZw7Z"
+      },
+      "artists": [
+        {
+          "name": "Vayb",
+          "url": "https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309907,
+      "name": "Ralanti",
+      "url": "https://open.spotify.com/track/6HIJ13H03bmXvezAonGZbu"
+    },
+    {
+      "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "album": {
         "name": "3 Tou 9",
         "url": "https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m"
       },
@@ -777,10 +1013,28 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 289537,
       "name": "San Limit",
       "url": "https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z"
+    },
+    {
+      "album": {
+        "name": "Se Pa Pou Dat",
+        "url": "https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn"
+      },
+      "artists": [
+        {
+          "name": "Alan Cav\u00e9",
+          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341346,
+      "name": "Se Pa Pou dat",
+      "url": "https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n"
     },
     {
       "album": {
@@ -802,6 +1056,28 @@
     },
     {
       "album": {
+        "name": "She's Hot",
+        "url": "https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u"
+      },
+      "artists": [
+        {
+          "name": "Pierre Jean",
+          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
+        },
+        {
+          "name": "TJO ZENNY",
+          "url": "https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238524,
+      "name": "She's Hot",
+      "url": "https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW"
+    },
+    {
+      "album": {
         "name": "Degaje",
         "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
@@ -813,7 +1089,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 331871,
       "name": "Simplicit\u00e9",
       "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"
@@ -835,6 +1111,42 @@
       "duration_ms": 268480,
       "name": "Sonia",
       "url": "https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0"
+    },
+    {
+      "album": {
+        "name": "Option",
+        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274106,
+      "name": "Ti doudou",
+      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
+    },
+    {
+      "album": {
+        "name": "Tous Ces D\u00e9tails",
+        "url": "https://open.spotify.com/album/6bA6XuiUHycSDwQe2V9PXD"
+      },
+      "artists": [
+        {
+          "name": "Durkheim",
+          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170121,
+      "name": "Tous Ces D\u00e9tails",
+      "url": "https://open.spotify.com/track/657kb7QPOdD0Jr7DyBebyH"
     },
     {
       "album": {
@@ -867,7 +1179,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 214987,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/2YItJHTMp12xn8Ln7pvMCq"
@@ -885,7 +1197,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 301087,
       "name": "Vini'm pale w",
       "url": "https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3"
@@ -903,7 +1215,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 293035,
       "name": "Wet the hell map vini - Zouk",
       "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
@@ -947,6 +1259,24 @@
       "duration_ms": 324026,
       "name": "Yel\u00e9 (feat. Ms. Lauryn Hill)",
       "url": "https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK"
+    },
+    {
+      "album": {
+        "name": "Back In The Game",
+        "url": "https://open.spotify.com/album/1G5vtlKcipDCEotsG04sOZ"
+      },
+      "artists": [
+        {
+          "name": "EKIP",
+          "url": "https://open.spotify.com/artist/6Xs1C2QqjZd56EVeSomCAR"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265586,
+      "name": "Ze Fele",
+      "url": "https://open.spotify.com/track/7wXeBWKUoFHFPSwWBaID87"
     },
     {
       "album": {

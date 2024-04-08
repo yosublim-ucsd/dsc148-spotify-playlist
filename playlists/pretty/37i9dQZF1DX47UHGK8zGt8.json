@@ -1,12 +1,12 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 538595,
+  "num_followers": 538719,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjdkYjIxYTEzMTIxYjdhOGIzZjZlMGExZmI2NWFkMTE2Nzk4OGEy",
+  "snapshot_id": "MCw4NTFkYTE1NDE5OTU3ZWRjZDE0NDZmYzdhNzczNjNjMTU4MDAzNmZj",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -287,8 +287,8 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Infinito Particular",
-        "url": "https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730"
+        "name": "O Que Voc\u00ea Quer Saber de Verdade",
+        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 209546,
-      "name": "Vilarejo",
-      "url": "https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH"
+      "duration_ms": 173586,
+      "name": "Depois",
+      "url": "https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -435,8 +435,8 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "O Que Voc\u00ea Quer Saber de Verdade",
-        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
+        "name": "Infinito Particular",
+        "url": "https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Depois",
-      "url": "https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm"
+      "duration_ms": 209546,
+      "name": "Vilarejo",
+      "url": "https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Lado de C\u00e1",
+        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
+      },
+      "artists": [
+        {
+          "name": "Lado de C\u00e1",
+          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
+        }
+      ],
+      "duration_ms": 171594,
+      "name": "Quando Amanhecer",
+      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Silva & Liniker (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 230746,
       "name": "Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Lado de C\u00e1",
-        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
-      },
-      "artists": [
-        {
-          "name": "Lado de C\u00e1",
-          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
-        }
-      ],
-      "duration_ms": 171594,
-      "name": "Quando Amanhecer",
-      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Mais Bonito N\u00e3o H\u00e1",
-        "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 237479,
-      "name": "Mais Bonito N\u00e3o H\u00e1",
-      "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Um amor puro",
         "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 285000,
       "name": "Um amor puro",
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Mais Bonito N\u00e3o H\u00e1",
+        "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 237479,
+      "name": "Mais Bonito N\u00e3o H\u00e1",
+      "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
     },
     {
       "added_at": "2024-03-29 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9095,
+  "num_followers": 9096,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "MTIzNiw1OGVlMDNmYTUxZjYwNDMzM2YyOWQxZjhkOWY5OTFhOGQwMGQ4NjM1",
+  "snapshot_id": "MTIzOCxlNTlmZWY4NmM0ZTI3YmU5MzlmZmRmNjMwOGU4MGU4NzVlMGMzNmJj",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -357,6 +357,26 @@
       "url": "https://open.spotify.com/track/4TOYAE8zIoTnPGbgLiErwq"
     },
     {
+      "added_at": "2024-04-07 17:14:48",
+      "album": {
+        "name": "Fast Car (Acoustic Live Session)",
+        "url": "https://open.spotify.com/album/36HrHr1wj7tzsryHiUnem2"
+      },
+      "artists": [
+        {
+          "name": "Jodie Knight",
+          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
+        },
+        {
+          "name": "STABAL",
+          "url": "https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Fast Car - Acoustic Live Session",
+      "url": "https://open.spotify.com/track/14N56qsRV6jOydcjHqN6El"
+    },
+    {
       "added_at": "2019-10-13 06:38:53",
       "album": {
         "name": "Issues (Acoustic)",
@@ -591,6 +611,22 @@
       "duration_ms": 171243,
       "name": "I Forgot That You Existed - Acoustic",
       "url": "https://open.spotify.com/track/2YlBd0cQ9kRGRf46JfUj3c"
+    },
+    {
+      "added_at": "2024-04-07 17:21:27",
+      "album": {
+        "name": "Lifted (Acoustic)",
+        "url": "https://open.spotify.com/album/1YbuDjbPhC1DILi7mcgsAY"
+      },
+      "artists": [
+        {
+          "name": "Mateo Oxley",
+          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
+        }
+      ],
+      "duration_ms": 164865,
+      "name": "Lifted - Acoustic",
+      "url": "https://open.spotify.com/track/5B26Q1m6tNOklrvWr6lFEr"
     },
     {
       "added_at": "2019-10-13 06:38:53",

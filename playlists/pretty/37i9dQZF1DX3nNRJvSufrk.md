@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,037 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,045 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 34 | [Fire Man](https://open.spotify.com/track/5AG3SZvJxBtjyU5j7KdSTt) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Pleasure](https://open.spotify.com/album/4KXuiwlBnuaPkxjnGJ2zVz) | 3:12 |
 | 35 | [Heavy Heat](https://open.spotify.com/track/4ITPhaaomWd5YNBuZtvKyp) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Legacy Volume 2](https://open.spotify.com/album/0hQOZl8Ltlj9PlIOS8Ohxa) | 3:45 |
 | 36 | [Samba Focused](https://open.spotify.com/track/2AusXnxTndZvmYz5ygFXo8) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Strictly 4 My Cdjz 7](https://open.spotify.com/album/2rYIMDR48AbLrkbZ78ly6M) | 3:15 |
-| 37 | [Baaaaaa \- Taken from Bass + Funk & Soul](https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Baaaaaa \(Taken from Bass + Funk & Soul\)](https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO) | 2:30 |
-| 38 | [Burnin Shoes](https://open.spotify.com/track/4ap5hCK1x2EjMd6QyJFZiK) | [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU), [Jon1st](https://open.spotify.com/artist/4rkqsUdw0a2YaadfuNM7zF) | [Rituals EP](https://open.spotify.com/album/7dA9oiC0iPu2yNXnOK8rn3) | 5:16 |
-| 39 | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/65CmlkO3DCwB0ZQvU9vaZY) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/3k2t4ylBBWNH7ovwqceYHq) | 3:56 |
-| 40 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
+| 37 | [Burnin Shoes](https://open.spotify.com/track/4ap5hCK1x2EjMd6QyJFZiK) | [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU), [Jon1st](https://open.spotify.com/artist/4rkqsUdw0a2YaadfuNM7zF) | [Rituals EP](https://open.spotify.com/album/7dA9oiC0iPu2yNXnOK8rn3) | 5:16 |
+| 38 | [Baaaaaa \- Taken from Bass + Funk & Soul](https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Baaaaaa \(Taken from Bass + Funk & Soul\)](https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO) | 2:30 |
+| 39 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
+| 40 | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/65CmlkO3DCwB0ZQvU9vaZY) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/3k2t4ylBBWNH7ovwqceYHq) | 3:56 |
 | 41 | [Juke It Up](https://open.spotify.com/track/31z2au3mgJYzC6SK5rgPh8) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/57aIkTNeK5ygccVD4oLf2C) | 2:48 |
 | 42 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
 | 43 | [Slanted \(BSN Posse Remix\)](https://open.spotify.com/track/5gtyWp5rTQXIouCryZm7fG) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/2I41rw3sceGcUVoKyIOxwB) | 3:46 |
@@ -57,18 +57,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 47 | [WE GON DANCE](https://open.spotify.com/track/3MI20cDoa9zWn0c70ikDq4) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Tre](https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:39 |
 | 48 | [Divine](https://open.spotify.com/track/1qKl2EuAdN6hedO5tjSBB1) | [Jana Rush](https://open.spotify.com/artist/0wJyMhSanZRw2cEA6cx503) | [Pariah](https://open.spotify.com/album/6mNtkwN3cjhuvzEoH2lFM5) | 5:44 |
 | 49 | [147](https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [VIP VAULTS](https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz) | 4:31 |
-| 50 | [Wouldn't Get Far](https://open.spotify.com/track/564hH35FVVO1PdF1ZaTYhd) | [Young Smoke](https://open.spotify.com/artist/0ehqzJzgBzhTRcOd0BqgCs) | [Bangs & Works Vol\. 2 \(The Best of Chicago Footwork\)](https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj) | 3:00 |
-| 51 | [Turn Up](https://open.spotify.com/track/3mXjdyhImhKgUHTn4tbrNs) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High On Clouds](https://open.spotify.com/album/7wnVMRKzpTxLMCx6PZgpVA) | 3:14 |
+| 50 | [Turn Up](https://open.spotify.com/track/3mXjdyhImhKgUHTn4tbrNs) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High On Clouds](https://open.spotify.com/album/7wnVMRKzpTxLMCx6PZgpVA) | 3:14 |
+| 51 | [Wouldn't Get Far](https://open.spotify.com/track/564hH35FVVO1PdF1ZaTYhd) | [Young Smoke](https://open.spotify.com/artist/0ehqzJzgBzhTRcOd0BqgCs) | [Bangs & Works Vol\. 2 \(The Best of Chicago Footwork\)](https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj) | 3:00 |
 | 52 | [Can't Fake My Feelings \(part 2\)](https://open.spotify.com/track/1FsngYSueNDXhfa7hs7W4G) | [Seimei](https://open.spotify.com/artist/7zZ9WviThpO5AVYmigIf3V) | [Street Bangers Factory 04](https://open.spotify.com/album/5tnvRpXyVXxWYjNjxIwe4d) | 4:38 |
-| 53 | [Elevate](https://open.spotify.com/track/0qcYatTVf33ouptkYHtUqL) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Druguse](https://open.spotify.com/album/33JOcNGQQ1MT6fYzfxAhJh) | 3:28 |
-| 54 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 |
+| 53 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 |
+| 54 | [Elevate](https://open.spotify.com/track/0qcYatTVf33ouptkYHtUqL) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Druguse](https://open.spotify.com/album/33JOcNGQQ1MT6fYzfxAhJh) | 3:28 |
 | 55 | [Give It To Me](https://open.spotify.com/track/4viGDGWnZJxlmGoB238yZ5) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Trackaholic Vol\. 1](https://open.spotify.com/album/52UUqChGfOm9g0Bn0UCZ8F) | 3:49 |
 | 56 | [Bring It Back](https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 3:37 |
 | 57 | [DON'T JUST STAND THERE](https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Big Hank](https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK), [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:26 |
 | 58 | [HNADFUL OF SAND](https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP) | [x.nte](https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA), [Elevation](https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY), [Empress Lex](https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm), [NO EYES](https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm) | [HNADFUL OF SAND](https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV) | 2:30 |
-| 59 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 |
-| 60 | [One Blood](https://open.spotify.com/track/4sn5Cciqk5lSWAV0SwwwWg) | [DJ Roc](https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da) | [The Crack Capone](https://open.spotify.com/album/2D7uCIc6VuH2cM4ygaTkeT) | 2:47 |
-| 61 | [Trippin'](https://open.spotify.com/track/6QlBjoFtfys38zqSIcs2wR) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/3OEp4ArdKsXQLxq34Mfvur) | 3:13 |
+| 59 | [Trippin'](https://open.spotify.com/track/6QlBjoFtfys38zqSIcs2wR) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/3OEp4ArdKsXQLxq34Mfvur) | 3:13 |
+| 60 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 |
+| 61 | [One Blood](https://open.spotify.com/track/4sn5Cciqk5lSWAV0SwwwWg) | [DJ Roc](https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da) | [The Crack Capone](https://open.spotify.com/album/2D7uCIc6VuH2cM4ygaTkeT) | 2:47 |
 | 62 | [Flicka](https://open.spotify.com/track/7BMJLV7eWICgcb1ouJAhq3) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Ww3](https://open.spotify.com/album/4QY4yD4BeJPqJPskLtbEDB) | 3:34 |
 | 63 | [Footwurk Homicide](https://open.spotify.com/track/4Jf3hwDKlkpq9ze8gHCwHb) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh) | 2:48 |
 | 64 | [8 Bit Shit](https://open.spotify.com/track/47kYzDNmceCNSzWdw2InRC) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2fQc0PETxan4Q7P16aMsue) | 4:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 79 | [Do Right](https://open.spotify.com/track/7lMjqRbsChqroWRRkhw3ge) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [Do Right](https://open.spotify.com/album/79oVcdOfST9iLRlqenoJdl) | 3:27 |
 | 80 | [Animosty](https://open.spotify.com/track/2uO6V4OOr08LfU5DSQDchL) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 3:28 |
 
-Snapshot ID: `MCxhYjhjN2EwM2ZlYTc4YzZmYTZkZjBmMDhkMjhjYmUxODAyNzU4MDhj`
+Snapshot ID: `MCwwOGJjNmQwYWE3ZmIzY2Q5ZmIxZmE2NGVmNDVmMTE4ZGI2Mzc5NmIw`

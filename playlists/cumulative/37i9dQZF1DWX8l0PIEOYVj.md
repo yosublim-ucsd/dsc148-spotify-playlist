@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: SLANDER & Trivecta
 
-532 songs - 1 day 8 hr 1 min
+533 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Hollow](https://open.spotify.com/track/52OBoIBBYB9R9UiIbWHKgF) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [Hollow](https://open.spotify.com/album/0FwOjWiSfr5pQ9sAVrSLdq) | 3:33 | 2023-03-10 |  |
 | [Hollow Eyes \(feat\. EKE\)](https://open.spotify.com/track/5zZ29l9N3ZZCtNH4eg3clf) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Hollow Eyes \(feat\. EKE\)](https://open.spotify.com/album/0xgNljaerSZIHuRpZKav5F) | 3:51 | 2022-07-08 | 2022-09-16 |
 | [Hollywood Hills](https://open.spotify.com/track/3x9RTdQNT1Ic1lDylGYQpJ) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Hollywood Hills](https://open.spotify.com/album/0pLgAY0KSRdXFWobd0xhmV) | 3:30 | 2022-07-18 | 2022-08-26 |
+| [Holoban](https://open.spotify.com/track/0hjJoQN4xIsUQr5tJU6mTM) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Holoban](https://open.spotify.com/album/3ePY1PKYkLYZqTZ6mwXRU4) | 2:33 | 2024-04-05 |  |
 | [Hologram Tears \(feat\. Monika Santucci\)](https://open.spotify.com/track/7gfSFkrGjKZL2XbSggjyxz) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Hologram Tears \(feat\. Monika Santucci\)](https://open.spotify.com/album/2K0oDcNSg9KnyZL5jWrzr2) | 3:36 | 2022-07-08 | 2022-10-09 |
 | [Hurt](https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Misdom](https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt) | [Hurt](https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7) | 4:15 | 2022-09-30 | 2023-08-20 |
 | [Hurting Too](https://open.spotify.com/track/3CzT2BHL7mdohRzSvyeJuL) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Hurting Too](https://open.spotify.com/album/7KV3axglofQ6kQcyiwi6Au) | 3:38 | 2022-07-08 | 2022-08-06 |
@@ -272,7 +273,7 @@
 | [Intuition](https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Intuition](https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO) | 3:23 | 2023-11-10 | 2023-11-18 |
 | [IT ISN'T ME](https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [VOLPETRON ASCENDS EP](https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03) | 3:07 | 2023-08-25 |  |
 | [It's All You](https://open.spotify.com/track/4IVpkOqPbxS3kIllPE3pDl) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [It's All You](https://open.spotify.com/album/3PJHOz8SBtwsQxjbKLqLne) | 3:16 | 2022-10-07 | 2023-05-18 |
-| [It's Not Too Late](https://open.spotify.com/track/3j3xA2JFjRvV9MVF2mSBc5) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy) | 4:34 | 2022-08-12 |  |
+| [It's Not Too Late](https://open.spotify.com/track/3j3xA2JFjRvV9MVF2mSBc5) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy) | 4:34 | 2022-08-12 | 2024-04-08 |
 | [It's Not Too Late](https://open.spotify.com/track/6LRPntS8i0E5zV3h9p7KpR) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 4:34 | 2022-08-12 | 2022-09-10 |
 | [Journey](https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Journey](https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD) | 3:06 | 2022-09-30 | 2023-08-21 |
 | [Journey Alone](https://open.spotify.com/track/0prhxe3Wpd6XfDDs0ZZAGX) | [3THOS](https://open.spotify.com/artist/4AO0IoqoaN0H4OVuMeR3EL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Journey Alone](https://open.spotify.com/album/6DkpocNYSV6RrUaMs4IY8H) | 4:02 | 2023-06-16 | 2023-07-09 |

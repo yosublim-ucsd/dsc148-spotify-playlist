@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/
 
-394 songs - 22 hr 30 min
+395 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bruises](https://open.spotify.com/track/59OZiGqFfWmry6o9pTx8i8) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Bruises \(Destinations\)](https://open.spotify.com/album/03JxDRu3gVW98sAknhq8dq) | 3:40 | 2021-12-10 | 2022-04-02 |
 | [Brunt](https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Nosphere](https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td) | [Brunt](https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb) | 3:25 | 2023-12-15 |  |
 | [Buried Beneath You](https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Buried Beneath You](https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU) | 3:31 | 2024-03-08 |  |
+| [BURNING RUBBER](https://open.spotify.com/track/2zhW4Hb4JuQugffpsuVwKz) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [I WANT BLOOD / i want love](https://open.spotify.com/album/4z172SKyhMOorillZtbIIZ) | 2:13 | 2024-04-05 |  |
 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 | 2021-12-10 | 2024-04-04 |
 | [By Your Side](https://open.spotify.com/track/06KgkNaJPuhFTkiwsLr0xX) | [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro), [PatFromLastYear](https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro) | [By Your Side](https://open.spotify.com/album/18dw5dQmUapO6Io1q20L98) | 3:15 | 2023-12-08 | 2024-03-23 |
 | [California](https://open.spotify.com/track/0o6V0Ij0wf7nZiTxPTiWgQ) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [California](https://open.spotify.com/album/1bwm2WcKV53zVrowa9TdPy) | 3:11 | 2022-10-14 | 2023-12-02 |
@@ -318,7 +319,7 @@
 | [Show Me Your God \- Prblm Chld Remix](https://open.spotify.com/track/3EaSVYcGicLf6FjHJJCCtG) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [Prblm Chld](https://open.spotify.com/artist/6ZgKMPtqbeSTMuQ6FQlxKh) | [Show Me Your God \(Prblm Chld Remix\)](https://open.spotify.com/album/2zAovgCPBRCap6DLMwal9M) | 3:52 | 2023-12-01 | 2024-02-22 |
 | [Sick](https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz), [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Sick](https://open.spotify.com/album/4BvWG5QPVZk19DgLCUqxur) | 3:49 | 2021-12-10 | 2023-09-09 |
 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 | 2023-05-19 |  |
-| [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 | 2022-06-10 |  |
+| [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 | 2022-06-10 | 2024-04-08 |
 | [Skull n Bones](https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK) | [Stileto](https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i) | [Skull n Bones](https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK) | 2:25 | 2023-04-28 |  |
 | [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 | 2022-06-24 | 2023-12-02 |
 | [Snow Globe \(Autograf vs\. Waterparks\)](https://open.spotify.com/track/7sOneFgIctEkJJd6gXV7nj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Snow Globe \(Autograf vs\. Waterparks\)](https://open.spotify.com/album/1RNw8fPG9pT28Eqjlesqcr) | 2:34 | 2021-12-10 | 2022-07-29 |

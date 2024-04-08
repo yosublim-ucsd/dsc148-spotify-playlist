@@ -1,12 +1,12 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 391844,
+  "num_followers": 392140,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzhlYzQ3OGI5NzhmMjBiY2I3YmE5NDgzZDA5MTNkOGRiM2E2NTVk",
+  "snapshot_id": "MCw1OGVhMzZhODQ4NTFlMDEyMzM4OTJjNTQ1NDQ4ZGJhOTc2MGZjNTVi",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Get Low",
+        "url": "https://open.spotify.com/album/7vjky38QfkVvkXF1ueWyZT"
+      },
+      "artists": [
+        {
+          "name": "Butch U",
+          "url": "https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/6o2FQGObDH7kCpYlvJH2ai"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Just A Lil Bit",
         "url": "https://open.spotify.com/album/4XjtQUIBZEkOiGLXbUwEoe"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 128237,
       "name": "Just A Lil Bit",
       "url": "https://open.spotify.com/track/6Wwi5V7VAR9KOo8c9gksh1"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Get Low",
-        "url": "https://open.spotify.com/album/7vjky38QfkVvkXF1ueWyZT"
-      },
-      "artists": [
-        {
-          "name": "Butch U",
-          "url": "https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/6o2FQGObDH7kCpYlvJH2ai"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Get Low",
-        "url": "https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE"
-      },
-      "artists": [
-        {
-          "name": "Murdbrain",
-          "url": "https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn"
-        },
-        {
-          "name": "Junior Charles",
-          "url": "https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO"
-        }
-      ],
-      "duration_ms": 146952,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "All The Way Up",
         "url": "https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 175333,
       "name": "All The Way Up",
       "url": "https://open.spotify.com/track/289pQ5lNESfucuiv1BAgEO"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Get Low",
+        "url": "https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE"
+      },
+      "artists": [
+        {
+          "name": "Murdbrain",
+          "url": "https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn"
+        },
+        {
+          "name": "Junior Charles",
+          "url": "https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO"
+        }
+      ],
+      "duration_ms": 146952,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Candy Shop",
-        "url": "https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K"
+        "name": "Tricky Trippy",
+        "url": "https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5"
       },
       "artists": [
         {
-          "name": "BeeBars",
-          "url": "https://open.spotify.com/artist/7b3md5axPpNqk3S71GuV62"
-        },
-        {
-          "name": "7vvch",
-          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
+          "name": "Demeter",
+          "url": "https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz"
         }
       ],
-      "duration_ms": 140458,
-      "name": "Candy Shop",
-      "url": "https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z"
+      "duration_ms": 178002,
+      "name": "Tricky Trippy",
+      "url": "https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu"
     }
   ],
   "unique_name": "DOWN LOW",

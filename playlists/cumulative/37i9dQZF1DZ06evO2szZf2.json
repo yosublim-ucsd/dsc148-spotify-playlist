@@ -47,6 +47,32 @@
     },
     {
       "album": {
+        "name": "4K (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XIlyJduCBL2SNBuB9zcj6"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242762,
+      "name": "4K - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ODCPhlKs2QAQlsh8pit5J"
+    },
+    {
+      "album": {
         "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
         "url": "https://open.spotify.com/album/27tAWJ4Yh4CS6FxjIt3E1W"
       },
@@ -789,6 +815,48 @@
     },
     {
       "album": {
+        "name": "Mar\u00e9 Cheia",
+        "url": "https://open.spotify.com/album/4HqF4h22gdNFl3PjYFBXM3"
+      },
+      "artists": [
+        {
+          "name": "Mc Vit\u00e3o Do Savoy",
+          "url": "https://open.spotify.com/artist/2XbYkRNqc0WKV871nxnOno"
+        },
+        {
+          "name": "MC Bruno MS",
+          "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
+        },
+        {
+          "name": "Mc PP da VS",
+          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dodida",
+          "url": "https://open.spotify.com/artist/3WX3OGPYDIf4m5hFcDSFwU"
+        },
+        {
+          "name": "MC Junin da VR",
+          "url": "https://open.spotify.com/artist/5AOXaZSRlH7FaERhYS8kqY"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408025,
+      "name": "Mar\u00e9 Cheia",
+      "url": "https://open.spotify.com/track/25Qk7cbx5idYPamwBNRgLY"
+    },
+    {
+      "album": {
         "name": "Me Bate Com O Caralho",
         "url": "https://open.spotify.com/album/7B79TEYgmIny5ucYQy70ig"
       },
@@ -870,7 +938,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 228252,
       "name": "Mundo Pequeno",
       "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
@@ -1804,7 +1872,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 155245,
       "name": "Vegas (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/0GBDRkOUYLDU62RU57mPCo"

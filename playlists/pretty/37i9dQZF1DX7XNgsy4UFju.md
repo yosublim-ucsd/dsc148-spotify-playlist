@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Jane Penny
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,071 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,087 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 |
 | 100 | [Wish](https://open.spotify.com/track/7j7NHQpLk3HJUNKtdMcATu) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Wish](https://open.spotify.com/album/3LXIH2vyXZLYoahg7B9Zzl) | 3:26 |
 
-Snapshot ID: `MCw4N2UwN2UwZWFjODRhOGM0MThlYWZjNWI1YWE5NTBlOTY4YmQxM2Q1`
+Snapshot ID: `MCxkYTlkZTAzNDY1OGVlNDg1ZTRhNjU5OTJmYjYwNzI4OTIxYThlOTc3`

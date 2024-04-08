@@ -22758,10 +22758,28 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 226253,
       "name": "That Is You",
       "url": "https://open.spotify.com/track/4beWJkcoiFxfYI9sy2rbfs"
+    },
+    {
+      "album": {
+        "name": "Brothers & Sisters",
+        "url": "https://open.spotify.com/album/2VmcCIkNH8csGrM5ztrs4T"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226253,
+      "name": "That Is You",
+      "url": "https://open.spotify.com/track/4h75t4z8cUnJSf0jWIg7WC"
     },
     {
       "album": {

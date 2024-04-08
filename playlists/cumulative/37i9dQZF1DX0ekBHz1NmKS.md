@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,142 songs - 2 day 11 hr 56 min
+1,144 songs - 2 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 | 2021-12-16 | 2022-05-13 |
 | [Failure](https://open.spotify.com/track/56CBitpBTs1eY3Vk1wmW6b) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Failure](https://open.spotify.com/album/6xo9QswGgLtPkeNRtYQxCU) | 3:01 | 2022-10-15 | 2022-12-16 |
 | [Fake Front](https://open.spotify.com/track/1NK9I6zrU9TbVtV82umZHe) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Fake Front](https://open.spotify.com/album/6ltm5Hbwmss9RyCBhOJqPB) | 3:13 | 2022-05-26 | 2022-06-11 |
+| [Fakka ur](https://open.spotify.com/track/2n2ObgjImm2neSROK9phmP) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Fakka ur](https://open.spotify.com/album/3b3d4OzKPwi8T54rEZvkrF) | 2:55 | 2024-04-04 |  |
 | [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 | 2023-08-17 | 2023-09-09 |
 | [Faller](https://open.spotify.com/track/2ap9hdHdrR9QOiosR9vcwu) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr), [Simeon](https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk) | [Faller](https://open.spotify.com/album/0prJNOqGxgOhTVs52VUlFY) | 2:40 | 2021-12-16 | 2022-03-06 |
 | [Faller](https://open.spotify.com/track/5HhWunSVvHtEGoYYrFobvK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Faller](https://open.spotify.com/album/4KG76mDkkFzMeKhSPgColG) | 3:53 | 2022-02-17 | 2022-05-12 |
@@ -543,7 +544,7 @@
 | [JUSSI](https://open.spotify.com/track/5z7Zc81YRQHchQJXXIj6RE) | [ALVA](https://open.spotify.com/artist/5cutSKNdUWOwGrP7KsdNLU) | [JUSSI](https://open.spotify.com/album/6z5UZcjnwzfKYeXjKprt1i) | 3:23 | 2024-02-15 | 2024-03-22 |
 | [Just A Girl](https://open.spotify.com/track/4F2qj7XKsBZWgyyrchAPJO) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Just A Girl](https://open.spotify.com/album/7uW7dVCInNpUeXtLfk2JZz) | 3:43 | 2022-01-13 | 2022-09-16 |
 | [Kan nått fint få hända sen](https://open.spotify.com/track/0QLmMEaOJKgLy1D6ICVNzF) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Kan nått fint få hända sen](https://open.spotify.com/album/44SEVloUXwb3w9NWJPXrAN) | 3:06 | 2023-10-06 | 2024-01-26 |
-| [Kanske blir bäst](https://open.spotify.com/track/5vxayeeeiAijEdv4MGlJRT) | [STRøM](https://open.spotify.com/artist/0ZxQA85NuvdHxrcjGbkHKt), [JIEF](https://open.spotify.com/artist/0UOGtCsP2Y4nv8vO30cBfs) | [Kanske blir bäst](https://open.spotify.com/album/7oCY86ttQwUI6nzzTGOfHA) | 3:19 | 2024-03-14 |  |
+| [Kanske blir bäst](https://open.spotify.com/track/5vxayeeeiAijEdv4MGlJRT) | [STRøM](https://open.spotify.com/artist/0ZxQA85NuvdHxrcjGbkHKt), [JIEF](https://open.spotify.com/artist/0UOGtCsP2Y4nv8vO30cBfs) | [Kanske blir bäst](https://open.spotify.com/album/7oCY86ttQwUI6nzzTGOfHA) | 3:19 | 2024-03-14 | 2024-04-08 |
 | [Kanske borde dra](https://open.spotify.com/track/1346kMKphlGAWfvdDd0fk6) | [Solpolen](https://open.spotify.com/artist/6ac9VI7Y7cMncuAgzjJYaB) | [Kanske borde dra](https://open.spotify.com/album/4aCNpVLQ5Jk4I43Vp8ErC3) | 2:56 | 2024-02-08 | 2024-02-25 |
 | [Karlavagnen](https://open.spotify.com/track/7rZ3Gqfwh5SuM5tvHK1eAq) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Karlavagnen](https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5) | 3:10 | 2022-04-28 | 2023-10-06 |
 | [Kenneth](https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Kenneth](https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4) | 3:49 | 2023-05-04 | 2023-06-26 |
@@ -888,6 +889,7 @@
 | [Somewhere Without Me](https://open.spotify.com/track/0YoTjK4DQV9lx6OBtOJPj7) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Somewhere Without Me](https://open.spotify.com/album/5mWszAnXiNaXRLQ1XXUjFx) | 3:33 | 2021-12-16 | 2022-03-11 |
 | [Sommardag](https://open.spotify.com/track/2LWwXk56lQAa5zuHd6snBB) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Naag Nool](https://open.spotify.com/album/1UTctXDMnBfSheaCnpT7O5) | 3:19 | 2021-12-16 | 2022-03-07 |
 | [Sommaren](https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Sommaren](https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043) | 2:53 | 2022-12-22 | 2023-10-06 |
+| [Sommaren](https://open.spotify.com/track/3qir39bFtgEGQiqs1EETer) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Sommaren](https://open.spotify.com/album/0kxuRSR8M1fwzwrjeIsj8m) | 2:10 | 2024-04-04 |  |
 | [Sommarn är över \(feat\. Eah\)](https://open.spotify.com/track/1XGr0Rdlrtx6QOUjw91lRX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao), [Eah](https://open.spotify.com/artist/4Uj4hzPZNXOTHGdOsnCcF0) | [Sommarn är över \(feat\. Eah\)](https://open.spotify.com/album/4x6jVOB2d25n5WqHtCe9Mk) | 3:16 | 2021-12-16 | 2022-03-11 |
 | [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu) | [Oskar Häggström](https://open.spotify.com/artist/69ZOZoebEshyscvb3HktEf), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/album/12SjrFUpHO06Xm2Co5ookK) | 3:02 | 2022-06-21 | 2023-04-09 |
 | [Sommartider hej!](https://open.spotify.com/track/1rUd5snXKfQ5TpCLvhBzGM) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe), [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Sommartider hej!](https://open.spotify.com/album/2THySII2sobcnUQRPVFgMT) | 3:17 | 2021-12-16 | 2022-02-10 |
@@ -1072,7 +1074,7 @@
 | [Vi Är På Riktigt](https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq), [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Vi Är På Riktigt](https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK) | 3:07 | 2022-09-29 | 2023-10-06 |
 | [Vice Versa](https://open.spotify.com/track/69Hc0ZGMFjOhxnFPOpYc29) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Vice Versa](https://open.spotify.com/album/3MQhHWeO9PcFUVaHg3Q719) | 2:56 | 2022-01-13 | 2022-04-02 |
 | [VIKOMMERÅDÖ](https://open.spotify.com/track/0GdhtbBV4AWM3QTL09OFPF) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [VIKOMMERÅDÖ](https://open.spotify.com/album/0FFtatB9vcQps5vDLM6s1I) | 3:42 | 2021-12-16 | 2022-03-10 |
-| [Viktigt](https://open.spotify.com/track/5pOmq3IrlHIqdSgcacwuKX) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [Viktigt](https://open.spotify.com/album/7ER18ZbwfpfM5ZJh1Ex5gU) | 2:57 | 2024-04-04 |  |
+| [Viktigt](https://open.spotify.com/track/5pOmq3IrlHIqdSgcacwuKX) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [Viktigt](https://open.spotify.com/album/7ER18ZbwfpfM5ZJh1Ex5gU) | 2:57 | 2024-04-04 | 2024-04-08 |
 | [Vill Ha Dig](https://open.spotify.com/track/4hMgZHTuFA6TJHIXTvU6A1) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Vill Ha Dig](https://open.spotify.com/album/18ptVEEe7WJF7q8rbIoTKV) | 3:57 | 2021-12-16 | 2022-01-06 |
 | [Vincent](https://open.spotify.com/track/2OkBi8s5tBzrKIYjINs4p7) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Vincent](https://open.spotify.com/album/2rHuQYFtCQ8LNHo2SenIJY) | 2:39 | 2023-11-16 | 2024-02-09 |
 | [VINCENT VAN GOGH](https://open.spotify.com/track/6OX0wJBp76vVHprJhpwOCl) | [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [VINCENT VAN GOGH](https://open.spotify.com/album/40HVvl2Bk1XoeN8kH2dmVL) | 2:33 | 2022-05-30 | 2022-07-20 |

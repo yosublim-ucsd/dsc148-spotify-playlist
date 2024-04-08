@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Curiousity",
+        "url": "https://open.spotify.com/album/0YdloNcXRtehS3B9HYHLWd"
+      },
+      "artists": [
+        {
+          "name": "Warpzeit",
+          "url": "https://open.spotify.com/artist/3e9fK5PYMDiMgY0s1Am6iJ"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "Curiousity",
+      "url": "https://open.spotify.com/track/3I5RnTlsZ6qGd512wilesA"
+    },
+    {
+      "album": {
         "name": "Dans le noir",
         "url": "https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p"
       },

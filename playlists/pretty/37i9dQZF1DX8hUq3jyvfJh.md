@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Manu e mais mulheres no volume máximo! Co\-curadoria com
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,156 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,376 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 34 | [Bem Melhor que Tu \- Ao Vivo](https://open.spotify.com/track/5gba4P9rf02hD6vHX7FGYF) | [Day Melo](https://open.spotify.com/artist/2tuOFk7ifECq71v6QWBpie), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Bem Melhor que Tu \(Ao Vivo\)](https://open.spotify.com/album/1Gauff2B1cz6c8qrGP7Dqg) | 2:50 |
 | 35 | [Um Ex Amor](https://open.spotify.com/track/3BcJ4bfuH7vWoYl235McAe) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Um Ex Amor](https://open.spotify.com/album/5jMfkmURBl2PWFCXf1lmSL) | 3:00 |
 | 36 | [Carinho E Respeito](https://open.spotify.com/track/4zfd2DA0X6juAIIUHbnbIZ) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [A culpa é do meu SIGNO](https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd) | 2:40 |
-| 37 | [Paracetamal \- Ao Vivo](https://open.spotify.com/track/67xNafdAPTbpPN1rxmA5DM) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Paracetamal \(Ao Vivo\)](https://open.spotify.com/album/7FHzD8nwNRLAccMkllpQb8) | 2:50 |
-| 38 | [Cleide](https://open.spotify.com/track/4vJAhyVQqc08HKmeWwmTWk) | [Marcia Novo](https://open.spotify.com/artist/33ZYvlC9Qs0gtyBWY6GOik), [O Conde Só Brega](https://open.spotify.com/artist/1Fwo1NcyRIEDraRN1fy495) | [Cleide](https://open.spotify.com/album/3QY7ydZS435baVDOqu4h8L) | 3:29 |
+| 37 | [Cleide](https://open.spotify.com/track/4vJAhyVQqc08HKmeWwmTWk) | [Marcia Novo](https://open.spotify.com/artist/33ZYvlC9Qs0gtyBWY6GOik), [O Conde Só Brega](https://open.spotify.com/artist/1Fwo1NcyRIEDraRN1fy495) | [Cleide](https://open.spotify.com/album/3QY7ydZS435baVDOqu4h8L) | 3:29 |
+| 38 | [Paracetamal \- Ao Vivo](https://open.spotify.com/track/67xNafdAPTbpPN1rxmA5DM) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Paracetamal \(Ao Vivo\)](https://open.spotify.com/album/7FHzD8nwNRLAccMkllpQb8) | 2:50 |
 | 39 | [Whisky Vagabund0 / Viva Voz / Cobaia \- Ao Vivo](https://open.spotify.com/track/125cKwQiNBVqpAHmDRmbfl) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL) | 5:00 |
 | 40 | [Rotina](https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Rotina](https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv) | 3:08 |
 | 41 | [A Prova de Ex](https://open.spotify.com/track/0RnGEYHURSUAgii5QS7lcx) | [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Ao Vivo em Nazaré das Farinhas](https://open.spotify.com/album/2ZNIQZydZyHNGUNA9djAD6) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Garota](https://open.spotify.com/track/1GPpTfjZtYdCcrwBVVpyuV) | [Maria Clara](https://open.spotify.com/artist/2f7WgZUIxWzg5KRU5y0fVc) | [Garota](https://open.spotify.com/album/6XonAhian0PAQ0DWRkQY6Y) | 3:28 |
 | 50 | [Vapt Vupt](https://open.spotify.com/track/1Ccih7yKi46g9TK9KQmNGG) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Sobre Nós Dois, Vol.1](https://open.spotify.com/album/1LZgTRSFgdjSj0HrnWS1ZP) | 2:22 |
 
-Snapshot ID: `MCxkZDFlOWNlNDljNWM0ZmU5M2M1ZjhiYjY3OGI2MzYxZTA3M2RjN2Ew`
+Snapshot ID: `MCxjMjU1MDgxODdkMjE1ZjBmMWY3ZTFiNGJiYjc1ODMwNjhlN2E1NzFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,070 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,075 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 25 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 |
 | 26 | [Sserugooti](https://open.spotify.com/track/0GSChodHDqw7L5CkR8UQMQ) | [Sandra Nankoma](https://open.spotify.com/artist/0M5YR05PddV5asF78k9CB9) | [Sserugooti](https://open.spotify.com/album/2am3ccGP1eFx4qPHQ8LRqM) | 4:16 |
 | 27 | [Tuli Ntinda](https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4) | [Finally](https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh) | 2:50 |
-| 28 | [Holiday](https://open.spotify.com/track/6Xil25LAkeXS8t7zuX9bCq) | [Tarley](https://open.spotify.com/artist/6MCgwpWIJKz02C8kHTNFXr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Holiday](https://open.spotify.com/album/5gjFDaBgK7t5vlqWljQmCs) | 3:20 |
+| 28 | [Holiday](https://open.spotify.com/track/4sHA0Zenr4FSOcTle2Qd7d) | [Tarley](https://open.spotify.com/artist/6MCgwpWIJKz02C8kHTNFXr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Holiday](https://open.spotify.com/album/6BntsiXqMKSczNRqng2WVQ) | 3:20 |
 | 29 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 |
 | 30 | [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 |
 | 31 | [Call Me Crazy](https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu) | [The Goddess Lawino](https://open.spotify.com/artist/60Zm0GjEqosthGtgWzKZUj), [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz) | [Call Me Crazy](https://open.spotify.com/album/4FltpHD4x1eQKA7X8sDcpQ) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |
 | 60 | [High](https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx) | [Artin Pro](https://open.spotify.com/artist/2LMyimxq7nl4YIHsPd6Vou), [Ronie On Dis One](https://open.spotify.com/artist/1ffsHhD3TNYdqWhT0gZeZk) | [High](https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE) | 3:10 |
 
-Snapshot ID: `MCw1OGFhNzU0NzE3NmMzNzU2YmE1ZGY4ZjdkYTExODdlNDg0OTEzNWYw`
+Snapshot ID: `MCxlYzg1NmY5MDIyYzgzMmZkZDAwOWNjYmEyYTk0MzAxMDAxMTQxYzY4`

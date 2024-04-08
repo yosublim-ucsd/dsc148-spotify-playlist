@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Jukjae, Choi Yu Ree(\uc801\uc7ac, \ucd5c\uc720\ub9ac))",
-  "num_followers": 389707,
+  "num_followers": 389740,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjMzYTRiMjA5Zjg4YTg2NGZhMGZlNWE5ZTM2NmJlZThiODNkMzEx",
+  "snapshot_id": "MCw2NWE1ZWYyZDhjNDA1NjE2NDhlZWQwMDljMDhhNGU2ODZmNjRmZjA2",
   "tracks": [
     {
       "added_at": "2024-03-28 09:05:45",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-03-28 09:05:45",
       "album": {
+        "name": "Whats wrong with secretary kim OST Part.1",
+        "url": "https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR"
+      },
+      "artists": [
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        },
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "duration_ms": 207056,
+      "name": "Love Virus",
+      "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
+    },
+    {
+      "added_at": "2024-03-28 09:05:45",
+      "album": {
         "name": "Cave Me In",
         "url": "https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 214158,
       "name": "Cave Me In",
       "url": "https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk"
-    },
-    {
-      "added_at": "2024-03-28 09:05:45",
-      "album": {
-        "name": "Whats wrong with secretary kim OST Part.1",
-        "url": "https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR"
-      },
-      "artists": [
-        {
-          "name": "KIHYUN",
-          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
-        },
-        {
-          "name": "SEOLA",
-          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
-        }
-      ],
-      "duration_ms": 207056,
-      "name": "Love Virus",
-      "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
     },
     {
       "added_at": "2024-03-28 09:05:45",

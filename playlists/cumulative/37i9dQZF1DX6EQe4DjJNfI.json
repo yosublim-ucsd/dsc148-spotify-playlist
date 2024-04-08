@@ -3496,10 +3496,32 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 141714,
       "name": "Santa Melanina",
       "url": "https://open.spotify.com/track/0NJsI7WZrZtuCyuxkU4tjc"
+    },
+    {
+      "album": {
+        "name": "Santa Melanina",
+        "url": "https://open.spotify.com/album/5LPiSmZzHte8avVEBkK7al"
+      },
+      "artists": [
+        {
+          "name": "Binho Salles",
+          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Santa Melanina",
+      "url": "https://open.spotify.com/track/3NvElkpBIy1toS8vAVoaBP"
     },
     {
       "album": {

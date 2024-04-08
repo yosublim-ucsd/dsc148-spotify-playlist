@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 778178,
+  "num_followers": 778293,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmVhOGI4NTk1MTdiZTkxY2IxMzk3MTM2ZWQ1ODg4MGNhZWY4MmJh",
+  "snapshot_id": "MCw0YmI2YTgzMjk2NGFjZjdmZjk2YjZhYTMyY2Q0MDkwYzQ0MTY4YWZl",
   "tracks": [
     {
       "added_at": "2024-03-08 14:49:28",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Tim Maia 1970",
         "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
       },
@@ -667,22 +651,6 @@
       "duration_ms": 243183,
       "name": "Eu Amo Voc\u00ea",
       "url": "https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 198039,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -703,18 +671,50 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
       },
       "artists": [
         {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+      "duration_ms": 198039,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 254520,
+      "name": "Voc\u00ea me faz t\u00e3o bem",
+      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 254520,
-      "name": "Voc\u00ea me faz t\u00e3o bem",
-      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Toda Forma De Amor",
         "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 225760,
       "name": "Toda Forma de Amor",
       "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "Devolva-Me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "Uns",
+        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Voce E Linda - Remixed Original Album",
+      "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "N",
         "url": "https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 214464,
       "name": "N",
       "url": "https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "Uns",
-        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "Voce E Linda - Remixed Original Album",
-      "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Sim E N\u00e3o",
-        "url": "https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Espat\u00f3dea",
-      "url": "https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Cru",
         "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 364359,
       "name": "Zero",
       "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Sim E N\u00e3o",
+        "url": "https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Espat\u00f3dea",
+      "url": "https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Ideologia",
         "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 185000,
       "name": "Minha Flor Meu Beb\u00ea",
       "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "A Vida \u00c9 Boa",
-        "url": "https://open.spotify.com/album/24jHOtYr4QloZTAQSTJgTO"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 225498,
-      "name": "Eu Te Amo",
-      "url": "https://open.spotify.com/track/5oXihYXwoWrwJJyPrQF2k1"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "coisa mais bonita",
         "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 176103,
       "name": "coisa mais bonita",
       "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "A Vida \u00c9 Boa",
+        "url": "https://open.spotify.com/album/24jHOtYr4QloZTAQSTJgTO"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 225498,
+      "name": "Eu Te Amo",
+      "url": "https://open.spotify.com/track/5oXihYXwoWrwJJyPrQF2k1"
     },
     {
       "added_at": "2024-03-08 14:49:28",

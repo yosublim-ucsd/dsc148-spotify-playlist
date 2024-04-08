@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,893 likes - 54 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,907 likes - 54 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 10 | [Summertime](https://open.spotify.com/track/62Xj6x2LSWv47PtRAXrg5Z) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:53 |
 | 11 | [3 Preludes : Allegro Ben Ritmato E Deciso](https://open.spotify.com/track/3TChFoNvKras9uQkimzK8R) | [Leon Bates](https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin: 6 Songs / Corea: Children's Songs](https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3) | 1:26 |
 | 12 | [Who Cares?](https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Steppin' Out](https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F) | 3:17 |
-| 13 | ['S Wonderful](https://open.spotify.com/track/4AlPwIoAo5TzpQQ6b8KwBv) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 3:31 |
-| 14 | [How Long Has This Been Going On?](https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 5:58 |
+| 13 | [How Long Has This Been Going On?](https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 5:58 |
+| 14 | ['S Wonderful](https://open.spotify.com/track/4AlPwIoAo5TzpQQ6b8KwBv) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 3:31 |
 | 15 | [The Man I Love](https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV) | [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su), [Juray Bartos](https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin For Trumpet \(arr\. J\. Bartos and P\. Breiner\)](https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw) | 4:38 |
 | 16 | [So Am I](https://open.spotify.com/track/4BG2tiyGdAY8PWbvXd3587) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV) | [Gershwin Plays Gershwin: The Piano Rolls](https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0) | 4:18 |
 | 17 | [Do It Again](https://open.spotify.com/track/3yoCcX8jaVBWXb9c8Q5nW2) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 3:19 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 53 | [Liza \(All the Clouds'll Roll Away\)](https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Gershwin Fantasy](https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR) | 3:51 |
 | 54 | [2nd Rhapsody](https://open.spotify.com/track/1ckFQ0OHFXmtDqIBp1SCUV) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Orion Weiss](https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations](https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5) | 15:49 |
 
-Snapshot ID: `MCxkNDRjMTYxNDc0Y2JhYzdiNTY5NjVhMmRkYmExMDg5N2EyOGNhNWY3`
+Snapshot ID: `MCw0OTNlZmU0MDU4MTE5MzVkNDU3MjVkNTg4YjlkMmNlMWY0NzI4Mzli`

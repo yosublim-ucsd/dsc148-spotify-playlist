@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: HODARI, Urias",
-  "num_followers": 167688,
+  "num_followers": 167700,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGQ5YTJkOTcwZWQ5MWE4YWJmMTZlYjBmNDVkY2ViNjBjMjQyY2Uz",
+  "snapshot_id": "MCxhOTAxYTgwZDY3ZjcwOWRiZmVhYzVlZGZmNjQ5ZTE5MDFhOTJhYzA4",
   "tracks": [
     {
       "added_at": "2024-04-05 03:01:00",
@@ -55,22 +55,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Nem Sei Fingir",
-        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Nem Sei Fingir",
-      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "S\u00f3 Vem",
         "url": "https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 177715,
       "name": "Depois da Briga",
       "url": "https://open.spotify.com/track/4JHh4XKEjrSYIq0NbUxfDz"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Nem Sei Fingir",
+        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Nem Sei Fingir",
+      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -199,6 +199,34 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "curva escura",
+        "url": "https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "curva escura",
+      "url": "https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Me Leva",
         "url": "https://open.spotify.com/album/1diSltAeuabmNpBXw3qt9Q"
       },
@@ -275,34 +303,6 @@
       "duration_ms": 157772,
       "name": "Coisas Simples",
       "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "curva escura",
-        "url": "https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "curva escura",
-      "url": "https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -647,26 +647,18 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Voz De Um Querubim",
-        "url": "https://open.spotify.com/album/3CwishKgndzmoz94L8Zb8A"
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
       "artists": [
         {
-          "name": "JovemBlues",
-          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
-        },
-        {
-          "name": "Canguru",
-          "url": "https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG"
-        },
-        {
-          "name": "Macena288",
-          "url": "https://open.spotify.com/artist/1E1vrT6H75zBAZOHI9eWWr"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         }
       ],
-      "duration_ms": 205479,
-      "name": "Voz De Um Querubim",
-      "url": "https://open.spotify.com/track/04RTQv2qPDXsbiacFy6DYQ"
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -691,18 +683,26 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+        "name": "Voz De Um Querubim",
+        "url": "https://open.spotify.com/album/3CwishKgndzmoz94L8Zb8A"
       },
       "artists": [
         {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+          "name": "JovemBlues",
+          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
+        },
+        {
+          "name": "Canguru",
+          "url": "https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG"
+        },
+        {
+          "name": "Macena288",
+          "url": "https://open.spotify.com/artist/1E1vrT6H75zBAZOHI9eWWr"
         }
       ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+      "duration_ms": 205479,
+      "name": "Voz De Um Querubim",
+      "url": "https://open.spotify.com/track/04RTQv2qPDXsbiacFy6DYQ"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        },
-        {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
-        }
-      ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Censura e Prazer",
         "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 235135,
       "name": "Censura e Prazer",
       "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        },
+        {
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
+        }
+      ],
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -951,6 +951,26 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Mil\u00e3o",
+        "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        },
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        }
+      ],
+      "duration_ms": 199972,
+      "name": "Mil\u00e3o",
+      "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1119,6 +1139,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "O Que Eu Soul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
@@ -1139,22 +1175,6 @@
       "duration_ms": 199625,
       "name": "O Que Eu Soul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1243,6 +1263,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "DE REPENTE",
+        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "DE REPENTE",
+      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "S\u00f3 N\u00f3s Dois",
         "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
       },
@@ -1259,18 +1295,18 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "DE REPENTE",
-        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
       },
       "artists": [
         {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 145714,
-      "name": "DE REPENTE",
-      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1291,22 +1327,6 @@
       "duration_ms": 160000,
       "name": "PORTAIS",
       "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1375,6 +1395,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 219487,
+      "name": "A MEIA NOITE",
+      "url": "https://open.spotify.com/track/0zohxkEGHHOEZSJddLIGjL"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Pode Ir",
         "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
       },
@@ -1391,22 +1427,6 @@
       "duration_ms": 153371,
       "name": "Pode Ir",
       "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 219487,
-      "name": "A MEIA NOITE",
-      "url": "https://open.spotify.com/track/0zohxkEGHHOEZSJddLIGjL"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1435,26 +1455,6 @@
       "duration_ms": 171792,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Mil\u00e3o",
-        "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        },
-        {
-          "name": "Matheusinho",
-          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
-        }
-      ],
-      "duration_ms": 199972,
-      "name": "Mil\u00e3o",
-      "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1504,15 +1504,15 @@
           "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
         }
       ],
-      "duration_ms": 141714,
-      "name": "Santa Melanina",
-      "url": "https://open.spotify.com/track/0NJsI7WZrZtuCyuxkU4tjc"
+      "duration_ms": 147130,
+      "name": "Bunda Irada",
+      "url": "https://open.spotify.com/track/60gYHwS5eH3mi8qpKeWhFE"
     },
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Fases Vol. 1",
-        "url": "https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG"
+        "name": "Santa Melanina",
+        "url": "https://open.spotify.com/album/5LPiSmZzHte8avVEBkK7al"
       },
       "artists": [
         {
@@ -1524,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
         }
       ],
-      "duration_ms": 147130,
-      "name": "Bunda Irada",
-      "url": "https://open.spotify.com/track/60gYHwS5eH3mi8qpKeWhFE"
+      "duration_ms": 141714,
+      "name": "Santa Melanina",
+      "url": "https://open.spotify.com/track/3NvElkpBIy1toS8vAVoaBP"
     }
   ],
   "unique_name": "R&B Brasil",

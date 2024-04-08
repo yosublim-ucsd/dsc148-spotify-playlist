@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 10106,
+  "2024-04-08": 10107,
   "date_first_scraped": "2023-06-18",
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
   "name": "This Is Kasey Chambers",
@@ -173,7 +173,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 229034,
       "name": "Black Bess",
       "url": "https://open.spotify.com/track/73X9kXbVeHzKtWnWLaGSHI"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 300333,
       "name": "Wayward Angel",
       "url": "https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1"

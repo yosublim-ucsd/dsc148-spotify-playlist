@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: ero808
 
-715 songs - 1 day 13 hr 12 min
+716 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [CALYPSO](https://open.spotify.com/track/4YmOaFeMM8jRE7FEXixlAM) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [CALYPSO](https://open.spotify.com/album/2V75e6FEFox27TlO3hcX5U) | 2:32 | 2023-08-04 | 2023-09-01 |
 | [Can't Get Enough](https://open.spotify.com/track/5yQy36RGCL7OJcklGrME9X) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR) | [Can't Get Enough](https://open.spotify.com/album/6WAuwYAOQ8BiormDkcZ0pW) | 2:33 | 2024-01-26 |  |
 | [Candy Shop](https://open.spotify.com/track/1GdjigQo4MbNYSFUX7ctNH) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [MKJAY](https://open.spotify.com/artist/20LoXYCfkUQLrhGAu0fXqC), [Daft Hill](https://open.spotify.com/artist/2FLikYDFIrdVwOVDdWg8Mx) | [Candy Shop](https://open.spotify.com/album/6wPYHAowFfbzP2KQf2vh4r) | 2:40 | 2021-10-29 | 2022-05-28 |
+| [CASH](https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [CASH](https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj) | 3:15 | 2024-04-05 |  |
 | [CC](https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [CC](https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2) | 3:00 | 2024-02-23 |  |
 | [Certified](https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Certified](https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK) | 2:55 | 2023-08-14 |  |
 | [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 | 2023-07-07 |  |
@@ -513,7 +514,7 @@
 | [PURRITO](https://open.spotify.com/track/4J5mnWrMZSWfLe6auPLZwA) | [Mord Fustang](https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K) | [PURRITO](https://open.spotify.com/album/7BoIRZP3g0jRztON2uo7Cu) | 3:33 | 2023-06-30 | 2023-07-15 |
 | [Push It](https://open.spotify.com/track/0QUVjsIqKTRkV76T59rCMM) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Push It](https://open.spotify.com/album/2f7if07zQ8aqkwjq6NovP8) | 2:50 | 2022-07-29 | 2023-06-03 |
 | [Putaria](https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE), [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u) | [Putaria](https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F) | 2:40 | 2023-06-16 | 2023-09-24 |
-| [Quaestio \(i've got a question babe\)](https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM), [Manuals](https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo) | [Quaestio \(i've got a question babe\)](https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR) | 3:33 | 2024-01-05 |  |
+| [Quaestio \(i've got a question babe\)](https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM), [Manuals](https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo) | [Quaestio \(i've got a question babe\)](https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR) | 3:33 | 2024-01-05 | 2024-04-08 |
 | [QUestion](https://open.spotify.com/track/0Q6WTnr87Omg6bZS6NTf6f) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Sean Brauer](https://open.spotify.com/artist/3tWo5rm9u9HqlY9suIwNZ0) | [QUestion](https://open.spotify.com/album/1e74XaGBqYUCBWVD4ICBrl) | 3:39 | 2024-03-01 | 2024-03-29 |
 | [Queue](https://open.spotify.com/track/27ThU2UjsMWH48A49DEKck) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0) | [Queue](https://open.spotify.com/album/4z6vS3ZGkTnfKlY4gezFKH) | 3:06 | 2021-10-29 | 2022-07-30 |
 | [Rage](https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Rage](https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq) | 2:55 | 2022-10-14 | 2023-12-02 |

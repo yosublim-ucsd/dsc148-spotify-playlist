@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-119 songs - 13 hr 37 min
+120 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [AWA \- Ralf GUM Vocal Mix Edit](https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [AWA](https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe) | 3:59 | 2024-02-15 |  |
 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee bar](https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 | 2023-03-23 | 2024-03-21 |
 | [Awesome God \(feat\. Kabza De Small\)](https://open.spotify.com/track/6Sl97d6xi1FgBarJViL72d) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Beebar](https://open.spotify.com/artist/05tqZLNSU1rOOxsquPHNkV), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [The Gospel According To Artwork Sounds Chapter II](https://open.spotify.com/album/1HWMPbbketx6SyJJ81dZV0) | 7:18 | 2024-03-15 |  |
-| [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 | 2022-09-14 |  |
+| [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 | 2022-09-14 | 2024-04-08 |
 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 | 2022-09-14 |  |
 | [Captured by Mizolution](https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [One More Time](https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ) | 8:47 | 2022-09-14 | 2023-09-23 |
 | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck) | 7:43 | 2023-09-08 |  |
@@ -58,6 +58,7 @@
 | [It Is Well](https://open.spotify.com/track/4wPGakZ5g4ZjReeTjbo6SA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Oliphant Gold](https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV), [Romeo ThaGreatWhite](https://open.spotify.com/artist/3ZCdk8KQtyV9ZbB6okOx0Q) | [It Is Well](https://open.spotify.com/album/6hJ2QxpWc8eMbwwOgfFkpY) | 7:10 | 2024-01-25 |  |
 | [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 | 2022-09-14 | 2024-03-23 |
 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 | 2023-03-17 | 2024-03-21 |
+| [Joker](https://open.spotify.com/track/7iIE5iJjyQ5STT7kFSY1fX) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/5lV2QzhcKf6NAPg9gIfRyC) | 5:23 | 2024-03-15 |  |
 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 | 2024-02-15 |  |
 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 | 2023-03-23 | 2023-11-18 |
 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 | 2022-09-29 |  |

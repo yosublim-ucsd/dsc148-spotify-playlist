@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-343 songs - 17 hr 40 min
+346 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,8 @@
 | [Binaural Focus Drone](https://open.spotify.com/track/2O0gaBmFsBZXUlG8CMiMyq) | [Sonic Brainwaves](https://open.spotify.com/artist/1W33je0c01FrHZvRH8voH7) | [Alpha Stress Reduction](https://open.spotify.com/album/0Gqz4kIZgtNKcc1kf08Gko) | 3:36 | 2022-04-13 | 2022-04-18 |
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 | 2022-04-13 | 2023-01-29 |
 | [Binaural Theta Sleep 80Hz \- 86Hz](https://open.spotify.com/track/5dfd9LRSjGs4oLTWb7z12A) | [Zeta Loxi](https://open.spotify.com/artist/7BvP1SJxIHUPDY2b35JgPL) | [Binaural Theta Sleep 80Hz \- 86Hz](https://open.spotify.com/album/7uiagaBEo11mYqQq7fc9oL) | 2:08 | 2024-01-17 |  |
+| [Blind Tune](https://open.spotify.com/track/5SPTC386a3gUGz333b4S8X) | [Relax Pod](https://open.spotify.com/artist/6jCMK9NdirCmIkjZRRfsJg) | [Blind Tune](https://open.spotify.com/album/0uiDhffUcPAkdIczseRhv8) | 3:21 | 2024-04-05 |  |
+| [Blissful Breeze](https://open.spotify.com/track/5mEstebX16SCW56WWnEluW) | [Aurora Novara](https://open.spotify.com/artist/01Yy0uR2H9jYuImGLmMi70) | [Blissful Breeze](https://open.spotify.com/album/2BVKx1soGE44pXFTj2EXkn) | 2:45 | 2024-04-05 |  |
 | [Blissful Mind](https://open.spotify.com/track/2XQ4TwHiOR5Q9ZwhaZkTN8) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Blissful Mind](https://open.spotify.com/album/2YK0j5hggZEpf4Lb0w2V0T) | 3:09 | 2024-03-20 |  |
 | [Blossom](https://open.spotify.com/track/5yGRHsgHyUgctn0nDJXk9D) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Blossom](https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG) | 3:02 | 2022-01-12 | 2023-03-15 |
 | [Breaking Silence](https://open.spotify.com/track/4380dhBofsUcbAwa2UqBMc) | [Sounding Cosmos](https://open.spotify.com/artist/57cTypsKxiOGCYx2AbCHkn) | [Breaking Silence](https://open.spotify.com/album/4FH4IHc9VxPs19eX0oagVT) | 3:20 | 2024-03-06 |  |
@@ -90,7 +92,7 @@
 | [Deep Contemplation](https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Understanding Yourself](https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ) | 3:48 | 2022-01-19 | 2024-01-21 |
 | [Deep Down](https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE) | [SUND](https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL) | [Deep Down](https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82) | 2:46 | 2022-01-12 | 2024-01-18 |
 | [Deep Sleep](https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Deep Sleep](https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw) | 2:37 | 2022-01-12 |  |
-| [Deep Steadiness](https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ) | [Winds Of Minds](https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0) | [Deep Steadiness](https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX) | 2:36 | 2023-04-21 |  |
+| [Deep Steadiness](https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ) | [Winds Of Minds](https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0) | [Deep Steadiness](https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX) | 2:36 | 2023-04-21 | 2024-04-08 |
 | [Descanso](https://open.spotify.com/track/7l5zGxgpsEbhKtL8t13LAM) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Descanso](https://open.spotify.com/album/1u7CqT3V9mFsVkujPEOpJy) | 3:47 | 2022-01-12 | 2023-03-15 |
 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 | 2022-01-12 |  |
 | [Determination](https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [Determination](https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt) | 1:52 | 2022-01-12 | 2023-07-29 |
@@ -169,7 +171,7 @@
 | [Idyllical](https://open.spotify.com/track/18mMg1h2pxTKpQSLvPKzWU) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Idyllical](https://open.spotify.com/album/3JcxvzCmYNp0ts3MmQcgS9) | 2:46 | 2024-01-17 |  |
 | [illecebrous](https://open.spotify.com/track/0d7cx0ApKrKqpB1LCI0gja) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [illecebrous](https://open.spotify.com/album/44ustRoAmDpgAd8RyrvfiD) | 2:25 | 2024-01-17 |  |
 | [Immersion](https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [String Of Light](https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR) | 2:49 | 2022-01-12 |  |
-| [In Dreams](https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [In Dreams](https://open.spotify.com/album/03N395vFQrSeex8iFMShkg) | 2:22 | 2023-12-01 |  |
+| [In Dreams](https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [In Dreams](https://open.spotify.com/album/03N395vFQrSeex8iFMShkg) | 2:22 | 2023-12-01 | 2024-04-08 |
 | [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 | 2022-06-16 |  |
 | [Inevitably \- Deep Sleep Edit](https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inevitably](https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2) | 3:37 | 2022-01-12 |  |
 | [Inner Deep](https://open.spotify.com/track/0nnhYgP1kNc2ueZ8GyqH6C) | [Trevor Marson](https://open.spotify.com/artist/4HY7iJRgI9SLocwSY7nZja) | [Inner Deep](https://open.spotify.com/album/6pUi1uAiffJv4NfIubyh5n) | 3:32 | 2024-03-06 | 2024-03-21 |
@@ -233,6 +235,7 @@
 | [Nuee](https://open.spotify.com/track/79BRFdRzq8Kbj2rNvRX18H) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Nuee](https://open.spotify.com/album/2A87JyHOupQKp7kbWllfdz) | 2:48 | 2022-01-12 | 2024-02-16 |
 | [Nära](https://open.spotify.com/track/0cUjV0txDAMZ2g49rHdX80) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [Nära](https://open.spotify.com/album/7DHth5BUleoXVm7lBBwUWH) | 2:20 | 2022-01-12 |  |
 | [Oasis](https://open.spotify.com/track/1pGHWehHrHz09Ehjwtl3DG) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Oasis](https://open.spotify.com/album/1dOa9Yi7Rt5QP1JHDrmjwJ) | 2:51 | 2024-01-17 |  |
+| [Oasis of Stillness](https://open.spotify.com/track/1CPN7WGamNNxLhZTJVlW89) | [Saga Lotus](https://open.spotify.com/artist/5RwXzQeQAqiSEcXHxmhFn9) | [Oasis of Stillness](https://open.spotify.com/album/1sx8HA77okp1MVy45u6vkR) | 3:07 | 2024-04-05 |  |
 | [Oblačno](https://open.spotify.com/track/4njX5u1fq7kcrpki88zDMq) | [Lois Haas](https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5) | [Oblačno](https://open.spotify.com/album/5TvXotn7BPEyVbHcT4n5uT) | 3:46 | 2022-01-12 | 2024-01-20 |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-01-12 |  |
 | [Omegagigia](https://open.spotify.com/track/7bgTGa2DeDTFX8yIbjhl2s) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Omegagigia](https://open.spotify.com/album/64vtZ76endgd7UTXcuOmOU) | 2:53 | 2024-02-07 |  |
@@ -296,7 +299,7 @@
 | [Solfeggio Purity 741 Hz](https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Purity 741 Hz](https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez) | 2:55 | 2023-07-28 | 2024-01-20 |
 | [Source of Wind](https://open.spotify.com/track/0T07s204fGJju5AXG66q9T) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Amulet](https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl) | 3:05 | 2022-01-12 |  |
 | [Southward Bound \(432 Hz\)](https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Southward Bound](https://open.spotify.com/album/3i5u5gnGKkgEH6eiqMcYjr) | 2:34 | 2022-11-11 |  |
-| [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-01-12 |  |
+| [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-01-12 | 2024-04-08 |
 | [Spiritual Pressure](https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Somniac](https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX) | 2:50 | 2022-01-12 | 2023-07-29 |
 | [Split Desire](https://open.spotify.com/track/3d2DiXpatpWMKqE6BxrJy1) | [Natural X](https://open.spotify.com/artist/1zP2l8li9yQDtXVsTRMMPu) | [Spiritual Conquest](https://open.spotify.com/album/4EAbmQe5oFYMSBE6izl7xk) | 3:15 | 2022-04-13 | 2022-04-21 |
 | [Star Fallen](https://open.spotify.com/track/0pXHLfZ33II05CmcqiEzlG) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Star Fallen](https://open.spotify.com/album/6z8UZg8mr2LcqBee8iXsPG) | 4:14 | 2024-02-07 |  |

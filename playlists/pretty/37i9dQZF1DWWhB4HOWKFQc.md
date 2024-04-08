@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,975 likes - 92 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,952 likes - 92 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 91 | [Tell Me It's Not a Dream](https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Queen of Tears \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6) | 3:55 |
 | 92 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 
-Snapshot ID: `MCwzOWJjMjIyYmExYzRhMjJmNTRlNWZjZGViMDRlNmM1MzA3NmNkMzdm`
+Snapshot ID: `MCwzYmVjNzg2NGUzMTU1NzQxNzRjYzc3YTlhNzc4MDI4NDA2MGNmZTc5`

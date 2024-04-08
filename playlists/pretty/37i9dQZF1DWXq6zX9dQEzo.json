@@ -1,12 +1,12 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 223544,
+  "num_followers": 223707,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZlMWY4NjcwNTEyODY0MTc4MmUwMTQ2YWYxOThkZDFjZDVhZWFh",
+  "snapshot_id": "MCw2MTQ1ODEwMDgxMmJiNzgwN2Q3OTk3NGNmZjM5NTk2MGJhZDQyNWNk",
   "tracks": [
     {
       "added_at": "2024-03-20 10:50:51",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Every Step",
-        "url": "https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        },
-        {
-          "name": "Moflo",
-          "url": "https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP"
-        }
-      ],
-      "duration_ms": 166190,
-      "name": "Every Step",
-      "url": "https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Never Fold",
         "url": "https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1"
       },
@@ -467,22 +447,38 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "NOPE",
-        "url": "https://open.spotify.com/album/5RwiHu9QOCzjyoCjBeH4fR"
+        "name": "Every Step",
+        "url": "https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG"
       },
       "artists": [
         {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
         },
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+          "name": "Moflo",
+          "url": "https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP"
         }
       ],
-      "duration_ms": 148000,
-      "name": "NOPE",
-      "url": "https://open.spotify.com/track/1xpUpmKZsGwQWYFV0XkH8u"
+      "duration_ms": 166190,
+      "name": "Every Step",
+      "url": "https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "OOWEE",
+        "url": "https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "OOWEE",
+      "url": "https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -507,6 +503,26 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "NOPE",
+        "url": "https://open.spotify.com/album/5RwiHu9QOCzjyoCjBeH4fR"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "NOPE",
+      "url": "https://open.spotify.com/track/1xpUpmKZsGwQWYFV0XkH8u"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "Kinna Wanna",
         "url": "https://open.spotify.com/album/1zPwfwHZaTH8qRg7NWhvTL"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 136363,
       "name": "Kinna Wanna",
       "url": "https://open.spotify.com/track/384pDNdIcOq4bAQSYthQkb"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "OOWEE",
-        "url": "https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "OOWEE",
-      "url": "https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Saved You Too",
+        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "duration_ms": 118413,
+      "name": "Saved You Too",
+      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "I: The Arrow",
         "url": "https://open.spotify.com/album/4sKgdSpmHk1Tth5QnMlKLo"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Saved You Too",
-        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
-      },
-      "artists": [
-        {
-          "name": "Y Shadey",
-          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
-        }
-      ],
-      "duration_ms": 118413,
-      "name": "Saved You Too",
-      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "MVP",
         "url": "https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 127905,
       "name": "MVP",
       "url": "https://open.spotify.com/track/00uwU1dENamylOgeLh2ask"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "SPIN BACK!",
+        "url": "https://open.spotify.com/album/4Zykomn4WwkD6yHyXC8Kcq"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "SPIN BACK!",
+      "url": "https://open.spotify.com/track/6io60qSWxYi4ZSWrF2lWYF"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -723,22 +739,6 @@
       "duration_ms": 196736,
       "name": "BREAK ME DOWN",
       "url": "https://open.spotify.com/track/2WRTsWXngQLDtvv9geDEah"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "SPIN BACK!",
-        "url": "https://open.spotify.com/album/4Zykomn4WwkD6yHyXC8Kcq"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "SPIN BACK!",
-      "url": "https://open.spotify.com/track/6io60qSWxYi4ZSWrF2lWYF"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Help!",
-        "url": "https://open.spotify.com/album/5G8lpUlWQbQ8s9P4ey3ZDW"
-      },
-      "artists": [
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        }
-      ],
-      "duration_ms": 157954,
-      "name": "Help!",
-      "url": "https://open.spotify.com/track/7lxxnK2IspUkgdgNwvi43W"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "We Already Won",
         "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 115526,
       "name": "I See Lights",
       "url": "https://open.spotify.com/track/2tevNriyzWHKDEIKw5UtAe"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Help!",
+        "url": "https://open.spotify.com/album/5G8lpUlWQbQ8s9P4ey3ZDW"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        }
+      ],
+      "duration_ms": 157954,
+      "name": "Help!",
+      "url": "https://open.spotify.com/track/7lxxnK2IspUkgdgNwvi43W"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "I REMEMBER",
+        "url": "https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 109730,
+      "name": "I REMEMBER",
+      "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "Bands",
         "url": "https://open.spotify.com/album/5veg02OZ3szLtOtf4D5eHB"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 200097,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "I REMEMBER",
-        "url": "https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 109730,
-      "name": "I REMEMBER",
-      "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 219399,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "hollow",
         "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 151200,
       "name": "MMA FREESTYLE",
       "url": "https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 219399,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "RIVALS",
-        "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
-      },
-      "artists": [
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "GAV",
-          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "RIVALS",
-      "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "In My Bible, In My Bag (Remix)",
         "url": "https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 235404,
       "name": "In My Bible, In My Bag - Remix",
       "url": "https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "RIVALS",
+        "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "GAV",
+          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "RIVALS",
+      "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Nowhere to Hide",
-        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
-      },
-      "artists": [
-        {
-          "name": "Deraj",
-          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Nowhere to Hide",
-      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "That Feel",
         "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 163657,
       "name": "That Feel",
       "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Nowhere to Hide",
+        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
+      },
+      "artists": [
+        {
+          "name": "Deraj",
+          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Nowhere to Hide",
+      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "HE BACK!",
+        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 115434,
+      "name": "HE BACK!",
+      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "Check Me Out",
         "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
       },
@@ -1727,18 +1743,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "HE BACK!",
-        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+        "name": "Nicely",
+        "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 115434,
-      "name": "HE BACK!",
-      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+      "duration_ms": 170859,
+      "name": "Nicely",
+      "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1763,18 +1779,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Nicely",
-        "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
+        "name": "Free Indeed",
+        "url": "https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13"
       },
       "artists": [
         {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
         }
       ],
-      "duration_ms": 170859,
-      "name": "Nicely",
-      "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
+      "duration_ms": 187135,
+      "name": "Free Indeed",
+      "url": "https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1795,22 +1811,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Free Indeed",
-        "url": "https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13"
-      },
-      "artists": [
-        {
-          "name": "Konola",
-          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
-        }
-      ],
-      "duration_ms": 187135,
-      "name": "Free Indeed",
-      "url": "https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
       },
@@ -1823,6 +1823,22 @@
       "duration_ms": 164210,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "STOP WHAT YOU DIDNT START (SWYDS)",
+        "url": "https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "STOP WHAT YOU DIDNT START (SWYDS)",
+      "url": "https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1847,22 +1863,6 @@
       "duration_ms": 215693,
       "name": "Love It Here - Remix",
       "url": "https://open.spotify.com/track/4cNcWi6pND2Zsmgv1HUpoX"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "STOP WHAT YOU DIDNT START (SWYDS)",
-        "url": "https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "STOP WHAT YOU DIDNT START (SWYDS)",
-      "url": "https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v"
     },
     {
       "added_at": "2024-03-20 10:50:51",

@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 11146,
+  "num_followers": 11152,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGQ4OTAyOTRkMjQ4Nzc3MzYyNDAzNjQ0NTA0ZjdkMmYxY2M4NjRm",
+  "snapshot_id": "MCxlMTMwNGRlNmZlM2E4YWYyNmUwYjA0OGJiZjMyODFhNjQ1N2Y3MjRj",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell Me This Is a Dream (Expanded Version)",
+        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Tell Me This Is a Dream",
+      "url": "https://open.spotify.com/track/5iJ3TFsnziFusTvu8hM9pL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Delfonics",
         "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
       },
@@ -119,6 +135,22 @@
       "duration_ms": 354240,
       "name": "I Gave to You",
       "url": "https://open.spotify.com/track/7ni5SnrJnT1QwZe1rcPqhC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "I'm Sorry - Remastered",
+      "url": "https://open.spotify.com/track/1ORONFOMyCcwFVvfHMH2Ky"
     },
     {
       "added_at": null,
@@ -155,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Can You Remember",
-      "url": "https://open.spotify.com/track/4clRZa3BGHOFS52liFzwxK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Delfonics",
         "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
       },
@@ -183,6 +199,22 @@
       "duration_ms": 168600,
       "name": "When You Get Right Down to It",
       "url": "https://open.spotify.com/track/3JpDpIUafzYIM1fXRPCjWX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Can You Remember",
+      "url": "https://open.spotify.com/track/4clRZa3BGHOFS52liFzwxK"
     },
     {
       "added_at": null,
@@ -219,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 124733,
-      "name": "Hurt so Bad",
-      "url": "https://open.spotify.com/track/5FGSizyi9HyfIVzNivq2IY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Delfonics",
         "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
       },
@@ -247,6 +263,22 @@
       "duration_ms": 183973,
       "name": "Trying to Make a Fool of Me",
       "url": "https://open.spotify.com/track/6m0r7WzauxafqK0i2U7Avr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 124733,
+      "name": "Hurt so Bad",
+      "url": "https://open.spotify.com/track/5FGSizyi9HyfIVzNivq2IY"
     },
     {
       "added_at": null,
@@ -287,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Delfonics",
         "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
       },
@@ -319,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrian Younge Presents: The Delfonics",
-        "url": "https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M"
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
       "artists": [
         {
           "name": "The Delfonics",
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
         }
       ],
-      "duration_ms": 118186,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/3UqryDsDSq4x8hWaAh7cLD"
+      "duration_ms": 170000,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy"
     },
     {
       "added_at": null,
@@ -355,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La-La Means I Love You",
-        "url": "https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5"
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
       "artists": [
         {
@@ -364,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 196573,
-      "name": "I Don't Want To Make You Wait - Digitally Remastered 1997",
-      "url": "https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm"
+      "duration_ms": 161560,
+      "name": "Everytime I See My Baby - Remastered",
+      "url": "https://open.spotify.com/track/3uXHU3yclU5zb26TsooqBy"
     },
     {
       "added_at": null,
@@ -383,6 +395,22 @@
       "duration_ms": 143333,
       "name": "Funny Feeling",
       "url": "https://open.spotify.com/track/56QIqrLhxb9YiJ2q2UAT2O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La-La Means I Love You",
+        "url": "https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "I Don't Want To Make You Wait - Digitally Remastered 1997",
+      "url": "https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm"
     },
     {
       "added_at": null,
@@ -471,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+        "name": "Adrian Younge Presents: The Delfonics",
+        "url": "https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M"
       },
       "artists": [
         {
           "name": "The Delfonics",
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
         }
       ],
-      "duration_ms": 190914,
-      "name": "Can't Go On Living",
-      "url": "https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40"
+      "duration_ms": 118186,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/3UqryDsDSq4x8hWaAh7cLD"
     },
     {
       "added_at": null,
@@ -519,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Can't Go On Living",
+      "url": "https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -531,22 +579,6 @@
       "duration_ms": 168106,
       "name": "My New Love",
       "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Best Of Delfonics",
-        "url": "https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Didn't I Blow Your Mind This Time - Re-Recorded In Stereo",
-      "url": "https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek"
     },
     {
       "added_at": null,
@@ -567,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me This Is a Dream (Expanded Version)",
-        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+        "name": "Adrian Younge Presents: The Delfonics",
+        "url": "https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M"
       },
       "artists": [
         {
           "name": "The Delfonics",
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
         }
       ],
-      "duration_ms": 171426,
-      "name": "Looking for a Girl",
-      "url": "https://open.spotify.com/track/5HylsHxFBewHLod118HfHi"
+      "duration_ms": 182306,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/5BYhdaZkJaGfDbUmIUb9Kt"
     },
     {
       "added_at": null,
@@ -615,42 +651,6 @@
       "duration_ms": 98469,
       "name": "Intro MC for The Delfonics Concert - Live",
       "url": "https://open.spotify.com/track/5Azq2UGW0k6Y7DhkdY4YNT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrian Younge Presents: The Delfonics",
-        "url": "https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/5BYhdaZkJaGfDbUmIUb9Kt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "A Lover's Concerto",
-      "url": "https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever New",
-        "url": "https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "My World Revolves Around You",
-      "url": "https://open.spotify.com/track/1Bb8niOtFuv0M07uCEDpvb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Of Delfonics",
         "url": "https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 286293,
       "name": "How Long Will You Stay - Re-Recorded In Stereo",
       "url": "https://open.spotify.com/track/7LVpQBczvJBhkiezh2316d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever New",
+        "url": "https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "My World Revolves Around You",
+      "url": "https://open.spotify.com/track/1Bb8niOtFuv0M07uCEDpvb"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
         }
       ],
-      "duration_ms": 174760,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/5FCXAcyigv2nsBx3TI5Y7Z"
+      "duration_ms": 94706,
+      "name": "So In Love With You",
+      "url": "https://open.spotify.com/track/4EDAMQnjx5NqtdSMEhD8u9"
     },
     {
       "added_at": null,

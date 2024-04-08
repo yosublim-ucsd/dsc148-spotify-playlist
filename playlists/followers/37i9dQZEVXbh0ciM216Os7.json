@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 0,
+  "2024-04-08": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -3139,6 +3139,32 @@
     {
       "album": {
         "name": "Born Wit It",
+        "url": "https://open.spotify.com/album/4M0f7QOl4fq9hvHMi8H1rQ"
+      },
+      "artists": [
+        {
+          "name": "Messy the Man",
+          "url": "https://open.spotify.com/artist/1RwQN4SNw6anJpkbknEenD"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Hydrosphere",
+          "url": "https://open.spotify.com/artist/0CocOr8XturC447CUmgwTL"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215248,
+      "name": "Born Wit It",
+      "url": "https://open.spotify.com/track/2shcwDbxLsnEUQKrEXFAcr"
+    },
+    {
+      "album": {
+        "name": "Born Wit It",
         "url": "https://open.spotify.com/album/76w9Z6mFSUJvxHBUJaSxgY"
       },
       "artists": [
@@ -3433,7 +3459,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 224704,
       "name": "Bulls On Parade (Leo Version)",
       "url": "https://open.spotify.com/track/1CBsrQuZndub00LTocecoV"
@@ -3583,7 +3609,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 355778,
       "name": "Burning Heart",
       "url": "https://open.spotify.com/track/1edMU2lM1Lp8mgGjfZTXzg"
@@ -6184,6 +6210,28 @@
     },
     {
       "album": {
+        "name": "Warp Speed Warriors",
+        "url": "https://open.spotify.com/album/79pRkVvEcgcHJzjK1DUbdn"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        },
+        {
+          "name": "Elize Ryd",
+          "url": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315964,
+      "name": "Doomsday Party (feat. Elize Ryd)",
+      "url": "https://open.spotify.com/track/7wUfzoq2c98yl3pEfjyGOh"
+    },
+    {
+      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -8288,6 +8336,24 @@
     },
     {
       "album": {
+        "name": "Forever Young (Metal Version)",
+        "url": "https://open.spotify.com/album/0Mjq4iWRavgjK1TVKfx2Yf"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298143,
+      "name": "Forever Young (Metal Version)",
+      "url": "https://open.spotify.com/track/4uwEnHkoc6Q4wXqKw9NNlB"
+    },
+    {
+      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -8879,7 +8945,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 278067,
       "name": "Gates of Hell",
       "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
@@ -11959,7 +12025,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 108174,
       "name": "Jake Snakes (ALT)",
       "url": "https://open.spotify.com/track/2GR9SMHjCuVHhCNecvuOkN"
@@ -13059,7 +13125,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 247500,
       "name": "LEAVE IT ALL BEHIND",
       "url": "https://open.spotify.com/track/6OuMeKOWACC0acKVleXvTC"
@@ -15971,7 +16037,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 502271,
       "name": "Nardis",
       "url": "https://open.spotify.com/track/1X0fDxUEsfkaOzfztuBCCN"
@@ -16768,6 +16834,24 @@
     },
     {
       "album": {
+        "name": "Two Drink Minimum",
+        "url": "https://open.spotify.com/album/6sPVj8IMDPBYXq10hL53GJ"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179010,
+      "name": "One Finger Snap",
+      "url": "https://open.spotify.com/track/439PR1QLYBLZujThn3TQ0I"
+    },
+    {
+      "album": {
         "name": "One For",
         "url": "https://open.spotify.com/album/4yW6K3Wd7BLHX3F3wGhsLK"
       },
@@ -16827,7 +16911,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
@@ -20356,6 +20440,28 @@
     },
     {
       "album": {
+        "name": "SHAOLIN LESSONS",
+        "url": "https://open.spotify.com/album/6cxoyK2Sg9MRculrDgX29f"
+      },
+      "artists": [
+        {
+          "name": "Pexxa",
+          "url": "https://open.spotify.com/artist/6MXIASQqWSjWXS2T8whcz3"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "SHAOLIN LESSONS",
+      "url": "https://open.spotify.com/track/2XsaKckedWhjHdXIqfGbnk"
+    },
+    {
+      "album": {
         "name": "Shaolin's Revenge",
         "url": "https://open.spotify.com/album/0pQHdDDKjOHgRIL9j7sOfZ"
       },
@@ -22631,7 +22737,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 285714,
       "name": "Target Practice 20.06.23.01",
       "url": "https://open.spotify.com/track/6abXBXeqMIrdSDMap0W1Qg"
@@ -23647,7 +23753,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 119816,
       "name": "The Rebels (ALT)",
       "url": "https://open.spotify.com/track/575RkvVvCqOYVqNviE5nLM"
@@ -26789,7 +26895,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 338000,
       "name": "Wolf Totem - Instrumental",
       "url": "https://open.spotify.com/track/26AU00MfWNYKRKOl24wwfG"
@@ -26905,7 +27011,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 221744,
       "name": "Worldwide Saga",
       "url": "https://open.spotify.com/track/78nD8XwzxoykJY7IQWio2E"

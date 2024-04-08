@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Sexyy Red
 
-578 songs - 1 day 0 hr 43 min
+579 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [BING BONG](https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [BING BONG](https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar) | 1:46 | 2023-03-31 | 2023-06-03 |
 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 | 2023-09-08 |  |
 | [bingo](https://open.spotify.com/track/1jxB8bJcHFeMuKPHug1icD) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [breeze](https://open.spotify.com/album/5KXabmouzMRbYOfqtSCNhI) | 1:24 | 2023-04-21 | 2023-06-10 |
-| [Bitch Duh](https://open.spotify.com/track/1SNELiuKo43ybJfAD2htXh) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Bitch Duh](https://open.spotify.com/album/2R9CsEy4Irvb7kjShP7a7x) | 2:16 | 2024-02-16 |  |
+| [Bitch Duh](https://open.spotify.com/track/1SNELiuKo43ybJfAD2htXh) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Bitch Duh](https://open.spotify.com/album/2R9CsEy4Irvb7kjShP7a7x) | 2:16 | 2024-02-16 | 2024-04-08 |
 | [Bite Size](https://open.spotify.com/track/12DYaQNNZCyDe6mmfMNA2e) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Bite Size](https://open.spotify.com/album/1a4OD0R6DKPBhIayWKArTT) | 2:03 | 2024-03-15 | 2024-03-23 |
 | [Black Barbie](https://open.spotify.com/track/7vtIPEv0Oom2B5XWh6aSil) | [BAHA BANK$](https://open.spotify.com/artist/0RCAPjosUl0X0PehJ5GKJz) | [Black Barbie](https://open.spotify.com/album/29Z0vuw4ddQvCM0mKE5gJu) | 2:12 | 2022-10-28 | 2023-03-25 |
 | [Black Wall Street](https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [Black Wall Street](https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv) | 2:02 | 2022-03-11 | 2022-10-01 |
@@ -268,6 +268,7 @@
 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 | 2023-12-02 |
 | [If I Want To](https://open.spotify.com/track/3mulIJBXRtnCCyrhEmQnUT) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Trappin For The 99 & 2021](https://open.spotify.com/album/68h4gucuothIPoXXwOcXYK) | 1:10 | 2021-11-05 | 2022-07-29 |
 | [IJWSM](https://open.spotify.com/track/71Vmg0nRrXGUwQfvd8ndKs) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [Money Power Respect](https://open.spotify.com/album/5ERmx0FEWvDNAejDgUi37W) | 3:00 | 2024-04-05 |  |
+| [In Dat Mode](https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:02 | 2024-04-05 |  |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-01-06 | 2023-05-06 |
 | [Internet Trolls](https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls](https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR) | 2:20 | 2023-03-03 | 2023-03-25 |
 | [INTRO](https://open.spotify.com/track/1708w11eCuRQBpHUwsfOiD) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [SAMSON: THE ALBUM](https://open.spotify.com/album/75MxgYHn8C4PeA5J8ToWti) | 2:23 | 2023-07-28 | 2023-09-09 |

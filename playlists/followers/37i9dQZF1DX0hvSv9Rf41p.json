@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 977652,
+  "2024-04-08": 977665,
   "date_first_scraped": "2021-12-21",
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Elohim",
   "name": "Bass Arcade",
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 275200,
       "name": "BURN UP",
       "url": "https://open.spotify.com/track/7mo99X14j5mkgbYXjaH7WW"
@@ -12277,7 +12277,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 160800,
       "name": "Rainbow Funk",
       "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"

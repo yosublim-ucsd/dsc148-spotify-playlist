@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31277,
+  "num_followers": 31278,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODFmZjkyNzJlYWE1ZWJkZTIyYWRlODEzZDcxZDRlZjYxODk5ZGQ5",
+  "snapshot_id": "MCxiNzI3MzRmOGQ3ZGQwYzUxZjRhMzUxNWNmNGJhZjkzY2U3NDUxMTdk",
   "tracks": [
     {
       "added_at": "2024-04-04 22:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
-      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Risk p\u00e5 fyllan",
         "url": "https://open.spotify.com/album/5VgurtulNGTe625aNhBIsi"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 177882,
       "name": "Risk p\u00e5 fyllan",
       "url": "https://open.spotify.com/track/2B2KDdeGBBxSTHuRrftDwN"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
+      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Vem fan \u00e4r liberal?",
-        "url": "https://open.spotify.com/album/3nS0eCqVJu74EghUIJOMKE"
+        "name": "Varje ensam natt",
+        "url": "https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y"
       },
       "artists": [
         {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
         }
       ],
-      "duration_ms": 178660,
-      "name": "Vem fan \u00e4r liberal?",
-      "url": "https://open.spotify.com/track/1f07uOacf7BpsHyzBsvDMm"
+      "duration_ms": 204109,
+      "name": "Varje ensam natt",
+      "url": "https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Varje ensam natt",
-        "url": "https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y"
+        "name": "Vem fan \u00e4r liberal?",
+        "url": "https://open.spotify.com/album/3nS0eCqVJu74EghUIJOMKE"
       },
       "artists": [
         {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
         }
       ],
-      "duration_ms": 204109,
-      "name": "Varje ensam natt",
-      "url": "https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv"
+      "duration_ms": 178660,
+      "name": "Vem fan \u00e4r liberal?",
+      "url": "https://open.spotify.com/track/1f07uOacf7BpsHyzBsvDMm"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "V\u00e4rdel\u00f6s",
-        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
-      },
-      "artists": [
-        {
-          "name": "Sten & Stalin",
-          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
-        }
-      ],
-      "duration_ms": 123560,
-      "name": "Feta Gubbar",
-      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Vi \u00c4r Alla Stj\u00e4rnor",
         "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 145520,
       "name": "Som En Doft Av Napalm",
       "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "V\u00e4rdel\u00f6s",
+        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+      },
+      "artists": [
+        {
+          "name": "Sten & Stalin",
+          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+        }
+      ],
+      "duration_ms": 123560,
+      "name": "Feta Gubbar",
+      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Krymplings",
-        "url": "https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj"
-      },
-      "artists": [
-        {
-          "name": "Krymplings",
-          "url": "https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "Jag Vill Ha En Slav",
-      "url": "https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Sex Politik & F\u00e5glar",
         "url": "https://open.spotify.com/album/32VvPLYDMKpWrko4eTSA9k"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 186800,
       "name": "Grav\u00f6l",
       "url": "https://open.spotify.com/track/3FHqXZWwfSRnUCleK2U0eI"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Krymplings",
+        "url": "https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj"
+      },
+      "artists": [
+        {
+          "name": "Krymplings",
+          "url": "https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Jag Vill Ha En Slav",
+      "url": "https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "I All Hast",
-        "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
-      },
-      "artists": [
-        {
-          "name": "Trevolt",
-          "url": "https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Mitt Sista Andetag",
-      "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Tretton \u00d6vningar i Mindfulness",
         "url": "https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 160148,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "I All Hast",
+        "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
+      },
+      "artists": [
+        {
+          "name": "Trevolt",
+          "url": "https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Mitt Sista Andetag",
+      "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Urs\u00e4kta r\u00f6ran - vi river allt",
-        "url": "https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW"
-      },
-      "artists": [
-        {
-          "name": "Psykbryt",
-          "url": "https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e"
-        }
-      ],
-      "duration_ms": 156656,
-      "name": "Masspsykos",
-      "url": "https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Lite sne",
         "url": "https://open.spotify.com/album/0ALw6RtBaizdypw99L98K3"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 172851,
       "name": "Lite sne",
       "url": "https://open.spotify.com/track/78OGaloEbDptQzd8vl8vDE"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Urs\u00e4kta r\u00f6ran - vi river allt",
+        "url": "https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW"
+      },
+      "artists": [
+        {
+          "name": "Psykbryt",
+          "url": "https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e"
+        }
+      ],
+      "duration_ms": 156656,
+      "name": "Masspsykos",
+      "url": "https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "PROMO 2024",
-        "url": "https://open.spotify.com/album/2OIlmCTotMgrSVIBJI9ijr"
-      },
-      "artists": [
-        {
-          "name": "Xiao",
-          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
-        }
-      ],
-      "duration_ms": 113570,
-      "name": "End of Times",
-      "url": "https://open.spotify.com/track/3eBQHA2BC6xonLLtQ1t2j7"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Bakom ljuset",
         "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 136944,
       "name": "Kaos",
       "url": "https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "PROMO 2024",
+        "url": "https://open.spotify.com/album/2OIlmCTotMgrSVIBJI9ijr"
+      },
+      "artists": [
+        {
+          "name": "Xiao",
+          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
+        }
+      ],
+      "duration_ms": 113570,
+      "name": "End of Times",
+      "url": "https://open.spotify.com/track/3eBQHA2BC6xonLLtQ1t2j7"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "F\u00e4rgblind",
-        "url": "https://open.spotify.com/album/44xX7pJ4mlnZ3V87CULPtO"
-      },
-      "artists": [
-        {
-          "name": "MENUD\u00c5",
-          "url": "https://open.spotify.com/artist/5D7o4OprxujXxLMdw5vYv8"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "F\u00e4rgblind",
-      "url": "https://open.spotify.com/track/2P5RmWQ1D4U05M0GsAlBVA"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "H\u00e5ll er borta",
         "url": "https://open.spotify.com/album/21bgNIWT3KRS1SES6CBcQ2"
       },
@@ -1819,18 +1803,18 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Upp till dans",
-        "url": "https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud"
+        "name": "F\u00e4rgblind",
+        "url": "https://open.spotify.com/album/44xX7pJ4mlnZ3V87CULPtO"
       },
       "artists": [
         {
-          "name": "Vidro",
-          "url": "https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8"
+          "name": "MENUD\u00c5",
+          "url": "https://open.spotify.com/artist/5D7o4OprxujXxLMdw5vYv8"
         }
       ],
-      "duration_ms": 141622,
-      "name": "Upp till dans",
-      "url": "https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c"
+      "duration_ms": 157000,
+      "name": "F\u00e4rgblind",
+      "url": "https://open.spotify.com/track/2P5RmWQ1D4U05M0GsAlBVA"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1847,6 +1831,22 @@
       "duration_ms": 173127,
       "name": "Var en man",
       "url": "https://open.spotify.com/track/3ZwnJvrwjnNNt7kbag2RcT"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Upp till dans",
+        "url": "https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud"
+      },
+      "artists": [
+        {
+          "name": "Vidro",
+          "url": "https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8"
+        }
+      ],
+      "duration_ms": 141622,
+      "name": "Upp till dans",
+      "url": "https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "090",
-        "url": "https://open.spotify.com/album/2ZM4ZlHN15TplmQ58pudV9"
+        "name": "Andrahandssorteringen",
+        "url": "https://open.spotify.com/album/5SSM1EI43SMP6Y6yCTzcxQ"
       },
       "artists": [
         {
-          "name": "Slutstation Tjernobyl",
-          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
         }
       ],
-      "duration_ms": 207586,
-      "name": "Lort Och Lackande Moral",
-      "url": "https://open.spotify.com/track/4sJ85CUQRGF5n41Bf4F9k9"
+      "duration_ms": 194661,
+      "name": "D\u00e4r vi bor",
+      "url": "https://open.spotify.com/track/7Daq0uPYehQHetj1iFpltH"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "090",
+        "url": "https://open.spotify.com/album/2ZM4ZlHN15TplmQ58pudV9"
+      },
+      "artists": [
+        {
+          "name": "Slutstation Tjernobyl",
+          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Lort Och Lackande Moral",
+      "url": "https://open.spotify.com/track/4sJ85CUQRGF5n41Bf4F9k9"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Allting kommer tillbaka",
         "url": "https://open.spotify.com/album/0svEX5EaZQaIQjpn49fIfv"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 168214,
       "name": "R\u00e4tt eller fel",
       "url": "https://open.spotify.com/track/2KrH3jNfV4tjm6opj8UoH2"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Andrahandssorteringen",
-        "url": "https://open.spotify.com/album/5SSM1EI43SMP6Y6yCTzcxQ"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Synd",
-          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
-        }
-      ],
-      "duration_ms": 194661,
-      "name": "D\u00e4r vi bor",
-      "url": "https://open.spotify.com/track/7Daq0uPYehQHetj1iFpltH"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2123,6 +2123,26 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "Kardinalens femte",
+        "url": "https://open.spotify.com/album/6yaIFYUFz7UsNBM1kXqeMD"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
+        },
+        {
+          "name": "Ammy Olofsson",
+          "url": "https://open.spotify.com/artist/6fzvWpP8Rjfu7O76BHLwJy"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Bomb utan krut",
+      "url": "https://open.spotify.com/track/180ouOZ0Ak5WYx94BVZHVH"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Sex Noll Tv\u00e5",
         "url": "https://open.spotify.com/album/1RQDWa5oI0JVu5WUq9mxnw"
       },
@@ -2135,22 +2155,6 @@
       "duration_ms": 209308,
       "name": "Sex Noll Tv\u00e5",
       "url": "https://open.spotify.com/track/2cDhN8iMlxEQPpjkcqCgQP"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Vad har du gjort?",
-        "url": "https://open.spotify.com/album/3YNPcVN6MKVPzeyPOqFXei"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5rdgnissel",
-          "url": "https://open.spotify.com/artist/6go8Hycq8HF9V1g2kgPyyj"
-        }
-      ],
-      "duration_ms": 100786,
-      "name": "Vad har du gjort?",
-      "url": "https://open.spotify.com/track/1OqwmRlRAkSdUvv1fp6mgp"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2183,6 +2187,22 @@
       "duration_ms": 77760,
       "name": "Ingen \u00e4ger mig",
       "url": "https://open.spotify.com/track/5dmO8OXn6YkF5r1bCZDPIT"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Vad har du gjort?",
+        "url": "https://open.spotify.com/album/3YNPcVN6MKVPzeyPOqFXei"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5rdgnissel",
+          "url": "https://open.spotify.com/artist/6go8Hycq8HF9V1g2kgPyyj"
+        }
+      ],
+      "duration_ms": 100786,
+      "name": "Vad har du gjort?",
+      "url": "https://open.spotify.com/track/1OqwmRlRAkSdUvv1fp6mgp"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2231,26 +2251,6 @@
       "duration_ms": 289074,
       "name": "D\u00f6dens maskineri",
       "url": "https://open.spotify.com/track/5N7tpMlUfS3voV20AMVHDn"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Kardinalens femte",
-        "url": "https://open.spotify.com/album/6yaIFYUFz7UsNBM1kXqeMD"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Synd",
-          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
-        },
-        {
-          "name": "Ammy Olofsson",
-          "url": "https://open.spotify.com/artist/6fzvWpP8Rjfu7O76BHLwJy"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Bomb utan krut",
-      "url": "https://open.spotify.com/track/180ouOZ0Ak5WYx94BVZHVH"
     },
     {
       "added_at": "2024-04-04 22:00:00",

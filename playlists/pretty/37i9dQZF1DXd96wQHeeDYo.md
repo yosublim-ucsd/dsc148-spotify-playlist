@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: Anitta, Brrray, Bad Gyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,165 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,227 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 69 | [Cacao](https://open.spotify.com/track/2uyhFGxuiQ6X3Xq2UsM48U) | [Crisler](https://open.spotify.com/artist/5OBe8MAUIP1jKQG0rQyDaf), [Reis Belico](https://open.spotify.com/artist/6T8S4zSY1ICYEG50Hgs3QJ) | [Cacao](https://open.spotify.com/album/710wtCXmXkvEZ0AGvdiURa) | 2:51 |
 | 70 | [Wasabi](https://open.spotify.com/track/4fwAOa29QGMou9LM2ErHJ5) | [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Wasabi](https://open.spotify.com/album/3mzbKCbFEdmZNfbnDdux1t) | 2:10 |
 
-Snapshot ID: `MCwxODI4MGMxZjRhMTJkZmRiYmY5M2NjMjU0N2NkNjUwM2E1MDM0YWU1`
+Snapshot ID: `MCxiODRiMmExYTUxYTAwYTEzY2M3OGE0ZWZhMjU5MzY4YjkzNDdlMzAy`

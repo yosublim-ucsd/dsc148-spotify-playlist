@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Lucky Brown.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,902,602 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,903,006 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 9 | [MA DIAMANTE](https://open.spotify.com/track/3seBr5Cm5NSEO8CKKR8sYw) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [MA DIAMANTE](https://open.spotify.com/album/0OTV5gYngPkIeYAcFs9Ytw) | 2:28 |
 | 10 | [Vida Peligrosa](https://open.spotify.com/track/5b0lXK1WJTKkDGbWlImwSb) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Vida Peligrosa](https://open.spotify.com/album/4rcHPUrI45fiiI02zqUZXa) | 2:46 |
 | 11 | [Bendito \(Soundtrack Baby Bandito: La Serie\)](https://open.spotify.com/track/0sX1JCSfCemDJe8qK6CGeL) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Bendito \(Soundtrack Baby Bandito: La Serie\)](https://open.spotify.com/album/1ji1ML1G1fSvQDckKxSajC) | 2:39 |
-| 12 | [Minnie <3](https://open.spotify.com/track/68uKmFCHsrjSpaCUCzVlqW) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Daiko 02](https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T) | [Minnie <3](https://open.spotify.com/album/4Uyu0NIsdhY3HUpteAKFIa) | 3:52 |
+| 12 | [Minnie <3](https://open.spotify.com/track/4awSm1QqlLxMW58vi428bq) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Daiko 02](https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 3:52 |
 | 13 | [Partyson](https://open.spotify.com/track/3mtBiHVBuhOEDTZPSJ5XaG) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/6yGNJyte0qDL1uuLfaiuL5) | 3:18 |
 | 14 | [NO HAY 14F](https://open.spotify.com/track/5KCyauWkzy7fF9KU3hKE1H) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [NO HAY 14F](https://open.spotify.com/album/3rolYL8OssuXAYSQ6sAyYA) | 2:02 |
 | 15 | [LOCA FARANDULERA](https://open.spotify.com/track/17SRuSYEW2fdGok0m0vAsO) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 |
 | 50 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
 
-Snapshot ID: `MCxjZTUzMjY5NzhlM2RkNDQ1MGIyYjVmYmJiOWMzMzVhZjkxYzM3ODhl`
+Snapshot ID: `MCwzNmE3NDVhMDA2NTQwYzI5OTdhYmVkMGEzNzY5ZmE4NzliYzJjM2Y2`

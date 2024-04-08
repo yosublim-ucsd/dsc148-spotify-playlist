@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 162990,
+  "num_followers": 163059,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzRjNjEwZjllMWQwNTZhZjYzMWY5NjkwY2ViMjU1OWI1N2I1ZjA2",
+  "snapshot_id": "MCwzMmEzODI1NzU3YzIxMmU0NmRhMDBlM2Y0M2Q0ZmUxNjY0YjA3NThm",
   "tracks": [
     {
       "added_at": "2024-02-09 07:01:34",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Morgen",
-        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
-      },
-      "artists": [
-        {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
-        },
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 135096,
-      "name": "Morgen",
-      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -387,22 +367,6 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -423,6 +387,42 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
+      },
+      "artists": [
+        {
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        },
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 135096,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Muttersprache (Deluxe Version)",
         "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Nur ein bisschen",
-        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 161956,
-      "name": "Nur ein bisschen",
-      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 164840,
       "name": "June",
       "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Nur ein bisschen",
+        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 161956,
+      "name": "Nur ein bisschen",
+      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Wenn Du mich l\u00e4sst",
-        "url": "https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn"
-      },
-      "artists": [
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 182042,
-      "name": "Wenn Du mich l\u00e4sst",
-      "url": "https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Vom selben Stern (Exklusive Version)",
         "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 228373,
       "name": "Vom selben Stern - Radio Edit",
       "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Wenn Du mich l\u00e4sst",
+        "url": "https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 182042,
+      "name": "Wenn Du mich l\u00e4sst",
+      "url": "https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Laut Gedacht (Re-Edition)",
-        "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
-      },
-      "artists": [
-        {
-          "name": "Silbermond",
-          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
-        }
-      ],
-      "duration_ms": 284546,
-      "name": "Das Beste",
-      "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Er geh\u00f6rt zu mir",
         "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 180200,
       "name": "Er geh\u00f6rt zu mir",
       "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Laut Gedacht (Re-Edition)",
+        "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
+      },
+      "artists": [
+        {
+          "name": "Silbermond",
+          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
+        }
+      ],
+      "duration_ms": 284546,
+      "name": "Das Beste",
+      "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
     },
     {
       "added_at": "2024-02-09 07:01:34",

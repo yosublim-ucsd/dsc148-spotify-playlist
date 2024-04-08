@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 572301,
+  "num_followers": 572398,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTA1YjJhN2QxOTE4OGEzY2NkZjE0NDVmODY4NzE4MTJlNTMwYTgy",
+  "snapshot_id": "MCxlNTViN2I1MTZhZjNlYWU5Nzg2MGJmN2U1ODY2Mzg5ZmE4MTBiNzRj",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
-        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 166733,
-      "name": "Man Overboard",
-      "url": "https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV"
+      "duration_ms": 251866,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3HM4NePuYAqdXpAGBk7nNz"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
+        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
+        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 251866,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/3HM4NePuYAqdXpAGBk7nNz"
+      "duration_ms": 166733,
+      "name": "Man Overboard",
+      "url": "https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
-        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 51306,
-      "name": "Family Reunion - Live/1999",
-      "url": "https://open.spotify.com/track/5TyHeZpXFaweWQxaihvmwH"
+      "duration_ms": 161066,
+      "name": "Another Girl Another Planet",
+      "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
+        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
+        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 161066,
-      "name": "Another Girl Another Planet",
-      "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
+      "duration_ms": 51306,
+      "name": "Family Reunion - Live/1999",
+      "url": "https://open.spotify.com/track/5TyHeZpXFaweWQxaihvmwH"
     },
     {
       "added_at": null,

@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 85495,
+  "2024-04-08": 85511,
   "date_first_scraped": "2022-10-29",
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
   "name": "This Is Moneybagg Yo",
@@ -87,6 +87,28 @@
       "duration_ms": 143957,
       "name": "All Dat (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9"
+    },
+    {
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "All Dere (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
     },
     {
       "album": {
@@ -1525,7 +1547,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 142049,
       "name": "Speak 4 Em",
       "url": "https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19"

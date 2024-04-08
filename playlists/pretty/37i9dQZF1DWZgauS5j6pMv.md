@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: TWRP
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,093 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,155 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 34 | [Ghostin' All My Friends](https://open.spotify.com/track/4qOjCtrKwGu31EkHmnCVOT) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Ghostin' All My Friends](https://open.spotify.com/album/6uCnAMIGDZuaHJqVSOvyXr) | 3:40 |
 | 35 | [Jump](https://open.spotify.com/track/2BO6E4fhgNbS2VdrYJdAkq) | [Tommy Love](https://open.spotify.com/artist/1OJevp7blr19zF2ka2rEVT), [Manny Laurenko](https://open.spotify.com/artist/6gpLXhxeNFNiz38dyNqJ1C) | [Jump](https://open.spotify.com/album/1MKC1CSocKPwh4nf1WbWIo) | 2:25 |
 | 36 | [I'm Gonna Break Through The Minneapolis Sound](https://open.spotify.com/track/3NquVqpiNefjlWzj83ljbd) | [Leon Schmith](https://open.spotify.com/artist/4xrhCvqLYl670XhDEPLrD9), [José Côrte\-Real](https://open.spotify.com/artist/72mw2lexAW7ztbJXDLvZvc) | [I'm Gonna Break Through The Minneapolis Sound](https://open.spotify.com/album/5SPxmPtm7P2SzNiFWmUQeN) | 3:40 |
-| 37 | [We Belong](https://open.spotify.com/track/1iFLqxy0jMaCXshHTAHIFQ) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [We Belong](https://open.spotify.com/album/35v2JrGN2UKU9QDwSfcaa5) | 4:01 |
+| 37 | [We Belong](https://open.spotify.com/track/4UWuluqabYpNZGoqNVGmBI) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [We Belong](https://open.spotify.com/album/1CswJNzuinL7ezwVCQPPLr) | 4:01 |
 | 38 | [Flesh & Blood](https://open.spotify.com/track/0pHI04YoT8nSyjRlAUMy9j) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Flesh & Blood](https://open.spotify.com/album/4ub4JbaefIiP5dmJ4CSlnT) | 2:59 |
 | 39 | [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:24 |
 | 40 | [Real Good](https://open.spotify.com/track/1g8a0OQ17VNbBQ518OFiVu) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [Real Good](https://open.spotify.com/album/4ohTe605nVMKNPeDZfxihB) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Thumpahlenah \- Radio Edit](https://open.spotify.com/track/01prSP4l0I3Gf1WCfC9jTI) | [Nik West](https://open.spotify.com/artist/5yrmwjhscVmbinBG3hx86i), [Larry Graham](https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2) | [Thumpahlenah \(Radio Edit\)](https://open.spotify.com/album/2VbzGgntgJu0oHLGHOjq3E) | 3:22 |
 | 100 | [Lockstep](https://open.spotify.com/track/7y6fgrmnX6HF4pbyQugSTQ) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/7boixvIKSl9OEnvnsJNws6) | [Lockstep](https://open.spotify.com/album/5iH6tJElNHGHMrUEmpgs6j) | 5:18 |
 
-Snapshot ID: `MCwyYjU2MzM4YjM2ZTE1YWU1MDcyYjI4OWU3ZTg0Y2RkMGZiM2I4NzE0`
+Snapshot ID: `MCxhZTUxYTUyOTc4MThjMDU1YTdjNjc4M2ZhYzRkYmZkZmE5NGJjZTE0`

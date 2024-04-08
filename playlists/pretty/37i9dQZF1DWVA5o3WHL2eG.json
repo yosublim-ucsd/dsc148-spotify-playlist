@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover:  Ellen Allien",
-  "num_followers": 33730,
+  "num_followers": 33733,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTkyMmRiYWJjNjI2NDU5ZDlhOTZkMTZkY2FlOWUwM2M1NGQ5MGFm",
+  "snapshot_id": "MCxiZmVkM2NkYzY3MTI5NDFmOTlmOWJjN2QwYjljMjIwMTYxMzY5YjE5",
   "tracks": [
     {
       "added_at": "2024-04-02 22:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "eBay",
-        "url": "https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU"
-      },
-      "artists": [
-        {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
-        }
-      ],
-      "duration_ms": 142100,
-      "name": "eBay",
-      "url": "https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "atlantik",
         "url": "https://open.spotify.com/album/0Z68a7uPj7L15g2xEUPV4f"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 174200,
       "name": "atlantik",
       "url": "https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "eBay",
+        "url": "https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "duration_ms": 142100,
+      "name": "eBay",
+      "url": "https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "parisienne",
-        "url": "https://open.spotify.com/album/7gI75OO3Ngxg3Kzpz5bYGr"
-      },
-      "artists": [
-        {
-          "name": "jolle",
-          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
-        }
-      ],
-      "duration_ms": 149440,
-      "name": "parisienne",
-      "url": "https://open.spotify.com/track/3TZIDPPCHg3VgABEn6eHZZ"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Ruf mich nicht mehr an",
         "url": "https://open.spotify.com/album/4y3gjV3njXIaxUt5fEG94N"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 154813,
       "name": "Ruf mich nicht mehr an",
       "url": "https://open.spotify.com/track/3CmEeNWeRSjGImTGzEiWCQ"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "parisienne",
+        "url": "https://open.spotify.com/album/7gI75OO3Ngxg3Kzpz5bYGr"
+      },
+      "artists": [
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "duration_ms": 149440,
+      "name": "parisienne",
+      "url": "https://open.spotify.com/track/3TZIDPPCHg3VgABEn6eHZZ"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Rauchzeichen",
-        "url": "https://open.spotify.com/album/1l8rkfWDS95k31jTfD4FPI"
-      },
-      "artists": [
-        {
-          "name": "EAZI",
-          "url": "https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ"
-        }
-      ],
-      "duration_ms": 111428,
-      "name": "Rauchzeichen",
-      "url": "https://open.spotify.com/track/5LWYeByotzEZ6t9jwsqbcW"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Aze the Band the Duo",
         "url": "https://open.spotify.com/album/4fOHF3eVmryjFw7q6BrrQk"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 135731,
       "name": "Mother, did I make you proud?",
       "url": "https://open.spotify.com/track/6RLzZhFyHgMKYRAAKn3WUv"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Rauchzeichen",
+        "url": "https://open.spotify.com/album/1l8rkfWDS95k31jTfD4FPI"
+      },
+      "artists": [
+        {
+          "name": "EAZI",
+          "url": "https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ"
+        }
+      ],
+      "duration_ms": 111428,
+      "name": "Rauchzeichen",
+      "url": "https://open.spotify.com/track/5LWYeByotzEZ6t9jwsqbcW"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Tomboy Tussi",
-        "url": "https://open.spotify.com/album/1IjJq9F5l6lYHJSRrAVmBG"
-      },
-      "artists": [
-        {
-          "name": "NASHI44",
-          "url": "https://open.spotify.com/artist/2v6rUpbFB5iHW6hR91BIpL"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Tomboy Tussi",
-      "url": "https://open.spotify.com/track/75u5MxEYwyl5uYFSOv4NPW"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Botanical Garden",
         "url": "https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Skirt On Pants",
-        "url": "https://open.spotify.com/album/4ovWAdWdbaaRx3X4SGCFPO"
+        "name": "Tomboy Tussi",
+        "url": "https://open.spotify.com/album/1IjJq9F5l6lYHJSRrAVmBG"
       },
       "artists": [
         {
-          "name": "K\u00c4SSY",
-          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
+          "name": "NASHI44",
+          "url": "https://open.spotify.com/artist/2v6rUpbFB5iHW6hR91BIpL"
         }
       ],
-      "duration_ms": 171978,
-      "name": "Skirt On Pants",
-      "url": "https://open.spotify.com/track/1nUkCpO17PMooe6uRAkGkw"
+      "duration_ms": 179226,
+      "name": "Tomboy Tussi",
+      "url": "https://open.spotify.com/track/75u5MxEYwyl5uYFSOv4NPW"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -699,6 +683,22 @@
       "duration_ms": 153440,
       "name": "viertel nach vier",
       "url": "https://open.spotify.com/track/5xQeAKWejvXRNW666BaoOh"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Skirt On Pants",
+        "url": "https://open.spotify.com/album/4ovWAdWdbaaRx3X4SGCFPO"
+      },
+      "artists": [
+        {
+          "name": "K\u00c4SSY",
+          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
+        }
+      ],
+      "duration_ms": 171978,
+      "name": "Skirt On Pants",
+      "url": "https://open.spotify.com/track/1nUkCpO17PMooe6uRAkGkw"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Emotional Chaos",
-        "url": "https://open.spotify.com/album/26fuyeleBnqNc3UQ01DWRE"
+        "name": "Perfect Pretender",
+        "url": "https://open.spotify.com/album/3RnxG2oAkg701EZBQ0p6z7"
       },
       "artists": [
         {
-          "name": "Anthea",
-          "url": "https://open.spotify.com/artist/0Igu5usy7riLV2UQ3iybn5"
+          "name": "Annie Taylor",
+          "url": "https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0"
         }
       ],
-      "duration_ms": 152812,
-      "name": "Emotional Chaos",
-      "url": "https://open.spotify.com/track/1ljnscwQoU6UUxNxFcJFkD"
+      "duration_ms": 203700,
+      "name": "Perfect Pretender",
+      "url": "https://open.spotify.com/track/26fxJQCaIH4RkuuZVVDeDT"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Perfect Pretender",
-        "url": "https://open.spotify.com/album/3RnxG2oAkg701EZBQ0p6z7"
+        "name": "Emotional Chaos",
+        "url": "https://open.spotify.com/album/26fuyeleBnqNc3UQ01DWRE"
       },
       "artists": [
         {
-          "name": "Annie Taylor",
-          "url": "https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0"
+          "name": "Anthea",
+          "url": "https://open.spotify.com/artist/0Igu5usy7riLV2UQ3iybn5"
         }
       ],
-      "duration_ms": 203700,
-      "name": "Perfect Pretender",
-      "url": "https://open.spotify.com/track/26fxJQCaIH4RkuuZVVDeDT"
+      "duration_ms": 152812,
+      "name": "Emotional Chaos",
+      "url": "https://open.spotify.com/track/1ljnscwQoU6UUxNxFcJFkD"
     },
     {
       "added_at": "2024-04-02 22:00:00",

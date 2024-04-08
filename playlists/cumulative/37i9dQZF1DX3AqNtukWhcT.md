@@ -4,7 +4,7 @@
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-185 songs - 9 hr 40 min
+187 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,9 @@
 | [Inner Harmony](https://open.spotify.com/track/5G1FGOdK1yXZzWcE7imCjz) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Inner Harmony](https://open.spotify.com/album/2ggG3E1RzoDn6GqGgOL5xm) | 2:27 | 2023-10-02 |  |
 | [Inner Intuition](https://open.spotify.com/track/2WNrn26PWJDLx5Gnjhb2Hy) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Inner intuition](https://open.spotify.com/album/0V5qQhB4oEjt1B24AAmWgw) | 2:33 | 2024-03-14 |  |
 | [Into the Wild](https://open.spotify.com/track/6ND3m2zmOZsu98le63Wjdo) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Music: Tribal Drums & Nature – Rhythms of Dark Continent, Shamanic Dance, Spiritual Savannah Experience, African Meditation](https://open.spotify.com/album/7rFpsFVeNWLSM2Cv893H8a) | 3:25 | 2022-09-02 | 2023-08-12 |
+| [Isha Sky](https://open.spotify.com/track/1shogpgsW1zvMcHhlCM956) | [Désiré Renaud](https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be) | [Isha Sky](https://open.spotify.com/album/7CRuUGDr21CfLgHvalGwIg) | 2:10 | 2024-04-07 |  |
 | [Jewel of Sangha](https://open.spotify.com/track/6dyJdwInk8DnebR9UXLY9H) | [Bringer of Zen](https://open.spotify.com/artist/17BokPLT01EqyONZ59QdqM) | [Jewel of Sangha](https://open.spotify.com/album/7DcadO0a8aVIPCCCGfa31X) | 2:34 | 2022-09-22 |  |
+| [Kailash Parbat](https://open.spotify.com/track/3so007Ue4ijYtieRtHCjVP) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Kailash Parbat](https://open.spotify.com/album/2mjdSFpJ32SWf8pa7sUAxl) | 2:32 | 2024-04-07 |  |
 | [Karuna](https://open.spotify.com/track/1sDSsPD0PtRcjL1kJkg0AE) | [Amrita Ananda](https://open.spotify.com/artist/17ph9VKUlu3hc0liTAhYWP) | [Karuna](https://open.spotify.com/album/486AMjARTqS2RGKpyGf8pZ) | 2:59 | 2022-09-02 | 2023-08-12 |
 | [Kramina](https://open.spotify.com/track/3W5kk8r0aKHUN5QwOIy7qh) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Mountains](https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp) | 2:59 | 2022-12-22 |  |
 | [Lake Bhuna](https://open.spotify.com/track/6ezSmeDsq4nbyAJDLikYSW) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Quiet Retreat](https://open.spotify.com/album/6HUSaTFofcHdisVtNxt6mi) | 3:21 | 2023-06-21 | 2023-11-18 |

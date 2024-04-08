@@ -726,10 +726,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 195152,
       "name": "Chancer",
       "url": "https://open.spotify.com/track/52dwlwO6RJoCv60NgCcjai"
+    },
+    {
+      "album": {
+        "name": "I Wonder If The World Knows?",
+        "url": "https://open.spotify.com/album/0lLxBrNxMinIX9a6buamdB"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195152,
+      "name": "Chancer",
+      "url": "https://open.spotify.com/track/6fGv6OOjC863PxU0a7selC"
     },
     {
       "album": {
@@ -1907,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "I Wonder If The World Knows?",
+        "url": "https://open.spotify.com/album/0lLxBrNxMinIX9a6buamdB"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293461,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/1aZQC0ssvBO88MgjioVK8s"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR"
       },
@@ -1918,7 +1954,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 293461,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm"
@@ -2430,7 +2466,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 186562,
       "name": "Just Move",
       "url": "https://open.spotify.com/track/64fVObugIv5tiWtN6LhCRf"
@@ -2844,7 +2880,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 167631,
       "name": "Mother",
       "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"

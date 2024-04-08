@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 9225,
+  "num_followers": 9230,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzJjODIyNDcwNmZiYzYyZjY1MGJlMzA5NjJhMGEyYzc2NWZkZDUw",
+  "snapshot_id": "MCw4NTRkY2RlZDNlNmZkZWE5MjMwMDI5YjVjZjZhYzhjMmZiODVmZDA0",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 213586,
-      "name": "Choose Your Fate",
-      "url": "https://open.spotify.com/track/7MdAuHu62UdrjybUxrJEcv"
+      "duration_ms": 240240,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
+      "duration_ms": 213586,
+      "name": "Choose Your Fate",
+      "url": "https://open.spotify.com/track/7MdAuHu62UdrjybUxrJEcv"
     },
     {
       "added_at": null,

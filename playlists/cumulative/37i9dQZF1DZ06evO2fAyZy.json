@@ -714,10 +714,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 200026,
       "name": "Love Me Like You Mean It",
       "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
+    },
+    {
+      "album": {
+        "name": "Love Me Like You Mean It (Reimagined)",
+        "url": "https://open.spotify.com/album/36e91gVGVfU186J5TiPCd5"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179530,
+      "name": "Love Me Like You Mean It (Reimagined)",
+      "url": "https://open.spotify.com/track/5GcrERs8LWD910w4AVXFub"
     },
     {
       "album": {

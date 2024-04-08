@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,156 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,210 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [ex's hate me, Pt\. 2](https://open.spotify.com/track/0Rx4GFPy8ISxPhRwkjl64b) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:36 |
 | 50 | [Ổ Quỷ](https://open.spotify.com/track/5WIKVELHZYJ4vl3x3xlbZD) | [DMT](https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [summerdayy](https://open.spotify.com/artist/6c7kFoIy4IC56Pr5605Jnt), [Rocky CDE](https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch) | [Ổ Quỷ](https://open.spotify.com/album/328QgBSGnAypQVDc1pxvl2) | 4:11 |
 
-Snapshot ID: `MCwzNWNhZDYwYjEwYTA2YmQyZjQwYjFhMTg1NGRhN2YyNjY5OTQ1YTll`
+Snapshot ID: `MCw0NDY0NWQ3OTA0ZWU3NjkzMmJmMGU3MjYyNDc0MTM5NjMyYTQxZGQ1`

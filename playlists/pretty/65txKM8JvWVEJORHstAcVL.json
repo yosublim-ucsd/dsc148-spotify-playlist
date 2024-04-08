@@ -1,13 +1,29 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 28596,
-  "original_name": "LA LLISTA DE FLAIXBAC (31/3/2024)",
+  "num_followers": 28598,
+  "original_name": "LA LLISTA DE FLAIXBAC (7/4/2024)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "MTMxOTAsMDQ3YzUwZGEzNTM4YTBhMmYyNmIzZTVmOTg2MjU3YThhNGM1OWZkOQ==",
+  "snapshot_id": "MTMyMzAsZTMxNTNiY2Y0ZTc3ZDZhM2QzZWM2NjQyM2YxMWNmZGI5OWRhODliNQ==",
   "tracks": [
+    {
+      "added_at": "2024-02-11 16:14:09",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
     {
       "added_at": "2024-02-05 09:19:30",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"
-    },
-    {
-      "added_at": "2024-02-11 16:14:09",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "added_at": "2024-01-28 17:01:51",
@@ -69,22 +69,6 @@
       "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
     },
     {
-      "added_at": "2024-01-21 17:02:50",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
       "added_at": "2024-01-28 17:01:37",
       "album": {
         "name": "Lose Control",
@@ -101,24 +85,20 @@
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
-      "added_at": "2023-12-24 17:42:45",
+      "added_at": "2024-01-21 17:02:50",
       "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-02-05 09:19:42",
@@ -141,52 +121,24 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2023-11-26 17:16:53",
+      "added_at": "2024-03-17 17:54:21",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-02-11 16:13:59",
-      "album": {
-        "name": "4 KISSUS",
-        "url": "https://open.spotify.com/album/2aTIzTlrpr9DM4d51GCzKY"
-      },
-      "artists": [
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
         {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 143636,
-      "name": "4 KISSUS",
-      "url": "https://open.spotify.com/track/1PIvAh8XJbyrpMD0bKX6P8"
-    },
-    {
-      "added_at": "2023-11-05 17:14:30",
-      "album": {
-        "name": "Els teus ulls",
-        "url": "https://open.spotify.com/album/3D68fVBSVoz7QvrkysKjPq"
-      },
-      "artists": [
-        {
-          "name": "Alfred Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Els teus ulls",
-      "url": "https://open.spotify.com/track/6cPe7rorhofISE335CqPmH"
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
       "added_at": "2024-02-25 17:17:01",
@@ -209,6 +161,122 @@
       "url": "https://open.spotify.com/track/0fRUIBnfBki2kS5S0Y8c11"
     },
     {
+      "added_at": "2024-02-11 16:13:59",
+      "album": {
+        "name": "4 KISSUS",
+        "url": "https://open.spotify.com/album/2aTIzTlrpr9DM4d51GCzKY"
+      },
+      "artists": [
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+        }
+      ],
+      "duration_ms": 143636,
+      "name": "4 KISSUS",
+      "url": "https://open.spotify.com/track/1PIvAh8XJbyrpMD0bKX6P8"
+    },
+    {
+      "added_at": "2023-12-24 17:42:45",
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2023-11-26 17:16:53",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2023-11-05 17:14:30",
+      "album": {
+        "name": "Els teus ulls",
+        "url": "https://open.spotify.com/album/3D68fVBSVoz7QvrkysKjPq"
+      },
+      "artists": [
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Els teus ulls",
+      "url": "https://open.spotify.com/track/6cPe7rorhofISE335CqPmH"
+    },
+    {
+      "added_at": "2024-02-05 09:18:50",
+      "album": {
+        "name": "HERE TO STAY",
+        "url": "https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG"
+      },
+      "artists": [
+        {
+          "name": "Sofia Coll",
+          "url": "https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd"
+        }
+      ],
+      "duration_ms": 158775,
+      "name": "HERE TO STAY",
+      "url": "https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf"
+    },
+    {
+      "added_at": "2024-02-25 17:17:14",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2024-03-03 16:24:55",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+    },
+    {
       "added_at": "2023-12-10 17:19:55",
       "album": {
         "name": "DIABLA",
@@ -227,22 +295,6 @@
       "duration_ms": 162471,
       "name": "DIABLA",
       "url": "https://open.spotify.com/track/5lDRfQXgTA985GAb0ngSHi"
-    },
-    {
-      "added_at": "2024-02-05 09:18:50",
-      "album": {
-        "name": "HERE TO STAY",
-        "url": "https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG"
-      },
-      "artists": [
-        {
-          "name": "Sofia Coll",
-          "url": "https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd"
-        }
-      ],
-      "duration_ms": 158775,
-      "name": "HERE TO STAY",
-      "url": "https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf"
     },
     {
       "added_at": "2023-11-19 16:22:42",
@@ -265,90 +317,6 @@
       "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
     },
     {
-      "added_at": "2024-02-25 17:17:14",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
-    },
-    {
-      "added_at": "2024-03-17 17:54:21",
-      "album": {
-        "name": "The Sound of Silence (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "The Sound of Silence - CYRIL Remix",
-      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
-    },
-    {
-      "added_at": "2023-11-19 16:22:55",
-      "album": {
-        "name": "xinu xanu",
-        "url": "https://open.spotify.com/album/68eoTwykrA0JIUnCefZKEY"
-      },
-      "artists": [
-        {
-          "name": "Stay Homas",
-          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
-        }
-      ],
-      "duration_ms": 148737,
-      "name": "xinu xanu",
-      "url": "https://open.spotify.com/track/6ouV7526AeqeXrALRn6ZDb"
-    },
-    {
-      "added_at": "2024-03-03 16:24:55",
-      "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
-      "added_at": "2023-10-29 16:53:48",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
       "added_at": "2024-02-18 16:39:42",
       "album": {
         "name": "La meva sort",
@@ -363,38 +331,6 @@
       "duration_ms": 154577,
       "name": "La meva sort",
       "url": "https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS"
-    },
-    {
-      "added_at": "2023-10-08 15:43:19",
-      "album": {
-        "name": "Madrid City",
-        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "Madrid City",
-      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
-    },
-    {
-      "added_at": "2023-11-26 17:16:38",
-      "album": {
-        "name": "Tornem a casa",
-        "url": "https://open.spotify.com/album/3pSGOz6onFQ1hJtX9ugPCM"
-      },
-      "artists": [
-        {
-          "name": "The Tyets",
-          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
-        }
-      ],
-      "duration_ms": 156820,
-      "name": "Tornem a casa",
-      "url": "https://open.spotify.com/track/7bc9WLunD2VxC2FxC3bKVB"
     },
     {
       "added_at": "2024-02-25 17:16:51",
@@ -431,6 +367,106 @@
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "added_at": "2023-11-19 16:22:55",
+      "album": {
+        "name": "xinu xanu",
+        "url": "https://open.spotify.com/album/68eoTwykrA0JIUnCefZKEY"
+      },
+      "artists": [
+        {
+          "name": "Stay Homas",
+          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+        }
+      ],
+      "duration_ms": 148737,
+      "name": "xinu xanu",
+      "url": "https://open.spotify.com/track/6ouV7526AeqeXrALRn6ZDb"
+    },
+    {
+      "added_at": "2023-10-29 16:53:48",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-10-08 15:43:19",
+      "album": {
+        "name": "Madrid City",
+        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "Madrid City",
+      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
+    },
+    {
+      "added_at": "2024-03-17 17:54:55",
+      "album": {
+        "name": "Thelma & Louise",
+        "url": "https://open.spotify.com/album/2YTB67om6z9VDi94wTPdjT"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        },
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Thelma & Louise",
+      "url": "https://open.spotify.com/track/7m8aetuFspDvP5GXhVJBQx"
+    },
+    {
+      "added_at": "2023-11-26 17:16:38",
+      "album": {
+        "name": "Tornem a casa",
+        "url": "https://open.spotify.com/album/3pSGOz6onFQ1hJtX9ugPCM"
+      },
+      "artists": [
+        {
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+        }
+      ],
+      "duration_ms": 156820,
+      "name": "Tornem a casa",
+      "url": "https://open.spotify.com/track/7bc9WLunD2VxC2FxC3bKVB"
+    },
+    {
+      "added_at": "2024-03-24 17:09:44",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
       "added_at": "2023-12-31 21:18:26",
@@ -473,6 +509,26 @@
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
+      "added_at": "2024-03-17 17:54:33",
+      "album": {
+        "name": "Que et vagi b\u00e9",
+        "url": "https://open.spotify.com/album/6PSGKLjXhDJkaOKTuwTJEr"
+      },
+      "artists": [
+        {
+          "name": "Sopa De Cabra",
+          "url": "https://open.spotify.com/artist/1qNkvcsEC2Hry31JWkYO3D"
+        },
+        {
+          "name": "Triquell",
+          "url": "https://open.spotify.com/artist/68CQGYnlJfrMyRcd255jVW"
+        }
+      ],
+      "duration_ms": 184373,
+      "name": "Que et vagi b\u00e9",
+      "url": "https://open.spotify.com/track/0fHRlLll6OrPc4d0oh5f1s"
+    },
+    {
       "added_at": "2023-09-24 16:06:12",
       "album": {
         "name": "No_se_ve.mp3",
@@ -495,6 +551,26 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": "2024-03-10 16:13:34",
+      "album": {
+        "name": "Grup de Pop",
+        "url": "https://open.spotify.com/album/7cozVZjZdH5MZFwlOWcLVn"
+      },
+      "artists": [
+        {
+          "name": "Sexenni",
+          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
+        },
+        {
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+        }
+      ],
+      "duration_ms": 142421,
+      "name": "Grup de Pop",
+      "url": "https://open.spotify.com/track/22GaUTgtNuKfMQ34jaL7yk"
     },
     {
       "added_at": "2023-10-15 16:29:20",
@@ -521,76 +597,36 @@
       "url": "https://open.spotify.com/track/6hlg2g54ixRhEMlcbiWiqX"
     },
     {
-      "added_at": "2024-03-17 17:54:55",
+      "added_at": "2024-04-07 15:42:26",
       "album": {
-        "name": "Thelma & Louise",
-        "url": "https://open.spotify.com/album/2YTB67om6z9VDi94wTPdjT"
+        "name": "COM EST\u00c0 EL PATI",
+        "url": "https://open.spotify.com/album/6KuUJeCMEAdYj8Lqaq4E2r"
       },
       "artists": [
         {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        },
-        {
-          "name": "Julieta",
-          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+          "name": "Oques Grasses",
+          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
         }
       ],
-      "duration_ms": 161194,
-      "name": "Thelma & Louise",
-      "url": "https://open.spotify.com/track/7m8aetuFspDvP5GXhVJBQx"
+      "duration_ms": 145161,
+      "name": "COM EST\u00c0 EL PATI",
+      "url": "https://open.spotify.com/track/3hHDpby70b29o2T9v26RNX"
     },
     {
-      "added_at": "2024-03-24 17:09:44",
+      "added_at": "2024-03-17 17:55:42",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+        "name": "Abans que s'acabi el M\u00f3n",
+        "url": "https://open.spotify.com/album/6O90WPSc1nfGH5lCyfcsLw"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Gertrudis",
+          "url": "https://open.spotify.com/artist/3eAm5IYwnH7uTX5EBT9sbi"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
-    },
-    {
-      "added_at": "2023-07-23 16:11:52",
-      "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
-    },
-    {
-      "added_at": "2024-03-17 17:54:33",
-      "album": {
-        "name": "Que et vagi b\u00e9",
-        "url": "https://open.spotify.com/album/6PSGKLjXhDJkaOKTuwTJEr"
-      },
-      "artists": [
-        {
-          "name": "Sopa De Cabra",
-          "url": "https://open.spotify.com/artist/1qNkvcsEC2Hry31JWkYO3D"
-        },
-        {
-          "name": "Triquell",
-          "url": "https://open.spotify.com/artist/68CQGYnlJfrMyRcd255jVW"
-        }
-      ],
-      "duration_ms": 184373,
-      "name": "Que et vagi b\u00e9",
-      "url": "https://open.spotify.com/track/0fHRlLll6OrPc4d0oh5f1s"
+      "duration_ms": 169564,
+      "name": "Abans que s'acabi el M\u00f3n",
+      "url": "https://open.spotify.com/track/2Mcm9St5ujvazdS4SB4n8L"
     },
     {
       "added_at": "2023-09-10 15:19:17",
@@ -613,24 +649,20 @@
       "url": "https://open.spotify.com/track/5Hrnz90iQgcU3qTG20FW0o"
     },
     {
-      "added_at": "2024-03-10 16:13:34",
+      "added_at": "2023-07-23 16:11:52",
       "album": {
-        "name": "Grup de Pop",
-        "url": "https://open.spotify.com/album/7cozVZjZdH5MZFwlOWcLVn"
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
       },
       "artists": [
         {
-          "name": "Sexenni",
-          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
-        },
-        {
-          "name": "The Tyets",
-          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 142421,
-      "name": "Grup de Pop",
-      "url": "https://open.spotify.com/track/22GaUTgtNuKfMQ34jaL7yk"
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
       "added_at": "2023-12-03 17:40:32",
@@ -653,54 +685,6 @@
       "url": "https://open.spotify.com/track/5avBTSSq8umEAj7q6ONACv"
     },
     {
-      "added_at": "2024-03-17 17:55:42",
-      "album": {
-        "name": "Abans que s'acabi el M\u00f3n",
-        "url": "https://open.spotify.com/album/6O90WPSc1nfGH5lCyfcsLw"
-      },
-      "artists": [
-        {
-          "name": "Gertrudis",
-          "url": "https://open.spotify.com/artist/3eAm5IYwnH7uTX5EBT9sbi"
-        }
-      ],
-      "duration_ms": 169564,
-      "name": "Abans que s'acabi el M\u00f3n",
-      "url": "https://open.spotify.com/track/2Mcm9St5ujvazdS4SB4n8L"
-    },
-    {
-      "added_at": "2023-12-10 17:20:08",
-      "album": {
-        "name": "TORNAR",
-        "url": "https://open.spotify.com/album/6dzk7KpVSmhTHjmhtomhER"
-      },
-      "artists": [
-        {
-          "name": "La F\u00famiga",
-          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
-        }
-      ],
-      "duration_ms": 169870,
-      "name": "TORNAR",
-      "url": "https://open.spotify.com/track/65EFsbz7V4seWa9mNpWjeN"
-    },
-    {
-      "added_at": "2023-08-13 16:34:41",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
       "added_at": "2024-02-11 16:13:45",
       "album": {
         "name": "TOTA LA VIDA",
@@ -717,36 +701,20 @@
       "url": "https://open.spotify.com/track/7ofUma7jeWAAc7AWMnvagX"
     },
     {
-      "added_at": "2023-06-11 15:44:58",
+      "added_at": "2023-08-13 16:34:41",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-02-18 16:39:30",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2024-03-24 17:09:30",
@@ -769,26 +737,6 @@
       "url": "https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d"
     },
     {
-      "added_at": "2023-07-16 15:25:04",
-      "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
-    },
-    {
       "added_at": "2024-03-31 15:14:11",
       "album": {
         "name": "Punter\u00eda",
@@ -809,22 +757,74 @@
       "url": "https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr"
     },
     {
-      "added_at": "2023-10-15 16:29:31",
+      "added_at": "2023-06-11 15:44:58",
       "album": {
-        "name": "Paint The Town Red",
-        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 231750,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2023-12-10 17:20:08",
+      "album": {
+        "name": "TORNAR",
+        "url": "https://open.spotify.com/album/6dzk7KpVSmhTHjmhtomhER"
+      },
+      "artists": [
+        {
+          "name": "La F\u00famiga",
+          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
+        }
+      ],
+      "duration_ms": 169870,
+      "name": "TORNAR",
+      "url": "https://open.spotify.com/track/65EFsbz7V4seWa9mNpWjeN"
+    },
+    {
+      "added_at": "2024-02-18 16:39:30",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-07-16 15:25:04",
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (31/3/2024)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (7/4/2024)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

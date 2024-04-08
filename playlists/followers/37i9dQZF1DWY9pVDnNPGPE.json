@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 5013,
+  "2024-04-08": 5031,
   "date_first_scraped": "2023-11-04",
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
@@ -257,6 +257,24 @@
       "duration_ms": 243706,
       "name": "Confession (Ditto X Chuu (LOONA))",
       "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
+    },
+    {
+      "album": {
+        "name": "Could It Be",
+        "url": "https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "Could It Be",
+      "url": "https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8"
     },
     {
       "album": {
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"

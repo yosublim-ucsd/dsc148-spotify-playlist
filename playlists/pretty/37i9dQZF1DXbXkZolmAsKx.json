@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 9520,
+  "num_followers": 9533,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmEzZWJhMzlhZTBmZmYzZDdkYWUwNDRhMDYwMTQ2NWQzMjljMTBi",
+  "snapshot_id": "MCxhMzM1MWQ4OTY2ZmQ5YTk0NTQ1NjMwNmYxYWM2YzZiM2ZjOGNlYThm",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Moiety",
-        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 287520,
-      "name": "Nothing It Can",
-      "url": "https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Replica",
         "url": "https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 230759,
       "name": "Submersible",
       "url": "https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Moiety",
+        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 287520,
+      "name": "Nothing It Can",
+      "url": "https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Water Memory",
-        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 363120,
-      "name": "Your Pond",
-      "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 158950,
       "name": "Low Sudden",
       "url": "https://open.spotify.com/track/59t2d9JGOXxh3P9Hq7eoIl"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Water Memory",
+        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 363120,
+      "name": "Your Pond",
+      "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Magic Place",
-        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Cloak",
-      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Narkopop",
         "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 249700,
       "name": "Narkopop 4",
       "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Magic Place",
+        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Cloak",
+      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
     },
     {
       "added_at": "2023-06-07 15:21:34",

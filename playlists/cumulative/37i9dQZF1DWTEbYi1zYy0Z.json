@@ -4530,10 +4530,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 259255,
       "name": "Low Down (feat. Ryan La Valette)",
       "url": "https://open.spotify.com/track/2C6yjtsxZcwUkVLCleEDld"
+    },
+    {
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/3kupEpy3tQGckwj5IWUDwr"
+      },
+      "artists": [
+        {
+          "name": "Chris \"Big Dog\" Davis",
+          "url": "https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5"
+        },
+        {
+          "name": "Ryan La Valette",
+          "url": "https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259255,
+      "name": "Low Down (feat. Ryan La Valette)",
+      "url": "https://open.spotify.com/track/6tmF5cxEeujWXSYnRwFmCv"
     },
     {
       "album": {
@@ -8006,10 +8028,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 258461,
       "name": "U Groove",
       "url": "https://open.spotify.com/track/25YO08VUVw2ewTg90lNZNt"
+    },
+    {
+      "album": {
+        "name": "U Groove",
+        "url": "https://open.spotify.com/album/17ubWbHmJzOgYupdwSBcvH"
+      },
+      "artists": [
+        {
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260160,
+      "name": "U Groove",
+      "url": "https://open.spotify.com/track/0MNI9Hk2ecR49kivLGgqb8"
     },
     {
       "album": {

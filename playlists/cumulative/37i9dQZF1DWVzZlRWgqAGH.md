@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Jalen Ngonda
 
-1,176 songs - 2 day 21 hr 26 min
+1,177 songs - 2 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,7 +676,8 @@
 | [Monday Morning](https://open.spotify.com/track/3ax8FHiPhkveuYuEyZVG0E) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Emesa](https://open.spotify.com/artist/4TbtEjqnAiyGub7hfbrctY), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Monday Morning](https://open.spotify.com/album/0a1jHcoRCYNLUdCiaqmz18) | 2:48 | 2019-10-25 | 2019-11-29 |
 | [Money \- Radio Version](https://open.spotify.com/track/4IwlNfwbrKSQRZtiYVyTQZ) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Ira May](https://open.spotify.com/artist/5LDpZYZFJLKsKnb382nMZ8) | [Money](https://open.spotify.com/album/5kZm79bIOtompNHaH7EpQg) | 2:55 | 2020-02-18 | 2020-03-14 |
 | [Montara](https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Montara](https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO) | 3:45 | 2020-04-18 | 2020-06-29 |
-| [Mood Swings](https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7ErL1IFbEZr7Hz2FfelS3I) | 3:25 | 2024-02-16 |  |
+| [Mood Swings](https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7ErL1IFbEZr7Hz2FfelS3I) | 3:25 | 2024-02-16 | 2024-04-08 |
+| [Mood Swings](https://open.spotify.com/track/3j3AQiQEe24de1EcYqVxc3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa) | 3:25 | 2024-04-05 |  |
 | [Moonlight](https://open.spotify.com/track/3zZDa3s6iBWYwIcJqu2icg) | [Babé Sila](https://open.spotify.com/artist/1aFdFoqPMVFCNCGl5Y2p8v) | [Moonlight](https://open.spotify.com/album/7aLVmvdG6kk4clsP7xygfk) | 2:47 | 2020-05-22 | 2020-06-30 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-03-17 | 2023-07-01 |
 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-08-25 | 2023-09-30 |

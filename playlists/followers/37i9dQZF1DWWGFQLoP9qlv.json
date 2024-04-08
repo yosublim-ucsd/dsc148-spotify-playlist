@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 4199299,
+  "2024-04-08": 4199524,
   "date_first_scraped": "2021-12-21",
   "description": "Great songs by indisputable music legends. Cover: The Beatles",
   "name": "Legendary",
@@ -731,7 +731,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 287306,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
@@ -3941,7 +3941,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 296080,
       "name": "We Built This City",
       "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"

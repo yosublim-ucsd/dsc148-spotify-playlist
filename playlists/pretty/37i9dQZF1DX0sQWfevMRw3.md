@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VEM FAN E DU!?
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,769 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,834 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Så DUM](https://open.spotify.com/track/2JbzvLQUbimv1H55ylsw9v) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0) | [Så DUM](https://open.spotify.com/album/1H3WUX9M9372LPPOfF9ClG) | 2:31 |
 | 100 | [REPLAY](https://open.spotify.com/track/4KDBLyLyHfmvFgT0OwbKBZ) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [REPLAY](https://open.spotify.com/album/4BKRoBu0CQFHu0bXSM8Uve) | 2:17 |
 
-Snapshot ID: `MCw1MTM1YTQ2ZDZhMTI3MWJiNDYyMDg5MDFhMDI0OWM3NTg2ODI5ZmY3`
+Snapshot ID: `MCxiYzRhNjYwNThlMTRhZmExZmJkY2YxZDgzYzNhYjBmM2U2MGQzZjQ1`

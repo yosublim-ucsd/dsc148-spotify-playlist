@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Lee Mujin\(이무진\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,421 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,617 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Goodbye \(2023\)](https://open.spotify.com/track/4K6gyjsl6AZsvsryJctOs8) | [Park Pil kyu](https://open.spotify.com/artist/5tx0AkevgDrqnlBMbd86Na) | [Goodbye \(2023\)](https://open.spotify.com/album/6lnY1n3Wixe2hnTNAMmYSQ) | 3:52 |
 | 100 | [One Man](https://open.spotify.com/track/1hFTr9dmT578FKelJDCVFc) | [Park Je Up](https://open.spotify.com/artist/0eAiU3cVCE1QcQyjPuCHSq) | [One Man](https://open.spotify.com/album/3gKxXpP1y1GnAyFMJyLCJ6) | 4:08 |
 
-Snapshot ID: `MCxiZWIyOTM4NTk4ODNmNTcxNWM0MTY2NTlhNDMzNDVmNDBmOWEzMzU5`
+Snapshot ID: `MCxlZmNhM2Q4ODI5OGU5MzI2MTkzMzI4NjI1ZTJhN2Y1ODIwODNmYzNh`

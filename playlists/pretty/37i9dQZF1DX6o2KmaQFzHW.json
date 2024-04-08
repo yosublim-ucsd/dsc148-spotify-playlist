@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 185743,
+  "num_followers": 185792,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDg5MjA4ZmIxNTNkMmExZWIyNzVkYjNlYjY4Y2Y1MWQ2MTJhODY1",
+  "snapshot_id": "MCw1YjA5Y2ZjMWQ5MmZkZGU2OGQ1YTQyZDEyNWQ5MjBiMmY0YTliOTYz",
   "tracks": [
     {
       "added_at": "2024-03-07 18:46:47",
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 291040,
-      "name": "Entre La Tierra Y El Cielo",
-      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
+      "duration_ms": 161160,
+      "name": "Chacarera Del Rancho",
+      "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 161160,
-      "name": "Chacarera Del Rancho",
-      "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
+      "duration_ms": 291040,
+      "name": "Entre La Tierra Y El Cielo",
+      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Te esperar\u00e9 cantando",
-        "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
-      },
-      "artists": [
-        {
-          "name": "Los Cantores del Alba",
-          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
-        }
-      ],
-      "duration_ms": 160357,
-      "name": "Cuando Llora Mi Guitarra",
-      "url": "https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "Los 3 del R\u00edo",
         "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 229877,
       "name": "El Pastor",
       "url": "https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Te esperar\u00e9 cantando",
+        "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
+      },
+      "artists": [
+        {
+          "name": "Los Cantores del Alba",
+          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
+        }
+      ],
+      "duration_ms": 160357,
+      "name": "Cuando Llora Mi Guitarra",
+      "url": "https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Canci\u00f3n Para Una Mentira",
-        "url": "https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX"
-      },
-      "artists": [
-        {
-          "name": "Los Del Suqu\u00eda",
-          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
-        }
-      ],
-      "duration_ms": 191653,
-      "name": "Canci\u00f3n Para Una Mentira",
-      "url": "https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "Te esperar\u00e9 cantando",
         "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 163004,
       "name": "El Que Toca Nunca Baila",
       "url": "https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Canci\u00f3n Para Una Mentira",
+        "url": "https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX"
+      },
+      "artists": [
+        {
+          "name": "Los Del Suqu\u00eda",
+          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
+        }
+      ],
+      "duration_ms": 191653,
+      "name": "Canci\u00f3n Para Una Mentira",
+      "url": "https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Yo Digo Lo Que Siento",
-        "url": "https://open.spotify.com/album/6aPCsUPEEFY441vUHimyVe"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
-        }
-      ],
-      "duration_ms": 235386,
-      "name": "La Cautiva",
-      "url": "https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "MILENA",
         "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 198234,
       "name": "Florcita Del Monte",
       "url": "https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Yo Digo Lo Que Siento",
+        "url": "https://open.spotify.com/album/6aPCsUPEEFY441vUHimyVe"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "duration_ms": 235386,
+      "name": "La Cautiva",
+      "url": "https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Ando Cant\u00e1ndole al Viento y No S\u00f3lo por Cantar ...",
-        "url": "https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "No Te Puedo Olvidar",
-      "url": "https://open.spotify.com/track/79hua0r80o37LqICjNIY85"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 227533,
       "name": "C\u00f3rdoba Sin Ti",
       "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Ando Cant\u00e1ndole al Viento y No S\u00f3lo por Cantar ...",
+        "url": "https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "No Te Puedo Olvidar",
+      "url": "https://open.spotify.com/track/79hua0r80o37LqICjNIY85"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Desde Adentro",
-        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 293186,
-      "name": "La Tempranera",
-      "url": "https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "His Great Songs",
         "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 188066,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 293186,
+      "name": "La Tempranera",
+      "url": "https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Principio y Destino",
-        "url": "https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "El tesoro de mi alma",
-      "url": "https://open.spotify.com/track/6LweRJCnlnrAB21WQjUupg"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "Los 3 del R\u00edo",
         "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 256441,
       "name": "Angelitos Negros",
       "url": "https://open.spotify.com/track/26vjShJngRrRkg9WViCm5U"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Principio y Destino",
+        "url": "https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 163906,
+      "name": "El tesoro de mi alma",
+      "url": "https://open.spotify.com/track/6LweRJCnlnrAB21WQjUupg"
     },
     {
       "added_at": "2024-03-07 18:46:47",

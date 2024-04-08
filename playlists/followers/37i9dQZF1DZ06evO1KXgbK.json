@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 244284,
+  "2024-04-08": 244345,
   "date_first_scraped": "2024-03-10",
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
   "name": "This Is Dolly Parton",
@@ -633,7 +633,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 188266,
       "name": "Mule Skinner Blues (Blue Yodel No. 8)",
       "url": "https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi"
@@ -805,6 +805,24 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
+    },
+    {
+      "album": {
+        "name": "Southern Accents",
+        "url": "https://open.spotify.com/album/21tc4DJs0FYI8Y0mF0x4Ob"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267237,
+      "name": "Southern Accents",
+      "url": "https://open.spotify.com/track/2kTr8C8xtKJd4UCF9MhxM7"
     },
     {
       "album": {
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 152506,
       "name": "Why'd You Come in Here Lookin' Like That",
       "url": "https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS"

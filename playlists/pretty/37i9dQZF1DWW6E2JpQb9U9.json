@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 110500,
+  "num_followers": 110540,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzA5ZWYwMGYzMTlhYmMyYzU0YTBkYWJjMzNkMmU4M2M5Yjg0NDRj",
+  "snapshot_id": "MCwyMWYxYzQ3MTdlMmQ1ZTc4MDBhODk2NzMwNzVkOTIzNWVjMDc0ODVh",
   "tracks": [
     {
       "added_at": "2024-03-21 20:50:21",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
-        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 368743,
-      "name": "Paisano de Hurlingham",
-      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
+      "duration_ms": 218960,
+      "name": "Panic Show - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/3uyCoLdG9s4fZGPoj8B2tn"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
+        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 218960,
-      "name": "Panic Show - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/3uyCoLdG9s4fZGPoj8B2tn"
+      "duration_ms": 368743,
+      "name": "Paisano de Hurlingham",
+      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "M\u00fasica del Alma (En Vivo)",
-        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
+        "name": "En Directo (En Vivo)",
+        "url": "https://open.spotify.com/album/1m2YHaKlpGCImzt2LRtN1h"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 251296,
-      "name": "M\u00fasica Del Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
+      "duration_ms": 381826,
+      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
+      "url": "https://open.spotify.com/track/1i3tcCQHDYa1htkkkqmpUS"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1199,34 +1199,18 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "En Directo (En Vivo)",
-        "url": "https://open.spotify.com/album/1m2YHaKlpGCImzt2LRtN1h"
+        "name": "M\u00fasica del Alma (En Vivo)",
+        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 381826,
-      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
-      "url": "https://open.spotify.com/track/1i3tcCQHDYa1htkkkqmpUS"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+      "duration_ms": 251296,
+      "name": "M\u00fasica Del Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1247,6 +1231,22 @@
       "duration_ms": 236720,
       "name": "\u00bfPor Qu\u00e9 Ser\u00e1 Que Dios No Me Quiere? - En Vivo",
       "url": "https://open.spotify.com/track/0ARVb977xP9T7NWHK0xvzS"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Barek (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
-      },
-      "artists": [
-        {
-          "name": "Cielo Razzo",
-          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Barek - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 304386,
       "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "Barek (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
+      },
+      "artists": [
+        {
+          "name": "Cielo Razzo",
+          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Barek - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
     },
     {
       "added_at": "2024-03-21 20:50:21",

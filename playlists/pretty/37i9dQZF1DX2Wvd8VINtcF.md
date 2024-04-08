@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Goldielocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,747 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,803 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 28 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 |
 | 29 | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe) | 2:28 |
 | 30 | [Lunas Interlude](https://open.spotify.com/track/57u8N1MLI5vkP2MwmO7PaT) | [FELIX SANDMAN](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Lunas Interlude](https://open.spotify.com/album/0WaKqWW0pcckcKShz8Yb4Z) | 3:11 |
-| 31 | [sugarcoat](https://open.spotify.com/track/1eOxQrohc4LaExjM64hYpJ) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [sugarcoat](https://open.spotify.com/album/0fUNxwzyslKxKzVfw96hss) | 3:11 |
+| 31 | [sugarcoat](https://open.spotify.com/track/1eOxQrohc4LaExjM64hYpJ) | [WIINSTON WORLD](https://open.spotify.com/artist/1Rw0l3EzSalgT8aM3p8dGB) | [sugarcoat](https://open.spotify.com/album/0fUNxwzyslKxKzVfw96hss) | 3:11 |
 | 32 | [u.](https://open.spotify.com/track/1II7Rpz0ILbz3YfeWi8Nov) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:39 |
 | 33 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
 | 34 | [Bob Dylan Bus \(feat\. King Isis\)](https://open.spotify.com/track/1P2ugR200fs2J3ASKUAIMg) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Pigeons & Planes presents: See You Next Year 2](https://open.spotify.com/album/2HmJbK4LHezgshv0V4m9bi) | 2:33 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [All 4 One](https://open.spotify.com/track/0T2xAaVPUiEfe6c7RMmpcF) | [VAIN](https://open.spotify.com/artist/2YYQsfuJDgBdYHNJMZA1BS), [Glayden](https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj), [Niko Demus](https://open.spotify.com/artist/1tzCwHckFepdUWpH3WxFXD), [MFM](https://open.spotify.com/artist/5xvA0mjmeF1CxB12bjWR8l), [inter alia](https://open.spotify.com/artist/4XxygEqjEzswVq93XqGv77) | [From HEL With Love](https://open.spotify.com/album/5EDrg0lAWiSoZ7SEcAH0wt) | 3:47 |
 | 99 | [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 |
 
-Snapshot ID: `MCxhODhkZTljM2RmZGIzZDM1YTkzMmMxNzQyYjk3ODMyZGY4MmUyZDNi`
+Snapshot ID: `MCw4YzAyN2U3MWM5MDcyZDRiNzM5ZmY1ZTBjMTgwZThhYWJhOTcwY2Nh`

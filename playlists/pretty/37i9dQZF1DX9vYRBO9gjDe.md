@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。4月3日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,142 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,182 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [POISON～言いたい事も言えないこんな世の中は～](https://open.spotify.com/track/6pZpntzd0U8YgB7cM6deEj) | [Takashi Sorimachi](https://open.spotify.com/artist/2PMtOu89yr9YBME71Y940e) | [Tokyo Moon](https://open.spotify.com/album/2AHgvPZuw7CwyyGNw4GEa1) | 4:02 |
 | 50 | [On a Cherry Blossom Night](https://open.spotify.com/track/0FoW1FFoarYpUggrNVhGUz) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:29 |
 
-Snapshot ID: `MCwzNTlhZThlNzJlNmQ0MjliNTk2ZDQ5YmRlYjFjYTI5MjBlZTBiNTlj`
+Snapshot ID: `MCwxZmNkZmNkMzhhYTliNzBiZjViZTE1MGY3ZjBhZTgwYWI4ZmFlZThm`

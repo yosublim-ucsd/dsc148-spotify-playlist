@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 48195,
+  "num_followers": 48199,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWI5MTIzZjNlMDFkYmFiZWEzZTBiNGU5ZjJmMDQ1YzcyNjdkNjY5",
+  "snapshot_id": "MCw0M2I2YmYwYmNlMDc2YmZlYzA1MDY1ODk1Mzc2MDMyOGIzN2MzNTcw",
   "tracks": [
     {
       "added_at": "2024-02-22 17:25:15",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Emocionado",
-        "url": "https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj"
+        "name": "QUEM NUNCA??",
+        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
       },
       "artists": [
         {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        },
+        {
+          "name": "Egypcio",
+          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
         }
       ],
-      "duration_ms": 167218,
-      "name": "Emocionado",
-      "url": "https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j"
+      "duration_ms": 216255,
+      "name": "QUEM NUNCA??",
+      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -959,22 +963,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "QUEM NUNCA??",
-        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
+        "name": "Emocionado",
+        "url": "https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj"
       },
       "artists": [
         {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        },
-        {
-          "name": "Egypcio",
-          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
         }
       ],
-      "duration_ms": 216255,
-      "name": "QUEM NUNCA??",
-      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+      "duration_ms": 167218,
+      "name": "Emocionado",
+      "url": "https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "MENTIRA FAVORITA",
+        "url": "https://open.spotify.com/album/5S0rzOgakJueLdblfzAjwf"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "duration_ms": 173461,
+      "name": "MENTIRA FAVORITA",
+      "url": "https://open.spotify.com/track/2tnAEKbdnPds84REPr5S73"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "EMO NAS BAHAMAS",
         "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 148880,
       "name": "VOU ALI DORMIR",
       "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "PODERIA SER (bem) PIOR",
-        "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
-      },
-      "artists": [
-        {
-          "name": "Number Teddie",
-          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
-        }
-      ],
-      "duration_ms": 171861,
-      "name": "Amigo de Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "MENTIRA FAVORITA",
-        "url": "https://open.spotify.com/album/5S0rzOgakJueLdblfzAjwf"
+        "name": "PODERIA SER (bem) PIOR",
+        "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
       },
       "artists": [
         {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
         }
       ],
-      "duration_ms": 173461,
-      "name": "MENTIRA FAVORITA",
-      "url": "https://open.spotify.com/track/2tnAEKbdnPds84REPr5S73"
+      "duration_ms": 171861,
+      "name": "Amigo de Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "FORA DE SI",
+        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "duration_ms": 142825,
+      "name": "FORA DE SI",
+      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 164000,
       "name": "melhor ou pior",
       "url": "https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "FORA DE SI",
-        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        }
-      ],
-      "duration_ms": 142825,
-      "name": "FORA DE SI",
-      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Foi Tudo Aqui",
+        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
+      },
+      "artists": [
+        {
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Deixa Estar",
+      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "Lugar no Espa\u00e7o",
         "url": "https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 157249,
       "name": "Grito",
       "url": "https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "Foi Tudo Aqui",
-        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
-      },
-      "artists": [
-        {
-          "name": "Fuze",
-          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
-        }
-      ],
-      "duration_ms": 189901,
-      "name": "Deixa Estar",
-      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
     },
     {
       "added_at": "2024-02-22 17:25:15",

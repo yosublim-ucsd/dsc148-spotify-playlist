@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmIxOWEzMGZhNjEyZTIzOGZhOWEyMTkzNjUxOWFkZDJhY2I1NzBh",
+  "snapshot_id": "MCwzZDQ2YzIzMDEwNGJlMjhhYmY1ZGYxMmJjNWVmZGI5N2I5YjI4ODc1",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -817,24 +817,20 @@
       "url": "https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Used To Me (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
+        "name": "ARTchives: The Gallery",
+        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
         }
       ],
-      "duration_ms": 167591,
-      "name": "Used To Me (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
+      "duration_ms": 162625,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -869,20 +865,24 @@
       "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "ARTchives: The Gallery",
-        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
+        "name": "Used To Me (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
       },
       "artists": [
         {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 162625,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
+      "duration_ms": 167591,
+      "name": "Used To Me (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1153,24 +1153,20 @@
       "url": "https://open.spotify.com/track/6HlPPcbjlyq7liRqu8q6mK"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Heads Up",
-        "url": "https://open.spotify.com/album/7lFrudJN1swTpUTt1QJCfQ"
+        "name": "Before We Crash",
+        "url": "https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC"
       },
       "artists": [
         {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
-        },
-        {
-          "name": "Malaika Terry",
-          "url": "https://open.spotify.com/artist/5j4s3NQ1MYuJbswcZs6ncH"
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
         }
       ],
-      "duration_ms": 207123,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
+      "duration_ms": 229447,
+      "name": "Better Than Him",
+      "url": "https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1187,22 +1183,6 @@
       "duration_ms": 156309,
       "name": "Love Hate",
       "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Before We Crash",
-        "url": "https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 229447,
-      "name": "Better Than Him",
-      "url": "https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1223,6 +1203,26 @@
       "duration_ms": 185566,
       "name": "What It Do (with Fridayy)",
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Heads Up",
+        "url": "https://open.spotify.com/album/7lFrudJN1swTpUTt1QJCfQ"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        },
+        {
+          "name": "Malaika Terry",
+          "url": "https://open.spotify.com/artist/5j4s3NQ1MYuJbswcZs6ncH"
+        }
+      ],
+      "duration_ms": 207123,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1261,6 +1261,26 @@
       "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
     },
     {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Eimaral Sol",
+          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
+        }
+      ],
+      "duration_ms": 199563,
+      "name": "Swerve",
+      "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
+    },
+    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Bout Mine",
@@ -1293,22 +1313,6 @@
       "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Meet Me Upstrz",
-        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
-      },
-      "artists": [
-        {
-          "name": "Upstrz",
-          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
-        }
-      ],
-      "duration_ms": 156107,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Needs & Wants",
@@ -1323,6 +1327,22 @@
       "duration_ms": 185719,
       "name": "Needs & Wants",
       "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Meet Me Upstrz",
+        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
+      },
+      "artists": [
+        {
+          "name": "Upstrz",
+          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
+        }
+      ],
+      "duration_ms": 156107,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1343,6 +1363,62 @@
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Tripolar 3",
+        "url": "https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Strip for You (feat. Vedo)",
+      "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Fkn Him Too",
+        "url": "https://open.spotify.com/album/5j4weAU6Kpktlx2fD5gHua"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 170079,
+      "name": "Fkn Him Too",
+      "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Hurtbook (Homegirl Pack)",
+        "url": "https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193781,
+      "name": "So Be It (with Summer Walker) - Remix",
+      "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1367,82 +1443,6 @@
       "duration_ms": 152000,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/6PZRy35ohzFTVfrpAEzmHf"
-    },
-    {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "Eimaral Sol",
-          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
-        }
-      ],
-      "duration_ms": 199563,
-      "name": "Swerve",
-      "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Fkn Him Too",
-        "url": "https://open.spotify.com/album/5j4weAU6Kpktlx2fD5gHua"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 170079,
-      "name": "Fkn Him Too",
-      "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Tripolar 3",
-        "url": "https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM"
-      },
-      "artists": [
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Strip for You (feat. Vedo)",
-      "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "The Hurtbook (Homegirl Pack)",
-        "url": "https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193781,
-      "name": "So Be It (with Summer Walker) - Remix",
-      "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1629,22 +1629,6 @@
       "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Simple Girls",
-        "url": "https://open.spotify.com/album/5c64XM7HgyFkKFK6V5feMY"
-      },
-      "artists": [
-        {
-          "name": "Devvon Terrell",
-          "url": "https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Simple Girls",
-      "url": "https://open.spotify.com/track/7y1mzezUl5HfAvWYSs7Qu1"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Love Scars II",
@@ -1663,6 +1647,22 @@
       "duration_ms": 161684,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Simple Girls",
+        "url": "https://open.spotify.com/album/5c64XM7HgyFkKFK6V5feMY"
+      },
+      "artists": [
+        {
+          "name": "Devvon Terrell",
+          "url": "https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Simple Girls",
+      "url": "https://open.spotify.com/track/7y1mzezUl5HfAvWYSs7Qu1"
     },
     {
       "added_at": "2023-06-16 05:24:07",

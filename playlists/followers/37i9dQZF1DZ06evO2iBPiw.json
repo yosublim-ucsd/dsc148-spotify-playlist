@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 3320631,
+  "2024-04-08": 3320933,
   "date_first_scraped": "2022-10-25",
   "description": "This is The Beatles. The essential tracks, all in one playlist.",
   "name": "This Is The Beatles",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 117013,
       "name": "Do You Want To Know A Secret - Remastered 2009",
       "url": "https://open.spotify.com/track/7Aobt67JnaF7qN8jCCKvHq"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 139560,
       "name": "Help! - Remastered 2009",
       "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 140400,
       "name": "I Feel Fine - Remastered 2009",
       "url": "https://open.spotify.com/track/4gxs9En3aoaOm2J5wNMMm9"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 146720,
       "name": "I Want To Hold Your Hand - Remastered 2009",
       "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 120853,
       "name": "Please Please Me - Remastered 2009",
       "url": "https://open.spotify.com/track/6EHuOufBeL6vk3TvVJB5qo"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 247320,
       "name": "Strawberry Fields Forever - Remastered 2009",
       "url": "https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 189680,
       "name": "Ticket To Ride - Remastered 2009",
       "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 133506,
       "name": "Till There Was You - Remastered 2009",
       "url": "https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm"

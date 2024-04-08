@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,909 songs - 3 day 0 hr 44 min
+1,910 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1801,6 +1801,7 @@
 | [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 | 2022-10-01 |  |
 | [Validation](https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [Validation](https://open.spotify.com/album/3wj5LEDuZj4EsshE0RzdtA) | 2:01 | 2022-04-15 | 2022-12-17 |
 | [Van Von Vinkelvoss](https://open.spotify.com/track/4vCJcqYGVB7hXmmF4eMGV5) | [Fashion Allure](https://open.spotify.com/artist/3f2eVgVyrMtQwwp1Ev1Zkc) | [Van Von Vinkelvoss](https://open.spotify.com/album/5Wh4SnF9dvdtMZzXeIc7h9) | 2:42 | 2023-01-20 |  |
+| [Verge](https://open.spotify.com/track/7DQzqbyPr0GKqNPItMOQEE) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Verge](https://open.spotify.com/album/17JZeITR4GKgGWCnLF6r19) | 1:58 | 2024-03-22 |  |
 | [Vibe Check](https://open.spotify.com/track/1UZzgXW7aQrbcszxDWleBR) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Days](https://open.spotify.com/album/1ll3McJaLAP6wzADXKfIEc) | 2:24 | 2023-08-03 |  |
 | [Vibez Only](https://open.spotify.com/track/7KTWswOLuRYpLnskL4ZcDo) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Vibez Only](https://open.spotify.com/album/2tKxvCqHRXo1AhbRMv3yz3) | 1:33 | 2023-02-06 | 2023-09-29 |
 | [vibrant](https://open.spotify.com/track/3P1G5V7xF6E6mJAuYidWs9) | [Louis Loux](https://open.spotify.com/artist/4TSSTLGRVNcu07DrrYni5V) | [vibrant](https://open.spotify.com/album/4DXHvFqaXHskY7QT33PuFk) | 2:19 | 2022-04-15 | 2022-09-09 |
@@ -1813,7 +1814,7 @@
 | [Vitalization](https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Frodas](https://open.spotify.com/album/6YywwAQYRqLBMuQTchAeZc) | 1:59 | 2022-05-27 |  |
 | [Voyager I](https://open.spotify.com/track/5jBUgazLXovmLGbaMaBXAz) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Voyager I](https://open.spotify.com/album/0xMT2wIw012AXByuwmumtx) | 2:08 | 2022-04-15 | 2022-08-12 |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 |  |
-| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2022-12-02 |  |
+| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2022-12-02 | 2024-04-08 |
 | [Waiting Room](https://open.spotify.com/track/5MAwrPj271eyVtlgNRrveQ) | [Brian Ward](https://open.spotify.com/artist/50cS50JU7y7f697pwo1qsw), [Shane Savala](https://open.spotify.com/artist/478Gr4jHvTgsWEYNUu1jJx) | [Waiting Room](https://open.spotify.com/album/5mdBUhiWj4IbsRYQt0Fv2W) | 2:52 | 2022-06-24 | 2022-11-26 |
 | [Waitress service](https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Waitress service](https://open.spotify.com/album/6EYqvlu2EjsRqQ9VmKuDSR) | 1:50 | 2023-07-13 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2023-09-29 |  |

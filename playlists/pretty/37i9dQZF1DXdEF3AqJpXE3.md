@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 > The best tracks from the world of music\. Cover: ILLIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,285 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,299 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 | 50 | [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 |
 | 51 | [我走后 \- 发行版](https://open.spotify.com/track/32UZM0QSWwqzLbyr1YoS7x) | [小咪](https://open.spotify.com/artist/1EnZU1clkEHET416Er1WO2) | [我走后 \(发行版\)](https://open.spotify.com/album/0FFfONkUMV8s41EzZDUfiF) | 4:08 |
 
-Snapshot ID: `MCxmMzM0MmE1OGE0YTIwNzdiNjcxNTViMWNiZjlhNmMxMmRkMjkyM2Fi`
+Snapshot ID: `MCxlYjU3ZDMwYzIxYWFkOTE2NTY4YzVhYTUwMzc0ZmRkNWMwZTJmM2Ex`

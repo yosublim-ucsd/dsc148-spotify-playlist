@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 253080,
       "name": "Big Mama's Bumble Bee",
       "url": "https://open.spotify.com/track/6KsFxI75KQaDehezuHcdv8"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 133160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/1a190bvAYqk1wyChVSm6s1"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 356472,
       "name": "Jail",
       "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 169360,
       "name": "Just Like a Dog",
       "url": "https://open.spotify.com/track/3wVw6PSNqqzaO3kVp00pvA"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 132746,
       "name": "Looking the World Over",
       "url": "https://open.spotify.com/track/3quA3vwMpCEFWdfFZg5yRu"
@@ -1726,6 +1726,24 @@
       "duration_ms": 348081,
       "name": "My Baby Left Me - Live",
       "url": "https://open.spotify.com/track/5kCcsWPQ78fqUdAJqmRmJ6"
+    },
+    {
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160826,
+      "name": "My Man Called Me",
+      "url": "https://open.spotify.com/track/44j02kVJqYuTgtCSxPSPvf"
     },
     {
       "album": {
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 44369,
       "name": "Talking, Pt.2 - Live",
       "url": "https://open.spotify.com/track/2DlRCvaBH6adqBosfUbNES"
@@ -2694,7 +2712,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 125191,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/2i2whoANAvSNNPCmtnvsvH"

@@ -1,12 +1,12 @@
 {
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
-  "num_followers": 33719,
+  "num_followers": 33718,
   "original_name": "Navidad Con Sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODYwNjNmZDNjZmM4ODY0ZTQ1YTM3YzMzM2VmNTAxZTFlNmNhMDNi",
+  "snapshot_id": "MCxhOTUwNWZiOWMyYjFkNjVlMDMyYzdhNGRiN2MyNjJmMTY2NWI2N2Ex",
   "tracks": [
     {
       "added_at": "2023-12-19 14:35:20",
@@ -255,18 +255,22 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+        "name": "De Peligro",
+        "url": "https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k"
       },
       "artists": [
         {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Amparito",
-      "url": "https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2"
+      "duration_ms": 230306,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -287,22 +291,18 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "De Peligro",
-        "url": "https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k"
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
         }
       ],
-      "duration_ms": 230306,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
+      "duration_ms": 192466,
+      "name": "Amparito",
+      "url": "https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -787,8 +787,8 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "It's Christmas Time! (Original Recordings)",
-        "url": "https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I"
+        "name": "De Trulla Con el Combo",
+        "url": "https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 228826,
-      "name": "Si No Me Dan de Beber Lloro",
-      "url": "https://open.spotify.com/track/5MCGrDquPJ8vV9dGJiIWNq"
+      "duration_ms": 269182,
+      "name": "De Trulla Con el Combo",
+      "url": "https://open.spotify.com/track/2LNbxYAPYuVZX2y9MivSw0"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Jerry Christmas",
-        "url": "https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "Las Pascuas",
-      "url": "https://open.spotify.com/track/2a3ZuVuGnY3izSvAb1VJrN"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "El Inocente",
         "url": "https://open.spotify.com/album/7LPDVaGHgqr876Av8TUyyD"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 216081,
       "name": "El Guayabo de la Ye",
       "url": "https://open.spotify.com/track/4ZZYF38rwSmsFR61G07953"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Jerry Christmas",
+        "url": "https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "Linda Parranda",
+      "url": "https://open.spotify.com/track/6roVyEGav4GUvmX1FKbiA9"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -947,38 +947,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "20 Exitos Navide\u00f1os",
-        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
-      },
-      "artists": [
-        {
-          "name": "Danny Rivera",
-          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "El Coqui",
-      "url": "https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "Jerry Christmas",
-        "url": "https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "Linda Parranda",
-      "url": "https://open.spotify.com/track/6roVyEGav4GUvmX1FKbiA9"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "Lleg\u00f3 Navidad",
         "url": "https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD"
       },
@@ -991,6 +959,22 @@
       "duration_ms": 285545,
       "name": "Lleg\u00f3 Navidad",
       "url": "https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "20 Exitos Navide\u00f1os",
+        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
+      },
+      "artists": [
+        {
+          "name": "Danny Rivera",
+          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "El Coqui",
+      "url": "https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1023,6 +1007,22 @@
       "duration_ms": 230306,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/0j3lYn9mbOJ1L5iWrmu6pQ"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Jerry Christmas",
+        "url": "https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "Las Pascuas",
+      "url": "https://open.spotify.com/track/2a3ZuVuGnY3izSvAb1VJrN"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Lo Mejor De Gilberto En La Navidad",
-        "url": "https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "Tarjeta de Navidad",
-      "url": "https://open.spotify.com/track/72PomDaaCoJnjFN0woEqHq"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "To\u00f1o en America",
         "url": "https://open.spotify.com/album/3vBuyDnFfXcMORQsi1yMJe"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 259373,
       "name": "Navidad para el pueblo",
       "url": "https://open.spotify.com/track/0NMKMatww8aQFrGTI88QOa"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena (De Navidad)",
+        "url": "https://open.spotify.com/album/1NF6nTsGudRHJLxRd9V3pW"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 281730,
+      "name": "No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena - De Navidad",
+      "url": "https://open.spotify.com/track/60VHGVgXcbFleSAxUeNMLq"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
+        "name": "Navide\u00f1os",
+        "url": "https://open.spotify.com/album/7lsz6aRXUQ37WOtDz3yVOh"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 348137,
+      "name": "Grito En Navidad",
+      "url": "https://open.spotify.com/track/3jWOE0Ly1Weqfl1nxlLjhc"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
         "name": "Con Tanto Cache",
         "url": "https://open.spotify.com/album/4VEo435ch0afkFTpXwg64Z"
       },
@@ -1159,24 +1175,8 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Fiesta en Navidad 35 Exitos",
-        "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
-      },
-      "artists": [
-        {
-          "name": "July Mateo Rasputin",
-          "url": "https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Viejo A\u00f1o",
-      "url": "https://open.spotify.com/track/6gOklqkrjzHcBPSw0oFL9P"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena (De Navidad)",
-        "url": "https://open.spotify.com/album/1NF6nTsGudRHJLxRd9V3pW"
+        "name": "Lo Mejor De Gilberto En La Navidad",
+        "url": "https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 281730,
-      "name": "No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena - De Navidad",
-      "url": "https://open.spotify.com/track/60VHGVgXcbFleSAxUeNMLq"
+      "duration_ms": 270093,
+      "name": "Tarjeta de Navidad",
+      "url": "https://open.spotify.com/track/72PomDaaCoJnjFN0woEqHq"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Navide\u00f1os",
-        "url": "https://open.spotify.com/album/7lsz6aRXUQ37WOtDz3yVOh"
+        "name": "Fiesta en Navidad 35 Exitos",
+        "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "July Mateo Rasputin",
+          "url": "https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi"
         }
       ],
-      "duration_ms": 348137,
-      "name": "Grito En Navidad",
-      "url": "https://open.spotify.com/track/3jWOE0Ly1Weqfl1nxlLjhc"
+      "duration_ms": 262573,
+      "name": "Viejo A\u00f1o",
+      "url": "https://open.spotify.com/track/6gOklqkrjzHcBPSw0oFL9P"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 198829,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "G\u00f3zate La Navidad",
         "url": "https://open.spotify.com/album/5DYT72bROztD8TEnneE5PC"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 260048,
       "name": "G\u00f3zate La Navidad",
       "url": "https://open.spotify.com/track/42RVNjHSOKCzWzGJygIO7s"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 198829,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Navidad en Bor\u00ednquen",
-        "url": "https://open.spotify.com/album/4aepF49pb9dljNnzXgisO0"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 283413,
-      "name": "Arbolito",
-      "url": "https://open.spotify.com/track/0tCZl9jBqwfqo2n9s1qbAI"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "Merenboom Navide\u00f1o",
         "url": "https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 292826,
       "name": "Navidad Sin Mi Madre",
       "url": "https://open.spotify.com/track/2TubL59m7DAX9X70BniG2y"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Navidad en Bor\u00ednquen",
+        "url": "https://open.spotify.com/album/4aepF49pb9dljNnzXgisO0"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 283413,
+      "name": "Arbolito",
+      "url": "https://open.spotify.com/track/0tCZl9jBqwfqo2n9s1qbAI"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
+        "name": "Cumbi\u00f3n Navide\u00f1o",
+        "url": "https://open.spotify.com/album/0Bnjodya04yeqd3wCQyz3q"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Cumbi\u00f3n Navide\u00f1o",
+      "url": "https://open.spotify.com/track/38DjBRQvyzMheIL0XoLiOb"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
         "name": "Diciembre Colombiano",
         "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Cumbi\u00f3n Navide\u00f1o",
-        "url": "https://open.spotify.com/album/0Bnjodya04yeqd3wCQyz3q"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Cumbi\u00f3n Navide\u00f1o",
-      "url": "https://open.spotify.com/track/38DjBRQvyzMheIL0XoLiOb"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "La G\u00fcera Salom\u00e9",
         "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Parranda All-Stars: Navidad - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/4WW0UpmKHjrjzC6nklfUM9"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 236253,
-      "name": "Mi Regalo Favorito",
-      "url": "https://open.spotify.com/track/0bAnP1tEMw1zETlRJXnnqv"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "Navidad a Mi Estilo",
         "url": "https://open.spotify.com/album/1VUH7FLhnfscPhy36p8m8H"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 254928,
       "name": "El Aguinaldo de Do\u00f1a Elena",
       "url": "https://open.spotify.com/track/3rQIGx2oxTI9DUFHTjRGTG"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Parranda All-Stars: Navidad - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/4WW0UpmKHjrjzC6nklfUM9"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 236253,
+      "name": "Mi Regalo Favorito",
+      "url": "https://open.spotify.com/track/0bAnP1tEMw1zETlRJXnnqv"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Montados en Bicicleta",
-        "url": "https://open.spotify.com/album/2Zih48eHIEcLOgJdZopLkS"
+        "name": "Navidad en Merengue (Versi\u00f3n Editada)",
+        "url": "https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
         }
       ],
-      "duration_ms": 240683,
-      "name": "Montados en Bicicleta",
-      "url": "https://open.spotify.com/track/7vK2y43KQm04iH0C3DHI2T"
+      "duration_ms": 362786,
+      "name": "Hay Mucha Alegria",
+      "url": "https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1"
     }
   ],
   "unique_name": "Navidad Con Sabor",

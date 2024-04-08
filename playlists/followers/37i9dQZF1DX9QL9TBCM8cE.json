@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 25845,
+  "2024-04-08": 25857,
   "date_first_scraped": "2022-11-30",
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
   "name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
@@ -1498,6 +1498,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
+        "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
+      },
+      "artists": [
+        {
+          "name": "\u5712\u7530\u667a\u4ee3\u5b50 (CV.\u767d\u77f3\u6674\u9999)",
+          "url": "https://open.spotify.com/artist/65WtViuwTDmjbuaoWruKT1"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "\u30c1\u30e7\u30b3\u30c7\u30fc\u30c8\u30fb\u30b5\u30f3\u30c7\u30fc",
+      "url": "https://open.spotify.com/track/0ZDPHRKLzOkQeRc785UKuA"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 03",
         "url": "https://open.spotify.com/album/2VWsU3SNlScdb1DQXVl5GJ"
       },
@@ -1797,7 +1815,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 261265,
       "name": "\u5922\u898b\u9ce5",
       "url": "https://open.spotify.com/track/4LBl0NObinFBwEDPIGIoRq"

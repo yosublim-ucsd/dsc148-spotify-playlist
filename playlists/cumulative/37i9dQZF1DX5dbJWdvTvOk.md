@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-677 songs - 1 day 4 hr 46 min
+678 songs - 1 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Arroyos Y Valles](https://open.spotify.com/track/3deEZxzspdmQ8HmcGLhhOK) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Arroyos Y Valles](https://open.spotify.com/album/7mMinee1Kiy1lxSjs1beRc) | 2:38 | 2023-04-21 |  |
 | [Aspromonte](https://open.spotify.com/track/1GqV3etog2P1tPiauYjJRk) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Aspromonte](https://open.spotify.com/album/2gXiqOT3GYPWhE6ILAtOIO) | 3:51 | 2023-04-21 | 2023-05-13 |
 | [Atracción Total](https://open.spotify.com/track/3h65slquvDXuKKEsV97ujv) | [Ferne Dado](https://open.spotify.com/artist/5iExMiaCIV50ySAqjiDJ8e) | [Atracción Total](https://open.spotify.com/album/6bxb7581ZoRs7woNYVFQhD) | 3:02 | 2023-04-21 |  |
-| [Austin](https://open.spotify.com/track/4YezUSq1Jln6CBattRur3E) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Seven Poems](https://open.spotify.com/album/1OnWt6c3cLv9rHqrll0ZjJ) | 3:57 | 2023-04-21 |  |
+| [Austin](https://open.spotify.com/track/4YezUSq1Jln6CBattRur3E) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Seven Poems](https://open.spotify.com/album/1OnWt6c3cLv9rHqrll0ZjJ) | 3:57 | 2023-04-21 | 2024-04-08 |
 | [Azores](https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Azores](https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu) | 2:39 | 2023-05-12 |  |
 | [Back at Mills Creek](https://open.spotify.com/track/1sokyJcoiRdRyjmPYzcQRu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Back at Mills Creek](https://open.spotify.com/album/04bqEOyyP1MIEe5lCrUgUv) | 2:18 | 2024-02-02 |  |
 | [Back in the Village](https://open.spotify.com/track/1ThpkLTeAScDpOmm7NHSec) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Back in the Village](https://open.spotify.com/album/201oJA5eb4m9kl57WySUIF) | 2:14 | 2023-11-24 |  |
@@ -148,7 +148,7 @@
 | [Daffodil](https://open.spotify.com/track/4iMdLRlOYmVKieGVPNfawY) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Daffodil](https://open.spotify.com/album/7iPJO6kKUX6OzSxXxhBgjW) | 2:46 | 2024-02-23 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-03-31 | 2023-04-22 |
 | [Dans tes mains](https://open.spotify.com/track/5ECdxrA7QwtRFqxyuM3BK6) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Toucher mon coeur](https://open.spotify.com/album/2gz6d6FUO7EUSGT3YAXSZl) | 2:29 | 2023-04-21 |  |
-| [Dartden Road](https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Dartden Road](https://open.spotify.com/album/2CY1GbH0o6jWzddu6qR13U) | 2:07 | 2023-04-21 | 2023-11-01 |
+| [Dartden Road](https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Dartden Road](https://open.spotify.com/album/2CY1GbH0o6jWzddu6qR13U) | 2:07 | 2023-04-21 |  |
 | [das einsame Waldhaus](https://open.spotify.com/track/4vZ4qi9FYdMdqKB8g0dzxo) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [das einsame Waldhaus](https://open.spotify.com/album/6qkwLbJ5GqcOaLRYysZ511) | 3:03 | 2022-07-15 | 2023-04-22 |
 | [Davinci](https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk) | [Novia Stella](https://open.spotify.com/artist/5FsD7fr9sKWu0x5XdJHrDA) | [Davinci](https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa) | 2:07 | 2022-07-15 | 2024-04-06 |
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2022-07-15 | 2023-04-22 |
@@ -444,7 +444,7 @@
 | [Only Briefly](https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Only Briefly](https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG) | 2:07 | 2024-03-29 |  |
 | [Onyx](https://open.spotify.com/track/5vPIHZrhWQV4bJvEvMOdwa) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Onyx](https://open.spotify.com/album/3xxdEs2WfbfsP14dXWdzEN) | 2:45 | 2023-04-21 |  |
 | [Ordino](https://open.spotify.com/track/2OQ8WuB2K93XqZhwCh6aSv) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Ordino](https://open.spotify.com/album/17Ur7n3dhPusy2R1M9UO0i) | 2:37 | 2023-04-21 |  |
-| [Origins](https://open.spotify.com/track/2v86cHUt2Dv7pCdGinwLaB) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Origins](https://open.spotify.com/album/0aI9XXnV0o6d5d6qvLFIrG) | 2:03 | 2023-04-21 | 2024-03-25 |
+| [Origins](https://open.spotify.com/track/2v86cHUt2Dv7pCdGinwLaB) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Origins](https://open.spotify.com/album/0aI9XXnV0o6d5d6qvLFIrG) | 2:03 | 2023-04-21 |  |
 | [Outerinho](https://open.spotify.com/track/07ulGbvQJporStcKaTxnaY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 3:05 | 2023-04-21 |  |
 | [Pacifiquement](https://open.spotify.com/track/5Ge0efczeqLMSLW7PuYezG) | [Antoine Gasquet](https://open.spotify.com/artist/1fXaIo98PufpTCJsXLtRVt) | [Pacifiquement](https://open.spotify.com/album/3zmOaoYfYtYtsZXPYJKmmn) | 2:26 | 2023-04-21 |  |
 | [Pampas](https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Pampas](https://open.spotify.com/album/24ZUuBk8JknWaAalkgC2ZO) | 2:43 | 2023-09-29 |  |
@@ -463,7 +463,7 @@
 | [Pink Sky](https://open.spotify.com/track/4Pd0UQizG3Nw8RzMTWKwgc) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt) | [Pink Sky](https://open.spotify.com/album/558L60uVIk9oe3UPYbX9PF) | 2:21 | 2023-04-21 | 2023-05-13 |
 | [Pluto](https://open.spotify.com/track/1TsvBJoYAYrQbLDFnNE1MB) | [Jules Scott](https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s) | [Pluto](https://open.spotify.com/album/1PAkHoLZyHQYJdnco9Ugpr) | 1:53 | 2023-04-21 | 2023-06-15 |
 | [Poesia](https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Poesia](https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs) | 2:20 | 2023-09-07 |  |
-| [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 | 2023-04-21 |  |
+| [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 | 2023-04-21 | 2024-04-08 |
 | [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 | 2023-04-21 |  |
 | [Preludium G\-Dur](https://open.spotify.com/track/7BrfpWvcN5ZlzaHs1ej0DF) | [Los Vasos Comunicantes](https://open.spotify.com/artist/2aNXMjF7dyGAYuOAAJ8qwV) | [Preludium G\-Dur](https://open.spotify.com/album/4hc2wnXGXMcbabRlM4zpnK) | 1:35 | 2022-07-15 | 2022-09-17 |
 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 | 2023-04-21 |  |
@@ -549,6 +549,7 @@
 | [Solus](https://open.spotify.com/track/3T8Q3pKqqpyz7E2U3VKiwn) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Solus](https://open.spotify.com/album/05Vck1mdBEKe5cPczGEmcl) | 4:01 | 2022-07-15 | 2024-04-06 |
 | [Sombras Brillantes](https://open.spotify.com/track/3NR3svuOAd8gH6ZdJWLJhb) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ferreyra](https://open.spotify.com/album/6FHQVK0oq7y3Am6U0sYP7U) | 2:17 | 2022-07-15 | 2023-02-25 |
 | [Someday](https://open.spotify.com/track/40Prhj76wY4JkKWl130prE) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Someday](https://open.spotify.com/album/6z07JJdKjK6KQTLdc4Abw6) | 2:34 | 2023-04-21 |  |
+| [Something For You](https://open.spotify.com/track/6oqZPFJ1LM1hokfEdUBPxp) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Something For You](https://open.spotify.com/album/2RZsThQXub83Rxjrxo0qvd) | 2:49 | 2024-04-05 |  |
 | [Soneto](https://open.spotify.com/track/44hRQCCOLtV5OnghKRFjqa) | [Jonny Wells](https://open.spotify.com/artist/3y9st5kQGA5SegPTroNQwK) | [Belgian Park](https://open.spotify.com/album/7ji31sf4p8xRHMoPA7o6mH) | 2:49 | 2022-07-15 | 2023-04-22 |
 | [Song for Solomon](https://open.spotify.com/track/65ecJZz4yOi2J0zvnHWCCL) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Song for Solomon](https://open.spotify.com/album/1HGnVzzqfxxIKARTUW1LBb) | 1:53 | 2023-04-21 | 2023-08-26 |
 | [Sonidos De La Tarde](https://open.spotify.com/track/3qNkQ9TgNVvHKwc55SFUYf) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Sonidos De La Tarde](https://open.spotify.com/album/0piCaKv5lgsUxhGI0wgK37) | 1:49 | 2022-10-07 | 2023-04-22 |
@@ -586,7 +587,7 @@
 | [Te quiero hasta la muerte](https://open.spotify.com/track/38GYfritueLqRIxoK1AVzX) | [Jesus Quintana](https://open.spotify.com/artist/2ABU0wZVTQR6hLNZp8GyHB) | [Te quiero hasta la muerte](https://open.spotify.com/album/582zz5eEBI6wgTIkU3Z5Tw) | 1:54 | 2022-10-28 | 2023-04-22 |
 | [Tears but Not of Pain](https://open.spotify.com/track/27mzQDNLtakxvsBJXk4vzT) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Tears but Not of Pain](https://open.spotify.com/album/49im8S6HBvYk0BHPHWDYh6) | 3:21 | 2024-03-29 |  |
 | [Teatime](https://open.spotify.com/track/09fhTYGSgNoATa9MnNAHes) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Teatime](https://open.spotify.com/album/2Rshes42tKuMv3wJ5aUD15) | 2:48 | 2023-06-02 |  |
-| [Telodice](https://open.spotify.com/track/2p0Hp7dQvwfEu8nsP3fCMT) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Telodice](https://open.spotify.com/album/4DnzOYq45aBZ2X8LsN2run) | 2:10 | 2023-04-21 |  |
+| [Telodice](https://open.spotify.com/track/2p0Hp7dQvwfEu8nsP3fCMT) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Telodice](https://open.spotify.com/album/4DnzOYq45aBZ2X8LsN2run) | 2:10 | 2023-04-21 | 2024-04-08 |
 | [Ten Eyck](https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ten Eyck](https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J) | 2:20 | 2023-09-07 |  |
 | [The Air Portal](https://open.spotify.com/track/0SAvctlgQPtPS6t3sgelQv) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [The Air Portal](https://open.spotify.com/album/0QhXjZGYdD92PpGsPBwTGl) | 2:37 | 2022-10-07 | 2023-04-22 |
 | [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 | 2023-04-22 |

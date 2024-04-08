@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 26017,
+  "2024-04-08": 26041,
   "date_first_scraped": "2022-08-06",
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
   "name": "This Is Howlin' Wolf",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 173533,
       "name": "Back Door Man",
       "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 210626,
       "name": "Change My Way - Single Version",
       "url": "https://open.spotify.com/track/2gpHx8H04p8Va4ar8VJojx"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 154973,
       "name": "Down In The Bottom - Single Version",
       "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 163026,
       "name": "How Many More Years",
       "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 158866,
       "name": "Howlin' Wolf Boogie - Single Version",
       "url": "https://open.spotify.com/track/2tQIv1nBXJChbiyA95NShQ"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 134600,
       "name": "I've Been Abused - Single Version",
       "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 155360,
       "name": "Sitting On Top Of The World",
       "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
@@ -1997,7 +1997,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 179400,
       "name": "Tail Dragger",
       "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"

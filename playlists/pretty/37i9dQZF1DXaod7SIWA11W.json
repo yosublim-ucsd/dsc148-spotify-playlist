@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a> ",
-  "num_followers": 71280,
+  "num_followers": 71340,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmNmNmMyMTkxYjRkZDlhMTU4ZTc1MGYyODViNjE0YzA0YTMxOTJl",
+  "snapshot_id": "MCw0MDllOTI2M2IzMDIwYzNjNzljNzk4YzE4NzgzOGQzNjUzZjU0NmY3",
   "tracks": [
     {
       "added_at": "2024-03-20 10:43:05",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "OOWEE",
+        "url": "https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "OOWEE",
+      "url": "https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "GO WITH THE GHOST",
         "url": "https://open.spotify.com/album/3PpbucB0CCYMdTvJThYsvf"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 176822,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "OOWEE",
-        "url": "https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "OOWEE",
-      "url": "https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Saved You Too",
         "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Revive",
-        "url": "https://open.spotify.com/album/16JL6rDC3VCsKJkIciBXUP"
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
       },
       "artists": [
         {
-          "name": "Anthony Evans",
-          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 236785,
-      "name": "1000 Names",
-      "url": "https://open.spotify.com/track/740a4rwTRLEUTRP0Z1iwVL"
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -459,6 +443,22 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Revive",
+        "url": "https://open.spotify.com/album/16JL6rDC3VCsKJkIciBXUP"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        }
+      ],
+      "duration_ms": 236785,
+      "name": "1000 Names",
+      "url": "https://open.spotify.com/track/740a4rwTRLEUTRP0Z1iwVL"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -595,58 +595,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Keeper Of My Soul",
-        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
-      },
-      "artists": [
-        {
-          "name": "Earnest Pugh",
-          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "Keeper Of My Soul",
-      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "Back To Life (Studio Version)",
-        "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 253077,
-      "name": "Back To Life - Studio Version",
-      "url": "https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "FIND MY WAY",
         "url": "https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5"
       },
@@ -667,6 +615,58 @@
       "duration_ms": 110030,
       "name": "FIND MY WAY",
       "url": "https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 162403,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Keeper Of My Soul",
+        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
+      },
+      "artists": [
+        {
+          "name": "Earnest Pugh",
+          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Keeper Of My Soul",
+      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Back To Life (Studio Version)",
+        "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 253077,
+      "name": "Back To Life - Studio Version",
+      "url": "https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD"
+      },
+      "artists": [
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        }
+      ],
+      "duration_ms": 169717,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "Affirmations",
         "url": "https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 337013,
       "name": "Grace (feat. Kierra Sheard-Kelly)",
       "url": "https://open.spotify.com/track/0tXgfxKBnI3iDI6GaDRrIk"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD"
-      },
-      "artists": [
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        }
-      ],
-      "duration_ms": 169717,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "What?",
+        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
+      },
+      "artists": [
+        {
+          "name": "Reece Lache",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "RICH",
         "url": "https://open.spotify.com/album/5P1RmCAG4yB80keglreodA"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 162427,
       "name": "RICH",
       "url": "https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "What?",
-        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
-      },
-      "artists": [
-        {
-          "name": "Reece Lache",
-          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 168777,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "God Is In Control",
         "url": "https://open.spotify.com/album/4C7meepdyNlG0wpTrtKVEv"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 234296,
       "name": "God Is In Control",
       "url": "https://open.spotify.com/track/2Yd7rRnjUY83VkSLFaPL0k"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 168777,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
       },
       "artists": [
         {
-          "name": "Jered Sanders",
-          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
-        },
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 184238,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy"
+      "duration_ms": 186713,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Optimistic",
-        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        },
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 186713,
-      "name": "Optimistic",
-      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
+      "duration_ms": 184238,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "ONE OF THE FEW",
-        "url": "https://open.spotify.com/album/3ZQR5JU6dLNAvYdG3dO4N9"
-      },
-      "artists": [
-        {
-          "name": "Linga TheBoss",
-          "url": "https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "STRAPPED",
-      "url": "https://open.spotify.com/track/5DznFcDLV51dLDVaMnn52j"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Love Never Ceases",
         "url": "https://open.spotify.com/album/1ynz0uyMCzkHlhHfLP3sUf"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 189850,
       "name": "Love Never Ceases",
       "url": "https://open.spotify.com/track/02Vpti3pbDxqyv7mUnMa6h"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "ONE OF THE FEW",
+        "url": "https://open.spotify.com/album/3ZQR5JU6dLNAvYdG3dO4N9"
+      },
+      "artists": [
+        {
+          "name": "Linga TheBoss",
+          "url": "https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "STRAPPED",
+      "url": "https://open.spotify.com/track/5DznFcDLV51dLDVaMnn52j"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "Dirty Floors (feat. 1K Phew)",
         "url": "https://open.spotify.com/album/5VTcnQWUHhdgZ7l27WVUBX"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 183333,
       "name": "Dirty Floors (feat. 1K Phew)",
       "url": "https://open.spotify.com/track/3EjvAB058d2NB9d1FBAiKF"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "My Worship",
-        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "My Worship",
-      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "RADICAL",
+        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172027,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6Kz4gt4CBJyjveJic1hB5X"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "God Of My Dreams",
         "url": "https://open.spotify.com/album/76mWJMAuLvCwzG7i4AJbLT"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 178360,
       "name": "God Of My Dreams",
       "url": "https://open.spotify.com/track/0iCoAvCGdcS8il7ZcGvCop"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "RADICAL",
-        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172027,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6Kz4gt4CBJyjveJic1hB5X"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "It's You",
-        "url": "https://open.spotify.com/album/6aS85jgNXuGFYN190ytedS"
-      },
-      "artists": [
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        }
-      ],
-      "duration_ms": 135819,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/401iOVzoxC7ZhhrwP2zh9h"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "The Prodigal Son",
         "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 190295,
       "name": "Safe",
       "url": "https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/6aS85jgNXuGFYN190ytedS"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "duration_ms": 135819,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/401iOVzoxC7ZhhrwP2zh9h"
     },
     {
       "added_at": "2024-03-20 10:43:05",

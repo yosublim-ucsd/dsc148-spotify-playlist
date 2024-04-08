@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 26721,
+  "num_followers": 26740,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjRjYTUwMjQ3MmFkYWRmNDBkOTg0NDc5ZTAyMTlkMDQ1NTU5YWZm",
+  "snapshot_id": "MCxjNjdiZTIzMWM5NGIyZTEwMjllMTY1MDU2NzZmYzZmMWI4ODVhNjg2",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Crossroads - Live",
-      "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Somebody Loan Me A Dime (Remastered)",
         "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 176747,
       "name": "Somebody Loan Me A Dime - Remastered",
       "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Crossroads - Live",
+      "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "A Hard Road",
         "url": "https://open.spotify.com/album/160euwnzg8f0oSEz3on32Z"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 176040,
       "name": "The Super-Natural",
       "url": "https://open.spotify.com/track/2DVswRuJlXu4QiZQfOoIx7"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Blow By Blow",
-        "url": "https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Freeway Jam",
-      "url": "https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Rio Grande Mud",
         "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 440946,
       "name": "Sure Got Cold After the Rain Fell",
       "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Blow By Blow",
+        "url": "https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Freeway Jam",
+      "url": "https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i"
     },
     {
       "added_at": "2020-10-21 20:41:20",

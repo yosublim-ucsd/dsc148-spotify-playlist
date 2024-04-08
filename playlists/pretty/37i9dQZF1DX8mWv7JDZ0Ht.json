@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Jovem Dionisio",
-  "num_followers": 434808,
+  "num_followers": 434813,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGM3ODRhY2I1ZDUyN2MyYzczYmVhZjAwNTBhYmIyNGNhN2NhNjAz",
+  "snapshot_id": "MCw4OGExMzY1MTU1ZTQ2ZGFjMmViYWNhMTcwZjM3ZTgxMmQwZDQ4MzUx",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "calma na alma",
-        "url": "https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV"
-      },
-      "artists": [
-        {
-          "name": "Tat\u00ed F\u00e9rrer",
-          "url": "https://open.spotify.com/artist/5Rjyy1rpExPBXrzgp0LRCT"
-        },
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 149285,
-      "name": "calma na alma",
-      "url": "https://open.spotify.com/track/3FSjdHh5YSZsC9Czb1mdit"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Vida + leve",
         "url": "https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 178023,
       "name": "Vida + leve",
       "url": "https://open.spotify.com/track/4dK3vpH7f9q8PHLfSp1qhb"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "calma na alma",
+        "url": "https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV"
+      },
+      "artists": [
+        {
+          "name": "Tat\u00ed F\u00e9rrer",
+          "url": "https://open.spotify.com/artist/5Rjyy1rpExPBXrzgp0LRCT"
+        },
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 149285,
+      "name": "calma na alma",
+      "url": "https://open.spotify.com/track/3FSjdHh5YSZsC9Czb1mdit"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "putz",
-        "url": "https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 108307,
-      "name": "putz",
-      "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 138688,
       "name": "Camomila",
       "url": "https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "putz",
+        "url": "https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 108307,
+      "name": "putz",
+      "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Eu N\u00e3o Gosto De Voc\u00ea",
         "url": "https://open.spotify.com/album/2khNdKDOcnbwH2mKP2oKVx"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 152952,
       "name": "Todo Azul",
       "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
     },
     {
       "added_at": "2024-03-29 03:00:00",

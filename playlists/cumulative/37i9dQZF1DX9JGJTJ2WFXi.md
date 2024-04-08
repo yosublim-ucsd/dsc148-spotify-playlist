@@ -4,7 +4,7 @@
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-112 songs - 5 hr 23 min
+114 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [396hz Releases Guilt and Fear](https://open.spotify.com/track/0oXRLeSJ1XT0xzDOIutVP7) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:25 | 2023-09-21 |  |
 | [396hz Removes Fear and Guilt](https://open.spotify.com/track/0BdQgRPDwUXXoU6V1txE6x) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 3:43 | 2023-09-21 |  |
 | [Arcada 396 Hz](https://open.spotify.com/track/6IkTdW9RpWCbIYNBQekWZd) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [Arcada 396 Hz](https://open.spotify.com/album/5P3B4PLt3F0T7ypVgcGWpC) | 2:47 | 2023-08-07 |  |
+| [Ardonium Glare 396Hz](https://open.spotify.com/track/3LnO5f7vSFC4Uf4OGZ25Tb) | [Agatha Köhler](https://open.spotify.com/artist/38H9BsCVVPxjtC24Gm6Yer) | [Ardonium Glare 396Hz](https://open.spotify.com/album/2GCn0NiEtLukdSKzsr8bhd) | 2:33 | 2024-04-07 |  |
 | [Based \(396 Hz\)](https://open.spotify.com/track/54d4UtYO5uMG8fseGswgo5) | [Mindezer](https://open.spotify.com/artist/7ob7fE7T9MFx8x6YvaxStb) | [Based](https://open.spotify.com/album/2DOyA3Xp9D4rPwCmxnt79N) | 3:29 | 2023-09-28 |  |
 | [Beginnings 396 Hz](https://open.spotify.com/track/3Mwv16vRPUXI0zq6CId5R2) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Beginnings 396 Hz](https://open.spotify.com/album/3VvxL9vVrEcJjvy8jW5f1Z) | 2:37 | 2023-03-10 |  |
 | [Blue Sinus 396 hz](https://open.spotify.com/track/1oWjDRlkhE6ikWp7NblkoG) | [Fables From Mars](https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW) | [Blue Sinus](https://open.spotify.com/album/3TnvcL3axNy2n0tz84D84p) | 2:44 | 2023-03-10 |  |
@@ -117,6 +118,7 @@
 | [Sanctuaire \- 396 Hz](https://open.spotify.com/track/4uYqVRHyipvWNrvCSTsWrW) | [Enormousness](https://open.spotify.com/artist/7H1K6r71caJTKrd0oFLYN2) | [Sanctuaire](https://open.spotify.com/album/7ziZCzsvTqnc9PzFX4YhUy) | 2:32 | 2023-03-10 |  |
 | [secure 396 Hz](https://open.spotify.com/track/6kuj6CzQ7yHrbLowd0X7Dq) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:03 | 2023-03-10 |  |
 | [Solfeggio Symmetry 396 Hz](https://open.spotify.com/track/0mC64f2FjjnJb6Zun1ZwtM) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Symmetry 396 Hz](https://open.spotify.com/album/1ZF740ON7OBSI6pz43E6Vd) | 2:33 | 2023-03-10 |  |
+| [Sthir 396 Hz](https://open.spotify.com/track/1Jn647F7ZEOooJ3nJbYT8p) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Sthir 396 Hz](https://open.spotify.com/album/1yZ8vUUivjzU6tj23UODFM) | 2:51 | 2024-04-07 |  |
 | [Svatantrata 396 Hz](https://open.spotify.com/track/4emZsm0rmS8KUIyj9r5loL) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Svatantrata 396 Hz](https://open.spotify.com/album/4jMDjeaF1MFW6LlzaOJp0J) | 3:02 | 2023-03-10 |  |
 | [The color dream 396hz](https://open.spotify.com/track/44Qvr732lrHR4vQZMujltu) | [Facade Defile](https://open.spotify.com/artist/3TJ7biywcGxSgx94B7d1mN) | [The color dream 396hz](https://open.spotify.com/album/3mf7y9oKjnaJsJ9e1P9KXj) | 2:39 | 2023-03-10 |  |
 | [Uplifted 396 Hz](https://open.spotify.com/track/4BrLK5DUcjY82L2LpEIma0) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Solfeggio Frequencies](https://open.spotify.com/album/4k65ABwRNV6ZKDbNwqcd5n) | 2:04 | 2023-03-10 |  |

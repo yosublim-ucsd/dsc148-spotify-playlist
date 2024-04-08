@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 3282,
+  "num_followers": 3305,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjkzZjQ0YzQwOGFlZWMzM2JkNTA3ZjhjODkxZWQ1ZmJjM2M3M2U4",
+  "snapshot_id": "MCwyZTEzMTFhMmYzYjE4NmVjMGYxNDU2NTNkY2UxN2NmMmM5MWFhOGUy",
   "tracks": [
     {
       "added_at": "2024-01-10 16:06:35",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "BREAK IT IN A BAR",
-        "url": "https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd"
-      },
-      "artists": [
-        {
-          "name": "Graham Barham",
-          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
-        }
-      ],
-      "duration_ms": 219303,
-      "name": "BREAK IT IN A BAR",
-      "url": "https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Na Na Na",
         "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 100122,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "BREAK IT IN A BAR",
+        "url": "https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "duration_ms": 219303,
+      "name": "BREAK IT IN A BAR",
+      "url": "https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Wana",
-        "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
-      },
-      "artists": [
-        {
-          "name": "nour",
-          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Wana",
-      "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/5N8NVRBbCenIoCO2QMjdNT"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 208965,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/2hn11FTEwM9YrJyz3XnU5M"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Wana",
+        "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
+      },
+      "artists": [
+        {
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Wana",
+      "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "The CARR Show",
         "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 149106,
       "name": "Spiral City",
       "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Stone Killer",
-        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
-      },
-      "artists": [
-        {
-          "name": "26fix",
-          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Stone Killer",
-      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 242580,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Stone Killer",
+        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
+      },
+      "artists": [
+        {
+          "name": "26fix",
+          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Stone Killer",
+      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "Erotic Probiotic 2",
+        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "Erotic Probiotic 2",
-        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Best Case Girl",
-        "url": "https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu"
-      },
-      "artists": [
-        {
-          "name": "Beeson",
-          "url": "https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Best Case Girl",
-      "url": "https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Looking At Me",
         "url": "https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 192461,
       "name": "Looking At Me",
       "url": "https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Best Case Girl",
+        "url": "https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu"
+      },
+      "artists": [
+        {
+          "name": "Beeson",
+          "url": "https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Best Case Girl",
+      "url": "https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0"
     },
     {
       "added_at": "2024-01-10 16:06:35",

@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-114 songs - 6 hr 28 min
+115 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 | 2022-06-06 | 2023-10-13 |
 | [High](https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx) | [Artin Pro](https://open.spotify.com/artist/2LMyimxq7nl4YIHsPd6Vou), [Ronie On Dis One](https://open.spotify.com/artist/1ffsHhD3TNYdqWhT0gZeZk) | [High](https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE) | 3:10 | 2022-06-06 |  |
 | [Hold On](https://open.spotify.com/track/2m310ptnkUrI39sdNQjwcs) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [JdM Officiall](https://open.spotify.com/artist/2AoAtbPPpR9DsmiQwrQpq9), [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG) | [Hold On](https://open.spotify.com/album/32vyKRiiUI07Mqd0KEKL5f) | 3:40 | 2023-11-16 |  |
-| [Holiday](https://open.spotify.com/track/6Xil25LAkeXS8t7zuX9bCq) | [Tarley](https://open.spotify.com/artist/6MCgwpWIJKz02C8kHTNFXr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Holiday](https://open.spotify.com/album/5gjFDaBgK7t5vlqWljQmCs) | 3:20 | 2023-01-20 |  |
+| [Holiday](https://open.spotify.com/track/4sHA0Zenr4FSOcTle2Qd7d) | [Tarley](https://open.spotify.com/artist/6MCgwpWIJKz02C8kHTNFXr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Holiday](https://open.spotify.com/album/6BntsiXqMKSczNRqng2WVQ) | 3:20 | 2024-03-01 |  |
+| [Holiday](https://open.spotify.com/track/6Xil25LAkeXS8t7zuX9bCq) | [Tarley](https://open.spotify.com/artist/6MCgwpWIJKz02C8kHTNFXr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Holiday](https://open.spotify.com/album/5gjFDaBgK7t5vlqWljQmCs) | 3:20 | 2023-01-20 | 2024-04-08 |
 | [Hurt](https://open.spotify.com/track/3bJbYh6uvG3QpIyF8TqCHl) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/0aw1zSvHaoF4RWSlrh8onc) | 3:23 | 2023-09-07 |  |
 | [Hurt](https://open.spotify.com/track/5SlEAgY8J6pPRIIeNnrOi5) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/2lcx1HhjTeD4ftYvY6oBii) | 3:23 | 2023-02-10 | 2023-10-12 |
 | [I am an African Girl \- Let Her Know Remix](https://open.spotify.com/track/3LM0vvNxz70Hn8ZClSZuw0) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Ife](https://open.spotify.com/artist/5WiC6YMFHUEPrD5p1KBRUn), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [I am an African Girl \(Let Her Know Remix\)](https://open.spotify.com/album/4yhSNfpElmAk8g1bn9ULuN) | 4:15 | 2022-06-06 | 2023-10-13 |

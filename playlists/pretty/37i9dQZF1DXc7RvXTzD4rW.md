@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 雨宮天 \(Sora Amamiya\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,331 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,329 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [夢現、夏風薫る](https://open.spotify.com/track/5btlspRyO7f9Zvbiosu0KN) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [夢現、夏風薫る](https://open.spotify.com/album/54cPWGbDrhtKQ6p7idmprT) | 4:30 |
 | 50 | [The Advent of Don Quixote](https://open.spotify.com/track/6iqVJcBn3edRWY3KZdqsCz) | [Sae Otsuka](https://open.spotify.com/artist/5GRsTGu3LNc4NlgG5Osobv) | [The Advent of Don Quixote](https://open.spotify.com/album/2YLyEuTB9lIaK06S0CEVOA) | 4:21 |
 
-Snapshot ID: `MCw1ZjNiNzk5YjI5ZTA0Y2RjNGVjN2ViMjBmYWFhNjIyNDNiOWMwODUy`
+Snapshot ID: `MCxhMTU3ZGY0OWI4ZDY0Yjk4OTc2NDk3YWY1MTJkZDIwOGJmMjcyNjE5`

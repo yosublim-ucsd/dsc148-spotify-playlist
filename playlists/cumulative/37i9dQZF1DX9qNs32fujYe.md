@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: FLAT BLACK
 
-823 songs - 2 day 12 hr 52 min
+824 songs - 2 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Filth Upon Filth](https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 2:53 | 2022-07-08 |  |
 | [Filth Upon Filth](https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Filth Upon Filth](https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF) | 2:53 | 2022-07-08 | 2022-08-15 |
 | [Flames of Death](https://open.spotify.com/track/6tVBNgAnRuMzeptqFFlwFs) | [Gomorra](https://open.spotify.com/artist/4pR239AgGpMKJosbKZXsLv) | [Flames of Death](https://open.spotify.com/album/44Sf0IWt8DVpa0iuhe883w) | 4:31 | 2022-01-07 | 2022-04-20 |
-| [Flying Whales](https://open.spotify.com/track/6SJ2LK3yMdGzC4AEcXJZo4) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY) | 7:44 | 2022-08-26 |  |
+| [Flying Whales](https://open.spotify.com/track/6SJ2LK3yMdGzC4AEcXJZo4) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY) | 7:44 | 2022-08-26 | 2024-04-08 |
 | [For All](https://open.spotify.com/track/1vcY5TSpuiiEPWArqn7wIQ) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [For All](https://open.spotify.com/album/2hkCeycrUERP2LabySZ1Hj) | 5:23 | 2021-12-17 | 2022-07-29 |
 | [For No Reason](https://open.spotify.com/track/03vyanFcfUmZAwsZC5Ni1S) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [For No Reason](https://open.spotify.com/album/6a2JPdIQjb9egT8EI492OO) | 4:44 | 2021-12-17 | 2022-07-13 |
 | [Force Majeure](https://open.spotify.com/track/4w6GKkwtaw8x5MQ3l3cPPn) | [Gus G.](https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O), [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Force Majeure](https://open.spotify.com/album/5eTz3POhcf7hVr2kh47dP0) | 3:59 | 2021-12-17 | 2022-07-23 |
@@ -778,6 +778,7 @@
 | [Waterfall](https://open.spotify.com/track/5lOcFmoLpiS6rtjSWgdbVJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Waterfall](https://open.spotify.com/album/6uJesMZ71FKsNbP3cXfFKJ) | 4:04 | 2021-12-17 | 2022-07-24 |
 | [Wavery](https://open.spotify.com/track/3gDn9Om6fPNJ11NILNA4gF) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Wavery](https://open.spotify.com/album/2To1jRQY2oGoja537Bwyls) | 4:40 | 2022-03-22 | 2022-04-02 |
 | [We Are One](https://open.spotify.com/track/2FBxZwXS9VKhMLxlhXFeOB) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6), [Das Musikkorps Der Bundeswehr](https://open.spotify.com/artist/0agPYBlcfHEbiSny1txfL4) | [We Are One](https://open.spotify.com/album/6nDAJj7PlcJ5kscFuU4pr5) | 4:43 | 2021-12-17 | 2022-04-20 |
+| [We Are Shadows](https://open.spotify.com/track/6ykA2AhyjoTLOr3NGPrx1J) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [We Are Shadows](https://open.spotify.com/album/66HvNHY2hAekIj2vByK1a3) | 3:35 | 2024-04-05 |  |
 | [We Are the Fire](https://open.spotify.com/track/04I8CtevYCYmQeTrre9CZC) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [We Are the Fire](https://open.spotify.com/album/0mtaaHGtukgLeUHa41VDGy) | 3:35 | 2021-12-17 | 2022-07-29 |
 | [We Are What We Are](https://open.spotify.com/track/7xgeLOrFheKF2yPqiLmjU8) | [Lion's Share](https://open.spotify.com/artist/4yIytMmJ2tx30YdMAMkDSo) | [We Are What We Are](https://open.spotify.com/album/6TE3LXZkzsAHDPuTo8YRww) | 4:12 | 2021-12-17 | 2022-05-25 |
 | [We Come Alive](https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [We Come Alive](https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI) | 3:01 | 2024-01-26 |  |

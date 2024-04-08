@@ -1,12 +1,12 @@
 {
   "description": "Holiday bangers + pop bangers = a perfect holiday party!",
-  "num_followers": 23811,
+  "num_followers": 23809,
   "original_name": "Holiday Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWI3MTM1M2NkN2MwYzMwMjZlOGY1NWVjODU0NDU3NjQ1ZjkwNjcw",
+  "snapshot_id": "MCw5YjVkYmJjYzMwYjgzZjFjYjM0ZjZhYmU5NzBiMTA2ZjgyN2RhODli",
   "tracks": [
     {
       "added_at": "2023-12-22 23:13:51",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-12-22 23:13:51",
       "album": {
-        "name": "Love?",
-        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 284866,
-      "name": "On The Floor",
-      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2023-12-22 23:13:51",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-12-22 23:13:51",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
     },
     {
       "added_at": "2023-12-22 23:13:51",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-12-22 23:13:51",
       "album": {
+        "name": "One Heart",
+        "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "I Drove All Night",
+      "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
+    },
+    {
+      "added_at": "2023-12-22 23:13:51",
+      "album": {
         "name": "Snowman (Sped Up Version)",
         "url": "https://open.spotify.com/album/4ZGx4gR1GCT5i5zOHsRX6T"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 137578,
       "name": "Snowman - Sped Up Version",
       "url": "https://open.spotify.com/track/3BwbSLW4YtIGkhCNFsHu52"
-    },
-    {
-      "added_at": "2023-12-22 23:13:51",
-      "album": {
-        "name": "One Heart",
-        "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "I Drove All Night",
-      "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
     }
   ],
   "unique_name": "Holiday Party",

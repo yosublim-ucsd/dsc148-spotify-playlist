@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 125105,
+  "num_followers": 125181,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yjk1NDI0M2ZiZTE4NTJhMDNmZjU1OTM1Yzg5NGU1OGIxNDY2Mjkw",
+  "snapshot_id": "MCxmYWJmNGM5YTMzMGZkYzI4NDU0Zjk3NWRlYTQyZjk1MzI5MzA5YjUz",
   "tracks": [
     {
       "added_at": "2024-03-06 03:39:26",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
-        "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
-        "url": "https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ"
-      },
-      "artists": [
-        {
-          "name": "SAMO ZAEN",
-          "url": "https://open.spotify.com/artist/4DW2hW7UeUenUJo7MUWEQl"
-        }
-      ],
-      "duration_ms": 232511,
-      "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
-      "url": "https://open.spotify.com/track/1usEdJo0r9qk2gcnvx7bTr"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
         "name": "Ya Bakhty Beh",
         "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 195535,
       "name": "Ya Bakhty Beh",
       "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
+        "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
+        "url": "https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ"
+      },
+      "artists": [
+        {
+          "name": "SAMO ZAEN",
+          "url": "https://open.spotify.com/artist/4DW2hW7UeUenUJo7MUWEQl"
+        }
+      ],
+      "duration_ms": 232511,
+      "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
+      "url": "https://open.spotify.com/track/1usEdJo0r9qk2gcnvx7bTr"
     },
     {
       "added_at": "2024-03-06 03:39:26",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-03-06 03:39:26",
       "album": {
+        "name": "\u0644\u064a\u0644\u064a",
+        "url": "https://open.spotify.com/album/1k1ipnt0ZtGREruIPdfEe8"
+      },
+      "artists": [
+        {
+          "name": "Nagwan",
+          "url": "https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "\u0644\u064a\u0644\u064a",
+      "url": "https://open.spotify.com/track/32AzhDEGxCBnQOt8EyVqeU"
+    },
+    {
+      "added_at": "2024-03-06 03:39:26",
+      "album": {
         "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
         "url": "https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 191322,
       "name": "Rawa2any",
       "url": "https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2"
-    },
-    {
-      "added_at": "2024-03-06 03:39:26",
-      "album": {
-        "name": "\u0644\u064a\u0644\u064a",
-        "url": "https://open.spotify.com/album/1k1ipnt0ZtGREruIPdfEe8"
-      },
-      "artists": [
-        {
-          "name": "Nagwan",
-          "url": "https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "\u0644\u064a\u0644\u064a",
-      "url": "https://open.spotify.com/track/32AzhDEGxCBnQOt8EyVqeU"
     }
   ],
   "unique_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",

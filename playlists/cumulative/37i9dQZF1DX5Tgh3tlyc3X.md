@@ -4,7 +4,7 @@
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-186 songs - 9 hr 36 min
+187 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Alpha Mind Fields 12Hz](https://open.spotify.com/track/1FoDFD5k9GChv7nC9Sp9QK) | [Sound Calligraphy](https://open.spotify.com/artist/1Zp7nKZPuuLgjoPOeWoXVm) | [Mind Fields](https://open.spotify.com/album/1z9ggktUU722husvf5FCNN) | 4:00 | 2023-11-24 |  |
 | [Alpha Night \(106Hz \- 114Hz\)](https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:12 | 2023-11-24 |  |
 | [Alpha Peace \(93Hz \- 103Hz\)](https://open.spotify.com/track/3sWYDCDKnKsQMzg2J3FJRA) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Alpha Peace \(93Hz \- 103Hz\)](https://open.spotify.com/album/1MPxyaxpP62ZCC9gAy5SHB) | 2:58 | 2024-01-31 |  |
+| [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/track/6Fn4dlKQFkDP421P2IShjC) | [REM](https://open.spotify.com/artist/6FdgwOhDP1kPWChJQqKGA4) | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/album/1pdONj5eMm3maQzqVtNNdV) | 2:50 | 2024-04-07 |  |
 | [Alpha Sine](https://open.spotify.com/track/2ayFHCjDIFtxjnyzDCt1J6) | [SOWE](https://open.spotify.com/artist/4gsiHX6ewD0G96o4sO5wOF) | [Binaural Sleep Beats](https://open.spotify.com/album/7lHKcPjSRQsXDfWKzOrXOp) | 3:25 | 2023-11-24 |  |
 | [Alpha Sinus](https://open.spotify.com/track/5dMfTDcIPnebZk9Opm9GQw) | [Neon Pearl](https://open.spotify.com/artist/2nlnp3ilBaLQqoXychc2cm) | [Binauraal](https://open.spotify.com/album/4Hcb1I7ezgiZu5XJo8ssVU) | 3:12 | 2023-11-24 |  |
 | [Alpha Sinus \- Celestial Oasis \- 130 Hz \-136 Hz](https://open.spotify.com/track/0B0svaukFtvTYwkiRIf1NE) | [FX Sleep Creator](https://open.spotify.com/artist/6YPpB1iVfPRurxJ7fNIevL) | [Alpha Sinus \- Celestial Oasis \- 130 Hz \-136 Hz](https://open.spotify.com/album/2d1LetNfR72VeccUu6u2r9) | 3:18 | 2023-11-24 |  |

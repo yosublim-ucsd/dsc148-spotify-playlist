@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 1232423,
+  "2024-04-08": 1232649,
   "date_first_scraped": "2022-05-30",
   "description": "chipi chipi chapa chapa dubidubi \ud83c\udfb6",
   "name": "Hits de Internet",
@@ -2340,6 +2340,24 @@
     },
     {
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173461,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6"
+    },
+    {
+      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
       },
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K"

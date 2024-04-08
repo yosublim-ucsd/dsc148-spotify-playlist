@@ -6,7 +6,7 @@
     "name": "Sally_e713",
     "url": "https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u"
   },
-  "snapshot_id": "MTExMywwY2MyNzEzNDc0MTFjNjgwOTAzNTc5NDM4NmFjNjNjYzBiNGNlYTFi",
+  "snapshot_id": "MTExNiw5ODFlM2RhNDg1ZDcxZGY2MzExNzY3MWZiMmQzN2YzYWU0NmY5NWQ2",
   "tracks": [
     {
       "added_at": "2022-04-11 12:00:45",
@@ -6699,6 +6699,54 @@
       "duration_ms": 222817,
       "name": "Honey Ain\u2019t No Sweeter",
       "url": "https://open.spotify.com/track/0WUwEHFU368yyh9ShYJZUe"
+    },
+    {
+      "added_at": "2024-04-07 17:07:23",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-04-07 17:08:28",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
+    },
+    {
+      "added_at": "2024-04-07 17:12:42",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     }
   ],
   "unique_name": "main playlist",

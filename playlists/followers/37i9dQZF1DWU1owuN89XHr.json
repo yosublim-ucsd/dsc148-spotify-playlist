@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 273037,
+  "2024-04-08": 273078,
   "date_first_scraped": "2021-12-28",
   "description": "Historias y versos que tocan la piel.",
   "name": "Esenciales Trova",
@@ -399,10 +399,28 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 165160,
       "name": "Buscando un \u00c1ngel",
       "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
+    },
+    {
+      "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/6lIe9K1kb6BBMXHyimpBMN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "date_added": "2021-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165160,
+      "name": "Buscando un \u00c1ngel",
+      "url": "https://open.spotify.com/track/6WvMIrL19C6NagMzPdbxnU"
     },
     {
       "album": {
@@ -1693,10 +1711,28 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 170813,
       "name": "Los Grillos",
       "url": "https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh"
+    },
+    {
+      "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/6lIe9K1kb6BBMXHyimpBMN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "date_added": "2021-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170813,
+      "name": "Los Grillos",
+      "url": "https://open.spotify.com/track/4zYdP9uCEjZ0Ww4v7wL2PJ"
     },
     {
       "album": {

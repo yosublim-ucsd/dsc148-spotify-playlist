@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,922 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,966 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 21 | [Dschungelparty](https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9) | [Giraffenaffen Gang](https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv) | [Nö mit Ö](https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V) | 3:05 |
 | 22 | [Kleine Meise](https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:28 |
 | 23 | [Der Mai, der Mai, der lustige Mai](https://open.spotify.com/track/1FzrqPhsuTzoPNw0cVhtuy) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Kinderfrühling](https://open.spotify.com/album/60hOaInymmfKbZXFARP70V) | 2:58 |
-| 24 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
-| 25 | [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 |
+| 24 | [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 |
+| 25 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
 | 26 | [La Bamba](https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:45 |
 | 27 | [Vogelhochzeit](https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG) | [Jasmin Wagner](https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 2:28 |
 | 28 | [Alle Vögel sind schon da](https://open.spotify.com/track/6ShcsLKki4wuy1LIfilCvz) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederbüchermaus](https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS) | 1:48 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 38 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 |
 | 39 | [Bunte Blumen auf der Wiese](https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Frühlingsspaß und Osterhas](https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ) | 2:26 |
 | 40 | [Kuckuck, kuckuck ruft's aus dem Wald](https://open.spotify.com/track/7LRcMwbgLyt3YBguwZcKNw) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder 3](https://open.spotify.com/album/2Z1IZ5uLBTXFTrW4E38fsU) | 2:26 |
-| 41 | [Der Frühling hat sich eingestellt](https://open.spotify.com/track/6CtgiSvOrfxfNc76pY7RgI) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 2:10 |
-| 42 | [Kunterbunte Jahreszeiten](https://open.spotify.com/track/3f1o3xCeuyP7WDnfOlprgQ) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kunterbunte Jahreszeiten](https://open.spotify.com/album/5fmCT5pOmaEcdWuAvvnS8a) | 3:10 |
+| 41 | [Kunterbunte Jahreszeiten](https://open.spotify.com/track/3f1o3xCeuyP7WDnfOlprgQ) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kunterbunte Jahreszeiten](https://open.spotify.com/album/5fmCT5pOmaEcdWuAvvnS8a) | 3:10 |
+| 42 | [Der Frühling hat sich eingestellt](https://open.spotify.com/track/6CtgiSvOrfxfNc76pY7RgI) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 2:10 |
 | 43 | [Das Schneeglöckchen](https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu) | [Katharina Blume](https://open.spotify.com/artist/0TlcU6fYXkRWNSENlFSl4Y), [Christian König](https://open.spotify.com/artist/6Dgp0ZVwXyJx6M0Na3jTLK) | [Die 40 besten Fingerspiel\-Lieder](https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq) | 1:06 |
 | 44 | [Frühlingslied](https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt) | [Unser Sandmännchen](https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ) | [015/Abends im Walde](https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI) | 2:03 |
 | 45 | [Dann ist der Frühling da! \(Fröhliches Kinderlied zum Frühling\)](https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Frühlingslieder: Schöne Kinderlieder zum Frühling](https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5) | 5:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Summ, summ, summ](https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder](https://open.spotify.com/album/4gDvWioaiyrWrSmAWxLf6t) | 2:16 |
 | 50 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 |
 
-Snapshot ID: `MCxiOWU4NWEyODljZWZmYWFkZTI0MzRmYmQ0YzdkOWY3ZDg3ZjQ1Yjhh`
+Snapshot ID: `MCw5OTExZTExMmUyMDhhMWMyNmRkZDg1ZmZjZmQ3ZTdkODhhZDYzMDgx`

@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 55025,
+  "num_followers": 55091,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Njg0MDMzZjc2OWU3YjExNTY0YzE5ZWE5NjY4Njc5YWZlN2E1ZmJh",
+  "snapshot_id": "MCxlMDM1MTU0YzQyYmJiYTAzODEwMGEzNjYwMGE4YmMzOTRhNzk2NDQz",
   "tracks": [
     {
       "added_at": "2024-02-23 17:22:55",
@@ -283,22 +283,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "El Valiente",
-        "url": "https://open.spotify.com/album/3T0VfR68lFdvzrr9VpwDSA"
+        "name": "Extendiendo Territorio",
+        "url": "https://open.spotify.com/album/1iIFWzYl7LPIK0wzQm3Q2s"
       },
       "artists": [
         {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
         }
       ],
-      "duration_ms": 186413,
-      "name": "El Valiente",
-      "url": "https://open.spotify.com/track/5XDLUnGv37XHGzYLuxoGD3"
+      "duration_ms": 191101,
+      "name": "Con Cartitas y Palabras",
+      "url": "https://open.spotify.com/track/3NMa0TPVcWwHlYgTryHXpV"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -367,18 +363,22 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Extendiendo Territorio",
-        "url": "https://open.spotify.com/album/1iIFWzYl7LPIK0wzQm3Q2s"
+        "name": "El Valiente",
+        "url": "https://open.spotify.com/album/3T0VfR68lFdvzrr9VpwDSA"
       },
       "artists": [
         {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 191101,
-      "name": "Con Cartitas y Palabras",
-      "url": "https://open.spotify.com/track/3NMa0TPVcWwHlYgTryHXpV"
+      "duration_ms": 186413,
+      "name": "El Valiente",
+      "url": "https://open.spotify.com/track/5XDLUnGv37XHGzYLuxoGD3"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "De Parranda Con Jorge Garcia",
-        "url": "https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa"
-      },
-      "artists": [
-        {
-          "name": "Los Player's de Tuzantla",
-          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
-        }
-      ],
-      "duration_ms": 219985,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "15 \u00c9xitos Flechadores",
         "url": "https://open.spotify.com/album/5jTc61gfXoEWR0BIxBpipj"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 169406,
       "name": "Suerte He Tenido",
       "url": "https://open.spotify.com/track/64LbugQLMBjEBG7KLeP77k"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "De Parranda Con Jorge Garcia",
+        "url": "https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "duration_ms": 219985,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Aceptalo Ya !",
-        "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
-      },
-      "artists": [
-        {
-          "name": "Los Canarios De Michoacan",
-          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "No Se Vivir",
-      "url": "https://open.spotify.com/track/2juNjmS81xsJUOFJFop3QX"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "La Bestia Del Cuento",
         "url": "https://open.spotify.com/album/6S98fKolA6NR4RykVCZAGR"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 215551,
       "name": "Te Cedo Mis Derechos",
       "url": "https://open.spotify.com/track/56vDgRq8PJv3lA0RfnJte6"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Aceptalo Ya !",
+        "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
+      },
+      "artists": [
+        {
+          "name": "Los Canarios De Michoacan",
+          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "No Se Vivir",
+      "url": "https://open.spotify.com/track/2juNjmS81xsJUOFJFop3QX"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Aguilar",
-        "url": "https://open.spotify.com/album/4g8YPdnxDXOkpXXvrLyVhx"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 202875,
-      "name": "Aguilar",
-      "url": "https://open.spotify.com/track/6tHi4fd8R9248pT7w050Un"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 165305,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Aguilar",
+        "url": "https://open.spotify.com/album/4g8YPdnxDXOkpXXvrLyVhx"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 202875,
+      "name": "Aguilar",
+      "url": "https://open.spotify.com/track/6tHi4fd8R9248pT7w050Un"
     }
   ],
   "unique_name": "Tierra Caliente",

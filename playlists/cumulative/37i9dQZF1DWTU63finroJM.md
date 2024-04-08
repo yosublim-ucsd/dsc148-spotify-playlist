@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Shego.
 
-1,291 songs - 2 day 23 hr 12 min
+1,293 songs - 2 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Getcho Mans](https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Brightside](https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ) | 3:31 | 2022-03-21 | 2022-05-14 |
 | [Ghaba](https://open.spotify.com/track/4Zpg4neFtdTJJF4wsrTJRa) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:04 | 2022-03-24 | 2022-04-14 |
 | [Ghareeb Alay](https://open.spotify.com/track/4GX5Ukz0p1N1bKjzbDWtVB) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:55 | 2022-03-24 | 2022-04-14 |
+| [Ghost](https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Ghost](https://open.spotify.com/album/20B86iJjjECtzJ77XlfHsn) | 3:15 | 2024-04-05 |  |
 | [GIAYPHUT](https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ) | [GIAYPHUT](https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH) | 3:25 | 2023-05-30 | 2024-03-09 |
 | [Ginger](https://open.spotify.com/track/28pvMnRZKNiqz6xgBBMkr2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/54OkOlGIXztDx8OzcRiPh4) | 3:22 | 2023-01-20 | 2023-10-06 |
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2022-02-10 | 2022-12-15 |
@@ -413,6 +414,7 @@
 | [Hands Up](https://open.spotify.com/track/5fuxO5L5H6XfM4EELBludo) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [Hands Up](https://open.spotify.com/album/5Do2RA9wBpEplcVhebv6xH) | 4:19 | 2022-03-24 | 2022-05-08 |
 | [Hanggang sa Huli](https://open.spotify.com/track/3FGbfm2NLfCgdDXZTyUDVp) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hanggang sa Huli](https://open.spotify.com/album/4Yjs5ZMEZVyMxivzPfjjsl) | 4:49 | 2022-02-03 | 2022-09-16 |
 | [Happier](https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Happier](https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL) | 3:17 | 2024-03-15 |  |
+| [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 | 2024-04-05 |  |
 | [Happy Birthday](https://open.spotify.com/track/5Hs4s5CLgXlFEFe1M3cdKg) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Happy Birthday](https://open.spotify.com/album/7yeVTWzr0IeAso9hQSZ5LQ) | 2:54 | 2022-02-03 | 2022-12-15 |
 | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL) | 3:04 | 2022-03-17 | 2022-12-15 |
 | [happy\. \(feat\. 釈迦坊主\)](https://open.spotify.com/track/5PGzaMTTlI9gaIbrculk9i) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Shaka Bose](https://open.spotify.com/artist/2T7vRIAvrUUUKATk6IcZma) | [happy\. \(feat\. 釈迦坊主\)](https://open.spotify.com/album/0MEILgYBxCWp4aEMEyyxHI) | 5:00 | 2022-03-10 | 2022-04-02 |
@@ -489,7 +491,7 @@
 | [IL FUMO UCCIDE](https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [IL FUMO UCCIDE](https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU) | 3:05 | 2023-04-12 | 2023-10-06 |
 | [Il primo bacio](https://open.spotify.com/track/3sVvrJKdQaAtwb1fa3l0k2) | [CARA](https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf) | [Il primo bacio](https://open.spotify.com/album/2UDIENylKUApKJKnXOn3SG) | 3:00 | 2022-02-10 | 2022-02-25 |
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2022-03-24 | 2022-08-02 |
-| [imagining things](https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Antes](https://open.spotify.com/album/4IM58QyeajXORQpQQzn0tk) | 2:47 | 2024-02-09 |  |
+| [imagining things](https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Antes](https://open.spotify.com/album/4IM58QyeajXORQpQQzn0tk) | 2:47 | 2024-02-09 | 2024-04-08 |
 | [IMMA LIAR](https://open.spotify.com/track/49IX3KVi9QmelCBp9iIUIc) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [IMMA LIAR](https://open.spotify.com/album/4kinMZv8wlwWMXHZrV049m) | 2:51 | 2023-10-11 | 2024-01-27 |
 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 | 2022-03-24 | 2022-04-17 |
 | [In Control](https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [In Control](https://open.spotify.com/album/6rfcQP2rywiV6reYrP9LOJ) | 3:10 | 2022-04-07 | 2022-04-20 |
@@ -775,7 +777,7 @@
 | [Orange Tesla](https://open.spotify.com/track/0tmFNAIsrnli1x30ZqpoFo) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [James2007](https://open.spotify.com/album/4q5JKAFC1VlamWMF455Lok) | 6:22 | 2022-03-24 | 2022-04-21 |
 | [Orgin](https://open.spotify.com/track/2FJMptVYofJpm46H3hC46I) | [Edison Song](https://open.spotify.com/artist/0oZJQjSMqH0BRibttDsySO) | [End of Circle](https://open.spotify.com/album/6YkeSnXBMBlNNasBfvryHe) | 0:54 | 2022-02-10 | 2022-08-02 |
 | [Our Generation](https://open.spotify.com/track/1roYgx49UczOY2NEZlPpp7) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [6 Piętro](https://open.spotify.com/album/2llfsuT6ghCYpu5UxWh9fL) | 2:56 | 2022-03-24 | 2022-08-02 |
-| [Outrun This Feeling](https://open.spotify.com/track/5pI9tVNPYhWrxBwV1IlfV8) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Selfishly Inclined](https://open.spotify.com/album/4HHcKYbeDmOFaY0R0xHJge) | 2:56 | 2024-03-15 |  |
+| [Outrun This Feeling](https://open.spotify.com/track/5pI9tVNPYhWrxBwV1IlfV8) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Selfishly Inclined](https://open.spotify.com/album/4HHcKYbeDmOFaY0R0xHJge) | 2:56 | 2024-03-15 | 2024-04-08 |
 | [Over](https://open.spotify.com/track/3y7NPDRKRJx6xTEOXKs7Gu) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:29 | 2022-02-10 | 2022-08-02 |
 | [Over Now](https://open.spotify.com/track/19VskVnejF7oVZPDXgWjeK) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Tide Pool](https://open.spotify.com/album/2zagOQicdXPVl65hpGJu43) | 3:27 | 2022-02-10 | 2023-01-21 |
 | [Over the Sea](https://open.spotify.com/track/0yxq8tWNMnEuVLrubXpZuW) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Over the Sea](https://open.spotify.com/album/5zXNaA05GSxZmvfAtBqltq) | 3:21 | 2022-09-08 | 2023-05-31 |

@@ -927,6 +927,42 @@
     },
     {
       "album": {
+        "name": "Blind Tune",
+        "url": "https://open.spotify.com/album/0uiDhffUcPAkdIczseRhv8"
+      },
+      "artists": [
+        {
+          "name": "Relax Pod",
+          "url": "https://open.spotify.com/artist/6jCMK9NdirCmIkjZRRfsJg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201034,
+      "name": "Blind Tune",
+      "url": "https://open.spotify.com/track/5SPTC386a3gUGz333b4S8X"
+    },
+    {
+      "album": {
+        "name": "Blissful Breeze",
+        "url": "https://open.spotify.com/album/2BVKx1soGE44pXFTj2EXkn"
+      },
+      "artists": [
+        {
+          "name": "Aurora Novara",
+          "url": "https://open.spotify.com/artist/01Yy0uR2H9jYuImGLmMi70"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Blissful Breeze",
+      "url": "https://open.spotify.com/track/5mEstebX16SCW56WWnEluW"
+    },
+    {
+      "album": {
         "name": "Blissful Mind",
         "url": "https://open.spotify.com/album/2YK0j5hggZEpf4Lb0w2V0T"
       },
@@ -1496,7 +1532,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 156793,
       "name": "Deep Steadiness",
       "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
@@ -2934,7 +2970,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 142019,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T"
@@ -4072,6 +4108,24 @@
       "duration_ms": 171504,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1pGHWehHrHz09Ehjwtl3DG"
+    },
+    {
+      "album": {
+        "name": "Oasis of Stillness",
+        "url": "https://open.spotify.com/album/1sx8HA77okp1MVy45u6vkR"
+      },
+      "artists": [
+        {
+          "name": "Saga Lotus",
+          "url": "https://open.spotify.com/artist/5RwXzQeQAqiSEcXHxmhFn9"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Oasis of Stillness",
+      "url": "https://open.spotify.com/track/1CPN7WGamNNxLhZTJVlW89"
     },
     {
       "album": {
@@ -5224,7 +5278,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 195306,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"

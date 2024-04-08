@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,853 likes - 123 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,926 likes - 123 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 122 | [Country House](https://open.spotify.com/track/2DOxC6AdXlSeUrsgWKuX4X) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Locked Up](https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv) | 3:34 |
 | 123 | [För mycket för ett huve som ditt](https://open.spotify.com/track/1NTk9TCMG6cWnD1RkrUa0M) | [Wilmer X](https://open.spotify.com/artist/6yT4ID0YITwJKB9KOiZ41t) | [Fem på handen](https://open.spotify.com/album/20N3kqaYXZsx6nxxrodYi9) | 3:40 |
 
-Snapshot ID: `MCxjOWMxNjVkMmYzODg0YjM2NmQwMzg3OTYwYTdjNjg1MDY2YWM3YmU0`
+Snapshot ID: `MCwyZGJjZmUxZjU1MDNmMTE0NTVhMGM1ZThkMzgwODQwM2MwNGJiMDIw`

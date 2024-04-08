@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Boston Manor
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,437 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,554 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [As a Brother](https://open.spotify.com/track/4StOaN23EXEUt2RaCK3xId) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Deep In Denial](https://open.spotify.com/album/6cysZ8y35sWkZSDZ3oS249) | 3:16 |
 | 50 | [Best Kept Secret](https://open.spotify.com/track/11qNkUEcGwYv08mjgNkfpN) | [Finding Aurora](https://open.spotify.com/artist/5cg6ycryqQJewFOqeffsC0) | [Best Kept Secret](https://open.spotify.com/album/5sLb8EDv4egWeGOFzDohlS) | 3:28 |
 
-Snapshot ID: `MCxhYzMyZjM4M2I1ZTEwNmFlZGUzOGM0N2U5MTJlYzQ1ZWFhYjEzNmQ3`
+Snapshot ID: `MCwwZDI3YjQ0OTU0ZjljOTg2YWI3ZTJmY2I5N2JmZGM0MmYyZDU4ZmZl`

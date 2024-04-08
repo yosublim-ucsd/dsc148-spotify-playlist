@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Víkingur Ólafsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,420 likes - 89 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,542 likes - 89 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 88 | [Assaggio per violino solo in G Minor, BeRI 320: III.](https://open.spotify.com/track/2UFwMZxbVLOe0oKqcGpNDE) | [Johan Helmich Roman](https://open.spotify.com/artist/7fmuw46A73YYDDI1AV6KZd), [Fabio Biondi](https://open.spotify.com/artist/3r1dphXjVBOwbUAYrrkEkQ) | [Johan Helmich Roman: Assaggio per violino solo in G Minor, BeRI 320: III.](https://open.spotify.com/album/20pPbls4W2Bcjs5ndYa2mL) | 1:32 |
 | 89 | [Enstantaneler: 1, Fishermen pulling the Nets](https://open.spotify.com/track/6mY5d60WuosFzzZxGHkMMB) | [Cemal Reşit Rey](https://open.spotify.com/artist/495NIslNdqYhDuveHFO6H8), [Howard Griffiths](https://open.spotify.com/artist/6htlEU4z5WGJCDAkOFGGDq), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY) | [Cemal Reşit Rey: Enstantaneler \- Fishermen pulling the Nets](https://open.spotify.com/album/3zvlY60cLyROohr9Yg1K2e) | 2:22 |
 
-Snapshot ID: `MCwxMjU2MmQ0MzQwNjA4MzQ4MTQ0M2Y0NzQ0OGRiNDcxZTkyY2MxNjAy`
+Snapshot ID: `MCwxMDJiOGY3YThmOTI1ZmU5MzIxNTQzYTI1ZGVjNWQwMjIzNGFkZWRm`

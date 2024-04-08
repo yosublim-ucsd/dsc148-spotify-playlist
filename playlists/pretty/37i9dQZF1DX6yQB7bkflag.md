@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Camila Cabello
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,246 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,257 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [Menentukan Pilihan \(feat\. Oslo Ibrahim\)](https://open.spotify.com/track/3swsQmpaXe8Px6VymVmMFF) | [OKAAY](https://open.spotify.com/artist/0qeOMneLDwmcxGM2CuFnfq), [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Menentukan Pilihan \(feat\. Oslo Ibrahim\)](https://open.spotify.com/album/7ChSqRVhx7YvFSrbemx5DV) | 4:54 |
 | 100 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
 
-Snapshot ID: `MCw5OWJhN2RhZjU3N2YyOTQ1Y2RjMjUyYTNjODFlNDQ3ZDRjOGFhMTI5`
+Snapshot ID: `MCw5OGQzNWI3ZWFmOWEwYzRhMDU3NThmMzMzZTA4NGQxYWUwOWFkNDJm`

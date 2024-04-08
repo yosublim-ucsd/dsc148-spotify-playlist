@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWPvraqd9Z2.md) - [plain]
 
 > Actress and activist Shakina Nayfack shares interviews with some of her favorite trans artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 552 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCw2MjU4NzcyNzE4YWIzZTNhMmM2MjZjZjc0OTlkZTdiN2M4MGQ4YWQz`
+Snapshot ID: `MCw5YjVkZDgwYzk2MzU2ODA1MzQ3NjdhZGM2ZmJhNjU4Yjc5N2E4MDQ1`

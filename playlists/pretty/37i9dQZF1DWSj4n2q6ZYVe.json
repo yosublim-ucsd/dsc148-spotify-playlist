@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 475480,
+  "num_followers": 475853,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmYyNzhhNmMxODg4MGM0NDRhNDA4NGY2NWEyZjBlMTc4MWJjNTQ2",
+  "snapshot_id": "MCw5MTQ4M2EyOTdiY2ViODFlMGU5MzBiZjI0NTA3NDM4NDExYTMyNDIz",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Where's Your Head At",
-      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 218533,
       "name": "D\u00e9senchant\u00e9e",
       "url": "https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Where's Your Head At",
+      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Jumping All Over The World",
+        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 228821,
+      "name": "Jumping All Over The World",
+      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "No More Idols",
         "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 200600,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/64I0O6ZipYryKte1cHA2EY"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Jumping All Over The World",
-        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 228821,
-      "name": "Jumping All Over The World",
-      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "La Roux",
-        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "In For The Kill",
-      "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Just a Little More Love",
         "url": "https://open.spotify.com/album/78M16AQffV0YUfvseg60MT"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 216893,
       "name": "Love Don't Let Me Go",
       "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "La Roux",
+        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "In For The Kill",
+      "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 194072,
-      "name": "Will I Ever",
-      "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Pretty Green Eyes (Remixes)",
         "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 201920,
       "name": "Pretty Green Eyes - Radio Edit",
       "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 194072,
+      "name": "Will I Ever",
+      "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"
     },
     {
       "added_at": "2021-04-29 18:40:15",

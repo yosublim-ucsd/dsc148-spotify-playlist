@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-230 songs - 14 hr 17 min
+231 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-04 | 2022-07-29 |
 | [attention \(with Justin Bieber\)](https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:00 | 2022-06-24 |  |
 | [Aura](https://open.spotify.com/track/1zOVZVSzH0mYCriqsI7YeA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/3LM98l3bBn6ygO1hqJOEVX) | [Aura](https://open.spotify.com/album/1jE2enGNnAn5cjtsCOCCaw) | 3:49 | 2022-03-25 | 2022-04-20 |
-| [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 | 2022-06-24 |  |
+| [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 | 2022-06-24 | 2024-04-08 |
 | [Automatic Driver \- Tyler, The Creator Remix](https://open.spotify.com/track/59S3SiDxj914oyXd25zt3j) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Automatic Driver \(Tyler, The Creator Remix\)](https://open.spotify.com/album/57PHygGtLqa9kJRE3rUy15) | 3:30 | 2022-03-25 | 2022-04-21 |
 | [Back To You](https://open.spotify.com/track/5kdMBPrJNUjFnT9scCIIZq) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [iamnotshane](https://open.spotify.com/album/3UOa7f8LdL49ghQq1aWHd0) | 2:40 | 2022-03-25 | 2022-04-18 |
 | [Baskets](https://open.spotify.com/track/7mz2szkCG0aTTtUZl1o0DJ) | [The O'My's](https://open.spotify.com/artist/1GQx6SUIHxDC1mRIFIpslD) | [Tomorrow](https://open.spotify.com/album/1T5sNfIOJURWEnHM9o0JQL) | 3:34 | 2022-02-18 | 2022-07-29 |
@@ -85,6 +85,7 @@
 | [Feelin' Alright \(feat\. Reva DeVito\)](https://open.spotify.com/track/0LLKDPlqrAlqgoiMDqkB2D) | [Nick Wisdom](https://open.spotify.com/artist/64lYrmxOvVvuiNyENyf3m3), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Intimate Strangers](https://open.spotify.com/album/4tEm5274iungpgOhCQvkO5) | 5:16 | 2022-03-25 | 2022-07-29 |
 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 | 2022-02-18 | 2024-03-09 |
 | [Flight's Booked](https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:14 | 2022-06-24 |  |
+| [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/4PlbUZ7l0HPZFcTf31hrkt) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/album/0mQZn6mrdeNH6HT0hBmEBF) | 3:20 | 2023-12-08 |  |
 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/69aQw9lS9lhGGnGcuoX5c7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Color Of You \(Remixes\)](https://open.spotify.com/album/61MBQ27mg5uDNDk1ANjPvq) | 3:20 | 2022-03-25 | 2022-04-21 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-20 | 2023-08-04 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-07-28 | 2023-09-28 |

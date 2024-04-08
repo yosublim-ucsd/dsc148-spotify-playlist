@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 125602,
+  "2024-04-08": 125608,
   "date_first_scraped": "2023-10-15",
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. kepa",
   "name": "helium",
@@ -1563,6 +1563,28 @@
       "duration_ms": 164949,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/1Hh5UHY9n7YMySDJUBe4xO"
+    },
+    {
+      "album": {
+        "name": "Fuera de CTRL",
+        "url": "https://open.spotify.com/album/5JgmjLXuyWeW1r4BarnIAt"
+      },
+      "artists": [
+        {
+          "name": "Faxu",
+          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
+        },
+        {
+          "name": "Albert Rei",
+          "url": "https://open.spotify.com/artist/3Ys59AxzZx9UN6o6Q9yyw3"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157971,
+      "name": "Fuera de CTRL",
+      "url": "https://open.spotify.com/track/3uM9fKZ84dMCPHA4PW7Xsf"
     },
     {
       "album": {
@@ -4257,7 +4279,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 194560,
       "name": "TE MISSEO",
       "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"

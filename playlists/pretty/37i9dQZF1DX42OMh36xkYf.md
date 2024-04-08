@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Elsa y Elmar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,435 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,443 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 25 | [Cómo Te Hago Entender](https://open.spotify.com/track/0uPbJDwoDa065Os4rxUNRj) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Cómo Te Hago Entender](https://open.spotify.com/album/2Cj7bkDQI88H1TmrBaL3Km) | 3:45 |
 | 26 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 |
 | 27 | [A Prin](https://open.spotify.com/track/2oZRlaE3JJj0Fz11FK7Wyb) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [A Prin](https://open.spotify.com/album/69821qvQzaxlTdymYUylgB) | 2:52 |
-| 28 | [Red Hot Chile Papers](https://open.spotify.com/track/6e5OMnekNGplphCr01YK7q) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Don Cupón](https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1) | [Red Hot Chile Papers](https://open.spotify.com/album/6l1q4am1kKUk0AihwVDKca) | 4:46 |
+| 28 | [Red Hot Chile Papers](https://open.spotify.com/track/1SJLKKDmjYCCwN9BBlF1de) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Don Cupón](https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1) | [Red Hot Chile Papers](https://open.spotify.com/album/47Sx53fP4z05fpf5RPsm1s) | 4:46 |
 | 29 | [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 |
 | 30 | [Paradisco](https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Paradisco](https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h) | 3:53 |
 | 31 | [Porcelana](https://open.spotify.com/track/7BUGFriDT5M1MSMlPq9HrZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Porcelana](https://open.spotify.com/album/1k9GvNL7iei4Id3OnKcSbu) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [Get Down](https://open.spotify.com/track/3OrNw2UkMV8NI2hk5tDr5U) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Get Down](https://open.spotify.com/album/6rcOUZ2u6fVjuY6oxn8x2h) | 2:38 |
 | 50 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 |
 
-Snapshot ID: `MCxiZWU2NzlhZTBhOGI5ZTUwOTRkZTdkMGE4ZjMyZTg1NDUyODgyMDNi`
+Snapshot ID: `MCwwYjYzOWMxYjY4ZjczN2ZlYWRiNjAzNzFkOWI3ODJiMDM4NDY3NWIw`

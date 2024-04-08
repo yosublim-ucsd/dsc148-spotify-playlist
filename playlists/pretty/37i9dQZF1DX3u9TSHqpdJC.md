@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Micah McLaurin\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,707 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,750 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 2 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 |
 | 3 | [PIECES](https://open.spotify.com/track/7qU6AyK1fDMYOXNHlUlJmJ) | [Galli J](https://open.spotify.com/artist/6nIJkiCwmXxSvzrlJ0qLcW) | [PIECES](https://open.spotify.com/album/4FAg2FITtsq4hf0lUHFxd5) | 2:58 |
 | 4 | [Needed Love](https://open.spotify.com/track/0OuehVqol8rMwwjqM3QwIY) | [Trinity Lake](https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs) | [Needed Love](https://open.spotify.com/album/1qP913cFxOOxrD86hBDCeP) | 3:11 |
-| 5 | [crowd pleaser](https://open.spotify.com/track/3g7L6qhsAhZfAAFHfYvnAo) | [TEHYA](https://open.spotify.com/artist/2lsVHmwl9NmHi84ecLnCS8) | [crowd pleaser](https://open.spotify.com/album/7s1MWuMTwRKcOLGwAQ9Ezl) | 2:34 |
+| 5 | [crowd pleaser](https://open.spotify.com/track/3g7L6qhsAhZfAAFHfYvnAo) | [TEHYA](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [crowd pleaser](https://open.spotify.com/album/7s1MWuMTwRKcOLGwAQ9Ezl) | 2:34 |
 | 6 | [Understatement](https://open.spotify.com/track/57jENaZ0ZEqxIRwEDCm63R) | [Maryon](https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV) | [Understatement](https://open.spotify.com/album/2dmcrQEI5C8AVNTdrcAaNw) | 2:31 |
 | 7 | [Directions](https://open.spotify.com/track/2Np85vuU5afD0yvi7cfl4r) | [Emma Rosen](https://open.spotify.com/artist/540pn6wxgwVQHPuIgTdyzC) | [Directions](https://open.spotify.com/album/49xouspXNkB6RuO5B7LV81) | 3:27 |
 | 8 | [is this as good as it gets?](https://open.spotify.com/track/6T67uQrMBlD7uc8QcQroD2) | [chasing luma](https://open.spotify.com/artist/7gu7zV4EPRuD1gVQgFtsFH) | [is this as good as it gets?](https://open.spotify.com/album/1RbqmWFJRz8ZBZWVrS2hpr) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [wreck](https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8) | [wreck](https://open.spotify.com/album/2RS3dR9XAsMRbglQ6azUT9) | 3:14 |
 | 100 | [Sinister](https://open.spotify.com/track/5g3VLhRVLUpWJghanBJkMm) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Sinister](https://open.spotify.com/album/2kOKgoaflXbstlzKnc9V7T) | 2:57 |
 
-Snapshot ID: `MCxmY2E2ZjMwOTE3ODk1ZTc0M2UxNzYxY2M0NTVmOTJhZGFlZTlkNWRl`
+Snapshot ID: `MCwzOGRmNGUxOTg2ZGM5ZGFiMmExMDRmMjM3M2QzYjAwMDRjNDJjMDYw`

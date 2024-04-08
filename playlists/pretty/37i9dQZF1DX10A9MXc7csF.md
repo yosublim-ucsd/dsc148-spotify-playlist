@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Clave Especial
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,447 likes - 84 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,573 likes - 84 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 83 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/6QmMlo0DoQdnHFqmLV3wvm) | [Noe Bojorquez](https://open.spotify.com/artist/1GqAf9O49xz1ztxvcNr6Cu) | [Estos Tragos Van Por Ti](https://open.spotify.com/album/4ToqmCMDq4eKdz9cpMuiue) | 2:44 |
 | 84 | [Miro La Luna](https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Miro La Luna](https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9) | 2:06 |
 
-Snapshot ID: `MCw0MDFmNmRjN2I3ODU0ZTAyNTdmMTI0YWNkZTk2OWIzOTI0MjdkOTIw`
+Snapshot ID: `MCw3YzhlOTExMjI2ZGU5ZjQ0ODYyZDVhYzRlZGIyYTc0YjdiNDE2YmQ0`

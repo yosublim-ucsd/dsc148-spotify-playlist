@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-914 songs - 1 day 11 hr 33 min
+915 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 | 2022-07-29 | 2023-11-17 |
 | [Breathe](https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/5ZUdrgtFWsHUlKf1y0QF7Z) | 2:14 | 2022-07-15 | 2022-07-29 |
 | [Brief](https://open.spotify.com/track/6caIcf9eRI7X8wHp7GeWNZ) | [Tuva Sersh](https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk) | [Brief](https://open.spotify.com/album/6atjEq08QMtLbB8PKqQQKl) | 2:22 | 2024-02-09 |  |
+| [bro, I got this](https://open.spotify.com/track/0N2rxpezHCsA5GnlGJGunk) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [bro, I got this](https://open.spotify.com/album/7ziI4iKKqgzM6QwUhp5HZD) | 2:06 | 2024-03-22 |  |
 | [Buck Stop](https://open.spotify.com/track/59pbhakI7VpgKLB3J9r7gO) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [Buck Stop](https://open.spotify.com/album/1wep5cvBwgCQlWZJYtqUEU) | 2:21 | 2024-03-08 |  |
 | [Buena Vista](https://open.spotify.com/track/3s3cLWqJtfAUgCZQOtpFLw) | [Doctor Gosso & the Samplers](https://open.spotify.com/artist/1evlSNsQeX4LimNdMSrNRu), [Telica](https://open.spotify.com/artist/2535WOR5wDMhBYz4yReLMc) | [Buena Vista](https://open.spotify.com/album/7aMySGhfU7O2JzlvjO1jXl) | 2:16 | 2022-04-15 | 2023-10-13 |
 | [Building](https://open.spotify.com/track/6OZ3MPodudMKFDndMrvGiT) | [Aywee Tha Seed](https://open.spotify.com/artist/2YAav0Cd12Zf7fh1cQYi62) | [Building](https://open.spotify.com/album/0qhJu9J9ui5YTqjahdXQ3s) | 1:21 | 2022-06-24 | 2022-07-08 |
@@ -636,7 +637,7 @@
 | [Rick\-O\-Sound](https://open.spotify.com/track/1hykmH0Tr8ao62xPybCU23) | [Larry Dee](https://open.spotify.com/artist/71FCXGwLKwJQVGkffEzj64) | [Rick\-O\-Sound](https://open.spotify.com/album/6LCa4rH3grc82U3uGDsn9e) | 2:11 | 2022-04-15 | 2023-11-24 |
 | [rideon](https://open.spotify.com/track/30nQLDjbXKJL52DZUqjEKD) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [rideon](https://open.spotify.com/album/18MND2KM0MzMk9DRTiRqnM) | 2:29 | 2022-04-15 | 2022-07-29 |
 | [river](https://open.spotify.com/track/1Dp2tG4TB0StQ7N2b4ZM85) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [river](https://open.spotify.com/album/6r8swcvvedkHutO8AKvGl1) | 2:19 | 2023-11-17 |  |
-| [Roadburn](https://open.spotify.com/track/0ml0Y7IL5qTJfpUryOtRNi) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Roadburn](https://open.spotify.com/album/2xPOhvwY818VV26vDAbomV) | 1:44 | 2023-04-03 |  |
+| [Roadburn](https://open.spotify.com/track/0ml0Y7IL5qTJfpUryOtRNi) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Roadburn](https://open.spotify.com/album/2xPOhvwY818VV26vDAbomV) | 1:44 | 2023-04-03 | 2024-04-08 |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 |  |
 | [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 |  |
 | [Rooftop](https://open.spotify.com/track/4YLtJCjDkmw5dAbVuxpy7v) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Rooftop](https://open.spotify.com/album/5OOYTWekc4Zw1uQWvz9v0l) | 2:26 | 2022-04-15 | 2023-09-22 |

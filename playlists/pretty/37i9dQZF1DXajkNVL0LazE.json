@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 93960,
+  "num_followers": 94026,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDkyYTMyY2JlNThjYWZmZDBlYzM0YzI4NTg0Nzg1ZWM4YWYxZTU0",
+  "snapshot_id": "MCw2MmJjNGRiMmYzZDQzZTg5YzlkZmJhNTE1ZDNiMGUxN2M5M2Q1MWNi",
   "tracks": [
     {
       "added_at": "2024-03-25 16:58:35",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Post-War",
         "url": "https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 238600,
       "name": "Chinese Translation",
       "url": "https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Distance and Time",
         "url": "https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 272440,
       "name": "This Is The Thing",
       "url": "https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -815,38 +815,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Boxer",
-        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Fake Empire",
-      "url": "https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
-        "name": "Sky Blue Sky",
-        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Impossible Germany",
-      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Peaceful, The World Lays Me Down",
         "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
       },
@@ -859,6 +827,22 @@
       "duration_ms": 214920,
       "name": "5 Years Time",
       "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Boxer",
+        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Fake Empire",
+      "url": "https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -891,6 +875,22 @@
       "duration_ms": 214733,
       "name": "I Wish I Was the Moon",
       "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Sky Blue Sky",
+        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Impossible Germany",
+      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
+        "name": "Lookaftering",
+        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 135440,
+      "name": "If I Were",
+      "url": "https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS"
       },
@@ -1587,34 +1603,18 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Destroyer's Rubies",
-        "url": "https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii"
+        "name": "The Trials of Van Occupanther",
+        "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
       },
       "artists": [
         {
-          "name": "Destroyer",
-          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
         }
       ],
-      "duration_ms": 250013,
-      "name": "Painter in Your Pocket",
-      "url": "https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
-        "name": "Lookaftering",
-        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 135440,
-      "name": "If I Were",
-      "url": "https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5"
+      "duration_ms": 291640,
+      "name": "Young Bride",
+      "url": "https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU"
     }
   ],
   "unique_name": "00s Indie Folk",

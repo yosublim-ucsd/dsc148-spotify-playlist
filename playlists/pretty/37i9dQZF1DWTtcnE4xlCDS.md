@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,710 likes - 167 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,744 likes - 167 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 166 | [Badbye Goodbye](https://open.spotify.com/track/6HcpkY8PosCL1ePjIDcuG2) | [Bellemule](https://open.spotify.com/artist/3qHNZZTUee8CsSsCzcpTwP), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx) | [DOK](https://open.spotify.com/album/0l9rO8bsq0d2R4245r26C6) | 3:16 |
 | 167 | [Shinsaibashi Alien](https://open.spotify.com/track/3nGrSa5WsmfwcrHGnLLbcE) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Ema Toramaru\(CV:Lico\)](https://open.spotify.com/artist/1m17WhfxtZQM6cAWm39Pls), [Neri Amemura\(CV:Noa\)](https://open.spotify.com/artist/1TjKP4MnolLxJoNYVOdzNj), [Momoko Shoji\(CV:Mone\)](https://open.spotify.com/artist/15LoBou1qK3BPd0RaQk1Vr) | [Shinsaibashi Alien](https://open.spotify.com/album/2ZDfiN3EFQmcixv5WAwZnS) | 3:10 |
 
-Snapshot ID: `MCxkOWMwZjA3NTdkNmQ2YmZiZmNhNjQ1YTRmY2RmYTgyNmVmNzczOGMw`
+Snapshot ID: `MCwxMDQ0NDZiNGUxMWY1MWQwN2NhMmZjMmUxZDA1ZGJmMWRiNDhmN2Vl`

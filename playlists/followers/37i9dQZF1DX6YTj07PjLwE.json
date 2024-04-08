@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 192405,
+  "2024-04-08": 192488,
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.",
   "name": "Deep Dive: 90s Rock",
@@ -2271,7 +2271,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "Distant Sun",
       "url": "https://open.spotify.com/track/4oh6NKtMdiXIhgGGQBR09b"
@@ -2505,7 +2505,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 223880,
       "name": "Drain You",
       "url": "https://open.spotify.com/track/5Ddlk6C2JVxb1SReZ6O1wk"
@@ -8205,7 +8205,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 217173,
       "name": "Serve The Servants",
       "url": "https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi"
@@ -8799,7 +8799,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 198573,
       "name": "Something Changed",
       "url": "https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA"

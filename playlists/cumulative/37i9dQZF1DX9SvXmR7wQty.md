@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ariane Roy
 
-2,426 songs - 5 day 9 hr 34 min
+2,427 songs - 5 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Danser](https://open.spotify.com/track/6jFQdmWsFYbVC2D305dOik) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Solstice](https://open.spotify.com/album/0LrWKEX0dz4489hqkPdD5S) | 3:03 | 2023-07-14 | 2023-09-10 |
 | [Danser avec nobodé](https://open.spotify.com/track/3CMRjg9kIbzfwuiBfCNegZ) | [Bermuda](https://open.spotify.com/artist/7jIZ4xeHqq7ZJzhsHlorTe) | [Danser avec nobodé](https://open.spotify.com/album/6wnxZ6Ryr5oL4gcJtt7RPx) | 3:16 | 2022-08-19 | 2022-09-03 |
 | [Danser avec toi](https://open.spotify.com/track/2xKh3u2hY4vb4tZTp8mTDu) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/433KYyQhv0BPTEjsZIKQTO) | 3:46 | 2022-09-09 | 2022-09-24 |
+| [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-05 |  |
 | [DBD](https://open.spotify.com/track/56w3BkZjlr0KXzCqJiQkfm) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [DBD](https://open.spotify.com/album/2hbQVixIQE1V4kashw9Q2P) | 2:05 | 2024-02-02 | 2024-02-10 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-02-04 | 2022-02-19 |
 | [De l'autre côté](https://open.spotify.com/track/2Z0ObzjhgPxZ3UwNgCCCxb) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [De l'autre côté](https://open.spotify.com/album/1Vlp18zkHHRi1q85BBAnKb) | 2:49 | 2022-03-25 | 2022-04-09 |
@@ -1525,7 +1526,7 @@
 | [Mouvement](https://open.spotify.com/track/1OMxix5qxrog3smi3VFlsB) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Mouvement](https://open.spotify.com/album/4xbmykkN4gsVSyc53UiOQK) | 3:35 | 2022-12-02 | 2023-01-14 |
 | [Mozart](https://open.spotify.com/track/45SCJksvCasAR13KwqIaMa) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Mozart](https://open.spotify.com/album/5zN46qQTWi8V9FFXJfZWCG) | 2:55 | 2022-03-04 | 2022-03-18 |
 | [MPC 2021](https://open.spotify.com/track/55zbh8DTg1np6DCJnxEcCG) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV), [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [MPC 2021](https://open.spotify.com/album/1bBcT6TlDJlof1zgYYrwWs) | 2:42 | 2022-01-21 | 2022-02-05 |
-| [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-03-22 |  |
+| [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-03-22 | 2024-04-08 |
 | [Murciélago](https://open.spotify.com/track/4XZyPSlpUW0HrpYOcFJFZX) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Murciélago](https://open.spotify.com/album/2my4wNL1hk75yFIJgVljIl) | 2:53 | 2022-09-23 | 2022-10-08 |
 | [Muse moderne](https://open.spotify.com/track/4iS3ce7pX3SIAce7HCphwp) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Muse moderne](https://open.spotify.com/album/58IvNx2ap9UuKs80RDO7zz) | 3:45 | 2022-10-28 | 2022-11-12 |
 | [MVP](https://open.spotify.com/track/2dG5OE5ofzkluh4V9A2RFz) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [MVP](https://open.spotify.com/album/3V2mdAG4obVY4Rz1LuKvIo) | 2:28 | 2023-08-11 | 2023-08-19 |

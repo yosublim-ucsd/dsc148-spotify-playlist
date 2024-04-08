@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 52205,
+  "num_followers": 52262,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzVhM2JkNWRiOTc4YWQzNzdjOTY2OGRjZWFjYzY4M2IyNDdhZmI2",
+  "snapshot_id": "MCxlYWNmMzQzZTA1MGY0MWU0Y2NmM2JhNmJhZTcyYjQ1OWM1MWU5NDdm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 190065,
-      "name": "Dirty Work",
-      "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Music From Big Pink (Remastered)",
         "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 274493,
       "name": "The Weight - Remastered 2000",
       "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 190065,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -479,8 +479,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Top",
-        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
+        "name": "Until Death Call My Name (Reloaded)",
+        "url": "https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 151248,
-      "name": "Kacey Talk",
-      "url": "https://open.spotify.com/track/1SF8piqsZWn86DajVKih8F"
+      "duration_ms": 163566,
+      "name": "Through the Storm",
+      "url": "https://open.spotify.com/track/7bOlOJHn9IOaXX7IwaK905"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -635,8 +635,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Until Death Call My Name (Reloaded)",
-        "url": "https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800"
+        "name": "Top",
+        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 163566,
-      "name": "Through the Storm",
-      "url": "https://open.spotify.com/track/7bOlOJHn9IOaXX7IwaK905"
+      "duration_ms": 151248,
+      "name": "Kacey Talk",
+      "url": "https://open.spotify.com/track/1SF8piqsZWn86DajVKih8F"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+        "name": "Man On The Moon II: The Legend Of Mr. Rager",
+        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Heart Of The City (Ain't No Love)",
-      "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
+      "duration_ms": 210586,
+      "name": "Mojo So Dope",
+      "url": "https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Man On The Moon II: The Legend Of Mr. Rager",
-        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 210586,
-      "name": "Mojo So Dope",
-      "url": "https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn"
+      "duration_ms": 223240,
+      "name": "Heart Of The City (Ain't No Love)",
+      "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
     },
     {
       "added_at": "2022-10-01 16:00:00",

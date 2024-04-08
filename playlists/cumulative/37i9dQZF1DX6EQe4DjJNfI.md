@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: HODARI, Urias
 
-207 songs - 10 hr 31 min
+208 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Roupa de Ontem](https://open.spotify.com/track/1JLgTEDJJTUawSFGwAKLyI) | [Krupinsk](https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S) | [Roupa de Ontem](https://open.spotify.com/album/6MnjJgPNn494q1ODleBV0s) | 4:38 | 2024-02-02 |  |
 | [Roupa de Ontem](https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl) | [Krupinsk](https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S) | [Roupa de Ontem](https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa) | 4:38 | 2022-11-18 | 2024-02-16 |
 | [Santa Melanina](https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB) | [Santa Melanina](https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT) | 2:21 | 2023-07-14 | 2024-03-30 |
-| [Santa Melanina](https://open.spotify.com/track/0NJsI7WZrZtuCyuxkU4tjc) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Fases Vol\. 1](https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG) | 2:21 | 2024-03-29 |  |
+| [Santa Melanina](https://open.spotify.com/track/0NJsI7WZrZtuCyuxkU4tjc) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Fases Vol\. 1](https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG) | 2:21 | 2024-03-29 | 2024-04-08 |
+| [Santa Melanina](https://open.spotify.com/track/3NvElkpBIy1toS8vAVoaBP) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Santa Melanina](https://open.spotify.com/album/5LPiSmZzHte8avVEBkK7al) | 2:21 | 2024-04-05 |  |
 | [se você quiser](https://open.spotify.com/track/5C8J4qf8MCeOSvS2ugi0SB) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [se você quiser](https://open.spotify.com/album/2fih7VtIuRrmh7M16jKulE) | 3:44 | 2023-07-21 | 2024-03-30 |
 | [Sei Lá](https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sei Lá](https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ) | 2:24 | 2023-04-21 | 2023-08-26 |
 | [SEM BARULHO](https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [SEM BARULHO](https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh) | 2:42 | 2023-05-12 |  |

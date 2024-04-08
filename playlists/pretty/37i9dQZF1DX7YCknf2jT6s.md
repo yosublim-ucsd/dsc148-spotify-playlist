@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Kamasi Washington
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,599 likes - 100 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,849 likes - 100 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Fortify](https://open.spotify.com/track/0oD4SYLAvCK5PI38bUK2jc) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Fortify](https://open.spotify.com/album/74mZzqkL5nvDDyBGbyMX0g) | 5:49 |
 | 100 | [early](https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 3:56 |
 
-Snapshot ID: `MCw5ZTdkNWU1OTVkNjczMWM1NGIwZjdhM2Q5MzM5NjIwYTZjZGM1OTNm`
+Snapshot ID: `MCw5MTJkYzljNTI3N2NlMWUyMmY1ZjYyM2Q0MmMzZGQ3YTlhNjhkZDY2`

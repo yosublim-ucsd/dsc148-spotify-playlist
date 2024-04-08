@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Los Mejores Duetos del A\u00f1o",
+        "url": "https://open.spotify.com/album/7terMn7qIuU20lfQidPPQY"
+      },
+      "artists": [
+        {
+          "name": "Saul Viera El Gavilancillo",
+          "url": "https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69"
+        },
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156709,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/6HU6CPW530Rx4mQJShfviL"
+    },
+    {
+      "album": {
         "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
         "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
       },

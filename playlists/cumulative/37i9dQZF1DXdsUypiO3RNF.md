@@ -4,7 +4,7 @@
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-81 songs - 3 hr 37 min
+84 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [639 Hz Beginning](https://open.spotify.com/track/5O3OpZk3AwQ3GVVXXLf5HT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [639 Hz Sound Bath for Yoga and Meditation](https://open.spotify.com/album/1zDA8KKrzmG5Z5gop4YzpG) | 2:36 | 2023-08-07 |  |
 | [639 Hz Connectivity](https://open.spotify.com/track/1r2SpKKPyueqs8Pl1FDoNa) | [Free Floaticity](https://open.spotify.com/artist/3E6TFl4kLJ3KG3oQJ4OdKh) | [639 Hz Connectivity](https://open.spotify.com/album/7iyC6R4UlbrFSEye8PyknH) | 2:45 | 2023-03-10 |  |
 | [639 Hz Dream Sequence](https://open.spotify.com/track/4rdBbXpduqE14WnYfUQP6r) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [639 Hz Sound Bath for Yoga and Meditation](https://open.spotify.com/album/1zDA8KKrzmG5Z5gop4YzpG) | 3:16 | 2023-08-07 |  |
+| [639 Hz Empathic Soundscape](https://open.spotify.com/track/6xOL5TQziZNGFrkeBnWoj4) | [Alexander Brinkman](https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M) | [639 Hz Empathic Soundscape](https://open.spotify.com/album/0Uunjmq01Xrln9ptmMi6dW) | 2:27 | 2024-04-07 |  |
 | [639 Hz Environment Communication](https://open.spotify.com/track/5eHHAilXCHepFuUldE2UEg) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Reconnection](https://open.spotify.com/album/4d7nXul9yQTDRhXFGry3EL) | 2:55 | 2023-03-10 |  |
 | [639 Hz Frequency for Truth](https://open.spotify.com/track/7nB2tKukAMBqF8FS0RWsvM) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [639 Hz Frequency for Truth](https://open.spotify.com/album/7qQNw4Qxue0l6agvHbvyAN) | 2:30 | 2023-11-30 |  |
 | [639 Hz Heart Chakra Balance](https://open.spotify.com/track/480IufEnr4Nq0i9YJ0OfcJ) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Oneness](https://open.spotify.com/album/4QLfoHYd8mMaXxYbSwV4OU) | 2:30 | 2023-03-10 |  |
@@ -54,11 +55,13 @@
 | [Compassion](https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY) | [Heart Chakra](https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO) | [Compassion](https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS) | 3:46 | 2023-11-30 |  |
 | [Connections 639 Hz](https://open.spotify.com/track/3Zg95dV0Ydwl80T6UBpHgQ) | [Chaccara](https://open.spotify.com/artist/0aT2mhHdKCh0zGSX7Mp15Q) | [Connections 639 Hz](https://open.spotify.com/album/1GZYbaJpXp3hzpPyd0KnBn) | 2:29 | 2023-03-10 |  |
 | [Consonance of Companionship 639 Hz](https://open.spotify.com/track/17MMku2kks0q31q6knf0C0) | [Sleep Tentacles](https://open.spotify.com/artist/5XmgBXKhW63y3BaSISYNOd) | [Consonance of Companionship 639 Hz](https://open.spotify.com/album/6TWMDAFQsRYYtgeFIsYGTA) | 2:43 | 2024-03-13 |  |
+| [Cordial Cadence of 639 Hz](https://open.spotify.com/track/4FrZwj03PVt09NYBeVHHqg) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [Cordial Cadence of 639 Hz](https://open.spotify.com/album/35a85SPmb4bJwXsLt4zpI1) | 2:53 | 2024-04-07 |  |
 | [Crystal Bowl Frequencies](https://open.spotify.com/track/6d9J5KjEOV5yYkcZWBssnv) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Crystal Bowl Frequencies](https://open.spotify.com/album/1003TZvmVPWaDjSjY7NCdM) | 2:26 | 2023-03-10 | 2023-08-08 |
 | [Dulcet Bonds 639 Hz](https://open.spotify.com/track/10DUuA9GhXolJePYXV2Dt8) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [Dulcet Bonds 639 Hz](https://open.spotify.com/album/49XQWAVdUi43sT87IBhEZk) | 2:48 | 2024-03-13 |  |
 | [elevated mood 639 Hz](https://open.spotify.com/track/41DIXfJhTfvguKD0YLbTlP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 2:51 | 2023-03-10 |  |
 | [Energy Flow](https://open.spotify.com/track/3T21l7ZZBljwSh5ZgfLPd9) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf), [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [639: Love & Harmony](https://open.spotify.com/album/3YZD0YOl2qFJxla8yuw706) | 1:56 | 2023-03-10 | 2023-08-08 |
 | [Evolution](https://open.spotify.com/track/1eqXlGRKI2UtbjwyCBVMrV) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Evolution](https://open.spotify.com/album/2UHo2YD9kTH89ZfWTSpPgv) | 3:05 | 2023-03-10 |  |
+| [Fellowship 639 Hz](https://open.spotify.com/track/3bKgkvvsiCCvJVYHM7MHSz) | [Gerald Kenneth Turner](https://open.spotify.com/artist/4n05fm8bjGyVAFjq9luq4L) | [Fellowship 639 Hz](https://open.spotify.com/album/4HEbqhwHVKhAJAwGMJn7TA) | 2:45 | 2024-04-07 |  |
 | [Find A Path](https://open.spotify.com/track/7uLo6eo2ILMyZ2diKv9iMj) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Find A Path](https://open.spotify.com/album/0zPocc1WiMM4kyPXEF1Wq2) | 4:00 | 2023-03-10 |  |
 | [Floating Through Solfeggio 639 Hz](https://open.spotify.com/track/3RIUXSSUB2WCpgIwaGvtmA) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 2:41 | 2023-03-10 |  |
 | [Glacial Winds 639 Hz](https://open.spotify.com/track/0ak8uQln1Uy5HikQPsP3KN) | [J\. Frasiers](https://open.spotify.com/artist/4iTOmFv2RO11DrLBr9hzKM) | [Glacial Winds 639 Hz](https://open.spotify.com/album/3db9hLLqKCmquvUepZu35M) | 2:00 | 2023-08-07 |  |

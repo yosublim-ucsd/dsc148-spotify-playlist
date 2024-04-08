@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Alpha REM 82 Hz - 92 Hz",
+        "url": "https://open.spotify.com/album/1pdONj5eMm3maQzqVtNNdV"
+      },
+      "artists": [
+        {
+          "name": "REM",
+          "url": "https://open.spotify.com/artist/6FdgwOhDP1kPWChJQqKGA4"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Alpha REM 82 Hz - 92 Hz",
+      "url": "https://open.spotify.com/track/6Fn4dlKQFkDP421P2IShjC"
+    },
+    {
+      "album": {
         "name": "Binaural Sleep Beats",
         "url": "https://open.spotify.com/album/7lHKcPjSRQsXDfWKzOrXOp"
       },

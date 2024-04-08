@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Ando/LolliPop/UnaFoto/Pobre Diabla/Si No Le Contesto/Regalame Una Noche/Perdoname",
+        "url": "https://open.spotify.com/album/2fzj2oipOxriTmgDD2nXuh"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212439,
+      "name": "Ando\u29f8LolliPop\u29f8Una Foto\u29f8Pobre Diabla\u29f8Si No Le Contesto\u29f8Regalame Una Noche\u29f8Perdoname",
+      "url": "https://open.spotify.com/track/76GzWNDpISsfRh91MJJBDW"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/1R35ZqQyMMDZA8q4oMfVAJ"
       },
@@ -11294,7 +11312,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 121290,
       "name": "posta",
       "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"

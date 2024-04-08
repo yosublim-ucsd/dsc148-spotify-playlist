@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,797 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,963 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 15 | [Inolvidable](https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:59 |
 | 16 | [Después de Ti, ¿Quién?](https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:54 |
 | 17 | [Amor Express](https://open.spotify.com/track/2Y5pjQMzAQ5QpBazHrzhqP) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Mi Razón De Ser](https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw) | 3:07 |
-| 18 | [La Número 20](https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 2:48 |
-| 19 | [Perdóname](https://open.spotify.com/track/4kWqIWkEN1XMOMyWo6FN4k) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Mil Heridas](https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk) | 3:32 |
+| 18 | [Perdóname](https://open.spotify.com/track/4kWqIWkEN1XMOMyWo6FN4k) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Mil Heridas](https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk) | 3:32 |
+| 19 | [La Número 20](https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 2:48 |
 | 20 | [El Próximo Viernes](https://open.spotify.com/track/70F4EfjFcXuqdf2nN51P0P) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [El Cantautor del Pueblo](https://open.spotify.com/album/2mqVKf4l1zeWVTu5fV82pu) | 4:10 |
 | 21 | [No Elegi Conocerte](https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 4:14 |
 | 22 | [Ellas Así Son](https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ellas Así Son](https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP) | 3:35 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 82 | [He Bebido](https://open.spotify.com/track/6gLVwXlxgygLPre6PTsKYT) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Hombre](https://open.spotify.com/album/0JgQOB2Xr0s6qa9i0hN7my) | 3:14 |
 | 83 | [Si Me Dieras un Minuto](https://open.spotify.com/track/13hdQ6af8q1jzaz7y91yVF) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Literalmente](https://open.spotify.com/album/3yfJPovIvlchEsO7tbgPky) | 3:11 |
 | 84 | [Opaco Y Sensible](https://open.spotify.com/track/7usBdueYd7WFYWcYxMNTjv) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:30 |
-| 85 | [Belleza Pura](https://open.spotify.com/track/6nn27SuUIvUP6BoCF3wLkC) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Juan Fernando Velasco](https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc) | [Belleza Pura](https://open.spotify.com/album/0Uwwu94n5PorWVnc0fo5Vr) | 3:32 |
-| 86 | [Contacto Cero \(Mariachi\)](https://open.spotify.com/track/3l6CI829WfuY1O32CdgGBY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Contacto Cero \(Mariachi\)](https://open.spotify.com/album/2ARWjieFr7P3ZRfrMYHLXp) | 2:54 |
+| 85 | [Contacto Cero \(Mariachi\)](https://open.spotify.com/track/3l6CI829WfuY1O32CdgGBY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Contacto Cero \(Mariachi\)](https://open.spotify.com/album/2ARWjieFr7P3ZRfrMYHLXp) | 2:54 |
+| 86 | [Belleza Pura](https://open.spotify.com/track/6nn27SuUIvUP6BoCF3wLkC) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Juan Fernando Velasco](https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc) | [Belleza Pura](https://open.spotify.com/album/0Uwwu94n5PorWVnc0fo5Vr) | 3:32 |
 | 87 | [Imborrable](https://open.spotify.com/track/7MJvwGCVlF7vsLZCb8rUrl) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Imborrable](https://open.spotify.com/album/3AhGP2UTMzMdGhlxEAyPY4) | 3:18 |
 | 88 | [Eres Lo Mejor Que Me Pasó](https://open.spotify.com/track/5yuww0GWcvb6KsqUbbsT1W) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:54 |
 | 89 | [Vanidosa](https://open.spotify.com/track/0QzVpoHJpKeKJYMbfJxpLQ) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:07 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 94 | [Casao Amargao](https://open.spotify.com/track/50U9ekOXJAMJMybnn0TkF6) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 3:43 |
 | 95 | [Aunque Te Pongas Dulce](https://open.spotify.com/track/71VaP04xiUG0eKKAWn4wDP) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Mi Posición](https://open.spotify.com/album/4PScQ9VNzLPHzZJtzYPhbC) | 3:35 |
 | 96 | [Primer Tiempo](https://open.spotify.com/track/778BS3UlX5oGjdCuMSCfc8) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Colección Privada "Las 20 Exclusivas"](https://open.spotify.com/album/4hueGGPMBXDsGn9Zjv7uvB) | 3:29 |
-| 97 | [Te Busco](https://open.spotify.com/track/198f6VynNaYbX1NbAm91Lg) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Arpaz](https://open.spotify.com/album/30LwufY2wAZn0mBiUFV4ri) | 3:02 |
-| 98 | [Colores Alegres](https://open.spotify.com/track/0RDabpXolwgnzW3WI0rvDD) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:52 |
+| 97 | [Colores Alegres](https://open.spotify.com/track/0RDabpXolwgnzW3WI0rvDD) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:52 |
+| 98 | [Te Busco](https://open.spotify.com/track/198f6VynNaYbX1NbAm91Lg) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Arpaz](https://open.spotify.com/album/30LwufY2wAZn0mBiUFV4ri) | 3:02 |
 | 99 | [Mazatlán Carnaval](https://open.spotify.com/track/0e9LfWGbRtNazKK7Kmby6A) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 4:04 |
 | 100 | [Era Creyente](https://open.spotify.com/track/5UDspydEAzAkdwC6wLcxTi) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:14 |
 
-Snapshot ID: `MCxkYjFiM2EzZGFjNGRlZjRjYWM5YjY1MzQ4M2U1ZTQ4OGY3NTcwY2M1`
+Snapshot ID: `MCw5MjZiMGJlMmJkYmVjNDNmZjg5NmQ2YWI4MGI0ZWQ0ZWU5NjFjODUy`

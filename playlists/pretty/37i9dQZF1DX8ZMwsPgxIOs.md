@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Daniel Avery
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,759 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,815 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 99 | [Inside My Head](https://open.spotify.com/track/3MFwdV9DU2hnMqnFupb7yl) | [ANU](https://open.spotify.com/artist/1sWiTvDqck2OJDffcKK7Vy) | [Inside My Head](https://open.spotify.com/album/3TOiMFIAIKraCdeFXmSUHW) | 6:55 |
 | 100 | [Heartbreak](https://open.spotify.com/track/2UCncsHyNdD1vydaF7rZ1k) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Radical](https://open.spotify.com/album/5EFl876r4ClNKdplwwH2XP) | 4:34 |
 
-Snapshot ID: `MCwyY2RjZWI3Y2MxZWQyNGE5OTVkYjkzNjYxZmNlYmY5OWI0MzVhZmNm`
+Snapshot ID: `MCxlOTkyODNkNGIyNjExYmViMzgzODZkYTRjNzA4MTIzMWQxYzQ4MDUx`

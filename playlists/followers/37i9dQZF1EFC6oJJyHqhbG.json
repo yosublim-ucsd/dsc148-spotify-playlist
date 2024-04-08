@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 1184,
+  "2024-04-08": 1186,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl\">Bonnie Mckee</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Bonnie Mckee",
@@ -1311,6 +1311,28 @@
       "duration_ms": 222094,
       "name": "Naked",
       "url": "https://open.spotify.com/track/4gPUnZW8IT1mmF9aj9NLF7"
+    },
+    {
+      "album": {
+        "name": "Obsessed (feat. Ashley Sienna)",
+        "url": "https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Obsessed (feat. Ashley Sienna)",
+      "url": "https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 68209,
+  "num_followers": 68208,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTFiOGQyYWYyMWYzNjNhNDZlMmNmMDgyYjA0NzdmMDBhZDZkYTVl",
+  "snapshot_id": "MCxjZTJhNTk2YmZjMGM2YjYxNmZhN2MyMjczYTRjMzZlMTk5NWM4ZWEz",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Lay It on Me",
-      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Savage Garden (Original Version)",
         "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 339433,
       "name": "To the Moon & Back",
       "url": "https://open.spotify.com/track/48YTxXgK2CT31UlfYz5MKU"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Lay It on Me",
+      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 295800,
+      "name": "Affirmation",
+      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Young Modern",
         "url": "https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 239120,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 295800,
-      "name": "Affirmation",
-      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km"
-      },
-      "artists": [
-        {
-          "name": "Guy Sebastian",
-          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Angels Brought Me Here",
-      "url": "https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Changa",
         "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
       },
@@ -927,6 +911,38 @@
       "duration_ms": 189092,
       "name": "Go Bang",
       "url": "https://open.spotify.com/track/5XYXgYQJvY87aCFxK5sOnp"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Savage Garden (Original Version)",
+        "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 231510,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km"
+      },
+      "artists": [
+        {
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Angels Brought Me Here",
+      "url": "https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -983,22 +999,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Savage Garden (Original Version)",
-        "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 231510,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
       },
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Changa",
-        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Kira Divine",
-          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
-        }
-      ],
-      "duration_ms": 198020,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Age Of Reason",
         "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 111293,
       "name": "Calypso",
       "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Changa",
+        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kira Divine",
+          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
+        }
+      ],
+      "duration_ms": 198020,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
     },
     {
       "added_at": "2022-04-18 02:03:22",

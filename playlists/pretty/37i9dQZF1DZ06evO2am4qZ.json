@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4226,
+  "num_followers": 4228,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWVlMTQ3OWQwZTA4ZTY3NjdjOGViNWM5YTMyNzdmYmQ3MWY4MTQx",
+  "snapshot_id": "MCwxODQwNzBhY2U1M2M2ZjA2YThlOGZlMjVjY2QzOThlMmIwNjZiODdk",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grown",
+        "url": "https://open.spotify.com/album/0qg7zJ3vm8Mv7xtrrYYhQV"
+      },
+      "artists": [
+        {
+          "name": "Kidd Kenn",
+          "url": "https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 127312,
+      "name": "Want Not A Need (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/71sEDegC32gkp1Y0vdrAf9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eenie Meenie",
         "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 192057,
       "name": "Don\u2019t Even Think About It (with Baby Tate)",
       "url": "https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grown",
-        "url": "https://open.spotify.com/album/0qg7zJ3vm8Mv7xtrrYYhQV"
-      },
-      "artists": [
-        {
-          "name": "Kidd Kenn",
-          "url": "https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 127312,
-      "name": "Want Not A Need (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/71sEDegC32gkp1Y0vdrAf9"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRLS Deluxe",
-        "url": "https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 168571,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/6OKo3DVbM2tjl3sS83sTfi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Been in My Bag",
         "url": "https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 134164,
       "name": "Been in My Bag",
       "url": "https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRLS Deluxe",
+        "url": "https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 168571,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/6OKo3DVbM2tjl3sS83sTfi"
     },
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porches",
-        "url": "https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 197207,
-      "name": "FTN! (Ft. Baby Tate)",
-      "url": "https://open.spotify.com/track/0dbIXdA90vhwVzV1uPfXwm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
         "url": "https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK"
       },
@@ -1023,6 +1003,22 @@
       "duration_ms": 66240,
       "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
       "url": "https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What's Love / Sl*t Him Out",
+        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 250774,
+      "name": "What's Love",
+      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
     }
   ],
   "unique_name": "This Is Baby Tate",

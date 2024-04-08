@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 6528,
+  "2024-04-08": 6529,
   "date_first_scraped": "2023-11-04",
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
   "name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
@@ -439,6 +439,24 @@
       "duration_ms": 203786,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0EQSTieN8qt9jMiqcVeCZB"
+    },
+    {
+      "album": {
+        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245400,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl"
     },
     {
       "album": {
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 189533,
       "name": "Lovin' Me",
       "url": "https://open.spotify.com/track/63pHo56L4k2VLXqzt1shrK"

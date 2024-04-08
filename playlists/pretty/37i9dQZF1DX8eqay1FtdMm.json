@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: DAVICHI(\ub2e4\ube44\uce58)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 334860,
+  "num_followers": 334894,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBlM2Y0MTdhMTdkNjA3ZTc5YmNmMWFhOTU5ZTg5NDBmM2VjMWQ2",
+  "snapshot_id": "MCw4NjkzNjdjMmUyNzhlZTZjNDRkMjY4ODg4NmY5ZGViYWI2NDA0ZWQ2",
   "tracks": [
     {
       "added_at": "2024-03-26 10:41:20",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 201303,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
         "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -379,22 +379,18 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
       },
       "artists": [
         {
           "name": "LeeHi",
           "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 205120,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+      "duration_ms": 288915,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -463,18 +459,22 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
       "artists": [
         {
           "name": "LeeHi",
           "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 288915,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 186333,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
         "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 224413,
       "name": "Peach Tree",
       "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
+        "name": "haeyo (2022)",
+        "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
+      },
+      "artists": [
+        {
+          "name": "An Nyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "duration_ms": 238071,
+      "name": "haeyo (2022)",
+      "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "haeyo (2022)",
-        "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
+        "name": "Story Of Two Years",
+        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
       },
       "artists": [
         {
-          "name": "An Nyeong",
-          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
         }
       ],
-      "duration_ms": 238071,
-      "name": "haeyo (2022)",
-      "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
+      "duration_ms": 246293,
+      "name": "\ub108\ub97c \uc704\ud574",
+      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -1311,22 +1327,6 @@
       "duration_ms": 195403,
       "name": "Back In Love",
       "url": "https://open.spotify.com/track/4up9NcBZM7WhYik9jYtQU1"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
-        "name": "Story Of Two Years",
-        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "\ub108\ub97c \uc704\ud574",
-      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "Like Yesterday",
-        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
         "name": "Back In Time (The Moon during the Day X K.will)",
         "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
     },
     {
       "added_at": "2024-03-26 10:41:20",

@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 60204,
+  "num_followers": 60245,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjY3Mzg3OWMwZjllMTk3YWI1YTg2ZWI1MDFhMGJiMzU3ZTUyMTlk",
+  "snapshot_id": "MCxhODM4MDIzYzRkN2QzZTRiNDdjNGI3ZDJiNjFlOTU5ZjhmYWIxOWFm",
   "tracks": [
     {
       "added_at": "2023-11-24 19:21:59",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Voodoo Woman",
-        "url": "https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU"
-      },
-      "artists": [
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Voodoo Woman - Album Outtake",
-      "url": "https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 144493,
       "name": "Just Your Fool",
       "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Voodoo Woman",
+        "url": "https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Voodoo Woman - Album Outtake",
+      "url": "https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Adobe",
+        "url": "https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        }
+      ],
+      "duration_ms": 146653,
+      "name": "West Texas",
+      "url": "https://open.spotify.com/track/2kuzkVRpOyQntaeTR2OOPG"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Buddy Guy & Junior Wells Play The Blues",
         "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
       },
@@ -639,18 +655,34 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Adobe",
-        "url": "https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT"
+        "name": "I Am The Moon: II. Ascension",
+        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
       },
       "artists": [
         {
-          "name": "Greyhounds",
-          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 146653,
-      "name": "West Texas",
-      "url": "https://open.spotify.com/track/2kuzkVRpOyQntaeTR2OOPG"
+      "duration_ms": 159427,
+      "name": "So Long Savior",
+      "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Leave This House",
+        "url": "https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "duration_ms": 209098,
+      "name": "Leave This House",
+      "url": "https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -695,22 +727,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Leave This House",
-        "url": "https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi"
-      },
-      "artists": [
-        {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
-        }
-      ],
-      "duration_ms": 209098,
-      "name": "Leave This House",
-      "url": "https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "You Broke Me",
         "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 236543,
       "name": "Baby We're Through",
       "url": "https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "I Am The Moon: II. Ascension",
-        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 159427,
-      "name": "So Long Savior",
-      "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "One Way Out - Mono Version",
-      "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "One Way Out - Mono Version",
+      "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "The Excello Singles Anthology",
         "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 149800,
       "name": "Shake Your Hips - Single Version",
       "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -963,22 +979,6 @@
       "duration_ms": 175530,
       "name": "Texas Louisiana (feat. Buddy Guy)",
       "url": "https://open.spotify.com/track/3Wed8ynhMSTPj9ErweJIVl"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1131,18 +1131,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "If You Love Me / Alone and Blue",
-        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
+        "name": "Lazy Morning Blues",
+        "url": "https://open.spotify.com/album/6Y2wxeU2LnlU2kbnbsXnGe"
       },
       "artists": [
         {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+          "name": "Gang Of Broken Arms",
+          "url": "https://open.spotify.com/artist/6w2X5ZcVoSy0I2dyMDwI3w"
+        },
+        {
+          "name": "Bruce James",
+          "url": "https://open.spotify.com/artist/0lLevbweYkhEvZRnowRBIW"
         }
       ],
-      "duration_ms": 150307,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
+      "duration_ms": 116538,
+      "name": "Lazy Morning Blues",
+      "url": "https://open.spotify.com/track/6Aeq5LjXljB082MugZX8vS"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Lazy Morning Blues",
-        "url": "https://open.spotify.com/album/6Y2wxeU2LnlU2kbnbsXnGe"
+        "name": "If You Love Me / Alone and Blue",
+        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
       },
       "artists": [
         {
-          "name": "Gang Of Broken Arms",
-          "url": "https://open.spotify.com/artist/6w2X5ZcVoSy0I2dyMDwI3w"
-        },
-        {
-          "name": "Bruce James",
-          "url": "https://open.spotify.com/artist/0lLevbweYkhEvZRnowRBIW"
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
         }
       ],
-      "duration_ms": 116538,
-      "name": "Lazy Morning Blues",
-      "url": "https://open.spotify.com/track/6Aeq5LjXljB082MugZX8vS"
+      "duration_ms": 150307,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The High Cost Of Low Living",
-        "url": "https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N"
-      },
-      "artists": [
-        {
-          "name": "Nick Moss Band",
-          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
-        },
-        {
-          "name": "Dennis Gruenling",
-          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Get Right Before You Get Left",
-      "url": "https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Take It Back",
         "url": "https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL"
       },
@@ -1375,22 +1355,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Mighty Love",
-        "url": "https://open.spotify.com/album/7IeOJ8Oy6bgQFEn317r0Sy"
+        "name": "The High Cost Of Low Living",
+        "url": "https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N"
       },
       "artists": [
         {
-          "name": "The Mystix",
-          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+          "name": "Nick Moss Band",
+          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
         },
         {
-          "name": "Jerry Portnoy",
-          "url": "https://open.spotify.com/artist/6VJN1UE84B6UkKQw0t93BU"
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Mighty Love",
-      "url": "https://open.spotify.com/track/0uGMmiAC2eLxS8o7rQj6ga"
+      "duration_ms": 231800,
+      "name": "Get Right Before You Get Left",
+      "url": "https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1407,6 +1387,26 @@
       "duration_ms": 210260,
       "name": "Put It",
       "url": "https://open.spotify.com/track/7yrPbz5EYQKSKj8S5Bm7P7"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Mighty Love",
+        "url": "https://open.spotify.com/album/7IeOJ8Oy6bgQFEn317r0Sy"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        },
+        {
+          "name": "Jerry Portnoy",
+          "url": "https://open.spotify.com/artist/6VJN1UE84B6UkKQw0t93BU"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Mighty Love",
+      "url": "https://open.spotify.com/track/0uGMmiAC2eLxS8o7rQj6ga"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "She Moved On",
-        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
+        "name": "Mortgage on My Soul",
+        "url": "https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa"
       },
       "artists": [
         {
-          "name": "McKinley James",
-          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
         }
       ],
-      "duration_ms": 167275,
-      "name": "She Moved On",
-      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
+      "duration_ms": 424626,
+      "name": "Mortgage on My Soul",
+      "url": "https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Mortgage on My Soul",
-        "url": "https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa"
+        "name": "She Moved On",
+        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
       },
       "artists": [
         {
-          "name": "J.D. Simo",
-          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+          "name": "McKinley James",
+          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
         }
       ],
-      "duration_ms": 424626,
-      "name": "Mortgage on My Soul",
-      "url": "https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd"
+      "duration_ms": 167275,
+      "name": "She Moved On",
+      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1643,8 +1643,8 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Oscar's Motel",
-        "url": "https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4"
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
       },
       "artists": [
         {
@@ -1652,25 +1652,9 @@
           "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
         }
       ],
-      "duration_ms": 166946,
-      "name": "Oscar's Motel",
-      "url": "https://open.spotify.com/track/5yIBM92MXlHeCmAJabfx0s"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Brand New Girl / I Got Some, Pt. 1",
-        "url": "https://open.spotify.com/album/02lUPEvrMZtgN60vb4TawW"
-      },
-      "artists": [
-        {
-          "name": "Billy Garner",
-          "url": "https://open.spotify.com/artist/78ahOK93ZY5b6CjFHOwDu4"
-        }
-      ],
-      "duration_ms": 173371,
-      "name": "I Got Some, Pt. 1",
-      "url": "https://open.spotify.com/track/1voI9W1aIo4AgAhzdYMfI6"
+      "duration_ms": 170293,
+      "name": "The Wrong Number",
+      "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1691,6 +1675,22 @@
       "duration_ms": 184044,
       "name": "It Ain't Right",
       "url": "https://open.spotify.com/track/7cdbDqQrPLs6rwIgvs8wtA"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Brand New Girl / I Got Some, Pt. 1",
+        "url": "https://open.spotify.com/album/02lUPEvrMZtgN60vb4TawW"
+      },
+      "artists": [
+        {
+          "name": "Billy Garner",
+          "url": "https://open.spotify.com/artist/78ahOK93ZY5b6CjFHOwDu4"
+        }
+      ],
+      "duration_ms": 173371,
+      "name": "I Got Some, Pt. 1",
+      "url": "https://open.spotify.com/track/1voI9W1aIo4AgAhzdYMfI6"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1743,8 +1743,8 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
+        "name": "Oscar's Motel",
+        "url": "https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4"
       },
       "artists": [
         {
@@ -1752,9 +1752,9 @@
           "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
         }
       ],
-      "duration_ms": 170293,
-      "name": "The Wrong Number",
-      "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
+      "duration_ms": 166946,
+      "name": "Oscar's Motel",
+      "url": "https://open.spotify.com/track/5yIBM92MXlHeCmAJabfx0s"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Old Habits",
-        "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 250711,
-      "name": "Reverse Engineer",
-      "url": "https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 304938,
       "name": "Mean Town Blues",
       "url": "https://open.spotify.com/track/3CCmfKQwQicHhHwvlZbeAm"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Old Habits",
+        "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 250711,
+      "name": "Reverse Engineer",
+      "url": "https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1911,6 +1911,38 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/1zJAyAnj2LQRbdTfH8DUbN"
+      },
+      "artists": [
+        {
+          "name": "Trampled Under Foot",
+          "url": "https://open.spotify.com/artist/1IR09fnMJMFbwX7py3VHkY"
+        }
+      ],
+      "duration_ms": 260773,
+      "name": "Don't Want No Woman",
+      "url": "https://open.spotify.com/track/33j44avBvB6ybyhtOYxK7u"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Packing My Bags",
+        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
+      },
+      "artists": [
+        {
+          "name": "Errol Linton",
+          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
+        }
+      ],
+      "duration_ms": 241678,
+      "name": "Break Em' Down",
+      "url": "https://open.spotify.com/track/1YziwYBC0cVkWQ9JWcji5Q"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "They Call Me Mud",
         "url": "https://open.spotify.com/album/3BAjDAf2GWUYnpIebugxyP"
       },
@@ -1939,54 +1971,6 @@
       "duration_ms": 150616,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/79w4w08Q8Rn9uu9bPO3OFr"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Packing My Bags",
-        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
-      },
-      "artists": [
-        {
-          "name": "Errol Linton",
-          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
-        }
-      ],
-      "duration_ms": 241678,
-      "name": "Break Em' Down",
-      "url": "https://open.spotify.com/track/1YziwYBC0cVkWQ9JWcji5Q"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Badlands",
-        "url": "https://open.spotify.com/album/1zJAyAnj2LQRbdTfH8DUbN"
-      },
-      "artists": [
-        {
-          "name": "Trampled Under Foot",
-          "url": "https://open.spotify.com/artist/1IR09fnMJMFbwX7py3VHkY"
-        }
-      ],
-      "duration_ms": 260773,
-      "name": "Don't Want No Woman",
-      "url": "https://open.spotify.com/track/33j44avBvB6ybyhtOYxK7u"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Home Sweet Home",
-        "url": "https://open.spotify.com/album/67kl2wY1aV6HVoUT5OlIkM"
-      },
-      "artists": [
-        {
-          "name": "Joe Flip",
-          "url": "https://open.spotify.com/artist/7I0jia2wrhNWpDzqpjam1k"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/2oGjkwyqqZmp4BERyVekFI"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2023,6 +2007,22 @@
       "duration_ms": 300143,
       "name": "Hungry and Ready (feat. Melvin Taylor)",
       "url": "https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Home Sweet Home",
+        "url": "https://open.spotify.com/album/67kl2wY1aV6HVoUT5OlIkM"
+      },
+      "artists": [
+        {
+          "name": "Joe Flip",
+          "url": "https://open.spotify.com/artist/7I0jia2wrhNWpDzqpjam1k"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/2oGjkwyqqZmp4BERyVekFI"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Statesboro Blues",
-        "url": "https://open.spotify.com/album/0k5k73GOmLNnVlEpsMklQU"
-      },
-      "artists": [
-        {
-          "name": "Sunjay",
-          "url": "https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu"
-        }
-      ],
-      "duration_ms": 239826,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/0s1KrZNQlczWBv2B6iBFuQ"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The Imperial Recordings",
         "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 172440,
       "name": "I'm Slippin' In",
       "url": "https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Statesboro Blues",
+        "url": "https://open.spotify.com/album/0k5k73GOmLNnVlEpsMklQU"
+      },
+      "artists": [
+        {
+          "name": "Sunjay",
+          "url": "https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/0s1KrZNQlczWBv2B6iBFuQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Exorcist",
+        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
+      },
+      "artists": [
+        {
+          "name": "Selwyn Birchwood",
+          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
+        }
+      ],
+      "duration_ms": 241641,
+      "name": "ILa-View",
+      "url": "https://open.spotify.com/track/3FA6NLfuZ76xGTuQ8WR7BR"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "No Border Blues",
         "url": "https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4"
       },
@@ -2455,18 +2471,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Exorcist",
-        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
+        "name": "Just As Gone",
+        "url": "https://open.spotify.com/album/6RZhnzYqtpDr5dZpgqMUvh"
       },
       "artists": [
         {
-          "name": "Selwyn Birchwood",
-          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
         }
       ],
-      "duration_ms": 241641,
-      "name": "ILa-View",
-      "url": "https://open.spotify.com/track/3FA6NLfuZ76xGTuQ8WR7BR"
+      "duration_ms": 148933,
+      "name": "Just As Gone",
+      "url": "https://open.spotify.com/track/3i5jNMGAX9EnyeiSLtm83W"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2483,22 +2499,6 @@
       "duration_ms": 196115,
       "name": "Pack Fair and Square",
       "url": "https://open.spotify.com/track/3QhDPahbCLsXCNXwjrsySw"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Just As Gone",
-        "url": "https://open.spotify.com/album/6RZhnzYqtpDr5dZpgqMUvh"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        }
-      ],
-      "duration_ms": 148933,
-      "name": "Just As Gone",
-      "url": "https://open.spotify.com/track/3i5jNMGAX9EnyeiSLtm83W"
     },
     {
       "added_at": "2023-11-24 19:21:59",

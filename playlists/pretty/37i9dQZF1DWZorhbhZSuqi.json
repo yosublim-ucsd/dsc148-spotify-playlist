@@ -1,12 +1,12 @@
 {
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f",
-  "num_followers": 13251,
+  "num_followers": 13269,
   "original_name": "Faerie Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGE2NDQ3MTZkYjU5Y2RhNGFhZjAzZjAwMzMwZDJlZWJlNDRkNzZl",
+  "snapshot_id": "MCxkMDc4N2VhMTNkM2MxMjlkNGNlNDc3YWQ1ODg4MzExMzA3YmFiM2Jj",
   "tracks": [
     {
       "added_at": "2024-03-25 20:44:21",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+    },
+    {
+      "added_at": "2024-03-25 20:15:23",
+      "album": {
         "name": "Retired from Sad, New Career in Business",
         "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 277676,
       "name": "Moon Song",
       "url": "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
-    },
-    {
-      "added_at": "2024-03-25 20:15:23",
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
     },
     {
       "added_at": "2024-03-25 20:15:23",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
+        "name": "Howl's Moving Castle Soundtrack",
+        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "The Flower Garden",
+      "url": "https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu"
+    },
+    {
+      "added_at": "2024-03-25 20:15:23",
+      "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
-        "name": "Howl's Moving Castle Soundtrack",
-        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
       "artists": [
         {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 178506,
-      "name": "The Flower Garden",
-      "url": "https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu"
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2024-03-25 20:15:23",
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
-    },
-    {
-      "added_at": "2024-03-25 20:15:23",
-      "album": {
         "name": "Lost With You",
         "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 230986,
-      "name": "Alison",
-      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
+      "duration_ms": 231586,
+      "name": "Woodland",
+      "url": "https://open.spotify.com/track/2dm13KtTfScU9ObCzYzGyS"
     },
     {
       "added_at": "2024-03-25 20:15:23",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 231586,
-      "name": "Woodland",
-      "url": "https://open.spotify.com/track/2dm13KtTfScU9ObCzYzGyS"
+      "duration_ms": 230986,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
     },
     {
       "added_at": "2024-03-25 20:15:23",

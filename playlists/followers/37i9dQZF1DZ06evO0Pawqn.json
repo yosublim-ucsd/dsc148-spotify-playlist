@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 9104,
+  "2024-04-08": 9104,
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Tiranos Del Norte",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 202631,
       "name": "Crei",
       "url": "https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 197825,
       "name": "Matame a Besos",
       "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
@@ -1412,6 +1412,24 @@
     },
     {
       "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135862,
+      "name": "Tu Maldad",
+      "url": "https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa"
+    },
+    {
+      "album": {
         "name": "Mas Llegadoras",
         "url": "https://open.spotify.com/album/4AFzIdSy43aJ2Hk26O9MS7"
       },
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 190563,
       "name": "Un Engano Mas",
       "url": "https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C"

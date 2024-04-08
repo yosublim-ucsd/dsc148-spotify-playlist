@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Cami.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,469 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,470 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 15 | [COPY+PASTE](https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [COPY+PASTE](https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk) | 2:19 |
 | 16 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
 | 17 | [Maldita Primavera](https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Los Imposibles](https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz) | [AM + bonus Tracks \(Edición Aniversario\)](https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel) | 3:45 |
-| 18 | [si vuelvo a caer](https://open.spotify.com/track/4bTFg8ecsSwHg9ndyK9rR7) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [si vuelvo a caer](https://open.spotify.com/album/08TRoa9KPyQpXu3WcA58Nv) | 2:13 |
-| 19 | [Huellas](https://open.spotify.com/track/1SVCCEV7QGvSKKhqRz3JHa) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Huellas](https://open.spotify.com/album/5dP8254p4zg1six4QP4P4z) | 3:02 |
+| 18 | [Huellas](https://open.spotify.com/track/1SVCCEV7QGvSKKhqRz3JHa) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Huellas](https://open.spotify.com/album/5dP8254p4zg1six4QP4P4z) | 3:02 |
+| 19 | [si vuelvo a caer](https://open.spotify.com/track/4bTFg8ecsSwHg9ndyK9rR7) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [si vuelvo a caer](https://open.spotify.com/album/08TRoa9KPyQpXu3WcA58Nv) | 2:13 |
 | 20 | [Love It](https://open.spotify.com/track/71ANngN8RaJnVnxLs69tZg) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Love It](https://open.spotify.com/album/102WeTzufZpgQQz9fNS2t4) | 2:10 |
 | 21 | [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 |
 | 22 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 42 | [Cuarta pared](https://open.spotify.com/track/1gADJxAF0of5vxTRisUWCj) | [Javiera Electra](https://open.spotify.com/artist/7c2QpfLeD8s647evep6Mbp) | [REPRÍS](https://open.spotify.com/album/6VV0FKDFoMDWL1vAuL2DBP) | 4:29 |
 | 43 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 |
 | 44 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
-| 45 | [Olvídame](https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy) | [Cromantis](https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1) | [Olvídame](https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ) | 3:16 |
-| 46 | [Dunas](https://open.spotify.com/track/6Dpo39yzOfHjhM0tGNPT98) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Dunas](https://open.spotify.com/album/6wj89F0gGAMks3pJnlQ6hE) | 4:04 |
+| 45 | [Dunas](https://open.spotify.com/track/6Dpo39yzOfHjhM0tGNPT98) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Dunas](https://open.spotify.com/album/6wj89F0gGAMks3pJnlQ6hE) | 4:04 |
+| 46 | [Olvídame](https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy) | [Cromantis](https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1) | [Olvídame](https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ) | 3:16 |
 | 47 | [perfecta](https://open.spotify.com/track/2WOInVpAZEimBFsdWPDjVw) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 2:40 |
 | 48 | [Ella](https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Ella](https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0) | 3:02 |
 | 49 | [Asumir](https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Asumir](https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY) | 3:47 |
 | 50 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
 
-Snapshot ID: `MCwzY2QyZmVlYmRiZTk5YTI3NWFlYTA1OTNkZDQ2N2VlMmNhN2YzNGQx`
+Snapshot ID: `MCw2NDNhYWY5ZDljNzMwMDA1MzQ3NTEzZDUzOTAwZjRiNTg3ZDQ2YjQz`

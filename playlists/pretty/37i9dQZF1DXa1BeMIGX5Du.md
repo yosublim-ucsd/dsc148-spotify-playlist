@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,380 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,536 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 23 | [Louise \(feat\. Teitur\)](https://open.spotify.com/track/1ZeVc8ZvZsCzVZ532nr14a) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN), [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Louise \(feat\. Teitur\)](https://open.spotify.com/album/5JQlz2FPLZqgm4b0AgxRXS) | 3:29 |
 | 24 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
 | 25 | [Easy](https://open.spotify.com/track/4S9cpPwTo9o0tMFNGkYzRn) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Easy](https://open.spotify.com/album/4BM3fZKsal4h6kgU86f1Dl) | 2:39 |
-| 26 | [A Precious Thing](https://open.spotify.com/track/0hsKYfiYOyb0kOMh67SZ3W) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [A Precious Thing](https://open.spotify.com/album/0att3h3a9gsUKbcwEjyZdB) | 4:18 |
+| 26 | [A Precious Thing](https://open.spotify.com/track/3No4zg6Qm632PLxLqPCFel) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [Ramona](https://open.spotify.com/album/6mVqIVJe5FOyVA6oriGwuw) | 4:18 |
 | 27 | [Just Like A Movie](https://open.spotify.com/track/2BTch3q4AJMKfgRPUXrK1E) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just Like A Movie](https://open.spotify.com/album/5kEqBFvXUsZMTGS8F8U60y) | 3:18 |
 | 28 | [a bad dream from an old life](https://open.spotify.com/track/1XgTha61JE1qk9J2wmsoNm) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW), [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Driftwood Choir](https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF) | [a bad dream from an old life](https://open.spotify.com/album/1b9QIgbrTT1QzVfURsTkwZ) | 3:28 |
 | 29 | [Pages](https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pages](https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 |
 | 100 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 |
 
-Snapshot ID: `MCxlYzk4Nzk4ZDZiMjc5NWRkNDhiZWEwZjI5YzZiNTJkOTZiNGRkOWFi`
+Snapshot ID: `MCxkOTg1MGE2NTkyNWU2MmVmNzA2M2VkMzdiYWU5Y2U0NTAyYzQyZWU5`

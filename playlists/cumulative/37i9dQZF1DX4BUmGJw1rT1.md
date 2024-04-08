@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-226 songs - 15 hr 39 min
+227 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,9 +224,10 @@
 | [Too Much Pride \- Alternate / Remastered 2022](https://open.spotify.com/track/7HsCiZZR1EIAhmnY1kshIl) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [South Side Of Soul Street: The SSS Sessions \(Remastered 2022\)](https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef) | 2:27 | 2023-08-18 |  |
 | [Trouble And Shame](https://open.spotify.com/track/12crpofRI1U2y7gqmOyeoW) | [Mollie Marriott](https://open.spotify.com/artist/1zQ0BvcGGvuhvI6E9YBoTP) | [Trouble And Shame](https://open.spotify.com/album/6upHpN96CSd3BvxQrOBc2X) | 3:50 | 2023-11-24 | 2024-03-11 |
 | [Underground Railroad](https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R) | [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN), [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Underground Railroad](https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO) | 4:14 | 2023-04-21 |  |
-| [West Coast Eyes](https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [West Coast Eyes](https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC) | 4:05 | 2023-06-09 |  |
+| [West Coast Eyes](https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [West Coast Eyes](https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC) | 4:05 | 2023-06-09 | 2024-04-08 |
 | [What Am I To You?](https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:30 | 2022-05-25 |  |
 | [What Can I Do](https://open.spotify.com/track/1LVazB4PgKRwcQSHM9ZMvd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Dexter Allen](https://open.spotify.com/artist/6UBESW5c8QXYUJ4AcFo0XE) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 2:52 | 2023-10-02 | 2023-11-17 |
+| [What Can I Do](https://open.spotify.com/track/2U5qa40nJ1fVDYVcqEvzjl) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Dexter Allen](https://open.spotify.com/artist/6UBESW5c8QXYUJ4AcFo0XE) | [I'm Just Getting Started!](https://open.spotify.com/album/0QgQ8Ln8AIxc3Svhc8cbi3) | 2:52 | 2023-11-24 |  |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-06-14 |  |
 | [Wild Wild Woman](https://open.spotify.com/track/1VZEVlkVRuqAi22iH00sm6) | [Grace Theisen](https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf) | [Wild Wild Woman](https://open.spotify.com/album/7oBpr82ETE4s71NUZGfGvk) | 4:03 | 2023-10-13 | 2023-11-18 |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-03 |  |

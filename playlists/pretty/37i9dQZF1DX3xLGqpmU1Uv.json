@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 155829,
+  "num_followers": 155871,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzdhZTE0YmRhNDY4NDdhNjJmNzZmZTJlM2NiNjg5OGU1YzdmMWM2",
+  "snapshot_id": "MCwxZTU2OTY1MmI4ZjMzNzU5ODZjNDNjZWFjNzM3NjIwZWYwNWY0ZmFl",
   "tracks": [
     {
       "added_at": "2020-03-18 04:18:26",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "15 De Los Moonlights",
-        "url": "https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj"
-      },
-      "artists": [
-        {
-          "name": "Los Moonlights",
-          "url": "https://open.spotify.com/artist/5jq7ZBcwUEaVSZYYcoONEH"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "De Rodillas Ante Ti",
-      "url": "https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
         "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 151306,
       "name": "Tu Cabeza en Mi Hombro",
       "url": "https://open.spotify.com/track/6dRAaQ7DFVPsZ2Pnfv97vX"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "15 De Los Moonlights",
+        "url": "https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj"
+      },
+      "artists": [
+        {
+          "name": "Los Moonlights",
+          "url": "https://open.spotify.com/artist/5jq7ZBcwUEaVSZYYcoONEH"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "De Rodillas Ante Ti",
+      "url": "https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -519,6 +519,22 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 133093,
+      "name": "Florida Twist",
+      "url": "https://open.spotify.com/track/7xzxlk4jDDdwb2mDBRTSpZ"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
         "name": "Baile Monkey",
         "url": "https://open.spotify.com/album/3aUqJ6GL8zcG5bQutw7u5Q"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 137987,
       "name": "Quiero Estrechar Tu Mano",
       "url": "https://open.spotify.com/track/2zs7QiCmkIxEeW1E1HZ8bP"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "La Epoca de Oro del Twist",
-        "url": "https://open.spotify.com/album/69tIhcn1Qd1heyIurhEkHt"
-      },
-      "artists": [
-        {
-          "name": "Hermanas Jimenez",
-          "url": "https://open.spotify.com/artist/0GDo46nR3Fh3NYto2h4FUN"
-        }
-      ],
-      "duration_ms": 164205,
-      "name": "San Antonio Twist",
-      "url": "https://open.spotify.com/track/4DjixhdAyHASyjcyNP7cUn"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 133093,
-      "name": "Florida Twist",
-      "url": "https://open.spotify.com/track/7xzxlk4jDDdwb2mDBRTSpZ"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
         "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 171733,
       "name": "Popotitos (Bonie Moroni)",
       "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "La Epoca de Oro del Twist",
+        "url": "https://open.spotify.com/album/69tIhcn1Qd1heyIurhEkHt"
+      },
+      "artists": [
+        {
+          "name": "Hermanas Jimenez",
+          "url": "https://open.spotify.com/artist/0GDo46nR3Fh3NYto2h4FUN"
+        }
+      ],
+      "duration_ms": 164205,
+      "name": "San Antonio Twist",
+      "url": "https://open.spotify.com/track/4DjixhdAyHASyjcyNP7cUn"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Mexican Garage Rock '66",
-        "url": "https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY"
-      },
-      "artists": [
-        {
-          "name": "Los Seven Days",
-          "url": "https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "Sospecha",
-      "url": "https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Legado de Mujeres Latinas",
         "url": "https://open.spotify.com/album/2pilz2V8vMaHaS7hDFuSU5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 133253,
       "name": "Chica ye y\u00e9",
       "url": "https://open.spotify.com/track/2KPj9qiGpjmFHcczbHOXuf"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Mexican Garage Rock '66",
+        "url": "https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY"
+      },
+      "artists": [
+        {
+          "name": "Los Seven Days",
+          "url": "https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "Sospecha",
+      "url": "https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U"
     }
   ],
   "unique_name": "Los 60 M\u00e9xico",

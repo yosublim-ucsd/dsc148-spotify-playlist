@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 356955,
+  "num_followers": 356992,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmNiYWQxZDI3MDRlMWE1NWUwNGZlMzM0NDYxOGM3Mzg1ZDBmOTEx",
+  "snapshot_id": "MCwzMzMwNzg0NDY3Njc3MTg4NzE0ZWIwMWRiNTk4ODUzYTdlZTc2NmU0",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turbulent Skies (INOY Remix; Fan Remix Contest Winner)",
+        "url": "https://open.spotify.com/album/0WXfHn4bqds12sHIBHrDha"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "Inoy",
+          "url": "https://open.spotify.com/artist/2cqZUPVhr93BKziDU7xQFW"
+        }
+      ],
+      "duration_ms": 230889,
+      "name": "Turbulent Skies - INOY Remix; Fan Remix Contest Winner",
+      "url": "https://open.spotify.com/track/0W4idZcj495GpBU2OyzM7z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
       },
@@ -523,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turbulent Skies (INOY Remix; Fan Remix Contest Winner)",
-        "url": "https://open.spotify.com/album/0WXfHn4bqds12sHIBHrDha"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        },
-        {
-          "name": "Inoy",
-          "url": "https://open.spotify.com/artist/2cqZUPVhr93BKziDU7xQFW"
-        }
-      ],
-      "duration_ms": 230889,
-      "name": "Turbulent Skies - INOY Remix; Fan Remix Contest Winner",
-      "url": "https://open.spotify.com/track/0W4idZcj495GpBU2OyzM7z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
@@ -550,11 +550,19 @@
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 200305,
-      "name": "21 Days",
-      "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
+      "duration_ms": 257713,
+      "name": "Saint Ferdinand (feat. Jon Batiste & Natalie Hemby)",
+      "url": "https://open.spotify.com/track/2uFIgF9seVtu9OMvSfO6XY"
     },
     {
       "added_at": null,
@@ -622,19 +630,11 @@
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        },
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 257713,
-      "name": "Saint Ferdinand (feat. Jon Batiste & Natalie Hemby)",
-      "url": "https://open.spotify.com/track/2uFIgF9seVtu9OMvSfO6XY"
+      "duration_ms": 200305,
+      "name": "21 Days",
+      "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 陳嘉樺 \(Ella\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,795 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,809 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [多年後 \- 八大綜合台、八大戲劇台雙頻道熱播韓劇「命中注定我愛你」片尾曲](https://open.spotify.com/track/48Ipf3GNTo4tNTEAhvoILT) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我是曾沛慈](https://open.spotify.com/album/428cg3yMWFKwXMIg1HGaVd) | 4:22 |
 | 50 | [象牙塔](https://open.spotify.com/track/4DY5TdWGgNNg8339qCVxOa) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [小太空](https://open.spotify.com/album/2TpMMUlG9HgMZudmMpCndd) | 4:06 |
 
-Snapshot ID: `MCwzMmE1YzU3MDlhMzlkNzIyYjgxYjdjMGFhZmIzNGIyZTI3OTNiZmI3`
+Snapshot ID: `MCwyMjFkYzBhMDcyZTc0ZGQwNGQ3YjI2MmE3MTFhOTE3MGYxYjQwN2U1`

@@ -322,10 +322,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 198786,
       "name": "Calling All Skeletons",
       "url": "https://open.spotify.com/track/4uicyqoy9VwvWzxu5nbyDc"
+    },
+    {
+      "album": {
+        "name": "Agony & Irony (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200786,
+      "name": "Calling All Skeletons",
+      "url": "https://open.spotify.com/track/5wietlPYUdZe5MEPOrrvww"
     },
     {
       "album": {

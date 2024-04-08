@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 91745,
+  "num_followers": 91801,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWMwODg3NmVkYjlhYWY1YzNhNjRiYTBjNzE1MTVhNWZlNjVjMWZl",
+  "snapshot_id": "MCxkY2I4Yjc5M2Q5ZWJhNzZkNTFhNDc4MGU0ZTU1OThlYzY4YjM3YzFl",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "De 1 At\u00e9 3",
-        "url": "https://open.spotify.com/album/7jmdlVQj7FLKPIA5VYJcLz"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Figueiredo",
-          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
-        }
-      ],
-      "duration_ms": 168725,
-      "name": "De 1 At\u00e9 3",
-      "url": "https://open.spotify.com/track/4Op3IMhQmQTiJ4ghAX2pCG"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Reino Vem",
         "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 198928,
       "name": "O Reino Vem",
       "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "De 1 At\u00e9 3",
+        "url": "https://open.spotify.com/album/7jmdlVQj7FLKPIA5VYJcLz"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
+        }
+      ],
+      "duration_ms": 168725,
+      "name": "De 1 At\u00e9 3",
+      "url": "https://open.spotify.com/track/4Op3IMhQmQTiJ4ghAX2pCG"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -271,42 +271,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
-      },
-      "artists": [
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 240697,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Sonhar",
         "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
       },
@@ -327,6 +291,42 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 240697,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Entre Milh\u00f5es",
         "url": "https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ"
       },
@@ -343,6 +343,26 @@
       "duration_ms": 251000,
       "name": "Entre Milh\u00f5es",
       "url": "https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Dono dos Meus Dias",
+        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 239946,
+      "name": "Dono dos Meus Dias",
+      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -383,26 +403,6 @@
       "duration_ms": 231575,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Dono dos Meus Dias",
-        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 239946,
-      "name": "Dono dos Meus Dias",
-      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -523,6 +523,30 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Flutuar",
+        "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        }
+      ],
+      "duration_ms": 214191,
+      "name": "Flutuar",
+      "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Me Ensina a Viver",
         "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 173400,
       "name": "Nasce o Sol - Remix",
       "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Flutuar",
-        "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Vocal Livre",
-          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
-        },
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        }
-      ],
-      "duration_ms": 214191,
-      "name": "Flutuar",
-      "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Voc\u00ea Por Perto",
-        "url": "https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew"
+        "name": "Acoustic Sessions, Vol. 6",
+        "url": "https://open.spotify.com/album/0RuvdzSlbLAd2NC4dbhF2z"
       },
       "artists": [
         {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 231679,
-      "name": "Voc\u00ea Por Perto",
-      "url": "https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9"
+      "duration_ms": 165954,
+      "name": "Plano B",
+      "url": "https://open.spotify.com/track/4gjFM2XEKr0UnqwssxCVvm"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Acoustic Sessions, Vol. 6",
-        "url": "https://open.spotify.com/album/0RuvdzSlbLAd2NC4dbhF2z"
+        "name": "Voc\u00ea Por Perto",
+        "url": "https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew"
       },
       "artists": [
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
         }
       ],
-      "duration_ms": 165954,
-      "name": "Plano B",
-      "url": "https://open.spotify.com/track/4gjFM2XEKr0UnqwssxCVvm"
+      "duration_ms": 231679,
+      "name": "Voc\u00ea Por Perto",
+      "url": "https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Sinal de Aviso",
-        "url": "https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
-        }
-      ],
-      "duration_ms": 195422,
-      "name": "Sinal de Aviso",
-      "url": "https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Ousado Amor",
         "url": "https://open.spotify.com/album/5Y8vcMT4eDmaPOibOkbTAn"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 272021,
       "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
       "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Sinal de Aviso",
+        "url": "https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        }
+      ],
+      "duration_ms": 195422,
+      "name": "Sinal de Aviso",
+      "url": "https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
-      },
-      "artists": [
-        {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -1087,18 +1067,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Teus Rios",
-        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
       "artists": [
         {
-          "name": "Gabriela de S\u00e1",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 194034,
-      "name": "Teus Rios",
-      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+        "name": "Teus Rios",
+        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
       },
       "artists": [
         {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+          "name": "Gabriela de S\u00e1",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
         }
       ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
+      "duration_ms": 194034,
+      "name": "Teus Rios",
+      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 226187,
       "name": "Teu Amor Me Consome",
       "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Neste Lugar",
         "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 314622,
       "name": "Neste Lugar",
       "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2023-12-22 03:00:00",

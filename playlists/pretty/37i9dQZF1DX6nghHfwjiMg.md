@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > El futuro está acá\. Foto: Soui Uno
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,631 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,626 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 17 | [Oh Oh Oh](https://open.spotify.com/track/4UvSZCODfJZxXylXPKkY3p) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 3:10 |
 | 18 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 |
 | 19 | [PARQUE DE LA COSTA](https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [MAÑANA ES PEOR :\(](https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd) | 3:45 |
-| 20 | [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 |
+| 20 | [Quién Pudiera?](https://open.spotify.com/track/3TWAnB0Pok8EnOLimD18ue) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/5uIL8ryzMnjBbgRx7wVCwW) | 3:33 |
 | 21 | [Anímate](https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Anímate](https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq) | 3:38 |
 | 22 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 |
 | 23 | [EL PLOTTER](https://open.spotify.com/track/0RCnbUSbzP6NipEvi8vs1P) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [EL PLOTTER](https://open.spotify.com/album/1F46me8TYsulA1dpAne3OU) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 49 | [DRILL AR 4](https://open.spotify.com/track/1lAgT3yumaPp5Uedd1hB0P) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp), [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR) | [DRILL AR 4](https://open.spotify.com/album/0cC8aeRBldZolM7M0UHhE6) | 2:02 |
 | 50 | [SPACE SEX](https://open.spotify.com/track/0gk8KeUZy6MGycu06QgBf1) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [SPACE SEX](https://open.spotify.com/album/5LGvRtKKfzkQPbVLy1u80o) | 3:07 |
 
-Snapshot ID: `MCxkMThiMzljMzI4ZDA0MTYwOTkyM2ZjYmFhYjY2M2I5ODg1YmEzNDI1`
+Snapshot ID: `MCxmMTE0Zjk5N2VmOTJlNDhhZDViZWE3NmZlNGYyMzkwN2UxNTk3ZTc4`

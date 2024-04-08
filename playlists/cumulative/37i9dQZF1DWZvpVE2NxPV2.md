@@ -4,7 +4,7 @@
 
 > Peaceful ambient for mind body connection.
 
-233 songs - 12 hr 4 min
+235 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Empty Spaces](https://open.spotify.com/track/02hFekfpXLbeoBIdCEgbBc) | [Everything Will Rust](https://open.spotify.com/artist/6ongOGTUwDaQjpqjnlkooi) | [Empty Spaces](https://open.spotify.com/album/4qfwY4yqkCdFGevRrcBsVB) | 3:48 | 2022-01-07 |  |
 | [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 3:50 | 2022-01-07 |  |
 | [Endless Horizon](https://open.spotify.com/track/76RFgwdQlwsMi0vfA20gSV) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Endless Horizon](https://open.spotify.com/album/5dVrIlRhqrf3i9Cxuw8Cxo) | 2:01 | 2023-08-11 |  |
+| [Endless Shores](https://open.spotify.com/track/6NEW6dkVxVq7ra9vX016Eb) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Endless Shores](https://open.spotify.com/album/19pCjw0tOBFbKcjjg0Yj53) | 2:59 | 2024-04-07 |  |
 | [Endlessness](https://open.spotify.com/track/56Hx2TNbbWeEk3I3H1Tzgz) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Endlessness](https://open.spotify.com/album/1sXwnBlGNqJjejMOM0QoNx) | 2:43 | 2022-01-07 |  |
 | [Enhanced Focus](https://open.spotify.com/track/6J0xbhP0rn31Gq2ck22oUw) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Enhanced Focus](https://open.spotify.com/album/5LaaldAHQVLAbqWXpYDdrw) | 3:12 | 2023-06-20 |  |
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2022-01-07 |  |
@@ -196,6 +197,7 @@
 | [Spellbound](https://open.spotify.com/track/21KaEe9seWVaE5UWwb439V) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Spellbound](https://open.spotify.com/album/5MYvk8SIFdpvM3ePfTEyTy) | 3:06 | 2023-06-20 |  |
 | [Spirit of Now](https://open.spotify.com/track/6EDGhLq5RfOIzjJTMNgUG8) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Spirit of Now](https://open.spotify.com/album/1kEYXVCoLl2c15HfkubYSr) | 3:19 | 2023-08-11 |  |
 | [Spring Flower](https://open.spotify.com/track/6wPoL3OrhS8NOOwWk9F7QW) | [I Haga Xela](https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT) | [Spring Flower](https://open.spotify.com/album/2E3hwDKb2jqMrS3oMqAyZp) | 3:00 | 2022-09-22 | 2023-01-11 |
+| [Star Sapphire](https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Star Sapphire](https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy) | 2:21 | 2024-04-07 |  |
 | [Stavselet](https://open.spotify.com/track/7tI2DDr0bxmGendIMcv7zk) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Gimdalen](https://open.spotify.com/album/5KiyJPS3ZdCt1yCQh80pdE) | 3:07 | 2022-01-07 |  |
 | [Stillness is Waiting](https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 2:38 | 2022-01-07 |  |
 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 | 2022-01-07 | 2022-06-03 |

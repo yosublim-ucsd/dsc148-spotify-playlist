@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,116 likes - 98 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,127 likes - 98 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 50 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 |
 | 51 | [All I Need](https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [IS U IS U](https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX) | [All I Need](https://open.spotify.com/album/2pXo4k3f6Za6rFrpF7B5sI) | 2:58 |
 | 52 | [Silver](https://open.spotify.com/track/5fj3PwaRTnpDQpNWTytTgy) | [2touch](https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq) | [Silver](https://open.spotify.com/album/2fbcY2L4Nvg5GqqDoE3trh) | 3:24 |
-| 53 | [Jump](https://open.spotify.com/track/6a9aHCocZ8ehn89uW0FqUJ) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/7cihYq8t0Rg0W44L7uY1xR) | 2:33 |
+| 53 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 |
 | 54 | [Fever](https://open.spotify.com/track/2z4KMwAsumqwxp2AdlK0w5) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Fever](https://open.spotify.com/album/09GQx11jGc0Qk4d2nZPkJE) | 3:18 |
 | 55 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 |
 | 56 | [maybe im too late](https://open.spotify.com/track/0H3t7RgadNaUCTtFUr0CSa) | [Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5), [Stellie](https://open.spotify.com/artist/0WGMPhb6ipresPQfFcIxwH) | [maybe im too late](https://open.spotify.com/album/1EjJuloimDncLsAbu1KiOC) | 2:23 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 97 | [Breakaway](https://open.spotify.com/track/3g0eHwVjGYZaHooqGtKefQ) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Breakaway](https://open.spotify.com/album/3Qf1lsCco4UBhUZF0ydjmx) | 2:45 |
 | 98 | [Break](https://open.spotify.com/track/21qh7wOW9qljk3A7tMAyLM) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Break / Saw U](https://open.spotify.com/album/3B9VRmFZ4TK6jgRsgextA5) | 4:06 |
 
-Snapshot ID: `MCwwNDFlODU0MjhhY2Q4YzBmZDQ1YWI1MGFlOTFkNTBjYzI4ODZjOGEy`
+Snapshot ID: `MCw3Y2U3MDBlY2Y3ZjZmYzQ2Y2EzNzg1YmEwM2IyNTVmNDdkM2E3MjZl`

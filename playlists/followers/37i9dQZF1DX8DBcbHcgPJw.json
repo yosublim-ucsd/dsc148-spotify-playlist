@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 1191418,
+  "2024-04-08": 1191515,
   "date_first_scraped": "2022-01-02",
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Flor Alvarez & Dj Tao.",
   "name": "Dame M\u00e1s Cumbia",
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 170146,
       "name": "C14TORCE V: Balada para un Alien",
       "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
@@ -5477,6 +5477,24 @@
       "duration_ms": 447529,
       "name": "Messirve Mix 3",
       "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
+    },
+    {
+      "album": {
+        "name": "Messirve mix 3",
+        "url": "https://open.spotify.com/album/5MOFTZBv6AGxBEsu0lJwua"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447529,
+      "name": "Messirve mix 3",
+      "url": "https://open.spotify.com/track/4C6NsCvBr8G7GC3Dg7Ekr1"
     },
     {
       "album": {

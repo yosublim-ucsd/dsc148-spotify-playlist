@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 15796,
+  "num_followers": 15792,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWE0MzA5OTUyNzkwNmRmYWYwMGQ4ZmMyNzA2NTc2ZTlhZTk1M2Ni",
+  "snapshot_id": "MCw4ZDI5NTg0YzY2NTAzNzJlYTEyMWRiZTQwODMyODRhZjBmMThkZWJh",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Die 4 Respect",
         "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 245621,
       "name": "Impatient (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
     },
     {
       "added_at": null,
@@ -947,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 97866,
+      "name": "Isabel Marant",
+      "url": "https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What U Want",
         "url": "https://open.spotify.com/album/2dHNueuBm0PuI5gF5J5Ubh"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 152186,
       "name": "Sex So Good (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/40mQXYRIZl7c8Of0mfnRBC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 97866,
-      "name": "Isabel Marant",
-      "url": "https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj"
     }
   ],
   "unique_name": "This Is Coi Leray",

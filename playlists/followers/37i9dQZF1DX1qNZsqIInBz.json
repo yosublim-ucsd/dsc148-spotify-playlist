@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 326084,
+  "2024-04-08": 326768,
   "date_first_scraped": "2022-11-13",
   "description": "smooth drifting only",
   "name": "cosmic phonk",
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 143292,
       "name": "Glass",
       "url": "https://open.spotify.com/track/4Jgmr12s2lBkg1pP1tJZgr"
@@ -1495,6 +1495,28 @@
       "duration_ms": 143292,
       "name": "Glass",
       "url": "https://open.spotify.com/track/5GGg5AYqHzwQqAEiCYdD9T"
+    },
+    {
+      "album": {
+        "name": "Godlike",
+        "url": "https://open.spotify.com/album/5tN3bqNcaDIdv3ALvbWVId"
+      },
+      "artists": [
+        {
+          "name": "SPVRROW",
+          "url": "https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF"
+        },
+        {
+          "name": "YUSHEE",
+          "url": "https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143292,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/7AoGpqHBn54upZcNCSIM8S"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-221 songs - 11 hr 34 min
+223 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2019-10-13 |  |
 | [Everybody Wants to Rule the World \- Acoustic](https://open.spotify.com/track/3wy5ytqKxQxUYFgx5NAFav) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Everybody Wants to Rule the World \(Acoustic\)](https://open.spotify.com/album/42v30LBLeJfQDdedtZCD4a) | 2:24 | 2023-03-24 |  |
 | [Faith \- Acoustic](https://open.spotify.com/track/0buj86DGYYkrDOX8egKDtg) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Faith \(Acoustic\)](https://open.spotify.com/album/2U75eAo18XKY0iTOyvxfDm) | 2:40 | 2024-03-08 | 2024-03-23 |
+| [Fast Car \- Acoustic Live Session](https://open.spotify.com/track/14N56qsRV6jOydcjHqN6El) | [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5), [STABAL](https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf) | [Fast Car \(Acoustic Live Session\)](https://open.spotify.com/album/36HrHr1wj7tzsryHiUnem2) | 3:21 | 2024-04-07 |  |
 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 | 2019-10-13 |  |
 | [Fix You](https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW) | 4:21 | 2019-10-13 |  |
 | [Flowers \- Acoustic](https://open.spotify.com/track/7uSAkK0jL8Go2YyO8T2kt6) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Flowers \(Acoustic\)](https://open.spotify.com/album/3FmAl6kjYy0nUwAgOhhjKn) | 3:43 | 2023-03-23 |  |
@@ -121,6 +122,7 @@
 | [Lean on Me](https://open.spotify.com/track/40qEnmwWaJW7teieAtLAsz) | [Joseph Vincent](https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I) | [Lean on Me](https://open.spotify.com/album/4GveKz4QiYwIauZZp2kVuw) | 1:55 | 2024-03-03 |  |
 | [Let Her Go \- Acoustic](https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:26 | 2019-10-13 |  |
 | [Let's Stay Together \- Acoustic](https://open.spotify.com/track/2BUbXK85KECrYtSWEzoxFM) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Let's Stay Together \(Acoustic\)](https://open.spotify.com/album/1YfNCzcnrr7nbQGvttzpkb) | 3:02 | 2023-11-17 |  |
+| [Lifted \- Acoustic](https://open.spotify.com/track/5B26Q1m6tNOklrvWr6lFEr) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Lifted \(Acoustic\)](https://open.spotify.com/album/1YbuDjbPhC1DILi7mcgsAY) | 2:44 | 2024-04-07 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2019-10-13 |  |
 | [Linger \(Acoustic\)](https://open.spotify.com/track/4aa7SCxygkZgBZ3Y1KU1t3) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Linger \(Acoustic\)](https://open.spotify.com/album/1g1CPXonz2qCXUqZMqcqP4) | 2:46 | 2019-10-13 |  |
 | [Lose Control \- Acoustic](https://open.spotify.com/track/5UlmRrsGgc0LH1PjWEr0tf) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Lose Control \(Acoustic\)](https://open.spotify.com/album/6cjptNzpxG7NWNOfnFC3n9) | 2:45 | 2024-03-08 |  |

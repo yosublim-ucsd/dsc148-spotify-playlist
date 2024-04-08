@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with J\. Cole, Future, Metro Boomin, Doja Cat, GloRilla and Megan Thee Stallion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,962 likes - 74 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,961 likes - 74 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 73 | [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 |
 | 74 | [Go To Hell](https://open.spotify.com/track/2Yd5D02hVICrlpMvd4JOqc) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Go To Hell](https://open.spotify.com/album/0lVsaUVTURhkRAOEv6hwhI) | 3:39 |
 
-Snapshot ID: `MCw1NzNiMDNjYjc2ZGVlY2QyODliOWMyZWUzZDVjMDY3YjQ5YjUzYWUx`
+Snapshot ID: `MCw0ZmY1YmYwZjI3OTYyNTkzZGI2OTNmZWJmMjcxZWIzNzZmYWYzOWYz`

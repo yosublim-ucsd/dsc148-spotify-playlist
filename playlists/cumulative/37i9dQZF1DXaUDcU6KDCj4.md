@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: X Ambassadors
 
-1,990 songs - 5 day 1 hr 19 min
+1,991 songs - 5 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,8 @@
 | [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-05 | 2024-03-02 |
 | [Half the Story](https://open.spotify.com/track/73j46sAcr4IumQBuFZGk60) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Half the Story](https://open.spotify.com/album/0hQsIQXwzzGvGvJa8c2oI2) | 3:24 | 2022-10-07 | 2023-02-18 |
 | [Half the Story \(with Alix Page\)](https://open.spotify.com/track/4Q48kYYUtJkxMZXal19xjq) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Half the Story \(with Alix Page\)](https://open.spotify.com/album/73OM6ZQ0D8VuYPJ4HEayBS) | 3:24 | 2022-09-02 | 2022-10-13 |
-| [Half\-Life](https://open.spotify.com/track/4e8nrSuEiqVYEFzs6eY8Ow) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Half\-Life](https://open.spotify.com/album/45M2A6qlpeR1vhm7JxAnF5) | 3:13 | 2024-03-15 |  |
+| [Half\-Life](https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:13 | 2024-03-15 |  |
+| [Half\-Life](https://open.spotify.com/track/4e8nrSuEiqVYEFzs6eY8Ow) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Half\-Life](https://open.spotify.com/album/45M2A6qlpeR1vhm7JxAnF5) | 3:13 | 2024-03-15 | 2024-04-08 |
 | [Half\-Life](https://open.spotify.com/track/6zeS5EGBJcD1G6PyGy2UkZ) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Half\-Life](https://open.spotify.com/album/12SzcBgC5YfI0hPxOAiQ8r) | 3:13 | 2024-03-15 | 2024-03-23 |
 | [Hallelujah Anyway](https://open.spotify.com/track/2i6U0iTND18B5gD6QmCo2M) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Hallelujah Anyway](https://open.spotify.com/album/6iG1EIMbUXhXTpb99kcHhi) | 3:33 | 2023-05-12 | 2023-07-22 |
 | [hallow's eve](https://open.spotify.com/track/257WCspICXPffkvdEvVaIP) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F), [Timothy Edward Carpenter](https://open.spotify.com/artist/5Ey3CuclF1I1yTc1i0YDgc) | [hallow's eve](https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU) | 2:13 | 2023-10-20 | 2024-01-20 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDMxYWExYmY4YmJkMTBkNGNjZDljYTc2Y2VhNDVkM2Y3MDEwODY5",
+  "snapshot_id": "MCwxYTU5NGRhZTJhMjNkOWQwNDFiMTZlYTQwZDUyZDNiMmI3OGZhZjc2",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "The Shadow Of Your Smile - Digitally Remastered",
-      "url": "https://open.spotify.com/track/3lgZGL0dlI7ZLp3xlWWd0K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody But Lou",
         "url": "https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 164466,
       "name": "Nobody But Me",
       "url": "https://open.spotify.com/track/1TKnomDQTCtUQEKdGwaE5S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "The Shadow Of Your Smile - Digitally Remastered",
+      "url": "https://open.spotify.com/track/3lgZGL0dlI7ZLp3xlWWd0K"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Note Plays Bossa Nova",
+        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "The Girl From Ipanema - Live",
+      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Portrait Of The Blues",
         "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 184026,
       "name": "A Lover's Question",
       "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Note Plays Bossa Nova",
-        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "The Girl From Ipanema - Live",
-      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unmistakably Lou",
-        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 266872,
-      "name": "Spring Again",
-      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 293213,
       "name": "Sit Down and Talk to Me",
       "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unmistakably Lou",
+        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 266872,
+      "name": "Spring Again",
+      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lou Rawls (Unplugged) Philadelphia - Chicago - Detroit [Live]",
-        "url": "https://open.spotify.com/album/6fe7BWXsHHmD0nX5YL5Zsi"
+        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
+        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 120986,
-      "name": "Unforgettable - Live",
-      "url": "https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8"
+      "duration_ms": 183440,
+      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
+      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
       "duration_ms": 241680,
       "name": "Tobacco Road - 2006 Remaster",
       "url": "https://open.spotify.com/track/2XV3Q00jCVoePVLoXl8nKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
-        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
-      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
     },
     {
       "added_at": null,
@@ -679,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can't Make It Alone: The Axelrod Years",
-        "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 156133,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -707,6 +675,22 @@
       "duration_ms": 339160,
       "name": "Early Morning Love",
       "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Can't Make It Alone: The Axelrod Years",
+        "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
     },
     {
       "added_at": null,
@@ -759,6 +743,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black And Blue",
+        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Edge: David Axelrod At Capitol Records 1966-1970",
+        "url": "https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 111586,
+      "name": "Lifetime Monologue - Remastered",
+      "url": "https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True Genius",
         "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
       },
@@ -799,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Edge: David Axelrod At Capitol Records 1966-1970",
-        "url": "https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K"
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
       "artists": [
         {
@@ -808,29 +824,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 111586,
-      "name": "Lifetime Monologue - Remastered",
-      "url": "https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Session #55 (1936-2001)",
-        "url": "https://open.spotify.com/album/4fwPNbWSGj9VgPlPNufj65"
-      },
-      "artists": [
-        {
-          "name": "Les Brown & His Band Of Renown",
-          "url": "https://open.spotify.com/artist/4Xg35Eo56SHMw5oWbCmw9O"
-        },
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 165840,
-      "name": "They Can't Take That Away from Me",
-      "url": "https://open.spotify.com/track/5wxU0hgoQovDevPToz0Urd"
+      "duration_ms": 256160,
+      "name": "We Understand Each Other",
+      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
     }
   ],
   "unique_name": "This Is Lou Rawls",

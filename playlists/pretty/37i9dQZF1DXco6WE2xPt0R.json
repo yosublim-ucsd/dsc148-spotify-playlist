@@ -1,12 +1,12 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 113722,
+  "num_followers": 113770,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDhlMmMxODNlMzgzZWUyMmMwMGEzNjlmNThlZmYxMmFjMThkODYw",
+  "snapshot_id": "MCxiMjFjNDc2NGVjOWI0ODE1ZjBkMzA0MjgzNmIzMmUxMTNmYjQzOGQz",
   "tracks": [
     {
       "added_at": "2024-04-05 03:01:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 310809,
+      "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
+      "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Empathy",
         "url": "https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 256310,
       "name": "Anytime (feat. Kehlani & ROMderful)",
       "url": "https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 310809,
-      "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
-      "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -907,6 +907,26 @@
       "duration_ms": 231580,
       "name": "Perfect Stranger (feat. Kenny Lattimore)",
       "url": "https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Multiply (Feat. Luedji Luna)",
+        "url": "https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Multiply - Feat. Luedji Luna",
+      "url": "https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1023,22 +1043,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Letter To Ur Ex",
         "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
       },
@@ -1055,22 +1059,18 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Multiply (Feat. Luedji Luna)",
-        "url": "https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG"
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
       },
       "artists": [
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Multiply - Feat. Luedji Luna",
-      "url": "https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9"
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
-      },
-      "artists": [
-        {
-          "name": "Amaal Nuux",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Let Me See Your Phone",
         "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "No Love Song",
-        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
+        "name": "Milly",
+        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
       },
       "artists": [
         {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+          "name": "Amaal Nuux",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
         }
       ],
-      "duration_ms": 239173,
-      "name": "No Love Song",
-      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
+      "duration_ms": 183586,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "No Love Song",
+        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "No Love Song",
+      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/6AcsZZ2w0lPCkdCXdeZsyh"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 199906,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/7qArBfIvf7EgFwqa2oUd66"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Come To My Room",
-      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Come To My Room",
+      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1619,22 +1619,6 @@
       "duration_ms": 250241,
       "name": "Chocolate Covered Strawberries",
       "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "New Growth",
-        "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "No Pussy For Losers",
-      "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1727,6 +1711,22 @@
       "duration_ms": 110640,
       "name": "Arz Interlude",
       "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "New Growth",
+        "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "No Pussy For Losers",
+      "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
     },
     {
       "added_at": "2024-04-05 03:01:00",

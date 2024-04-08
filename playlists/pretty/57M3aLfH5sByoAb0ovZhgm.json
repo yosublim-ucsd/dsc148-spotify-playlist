@@ -6,7 +6,7 @@
     "name": "Smit Mehta",
     "url": "https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz"
   },
-  "snapshot_id": "MTQ1LDA4MjJiMTkxYTU2OTVjNGY1MmY1MmU2MDQ0MWFmMzA5ZTk5OTI1NzU=",
+  "snapshot_id": "MTQ2LDcyMzY3NDA5MTdlZTNiNjhiNmQ0NTg4ZGU4MTMwMTRmYmFhN2E4NzY=",
   "tracks": [
     {
       "added_at": "2023-06-10 13:20:10",
@@ -2115,6 +2115,30 @@
       "duration_ms": 281218,
       "name": "cold/mess",
       "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
+    },
+    {
+      "added_at": "2024-04-07 08:32:15",
+      "album": {
+        "name": "Aisha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Ash King",
+          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
+        }
+      ],
+      "duration_ms": 260026,
+      "name": "Suno Aisha",
+      "url": "https://open.spotify.com/track/0MjL7YQ02qH7nxfayhbmfp"
     }
   ],
   "unique_name": "Aish",

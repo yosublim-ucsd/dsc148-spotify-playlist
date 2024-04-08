@@ -4,7 +4,7 @@
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-94 songs - 4 hr 34 min
+98 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [417 Hz \- Tides of Eternity](https://open.spotify.com/track/5YW42kAlOzCPkJkuslA3Zv) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Tides of Eternity](https://open.spotify.com/album/6WgkixEENAU8DXDGjquVRo) | 2:54 | 2023-03-10 |  |
 | [417 Hz \- Why The Rush](https://open.spotify.com/track/4kGgvet4UW9oOZKTlpY3ic) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 | 2023-08-07 |  |
 | [417 Hz Breathe In](https://open.spotify.com/track/5DWfdHlOypTY2FTNZnl8Zx) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [417 Hz Breathe In](https://open.spotify.com/album/54YmJvv7tLNqMLPJsBo92d) | 2:34 | 2023-08-07 |  |
+| [417 Hz Breathing](https://open.spotify.com/track/2PVTROWVvNQMktFx1j6fCG) | [Solfeggio Flow](https://open.spotify.com/artist/10mwt6z8SsapStLLNoIVF7) | [417 Hz Breathing](https://open.spotify.com/album/3sK1wsHDIu3Dfm3X7loUgH) | 2:50 | 2024-04-07 |  |
 | [417 Hz Calma](https://open.spotify.com/track/7fgFpG7NkhCSHGE8HwPWRp) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation](https://open.spotify.com/album/5aLjQ1knFzjkmMxwJrPPpd) | 2:46 | 2023-03-10 |  |
 | [417 Hz Calma \(Nature\)](https://open.spotify.com/track/5RpPrA45N1wKZRUjVR2NJk) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation with Nature Sounds](https://open.spotify.com/album/0luGXVbbrR8hDxjDl3Rx68) | 2:46 | 2023-03-10 |  |
 | [417 Hz Chakra](https://open.spotify.com/track/4QzI9XTnSaCGmVMIhrU1hB) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation](https://open.spotify.com/album/5aLjQ1knFzjkmMxwJrPPpd) | 3:02 | 2023-03-10 |  |
@@ -38,6 +39,7 @@
 | [417 Hz Letting go](https://open.spotify.com/track/56WpAn0KZKqedUicFeq5bP) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [417 Hz Letting go](https://open.spotify.com/album/2Bgl7sZQMHKGjdQSMYfUOo) | 2:48 | 2023-03-10 |  |
 | [417 Hz New Beginning](https://open.spotify.com/track/549NvYpEQqmEJdT0yAvqD2) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [New Beginning](https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH) | 3:43 | 2023-03-10 |  |
 | [417 Hz OM Chanting Meditation Music](https://open.spotify.com/track/4sFXdpHcCA0ksJjFQr6eA3) | [Miracle Waves](https://open.spotify.com/artist/6Olo3ndJO668ISIF22Vv9F), [Miracle Wake](https://open.spotify.com/artist/5uD6Sej9GUPI0EOyXOjNZ6), [Solfeggio Frequencies Healing Music](https://open.spotify.com/artist/5KuIHc8rHCWEBGQZsuOUX8) | [417 Hz Remove All The Negative Blockages & Energy](https://open.spotify.com/album/0Hy0MmCOPPvrrrC1e9Udek) | 3:00 | 2023-03-10 |  |
+| [417 Hz Quantum Leap Melodies](https://open.spotify.com/track/1vdt9PUxWWpR4ZOLFndfNB) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [417 Hz Quantum Leap Melodies](https://open.spotify.com/album/0osnSA6gwpOKyeRF1JGJGM) | 3:25 | 2024-04-07 |  |
 | [417 Hz Reflection](https://open.spotify.com/track/7sTCaTsYVLADWpsIYdqgzY) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [417 Hz Breathe In](https://open.spotify.com/album/54YmJvv7tLNqMLPJsBo92d) | 2:51 | 2023-08-07 |  |
 | [417 Hz Rooted](https://open.spotify.com/track/3Dg2XVWcMhq1HZA6SJO4PZ) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [417 Hz Rooted](https://open.spotify.com/album/1RlIGJJrBqTozcvy1amMXQ) | 2:52 | 2023-11-30 |  |
 | [417 Hz Sacral Chakra Solfeggio](https://open.spotify.com/track/1l2MLb1AsvY0Nc5dm7GQFW) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Gentle Breathing](https://open.spotify.com/album/2zpiPiyUUfFfWN6OdXeL2W) | 3:06 | 2023-03-10 |  |
@@ -46,7 +48,9 @@
 | [417 Hz Spaces \(Nature\)](https://open.spotify.com/track/6zyFBX0I7r8O7OWQTcno5Y) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation with Nature Sounds](https://open.spotify.com/album/0luGXVbbrR8hDxjDl3Rx68) | 3:09 | 2023-03-10 |  |
 | [417 Hz The Sound of Change](https://open.spotify.com/track/1qeh0tOIWtFyuX4WHbuxhp) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [417 Hz The Sound of Change](https://open.spotify.com/album/7BIS1H7kHlyX6dD653LGas) | 2:44 | 2024-03-13 |  |
 | [417 Hz Timeless](https://open.spotify.com/track/4VMWQ3W7dj0IdGibhdQKlX) | [Francorchamps](https://open.spotify.com/artist/11fWJjHq0q210RYCK5sSDh) | [417 Hz Timeless](https://open.spotify.com/album/0Ht0PmmDktxvvfptwGPVwD) | 3:00 | 2023-03-10 |  |
+| [417 Hz Timeless Tranquility](https://open.spotify.com/track/5RvtcQOmt23MJJbOzaB3NC) | [Floating On Clouds](https://open.spotify.com/artist/0A6cVdn2JhwPmYnBQrXRSK) | [417 Hz Timeless Tranquility](https://open.spotify.com/album/1uHC3ucNzK3TJ8wPDgChH4) | 3:16 | 2024-04-07 |  |
 | [417 Hz Unity Healing](https://open.spotify.com/track/4SsyJ6wO0IJi2iZyj7K2xo) | [Edda Prado](https://open.spotify.com/artist/0PAg1jsa3Fn4R8XmcoYUWc) | [417 Hz Unity Healing](https://open.spotify.com/album/5SdV03KnGJdl7ougERDrx5) | 3:12 | 2023-08-07 |  |
+| [417 Hz Universal Connection](https://open.spotify.com/track/2HDiVxgo4sVBVVrn0mq7Jm) | [Whispering Zephyr](https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux) | [417 Hz Universal Connection](https://open.spotify.com/album/2dnm0nbaI7inyT7QbnH8Dc) | 3:07 | 2024-04-07 |  |
 | [417 Hz – Talentueuse](https://open.spotify.com/track/4sUwwyop662EyG9YuSAMWg) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Talentueuse](https://open.spotify.com/album/34cHAvwkGQnYto6Ze7Hii3) | 2:19 | 2023-03-10 |  |
 | [417 Solfeggio Attunement](https://open.spotify.com/track/2xakNztMJ2DfVKQrDIKFA0) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf) | [417: Healing Vibrations](https://open.spotify.com/album/6r5fwkLpEPBgi70ELGlrtv) | 2:08 | 2023-03-10 |  |
 | [417Hz Alignments](https://open.spotify.com/track/0m0lI0kpU7OpxN6LfStnaR) | [Tree Talker](https://open.spotify.com/artist/5BWcNI4vQrnhrBht2b1tU0) | [417Hz Alignments](https://open.spotify.com/album/1MUkQcaFCT5D01uS8Bt9B1) | 2:37 | 2023-11-30 |  |

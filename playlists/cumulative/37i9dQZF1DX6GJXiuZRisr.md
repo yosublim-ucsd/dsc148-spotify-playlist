@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-465 songs - 1 day 9 hr 7 min
+466 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Focus Shift](https://open.spotify.com/track/3pIZW8KU4gdNj1zOR3yq8X) | [Dallic](https://open.spotify.com/artist/5tGZYcCVzejFFYAjEUjbgh) | [Focus Shift](https://open.spotify.com/album/5vSq28RCgpQ02Wq4vMfqeH) | 3:59 | 2021-05-07 | 2022-04-20 |
 | [Follow me \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/5c4xnWEDCzN3Y2RrjV7GKb) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Follow Me \(Remixes\)](https://open.spotify.com/album/6yFdfs6u4PRuuhpTrTelp8) | 4:23 | 2021-05-07 | 2022-04-20 |
 | [Follow You Anywhere](https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Follow You Anywhere](https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs) | 4:04 | 2022-07-01 | 2023-04-06 |
+| [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 | 2024-04-05 |  |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 | 2023-02-26 |
 | [Forget It](https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH) | 2:53 | 2022-07-01 | 2023-07-15 |
 | [Free Your Mind](https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Free Your Mind](https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r) | 5:38 | 2023-06-02 | 2024-01-22 |
@@ -272,7 +273,7 @@
 | [No One’s Coming](https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:38 | 2024-03-15 |  |
 | [No Signal](https://open.spotify.com/track/6lVojxTCS4kOfiS11A69zZ) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [No Signal](https://open.spotify.com/album/4RnyV2lJxQO4iRwjgTjoWv) | 6:13 | 2021-05-07 | 2022-04-20 |
 | [No Sleep \- Radio Edit](https://open.spotify.com/track/4N0RKL2Yeoet1JgAFVbFKf) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Death by Techno](https://open.spotify.com/album/0fTsFYETU4HyvjsBLRQhhl) | 4:03 | 2021-05-07 | 2022-04-19 |
-| [Not Over Yet \(feat\. Grace Grundy\)](https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Not Over Yet \(feat\. Grace Grundy\)](https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6) | 2:41 | 2023-05-05 |  |
+| [Not Over Yet \(feat\. Grace Grundy\)](https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Not Over Yet \(feat\. Grace Grundy\)](https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6) | 2:41 | 2023-05-05 | 2024-04-08 |
 | [Nothing Else Matters](https://open.spotify.com/track/2J2CcT3UwIq79wQvCCGtqR) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [HEREON](https://open.spotify.com/artist/7mFinREzAQwsneN5JaboIr) | [HEREON](https://open.spotify.com/album/5jSrvGNnDa6PDi7vlRFMLV) | 3:31 | 2024-02-16 |  |
 | [Nothing Ever Changes](https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Nothing Ever Changes](https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4) | 3:46 | 2024-04-05 |  |
 | [Numb \- Joris Voorn Remix, Edit](https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Numb \(Joris Voorn Remix\)](https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF) | 3:57 | 2021-05-07 |  |

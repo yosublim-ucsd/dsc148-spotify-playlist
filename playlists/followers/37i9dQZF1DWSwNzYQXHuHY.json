@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 9734,
+  "2024-04-08": 9737,
   "date_first_scraped": "2022-05-30",
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
   "name": "\uc378 (Something)",
@@ -605,7 +605,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 157777,
       "name": "Confuse",
       "url": "https://open.spotify.com/track/5DVfZpo2EUQ9ZdpBDx4w5H"
@@ -3923,6 +3923,24 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+    },
+    {
+      "album": {
+        "name": "why did you answer",
+        "url": "https://open.spotify.com/album/1bo7IsnwdijZNIJfgqnyso"
+      },
+      "artists": [
+        {
+          "name": "ARO",
+          "url": "https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192706,
+      "name": "why did you answer",
+      "url": "https://open.spotify.com/track/2QjIFxkVsnDs7GQgFjn9cp"
     },
     {
       "album": {

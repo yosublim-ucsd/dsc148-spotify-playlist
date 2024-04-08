@@ -7167,6 +7167,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/20B86iJjjECtzJ77XlfHsn"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195001,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa"
+    },
+    {
+      "album": {
         "name": "GIAYPHUT",
         "url": "https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH"
       },
@@ -7756,6 +7774,24 @@
       "duration_ms": 197205,
       "name": "Happier",
       "url": "https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182428,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
     },
     {
       "album": {
@@ -9206,7 +9242,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 167997,
       "name": "imagining things",
       "url": "https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc"
@@ -14682,7 +14718,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 176250,
       "name": "Outrun This Feeling",
       "url": "https://open.spotify.com/track/5pI9tVNPYhWrxBwV1IlfV8"

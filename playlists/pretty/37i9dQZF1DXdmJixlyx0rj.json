@@ -1,12 +1,12 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Peggy Gou)",
-  "num_followers": 24178,
+  "num_followers": 24195,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzRmMjQ4YjdiZjc3YTBmYTE2ODJiZThjODUzZmM4NjBlZjViYzdh",
+  "snapshot_id": "MCwxYmMwZTgxMGI3YTMyNzZiMDFlZGU4NjdlZTJiZmIwMjI5MWMwN2Ni",
   "tracks": [
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
-        "name": "iScreaM Vol.17 : DEEP Remixes",
-        "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
-      },
-      "artists": [
-        {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        },
-        {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
-        }
-      ],
-      "duration_ms": 225962,
-      "name": "DEEP - h4rdy Remix",
-      "url": "https://open.spotify.com/track/32ublq72W447prf0jOntiJ"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
         "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
         "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
       },
@@ -1603,22 +1583,38 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
-        "name": "iScreaM Vol.7 : Don't Call Me Remixes",
-        "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
+        "name": "iScreaM Vol.17 : DEEP Remixes",
+        "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
         },
         {
-          "name": "ESAI",
-          "url": "https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE"
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
         }
       ],
-      "duration_ms": 181463,
-      "name": "Don't Call Me - ESAI Remix",
-      "url": "https://open.spotify.com/track/0IOwemmG89kd7zavZz6bvS"
+      "duration_ms": 225962,
+      "name": "DEEP - h4rdy Remix",
+      "url": "https://open.spotify.com/track/32ublq72W447prf0jOntiJ"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
+      },
+      "artists": [
+        {
+          "name": "KIRARA",
+          "url": "https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW"
+        }
+      ],
+      "duration_ms": 355852,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1639,18 +1635,22 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
+        "name": "iScreaM Vol.7 : Don't Call Me Remixes",
+        "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
       "artists": [
         {
-          "name": "KIRARA",
-          "url": "https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW"
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        },
+        {
+          "name": "ESAI",
+          "url": "https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE"
         }
       ],
-      "duration_ms": 355852,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM"
+      "duration_ms": 181463,
+      "name": "Don't Call Me - ESAI Remix",
+      "url": "https://open.spotify.com/track/0IOwemmG89kd7zavZz6bvS"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
+        "name": "ION",
+        "url": "https://open.spotify.com/album/0MFykXNF16vdKA92yO4eiI"
+      },
+      "artists": [
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        }
+      ],
+      "duration_ms": 253637,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/3odJfYuQWSOamh85TAIStM"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
         "name": "Samduck",
         "url": "https://open.spotify.com/album/0VszkBflaKTagL0NdUKEl7"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 139047,
       "name": "Samduck",
       "url": "https://open.spotify.com/track/3cwPm46wCBpPx6fnPEowUR"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
-        "name": "ION",
-        "url": "https://open.spotify.com/album/0MFykXNF16vdKA92yO4eiI"
-      },
-      "artists": [
-        {
-          "name": "CIFIKA",
-          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
-        }
-      ],
-      "duration_ms": 253637,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/3odJfYuQWSOamh85TAIStM"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
+        "name": "Forest",
+        "url": "https://open.spotify.com/album/4C45OQeWsIvj1QNb4aHiMs"
+      },
+      "artists": [
+        {
+          "name": "DIDI HAN",
+          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
+        }
+      ],
+      "duration_ms": 424000,
+      "name": "Euphoric Forest",
+      "url": "https://open.spotify.com/track/6h3RLwnbGwcZoUdtFaRbMy"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/0SFyF2YwxMJn6sHkOCTRfW"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 177945,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/1l5J8Z8hIhfFvt6hUbuchV"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
-        "name": "Forest",
-        "url": "https://open.spotify.com/album/4C45OQeWsIvj1QNb4aHiMs"
-      },
-      "artists": [
-        {
-          "name": "DIDI HAN",
-          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "Euphoric Forest",
-      "url": "https://open.spotify.com/track/6h3RLwnbGwcZoUdtFaRbMy"
     }
   ],
   "unique_name": "Electronii'K",

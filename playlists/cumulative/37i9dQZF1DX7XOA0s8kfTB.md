@@ -4,12 +4,13 @@
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-17 songs - 42 min 59 sec
+18 songs - 44 min 1 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Answer to Extreme](https://open.spotify.com/track/5dPzG4Qv2hAPV60adG25UC) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Answer to Extreme](https://open.spotify.com/album/4OpXV7tSWTnMRwNlLInW6R) | 2:33 | 2024-04-04 |  |
 | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/track/0SFw1KwH6ltFqzrhST2hGs) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/album/0IxVu1A7uA7WTCHJcOuHAm) | 1:01 | 2024-04-04 | 2024-04-06 |
+| [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/track/19jDmN4iPdxdKIgnAQkRqC) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/album/7gk75EjUFhKFdRWPsF4HU1) | 1:01 | 2024-04-06 |  |
 | [Bleeding Hearts](https://open.spotify.com/track/6XjjysW84F31LxB5GDVbZ8) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Bleeding Hearts](https://open.spotify.com/album/55YkdMjpfnqPo2zIFux1BJ) | 3:41 | 2024-04-04 |  |
 | [Dr\. 安和 すばる ボイスメッセージ](https://open.spotify.com/track/4AWPsoNGuc7tKwIRKIBGog) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Dr\. 安和 すばる ボイスメッセージ](https://open.spotify.com/album/4yoHtdI2CP1VspPyjiElfg) | 0:52 | 2024-04-04 |  |
 | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/track/1rJ6e59hoGbP02eDTWIy1B) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/album/1GqmnFpcDw0XsWXY5gJwPf) | 1:10 | 2024-04-04 |  |

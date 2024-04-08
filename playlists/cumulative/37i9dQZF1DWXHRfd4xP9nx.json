@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Abacos (Rain)",
       "url": "https://open.spotify.com/track/2eIEk2o3XtzmjyE5wVgttP"
@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Mellow Rainy Ambience",
+        "url": "https://open.spotify.com/album/71N34XlEktcVejzbArFRAw"
+      },
+      "artists": [
+        {
+          "name": "Earth's Rain",
+          "url": "https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Mellow Rainy Ambience",
+      "url": "https://open.spotify.com/track/5g81WmGEFIAfcvJoXrDFfG"
+    },
+    {
+      "album": {
         "name": "Gotland Rain Sounds",
         "url": "https://open.spotify.com/album/0Zl63O9EmQKZQRl8xSsqk5"
       },
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 208062,
       "name": "Rain all night",
       "url": "https://open.spotify.com/track/28wkhl6dcZCektz1OUEKrs"
@@ -4052,7 +4070,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 144000,
       "name": "Rain: Resting Spirit",
       "url": "https://open.spotify.com/track/3TCn6mt2f60xSpMUKjQtNK"

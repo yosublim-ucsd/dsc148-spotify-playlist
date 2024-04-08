@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 1069,
+  "2024-04-08": 1070,
   "date_first_scraped": "2021-12-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2\">Leland</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Leland",
@@ -3081,6 +3081,28 @@
       "duration_ms": 108085,
       "name": "Sunflower - Movie Version",
       "url": "https://open.spotify.com/track/57ziLBQr9HNe8AU4tLTlsf"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine (slightly deluxe)",
+        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163381,
+      "name": "supernatural (with Troye Sivan)",
+      "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
     },
     {
       "album": {

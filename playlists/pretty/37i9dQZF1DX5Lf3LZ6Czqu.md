@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,633 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,702 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 58 | [Belvedere](https://open.spotify.com/track/0Kq3RypTOKtYbYPVSrHcS1) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Way Forward](https://open.spotify.com/album/731aQEGKlJ8RveY3ncSekU) | 5:24 |
 | 59 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 |
 | 60 | [Sedosa](https://open.spotify.com/track/7CTV76FQ3TA6vHmwjvkblf) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/0ihSg4rBDSE9aSJbsTrU7z) | 3:45 |
-| 61 | [Slam](https://open.spotify.com/track/5ur2JO683Tt1D3hPttMQ0d) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/4YqnydxjrIqxytqlHXCyxJ) | 4:37 |
+| 61 | [Slam](https://open.spotify.com/track/2z54PSmczfteELFLbzo52H) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/5egVrnO8AjlG56mdm1GEtg) | 4:37 |
 | 62 | [Hollywood Woman](https://open.spotify.com/track/4N5QsHoAC40TVNWKxQXjXF) | [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [West Coast Grooves](https://open.spotify.com/album/6pp0yGrv9FuAI0BFl42Vcx) | 1:56 |
 | 63 | [Esperanza](https://open.spotify.com/track/4jJQlw27J0OF3wiYGY1egh) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0) | [The Sound of My Room](https://open.spotify.com/album/6dW8Oqq6KWBEePGQ4yZj0x) | 4:18 |
 | 64 | [Gimme 5](https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ) | [Gabriel Santiago](https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4) | [Gimme 5](https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `MCw4NzY1MWYyNTlhNThiNWI3ZjUzMTQ5MTIxMDdiZjY0ZTNlN2I1ZjJk`
+Snapshot ID: `MCwzYjk3NTMyNDYzZjYxY2E0ODU0ZTFhODA5NGNlOTk2OGY5NzAzYmJj`

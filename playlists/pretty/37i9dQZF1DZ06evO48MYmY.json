@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 326547,
+  "num_followers": 326599,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzNmODI2YWFlNTEzMTEwMTA5MDhmMmQ4ODMzYWQ1ZjA1OTczZDAy",
+  "snapshot_id": "MCw4ZTllNDM5MmE3ZTEwYzk0ZThiMzA1YWE2NjYxZjY4NWE3YTQ4MTBj",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 142293,
-      "name": "At the Zoo",
-      "url": "https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Concert in Central Park (Live)",
         "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 138386,
       "name": "Wake up Little Susie - Live at Central Park, New York, NY - September 19, 1981",
       "url": "https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 142293,
+      "name": "At the Zoo",
+      "url": "https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 132613,
-      "name": "Punky's Dilemma",
-      "url": "https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sounds Of Silence",
         "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 150560,
       "name": "A Most Peculiar Man",
       "url": "https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 132613,
+      "name": "Punky's Dilemma",
+      "url": "https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp"
     },
     {
       "added_at": null,

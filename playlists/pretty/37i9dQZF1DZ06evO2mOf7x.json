@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 42051,
+  "num_followers": 42071,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDZjYTE3YTYzOGE5MDVmMzI4ZmJkNTViMTIxZTBiODJiZDU2OTVk",
+  "snapshot_id": "MCwwNDc0N2QxOTYxYWM0OTRiM2ZlYWI0Mzk5NDY5ZjM4ZjMyYmNjOTk4",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rompiendo Cadenas",
+        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 208431,
+      "name": "Que Ironia - Original Mix",
+      "url": "https://open.spotify.com/track/2JWxpraTEhfOA3cBxgUTRi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada de Ti",
         "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 223578,
       "name": "Nada de Ti",
       "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rompiendo Cadenas",
-        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 208431,
-      "name": "Que Ironia - Original Mix",
-      "url": "https://open.spotify.com/track/2JWxpraTEhfOA3cBxgUTRi"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rompiendo Cadenas",
+        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 295209,
+      "name": "Rompiendo Cadenas - Original mix",
+      "url": "https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mentiras Bonitas",
         "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 188644,
       "name": "Mentiras Bonitas",
       "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rompiendo Cadenas",
-        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 295209,
-      "name": "Rompiendo Cadenas - Original mix",
-      "url": "https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Extra\u00f1arte Tanto",
-        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 233536,
-      "name": "Para No Extra\u00f1arte Tanto",
-      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rompiendo Cadenas",
         "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 203546,
       "name": "Te Llevaste - Original mix",
       "url": "https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para No Extra\u00f1arte Tanto",
+        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 233536,
+      "name": "Para No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
     },
     {
       "added_at": null,

@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189809,
+      "name": "Lovin' Me",
+      "url": "https://open.spotify.com/track/2CcdmXIMEObTJM5CCPXfma"
+    },
+    {
+      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 200973,
       "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
       "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"

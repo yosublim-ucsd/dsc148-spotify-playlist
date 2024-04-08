@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,618 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,630 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 35 | [Pa’ un Plenero \(plena\)](https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Viento de Agua Unplugged: Materia Prima](https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u) | 5:25 |
 | 36 | [Bombero Eh](https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:56 |
 | 37 | [Guañeco pié](https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:33 |
-| 38 | [La Llevo en Mis Venas / Bambulé a Paré / Dios Mío Si Yo Pudiera / Consuélala](https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K) | [Tambuyé](https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8) | [Tambuyé](https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl) | 6:05 |
-| 39 | [La Revolución \(A la Calle Plenero\)](https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA) | [Totin Agosto Arará y la Liga Rumbera](https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7) | [Orgánico y Medicinal](https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE) | 5:00 |
+| 38 | [La Revolución \(A la Calle Plenero\)](https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA) | [Totin Agosto Arará y la Liga Rumbera](https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7) | [Orgánico y Medicinal](https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE) | 5:00 |
+| 39 | [La Llevo en Mis Venas / Bambulé a Paré / Dios Mío Si Yo Pudiera / Consuélala](https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K) | [Tambuyé](https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8) | [Tambuyé](https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl) | 6:05 |
 | 40 | [Julieta](https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M) | [Yuba Ire](https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr) | [íEstá es mi rumba!](https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU) | 3:56 |
 | 41 | [Candela \(Seis Corrido\) \[Live\]](https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 3:12 |
 | 42 | [El Galo Canta](https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 49 | [Plenazo Callejero 1](https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 5:31 |
 | 50 | [Plena De San Anton](https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Somos Boricuas: Bomba Y Plena En Nueva York](https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB) | 3:43 |
 
-Snapshot ID: `MCwyZmFiZWVjNGMzMDc0YmQxNjM3ZTI1YzQ1MWVkYzRhYzRkOGJhNDU3`
+Snapshot ID: `MCxiZDk4Mzg4M2E3NjU5ODM2ZDAwZThhZTVhYTgwNWEyOGY2ZDJiYWM1`

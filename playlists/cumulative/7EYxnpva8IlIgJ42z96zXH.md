@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-833 songs - 1 day 19 hr 55 min
+834 songs - 1 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,7 +585,7 @@
 | [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 | 2022-06-03 | 2024-02-02 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-12-08 | 2023-12-15 |
 | [Races \(feat\. Blanco\)](https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Races \(feat\. Blanco\)](https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj) | 2:20 | 2024-03-21 |  |
-| [Rage](https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rage](https://open.spotify.com/album/3Fm13iU479MJh6ePRdYU35) | 2:38 | 2024-02-02 |  |
+| [Rage](https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rage](https://open.spotify.com/album/3Fm13iU479MJh6ePRdYU35) | 2:38 | 2024-02-02 | 2024-04-08 |
 | [rampage](https://open.spotify.com/track/2E5MrNoJuqwBhhxIp5v8F2) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [DJ Ss](https://open.spotify.com/artist/6hCo4lPE8hHJydoluW7luI) | [zero experience](https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0) | 2:47 | 2023-12-08 |  |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-03-01 | 2022-07-01 |
 | [Rave Shake](https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [Rave Shake](https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b) | 2:04 | 2023-03-03 | 2023-06-09 |
@@ -734,6 +734,7 @@
 | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 | 2023-01-27 | 2023-02-10 |
 | [Them Girls](https://open.spotify.com/track/5wuwcRpOKOaP1wZiHYGbq6) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11) | [Them Girls](https://open.spotify.com/album/2zvshIUW633GO4UBXTfAnD) | 2:22 | 2023-02-17 | 2023-05-30 |
 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 | 2022-07-08 | 2022-08-27 |
+| [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-04-07 |  |
 | [Things I Never Nu](https://open.spotify.com/track/1NAYrYgd473ua418mz32xb) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Second Nature](https://open.spotify.com/album/39g7HzX4s9teKLxwNYebw1) | 3:46 | 2022-11-11 | 2022-12-16 |
 | [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 | 2023-12-08 | 2024-02-23 |
 | [Thinkin' of You](https://open.spotify.com/track/2lUkWTfqLLMmCLrH41YpBd) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Bklava \- EP](https://open.spotify.com/album/5vj3Ca8rK10V6Dy01hip5E) | 2:52 | 2020-11-03\* | 2020-11-06 |

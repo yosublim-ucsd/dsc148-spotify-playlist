@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-319 songs - 14 hr 14 min
+320 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Atmospheric Storm](https://open.spotify.com/track/0iXS67ozXexCqznTYzSQEv) | [Temporale X](https://open.spotify.com/artist/7IATXQ7L0uEHgk99h2dKaf) | [Electricity Storm](https://open.spotify.com/album/4zbJ3PnYeEyNNv6rEN8O8X) | 1:30 | 2021-11-10 | 2023-06-16 |
 | [Atmosphère Nord](https://open.spotify.com/track/12YwouliX4zdxGoI9jArlO) | [Thibaut Lozé](https://open.spotify.com/artist/6xcbQLZPMTSqeZ46TU9ihv) | [Histoires Sur Le Flash](https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33) | 1:50 | 2022-02-15 | 2023-06-16 |
 | [Back Alley Rainstorm](https://open.spotify.com/track/6E9ACxbryalj3PnCDhZxtO) | [Water Effects Center](https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG) | [Rain & Thunder](https://open.spotify.com/album/6R3irvC35SviITh36UxCWr) | 2:51 | 2021-11-10 |  |
-| [Bad Weather \- Storm](https://open.spotify.com/track/0cyCwaLbb1MV1Fc45e9Cwk) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:03 | 2021-11-10 |  |
+| [Bad Weather \- Storm](https://open.spotify.com/track/0cyCwaLbb1MV1Fc45e9Cwk) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:03 | 2021-11-10 | 2024-04-08 |
 | [Bajo Refugio Tormenta](https://open.spotify.com/track/5cZTwGEeGbZhObrDxCWL4y) | [Mia Paleta](https://open.spotify.com/artist/74lAHgwfFrDoZG6IKRmH9I) | [Tormenta de la selva](https://open.spotify.com/album/18u0aMfE6Ubx0Vi4GsYC2u) | 2:19 | 2021-11-10 |  |
 | [Beautiful Storm](https://open.spotify.com/track/1WzjuOh6r9WXVi6dsoLKcB) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:53 | 2021-11-10 |  |
 | [Beyond Storm](https://open.spotify.com/track/4D1voq8tKTsgOloyHpjiaY) | [Salvo](https://open.spotify.com/artist/4PHEKFLzjQUNk5zenIMW9n) | [Beyond Storm](https://open.spotify.com/album/6EGDInl8hOMCJ0NAHaLARk) | 3:28 | 2021-11-10 |  |
@@ -67,12 +67,13 @@
 | [Drizzling Down](https://open.spotify.com/track/4scLidW4WSD9JbaRc9CspV) | [Liquid Dance](https://open.spotify.com/artist/5trjp6hXOHtTlaRSR8MEFL) | [Magic Sky](https://open.spotify.com/album/3NL617iuOV8yw2boaIDbLN) | 2:17 | 2021-11-10 |  |
 | [Drops & Thunders](https://open.spotify.com/track/1pZy1JDOfBmIsbGlThu20Y) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Calm Station](https://open.spotify.com/album/6zJjrBEhrmf1YNeYF9UNQg) | 3:08 | 2022-01-26 | 2024-04-02 |
 | [Drops And Thunder](https://open.spotify.com/track/00ChJJWChWCHfHDOnsnWvv) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Drops And Thunder](https://open.spotify.com/album/76jXwUgn06OiCEwod0lZvd) | 2:02 | 2021-11-10 |  |
-| [Dunder](https://open.spotify.com/track/3zTYozWxO2br2ZpjUMp9hm) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Dunder](https://open.spotify.com/album/10rXDSXVcLiiqKRJ2Snlnb) | 3:28 | 2021-11-10 |  |
+| [Dunder](https://open.spotify.com/track/3zTYozWxO2br2ZpjUMp9hm) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Dunder](https://open.spotify.com/album/10rXDSXVcLiiqKRJ2Snlnb) | 3:28 | 2021-11-10 | 2024-04-08 |
 | [Earth Rain](https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Space Rain](https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K) | 3:41 | 2023-02-13 |  |
 | [Earthy Rain With Rolling Thunder](https://open.spotify.com/track/0xmwsmYdbXuZDHeixtATZF) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Thunderous Relaxation](https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu) | 4:22 | 2021-11-10 | 2022-03-26 |
 | [El Trueno Desde Arriba](https://open.spotify.com/track/6zfCEuZfzq9vWeG22bj39P) | [Adela Amando](https://open.spotify.com/artist/4MxSvvBZgxyHPAuwKX5srl) | [El Trueno Desde Arriba](https://open.spotify.com/album/16zN24HwT4LSaAbN6xeJMV) | 1:39 | 2023-02-13 | 2023-06-16 |
 | [Electric Dreams](https://open.spotify.com/track/1PVmI01F4mrbD0czddRlyq) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2023-02-13 |  |
 | [Electric Drops](https://open.spotify.com/track/3dHVp4tIryXs62JYtcINhc) | [Zinan](https://open.spotify.com/artist/53Ogdlq3YW29r02FV64tYH) | [Bedtime Thunder](https://open.spotify.com/album/07VjmhXeWj2hUMXPZlxQ9T) | 3:28 | 2021-11-10 |  |
+| [Electric Thunder Strikes and Thunder](https://open.spotify.com/track/7GmmHMb5NLPWseryFhZWjX) | [Day & Night Rain](https://open.spotify.com/artist/5p3vgbXHS5XWeuHRq7pFzr) | [Electric Thunder Strikes and Thunder](https://open.spotify.com/album/5KxLnTTtdKuyqesUoiBbPe) | 1:53 | 2024-03-11 |  |
 | [Electrostatic](https://open.spotify.com/track/4Q73bV2I8Bl55TWlBBUyr5) | [Vedhamn Sounds](https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb) | [Electrostatic](https://open.spotify.com/album/7pqQZkINJGaMdr461sNxkv) | 2:43 | 2023-02-13 |  |
 | [Endless Rain Loop](https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Clean Rain](https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB) | 3:56 | 2023-02-13 |  |
 | [Energy](https://open.spotify.com/track/6mOyhVD6I8LNa9FOHqXQ1L) | [Sylvie Kaplan](https://open.spotify.com/artist/61hhbYWnINRvkUiYRCd2oA) | [Energy](https://open.spotify.com/album/4MvAHtPjtBjGwNgaWcqPvx) | 1:54 | 2023-02-13 | 2023-06-16 |
@@ -131,7 +132,7 @@
 | [Lightning](https://open.spotify.com/track/17T1PhUwVor4Q4ZdqhkVL7) | [Polar Night](https://open.spotify.com/artist/58Xze2XUNJqUmL3oCmLPcR) | [Rumbling Storm](https://open.spotify.com/album/4Lc0u3AHqUcO9d9gSx9wak) | 3:36 | 2021-11-10 |  |
 | [Lightning And Thunder](https://open.spotify.com/track/1lkHaXezlWJshqGMM4guvZ) | [Attono](https://open.spotify.com/artist/4t29lXsw1uTqtI0Gzj00Cu) | [Storm Lures](https://open.spotify.com/album/4qXurMTFdoRNa9AcYnH7V6) | 3:36 | 2021-11-10 |  |
 | [Lightning in the Rain](https://open.spotify.com/track/6d0kV5XiW515IZ0TFYeN7W) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:51 | 2023-06-15 |  |
-| [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2023-02-13 | 2024-02-13 |
+| [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2023-02-13 |  |
 | [Lluvia intensa y truenos](https://open.spotify.com/track/3dUYKGGxMCT5vFFp2uIuNB) | [Exovis](https://open.spotify.com/artist/3sGurfp0enhDPhU9yuzIPL) | [Costa Tormenta](https://open.spotify.com/album/0cbvzR6kQKKgae4LrO3zST) | 1:56 | 2021-11-10 | 2023-06-16 |
 | [Lluvia suave y truenos](https://open.spotify.com/track/19vICChcY7vRxy4NXp28mn) | [Exovis](https://open.spotify.com/artist/3sGurfp0enhDPhU9yuzIPL) | [Costa Tormenta](https://open.spotify.com/album/0cbvzR6kQKKgae4LrO3zST) | 1:58 | 2021-11-10 | 2023-06-16 |
 | [Lluvia torrencial](https://open.spotify.com/track/4Y7LiWeExsPhEzmwI4Wh8p) | [Artipico](https://open.spotify.com/artist/2skwHFBBbBoFXMN5Nl4hyi) | [Lluvia intensa y truenos](https://open.spotify.com/album/0LSAa0GT0nTjOE3HH6ohpr) | 2:38 | 2021-11-10 |  |

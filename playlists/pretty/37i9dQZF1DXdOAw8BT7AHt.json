@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Drahla",
-  "num_followers": 449791,
+  "num_followers": 449755,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDkzN2Y0YmQzMTlkM2FhNDAzYzQ3ZTRhODNmODRiZGY1ZGNjMGJm",
+  "snapshot_id": "MCw1MWM0YzQ4YjEwYmEzZDAxNzcxYTk1Nzk5ZDg0MjRmNTgxNjU2ZjJi",
   "tracks": [
     {
       "added_at": "2024-03-15 12:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "worlds greatest emoter",
-      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "USA",
         "url": "https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 98000,
       "name": "USA",
       "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 174521,
+      "name": "worlds greatest emoter",
+      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Dream Big",
-        "url": "https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 185060,
-      "name": "Dream Big",
-      "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "UK GRIM",
         "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 198542,
       "name": "UK GRIM",
       "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Dream Big",
+        "url": "https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 185060,
+      "name": "Dream Big",
+      "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "What A Fucking Nightmare",
-        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 216618,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Formal Growth In The Desert",
         "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 177559,
       "name": "Make Way",
       "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "What A Fucking Nightmare",
+        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 216618,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Unlike Me",
-        "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
-      },
-      "artists": [
-        {
-          "name": "Calling All Captains",
-          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Unlike Me",
-      "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "DUST OFF / START AGAIN",
         "url": "https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 224000,
       "name": "DUST OFF / START AGAIN",
       "url": "https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Unlike Me",
+        "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
+      },
+      "artists": [
+        {
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Unlike Me",
+      "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Hiccup",
-        "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
-      },
-      "artists": [
-        {
-          "name": "Sorry Mom",
-          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
-        }
-      ],
-      "duration_ms": 105874,
-      "name": "Hiccup",
-      "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Bye Bye Big Bear",
         "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Hiccup",
+        "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 105874,
+      "name": "Hiccup",
+      "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
     },
     {
       "added_at": "2024-03-15 12:00:00",

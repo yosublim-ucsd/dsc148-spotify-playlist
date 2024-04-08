@@ -2,9 +2,9 @@
 
 ### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
-> The best drill, trap and genre bending rap from Australia and NZ\. Cover: T Breezy, Walkerboy
+> The best drill, trap and genre bending rap from Australia and NZ\. Cover: 3% w/ Say True God? & DENNI
 
-703 songs - 1 day 8 hr 44 min
+707 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Drills](https://open.spotify.com/track/0wFPH5ExVGll8hvpFvaau5) | [21 District](https://open.spotify.com/artist/3IEOQjCTM1WHX7NopGRW7R) | [Drills](https://open.spotify.com/album/3PlQQujK43v3a5kgqwVMcz) | 3:38 | 2024-03-21 |  |
 | [Drilly O'clock](https://open.spotify.com/track/7nD7vXiSlZrrdaeNfMUJhn) | [Yaz](https://open.spotify.com/artist/7zcoCcZ5ofhGbbdbl5jULg) | [Drilly O'clock](https://open.spotify.com/album/7o9F0yJT58R0OBAYrrASMg) | 1:59 | 2022-09-22 | 2022-12-16 |
 | [Drip \(feat\. SISO\)](https://open.spotify.com/track/2eSQB2VwcZ7yDeeesgOVOr) | [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb), [SISO](https://open.spotify.com/artist/5vHdYS2fmsbczjuuKUrk3I) | [Drip \(feat\. SISO\)](https://open.spotify.com/album/1Wer7qtMigJSaAoPWpemsC) | 3:24 | 2023-10-26 |  |
+| [Drip Drop](https://open.spotify.com/track/6j4p9m1gqLzpPrf6WmX9jn) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Drip Drop](https://open.spotify.com/album/3Oys3y2hW1BfPdBRCSRr3S) | 2:33 | 2024-04-07 |  |
 | [DRIVË BŸ](https://open.spotify.com/track/0YwyBP0N3alt3wEQbbxVHx) | [Legend](https://open.spotify.com/artist/0QPs4yr2Za9ekUQqcbPYJW) | [DRIVË BŸ](https://open.spotify.com/album/2prLJE0G0K4lmeDTVxuLcV) | 2:56 | 2022-12-01 | 2023-03-10 |
 | [Drug Me](https://open.spotify.com/track/6vxHk7yvqt2BwVJxYHHibG) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [Drug Me](https://open.spotify.com/album/5hU4t7VGCzUP0i7BND17sB) | 2:31 | 2023-02-16 | 2023-05-05 |
 | [DTLT \(Don't Think Like That\)](https://open.spotify.com/track/7avj4GVENEmIaRbJ1BC5C3) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [DTLT \(Don't Think Like That\)](https://open.spotify.com/album/17rUNJNcMt9Jel4l0cDfG7) | 3:16 | 2022-09-22 | 2023-01-20 |
@@ -192,6 +193,7 @@
 | [EarnMe2Slide](https://open.spotify.com/track/5cKmopfDbsTveq5kuy1TL9) | [FUJINO](https://open.spotify.com/artist/2GS28rXfgsQidwGe4ktIhx) | [EarnMe2Slide](https://open.spotify.com/album/1gUTJZHphpdSC3hUwpJD10) | 3:07 | 2024-02-01 | 2024-03-15 |
 | [EASY](https://open.spotify.com/track/53LiivWOyjXF6qC79hmBLp) | [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [EASY](https://open.spotify.com/album/3kFEgT6Tijh2mJKWdom1pg) | 2:48 | 2023-08-24 | 2023-11-17 |
 | [EN VIVO](https://open.spotify.com/track/3AlUIOQCz0L3ziLaqnC7UN) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [EN VIVO](https://open.spotify.com/album/2r9WWv5OcoVMdgJDYBPBQh) | 2:05 | 2022-12-08 | 2023-04-21 |
+| [ENERGY](https://open.spotify.com/track/49QvZtwqMCAJKKFbLwcMWH) | [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4), [Sol ChYld](https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz) | [ENERGY](https://open.spotify.com/album/6dl3pXZPETi952WXMmYNLB) | 1:31 | 2024-04-07 |  |
 | [ENERGY II](https://open.spotify.com/track/0AfVqoSqgrwP1w6GjcxOFN) | [Gino October](https://open.spotify.com/artist/4mN7hfy6TrESlZz7DMNzQI) | [ENERGY II](https://open.spotify.com/album/2Q5ie4a94M6BwiRCglDnOd) | 3:03 | 2023-06-22 | 2023-07-14 |
 | [Enough's Enough \(feat\. Hooligan Skinny\)](https://open.spotify.com/track/4M92sneuPjGS7A7h8DWM6z) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh) | [Enough's Enough](https://open.spotify.com/album/7jGqdtGptrSL7LzUQJMg1P) | 2:44 | 2022-04-25 | 2022-09-30 |
 | [Envy](https://open.spotify.com/track/4jd4JdmPdbFcTNSiuwy6Ze) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Envy](https://open.spotify.com/album/7wFySan7YYZEuQoZKG9wCc) | 4:16 | 2022-03-21 | 2022-04-01 |
@@ -216,6 +218,7 @@
 | [First Day Out](https://open.spotify.com/track/1eOyL0pvYukCQctZsDvPaS) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [First Day Out](https://open.spotify.com/album/2Yf9SEc1w0CuSEWq4cOWaJ) | 3:33 | 2023-12-21 | 2024-03-15 |
 | [Flashback](https://open.spotify.com/track/3VeAelsMAZSm5q8fAR8cIm) | [Benjamin](https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE) | [Harder, Faster](https://open.spotify.com/album/3LMgotL0DzrXu4pdlG578P) | 4:27 | 2023-07-27 | 2023-11-17 |
 | [Flex](https://open.spotify.com/track/3Cijp6fEvRThV1D0Xj9ux7) | [Yaar Kahlon](https://open.spotify.com/artist/1r08QeUOiKLWK7vDaKOrnK), [Sznny](https://open.spotify.com/artist/1a67IzqPCit3VxHjXE9dWQ) | [Flex](https://open.spotify.com/album/7ILBIkY6fElee33cslAarz) | 2:17 | 2023-01-05 | 2023-02-03 |
+| [Flip](https://open.spotify.com/track/3Q490nhbYkqCYZZsWGU1AV) | [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n), [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh) | [The Golden Lotus](https://open.spotify.com/album/7dLQRlhxO89ErJeBFx4T6R) | 2:20 | 2024-04-07 |  |
 | [Flows](https://open.spotify.com/track/3diJK6RzqoTaEUPF7X2c5Y) | [Southsidefredo](https://open.spotify.com/artist/7K5G8SF435R5tVM3rApmTb) | [Flows](https://open.spotify.com/album/3938pXJM3DhXENSWet0Oie) | 2:34 | 2022-07-25 | 2022-11-25 |
 | [FORD FALCON](https://open.spotify.com/track/2CdzYtcHKqsjbq2deo3hfJ) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Jords](https://open.spotify.com/artist/62tGZOfLOihSl9xQUIgMtQ) | [FORD FALCON](https://open.spotify.com/album/2IZMqcP1swsioWQxXNukGH) | 2:28 | 2023-12-14 |  |
 | [Foreign Currency](https://open.spotify.com/track/43O8FGGnUBZshQPX6aGiHu) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Vita](https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5), [Stallyon](https://open.spotify.com/artist/2JXnb8ofTQZKOBsqqv8elj) | [Foreign Currency](https://open.spotify.com/album/52hNNTZJpG7luWeLbRSlA6) | 2:45 | 2022-12-08 | 2023-02-03 |
@@ -338,6 +341,7 @@
 | [Lalaland](https://open.spotify.com/track/0hhOdwLIBeKvP4OcIx6wXB) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Lalaland](https://open.spotify.com/album/5LLDxc37RWjVKQqsoybJ4X) | 2:58 | 2023-12-21 | 2024-01-12 |
 | [Lalaland](https://open.spotify.com/track/7fJhooeTwsnUs3XBMXfQ8w) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Lalaland](https://open.spotify.com/album/7fA8X5QbJNtDdXD0aniB4a) | 2:58 | 2023-10-05 | 2024-01-06 |
 | [Land Back](https://open.spotify.com/track/1RtQj3njcVf6zNzuXX4D46) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg), [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [DENNI](https://open.spotify.com/artist/3zI6M5vaCgJ1AsflFlvdzw) | [Land Back](https://open.spotify.com/album/5aNrfunBzPVlS9wf3GWZBh) | 2:42 | 2024-03-07 | 2024-03-15 |
+| [Land Back \(feat\. Say True God? & DENNI\)](https://open.spotify.com/track/2xZaZeNFw4mLOaXkdNmIdF) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg), [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [DENNI](https://open.spotify.com/artist/3pmaKSem7OMEW29eeQ2iKO) | [Land Back \(feat\. Say True God? & DENNI\)](https://open.spotify.com/album/5yh5VIeeY3MzrBY2yqaJ4b) | 2:42 | 2024-04-07 |  |
 | [LAST LAUGH!](https://open.spotify.com/track/6mOtvVZfMGlwS45csISlXs) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK), [Kuma the Third](https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1) | [LAST LAUGH!](https://open.spotify.com/album/1eynf1278QDBsSAmmG042K) | 2:07 | 2022-10-27 | 2022-12-02 |
 | [LAST OF US](https://open.spotify.com/track/1HqisCi0HyHqpHbH9qBpIk) | [Bad1](https://open.spotify.com/artist/2kkXWYoznhCVemmiCKq2wb), [20th Boys](https://open.spotify.com/artist/1bxhFpPAizVxyxzeaOhZZf) | [LAST OF US](https://open.spotify.com/album/3UOeS1PgE1qamKzVf4iG51) | 3:14 | 2023-11-16 |  |
 | [LAVISH](https://open.spotify.com/track/17G61CQEKui4i7Os6W6xAH) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [LAVISH](https://open.spotify.com/album/3cDgUCAFyjCnukJy2dtKbK) | 2:59 | 2024-03-14 |  |

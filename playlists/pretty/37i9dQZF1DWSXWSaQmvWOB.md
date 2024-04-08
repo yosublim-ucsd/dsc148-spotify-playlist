@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis & Danielle Ponder
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,546 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,588 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 8 | [Two Step](https://open.spotify.com/track/0sftTHro9CcZ1vR6xDvVPC) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Two Step](https://open.spotify.com/album/6RZsHSRYUMM4ynG2dSkPHH) | 3:56 |
 | 9 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 |
 | 10 | [I'M A MAN \- MIDNIGHT VERSION](https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [OLD SONGS, SAME LOVE](https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5) | 2:50 |
-| 11 | [That Is You](https://open.spotify.com/track/4beWJkcoiFxfYI9sy2rbfs) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [That Is You](https://open.spotify.com/album/1gQDFU1O8fbbSmDQw9WPjK) | 3:46 |
+| 11 | [That Is You](https://open.spotify.com/track/4h75t4z8cUnJSf0jWIg7WC) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers & Sisters](https://open.spotify.com/album/2VmcCIkNH8csGrM5ztrs4T) | 3:46 |
 | 12 | [Sweet Talking Honeys \(feat\. Max Tuohy\)](https://open.spotify.com/track/1aa6C8kTiQCjHulkxmMTbM) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF), [Max Tuohy](https://open.spotify.com/artist/6ll2ZlFzEpHh6WKZhXatK8) | [Sweet Talking Honeys \(feat\. Max Tuohy\)](https://open.spotify.com/album/1hso95vrFE15sn24uzWBum) | 3:32 |
 | 13 | [Give Me a Reason](https://open.spotify.com/track/6H4uvuMnonERh5DucTznYq) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Keep It To Yourself](https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr) | 2:58 |
 | 14 | [In Need Of A Friend](https://open.spotify.com/track/0moMyEmg7vl5xTkYurNTvg) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [In Need Of A Friend](https://open.spotify.com/album/7sL6G0sTM0JXwQxq71xZY2) | 3:23 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 53 | [Good For The Money](https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:49 |
 | 54 | [Been and Gone](https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [Been and Gone](https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89) | 4:40 |
 | 55 | [Strawberry Skies](https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Strawberry Skies](https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09) | 3:06 |
-| 56 | [Brothers And Sisters](https://open.spotify.com/track/4srsFockSV7zNZjSbvbkML) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers and Sisters](https://open.spotify.com/album/4ZJsUp5BVASSDRKoidrDRU) | 3:55 |
+| 56 | [Brothers And Sisters](https://open.spotify.com/track/6YWjxol9LN0KbJHfgJ6aMe) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers & Sisters](https://open.spotify.com/album/2VmcCIkNH8csGrM5ztrs4T) | 3:55 |
 | 57 | [Better Be Home Soon](https://open.spotify.com/track/3b68h9ti9sdMo4rTrEvijZ) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE), [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Better Be Home Soon](https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ) | 3:00 |
 | 58 | [Burning Up](https://open.spotify.com/track/1ZCtCHRB0FG0khp20Oq4hh) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Burning Up](https://open.spotify.com/album/0apr7K3amwjcyrTeRA2fKV) | 3:18 |
 | 59 | [Naked \- Live](https://open.spotify.com/track/76ZWt6KvtIIAf4O1qCMT10) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Berenice Van Leer](https://open.spotify.com/artist/05WEW3kd5mLRHs3xtUF6t9) | [Twenty](https://open.spotify.com/album/6uAVwhjyE1eGec56ZsRoAQ) | 4:15 |
 | 60 | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0) | 3:43 |
 
-Snapshot ID: `MCw2MzA1OWIyMGNhZGRkMWJjZjZkZDU3NDljOGM0YmY5YzFiZGE5OTU4`
+Snapshot ID: `MCw3YzU3Njk3MWFjMzFhOGI0MDlhMTk0OTdjMjcyZWI1Y2U4NGRlMGJl`

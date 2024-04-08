@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2024, anche in primavera 👀
 
-357 songs - 17 hr 27 min
+358 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Don't You Wanna Play?](https://open.spotify.com/track/15hhlasuVIxEZ3O0PxlRkT) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Don't You Wanna Play?](https://open.spotify.com/album/3i5KKkquh96MJz4IbA96IO) | 2:18 | 2022-05-06 | 2024-03-29 |
 | [Dreams](https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Dreams](https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI) | 3:55 | 2023-03-19 | 2023-07-12 |
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-05-15 | 2023-07-09 |
+| [Drive ft\. KIDDO](https://open.spotify.com/track/0fxSVlXdxb5aCzbVyGvx0D) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Drive ft\. KIDDO](https://open.spotify.com/album/10qvBn2MB8C4qGdj2aSymU) | 2:19 | 2024-04-05 |  |
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2024-03-28 |  |
 | [Drunk On You](https://open.spotify.com/track/0myKfeH41EQVICDh5WThhl) | [NIXO](https://open.spotify.com/artist/6mxZJKSf470rESPwB2Ce4s) | [Drunk On You](https://open.spotify.com/album/61LvxY4HDjxI52U39PR5IV) | 2:25 | 2022-05-17 | 2022-06-30 |
 | [Easy On My Heart](https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Easy On My Heart](https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab) | 2:58 | 2023-09-01 |  |
@@ -118,7 +119,7 @@
 | [For Your Love](https://open.spotify.com/track/6viAMV0RuBb5nmzpPlYMAJ) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt) | [For Your Love](https://open.spotify.com/album/0dwCZmrxAzntiQ7x35ZG5U) | 3:04 | 2022-05-06 | 2022-07-27 |
 | [Forget to Forget](https://open.spotify.com/track/4E5IBDRu8kJbzUv1qaZM1t) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Forget to Forget](https://open.spotify.com/album/3GX2lFOgBOfVw4BYsINt6S) | 2:35 | 2022-12-20 | 2023-03-22 |
 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 | 2023-07-28 | 2023-12-19 |
-| [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-05-22 |  |
+| [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-05-22 | 2024-04-08 |
 | [Friends for the Night](https://open.spotify.com/track/0GJ4JP6rPe5gnyMd8jlJwi) | [DJ Ross](https://open.spotify.com/artist/70yj8eIE94z38CM2kfsXQL), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Friends for the Night](https://open.spotify.com/album/2d0YZ32L3faRzz7F0GqZLJ) | 3:48 | 2022-05-06 | 2022-05-18 |
 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 | 2022-08-26 | 2022-12-13 |
 | [Getting Started \(na Na Na\)](https://open.spotify.com/track/1pnrvsZv43qQXlrI7v8OYF) | [Daven](https://open.spotify.com/artist/4GYIIO926bKxfNYmOyuYzg) | [Getting Started \(na Na Na\)](https://open.spotify.com/album/6Nf7reowikJWukCQBYbVSM) | 2:45 | 2022-05-06 | 2022-07-29 |

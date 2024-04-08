@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,581 likes - 244 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,704 likes - 244 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,4 +253,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 243 | [Branches](https://open.spotify.com/track/33xdetONOFpuNr6J2AB2gZ) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Ripples](https://open.spotify.com/album/174WdSc7Cncl9KwFmF7mGd) | 3:36 |
 | 244 | [Cloaked Emotions](https://open.spotify.com/track/6N55qkTJudsvISNymWMlJ8) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Otherworld](https://open.spotify.com/album/4cripF2DCU1PGPqIxpRp2U) | 3:52 |
 
-Snapshot ID: `MCwyZGNmY2NhZGVmNDU2NzUwN2E2MzlkMmVkOGZhZGYyYTljMDQ3ZDlm`
+Snapshot ID: `MCxjNDdlMGI2OTQwNDgzOTEwODNhNGM5MDM1ZGU2OTE1NGY1NDM2NTJm`

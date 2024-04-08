@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 10106,
+  "num_followers": 10107,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjhiODY5ZGMxNTE5NjllZmYxNjNiYTRhNWZhNDQzNWNiOTA1YTA1",
+  "snapshot_id": "MCxjMzQxNmE3MTIxOTIwMjYyNDIyODg5NjQ5M2JlNjViM2I4NTQzMmIy",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj"
       },
       "artists": [
         {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Matilda No More",
-      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
+      "duration_ms": 240320,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9"
     },
     {
       "added_at": null,
@@ -315,22 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj"
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
       "artists": [
         {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         },
         {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 240320,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9"
+      "duration_ms": 221306,
+      "name": "Matilda No More",
+      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
     },
     {
       "added_at": null,
@@ -347,38 +347,6 @@
       "duration_ms": 494360,
       "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
       "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Cry Like A Baby",
-      "url": "https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "A Little Bit Lonesome",
-      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
     },
     {
       "added_at": null,
@@ -403,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "A Little Bit Lonesome",
+      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wreck & Ruin",
         "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 155693,
       "name": "The Quiet Life",
       "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Cry Like A Baby",
+      "url": "https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 105293,
-      "name": "Georgia Brown",
-      "url": "https://open.spotify.com/track/3Jwm0yvkmn8IoRVXIOsc3p"
+      "duration_ms": 245866,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 245866,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG"
+      "duration_ms": 105293,
+      "name": "Georgia Brown",
+      "url": "https://open.spotify.com/track/3Jwm0yvkmn8IoRVXIOsc3p"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 194186,
-      "name": "Beautiful Mess",
-      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
+      "duration_ms": 236666,
+      "name": "Like A River",
+      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Like A River",
-      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
+      "duration_ms": 194186,
+      "name": "Beautiful Mess",
+      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
     },
     {
       "added_at": null,
@@ -719,42 +719,6 @@
       "duration_ms": 166026,
       "name": "Freight Train",
       "url": "https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Someone Like Me",
-      "url": "https://open.spotify.com/track/3xwhLeG9Nuz8qAha6v91m8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wreck & Ruin",
-        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 85106,
-      "name": "Till Death Do Us Part",
-      "url": "https://open.spotify.com/track/4G2COCdrTM30M1dyrxrwF9"
     },
     {
       "added_at": null,
@@ -799,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 221247,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3TSW0LDIUXbUa3NT5ynZKP"
+      "duration_ms": 85106,
+      "name": "Till Death Do Us Part",
+      "url": "https://open.spotify.com/track/4G2COCdrTM30M1dyrxrwF9"
     },
     {
       "added_at": null,
@@ -824,9 +792,45 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 189746,
-      "name": "Love Like A Hurricane",
-      "url": "https://open.spotify.com/track/4CrJxr4egNEYhniSDNITy4"
+      "duration_ms": 249266,
+      "name": "Someone Like Me",
+      "url": "https://open.spotify.com/track/3xwhLeG9Nuz8qAha6v91m8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleeping With The Blues",
+        "url": "https://open.spotify.com/album/4iA1rj6uq5L0YJ5aiQiUzY"
+      },
+      "artists": [
+        {
+          "name": "Bill Chambers",
+          "url": "https://open.spotify.com/artist/68E7ZdTcPlYToL9wzBGIgQ"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 149092,
+      "name": "Stories We Could Tell",
+      "url": "https://open.spotify.com/track/7Ct9D7hVGIY5tEnQ2CBXp4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 221247,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3TSW0LDIUXbUa3NT5ynZKP"
     },
     {
       "added_at": null,
@@ -851,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Love Like A Hurricane",
+      "url": "https://open.spotify.com/track/4CrJxr4egNEYhniSDNITy4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wayward Angel",
         "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 209293,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/7KlvXLOb3z0UFX0uBHG0x6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleeping With The Blues",
-        "url": "https://open.spotify.com/album/4iA1rj6uq5L0YJ5aiQiUzY"
-      },
-      "artists": [
-        {
-          "name": "Bill Chambers",
-          "url": "https://open.spotify.com/artist/68E7ZdTcPlYToL9wzBGIgQ"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 149092,
-      "name": "Stories We Could Tell",
-      "url": "https://open.spotify.com/track/7Ct9D7hVGIY5tEnQ2CBXp4"
     },
     {
       "added_at": null,

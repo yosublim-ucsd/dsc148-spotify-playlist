@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Tomo Como Rey en portada.
 
-327 songs - 19 hr 49 min
+328 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [Vete Por Donde Viniste](https://open.spotify.com/track/5Wn97vM7JaTNyp8DQIM60d) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Vete Por Donde Viniste](https://open.spotify.com/album/3u0gAPe5il3ljfI9wUWP0n) | 3:07 | 2024-03-04 |  |
 | [Vicio](https://open.spotify.com/track/6g9hULFpG1pEyEH6HRMHaE) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV) | [Sonora de Llegar](https://open.spotify.com/album/1giTHiLOSaaB8TqchemtJf) | 2:46 | 2021-12-21 | 2023-03-02 |
 | [Vida de locos](https://open.spotify.com/track/0iOA58UWDwq5jilLLOhR30) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Baile Infinito](https://open.spotify.com/album/1zmmya1G0UWUrDVyZ2MssT) | 3:15 | 2024-03-29 | 2024-04-07 |
-| [Vida de locos](https://open.spotify.com/track/4Hb9R572ZZntBXJFLk1oou) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Vida de locos](https://open.spotify.com/album/4MNcfvhB5uKmor2POyfIqY) | 3:15 | 2024-03-29 |  |
+| [Vida de locos](https://open.spotify.com/track/4Hb9R572ZZntBXJFLk1oou) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Vida de locos](https://open.spotify.com/album/4MNcfvhB5uKmor2POyfIqY) | 3:15 | 2024-03-29 | 2024-04-08 |
+| [Vida de locos](https://open.spotify.com/track/7pTWjcVslPSNtuFbKJ58Ab) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Baile Infinito](https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR) | 3:15 | 2024-03-29 |  |
 | [Vira\-Lata](https://open.spotify.com/track/0qrWq5QicfLTefnLMuxUPz) | [Buena Onda Reggae Club](https://open.spotify.com/artist/2fuv23bY4oSgxNKH7TdUZz) | [Vira\-Lata](https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z) | 3:30 | 2023-09-29 | 2024-02-13 |
 | [Viviendo en Otro Lugar](https://open.spotify.com/track/6MfLxPLAUvcUsghmk8NRej) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Viviendo en Otro Lugar](https://open.spotify.com/album/6LvML7neTPNAsS5LakMI2h) | 3:39 | 2023-09-08 | 2024-01-20 |
 | [Voy a Volver](https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Voy a Volver](https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb) | 3:55 | 2021-12-21 | 2023-07-08 |

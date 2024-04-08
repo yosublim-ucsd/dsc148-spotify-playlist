@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:45ofU8JjddtvjfP1UXV7um">Ayrton Day</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,911 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,938 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 3 | [Oh Alma Mía \- En Vivo Desde El Salvador](https://open.spotify.com/track/5h7r8YhbUQGoL4bvFYVdMM) | [Los Voceros de Cristo](https://open.spotify.com/artist/4yUNbtVl2PW9dARZdWuDXu) | [Nueva Generación \(En Vivo Desde El Salvador\)](https://open.spotify.com/album/0XBaAt84h3fUmdtTpdj8w4) | 5:57 |
 | 4 | [Otro Más](https://open.spotify.com/track/1y8so4e9XI0b9BjlGD8QO0) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Jared Erazo](https://open.spotify.com/artist/5dsR9aZjfbPKempplwxD1k), [Kavelo Y No Drama](https://open.spotify.com/artist/5A7m8sjvA3MMBh80K0jJWV) | [Otro Más](https://open.spotify.com/album/4xrpM3oD0Jmy2IQ084p19H) | 6:29 |
 | 5 | [Nadie Como Tú \(Sesiones Acústicas\)](https://open.spotify.com/track/1pVj7ZIqKGDkWjOyAdUAte) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [Sesiones Acústicas](https://open.spotify.com/album/4qJJPN26P6zrvDj9JeWrF5) | 5:48 |
-| 6 | [Inigualable](https://open.spotify.com/track/6rEPxXfOeG1YGF7okc60e1) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Edward Rivera](https://open.spotify.com/artist/7y11BNvRbqkLx6tpPXd66l) | [Inigualable](https://open.spotify.com/album/5rXW3cBHWQ6FSvPMtJmeFc) | 8:02 |
+| 6 | [Inigualable](https://open.spotify.com/track/6rEPxXfOeG1YGF7okc60e1) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Inigualable](https://open.spotify.com/album/5rXW3cBHWQ6FSvPMtJmeFc) | 8:02 |
 | 7 | [Lo que viene de ti \- En Vivo](https://open.spotify.com/track/4Ie0aoFZo0oWbpYDKOQZkb) | [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm) | [Lo que viene de ti \(En Vivo\)](https://open.spotify.com/album/0f1Nt2bVBDEp2I7X7bJyCP) | 10:55 |
 | 8 | [Mi Necesidad](https://open.spotify.com/track/2lQBUn6sF6vXLsO3zdaVs4) | [SANTIAGO OJEDA](https://open.spotify.com/artist/5pYRfflyInX5yiuBHsAkoj), [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [Mi Necesidad](https://open.spotify.com/album/35OkiBuG4LYWJczXNOZZi1) | 2:34 |
 | 9 | [Ha Resucitado](https://open.spotify.com/track/0A6for3JWEUo5HGo2v1Nro) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Ha Resucitado](https://open.spotify.com/album/4eN4JSOrUme0SirUThPaPC) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Eres Hermoso \- Live](https://open.spotify.com/track/1BMkurQozHjdS39qHMWAyF) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Dame A Cristo \(Live\)](https://open.spotify.com/album/3nHY9HT1qs3GZlweqB7wbF) | 10:41 |
 | 100 | [Digno Es El Cordero \- Live](https://open.spotify.com/track/51Lh6dO9lUHFtwSWFj8Rkr) | [Humillé](https://open.spotify.com/artist/2j15s5SPI9yS6X7YGPhd22), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Digno Es El Cordero \(Live\)](https://open.spotify.com/album/4FxldtLoiWoifDgHxN0wCr) | 16:05 |
 
-Snapshot ID: `MCw3ODZiNDNlMWIwODllOThmNmM3Mzc4Y2E3NTJjODU3MjhiZmI0ZTc1`
+Snapshot ID: `MCxjNTRkNmMwMDQ1OWVjNTYzY2EyMDA5ZWUzZTRmY2Q3NGZjOWVhYTlh`

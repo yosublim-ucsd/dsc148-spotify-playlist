@@ -4,7 +4,7 @@
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-252 songs - 20 hr 49 min
+253 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cachondea](https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:57 | 2021-12-20 | 2022-03-02 |
 | [Cachondea](https://open.spotify.com/track/51IJiRXRYjU8eZw32lhCbz) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Una Leyenda \- Fruko](https://open.spotify.com/album/2DYLQMmwf4IdfuRLME7u8V) | 4:57 | 2022-03-08 | 2022-07-29 |
 | [Cachondea](https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Descarga Espectacular](https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP) | 4:57 | 2022-03-08 |  |
+| [Calculadora](https://open.spotify.com/track/64O7TgBM7KvIGN1UvptbFX) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Éxitos Y Algo Más](https://open.spotify.com/album/3Mwk5ZpeJjRGxiJp4d3xDE) | 5:18 | 2022-08-04 |  |
 | [Calculadora](https://open.spotify.com/track/2P4onY7I6vpae0hw15SkAe) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [El Diablo de la Salsa](https://open.spotify.com/album/4lFzQHuobt31jHlY1JqAu4) | 5:21 | 2022-03-08 | 2023-09-16 |
 | [Cali Pachanguero](https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV) | 5:09 | 2022-03-08 | 2022-07-29 |
 | [Cali Pachanguero](https://open.spotify.com/track/1Z6fpTTJelPqdI4CwvnpK4) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:10 | 2022-03-08 | 2022-10-23 |
@@ -71,7 +72,7 @@
 | [Detalles](https://open.spotify.com/track/4ZWksPVZdma0A5GiSCStIK) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 4:38 | 2021-12-20 | 2022-02-08 |
 | [Detalles](https://open.spotify.com/track/7aX3Fd6JbZml7Ico84IZoT) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [ICONIC \- Salsa](https://open.spotify.com/album/2OvvRjVN7gA7mSFcKJqqSz) | 4:38 | 2022-08-04 | 2022-11-13 |
 | [Devorame Otra Vez](https://open.spotify.com/track/5f18XsUS3ZsuiilRWzkPla) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Hits, Vol.1](https://open.spotify.com/album/2bbA92QOyasbJRtchOndvP) | 4:57 | 2021-12-20 | 2022-01-17 |
-| [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 | 2022-03-08 |  |
+| [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 | 2022-03-08 | 2024-04-08 |
 | [Dime Que Pasó](https://open.spotify.com/track/7LREr0CgIjRAqdxIE7aDwY) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:32 | 2022-08-04 | 2022-11-13 |
 | [Dime Qué Paso](https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:32 | 2021-12-20 | 2022-07-29 |
 | [Dímelo](https://open.spotify.com/track/0QqXnxupeSJDamWFXcFu2s) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Perseverancia](https://open.spotify.com/album/62msN0HBrJyODHUavOMyla) | 4:03 | 2021-12-20 | 2022-02-22 |

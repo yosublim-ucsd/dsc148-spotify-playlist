@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Doja Cat\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,378 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,387 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 29 | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 |
 | 30 | [Dog House](https://open.spotify.com/track/6IkdHPacNBeOdGkePazW1D) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Growing Pains](https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr) | 3:32 |
 | 31 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |
-| 32 | [BIG DOG SH\*T](https://open.spotify.com/track/3wOgRFB76sCuD29N6Jz4mI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [BIG DOG SH\*T](https://open.spotify.com/album/2VnEwCFWbSj7irTuUye8ES) | 2:32 |
+| 32 | [BIG DOG SH\*T \(feat\. Lil RT\)](https://open.spotify.com/track/3wOgRFB76sCuD29N6Jz4mI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [BIG DOG SH\*T](https://open.spotify.com/album/2VnEwCFWbSj7irTuUye8ES) | 2:32 |
 | 33 | [Somethin Bout U](https://open.spotify.com/track/0FmnCgIrBuStODgqNqEeKH) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [SMYLE AGAIN](https://open.spotify.com/album/5SmUcpJVuEdQu5Gv7gSSsI) | 2:52 |
 | 34 | [Understand](https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Understand](https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7) | 2:37 |
 | 35 | [WORK](https://open.spotify.com/track/0gINJfVy7dCxkSwrJmH0u2) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Upgrade V](https://open.spotify.com/album/1uukXrk6p4B3oNbgkmUgRk) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [cOoL WATeR foR thE nIGHT](https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:54 |
 | 100 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
 
-Snapshot ID: `MCw3MmY4OGRlMTI0MTNiNzJkYTEyYWJjNzhjNGNhMzJjODgwMGNhMDVm`
+Snapshot ID: `MCxlMDEwM2I2MGY4NGYyNjg0MDM4ZDQyMWRjMmM5OWNmNDFkNDc5ZjBk`

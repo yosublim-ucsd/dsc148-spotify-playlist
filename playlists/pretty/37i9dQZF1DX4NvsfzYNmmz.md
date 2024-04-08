@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,968 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,965 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 44 | [O Holy Night](https://open.spotify.com/track/5fwRLFKs4loRZ0r4BUcaLd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Feels Like Christmas](https://open.spotify.com/album/4MThObrjfbwqQuvQU5bu9U) | 3:44 |
 | 45 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/3VGzoSo6S4JcCRPQTqeT9W) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:27 |
 | 46 | [Go Tell It On the Mountain](https://open.spotify.com/track/6EXMLtiFCnJT4TmONRRBH3) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Christmas Cafe](https://open.spotify.com/album/60o7io2Q1sgIv0psxcfsDQ) | 2:03 |
-| 47 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 |
-| 48 | [Little Christmas Tree](https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Christmas with The Jackson 5](https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR) | 3:36 |
+| 47 | [Little Christmas Tree](https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Christmas with The Jackson 5](https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR) | 3:36 |
+| 48 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 |
 | 49 | [My Grown\-Up Christmas List](https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:14 |
 | 50 | [Winter Wonderland](https://open.spotify.com/track/1CWty9bY93QlGMDCv77XOa) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday Harmony](https://open.spotify.com/album/1z6AYmWP9niaVmA3AyUNpN) | 3:16 |
 
-Snapshot ID: `MCw1YTQzOGQ0YjEyN2M4ZDRlNGZjYTg3OWJhYTZhMDI3ODcyODJiYTJj`
+Snapshot ID: `MCxhMThhY2U4N2MwMTQ0M2YzODJlOTFlZTZlY2RiYTIwNWM3M2Q4YjU4`

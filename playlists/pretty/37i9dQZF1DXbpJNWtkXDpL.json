@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a El Frizian en RADAR M\u00e9xico. ",
-  "num_followers": 82391,
+  "num_followers": 82421,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2YwYmE0OTQ1ZTgxNTBkNmYyNjE0MjMwOTlhZTZmNzEzZWM2Mjc0",
+  "snapshot_id": "MCwzZWI3MGZkNDFjODEzNWZjMTgyY2RmNDZmNDA1Y2Q3YmIxN2ZmMDli",
   "tracks": [
     {
       "added_at": "2024-02-12 19:21:32",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-02-12 19:21:32",
       "album": {
+        "name": "Porte de Scarface",
+        "url": "https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Porte de Scarface",
+      "url": "https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin"
+    },
+    {
+      "added_at": "2024-02-12 19:21:32",
+      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
-    },
-    {
-      "added_at": "2024-02-12 19:21:32",
-      "album": {
-        "name": "Porte de Scarface",
-        "url": "https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX"
-      },
-      "artists": [
-        {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Porte de Scarface",
-      "url": "https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin"
     },
     {
       "added_at": "2024-02-12 19:21:32",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-02-12 19:21:32",
       "album": {
-        "name": "SUCCESS #3",
-        "url": "https://open.spotify.com/album/1ZhiB9hSNLi2jtm7SEMNXt"
+        "name": "Qu\u00e9date Conmigo Esta Noche",
+        "url": "https://open.spotify.com/album/3B5Wz224y9RsbOZ7uCmedi"
       },
       "artists": [
         {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
         }
       ],
-      "duration_ms": 180579,
-      "name": "WGV",
-      "url": "https://open.spotify.com/track/78lggLFAvRq51V0Y68PD5c"
+      "duration_ms": 201706,
+      "name": "Qu\u00e9date Conmigo Esta Noche",
+      "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
     },
     {
       "added_at": "2024-02-12 19:21:32",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-02-12 19:21:32",
       "album": {
-        "name": "Qu\u00e9date Conmigo Esta Noche",
-        "url": "https://open.spotify.com/album/3B5Wz224y9RsbOZ7uCmedi"
+        "name": "SUCCESS #3",
+        "url": "https://open.spotify.com/album/1ZhiB9hSNLi2jtm7SEMNXt"
       },
       "artists": [
         {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
         }
       ],
-      "duration_ms": 201706,
-      "name": "Qu\u00e9date Conmigo Esta Noche",
-      "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
+      "duration_ms": 180579,
+      "name": "WGV",
+      "url": "https://open.spotify.com/track/78lggLFAvRq51V0Y68PD5c"
     },
     {
       "added_at": "2024-02-12 19:21:32",

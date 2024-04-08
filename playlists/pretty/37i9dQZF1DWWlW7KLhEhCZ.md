@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: The Boy, Rudies Flacko
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,752 likes - 76 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,758 likes - 76 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 42 | [Ouro Rose](https://open.spotify.com/track/0pv0nTMDBFR2QNH393zp6A) | [Font](https://open.spotify.com/artist/2VxhcBCTUs11LYhPpA62S1), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw) | [Ouro Rose](https://open.spotify.com/album/2DtE00Rbwp2UC6IiNAdJIt) | 3:02 |
 | 43 | [De Lala \- Spotify Singles](https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Binho](https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk), [Dj Geh](https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh) | [De Lala \- Spotify Singles](https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX) | 2:40 |
 | 44 | [não sou EU](https://open.spotify.com/track/4ugfY4IKYeP1hgcJj63qCU) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 3:46 |
-| 45 | [Space Ship](https://open.spotify.com/track/5X3WZeWLdhyEYiFilIEiCG) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Space Ship](https://open.spotify.com/album/3Gp37OenCK7hEaNxEenq7w) | 3:18 |
+| 45 | [Space Ship](https://open.spotify.com/track/52gknpCEWSbJoAQkNOGFF3) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Space Ship](https://open.spotify.com/album/2Is8UedoqtNA8Z58bMZWTv) | 3:18 |
 | 46 | [Pavio Curto](https://open.spotify.com/track/3IlP1RAFlEACmDa4gsinnE) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [icedmob](https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz), [Cold](https://open.spotify.com/artist/2yj5kYctrH6DViY3gKGUUm), [Dael](https://open.spotify.com/artist/6Uy2GiLcsMHecZeLAO2vWB), [izzat](https://open.spotify.com/artist/062i8CdoT1K5E18Ai4YwVE) | [Pavio Curto](https://open.spotify.com/album/0wfMwiJ0ULaky0Sb6nUCdX) | 3:55 |
 | 47 | [Carta X](https://open.spotify.com/track/7dlHhlM1vLlOuxI3M0NqV5) | [Jackdi](https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Carta X](https://open.spotify.com/album/244fqbsdp1NTS0sF3XPJn9) | 2:32 |
 | 48 | [Buquê de Flores](https://open.spotify.com/track/4vPWK45gmjiuswAVXSgG35) | [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Buquê de Flores](https://open.spotify.com/album/35BTFvVS5n1m8QzHLdaZUz) | 3:28 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [Novo Lema](https://open.spotify.com/track/33tt369xksWowFUwuBCAg3) | [NexoAnexo](https://open.spotify.com/artist/1RemuQyqsvKZEzjkOrOag6), [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [Thiérre](https://open.spotify.com/artist/5xeNZMWjN6taeu28YaQ7FE) | [Novo Lema](https://open.spotify.com/album/0iRYoCvYogsvqvbzJVuFX2) | 3:48 |
 | 76 | [Mlk Resumo](https://open.spotify.com/track/3SaXeqyOnYADTKNwNiqSkG) | [Paião](https://open.spotify.com/artist/59w7Io8azAdYXQp6fQjOvJ), [Ryan.4l](https://open.spotify.com/artist/6J4XzStfOx8YQGkd5xYIYU), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ) | [Mlk Resumo](https://open.spotify.com/album/5aiq7KpjSGrNGUiOV3iyI0) | 2:14 |
 
-Snapshot ID: `MCxhOWZkZWE0Yjg3MDkwNzdmNzE2MzhlMzViZGU3NWU1MjliYzgyNDg4`
+Snapshot ID: `MCw5ZTAyMGNiYmJiNGIzMzcwODU0N2VjODVjZmMzODg0YmU5NDA1OGY3`

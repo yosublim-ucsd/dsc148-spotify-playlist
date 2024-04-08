@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 40342,
+  "num_followers": 40356,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjMyNmE3ODVkMTQ2MTZhNzIwMGVmNGJjZjMzNGM1MjVjYmE5NmU5",
+  "snapshot_id": "MCw1MTFhOTE3MDc5ZWQ1N2RhMTk5OGJhNjk2N2VlYjI4YjU3OWEyYjNh",
   "tracks": [
     {
       "added_at": "2024-04-05 08:53:30",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
-        "name": "GRAN TORINO (Red Bull 64 Bars)",
-        "url": "https://open.spotify.com/album/4mvXxyQrvPrh5Ym8DBvAAY"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Sine",
-          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
-        }
-      ],
-      "duration_ms": 237241,
-      "name": "GRAN TORINO (Red Bull 64 Bars)",
-      "url": "https://open.spotify.com/track/5XgHAgZ2grYFvHjLQdhiVk"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
         "name": "UNA VITA SOLA",
         "url": "https://open.spotify.com/album/5zS0WnIbFcO2ZCakdLLSNm"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 220695,
       "name": "UNA VITA SOLA",
       "url": "https://open.spotify.com/track/4Th9fHw8yRkKhbxufVJ4ld"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
+        "name": "GRAN TORINO (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/4mvXxyQrvPrh5Ym8DBvAAY"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+        }
+      ],
+      "duration_ms": 237241,
+      "name": "GRAN TORINO (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/5XgHAgZ2grYFvHjLQdhiVk"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -547,58 +547,6 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
-        "name": "Verano Zombie",
-        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Metal Carter",
-          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Verano Zombie",
-      "url": "https://open.spotify.com/track/5yZhi50rWPgavFhPbFW0x8"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
-        "name": "Mr. Simpatia",
-        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Momenti no",
-      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 202885,
-      "name": "Una Volta Sola",
-      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
         "name": "Machete Mixtape Gold Edition",
         "url": "https://open.spotify.com/album/57wNKCfBcdWxBD5NbHDSoL"
       },
@@ -635,6 +583,58 @@
       "duration_ms": 252946,
       "name": "King's Supreme",
       "url": "https://open.spotify.com/track/4FIzSKOQ54f5HklzEZh5Sd"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
+        "name": "Mr. Simpatia",
+        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Momenti no",
+      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
+        "name": "Verano Zombie",
+        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Metal Carter",
+          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Verano Zombie",
+      "url": "https://open.spotify.com/track/5yZhi50rWPgavFhPbFW0x8"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
-        "name": "La calda notte",
-        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Chicoria",
-          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Cronaca quotidiana",
-      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
         "name": "BRAVA GENTE",
         "url": "https://open.spotify.com/album/4dgoP7JlqIo0L65M33Df51"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 142666,
       "name": "Cemento",
       "url": "https://open.spotify.com/track/6PLNbmHieqtpPOvsIyPlFf"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
+        "name": "La calda notte",
+        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Cronaca quotidiana",
+      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
+        "name": "Blocknotes",
+        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
+      },
+      "artists": [
+        {
+          "name": "Stokka & Madbuddy",
+          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Quando un giorno tornerai",
+      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
         "name": "BRAVA GENTE",
         "url": "https://open.spotify.com/album/4dgoP7JlqIo0L65M33Df51"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 157500,
       "name": "Tagli come Sorrisi",
       "url": "https://open.spotify.com/track/2SuiimEQGIqlA3PUYLhPWc"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
-        "name": "Blocknotes",
-        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
-      },
-      "artists": [
-        {
-          "name": "Stokka & Madbuddy",
-          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Quando un giorno tornerai",
-      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 251133,
       "name": "Lo straniero",
       "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
-        "name": "Adversus",
-        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
-      },
-      "artists": [
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Kaos One",
-          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Miglia e promesse",
-      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
         "name": "Schiena Contro Schiena",
         "url": "https://open.spotify.com/album/4NcjifTOGFk6FGRo1tTDQF"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 259557,
       "name": "21 Grammi",
       "url": "https://open.spotify.com/track/4aWXxvLhKcflsocyTWAt32"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
+        "name": "Adversus",
+        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
+        {
+          "name": "Kaos One",
+          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Miglia e promesse",
+      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
+        "name": "-/-/-/-/-(L'attesa)",
+        "url": "https://open.spotify.com/album/2waIIOam7135wbnonjurOS"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 277826,
+      "name": "Cose Preziose (Variante Di Lunenberg)",
+      "url": "https://open.spotify.com/track/5ZSIWkoUsoBJRBsd4y8bat"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
         "name": "My Bad",
         "url": "https://open.spotify.com/album/2lbw1UhnNbogs7OGGvhCjK"
       },
@@ -2111,18 +2127,18 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
-        "name": "-/-/-/-/-(L'attesa)",
-        "url": "https://open.spotify.com/album/2waIIOam7135wbnonjurOS"
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
         }
       ],
-      "duration_ms": 277826,
-      "name": "Cose Preziose (Variante Di Lunenberg)",
-      "url": "https://open.spotify.com/track/5ZSIWkoUsoBJRBsd4y8bat"
+      "duration_ms": 283480,
+      "name": "Chi more pe' mme",
+      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -2139,22 +2155,6 @@
       "duration_ms": 183914,
       "name": "Treddepomeriggio",
       "url": "https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Chi more pe' mme",
-      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -2195,26 +2195,6 @@
       "duration_ms": 293160,
       "name": "Guerra E Pace",
       "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
-        "name": "Lo Spirito Che Suona",
-        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Citt\u00e0 di vetro",
-      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -2263,6 +2243,26 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
+        "name": "Lo Spirito Che Suona",
+        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Citt\u00e0 di vetro",
+      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
         "name": "Luigi XVI",
         "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
       },
@@ -2291,8 +2291,8 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
-        "name": "Dead Poets 4 - Ad Honorem",
-        "url": "https://open.spotify.com/album/4diOqdpo2ZU7UJ8pUzaP7I"
+        "name": "Dead Poets 3 - Maledetti",
+        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
       "artists": [
         {
@@ -2300,21 +2300,17 @@
           "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
         },
         {
-          "name": "Lanz Khan",
-          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
         },
         {
-          "name": "Sace",
-          "url": "https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc"
-        },
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
         }
       ],
-      "duration_ms": 218045,
-      "name": "Un'altra gemma nelle tasche",
-      "url": "https://open.spotify.com/track/2nMwMcPElGtkDN9u0GOrIl"
+      "duration_ms": 187959,
+      "name": "Parla piano",
+      "url": "https://open.spotify.com/track/37IHphajTmd27MDLG76zEd"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -2355,26 +2351,6 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
-        "name": "CHIODI",
-        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 248791,
-      "name": "L'uomo dei sogni",
-      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
-    },
-    {
-      "added_at": "2024-04-05 08:53:30",
-      "album": {
         "name": "King Kong vs Godzilla",
         "url": "https://open.spotify.com/album/5LZDZMhsqQYhVESJJ1dB5F"
       },
@@ -2395,6 +2371,26 @@
       "duration_ms": 164820,
       "name": "King Kong vs Godzilla",
       "url": "https://open.spotify.com/track/1stKHp4y6JQCtBzvbON9x5"
+    },
+    {
+      "added_at": "2024-04-05 08:53:30",
+      "album": {
+        "name": "CHIODI",
+        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 248791,
+      "name": "L'uomo dei sogni",
+      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -2479,8 +2475,8 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
-        "name": "Dead Poets 3 - Maledetti",
-        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
+        "name": "Dead Poets 4 - Ad Honorem",
+        "url": "https://open.spotify.com/album/4diOqdpo2ZU7UJ8pUzaP7I"
       },
       "artists": [
         {
@@ -2488,17 +2484,21 @@
           "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
         },
         {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
         },
         {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+          "name": "Sace",
+          "url": "https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
         }
       ],
-      "duration_ms": 187959,
-      "name": "Parla piano",
-      "url": "https://open.spotify.com/track/37IHphajTmd27MDLG76zEd"
+      "duration_ms": 218045,
+      "name": "Un'altra gemma nelle tasche",
+      "url": "https://open.spotify.com/track/2nMwMcPElGtkDN9u0GOrIl"
     },
     {
       "added_at": "2024-04-05 08:53:30",
@@ -2539,22 +2539,18 @@
     {
       "added_at": "2024-04-05 08:53:30",
       "album": {
-        "name": "Ritorno",
-        "url": "https://open.spotify.com/album/78JPV3YmDNUY0cECMdEXUn"
+        "name": "FANCULO CI SIAMO ANCHE NOI",
+        "url": "https://open.spotify.com/album/3R81pOeULMFniz7M2fLW6b"
       },
       "artists": [
         {
-          "name": "Gianni Bismark",
-          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+          "name": "Assalti Frontali",
+          "url": "https://open.spotify.com/artist/56PAFc5EkAWofBQfKUNpvb"
         }
       ],
-      "duration_ms": 155641,
-      "name": "Te Famo Scuola (feat. Noyz Narcos)",
-      "url": "https://open.spotify.com/track/5vePPd0uqG37XJT6RYLzYi"
+      "duration_ms": 208259,
+      "name": "FANCULO CI SIAMO ANCHE NOI",
+      "url": "https://open.spotify.com/track/5eKafeqVlztOFHhHNRQgdO"
     }
   ],
   "unique_name": "Radici Hip-Hop",

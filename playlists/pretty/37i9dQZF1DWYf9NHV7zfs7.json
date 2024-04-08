@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Morat",
-  "num_followers": 48751,
+  "num_followers": 48779,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjY2MTZkMzM5NjAxODEzNGNiZjI2YzJiODY1Y2M1YzRjMjVkOTQ5",
+  "snapshot_id": "MCw1OTNiMmFkZTA5MTlmMjcyYmUwZTNjNmY4ODJlZTJmNmUzNjA5OTNj",
   "tracks": [
     {
       "added_at": "2024-04-05 03:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "V\u00e1monos De Viaje",
+      "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "QUEREME",
         "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 194840,
       "name": "QUEREME",
       "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "BACH",
-        "url": "https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "V\u00e1monos De Viaje",
-      "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -375,6 +375,26 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        },
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "El Otro",
         "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 231426,
       "name": "Sin Principio Ni Final",
       "url": "https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "Departamento",
-        "url": "https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        },
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Departamento",
-      "url": "https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -559,30 +559,6 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Las Leyes de La Vida",
-        "url": "https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Benja Torres",
-          "url": "https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4"
-        }
-      ],
-      "duration_ms": 199340,
-      "name": "Las Leyes de La Vida",
-      "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
         "name": "El Big Blue",
         "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 221080,
       "name": "Oncemil",
       "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "Las Leyes de La Vida",
+        "url": "https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Benja Torres",
+          "url": "https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4"
+        }
+      ],
+      "duration_ms": 199340,
+      "name": "Las Leyes de La Vida",
+      "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "Abel",
+        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "LALI DELUXE",
         "url": "https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 152560,
       "name": "Dame Chance (Rayuela)",
       "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "Abel",
-        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "nada mejor",
+        "url": "https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "nada mejor",
+      "url": "https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 202363,
       "name": "Resaca",
       "url": "https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "nada mejor",
-        "url": "https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "nada mejor",
-      "url": "https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e"
     },
     {
       "added_at": "2024-04-05 03:00:00",

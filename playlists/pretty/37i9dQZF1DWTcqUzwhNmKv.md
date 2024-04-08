@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Alpha Wolf is on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487,746 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,019 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Whenever You're Ready](https://open.spotify.com/track/1D4e0sbGmBzi6AiBwkINRZ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Whenever You're Ready](https://open.spotify.com/album/4cAwxejAnu55ULguqm9NeI) | 4:13 |
+| 1 | [Whenever You're Ready](https://open.spotify.com/track/5amiUEezPSB9yXMxXpz4Dh) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Half Living Things](https://open.spotify.com/album/7C8apxgn0J0n0AMvPrfLxN) | 4:13 |
 | 2 | [Don’t Look Away](https://open.spotify.com/track/13TI2bhTRld8pgk9xM8wm9) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Don't Look Away](https://open.spotify.com/album/4waOzgfNIF4sBAkKX9NzrJ) | 3:13 |
 | 3 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 |
 | 4 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [A Drone Opting Out Of The Hive](https://open.spotify.com/track/0CuZB4QJyWWlblKMxN7nTK) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:21 |
 | 75 | [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 |
 
-Snapshot ID: `MCw0YTdjNTBkZTAwM2M4YWU1YjdmZWIxN2EwNGMxODk4MjJjNTBmMWVh`
+Snapshot ID: `MCxiNTdjNTQ5ODc4YTY2YjAyM2Y0N2NhYzhkMWUzMzg4YzFkMGU1NjI1`

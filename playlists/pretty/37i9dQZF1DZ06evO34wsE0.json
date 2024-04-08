@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 239000,
+  "num_followers": 239026,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzI4NjY4ZDIyNmM4MGM3ZmJkNjNhYmNlZDhjYTQ1ODUyMGVhNWU4",
+  "snapshot_id": "MCw0M2FiMTczZDZlMmM0N2RhYmIzZDEzNWUxZmRlMjQ0MmMxM2Y2Yjc4",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets: Friends & Legends",
-        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "You Needed Me",
-      "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twenty Twenty",
         "url": "https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 200813,
       "name": "Forever And Ever, Amen",
       "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets: Friends & Legends",
+        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Of Me",
-        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 178098,
-      "name": "Queen Of Me",
-      "url": "https://open.spotify.com/track/5HONmel0YqVDMLTtcyWLhX"
+      "duration_ms": 196720,
+      "name": "In My Car (I'll Be The Driver) - Red Version",
+      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
     }
   ],
   "unique_name": "This Is Shania Twain",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : L'Impératrice
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,838 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,826 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Countdown](https://open.spotify.com/track/1HhYxHF78fiSUlNAqQNozH) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Countdown](https://open.spotify.com/album/5cNJnRrIRQ8agjsqtpD8HK) | 2:35 |
 | 50 | [Se laisser partir](https://open.spotify.com/track/7AU11YKhAzZhRGwGDiXJqj) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Se laisser partir](https://open.spotify.com/album/2sEgqV6P0z6qROTfuColna) | 3:18 |
 
-Snapshot ID: `MCw5ZWIxYzg5YzZkODFkMjBmMjA4MWI1ZDBkYWNiOWY0YWEyYzUxOWUw`
+Snapshot ID: `MCw4ZGEyZjY4N2FmYzlkNmZhNmFlMTczZjdiZWM2OTQzODJjMzBiOWJh`

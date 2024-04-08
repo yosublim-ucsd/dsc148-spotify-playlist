@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 5954,
+  "2024-04-08": 5963,
   "date_first_scraped": "2023-04-16",
   "description": "Celebrating the extraordinary women breaking boundaries and keeping tradition alive. Cover: Rhonda Vincent ",
   "name": "Women of Bluegrass",
@@ -39,6 +39,24 @@
       "duration_ms": 194703,
       "name": "A Few Old Memories",
       "url": "https://open.spotify.com/track/32ZbqXDffP1uL57jEFKLGw"
+    },
+    {
+      "album": {
+        "name": "All I Ever Need Is You",
+        "url": "https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210459,
+      "name": "All I Ever Need Is You",
+      "url": "https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB"
     },
     {
       "album": {
@@ -245,7 +263,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 200400,
       "name": "Can't Live Without Love",
       "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
@@ -677,6 +695,24 @@
       "duration_ms": 242760,
       "name": "Hazel Creek",
       "url": "https://open.spotify.com/track/7D0pkrivao3Xw2mCO4CoIA"
+    },
+    {
+      "album": {
+        "name": "He Loves Me Not",
+        "url": "https://open.spotify.com/album/1x0Rt3aEYiqFhS9PFE6DRS"
+      },
+      "artists": [
+        {
+          "name": "Caroline Owens",
+          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168382,
+      "name": "He Loves Me Not",
+      "url": "https://open.spotify.com/track/22oGrDZTqpYaMtnzT2ZUYb"
     },
     {
       "album": {
@@ -1147,6 +1183,24 @@
       "duration_ms": 161960,
       "name": "Mountain Banjo",
       "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
+    },
+    {
+      "album": {
+        "name": "New Star",
+        "url": "https://open.spotify.com/album/3E2Yn7rSQrDYoSKgi7IFk0"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/6fHFfhmYtgOqxREejrtFuv"
     },
     {
       "album": {
@@ -2103,6 +2157,28 @@
       "duration_ms": 222704,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
+    },
+    {
+      "album": {
+        "name": "Will You Ever Be Mine",
+        "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Dudley Connell",
+          "url": "https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "Will You Ever Be Mine",
+      "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
     },
     {
       "album": {

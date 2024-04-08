@@ -2009,6 +2009,32 @@
     },
     {
       "album": {
+        "name": "Aisha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Ash King",
+          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260026,
+      "name": "Suno Aisha",
+      "url": "https://open.spotify.com/track/0MjL7YQ02qH7nxfayhbmfp"
+    },
+    {
+      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Tori Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,801 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,856 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 40 | [Don't Give Up On Love](https://open.spotify.com/track/6PKIbeiAWkXCW6zokx4WUR) | [Micah McLaurin](https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD) | [Don't Give Up On Love](https://open.spotify.com/album/1GIfzALsAVoILlh1AkX6Pl) | 3:29 |
 | 41 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 |
 | 42 | [PIECES](https://open.spotify.com/track/7qU6AyK1fDMYOXNHlUlJmJ) | [Galli J](https://open.spotify.com/artist/6nIJkiCwmXxSvzrlJ0qLcW) | [PIECES](https://open.spotify.com/album/4FAg2FITtsq4hf0lUHFxd5) | 2:58 |
-| 43 | [crowd pleaser](https://open.spotify.com/track/3g7L6qhsAhZfAAFHfYvnAo) | [TEHYA](https://open.spotify.com/artist/2lsVHmwl9NmHi84ecLnCS8) | [crowd pleaser](https://open.spotify.com/album/7s1MWuMTwRKcOLGwAQ9Ezl) | 2:34 |
+| 43 | [crowd pleaser](https://open.spotify.com/track/3g7L6qhsAhZfAAFHfYvnAo) | [TEHYA](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [crowd pleaser](https://open.spotify.com/album/7s1MWuMTwRKcOLGwAQ9Ezl) | 2:34 |
 | 44 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
 | 45 | [Ready](https://open.spotify.com/track/0pto7krL2WnD21lhAVjLVU) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Ready](https://open.spotify.com/album/24N1l5Ekct5lYGJExzDsoF) | 2:34 |
 | 46 | [Got What I Wanted](https://open.spotify.com/track/1ixY6FpvMeHKKhzYf4VfbD) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Got What I Wanted](https://open.spotify.com/album/3TnVMD117qCh4wExSmroYW) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Let's Talk](https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO) | 3:53 |
 | 100 | [Like You Boy](https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Like You Boy](https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe) | 2:49 |
 
-Snapshot ID: `MCw4MGEzYWNhMjdjZGFmZGZlNGU1ZjEyMmViYjc2YWJjMTIyMTE4NTZh`
+Snapshot ID: `MCwyODhmNDhlMWMzZGQ0ZDQ3YjQxYTQ2NjJmNDExNzkyMmU0YjBhZjM0`

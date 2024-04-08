@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: ano feat\. 幾田りら
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,361 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,738 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Last Party Never End \(feat\. Tiji Jojo, YZERR, Vingo & Yellow Pato\)](https://open.spotify.com/track/5Hwa5y5WmiUjede9HJz9c0) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr) | [BAD HOP \(Deluxe Edition\)](https://open.spotify.com/album/79JJkBZaJpiN8d1ELd7Q1r) | 4:15 |
 | 50 | [Team Tomodachi \- Remix](https://open.spotify.com/track/1TBtAioi82LToAaojj9ruU) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Team Tomodachi \(Remix\)](https://open.spotify.com/album/03GtNIvFYHk7ltVGMC3Mkh) | 3:38 |
 
-Snapshot ID: `MCw4MGQ2NDdjZmQyNzY3MDBmZjRmNWQ2ZjI3ZWMzOWQ3YTJhY2ZlNDQ3`
+Snapshot ID: `MCw2MmYyYzYwZmMxMjMxNjAzYjQzMmQyNmNiNTA5Y2FhODFkODhiYWQ1`

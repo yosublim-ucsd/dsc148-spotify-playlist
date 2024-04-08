@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Lucky Brown.
 
-338 songs - 19 hr 9 min
+339 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 3:09 | 2023-10-12 | 2023-11-11 |
 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 | 2022-11-10 | 2023-03-03 |
 | [Minimo Esfuerzo \(feat\. Duki\)](https://open.spotify.com/track/4VOTF9Cnw0paixB9X0KUMh) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:11 | 2023-03-30 | 2023-05-05 |
-| [Minnie <3](https://open.spotify.com/track/68uKmFCHsrjSpaCUCzVlqW) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Daiko 02](https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T) | [Minnie <3](https://open.spotify.com/album/4Uyu0NIsdhY3HUpteAKFIa) | 3:52 | 2023-12-07 |  |
+| [Minnie <3](https://open.spotify.com/track/4awSm1QqlLxMW58vi428bq) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Daiko 02](https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 3:52 | 2024-04-04 |  |
+| [Minnie <3](https://open.spotify.com/track/68uKmFCHsrjSpaCUCzVlqW) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Daiko 02](https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T) | [Minnie <3](https://open.spotify.com/album/4Uyu0NIsdhY3HUpteAKFIa) | 3:52 | 2023-12-07 | 2024-04-08 |
 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-07-06 | 2023-08-12 |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-19 | 2023-12-09 |
 | [MONEYMAN \(feat\. Galee Galee & ITHAN NY\)](https://open.spotify.com/track/40xJTwBKb5x3wjlLOeycaL) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [MONEYMAN \(feat\. Galee Galee & ITHAN NY\)](https://open.spotify.com/album/61eCWJwRCTUDmtbkNxc3tU) | 5:10 | 2022-04-14 | 2022-05-07 |

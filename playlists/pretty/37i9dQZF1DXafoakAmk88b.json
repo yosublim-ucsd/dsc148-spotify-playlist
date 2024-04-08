@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: hemlocke springs",
-  "num_followers": 44484,
+  "num_followers": 44498,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWVjNGM5OTY0YTMxYWUwODI0YWJjM2RhNDU5YTlkM2EyNzM1NGUy",
+  "snapshot_id": "MCw1OTA4YjRiNWUzOWEyN2EyN2JhMDUzNTBjMzA0ZmU3MzZiODViNjg3",
   "tracks": [
     {
       "added_at": "2024-04-05 14:57:23",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "Heaven knows",
-        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "Capable of love",
-      "url": "https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl"
-    },
-    {
-      "added_at": "2024-02-10 01:44:05",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 211626,
       "name": "Future Lover",
       "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK"
+    },
+    {
+      "added_at": "2024-02-10 01:44:05",
+      "album": {
+        "name": "Heaven knows",
+        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Capable of love",
+      "url": "https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl"
     },
     {
       "added_at": "2024-02-10 01:44:05",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
-    },
-    {
-      "added_at": "2024-02-10 01:44:05",
-      "album": {
         "name": "no way out",
         "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 113624,
       "name": "no way out",
       "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
+    },
+    {
+      "added_at": "2024-02-10 01:44:05",
+      "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
     },
     {
       "added_at": "2024-02-10 01:44:05",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "The End of the World",
-        "url": "https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3Z7kvXoVeOtj9KcR0JzLKe"
       },
       "artists": [
         {
-          "name": "Black Hibiscus",
-          "url": "https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN"
+          "name": "Scarlet House",
+          "url": "https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
+      "duration_ms": 181333,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/4tgCLCpF1MkdNzjTw7lLwh"
     }
   ],
   "unique_name": "Indie Frequency",

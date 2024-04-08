@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Don Diablo & Major Lazer
 
-665 songs - 1 day 12 hr 30 min
+666 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Money](https://open.spotify.com/track/2AhKFNKiRxk2NZNF47bFjn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Killfake](https://open.spotify.com/artist/5iQ5zOYomcR6F3gYon6GNW) | [Money](https://open.spotify.com/album/7jt2ZSsqgR2VG6s1XkWw7E) | 2:50 | 2022-01-14 | 2022-07-23 |
 | [monotony \(feat\. Party Nails\)](https://open.spotify.com/track/5OPRwpt3Bl41raaWphfW3q) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Party Nails](https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4) | [fuck ya go us](https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT) | 3:17 | 2022-05-06 | 2022-07-16 |
 | [More Baby \- VIP Mix](https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 4:24 | 2023-09-22 | 2024-02-24 |
-| [Motivashun](https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [No Big Deal](https://open.spotify.com/album/3buVlngArH6e0boFoaH58f) | 3:01 | 2024-04-05 |  |
+| [Motivashun](https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [No Big Deal](https://open.spotify.com/album/3buVlngArH6e0boFoaH58f) | 3:01 | 2024-04-05 | 2024-04-08 |
 | [Motor](https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Motor](https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4) | 3:02 | 2023-07-14 |  |
 | [Move It](https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Move It](https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza) | 3:21 | 2022-04-22 | 2022-11-19 |
 | [Move It \(with Luciana\)](https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Move It \(with Luciana\)](https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8) | 2:15 | 2023-07-14 | 2024-02-10 |
@@ -654,6 +654,7 @@
 | [Who I Am](https://open.spotify.com/track/4mr00M5jfoSwK4oCUzCISj) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Who I Am](https://open.spotify.com/album/544B3hUGZ39KuHoZXeWWD1) | 3:48 | 2022-01-14 | 2022-01-22 |
 | [Who U With](https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f), [rrotik](https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd), [Killa Kela](https://open.spotify.com/artist/6xus0aGb1MipQik7XcSX82) | [Who U With](https://open.spotify.com/album/1waUr0RXjEInyT5ogwL7no) | 2:41 | 2022-06-03 | 2022-10-01 |
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-03-20 |
+| [Whole Lotta Drugs](https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Whole Lotta Drugs / Over The Edge](https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn) | 3:28 | 2024-04-05 |  |
 | [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 | 2023-02-10 | 2023-10-28 |
 | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk) | 3:26 | 2023-05-19 |  |
 | [Work That](https://open.spotify.com/track/1ZvhgcnGpISg32eK7JadSe) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Work That](https://open.spotify.com/album/1Lm3v0jBatwrndrI7vkV6F) | 2:24 | 2022-09-16 | 2022-12-17 |

@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Sam Tsui & Casey Breves
 
-327 songs - 14 hr 20 min
+328 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [Unicorn Song](https://open.spotify.com/track/09MxtSLQheOkxH84Kg132N) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Unicorn Song](https://open.spotify.com/album/4jnak104rS4pKgYslMKHE2) | 3:01 | 2024-02-09 |  |
 | [Used To Be Young](https://open.spotify.com/track/239Hmf9gqfdOjYBBaKcYGs) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Used To Be Young](https://open.spotify.com/album/53C3GboXZmNPObC7yOrX17) | 2:56 | 2024-01-12 |  |
 | [Wake Up Body](https://open.spotify.com/track/1rwCDTzDZcRP6JK0A74DaA) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Wake Up Body](https://open.spotify.com/album/7CgurGWicYjX5S0vcTj2T5) | 1:49 | 2024-02-09 | 2024-03-14 |
-| [Wake Up Body](https://open.spotify.com/track/6gFSWX9hNjIBvploVWgTy9) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Hello Everybody and Other Circle Time Songs](https://open.spotify.com/album/19FPtlAvRYPpScvEqxqD2x) | 1:49 | 2024-02-09 |  |
+| [Wake Up Body](https://open.spotify.com/track/6gFSWX9hNjIBvploVWgTy9) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Hello Everybody and Other Circle Time Songs](https://open.spotify.com/album/19FPtlAvRYPpScvEqxqD2x) | 1:49 | 2024-02-09 | 2024-04-08 |
+| [Wake Up Body](https://open.spotify.com/track/7tHN46ejAutDtSrET3oLld) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [5 Green and Speckled Frogs and Other Circle Time Songs](https://open.spotify.com/album/1gINRi4CE7oF13FKKnosrO) | 1:49 | 2024-02-09 |  |
 | [Watch Me Zoom](https://open.spotify.com/track/09f7Mzc5wcH14Arz9CvDJL) | [Tiny Totz Kidz](https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst), [Kate Steinway](https://open.spotify.com/artist/0K2OWWGyo4fnLJnVY41M6l), [Tobie](https://open.spotify.com/artist/4v7MbkhfDQZYPXBDBSKkhw) | [Watch Me Zoom](https://open.spotify.com/album/4l2p38ooKzze2M1G9i4yF0) | 3:14 | 2024-03-22 |  |
 | [Wave a Flag for Harvey Milk](https://open.spotify.com/track/278FrjHVBPFAE5oEktEkeL) | [Mr\. Greg](https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mr\. Greg & Cass McCombs Sing and Play New Folk Songs for Children](https://open.spotify.com/album/5BRz8Ni0M0EeXFDfSnwZhh) | 3:22 | 2023-08-18 | 2024-02-10 |
 | [Way of Looking at the World](https://open.spotify.com/track/7GbJKpbxlUIqnQZ2a0yHxr) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Way of Looking at the World](https://open.spotify.com/album/6hoUQ7E6ptjW7KNRZHsT9j) | 2:45 | 2022-04-15 | 2023-10-21 |

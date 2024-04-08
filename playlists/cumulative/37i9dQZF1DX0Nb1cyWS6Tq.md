@@ -4,7 +4,7 @@
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-282 songs - 21 hr 16 min
+283 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 | 2021-10-15 |  |
 | [Kick in the Eye](https://open.spotify.com/track/0Rrjl5kOxStwevpiiuDhDW) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/378ahhobt690RQEsyD8DaK) | 3:40 | 2021-10-15 | 2022-07-29 |
 | [Kick in the Eye](https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:40 | 2021-10-15 | 2023-12-15 |
-| [Labyrinths](https://open.spotify.com/track/5ugg71VoRzRxE4mKVjbxh2) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Labyrinths](https://open.spotify.com/album/4GY4x2JuL7PIA2nQXjmscF) | 3:24 | 2024-02-02 |  |
+| [Labyrinths](https://open.spotify.com/track/1KzIEmcfDaDe3jTJRvrapa) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Tremors](https://open.spotify.com/album/3XdbRLiV4x8JJa43yQG70X) | 3:24 | 2024-02-02 |  |
+| [Labyrinths](https://open.spotify.com/track/5ugg71VoRzRxE4mKVjbxh2) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Labyrinths](https://open.spotify.com/album/4GY4x2JuL7PIA2nQXjmscF) | 3:24 | 2024-02-02 | 2024-04-08 |
 | [Laura](https://open.spotify.com/track/7CGJ8bX9yCRYaBjECFs4QY) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [From Gehenna To Here](https://open.spotify.com/album/6MHq62strb5rUYlXwqzwDR) | 3:52 | 2021-10-15 | 2022-04-17 |
 | [Lions](https://open.spotify.com/track/5da1FAYjU6rxJCtC7I485I) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/2HLe3MOLEKEhuGIbrGSN3i) | 3:58 | 2021-10-15 | 2022-07-19 |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2021-10-15 |  |

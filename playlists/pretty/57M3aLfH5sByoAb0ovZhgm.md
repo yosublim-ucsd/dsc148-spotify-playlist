@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/57M3aLfH5sByoAb0ovZhgm.md) - [plain]
 
 > cookin&\#x27;
 
-[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 110 songs - 6 hr 44 min
+[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 111 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,5 +118,6 @@ pretty - [cumulative](/playlists/cumulative/57M3aLfH5sByoAb0ovZhgm.md) - [plain]
 | 108 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:10 |
 | 109 | [Drop The Game](https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 3:41 |
 | 110 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
+| 111 | [Suno Aisha](https://open.spotify.com/track/0MjL7YQ02qH7nxfayhbmfp) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:20 |
 
-Snapshot ID: `MTQ1LDA4MjJiMTkxYTU2OTVjNGY1MmY1MmU2MDQ0MWFmMzA5ZTk5OTI1NzU=`
+Snapshot ID: `MTQ2LDcyMzY3NDA5MTdlZTNiNjhiNmQ0NTg4ZGU4MTMwMTRmYmFhN2E4NzY=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,235 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,241 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 49 | [Tudo Que Pedir](https://open.spotify.com/track/3Vfm4zFtNB65PAnmYtRrNn) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p), [Eliefe](https://open.spotify.com/artist/2VHOlZANAKceDEEKlzSf4U) | [Blackqueen, Vol\. 2](https://open.spotify.com/album/7yFXtYKtsckLK5oD1hhVGF) | 2:30 |
 | 50 | [Desempenho](https://open.spotify.com/track/4mSw6eVj2owYdH1PHbOKeO) | [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Desempenho](https://open.spotify.com/album/1qpdXJLvdRT0jouxlCa2ic) | 2:42 |
 
-Snapshot ID: `MCxiMjYwOTgyNjQ4ZWY4MmQ1ZGU0MzcwMjU0ZDQ4ZDhjMGYyMWZjZWEy`
+Snapshot ID: `MCw1NGNmYjg3ODNmODg2ZTFhOTAzOGE0MmIzMjkxNThhMWY0ZWYxMjky`

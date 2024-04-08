@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain]
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 16 songs - 41 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 17 songs - 42 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain]
 | 12 | [Key\. 海老塚 智 ボイスメッセージ](https://open.spotify.com/track/6qrAG1fMnWCzaTGsB5mES0) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Key\. 海老塚 智 ボイスメッセージ](https://open.spotify.com/album/0eQW6RYzETuvSjTKFEjM8P) | 0:50 |
 | 13 | [Answer to Extreme](https://open.spotify.com/track/5dPzG4Qv2hAPV60adG25UC) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Answer to Extreme](https://open.spotify.com/album/4OpXV7tSWTnMRwNlLInW6R) | 2:33 |
 | 14 | [Hurtful & Painful](https://open.spotify.com/track/467gpRaK1LVLotoTYvNuhO) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Hurtful & Painful](https://open.spotify.com/album/6QZM176HJrHekEwVD4j6mz) | 3:16 |
-| 15 | [Lonely fate to be destined](https://open.spotify.com/track/2DjM6CRKEhyfGQvedX5OWQ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Lonely fate to be destined](https://open.spotify.com/album/7B9ooveGROUk58lfDBjTkx) | 3:15 |
-| 16 | [Underneath](https://open.spotify.com/track/4Kbd1Osxirz8fsRSSWdl4L) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Underneath](https://open.spotify.com/album/0RQe4x2NZxjdBXRQ5r89cp) | 2:35 |
+| 15 | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/track/19jDmN4iPdxdKIgnAQkRqC) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/album/7gk75EjUFhKFdRWPsF4HU1) | 1:01 |
+| 16 | [Lonely fate to be destined](https://open.spotify.com/track/2DjM6CRKEhyfGQvedX5OWQ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Lonely fate to be destined](https://open.spotify.com/album/7B9ooveGROUk58lfDBjTkx) | 3:15 |
+| 17 | [Underneath](https://open.spotify.com/track/4Kbd1Osxirz8fsRSSWdl4L) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Underneath](https://open.spotify.com/album/0RQe4x2NZxjdBXRQ5r89cp) | 2:35 |
 
-Snapshot ID: `MCw2N2UxZDEyMWNhYTRmMzRiY2Y5ZDZiMjlhMWMxOThlZjhlOGRmMmVh`
+Snapshot ID: `MCw5NjQyMzQ4MjNhZDU5NWU5ZjVhNzczZTYwZTVlYWRiZmEzNjlhNTc2`

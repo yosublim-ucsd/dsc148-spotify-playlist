@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 132448,
+  "2024-04-08": 132458,
   "date_first_scraped": "2021-12-21",
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
   "name": "Grass Roots",
@@ -187,6 +187,28 @@
       "duration_ms": 153015,
       "name": "A Distant Land to Roam",
       "url": "https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz"
+    },
+    {
+      "album": {
+        "name": "A Man Like Me",
+        "url": "https://open.spotify.com/album/0AiJjqdbbE94F6ZApdCdxf"
+      },
+      "artists": [
+        {
+          "name": "Junior Sisk",
+          "url": "https://open.spotify.com/artist/2MgBNWdCITP6PKZirrJslp"
+        },
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172440,
+      "name": "A Man Like Me",
+      "url": "https://open.spotify.com/track/0k6ieXUPtOUcqwjqPBLRmU"
     },
     {
       "album": {
@@ -1010,6 +1032,28 @@
     },
     {
       "album": {
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230032,
+      "name": "Blue Smoke",
+      "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
+    },
+    {
+      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/1bI2aIqHcwNjFm7IxZIzFX"
       },
@@ -1260,6 +1304,28 @@
     },
     {
       "album": {
+        "name": "Brown's Ferry Blues",
+        "url": "https://open.spotify.com/album/0qXUsQ7JyqZH3CUN3AgCvT"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226955,
+      "name": "Brown's Ferry Blues",
+      "url": "https://open.spotify.com/track/7aV13wf4P3pvrNAl1DtXVr"
+    },
+    {
+      "album": {
         "name": "Cinnamon Tree",
         "url": "https://open.spotify.com/album/6v8OahRwkvsmxDJB4ZYljO"
       },
@@ -1365,7 +1431,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 230033,
       "name": "California Sober (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
@@ -1525,7 +1591,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 256506,
       "name": "Charlie Pickle",
       "url": "https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV"
@@ -1753,7 +1819,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 228186,
       "name": "Colorado Bound",
       "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
@@ -1903,7 +1969,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
@@ -2645,7 +2711,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 202906,
       "name": "Even The Bad Ends Badly",
       "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
@@ -2783,6 +2849,24 @@
       "duration_ms": 144608,
       "name": "Father Time",
       "url": "https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb"
+    },
+    {
+      "album": {
+        "name": "Finnland",
+        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Finnland",
+      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
     },
     {
       "album": {
@@ -4319,7 +4403,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 185022,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/56QIi1ES8speRvNHIHaHHl"
@@ -4507,7 +4591,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 210998,
       "name": "I'd Rather Be Alone",
       "url": "https://open.spotify.com/track/4nII4gGx7Vd2o6EmGuEX49"
@@ -4671,7 +4755,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 208026,
       "name": "In Tall Buildings",
       "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
@@ -4867,7 +4951,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 120609,
       "name": "Jenny Put the Kettle On",
       "url": "https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS"
@@ -5179,7 +5263,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 169976,
       "name": "Let All the Girls Know You're a Cowboy",
       "url": "https://open.spotify.com/track/3HdHado8GvBIqOBMiGnvvL"
@@ -5332,6 +5416,32 @@
     },
     {
       "album": {
+        "name": "Living In A Song",
+        "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
+      },
+      "artists": [
+        {
+          "name": "Rob Ickes & Trey Hensley",
+          "url": "https://open.spotify.com/artist/1N33O43FnAJtlHh8Nna68C"
+        },
+        {
+          "name": "Rob Ickes",
+          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
+        },
+        {
+          "name": "Trey Hensley",
+          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236213,
+      "name": "Living In A Song",
+      "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
+    },
+    {
+      "album": {
         "name": "Black Cowboys",
         "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
@@ -5397,7 +5507,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 144536,
       "name": "Lonesome State Of Mind",
       "url": "https://open.spotify.com/track/69USQNPpvXAIuz26IiYLkC"
@@ -5535,7 +5645,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 209391,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
@@ -6293,7 +6403,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 185728,
       "name": "New Star",
       "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
@@ -6475,7 +6585,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 195776,
       "name": "Odds of Getting Even",
       "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
@@ -6975,7 +7085,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 211160,
       "name": "Play By Your Own Rules",
       "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
@@ -7117,7 +7227,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 173237,
       "name": "Railroadin' & Gamblin'",
       "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
@@ -7601,6 +7711,28 @@
       "duration_ms": 152440,
       "name": "Salty Dog Blues - Live",
       "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
+    },
+    {
+      "album": {
+        "name": "City of Gold",
+        "url": "https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157676,
+      "name": "San Joaquin",
+      "url": "https://open.spotify.com/track/20kc2EKvPis5tFd2GdcXqK"
     },
     {
       "album": {
@@ -9252,6 +9384,24 @@
     },
     {
       "album": {
+        "name": "This Valley",
+        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255505,
+      "name": "This Valley",
+      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
+    },
+    {
+      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
       },
@@ -9339,7 +9489,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 166597,
       "name": "Too Old to Die Young",
       "url": "https://open.spotify.com/track/0qzNCJhYq5m0jv0L5Eav6I"
@@ -9415,7 +9565,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 217066,
       "name": "Traveler",
       "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
@@ -9725,7 +9875,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 194000,
       "name": "We'll All Drink Money",
       "url": "https://open.spotify.com/track/0zKcrQGmur0QqluRIRuU91"
@@ -9819,7 +9969,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 176000,
       "name": "Well",
       "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
@@ -10019,7 +10169,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 252428,
       "name": "When I Called Your Name",
       "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
@@ -10311,6 +10461,28 @@
     {
       "album": {
         "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
+      },
+      "artists": [
+        {
+          "name": "Mark O'Connor",
+          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
+        },
+        {
+          "name": "Maggie O'Connor",
+          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263317,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
+    },
+    {
+      "album": {
+        "name": "Wildflowers",
         "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
       },
       "artists": [
@@ -10361,6 +10533,28 @@
       "duration_ms": 235516,
       "name": "Will the Circle Be Unbroken",
       "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
+    },
+    {
+      "album": {
+        "name": "Will You Ever Be Mine",
+        "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Dudley Connell",
+          "url": "https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "Will You Ever Be Mine",
+      "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
     },
     {
       "album": {

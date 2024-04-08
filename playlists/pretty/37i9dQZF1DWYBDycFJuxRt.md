@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Furui Riho \*👉 <a href="https://spice.eplus.jp/articles/327650?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,781 likes - 86 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,855 likes - 86 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 85 | [BLACK RAIN](https://open.spotify.com/track/18y0tR1OLTxOIrQDjnr55l) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [Tenderness](https://open.spotify.com/album/5fXlmdu7yLIMsDpNfrH6yx) | 3:49 |
 | 86 | [moonrise dream](https://open.spotify.com/track/6kOF2j7SQTJo92hIELnnjx) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Hylen](https://open.spotify.com/artist/1glUbGdkshgCb1d4ossJBi), [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [moonrise dream](https://open.spotify.com/album/6tOQMgohPi5aNzEGFj67Ne) | 2:56 |
 
-Snapshot ID: `MCw1N2ZjZGJhMTQyYTkxOTBlNjI5ZThlMGVhOGE2MWRkZTJiZTRmYThl`
+Snapshot ID: `MCxmMmI5ODVmNzllODZhNjQ2OTMwMmFhNjIxOGQyMjQ1OGU2NTAyOTI5`

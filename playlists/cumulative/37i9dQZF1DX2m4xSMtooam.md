@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-265 songs - 16 hr 52 min
+266 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/4SrJyRdyHYxxkcVMQ3QkGE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 4:14 | 2022-06-28 | 2023-04-10 |
 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:16 | 2023-03-23 |  |
 | [Cosme Velho](https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Cosme Velho](https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0) | 2:53 | 2023-01-13 |  |
+| [Céu Tropical](https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Céu Tropical](https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs) | 3:35 | 2024-04-02 |  |
 | [Day by day](https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6) | [Luca Mundaca](https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl) | [day by day](https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB) | 4:19 | 2022-05-13 |  |
 | [De Conversa Em Conversa](https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 2:16 | 2022-06-10 | 2023-08-25 |
 | [Desafinado](https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 5:49 | 2022-08-17 |  |
@@ -131,7 +132,7 @@
 | [Joãozinho Boa Pinta](https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v), [Dori Caymmi](https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez) | [Rio Bahia](https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg) | 2:28 | 2022-05-13 |  |
 | [Just Chill and Breathe](https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Just Chill and Breathe](https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA) | 3:11 | 2024-01-17 |  |
 | [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 | 2022-05-13 |  |
-| [Just My Type](https://open.spotify.com/track/6JMPmjsg9tWVKZ1KkEhwjo) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Bloom](https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4) | 3:38 | 2022-05-13 |  |
+| [Just My Type](https://open.spotify.com/track/6JMPmjsg9tWVKZ1KkEhwjo) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Bloom](https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4) | 3:38 | 2022-05-13 | 2024-04-08 |
 | [La Belle Dame Sans Regrets](https://open.spotify.com/track/5aAHHNcoXd1SrF5MnbKP2k) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [When I Fall In Love](https://open.spotify.com/album/1ghS8R6i5bVgpKl2JOQIuS) | 5:31 | 2022-05-13 | 2022-07-29 |
 | [La Belle Dame Sans Regrets](https://open.spotify.com/track/1kTZPhmN8PW3KrXahh8rs8) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [When I Fall In Love](https://open.spotify.com/album/5Qyx80BQxegTNdvdDkjwJu) | 5:31 | 2022-06-28 |  |
 | [La Boca](https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [La Boca](https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5) | 4:04 | 2023-09-22 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 56717,
+  "2024-04-08": 56725,
   "date_first_scraped": "2022-05-13",
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Bzars en portada.",
   "name": "EDM\u00e9xico",
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 137812,
       "name": "Brake Test",
       "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
@@ -2111,7 +2111,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 154687,
       "name": "In You Arms",
       "url": "https://open.spotify.com/track/3nek7B2KNvSZRq4N1zAgMv"
@@ -3840,7 +3840,7 @@
         },
         {
           "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "url": "https://open.spotify.com/artist/39MWerlRrO7cw4cowVJGyd"
         },
         {
           "name": "House Music Bro",

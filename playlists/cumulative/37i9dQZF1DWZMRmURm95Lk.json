@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "FANCULO CI SIAMO ANCHE NOI",
+        "url": "https://open.spotify.com/album/3R81pOeULMFniz7M2fLW6b"
+      },
+      "artists": [
+        {
+          "name": "Assalti Frontali",
+          "url": "https://open.spotify.com/artist/56PAFc5EkAWofBQfKUNpvb"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208259,
+      "name": "FANCULO CI SIAMO ANCHE NOI",
+      "url": "https://open.spotify.com/track/5eKafeqVlztOFHhHNRQgdO"
+    },
+    {
+      "album": {
         "name": "Fari Spenti.",
         "url": "https://open.spotify.com/album/4OjBdQH7u5K77VpMefe8e8"
       },
@@ -7910,7 +7928,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 155641,
       "name": "Te Famo Scuola (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/5vePPd0uqG37XJT6RYLzYi"

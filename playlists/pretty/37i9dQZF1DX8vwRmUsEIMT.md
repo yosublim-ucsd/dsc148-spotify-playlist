@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,363 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,401 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 |
 | 80 | [Englaso](https://open.spotify.com/track/0hDjvR6tcjTbpfpigqcJ4j) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Englaso](https://open.spotify.com/album/7E6pHTg09rMbd2fEfwylKD) | 2:39 |
 
-Snapshot ID: `MCwyZTMxNmM2OTU2Yjc4YjJjYTJlZTVkOGQ1MmNhOGM2NjM1NDJmMmNm`
+Snapshot ID: `MCw0NzllNjc0NTAwODEwOGI3YzljYzFlZjcxYjA2OWEyMTA3NjIyMzU3`

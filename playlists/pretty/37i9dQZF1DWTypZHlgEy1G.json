@@ -1,12 +1,12 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Jacques Brel",
-  "num_followers": 536120,
+  "num_followers": 536129,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTc3NWFhOTM0YjQ5YWQzYjRjZjYxOTQyNTY2ZmY0NWE3NjQ0MGVk",
+  "snapshot_id": "MCwxNjViZWIxMTBjOTc1MDBkOTZhMzc1Y2Y3OWNiZmEzMzFmMjRlMTVl",
   "tracks": [
     {
       "added_at": "2023-10-19 14:26:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "La montagne 1964",
-        "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
-      },
-      "artists": [
-        {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "La montagne",
-      "url": "https://open.spotify.com/track/6ninjFrpTv2rmMfrNFTRq7"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
         "name": "Love Me Please Love Me",
         "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 193706,
       "name": "La poup\u00e9e qui fait non",
       "url": "https://open.spotify.com/track/245la2fLeLCOpBWDjgE8rj"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "La montagne 1964",
+        "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "La montagne",
+      "url": "https://open.spotify.com/track/6ninjFrpTv2rmMfrNFTRq7"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
+        "name": "Paroles\u2026 paroles\u2026",
+        "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
         "name": "Edition 60e anniversaire",
         "url": "https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL"
       },
@@ -1017,22 +1033,6 @@
       "url": "https://open.spotify.com/track/69rHFP4fPoWr8lBSST9km0"
     },
     {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
-        "name": "Fleur De Paris",
-        "url": "https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc"
-      },
-      "artists": [
-        {
-          "name": "Maurice Chevalier",
-          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "Paris sera toujours Paris",
-      "url": "https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22"
-    },
-    {
       "added_at": "2023-10-19 14:26:00",
       "album": {
         "name": "Jazz Et Java",
@@ -1049,20 +1049,20 @@
       "url": "https://open.spotify.com/track/1V021MMTOGURDZxkDBMaG9"
     },
     {
-      "added_at": "2023-10-19 14:26:00",
+      "added_at": "2024-03-22 19:37:47",
       "album": {
-        "name": "Paroles\u2026 paroles\u2026",
-        "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
+        "name": "Fleur De Paris",
+        "url": "https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc"
       },
       "artists": [
         {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+          "name": "Maurice Chevalier",
+          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
         }
       ],
-      "duration_ms": 176826,
-      "name": "Il venait d'avoir 18 ans",
-      "url": "https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS"
+      "duration_ms": 194933,
+      "name": "Paris sera toujours Paris",
+      "url": "https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22"
     },
     {
       "added_at": "2023-10-19 14:26:00",

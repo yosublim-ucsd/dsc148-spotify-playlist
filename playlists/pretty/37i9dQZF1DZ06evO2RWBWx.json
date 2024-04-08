@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 18279,
+  "num_followers": 18283,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGY0NDMyNmE5YTE2YTFjNjE3ZmY2N2NiZjFlMjFjNzViNzY1ZTEw",
+  "snapshot_id": "MCxkNzIyNTAxNjcwMTZlMjBmMzFhNjA0Y2MyZTFkYTA0MGNjNzk1MGM4",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d4\u30ea\u30aa\u30c9",
-        "url": "https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP"
+        "name": "Happy Order?",
+        "url": "https://open.spotify.com/album/0oGqRZnSSNtsbOfUeWTCAG"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 214000,
-      "name": "\u30d4\u30ea\u30aa\u30c9",
-      "url": "https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx"
+      "duration_ms": 211140,
+      "name": "Happy Order?",
+      "url": "https://open.spotify.com/track/42m2Tyvsx9DRuujxfeTjfi"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happy Order?",
-        "url": "https://open.spotify.com/album/0oGqRZnSSNtsbOfUeWTCAG"
+        "name": "\u30d4\u30ea\u30aa\u30c9",
+        "url": "https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 211140,
-      "name": "Happy Order?",
-      "url": "https://open.spotify.com/track/42m2Tyvsx9DRuujxfeTjfi"
+      "duration_ms": 214000,
+      "name": "\u30d4\u30ea\u30aa\u30c9",
+      "url": "https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx"
     },
     {
       "added_at": null,

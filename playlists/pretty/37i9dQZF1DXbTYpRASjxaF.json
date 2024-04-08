@@ -1,12 +1,12 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Gapes",
-  "num_followers": 129792,
+  "num_followers": 129817,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmE0MWEyMDMwNzFjYTM2NjlkODNkNjczOTE2YTZmNDM0NTQzY2Q4",
+  "snapshot_id": "MCw5OTU1MmRmN2UzMTI1N2QzNmZkNmVjMTRlMTU1ZGEyZDFmYTBkMDU4",
   "tracks": [
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1139,6 +1139,34 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "T\u00e1 Eu e a Nicole",
+        "url": "https://open.spotify.com/album/0oZKsYkz1VrZeMbg9pyxxT"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        },
+        {
+          "name": "AmandesNoBeat",
+          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "T\u00e1 Eu e a Nicole",
+      "url": "https://open.spotify.com/track/7yAWTGdWaBZR2lqZEvD999"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Nega Doce",
         "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
       },
@@ -1179,34 +1207,6 @@
       "duration_ms": 140800,
       "name": "Bebeto & Rom\u00e1rio",
       "url": "https://open.spotify.com/track/1UHfOlHWNVRK4jDnTZ4NeO"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "T\u00e1 Eu e a Nicole",
-        "url": "https://open.spotify.com/album/0oZKsYkz1VrZeMbg9pyxxT"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
-        },
-        {
-          "name": "AmandesNoBeat",
-          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "T\u00e1 Eu e a Nicole",
-      "url": "https://open.spotify.com/track/7yAWTGdWaBZR2lqZEvD999"
     },
     {
       "added_at": "2024-04-05 03:01:00",

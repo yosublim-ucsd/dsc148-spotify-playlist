@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 759950,
+  "2024-04-08": 759923,
   "date_first_scraped": "2021-12-30",
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Chita.",
   "name": "Mixto",
@@ -5973,7 +5973,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 150236,
       "name": "La Casa De Las Flores",
       "url": "https://open.spotify.com/track/3ivUzc6yLzHuXbS0TBSGC5"
@@ -6275,6 +6275,24 @@
       "duration_ms": 155993,
       "name": "left you",
       "url": "https://open.spotify.com/track/3wMy7DfIcVlkZv1RVnNkyi"
+    },
+    {
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "album": {
@@ -11835,7 +11853,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 183000,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/75ApJOCeGeraJfxIl4qAlI"
@@ -12699,7 +12717,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 174085,
       "name": "VUELTIANDO",
       "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"

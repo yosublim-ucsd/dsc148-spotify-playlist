@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 18516,
+  "num_followers": 18538,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzczYzdhMjUyMDg5Mjk2NWFiNGY1NTA5YzI4ZTZhZTQ2NmJkMDNk",
+  "snapshot_id": "MCxjZDRmNmQxZmZhZmExNjlhNGM1MjIwM2RjMjk3YmVkNGU4MmE1NGYy",
   "tracks": [
     {
       "added_at": "2024-04-01 16:24:40",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "Labios Mordidos (with KAROL G)",
-        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "Labios Mordidos (with KAROL G)",
+        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
-        "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 192347,
-      "name": "L-Gante: Bzrp Music Sessions, Vol.38",
-      "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "ME GUSTA",
         "url": "https://open.spotify.com/album/3HNqyB10NeGik7ZP4QSj4G"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 135352,
       "name": "ME GUSTA",
       "url": "https://open.spotify.com/track/60sKzWUNVvZ0QeX5tcgnlp"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
+        "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 192347,
+      "name": "L-Gante: Bzrp Music Sessions, Vol.38",
+      "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
+        "name": "Reggaeton Latino y M\u00e1s",
+        "url": "https://open.spotify.com/album/4tw1VLfIYRVGBm55oXoiZo"
+      },
+      "artists": [
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 111040,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1BzuD0FtJssMs5K7Pv4cg2"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
         "name": "POLVO ROSA (feat. Snow Tha Product)",
         "url": "https://open.spotify.com/album/4BmqaWWrg22IiW5UTeWeyK"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 195625,
       "name": "Metele",
       "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
-        "name": "Reggaeton Latino y M\u00e1s",
-        "url": "https://open.spotify.com/album/4tw1VLfIYRVGBm55oXoiZo"
-      },
-      "artists": [
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 111040,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1BzuD0FtJssMs5K7Pv4cg2"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "BYK",
-        "url": "https://open.spotify.com/album/5deurIxzSAsbzN8oyzPSLC"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Santana the Golden Boy",
-          "url": "https://open.spotify.com/artist/7w2wcIXdCu7lfY4h5jbbrv"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "BYK",
-      "url": "https://open.spotify.com/track/6roXwAFXzYm5pkr7z0ihVb"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "Karol G",
         "url": "https://open.spotify.com/album/6q7tig0nfFlh7kkjmdO3jA"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 192253,
       "name": "Karol G",
       "url": "https://open.spotify.com/track/5wuLG283T9YyQeNwDJfXm0"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "BYK",
+        "url": "https://open.spotify.com/album/5deurIxzSAsbzN8oyzPSLC"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Santana the Golden Boy",
+          "url": "https://open.spotify.com/artist/7w2wcIXdCu7lfY4h5jbbrv"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "BYK",
+      "url": "https://open.spotify.com/track/6roXwAFXzYm5pkr7z0ihVb"
     },
     {
       "added_at": "2024-04-01 16:24:40",

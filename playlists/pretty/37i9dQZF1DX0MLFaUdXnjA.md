@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best chill pop\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,819,492 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,819,587 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 40 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
 | 41 | [Oh, Gemini](https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Oh, Gemini](https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9) | 2:44 |
 | 42 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 |
-| 43 | [Stay Gold \- from The Outsiders \- A New Musical](https://open.spotify.com/track/3TI5bdaIEvc8piXWTl64xP) | [Sky Lakota\-Lynch](https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI), [Brody Grant](https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj) | [Stay Gold \(from The Outsiders \- A New Musical\)](https://open.spotify.com/album/0gG73d6zYl2QdYPWqjJCo8) | 4:07 |
+| 43 | [Stay Gold \- from The Outsiders, A New Musical](https://open.spotify.com/track/3TI5bdaIEvc8piXWTl64xP) | [Sky Lakota\-Lynch](https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI), [Brody Grant](https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj), [Original Broadway Cast of The Outsiders \- A New Musical](https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w) | [Stay Gold \(from The Outsiders, A New Musical\)](https://open.spotify.com/album/0gG73d6zYl2QdYPWqjJCo8) | 4:07 |
 | 44 | [Rewrite the Stars](https://open.spotify.com/track/6ihNhG9Ne3Vc3fIX8wQgSf) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [you taught me to read between the lines](https://open.spotify.com/album/51rJr1CW5K5BhIM0mkouxh) | 2:31 |
 | 45 | [It's Been A Week](https://open.spotify.com/track/7ubDr5F9DWHYZjFX42jHnp) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [It’s Been A Week](https://open.spotify.com/album/72cu7PDY50JqN8UY0VBdgW) | 2:59 |
 | 46 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 99 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 |
 | 100 | [Hopelessly Devoted To You \- Spotify Single](https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:10 |
 
-Snapshot ID: `MCxjMmY4NmJhNDY1ODAyNTAwMDc1MTAwMjczYWE1M2Y4ODE4M2M3MTI5`
+Snapshot ID: `MCxiZjc4NWRlN2I2M2M4MTEzNTNiNWIxYmZiZWYyMzQyZTYxNmE0N2Jk`

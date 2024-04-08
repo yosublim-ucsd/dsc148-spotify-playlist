@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Shotgun Willy, born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,332 likes - 99 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,420 likes - 99 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 12 | [NOTHIN' TO IT](https://open.spotify.com/track/0JwrnTwmE0UMctySBYGnJS) | [ON THE HUNT](https://open.spotify.com/artist/0H4NDqO4OLCIat2L6ET4yJ), [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx) | [NOTHIN' TO IT](https://open.spotify.com/album/7ikk4urY9UBan6I7808bgc) | 1:56 |
 | 13 | [NENE'S PRAYER](https://open.spotify.com/track/1U84Q9VogHbbfojXkIC65i) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [NENE'S PRAYER](https://open.spotify.com/album/1Ke18E92eGR8FVPT3ZY6pg) | 1:35 |
 | 14 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/7qAyWILStEa7VkjF00kXas) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/album/7bf7m2qiQ2EhNSnAQfgwOb) | 2:10 |
-| 15 | [BIG DOG SH\*T](https://open.spotify.com/track/3wOgRFB76sCuD29N6Jz4mI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [BIG DOG SH\*T](https://open.spotify.com/album/2VnEwCFWbSj7irTuUye8ES) | 2:32 |
+| 15 | [BIG DOG SH\*T \(feat\. Lil RT\)](https://open.spotify.com/track/3wOgRFB76sCuD29N6Jz4mI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [BIG DOG SH\*T](https://open.spotify.com/album/2VnEwCFWbSj7irTuUye8ES) | 2:32 |
 | 16 | [Back It up and Dump It \(Dump Truck\)](https://open.spotify.com/track/3hFnQwSt5zAWaYpLuMSWB7) | [GC Eternal](https://open.spotify.com/artist/0ZOCqmN2WKW2Pd4X5soZ02), [Kinfolk Thugs](https://open.spotify.com/artist/3HKeu1ODauzWmisaf17RBS), [Tyme Bomb](https://open.spotify.com/artist/0mDzqk1BoBvyKUYfcg6Zbd), [Tre'v](https://open.spotify.com/artist/3G4S7c0YyMbTNf09kdVybp) | [Back It Up and Dump It \(Dump Truck\)](https://open.spotify.com/album/71hlcT83y4lzW8a2nn0PyM) | 3:27 |
 | 17 | [Jesus Piece](https://open.spotify.com/track/5xLYcxA8518p4hctOHjsCv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [Jesus Piece](https://open.spotify.com/album/18jjUDMS8uvQYUj1ZijrMX) | 2:37 |
 | 18 | [Fisherrr](https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr](https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI) | 3:56 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 98 | [BET](https://open.spotify.com/track/7y0tirehAFF9YtxljxDOPt) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [DALE](https://open.spotify.com/album/2nZ9NW1n76ti7fFcJg2Lrh) | 2:48 |
 | 99 | [Rover!](https://open.spotify.com/track/0s9eWn090LdFQxKqkPLiH3) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [SUPERSTAR!](https://open.spotify.com/album/7rRQ0fz5cgm4y6BmahyXCs) | 2:31 |
 
-Snapshot ID: `MCxlYmI5NmMyZjE3Yjk2MGI4NWQyODZiY2VhYjhjNTA5ODg0ZTMzOTVm`
+Snapshot ID: `MCwzM2RjZmQ0ZDIzYjA1MmNlOGRkNTIxYTE0NWM3YWZkMzA2MzZjOTM4`

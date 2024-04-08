@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,457 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,452 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Raving In The Simulation](https://open.spotify.com/track/3C8fxlVxOtyofU9mS3j61X) | [Genick](https://open.spotify.com/artist/59JrOdJYiD9hbd5QjX0XKO), [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [PeanutsKun](https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc), [HAKU](https://open.spotify.com/artist/5e7WY3osdEKUSJy2LozHqC) | [Raving In The Simulation](https://open.spotify.com/album/2pUYtzjWnzP4s6MEnBY1LN) | 3:54 |
 | 100 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
 
-Snapshot ID: `MCw0ZmE5NWRjODQ4YWQyZWZmMmM5MDA0OGRjYzA1OGY0YmVhYzBmOTVh`
+Snapshot ID: `MCw0MGVmMjU1ODBkNWI5MDg4YTljNjhjMzhmN2RlNmEwOGMyNTZlODEx`

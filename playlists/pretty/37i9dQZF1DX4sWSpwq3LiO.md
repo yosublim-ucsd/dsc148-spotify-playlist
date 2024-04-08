@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,494,074 likes - 207 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,494,897 likes - 207 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 206 | [To the Rain](https://open.spotify.com/track/025aQi6Ffw676y8m4zLPk7) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [To the Rain](https://open.spotify.com/album/30HSC1ogeWpwBZXroMTTDW) | 2:25 |
 | 207 | [You & Me](https://open.spotify.com/track/18S2PRuactalb1hwBxfwGl) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [You & Me](https://open.spotify.com/album/0JE30u7sW7I1fZeFdCJVGw) | 2:18 |
 
-Snapshot ID: `MCw0MjA5MjAyOTRjNTBiMDAzNzcyNjhhOTljZDUyYzU5MjNjZjlhMzY4`
+Snapshot ID: `MCw5ZTM4OGUzYjBkZDVlY2VkMzQ4ZWZmZWM5ZmUzZGJhMzYwZTQ5ZDIy`

@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 22088,
+  "2024-04-08": 22092,
   "date_first_scraped": "2022-06-30",
   "description": "Rock independiente, pop alternativo y golden hour.",
   "name": "6PM Indie",
@@ -241,6 +241,28 @@
       "duration_ms": 153418,
       "name": "Adi\u00f3s Mundo Cruel",
       "url": "https://open.spotify.com/track/0xR8MLrA5Eb0XW4wA8Nvzm"
+    },
+    {
+      "album": {
+        "name": "Aeronostalgia",
+        "url": "https://open.spotify.com/album/0oQDaUfgj0AVb0tigPuIsX"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        },
+        {
+          "name": "J",
+          "url": "https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227778,
+      "name": "Aeronostalgia",
+      "url": "https://open.spotify.com/track/5r7q1ilvnK3MSjXVJ5x4a5"
     },
     {
       "album": {
@@ -3439,7 +3461,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 255897,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y"
@@ -4681,7 +4703,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
@@ -6446,7 +6468,7 @@
         },
         {
           "name": "Antonia Navarro",
-          "url": "https://open.spotify.com/artist/3tN2uMLMNS3GqvncjQ5xIR"
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
         }
       ],
       "date_added": "2024-03-29",
@@ -8323,6 +8345,24 @@
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
+    },
+    {
+      "album": {
+        "name": "Puedo ver el mar en tus ojos",
+        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
+      },
+      "artists": [
+        {
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181495,
+      "name": "Puedo ver el mar en tus ojos",
+      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
     },
     {
       "album": {

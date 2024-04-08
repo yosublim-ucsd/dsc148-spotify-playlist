@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Bruno Berle
 
-565 songs - 1 day 8 hr 0 min
+566 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,7 +494,8 @@
 | [Tira a Roupa](https://open.spotify.com/track/5ayHgfHVet0M47OC4kTrTK) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO), [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Tira a Roupa](https://open.spotify.com/album/44Of1OGkx4p2UdeaIIJyg8) | 3:11 | 2022-06-10 | 2022-08-13 |
 | [Tirem\-me daqui](https://open.spotify.com/track/3ysIWLVSEYXNqE82GqnV0L) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Papel de carta](https://open.spotify.com/album/3cT88RfZ2nA2hDrbTm3M9W) | 3:26 | 2022-05-13 | 2022-07-16 |
 | [Tirem\-me daqui \- enzo dicarlo version](https://open.spotify.com/track/4kfNNAw6YBuZ1rsRKHyIaK) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [enzo dicarlo](https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2) | [Papel de Carta \(Deluxe\)](https://open.spotify.com/album/5lh3deg1xn4yYkXRBuYEuL) | 3:34 | 2023-04-28 | 2023-09-16 |
-| [Tirolirole](https://open.spotify.com/track/2xJrDU7mL8LwzCKISGXYPN) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Tirolirole](https://open.spotify.com/album/127vWtIY7ifAeFWhIhpgPW) | 3:01 | 2023-11-17 |  |
+| [Tirolirole](https://open.spotify.com/track/2xJrDU7mL8LwzCKISGXYPN) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Tirolirole](https://open.spotify.com/album/127vWtIY7ifAeFWhIhpgPW) | 3:01 | 2023-11-17 | 2024-04-08 |
+| [Tirolirole](https://open.spotify.com/track/3ByPnYe3VB9nnR8ID3Nvtt) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [No Reino Dos Afetos 2](https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3) | 3:01 | 2024-04-05 |  |
 | [toda vez](https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [belina](https://open.spotify.com/album/5VDXgZ7XDtKsZwMWNPUA21) | 4:07 | 2022-01-28 | 2022-04-29 |
 | [Todo Dia](https://open.spotify.com/track/5XVCGWWidSp3Of6o3AKCBh) | [Vincy](https://open.spotify.com/artist/6HlGGZw4VFdkPIFkWQnVzm) | [Todo Dia](https://open.spotify.com/album/13Y4BalYZL0tvk5I8dlqJP) | 2:36 | 2022-06-03 | 2022-06-18 |
 | [Todo Dia É De Mudanca](https://open.spotify.com/track/5rYNNP09GB18zTmcNMHVya) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [1 2 3 4](https://open.spotify.com/album/3OV2o4Fy4cgTWyJYCzF1dF) | 3:05 | 2023-07-21 | 2023-12-09 |

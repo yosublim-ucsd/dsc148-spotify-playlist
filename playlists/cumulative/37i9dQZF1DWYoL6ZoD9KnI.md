@@ -4,7 +4,7 @@
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-67 songs - 4 hr 37 min
+68 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [vivi](https://open.spotify.com/track/3izOZelMZaCC0MMabvssCw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 4:30 | 2022-11-22 |  |
 | [あめふり婦人](https://open.spotify.com/track/4ih8ybOwn5Mfmu0EY6THjr) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 2:59 | 2022-11-22 |  |
 | [ごめんね](https://open.spotify.com/track/4dvRQjQCOdtEaYH86BEs36) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Flamingo / TEENAGE RIOT](https://open.spotify.com/album/4OaItizwUJOXbPgr7bBSSO) | 3:31 | 2022-11-22 |  |
+| [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 | 2024-04-07 |  |
 | [でしょましょ](https://open.spotify.com/track/0crXUgfQlDabooRgYlk6pO) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [馬と鹿](https://open.spotify.com/album/0qQBqfFObMOxLmumCLDjiw) | 2:52 | 2022-11-22 |  |
 | [ひまわり](https://open.spotify.com/track/2Tl9plCC1mml1tS9jepjC4) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:02 | 2022-11-22 |  |
 | [まちがいさがし](https://open.spotify.com/track/1ZjoUsUbGdDrdyofWvSITO) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:27 | 2022-11-22 |  |

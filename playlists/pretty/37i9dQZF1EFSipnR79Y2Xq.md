@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621 likes - 47 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 621 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 45 | [Qué Caray](https://open.spotify.com/track/1j6Lcd5PAnofiBTRFpOaoF) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [Qué Caray](https://open.spotify.com/album/610F8o3nDMsr5X1PRyxU9Y) | 2:59 |
 | 46 | [Algo Bien](https://open.spotify.com/track/1zfpy39kSjhxxsVpBdZLd6) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:44 |
 | 47 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
+| 48 | [Malo Del Cuento](https://open.spotify.com/track/2gdgNi2PPsbhlIxVofs6mq) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [Malo Del Cuento](https://open.spotify.com/album/1ElHkMCS6BxSRtiCFpIrfD) | 2:57 |
 
-Snapshot ID: `Mjg1NDA5MjAsMDAwMDAwMDAwY2Q3ZTNlZDJmMmE5OWUyZTU2ODMyZTk1YTRlYTU2MQ==`
+Snapshot ID: `Mjg1NDIzNjAsMDAwMDAwMDBiNDI1NTMwOGFjNWQwZmYwMGE0ZDhiMWU0Yjg4MWU1Nw==`

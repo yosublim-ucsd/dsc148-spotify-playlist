@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 195931,
+  "2024-04-08": 195922,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -897,7 +897,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 195351,
       "name": "Always Ballin",
       "url": "https://open.spotify.com/track/0gfF1aSUYR2CIZPuHaF2gm"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 174000,
       "name": "Better Than Her",
       "url": "https://open.spotify.com/track/4NykJNyAnlVH4Awb15eTpa"
@@ -3072,6 +3072,24 @@
     },
     {
       "album": {
+        "name": "Covered By The Clouds",
+        "url": "https://open.spotify.com/album/4gnX8BqbSdUdcIzpkMa8sX"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199062,
+      "name": "Covered By The Clouds",
+      "url": "https://open.spotify.com/track/6qOd4FxG2FvYGCq9gqIwGA"
+    },
+    {
+      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN"
       },
@@ -3343,7 +3361,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 210172,
       "name": "Dear Emily",
       "url": "https://open.spotify.com/track/4RMH038jyziMgRwiFW4xQC"
@@ -4223,7 +4241,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 200568,
       "name": "Dr\u00f6m vackra dr\u00f6m",
       "url": "https://open.spotify.com/track/61ej0PBBMll6v1huilKpRV"
@@ -6513,7 +6531,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 229346,
       "name": "F\u00d6RST\u00c4RKARE",
       "url": "https://open.spotify.com/track/1q3g6ZgG0vIIZGQduiPQIz"
@@ -6679,6 +6697,24 @@
       "duration_ms": 166875,
       "name": "Genom eld - Spotify Singles",
       "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
+    },
+    {
+      "album": {
+        "name": "Genom livet",
+        "url": "https://open.spotify.com/album/5Pah6nJz3gdWm1oHnCVjHQ"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167156,
+      "name": "Genom livet",
+      "url": "https://open.spotify.com/track/1KR5Mtn7zLFDTPfFlyblc3"
     },
     {
       "album": {
@@ -13410,6 +13446,24 @@
     },
     {
       "album": {
+        "name": "Oh love",
+        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256047,
+      "name": "Oh love",
+      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
+    },
+    {
+      "album": {
         "name": "Oh My Gosh (Radio Edit)",
         "url": "https://open.spotify.com/album/3qTU0a1gPO6VC3RA4VQZ8G"
       },
@@ -13551,6 +13605,24 @@
       "duration_ms": 183603,
       "name": "Om du vill",
       "url": "https://open.spotify.com/track/4xG2nTPEzzVISmzk7sepJd"
+    },
+    {
+      "album": {
+        "name": "Om Jag Inte Kan Leva Med Dig Varf\u00f6r D\u00f6r Jag D\u00e5 Utan Dig",
+        "url": "https://open.spotify.com/album/3OUOtceoVcpY04gJcErxts"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162656,
+      "name": "Om Jag Inte Kan Leva Med Dig Varf\u00f6r D\u00f6r Jag D\u00e5 Utan Dig",
+      "url": "https://open.spotify.com/track/3AF9kWf3FsXv6aUzUOc5zb"
     },
     {
       "album": {
@@ -14899,7 +14971,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 139200,
       "name": "R\u00e4kna Med Mig",
       "url": "https://open.spotify.com/track/3JAAD4IQTmOYXnVQnegTvV"
@@ -17419,6 +17491,24 @@
       "duration_ms": 191464,
       "name": "Svarta Moln (From Songland)",
       "url": "https://open.spotify.com/track/73A3kioiMa6CXW89cdTWXz"
+    },
+    {
+      "album": {
+        "name": "Svett",
+        "url": "https://open.spotify.com/album/565wtWK25tA1JjATQZbvVg"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186230,
+      "name": "Svett",
+      "url": "https://open.spotify.com/track/4uXlhWXPnysM9HQMFqzU3f"
     },
     {
       "album": {
@@ -20165,6 +20255,28 @@
       "duration_ms": 210639,
       "name": "V\u00e5gen",
       "url": "https://open.spotify.com/track/3BxF9YsGMNNeRxxNjjRLJX"
+    },
+    {
+      "album": {
+        "name": "V\u00e5r k\u00e4rlek",
+        "url": "https://open.spotify.com/album/0FnDOv42wnmr4LiXvhQW19"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "V\u00e5r k\u00e4rlek",
+      "url": "https://open.spotify.com/track/6d785NMhyPZ4cmsEf4DsMo"
     },
     {
       "album": {

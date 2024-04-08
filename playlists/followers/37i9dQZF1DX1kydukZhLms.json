@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 1347482,
+  "2024-04-08": 1347794,
   "date_first_scraped": "2022-05-31",
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
   "name": "Heavy Ballads",
@@ -917,7 +917,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 247466,
       "name": "Can't Stop Lovin' You",
       "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
@@ -3751,7 +3751,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 390800,
       "name": "Return to Serenity",
       "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"

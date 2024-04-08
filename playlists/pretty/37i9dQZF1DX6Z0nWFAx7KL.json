@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 48397,
+  "num_followers": 48413,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTRlMjZlNjUyMzQ5NmExMjU3YTRkNWM2ZmU5YjE0ODYyNWRkNDk5",
+  "snapshot_id": "MCwwYTA1YzY0MDA0NTUwZmMwMTI3NTllNTdhMWE1NTIyZmVmMjgyMmZi",
   "tracks": [
     {
       "added_at": "2024-03-28 15:19:07",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Escaping",
-        "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
-      },
-      "artists": [
-        {
-          "name": "Bellestar",
-          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
-        },
-        {
-          "name": "Urban Love",
-          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Escaping",
-      "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -931,6 +911,26 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Escaping",
+        "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
+      },
+      "artists": [
+        {
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Urban Love",
+          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Escaping",
+      "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 148500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -971,22 +987,6 @@
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1251,26 +1251,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
+        "name": "A Radiant Sign",
+        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
       },
       "artists": [
         {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         },
         {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 152903,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+      "duration_ms": 232917,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1295,22 +1291,26 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "A Radiant Sign",
-        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
         },
         {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
-      "duration_ms": 232917,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
+      "duration_ms": 152903,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
-      },
-      "artists": [
-        {
-          "name": "MAFQEES",
-          "url": "https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 165853,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
+      },
+      "artists": [
+        {
+          "name": "MAFQEES",
+          "url": "https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
     },
     {
       "added_at": "2024-03-28 15:19:07",

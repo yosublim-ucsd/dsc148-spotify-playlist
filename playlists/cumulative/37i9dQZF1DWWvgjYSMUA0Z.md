@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-178 songs - 10 hr 4 min
+185 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2021-12-22 |  |
 | [Ancestral Spirit](https://open.spotify.com/track/4pIM5eZaCM2x4P1KqUDSTk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Shaman Spirit Flute](https://open.spotify.com/album/39Q6KP8xGG0olJZMSwK7x9) | 1:15 | 2022-05-19 | 2023-07-29 |
 | [Angelical](https://open.spotify.com/track/2LzNS6YlpkehtEINlWNtV2) | [No Nem\-1](https://open.spotify.com/artist/2nWmDoCWQwcZQe6eemVZtp) | [Angelical](https://open.spotify.com/album/2O9gwqHI8P7XAr1yPp1xST) | 3:22 | 2021-12-22 |  |
+| [Anna's Log](https://open.spotify.com/track/08Q8hexJUIjCJzNFrH6kKz) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Anna's Log](https://open.spotify.com/album/0HGph8QAx4WPBbxisXNb0U) | 2:36 | 2024-04-07 |  |
 | [Apaisantes](https://open.spotify.com/track/3713Dlm0BpTyUr1UmIhpk7) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Apaisantes](https://open.spotify.com/album/4aQuLGuuYxdFj4gjl7I2TB) | 2:14 | 2022-11-11 |  |
 | [Argentum](https://open.spotify.com/track/0ShvmWyYcjf8nbCBBhVjPW) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Argentum](https://open.spotify.com/album/3bRb9n1DDvfT2cHbqnsGp4) | 2:42 | 2022-02-04 |  |
 | [At last](https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [At last](https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd) | 3:30 | 2021-12-22 |  |
@@ -77,6 +78,7 @@
 | [In jouw armen](https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In jouw armen](https://open.spotify.com/album/0R7SDTTsNQOpxGKM5PVKKm) | 3:10 | 2021-12-22 |  |
 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 | 2022-12-09 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2021-12-22 |  |
+| [Inner Space for Peace](https://open.spotify.com/track/7mkaRgpeYYcimZrMYie43t) | [Celeste](https://open.spotify.com/artist/0q2mtwyZHFIRvwqiWpqSc8) | [Inner Space for Peace](https://open.spotify.com/album/52Gm03JmQ4l0XoIjkiJy2x) | 3:08 | 2024-04-07 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-02-04 |  |
 | [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-15 |  |
 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 | 2022-11-11 |  |
@@ -94,9 +96,11 @@
 | [Nada Más](https://open.spotify.com/track/7w9Lh7UjwwcF5H3lkIEQg0) | [Abel de Paula](https://open.spotify.com/artist/0D7gbspnUTEMXhKGUz6jJ7) | [Nada Más](https://open.spotify.com/album/7sGTpsv4C3LsSFrPk8LiY2) | 2:43 | 2024-01-30 |  |
 | [Namaste](https://open.spotify.com/track/7qLT0sVYjM9MlIf7sHfEcX) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Namaste](https://open.spotify.com/album/2HBModmTCfZew2Z2UYxiQ9) | 2:57 | 2021-12-22 |  |
 | [Namaste Divine](https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Namaste Divine](https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP) | 4:04 | 2023-01-09 | 2023-04-14 |
+| [Natura Deambulatio](https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy) | [Floating Portal](https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X) | [Natura Deambulatio](https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2) | 3:30 | 2024-04-07 |  |
 | [New Words](https://open.spotify.com/track/3G2uZooJWAuw6cSN1RryBM) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [New Words](https://open.spotify.com/album/65Ws1BQZcFgPzi4xesrQ6V) | 3:12 | 2023-05-22 |  |
 | [No Longer Without You](https://open.spotify.com/track/58ODMaEmUCpk5bU7qoHLDD) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [No Longer Without You](https://open.spotify.com/album/4oG2TJs9l9xlBW9CTFZ44U) | 2:49 | 2021-12-22 |  |
 | [Nu Och Då](https://open.spotify.com/track/6NFfWWPPT29ZlkJrEwC2JN) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [Nu Och Då](https://open.spotify.com/album/495epNYdGBDMYDF7tU6PWT) | 2:24 | 2023-01-20 |  |
+| [Om Shanti \(432 Hz\)](https://open.spotify.com/track/4ypEOe9cpgDX8SY1zM6coc) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Om Shanti \(432 Hz\)](https://open.spotify.com/album/3lXcQYiBwotYEOOLZWOeoK) | 2:32 | 2024-04-07 |  |
 | [On A Bed Of Peace](https://open.spotify.com/track/2xAU6r6GSaapYwAyR9hiqB) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [On A Bed Of Peace](https://open.spotify.com/album/1HOEnUoODyeJV6bgW45s02) | 4:41 | 2022-03-29 |  |
 | [Opal Healing](https://open.spotify.com/track/1iqwffzgK59NVMpdv4kAYM) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Opal Healing](https://open.spotify.com/album/2hlrfHf4tZwaWLu7tVxjlE) | 2:58 | 2021-12-22 |  |
 | [Open Air](https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU) | [Ion Dia](https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX) | [Open Air](https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs) | 2:43 | 2022-12-02 |  |
@@ -125,12 +129,14 @@
 | [Releaser](https://open.spotify.com/track/1GddIEy7hjJfOCRvjLq7Tu) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Healing Touch](https://open.spotify.com/album/0fSmub8HrabT9rG53oOGbk) | 4:04 | 2021-12-22 |  |
 | [Relief](https://open.spotify.com/track/59xd0X9j4l5COqxkGuZiJp) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Aureole](https://open.spotify.com/album/00qD0iqQkCuQFXN1cu5Mwx) | 3:02 | 2022-03-09 |  |
 | [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2021-12-22 |  |
+| [Reverie Harp](https://open.spotify.com/track/4oPOb70QTYN7aG8h8ndYOr) | [Caiharice](https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn) | [Reverie Harp](https://open.spotify.com/album/36I1Jwr7psMzCm4vO0GAx5) | 3:13 | 2024-04-07 |  |
 | [Revitalizing Flow](https://open.spotify.com/track/0QdJNA24npIMsJfTmukVHV) | [Michele Cabrera](https://open.spotify.com/artist/06TthPTGTvVP112NDOYJrr) | [Peaceful Warrior](https://open.spotify.com/album/1Dt7wU8jK0VSPDymPni7D7) | 3:24 | 2021-12-22 |  |
 | [Root Chakra \- Evolution \- regular](https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B) | [Ben Scott / Christa Michell](https://open.spotify.com/artist/1c8h0oXHbyxkrLFu0vL1N7) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 | 2021-12-22 | 2023-01-14 |
 | [Roseate](https://open.spotify.com/track/1j3Hp5CmwqH5uKTi6fVJ6t) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Roseate](https://open.spotify.com/album/7oizxw0sAy3QqDUYaJPmKD) | 2:56 | 2024-01-30 |  |
 | [Sacred Spirit](https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Beyond My Senses](https://open.spotify.com/album/61mwT5YHs6Eig5XDeTeuu2) | 3:12 | 2022-03-09 |  |
 | [Samadhi](https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Samadhi](https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy) | 2:24 | 2023-07-21 |  |
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2021-12-22 |  |
+| [Savasanna Rest](https://open.spotify.com/track/20gXyNKLVnLnAJoCAjHnSZ) | [Syntropic Mind](https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC) | [Savasanna Rest](https://open.spotify.com/album/1RagOl3lMMu5vVHK7DD12d) | 3:09 | 2024-04-07 |  |
 | [Scintilla](https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW) | [Xo Liam](https://open.spotify.com/artist/6cuCmSWkMV1romxctai2c2) | [Scintilla](https://open.spotify.com/album/0L5i67SXZZq52SfWZfEDBZ) | 2:38 | 2022-05-05 |  |
 | [Seiza](https://open.spotify.com/track/3LthWqBoIUpReucHmhf4Zr) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Singing Bowls And Music Meditation](https://open.spotify.com/album/039njQFCznTzhINn5jN1aa) | 2:22 | 2022-02-04 |  |
 | [Senses](https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Senses](https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG) | 3:09 | 2022-04-21 |  |
@@ -156,6 +162,7 @@
 | [Stills](https://open.spotify.com/track/76aOwjgXrk9f8SPhDcLXWz) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Stills](https://open.spotify.com/album/0dcqSIGN8na4KTTDlNYm3O) | 2:20 | 2021-12-22 |  |
 | [Sun Salutation](https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sun Salutation](https://open.spotify.com/album/55KUA09F5TsAqTTCxbWtL1) | 3:34 | 2022-12-02 | 2023-04-14 |
 | [Sunrise Glory](https://open.spotify.com/track/1jAENgcKZknON4aQSvr4Be) | [Laksmi Sand](https://open.spotify.com/artist/7H5gwCLGNCQ8guLmXFdoJy) | [Laksmi Sand](https://open.spotify.com/album/4zERgFjOw6RNdbpGBeI4EO) | 2:32 | 2021-12-22 | 2022-10-01 |
+| [Surrender to Love \- Radio Edit](https://open.spotify.com/track/2SbiRVhCTfBxHwnUU5xZaD) | [Liquid Mind](https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF) | [Surrender to Love Radio Edit](https://open.spotify.com/album/33qa8yeOyYrUbmyqe7dyyt) | 3:41 | 2024-04-07 |  |
 | [Surrounding](https://open.spotify.com/track/7IW08v4Bnug7Tn7869gZp3) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Surrounding](https://open.spotify.com/album/3qPDbOCPQSKh2OiuJOzWk9) | 3:24 | 2021-12-22 |  |
 | [Svítání](https://open.spotify.com/track/0uA3VsjMlOtOD805k4hdZw) | [Lois Haas](https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5) | [Svítání](https://open.spotify.com/album/5cT9er9WCaNLhMllt5D1SJ) | 3:13 | 2021-12-22 |  |
 | [The Enigma of Consciousness](https://open.spotify.com/track/3S7oZhdCE1Pyn9yMugRQIO) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Enigma of Consciousness](https://open.spotify.com/album/7gUJEj7nDARz9qIOTLyLU8) | 3:14 | 2021-12-22 | 2022-07-29 |

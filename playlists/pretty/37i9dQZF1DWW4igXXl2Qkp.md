@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Chris Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,785 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,962 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [All is well](https://open.spotify.com/track/0LUYZQVMi2LctaRmXVimA0) | [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [All is well](https://open.spotify.com/album/3x3BdpxBK1jKILh7Wip9Jn) | 2:07 |
 | 75 | [Last Time Speaking](https://open.spotify.com/track/3qhnypWslWY0hWbXiEi1eW) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [oksurf](https://open.spotify.com/artist/7p6kSroBqiTLRWSd1yBpun) | [Kenny World Deluxe](https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd) | 3:01 |
 
-Snapshot ID: `MCxjMjMxOThlODg1YTk3YjAzZTYwMTBhYzk0OWVmYmJkNjQ1NDdjMjMy`
+Snapshot ID: `MCw4ZGQ5YjVhMjViZDQzMzEwMWRhZWMxMjU3MTI0ZmUwMWY5MTFlOTJi`

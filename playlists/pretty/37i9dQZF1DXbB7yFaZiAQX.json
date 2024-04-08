@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1030885,
+  "num_followers": 1031107,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGMyMGExZDg1YWE1ZjQ3ZmJhOGU3YjViOGZjODUyNDg1Y2YwMTI0",
+  "snapshot_id": "MCxmYmZhN2U5M2IzZDdhYTA3NzFmZThkNzA1MTEyZmFlNTMyNzQzOWUw",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 208453,
       "name": "Love Will Tear Us Apart - 2020 Remaster",
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Ashes to Ashes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Ashes to Ashes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 295250,
-      "name": "Lucretia My Reflection - Vinyl Version",
-      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Some Great Reward (Deluxe)",
         "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 231960,
       "name": "People Are People",
       "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 295250,
+      "name": "Lucretia My Reflection - Vinyl Version",
+      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Bela Session",
-        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 576703,
-      "name": "Bela Lugosi's Dead (Official Version)",
-      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Seventeen Seconds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 354933,
       "name": "A Forest - 2006 Remaster",
       "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Bela Session",
+        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 576703,
+      "name": "Bela Lugosi's Dead (Official Version)",
+      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 391200,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
+      "duration_ms": 240960,
+      "name": "Slippery People - Live",
+      "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1531,34 +1531,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 240960,
-      "name": "Slippery People - Live",
-      "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "Just Like Honey",
-      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
+      "duration_ms": 391200,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Vision Thing",
         "url": "https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK"
       },
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Argybargy",
+        "url": "https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV"
+      },
+      "artists": [
+        {
+          "name": "Squeeze",
+          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Pulling Mussels (From The Shell)",
+      "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "New Clear Days",
         "url": "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 235520,
       "name": "Suedehead - 2011 Remaster",
       "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Argybargy",
-        "url": "https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV"
-      },
-      "artists": [
-        {
-          "name": "Squeeze",
-          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Pulling Mussels (From The Shell)",
-      "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Everyday Is Like Sunday - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
         "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 351400,
       "name": "Pacific State",
       "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Everyday Is Like Sunday - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "I Won't Let You Down",
         "url": "https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 242534,
       "name": "I Won't Let You Down",
       "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Sparkle In The Rain",
-        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Waterfront - Remastered 2002",
-      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+        "name": "Sparkle In The Rain",
+        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
       },
       "artists": [
         {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G"
+      "duration_ms": 289920,
+      "name": "Waterfront - Remastered 2002",
+      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Colour of Spring",
-        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 418173,
-      "name": "Living in Another World - 1997 Remaster",
-      "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Pillow Lips",
         "url": "https://open.spotify.com/album/42RB64zuH7lk1Jivd8MbhL"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 235933,
       "name": "I Melt With You - Rerecorded",
       "url": "https://open.spotify.com/track/2JkJydLG7jkVnQHkusnoYV"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Colour of Spring",
+        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 418173,
+      "name": "Living in Another World - 1997 Remaster",
+      "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Singles (2016 Remaster)",
-        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "True Faith - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Eisb\u00e4r",
         "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 288305,
       "name": "Eisb\u00e4r",
       "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Singles (2016 Remaster)",
+        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "True Faith - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2183,26 +2183,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Private Revolution",
-        "url": "https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey"
-      },
-      "artists": [
-        {
-          "name": "World Party",
-          "url": "https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE"
-        },
-        {
-          "name": "Anthony Thistlethwaite",
-          "url": "https://open.spotify.com/artist/1Dg0yaGc5vawe984BMXIIh"
-        }
-      ],
-      "duration_ms": 268493,
-      "name": "Ship of Fools",
-      "url": "https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Joined Up Writing/The Sitting Room",
         "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 295373,
       "name": "Somewhere Down The Crazy River",
       "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Private Revolution",
+        "url": "https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey"
+      },
+      "artists": [
+        {
+          "name": "World Party",
+          "url": "https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE"
+        },
+        {
+          "name": "Anthony Thistlethwaite",
+          "url": "https://open.spotify.com/artist/1Dg0yaGc5vawe984BMXIIh"
+        }
+      ],
+      "duration_ms": 268493,
+      "name": "Ship of Fools",
+      "url": "https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2"
     },
     {
       "added_at": "2023-05-03 07:47:14",

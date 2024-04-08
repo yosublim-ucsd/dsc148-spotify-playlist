@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 440723,
+  "2024-04-08": 440714,
   "date_first_scraped": "2022-07-19",
   "description": "La sutileza del piano para enriquecer tu espacio.",
   "name": "Piano de Fondo",
@@ -61,6 +61,24 @@
       "duration_ms": 139666,
       "name": "A French Film",
       "url": "https://open.spotify.com/track/72eFRpAOIUP4W5LF9pBydT"
+    },
+    {
+      "album": {
+        "name": "A Fresh Start",
+        "url": "https://open.spotify.com/album/0HfJtkvuSY9WjsWE6wm5c2"
+      },
+      "artists": [
+        {
+          "name": "Roger Swift",
+          "url": "https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158580,
+      "name": "A Fresh Start",
+      "url": "https://open.spotify.com/track/2jlX4uHv42kpI4RrkjF9LK"
     },
     {
       "album": {
@@ -327,7 +345,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 164000,
       "name": "A Te",
       "url": "https://open.spotify.com/track/4h6HLXd9COTiaOhWBmzY2R"

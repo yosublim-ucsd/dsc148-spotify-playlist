@@ -1,5 +1,5 @@
 {
-  "2024-04-07": 2943213,
+  "2024-04-08": 2944108,
   "date_first_scraped": "2021-12-30",
   "description": "every main character needs their soundtrack. ",
   "name": "my life is a movie",
@@ -5546,6 +5546,24 @@
     },
     {
       "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87466,
+      "name": "QKThr",
+      "url": "https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM"
+    },
+    {
+      "album": {
         "name": "Ranch Water",
         "url": "https://open.spotify.com/album/4VrzGyIkfq5IyiMKyFwdDv"
       },
@@ -6091,7 +6109,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"

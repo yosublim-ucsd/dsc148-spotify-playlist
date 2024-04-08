@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-411 songs - 23 hr 49 min
+412 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Road Trippin'](https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication](https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD) | 3:24 | 2023-02-23 |  |
 | [Roll Up Your Sleeves](https://open.spotify.com/track/3yiFxwFOYBcw6LTjlvpUuR) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Roll Up Your Sleeves](https://open.spotify.com/album/6Bzz0EkH1KSzYuadjoo6AS) | 3:05 | 2023-02-23 |  |
 | [Romantic](https://open.spotify.com/track/6UvHVnBPpxMJrTAFnMK8s2) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Looking For Stars](https://open.spotify.com/album/5JZSvFY37igyGtmIP0yuLW) | 3:15 | 2023-02-23 |  |
+| [Room To Grow](https://open.spotify.com/track/63JW5xtCKfZYzFAqKwMrT6) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Room To Grow](https://open.spotify.com/album/2Er5ToDc2FvuTX69fgQ3Td) | 2:57 | 2024-04-04 |  |
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2024-03-21 |  |
 | [Run Away Together](https://open.spotify.com/track/5HNTGn5VIRRBgMdFV09Zh3) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Queen For A Day](https://open.spotify.com/album/1Dn1MhYuEOO6eMijYqnKCG) | 3:33 | 2023-02-23 |  |
 | [Run Run](https://open.spotify.com/track/27yGmniI32QbBD4OQzhhTP) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [Run Run](https://open.spotify.com/album/2qBoGoXDFV9VPh7VQmvlgA) | 2:58 | 2023-02-23 | 2023-09-08 |
@@ -404,7 +405,7 @@
 | [When You're Gone](https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:24 | 2023-04-06 | 2023-04-26 |
 | [Whenever](https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Whenever](https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr) | 2:35 | 2024-03-13 |  |
 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 | 2023-02-23 |  |
-| [Who Gave You The Right](https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Who Gave You The Right](https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f) | 3:26 | 2023-02-23 |  |
+| [Who Gave You The Right](https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Who Gave You The Right](https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f) | 3:26 | 2023-02-23 | 2024-04-08 |
 | [Why Do You Care](https://open.spotify.com/track/4miesggrLA9agA9lusKhV9) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [RONDÉ](https://open.spotify.com/album/7oQWTdzb0SHFhWp5cZZvZv) | 3:36 | 2023-04-25 | 2024-03-20 |
 | [Wild Grey Ocean](https://open.spotify.com/track/3NhEHxzfLEzvlYPK9hgmPR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Grey Ocean](https://open.spotify.com/album/6H7rX9r5UAwdlkDtWOiW6v) | 3:54 | 2023-02-23 | 2023-04-26 |
 | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/album/2xd07PANaM6jBT50rfG50U) | 2:50 | 2024-03-19 |  |

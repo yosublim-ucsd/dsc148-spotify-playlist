@@ -1,9 +1,27 @@
 {
-  "2024-04-07": 386,
+  "2024-04-08": 386,
   "date_first_scraped": "2021-12-21",
   "description": "",
   "name": "Grazia Daily: Summer 2013",
   "tracks": [
+    {
+      "album": {
+        "name": "The Motown Story",
+        "url": "https://open.spotify.com/album/5onZQsi7rRtvnh00P8cFxe"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "date_added": "2013-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163626,
+      "name": "(Your Love Is Like A) Heat Wave - Mono",
+      "url": "https://open.spotify.com/track/08DspGlP9zT5cIMjQxJBae"
+    },
     {
       "album": {
         "name": "Sounds Of The City - London",
@@ -203,24 +221,6 @@
       "duration_ms": 194836,
       "name": "Heatwave (feat. Ms. D)",
       "url": "https://open.spotify.com/track/5RT0e9PkjBtmvqQzNbe1vA"
-    },
-    {
-      "album": {
-        "name": "The Motown Story",
-        "url": "https://open.spotify.com/album/5onZQsi7rRtvnh00P8cFxe"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "date_added": "2013-05-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163626,
-      "name": "Heatwave - Mono",
-      "url": "https://open.spotify.com/track/08DspGlP9zT5cIMjQxJBae"
     },
     {
       "album": {

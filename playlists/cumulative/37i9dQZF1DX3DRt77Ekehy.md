@@ -4,7 +4,7 @@
 
 > A positive Solfeggio Frequency, used by many for meditation, manifestation and healing.
 
-198 songs - 9 hr 41 min
+203 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/track/6OmujPajr8gGl5sJGsW49b) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/album/2I50UMRDcFmJt7wJAkK0tQ) | 3:29 | 2023-02-21 |  |
 | [Aashchary \- 432 Hz](https://open.spotify.com/track/67sBcSZZPjxaKrHl4YDfrp) | [Aasmi Jayavant](https://open.spotify.com/artist/0zbmKsf2YJoS2aT0uDEmaS) | [Aashchary \- 432 Hz](https://open.spotify.com/album/7b5wPTQcX2P8oVrFCdnGMY) | 2:29 | 2023-09-21 |  |
 | [Aephoris 432Hz](https://open.spotify.com/track/4qJHZujab4bvUNKJqhllby) | [Droneq](https://open.spotify.com/artist/190NqI0gt1k58C0bAwWkDH) | [Aephoris 432Hz](https://open.spotify.com/album/3fNp2IIAHermvjl3Cw4lXH) | 3:01 | 2023-02-21 |  |
+| [Agneris 432Hz](https://open.spotify.com/track/0Xwh7qBtvmJB2yYM5npd5j) | [Transcendent Solfeggio Frequencies](https://open.spotify.com/artist/4GUZWtXoW9tKcogKvdspjK) | [Agneris 432Hz](https://open.spotify.com/album/2356EU38MXjcXQHnYubsT1) | 3:19 | 2024-04-07 |  |
 | [All Love 432 Hz](https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX) | [Emeli Saga](https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj) | [All Love 432 Hz](https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa) | 3:07 | 2023-10-20 |  |
 | [Ambiently](https://open.spotify.com/track/5IdKmLCmklVf1OJZj7GeTv) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Ambiently](https://open.spotify.com/album/0bg4oMhnJQftTCXYTSwapH) | 2:40 | 2023-11-18 |  |
 | [Ante Meridiem \(432hz\)](https://open.spotify.com/track/7L20Kr6F8VnBMowigEQ1DH) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ante Meridiem \(432hz\)](https://open.spotify.com/album/2rSp0SgoVF37nfDHWgeonw) | 3:30 | 2023-02-07 |  |
@@ -107,6 +108,7 @@
 | [Conviction \- 432 Hz](https://open.spotify.com/track/3r5D1iy9f6Dy7KI1J6i27B) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Conviction \- 432 Hz](https://open.spotify.com/album/2ALmR4XJk39mpM1lnBRRH8) | 3:25 | 2023-10-20 |  |
 | [Cosmic Drifts in 432 Hz](https://open.spotify.com/track/3dfSPF5GeYS9v8cbwmQg7f) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Cosmic Drifts in 432 Hz](https://open.spotify.com/album/1jowsFGZPh87Pi1toNSumU) | 2:40 | 2023-09-21 |  |
 | [Cristalle](https://open.spotify.com/track/2S0WvYvja8NFIp7vQOMok5) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Cristalle](https://open.spotify.com/album/4F21NpEwj211GROKUjHxvN) | 3:00 | 2023-02-07 |  |
+| [Cumulus 432 Hz](https://open.spotify.com/track/5X81KRK7AF8gMcGoHIpDqQ) | [Lucitas](https://open.spotify.com/artist/0zM9ne0MOwHxFJVmfCVq4z) | [Cumulus 432 Hz](https://open.spotify.com/album/0rOevARkc5vYKfwgWhz7T3) | 3:03 | 2024-04-07 |  |
 | [Deep Rest \(432 Hz\)](https://open.spotify.com/track/1CCKIl7TtZrGBJAYQYo3hk) | [Alaysia Young](https://open.spotify.com/artist/6qXIYhX6kENOfRZXxw5aLr) | [Deep Rest \(432 Hz\)](https://open.spotify.com/album/1B6kUnvHmor1dwxGrGbkTl) | 2:52 | 2023-10-20 |  |
 | [Deep Rest 432 Hz](https://open.spotify.com/track/5CIskweV3RzJJM7BITR4GF) | [Particles And Waves](https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa) | [Deep Rest 432 Hz](https://open.spotify.com/album/7zKR3Meg6iALeC3jkWC7qs) | 3:25 | 2023-04-06 |  |
 | [Deep Waters 432Hz](https://open.spotify.com/track/2I88iPM3OQJfzp9t9Iqd6f) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Deep Waters 432Hz](https://open.spotify.com/album/04DUTY1SOJFPjdViDnh8iZ) | 2:14 | 2023-07-11 |  |
@@ -142,6 +144,7 @@
 | [Imagination Is Reality 432 Hz](https://open.spotify.com/track/1tfQoIvWTEkF0rQMDZea6I) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Imagination Is Reality 432 Hz](https://open.spotify.com/album/0Eh02Y8H5xvPy76v6ASSuY) | 2:36 | 2024-03-13 |  |
 | [In Bloom 432 Hz](https://open.spotify.com/track/2AwyNdkxsokNv056gSNOpE) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [In Bloom 432 Hz](https://open.spotify.com/album/0AZbMQ7MnZyXXKeMsVOGOv) | 2:37 | 2023-09-21 |  |
 | [In Harmoy 432 Hz](https://open.spotify.com/track/5PzJ7H9tOuvORTNeY4GnCK) | [Hadat Ombra](https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq) | [In Harmony](https://open.spotify.com/album/2EEDAjpOI4UNf5OyjDghl2) | 2:34 | 2023-07-11 |  |
+| [Inhidrani 432Hz](https://open.spotify.com/track/6z6bVQVgczF0OP9UhgEDiv) | [Express Freely](https://open.spotify.com/artist/0RcyBJrZdqqizZeR2aiJAq) | [Inhidrani 432Hz](https://open.spotify.com/album/18I6Uu07NyXp6rZYWbHUC8) | 2:59 | 2024-04-07 |  |
 | [Inner Harmony \(432Hz\)](https://open.spotify.com/track/0Kg0vf6RBPRhFFSJr7KYIf) | [Lyra Roman](https://open.spotify.com/artist/1f5idQf5kPjM5oYjXDHEGh) | [Inner Harmony \(432Hz\)](https://open.spotify.com/album/49bXAxtA01f2aJHT0KsGAE) | 2:49 | 2023-10-20 |  |
 | [Inner Peace](https://open.spotify.com/track/69oWamxNwzEwU7B53prvgZ) | [Aizah Dunn](https://open.spotify.com/artist/2Uri3Mg1aY8fdznLGhNkdh) | [Open Heart](https://open.spotify.com/album/2wJTtlslpy0AXUfNKdwcz1) | 4:17 | 2023-02-07 |  |
 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 | 2023-02-07 |  |
@@ -165,6 +168,7 @@
 | [Northern Lights \(432 Hz\)](https://open.spotify.com/track/0WPfTE1oDpabffha6ib2We) | [Atmosferion](https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc) | [Northern Lights \(432 Hz\)](https://open.spotify.com/album/3dD6gBDfm1P2nOKo8DVzjp) | 3:28 | 2023-04-06 |  |
 | [Nth Yana 432Hz](https://open.spotify.com/track/5a02z8sMbI2gFDyiz0LyiK) | [Ionospheric Echoes](https://open.spotify.com/artist/1s3L4tbvBCviBV7K71SAxZ) | [Nth Yana 432Hz](https://open.spotify.com/album/1vyAqgmzXyIYR5BPgI2NDh) | 3:34 | 2023-02-07 |  |
 | [Nu Och Då](https://open.spotify.com/track/6NFfWWPPT29ZlkJrEwC2JN) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [Nu Och Då](https://open.spotify.com/album/495epNYdGBDMYDF7tU6PWT) | 2:24 | 2023-02-07 |  |
+| [Om Shanti \(432 Hz\)](https://open.spotify.com/track/4ypEOe9cpgDX8SY1zM6coc) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Om Shanti \(432 Hz\)](https://open.spotify.com/album/3lXcQYiBwotYEOOLZWOeoK) | 2:32 | 2024-04-07 |  |
 | [Paladin](https://open.spotify.com/track/6Hni6BR0tH2pm5P7T1spJw) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin](https://open.spotify.com/album/2wa0vo8CXwffGVK8cKiATu) | 3:14 | 2023-03-10 |  |
 | [peace to be well 432 Hz](https://open.spotify.com/track/2O9c1JQvmr6iFEfF84MvQj) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 | 2023-02-07 |  |
 | [Peaceful Drishti 432Hz](https://open.spotify.com/track/0hhJeZfZKjnZVRx2MNuGH4) | [Balanced Resonances](https://open.spotify.com/artist/1NaTgQgoB7SBLTiso71iKn) | [Peaceful Drishti 432Hz](https://open.spotify.com/album/0nn2kG4AlYbS7HVDvHbRG7) | 3:14 | 2023-07-11 |  |
@@ -206,5 +210,6 @@
 | [Whispering Solace \- Solfeggio 432 Hz](https://open.spotify.com/track/0z5Ym1izk4EQ0tycJqBRtr) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Whispering Solace](https://open.spotify.com/album/6AbUvt1VcTjpo6aPwfRADj) | 4:12 | 2023-08-08 |  |
 | [Whispers of Nature: 432 Hz Reverie](https://open.spotify.com/track/156jIXQBEXm8BQkT6dRHlg) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Whispers of Nature: 432 Hz Reverie](https://open.spotify.com/album/68p8jX7UvsB34v8zQlsHMr) | 2:49 | 2023-09-21 |  |
 | [Yantra 432hz \- Studio Edit](https://open.spotify.com/track/6jEXShTq2CwhVAdPNojFK9) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yantra](https://open.spotify.com/album/77LGZALRDaNE9AzVNrEKRH) | 4:08 | 2023-02-07 | 2023-11-19 |
+| [Zen Garden 432 Hz](https://open.spotify.com/track/17RM4sPu9qTGboyiWu0lp2) | [Healing Hertz](https://open.spotify.com/artist/34zj1XaTIe0OUSHsKVSdHy) | [Zen Garden 432 Hz](https://open.spotify.com/album/4QIzm4NgPKAQC1DyjIFj9t) | 2:52 | 2024-04-07 |  |
 
 \*This playlist was first scraped on 2023-02-11. Prior content cannot be recovered.

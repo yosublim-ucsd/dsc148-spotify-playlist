@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie you should know\. Cover: The Marías
 
-597 songs - 1 day 9 hr 7 min
+599 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Bad Times Are Good Times](https://open.spotify.com/track/0q1MM7GUhO1QHe37MSYrzG) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ), [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Bad Times Are Good Times](https://open.spotify.com/album/1PexXNMz2ZH1ksitcQmkHg) | 3:13 | 2022-01-10 | 2022-08-12 |
 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 | 2023-03-24 | 2023-04-01 |
 | [Bambú](https://open.spotify.com/track/501IpqWgmxPZFS3V42cPQn) | [Varry Brava](https://open.spotify.com/artist/6kkQkBRrPcQGUN8g2grxwb) | [Bambú](https://open.spotify.com/album/13P2vro0zuzYaa2riIdvx3) | 3:19 | 2023-02-13 | 2023-04-01 |
-| [Barco](https://open.spotify.com/track/4JWh5Yf0xRs4LOSeXEpAbS) | [Clément](https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ) | [Barco](https://open.spotify.com/album/6GTH6NLtc0y5bvCSLpemGg) | 3:31 | 2024-02-23 |  |
+| [Barco](https://open.spotify.com/track/4JWh5Yf0xRs4LOSeXEpAbS) | [Clément](https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ) | [Barco](https://open.spotify.com/album/6GTH6NLtc0y5bvCSLpemGg) | 3:31 | 2024-02-23 | 2024-04-08 |
 | [best damn thing](https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [best damn thing](https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5) | 2:40 | 2022-10-27 | 2023-03-11 |
 | [Bolsa en la cara](https://open.spotify.com/track/4NDXtaihxFtUH08UX0OikX) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Brailluxe](https://open.spotify.com/album/33wrmV8WGt2SA767fNjae6) | 3:13 | 2022-08-19 | 2022-10-28 |
 | [Bonita](https://open.spotify.com/track/4RfbO5R23JI33EEyjWqHHU) | [Pønce](https://open.spotify.com/artist/0jlj70oquwYB21vxF107KT) | [Bonita](https://open.spotify.com/album/2FhnygvGvRWuE4RueywWyg) | 2:32 | 2023-03-10 | 2023-04-02 |
@@ -87,7 +87,7 @@
 | [CARDIO](https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CARDIO](https://open.spotify.com/album/4KI149spTqotwFjNUbrAl8) | 2:22 | 2023-06-02 | 2024-02-10 |
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2021-11-18 | 2022-10-28 |
 | [Cariño](https://open.spotify.com/track/1wyc9pjAAtIaBceqts184d) | [Rudy De Anda](https://open.spotify.com/artist/4zAauwbGLs7vAEzfJEklGF) | [Tender Epoch](https://open.spotify.com/album/5WZSADIfCSEWZdeaiHjQ93) | 4:49 | 2022-01-10 | 2022-07-25 |
-| [cariño](https://open.spotify.com/track/0dQHCW83ZUOSo4n3bxnEfn) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [cariño](https://open.spotify.com/album/4upKb8eibwPX6VEa42g47s) | 3:07 | 2024-03-01 |  |
+| [cariño](https://open.spotify.com/track/0dQHCW83ZUOSo4n3bxnEfn) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [cariño](https://open.spotify.com/album/4upKb8eibwPX6VEa42g47s) | 3:07 | 2024-03-01 | 2024-04-08 |
 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 | 2024-01-19 |  |
 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 | 2023-02-10 | 2023-05-17 |
 | [CELL](https://open.spotify.com/track/5syGVoLzDjXCvPt1OpdKtc) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [CELL](https://open.spotify.com/album/2r3inkJAGBtP7ZxTdrXGoH) | 2:18 | 2024-01-19 |  |
@@ -101,6 +101,7 @@
 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 | 2024-02-09 |  |
 | [COMETIERRA REMIX](https://open.spotify.com/track/73fztLrrdzBHSzLs5vubFU) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [COMETIERRA REMIX](https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ) | 3:00 | 2023-12-08 | 2024-02-10 |
 | [Common Places, Common Faces](https://open.spotify.com/track/418eTc9b78KdTeF8g3IDXP) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Jardín Phantom](https://open.spotify.com/album/2Qs5WqjxU8zMBYKZ8PD6PH) | 2:51 | 2022-01-10 | 2022-07-25 |
+| [COMO LO MUEVES](https://open.spotify.com/track/2B8LTd0wcI3WkmKtbwuROw) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [COMO LO MUEVES](https://open.spotify.com/album/015ltU2roLUHF8KvgxWoZq) | 2:57 | 2024-04-05 |  |
 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-06-03 | 2023-02-11 |
 | [Como Si Nada](https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Como Si Nada](https://open.spotify.com/album/3gaqW9uYFzUf8Ah2tggT5K) | 3:30 | 2023-04-21 | 2023-05-06 |
 | [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 | 2022-12-16 | 2022-12-31 |
@@ -427,6 +428,7 @@
 | [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 | 2024-03-01 |  |
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2023-02-17 | 2023-08-19 |
 | [Presente](https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Presente](https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70) | 5:12 | 2023-04-28 | 2024-01-27 |
+| [Primer Beso](https://open.spotify.com/track/480qwG6dXSM8kxsPR7gnio) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r) | [Primer Beso](https://open.spotify.com/album/7DpYxoa79sTZkMrQPxEo5h) | 3:19 | 2024-04-05 |  |
 | [Primer encuentro](https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Primer encuentro](https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm) | 4:06 | 2024-03-22 |  |
 | [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 | 2023-12-08 |  |
 | [Profugos del tiempo](https://open.spotify.com/track/6T8sxv2RHncb1sft7hNZUF) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Zelmar](https://open.spotify.com/artist/7vqg7ZilgoVyxxEVOr1SGJ) | [Profugos del tiempo](https://open.spotify.com/album/7Ln1X59GCd2Jaokf3CiTcL) | 2:55 | 2024-02-23 | 2024-04-01 |
