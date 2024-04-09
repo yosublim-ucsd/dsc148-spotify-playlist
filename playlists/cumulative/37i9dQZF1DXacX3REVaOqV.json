@@ -8291,6 +8291,24 @@
     },
     {
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4OFJbmcqnduW5U1b6Mrzau"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sebastian",
+          "url": "https://open.spotify.com/artist/6FBRfb1tjwVT1JXdlykmCt"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0OPodBWCYqqijUbmkv75fK"
+    },
+    {
+      "album": {
         "name": "Woman Like You",
         "url": "https://open.spotify.com/album/3thcwDUKvwi5ghc2KZbkkv"
       },

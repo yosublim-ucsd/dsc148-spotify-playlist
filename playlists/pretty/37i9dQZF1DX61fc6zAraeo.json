@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98346,
+  "num_followers": 98357,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2FkN2E5MGJjZTM4NDYwMzQzODFkMzJkOGE2ZDJmNDI5NmRkODVi",
+  "snapshot_id": "MCw0ZTczZjEzOTQ5MWUwM2ViNzg1NGE1NjkzY2I2ODMyMDllNGM5MmQw",
   "tracks": [
     {
       "added_at": "2024-04-03 12:35:22",
@@ -323,26 +323,6 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "What We Know (feat. Conor Byrne)",
-        "url": "https://open.spotify.com/album/1OeHZucueiMEy970AN5vHd"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Conor Byrne",
-          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
-        }
-      ],
-      "duration_ms": 168867,
-      "name": "What We Know (feat. Conor Byrne)",
-      "url": "https://open.spotify.com/track/0qODLyd99ldgvBHMVsScye"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
         "name": "Dominos",
         "url": "https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 195446,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
+        "name": "What We Know (feat. Conor Byrne)",
+        "url": "https://open.spotify.com/album/1OeHZucueiMEy970AN5vHd"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Conor Byrne",
+          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
+        }
+      ],
+      "duration_ms": 168867,
+      "name": "What We Know (feat. Conor Byrne)",
+      "url": "https://open.spotify.com/track/0qODLyd99ldgvBHMVsScye"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 161658,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 161658,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -543,30 +543,6 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "On My Love (New Year Hypaton Remix)",
-        "url": "https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "On My Love - New Year Hypaton Remix",
-      "url": "https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
         "name": "Lost My Way",
         "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
       },
@@ -591,18 +567,26 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+        "name": "On My Love (New Year Hypaton Remix)",
+        "url": "https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
         }
       ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
+      "duration_ms": 191250,
+      "name": "On My Love - New Year Hypaton Remix",
+      "url": "https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -627,6 +611,22 @@
       "duration_ms": 157750,
       "name": "What a Night",
       "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -755,6 +755,26 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "The Victor",
+          "url": "https://open.spotify.com/artist/6Hvq9w688rwXhVoAKZk5wk"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 154513,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "The Victor",
-          "url": "https://open.spotify.com/artist/6Hvq9w688rwXhVoAKZk5wk"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
+        "name": "We Ain't Here For Long",
+        "url": "https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 175835,
+      "name": "We Ain't Here For Long",
+      "url": "https://open.spotify.com/track/427747J57kLmFjqk7PZrpp"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
         "name": "Elektro",
         "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 129242,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
-        "name": "We Ain't Here For Long",
-        "url": "https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 175835,
-      "name": "We Ain't Here For Long",
-      "url": "https://open.spotify.com/track/427747J57kLmFjqk7PZrpp"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "Out Of The Dark",
-        "url": "https://open.spotify.com/album/5MkfidCcFwwTDaZ0qVqsf8"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 199107,
-      "name": "Out Of The Dark",
-      "url": "https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
         "name": "Exceso (feat. GALE)",
         "url": "https://open.spotify.com/album/46y7BZhXOZeFO1ZeEBZZHT"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 142829,
       "name": "Exceso (feat. GALE)",
       "url": "https://open.spotify.com/track/5SBsYJjr5Dg09XNV6RZpUy"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/5MkfidCcFwwTDaZ0qVqsf8"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 199107,
+      "name": "Out Of The Dark",
+      "url": "https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "Don\u2019t Lead Anywhere",
-        "url": "https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9"
-      },
-      "artists": [
-        {
-          "name": "Dastic",
-          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
-        }
-      ],
-      "duration_ms": 127413,
-      "name": "Don\u2019t Lead Anywhere",
-      "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
         "name": "Could You Be The One",
         "url": "https://open.spotify.com/album/56VRXsZ7MUAz421NkITjmK"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 177139,
       "name": "Can't Control",
       "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
+        "name": "Don\u2019t Lead Anywhere",
+        "url": "https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9"
+      },
+      "artists": [
+        {
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+        }
+      ],
+      "duration_ms": 127413,
+      "name": "Don\u2019t Lead Anywhere",
+      "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "Nothing Left To Say",
-        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
-      },
-      "artists": [
-        {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Nothing Left To Say",
-      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
         "name": "Only You and I",
         "url": "https://open.spotify.com/album/47cpXq5eoAPVwTojjZwYP3"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 175300,
       "name": "Only You and I",
       "url": "https://open.spotify.com/track/79KGZzqNgevzXDN18Gmdqm"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
+        "name": "Nothing Left To Say",
+        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
+      },
+      "artists": [
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Nothing Left To Say",
+      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
     },
     {
       "added_at": "2024-04-03 12:35:22",

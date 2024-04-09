@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,303 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,307 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aata Gaani Aata](https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Aata Gaani Aata](https://open.spotify.com/album/3zuzsB3BkRQRUrzvPHdSR2) | 2:42 |
 | 2 | [O Seliya](https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c) | [Ganesh Krovvidi](https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [O Seliya](https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h) | 3:29 |
-| 3 | [Nuvvamma](https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nuvvamma](https://open.spotify.com/album/0jZaHcLOsgapAaMEttISus) | 4:21 |
-| 4 | [Cheli Ra!](https://open.spotify.com/track/4KzYSEkjEfm6JkeaF7nbX1) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Cheli Ra!](https://open.spotify.com/album/4h38E5NQOMoLPaXc8h0kbD) | 3:24 |
-| 5 | [Ayyo](https://open.spotify.com/track/573sYOFcHtV6cG8PrVsy1o) | [Jedediah.wtf](https://open.spotify.com/artist/0AWGG7HynXZCGLfp0xfTFT), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Ayyo](https://open.spotify.com/album/4eoPfLSiI63LU3E89x8zBt) | 3:38 |
-| 6 | [Nanna](https://open.spotify.com/track/3sg1o6wwTvZ8osPnMyHNNw) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Maruthi Ashok Anand](https://open.spotify.com/artist/5RE6YIiuve68BsLoRJFN1R) | [Nanna](https://open.spotify.com/album/4mDRYVIXxUcFSL2B0UdCSJ) | 4:48 |
-| 7 | [Chusuko](https://open.spotify.com/track/0Naz1VxWjkVV5qcLrtiDGy) | [Anvesh Rao Kagitala](https://open.spotify.com/artist/3D6RCMROowyiD8tHKdKpOn), [Yasaswi Kondepudi](https://open.spotify.com/artist/3ceCS03lkWe0Zlxe2r22mj), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Chusuko](https://open.spotify.com/album/6d2U54GVNlx9Utip7qyE7F) | 3:59 |
+| 3 | [Kaalaale](https://open.spotify.com/track/51u6ywNUr5EhTpBfllwrSN) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0), [Jyoti Kavi](https://open.spotify.com/artist/7HeMDT4UyuKc3NNQBvpZnN) | [Kaalaale](https://open.spotify.com/album/7zuoO7Uhrb8ALzLT9bRlp0) | 3:38 |
+| 4 | [Nuvvamma](https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nuvvamma](https://open.spotify.com/album/0jZaHcLOsgapAaMEttISus) | 4:21 |
+| 5 | [Cheli Ra!](https://open.spotify.com/track/4KzYSEkjEfm6JkeaF7nbX1) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Cheli Ra!](https://open.spotify.com/album/4h38E5NQOMoLPaXc8h0kbD) | 3:24 |
+| 6 | [Ayyo](https://open.spotify.com/track/573sYOFcHtV6cG8PrVsy1o) | [Jedediah.wtf](https://open.spotify.com/artist/0AWGG7HynXZCGLfp0xfTFT), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Ayyo](https://open.spotify.com/album/4eoPfLSiI63LU3E89x8zBt) | 3:38 |
+| 7 | [Nanna](https://open.spotify.com/track/3sg1o6wwTvZ8osPnMyHNNw) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Maruthi Ashok Anand](https://open.spotify.com/artist/5RE6YIiuve68BsLoRJFN1R) | [Nanna](https://open.spotify.com/album/4mDRYVIXxUcFSL2B0UdCSJ) | 4:48 |
 | 8 | [SunRisers Hyderabad Anthem \- 2024](https://open.spotify.com/track/6gPhUV80DvchiVxUZmgUi7) | [VuSe](https://open.spotify.com/artist/71I1aowbFdmoD5ydQ4TObT) | [SunRisers Hyderabad Anthem \- 2024](https://open.spotify.com/album/5w3AoIm6vGGMYPqaVzq2CY) | 1:29 |
 | 9 | [Nuvvu Unte Chaalu](https://open.spotify.com/track/2Ls2a6pVhsEp2gFWUhegdV) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Nuvvu Unte Chaalu](https://open.spotify.com/album/6MNr0qhQfvkJthcGqNelpV) | 1:38 |
 | 10 | [Teliyadhe](https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Teliyadhe](https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt) | 4:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Andhami Swapnam](https://open.spotify.com/track/1BtRSvbXdLyZEweikCLqsm) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/5qIsGKX1MhrYRXrMO4eDIo) | 4:26 |
 | 75 | [Vennela](https://open.spotify.com/track/0sDIs50Evxlou7oIfo9i2J) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Vennela](https://open.spotify.com/album/0wxINclZIEYCp1avSxtB3t) | 5:24 |
 
-Snapshot ID: `MCw5NjFkOGEyNzdkYjM5MGIwNDEzYjk0YTcyM2JhMTg5NzBjNGYwMWJm`
+Snapshot ID: `MCxjZmZiZGFhNGRmYjcxZjVmM2Y1OGQ5YTk4ZGFhZjE4NWEyZmU1OGM5`

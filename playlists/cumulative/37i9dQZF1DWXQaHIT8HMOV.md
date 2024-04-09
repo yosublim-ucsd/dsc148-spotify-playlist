@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Vinka
 
-268 songs - 13 hr 56 min
+269 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Kyekiliwo](https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyekiliwo](https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6) | 2:55 | 2023-12-08 |  |
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-09 | 2024-01-08 |
 | [Leega](https://open.spotify.com/track/6wTXqwgEhXfdxYZOKEAtqP) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/40CrG5iYzKczTp0xHbUaN2) | 3:34 | 2023-04-14 | 2023-05-03 |
-| [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 | 2023-12-08 |  |
+| [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 | 2023-12-08 | 2024-04-09 |
 | [Let It Play](https://open.spotify.com/track/0DbRMauNkXY78bzmB1fa6B) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Play](https://open.spotify.com/album/1ucEK6a8nB1piGe2HGMtZW) | 2:20 | 2024-02-09 |  |
 | [Let Me Be](https://open.spotify.com/track/4lRjzQQEmIHIJGOTC0EnMp) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Let Me Be](https://open.spotify.com/album/42moN4auHkzRwvmCe1IV03) | 2:59 | 2023-06-09 | 2023-07-24 |
 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 | 2022-06-24 | 2023-02-05 |
@@ -157,6 +157,7 @@
 | [MR DJ](https://open.spotify.com/track/3mpBwA7vh0nbaAuoMXJcRt) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Sizza Man](https://open.spotify.com/artist/2rNe3IlppemaChFevJjP34), [Radio and Weasel](https://open.spotify.com/artist/4wlrcfdGvTtW83ahXY1Ho1), [Rabadaba](https://open.spotify.com/artist/4cckg0GGhtgxEOCS4XjXgO), [KS Alpha](https://open.spotify.com/artist/2FVz5mqQ0W8YfqgBUq7kw6), [Viboyo Oweyo](https://open.spotify.com/artist/4nNWboFa5mjFsHBVTx2zcy), [GNL Zamba](https://open.spotify.com/artist/2FMFjfHjH2pMqsRoKdRten), [Peter Miles](https://open.spotify.com/artist/5N4K2rer8TYi6JGQiHmRhv) | [MR DJ](https://open.spotify.com/album/5qL4LfYGLxWAnvmdnYnKwD) | 5:04 | 2024-03-15 | 2024-04-06 |
 | [Mufaliso](https://open.spotify.com/track/26Li04nrV5DfJUEWKkYYo6) | [Hatim and Dokey](https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ), [Kodish](https://open.spotify.com/artist/14Qge9gMzt7IBs6MsRhN2X) | [Mufaliso](https://open.spotify.com/album/3KBtyfdRMk6CwwE1hp9ek6) | 3:41 | 2023-07-13 | 2024-02-03 |
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 | 2022-11-11 |
+| [Muleleetu](https://open.spotify.com/track/15KycmRRSpjaczTTgwowex) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Muleleetu](https://open.spotify.com/album/5sSTTcNNCE1SUVmp0sQ13D) | 2:38 | 2024-04-05 |  |
 | [Muntu Wange](https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Muntu Wange](https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P) | 3:09 | 2024-02-09 |  |
 | [My Date](https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG) | [Green Daddy](https://open.spotify.com/artist/2qNqbmGcLBZpjLv5IzuAWU), [Temperature Touch](https://open.spotify.com/artist/3gHHNHGrHh9JIJ8VtWKfVT) | [My Date](https://open.spotify.com/album/6pxjIHdQiPZyZ7oecyNPm4) | 3:30 | 2024-03-08 |  |
 | [My Year](https://open.spotify.com/track/3xiP1k0UCCt3DOAZZsM673) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [My Year](https://open.spotify.com/album/09X07wSK0uumo1qEi4dh8C) | 3:17 | 2024-03-15 | 2024-04-06 |

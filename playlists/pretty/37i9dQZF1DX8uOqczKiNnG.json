@@ -1,12 +1,12 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 97155,
+  "num_followers": 97165,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjMxMTU3YTBiYmI2MDY3YTM0OThlNDAyZGY1MmQ4MGI2YjBmYzFk",
+  "snapshot_id": "MCw2ZjA2OGIzOTgyNDQxY2I3ZTVmYTUyNzg4NmRjOGU3OTNlNDcwYTll",
   "tracks": [
     {
       "added_at": "2024-03-25 13:47:47",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-03-25 13:47:47",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 285373,
-      "name": "Stayin' Alive",
-      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
-    },
-    {
-      "added_at": "2024-03-25 13:47:47",
-      "album": {
         "name": "Dire Straits",
         "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2024-03-25 13:47:47",
       "album": {
-        "name": "Como un Le\u00f3n",
-        "url": "https://open.spotify.com/album/2xkmMiyxa7mp0kjX2OYH9P"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
       "artists": [
         {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 222573,
-      "name": "P\u00eddeme la Luna",
-      "url": "https://open.spotify.com/track/3DDtJh2PeHXUQ90uSZOoyg"
+      "duration_ms": 285373,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
     },
     {
       "added_at": "2024-03-25 13:47:47",
@@ -447,6 +431,22 @@
       "duration_ms": 122066,
       "name": "We Will Rock You - Remastered 2011",
       "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
+    },
+    {
+      "added_at": "2024-03-25 13:47:47",
+      "album": {
+        "name": "Como un Le\u00f3n",
+        "url": "https://open.spotify.com/album/2xkmMiyxa7mp0kjX2OYH9P"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 222573,
+      "name": "P\u00eddeme la Luna",
+      "url": "https://open.spotify.com/track/3DDtJh2PeHXUQ90uSZOoyg"
     },
     {
       "added_at": "2024-03-25 13:47:47",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-25 13:47:47",
       "album": {
-        "name": "Begin the Beguine",
-        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
-      "url": "https://open.spotify.com/track/3R8rzNolKgeMo3MQhYFBgu"
-    },
-    {
-      "added_at": "2024-03-25 13:47:47",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
       },
@@ -607,6 +591,38 @@
       "duration_ms": 215906,
       "name": "Canci\u00f3n para Mi Muerte",
       "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
+    },
+    {
+      "added_at": "2024-03-25 13:47:47",
+      "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 175520,
+      "name": "Fuiste M\u00eda un Verano",
+      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
+    },
+    {
+      "added_at": "2024-03-25 13:47:47",
+      "album": {
+        "name": "Begin the Beguine",
+        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
+      "url": "https://open.spotify.com/track/3R8rzNolKgeMo3MQhYFBgu"
     },
     {
       "added_at": "2024-03-25 13:47:47",
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-03-25 13:47:47",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 175520,
-      "name": "Fuiste M\u00eda un Verano",
-      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
-    },
-    {
-      "added_at": "2024-03-25 13:47:47",
-      "album": {
         "name": "Artaud",
         "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 130080,
       "name": "Todas las Hojas Son del Viento",
       "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
-    },
-    {
-      "added_at": "2024-03-25 13:47:47",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 132973,
-      "name": "Quiz\u00e1s, Porque",
-      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
     },
     {
       "added_at": "2024-03-25 13:47:47",
@@ -723,6 +707,22 @@
     {
       "added_at": "2024-03-25 13:47:47",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 132973,
+      "name": "Quiz\u00e1s, Porque",
+      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
+    },
+    {
+      "added_at": "2024-03-25 13:47:47",
+      "album": {
         "name": "No soy de aqu\u00ed",
         "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-25 13:47:47",
       "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Las Habladurias del Mundo",
-      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
-    },
-    {
-      "added_at": "2024-03-25 13:47:47",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/1zGXaWkMGLV1rkJbxJwCkp"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 209253,
       "name": "Para Amarnos M\u00e1s",
       "url": "https://open.spotify.com/track/5VstdEyGsUzyS4UXtKGAMG"
+    },
+    {
+      "added_at": "2024-03-25 13:47:47",
+      "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Las Habladurias del Mundo",
+      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
     },
     {
       "added_at": "2024-03-25 13:47:47",

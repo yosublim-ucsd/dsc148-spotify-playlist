@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-615 songs - 2 day 9 hr 38 min
+616 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Jama](https://open.spotify.com/track/0qrFuzJksG1vm1u67m7IM2) | [Lian Gold](https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4), [Erika Krall](https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W) | [Jama](https://open.spotify.com/album/20hK6YrkLQdgzl6V50k9As) | 6:14 | 2022-04-08 | 2022-07-22 |
 | [Jameela](https://open.spotify.com/track/73ACKQUKfq1iz7cAgPCUim) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Jameela](https://open.spotify.com/album/0f4XzO7YPKUZtfLHj4BK4f) | 3:09 | 2022-05-20 | 2022-07-03 |
 | [Jellydish](https://open.spotify.com/track/0o5vFkIE7BwQwBhkQ0s8ev) | [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Bi Ba Bü](https://open.spotify.com/album/45qxQ2ACnkIlrWy9UY1HqN) | 8:26 | 2022-02-11 | 2022-07-29 |
+| [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 | 2024-04-05 |  |
 | [Jump](https://open.spotify.com/track/6a9aHCocZ8ehn89uW0FqUJ) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/7cihYq8t0Rg0W44L7uY1xR) | 2:33 | 2024-03-26 | 2024-04-08 |
 | [Kababo](https://open.spotify.com/track/4cJJVxs9tMBNsH9yP2d20s) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Kababo](https://open.spotify.com/album/11O0BU7mUyyzavBc7vbsXf) | 6:14 | 2023-10-06 | 2023-11-10 |
 | [Kakooja](https://open.spotify.com/track/6w77q0msPrGkcs8GjXMWq8) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Holographic Witness](https://open.spotify.com/album/7cg8231Zuu1nV8vdV051eR) | 5:08 | 2022-09-09 | 2022-09-20 |
@@ -446,7 +447,7 @@
 | [Praah Com Poesia](https://open.spotify.com/track/5wA6aFuMZw783ghYlxVybw) | [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Confluencias II: Montaña](https://open.spotify.com/album/59OxHbwWRRJ20ZGENMwRSq) | 6:16 | 2021-04-21 | 2022-06-07 |
 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 | 2023-02-22 |  |
 | [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-07-08 | 2023-06-08 |
-| [Push Me](https://open.spotify.com/track/7GgtQOS5ZySXkzw2Qsl21y) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Push Me](https://open.spotify.com/album/5iPPHGZzzZJYk4rbI2MWAd) | 5:24 | 2023-09-15 |  |
+| [Push Me](https://open.spotify.com/track/7GgtQOS5ZySXkzw2Qsl21y) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Push Me](https://open.spotify.com/album/5iPPHGZzzZJYk4rbI2MWAd) | 5:24 | 2023-09-15 | 2024-04-09 |
 | [Pyxis](https://open.spotify.com/track/4VfESynVjdqW2aXQk4SMKs) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Pyxis EP](https://open.spotify.com/album/4HFq51XXEP4uPzcCACtYyT) | 7:44 | 2022-03-11 | 2022-07-26 |
 | [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 | 2021-04-21 | 2023-02-01 |
 | [Rainchecks In Montreal \- Roy Rosenfeld Remix](https://open.spotify.com/track/5GkhUSAoSz7Pp4F6VIUbVw) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk) | [Rainchecks In Montreal](https://open.spotify.com/album/7hyqsbXob3bcwk8Jml4rfP) | 8:00 | 2023-09-22 | 2024-02-04 |

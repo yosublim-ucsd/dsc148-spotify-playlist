@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 413116,
+  "num_followers": 413301,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGU4MzhlZjUwM2MyZWMzZmIxNDU5MTMxMTkyOGM4YmIwOTgzYjQ1",
+  "snapshot_id": "MCwyNTg5Mjc2OWU0MDE4NTY2NGEzNTE5NTU4MTllMjU3ZDE3OTI3Y2E3",
   "tracks": [
     {
       "added_at": "2024-02-22 05:36:01",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "Una Mattina",
+        "url": "https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 357706,
+      "name": "Nuvole Bianche",
+      "url": "https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Cataverdis",
         "url": "https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 149629,
       "name": "Cataverdis",
       "url": "https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "Schutter",
-        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
-      },
-      "artists": [
-        {
-          "name": "May Laude",
-          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Schutter",
-      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "Schutter",
+        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Schutter",
+      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Elegie",
         "url": "https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu"
       },
@@ -191,18 +207,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Una Mattina",
-        "url": "https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c"
+        "name": "Ode to Vivian (Rework)",
+        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
       },
       "artists": [
         {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 357706,
-      "name": "Nuvole Bianche",
-      "url": "https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D"
+      "duration_ms": 96624,
+      "name": "Ode to Vivian - Rework",
+      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -219,22 +235,6 @@
       "duration_ms": 136658,
       "name": "Fall a hundred times",
       "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "Ode to Vivian (Rework)",
-        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 96624,
-      "name": "Ode to Vivian - Rework",
-      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
-      },
-      "artists": [
-        {
-          "name": "Domi Nova",
-          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Astray",
-        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
       },
       "artists": [
         {
-          "name": "Simon Vouet",
-          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
         }
       ],
-      "duration_ms": 120941,
-      "name": "Astray",
-      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
+      "duration_ms": 168250,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -507,6 +491,22 @@
       "duration_ms": 148299,
       "name": "A Safe Space",
       "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
+      },
+      "artists": [
+        {
+          "name": "Simon Vouet",
+          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
+        }
+      ],
+      "duration_ms": 120941,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Aspres",
-        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
-      },
-      "artists": [
-        {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
-        }
-      ],
-      "duration_ms": 199119,
-      "name": "Aspres",
-      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Paths",
         "url": "https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 172595,
       "name": "Paths",
       "url": "https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Aspres",
+        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "duration_ms": 199119,
+      "name": "Aspres",
+      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Fields Of Love",
-        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Krause",
-          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
-        }
-      ],
-      "duration_ms": 137743,
-      "name": "Fields Of Love",
-      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Through The Blue (Piano Version)",
         "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
+        "name": "Fields Of Love",
+        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
       },
       "artists": [
         {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+          "name": "Reinhard Krause",
+          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
+      "duration_ms": 137743,
+      "name": "Fields Of Love",
+      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -875,6 +859,22 @@
       "duration_ms": 139375,
       "name": "Elysian",
       "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Grand Canyon",
-        "url": "https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ"
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
       "artists": [
         {
-          "name": "Ivan Vladusic",
-          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
         }
       ],
-      "duration_ms": 170641,
-      "name": "Grand Canyon",
-      "url": "https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm"
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+        "name": "Grand Canyon",
+        "url": "https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ"
       },
       "artists": [
         {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+          "name": "Ivan Vladusic",
+          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
         }
       ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+      "duration_ms": 170641,
+      "name": "Grand Canyon",
+      "url": "https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1131,22 +1131,6 @@
       "duration_ms": 199428,
       "name": "Air from Air",
       "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "Bridge Across the Ocean",
-        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
-      },
-      "artists": [
-        {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
-        }
-      ],
-      "duration_ms": 186711,
-      "name": "Bridge Across the Ocean",
-      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "When It\u00b4s Love",
-        "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
+        "name": "Bridge Across the Ocean",
+        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
       },
       "artists": [
         {
-          "name": "Junie Oakes",
-          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
         }
       ],
-      "duration_ms": 162047,
-      "name": "When It\u00b4s Love",
-      "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
+      "duration_ms": 186711,
+      "name": "Bridge Across the Ocean",
+      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1227,6 +1211,22 @@
       "duration_ms": 163916,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "When It\u00b4s Love",
+        "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
+      },
+      "artists": [
+        {
+          "name": "Junie Oakes",
+          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
+        }
+      ],
+      "duration_ms": 162047,
+      "name": "When It\u00b4s Love",
+      "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Balloon",
-        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Balloon",
-      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 172399,
       "name": "Candles",
       "url": "https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Poesia",
+        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
+      },
+      "artists": [
+        {
+          "name": "Fernando Alegre",
+          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
+        }
+      ],
+      "duration_ms": 125248,
+      "name": "Poesia",
+      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
     }
   ],
   "unique_name": "Coffee and Piano",

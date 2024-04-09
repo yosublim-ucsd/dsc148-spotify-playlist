@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 56971,
+  "2024-04-09": 57026,
   "date_first_scraped": "2023-12-07",
   "description": "Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
   "name": "Beach Lounge 2024 \ud83c\udf34 IBIZA Summer Chillout",
@@ -878,6 +878,28 @@
     },
     {
       "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/53beMOOUXueIBxRBJJqRrt"
+      },
+      "artists": [
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        },
+        {
+          "name": "Namt\u00e9",
+          "url": "https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181562,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/1yjS1ilQGRHz4tBWSuOs0f"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/3jIi4BSJfVI0xbA15zJSs3"
       },
@@ -1217,6 +1239,36 @@
       "duration_ms": 136457,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/5PCjtggUt1F8mlqJNS6QTl"
+    },
+    {
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/3Neq7HYDQDDJ0DOpzddNXr"
+      },
+      "artists": [
+        {
+          "name": "MKJ",
+          "url": "https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0"
+        },
+        {
+          "name": "Viva La Panda",
+          "url": "https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy"
+        },
+        {
+          "name": "Noxxia",
+          "url": "https://open.spotify.com/artist/1yTxofaXhlhAG82AO55Atu"
+        },
+        {
+          "name": "Philip Jax",
+          "url": "https://open.spotify.com/artist/4S9KVaizGGux3RLHsIgcm6"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153565,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/2EGuz29TPdPFV40QsFo0hP"
     },
     {
       "album": {
@@ -2883,7 +2935,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 141428,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2DlzKdiGMzst28nBnpXQgv"
@@ -2909,6 +2961,28 @@
       "duration_ms": 143951,
       "name": "Last Day Of Summer",
       "url": "https://open.spotify.com/track/77DPvfOqNxUfL2gLvkhSr6"
+    },
+    {
+      "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/6Dw8yvuUohgkfS8Q4rZQMC"
+      },
+      "artists": [
+        {
+          "name": "Honest Regrets",
+          "url": "https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg"
+        },
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/4ZdqfENENfXelDci5EU0ll"
     },
     {
       "album": {
@@ -3231,7 +3305,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 145589,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5m6g1yfcVCoR1TTkwQm0iQ"
@@ -5023,7 +5097,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 147130,
       "name": "Stay Tight (Lost In Reveries Remix)",
       "url": "https://open.spotify.com/track/3SBLKWCOzWZvEJqKo8YvCI"

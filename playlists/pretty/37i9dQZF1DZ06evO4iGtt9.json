@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 6379,
+  "num_followers": 6385,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTBhZjQwOGU3YTFkMmIyMTU0MjY2NDg3MDU2NmJkOGI5MDVlZDhl",
+  "snapshot_id": "MCwxNjdhYTA5NmJmN2M2NzYzYjFhYTEzN2U2Y2M5MzRiZGMwMTJjM2Y2",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chop Life",
-        "url": "https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 145794,
-      "name": "Chop Life",
-      "url": "https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
         "url": "https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 194871,
       "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
       "url": "https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chop Life",
+        "url": "https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 145794,
+      "name": "Chop Life",
+      "url": "https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomato",
-        "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Tomato",
-      "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Telli Person",
         "url": "https://open.spotify.com/album/2S8IqygjfGKH7jMAac2vhS"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 224754,
       "name": "Telli Person",
       "url": "https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomato",
+        "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Tomato",
+      "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get My Money Right",
-        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 177088,
-      "name": "Get My Money Right",
-      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CITIZEN OF THE WORLD",
         "url": "https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get My Money Right",
+        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 177088,
+      "name": "Get My Money Right",
+      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
       },
@@ -879,6 +879,26 @@
       "duration_ms": 218466,
       "name": "Bom Bom",
       "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Erima",
+        "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Erima",
+      "url": "https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq"
     },
     {
       "added_at": null,
@@ -907,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erima",
-        "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
       },
       "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
-        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 210612,
-      "name": "Erima",
-      "url": "https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq"
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
     },
     {
       "added_at": null,
@@ -943,22 +959,6 @@
       "duration_ms": 155141,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M.O.N.E.Y",
-        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "M.O.N.E.Y",
-      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
     }
   ],
   "unique_name": "This Is Timaya",

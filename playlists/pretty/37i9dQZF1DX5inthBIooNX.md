@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 
 > A playlist for the eclipse\. Photo credits: NASA
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,600 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,589 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,19 +14,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 | 4 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 |
 | 5 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 6 | [Just Give Me One More Day \- Old Piano Version](https://open.spotify.com/track/2lGAMzbtEEpPDO09buo5HO) | [Alej](https://open.spotify.com/artist/40eGm9rEP3uJPZpEbVim80) | [Just Give Me One More Day \(Old Piano Version\)](https://open.spotify.com/album/3pSmO0IaD9Wzp6wAWfJsmk) | 2:17 |
-| 7 | [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 |
-| 8 | [retire \(final\)](https://open.spotify.com/track/1hwX5UMu9aUV44INM8GdPv) | [Alvedon](https://open.spotify.com/artist/6nFwmnSA3mMtoePROXi5LT) | [hurry up mixtape](https://open.spotify.com/album/3fCTiizAiiH3S9cBn5Gad6) | 3:34 |
-| 9 | [Song on the Beach](https://open.spotify.com/track/1hUi0hdMU0C3syYTyRdPub) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Song on the Beach](https://open.spotify.com/album/0HbW2CBcNoyIvb137vBYxy) | 3:35 |
-| 10 | [QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 1:27 |
+| 7 | [retire \(final\)](https://open.spotify.com/track/1hwX5UMu9aUV44INM8GdPv) | [Alvedon](https://open.spotify.com/artist/6nFwmnSA3mMtoePROXi5LT) | [hurry up mixtape](https://open.spotify.com/album/3fCTiizAiiH3S9cBn5Gad6) | 3:34 |
+| 8 | [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 |
+| 9 | [QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 1:27 |
+| 10 | [Song on the Beach](https://open.spotify.com/track/1hUi0hdMU0C3syYTyRdPub) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Song on the Beach](https://open.spotify.com/album/0HbW2CBcNoyIvb137vBYxy) | 3:35 |
 | 11 | [green to blue \- slowed + reverbed](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [green to blue \(slowed + reverbed\)](https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s) | 3:07 |
 | 12 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 |
-| 13 | [Just a Feeling](https://open.spotify.com/track/0ZjTXCk5QKDR0wGGPgqSS3) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 1:22 |
-| 14 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
-| 15 | [apathy](https://open.spotify.com/track/6WUgqFZhbNRaeBuzG2ahfJ) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [apathy](https://open.spotify.com/album/1N99dokdMWpcIDa9r6BqYk) | 1:57 |
-| 16 | [Swimming](https://open.spotify.com/track/0sTjyzgd2K5htQpU8ienNe) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Swimming](https://open.spotify.com/album/7dGLag4xmWGKjyokzYJP8q) | 3:08 |
-| 17 | [Time](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Inception \(Music from the Motion Picture\)](https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) | 4:35 |
-| 18 | [Present](https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF) | [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Lens Flare](https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE) | 2:26 |
-| 19 | [Escape](https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS) | [Kilgore Doubtfire](https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr) | [Escape](https://open.spotify.com/album/6stqw16mycyRmbGf4iJvEZ) | 4:40 |
+| 13 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
+| 14 | [Escape](https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS) | [Kilgore Doubtfire](https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr) | [Escape](https://open.spotify.com/album/6stqw16mycyRmbGf4iJvEZ) | 4:40 |
+| 15 | [Just a Feeling](https://open.spotify.com/track/0ZjTXCk5QKDR0wGGPgqSS3) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 1:22 |
+| 16 | [apathy](https://open.spotify.com/track/6WUgqFZhbNRaeBuzG2ahfJ) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [apathy](https://open.spotify.com/album/1N99dokdMWpcIDa9r6BqYk) | 1:57 |
+| 17 | [Swimming](https://open.spotify.com/track/0sTjyzgd2K5htQpU8ienNe) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Swimming](https://open.spotify.com/album/7dGLag4xmWGKjyokzYJP8q) | 3:08 |
+| 18 | [Time](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Inception \(Music from the Motion Picture\)](https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) | 4:35 |
+| 19 | [Present](https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF) | [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Lens Flare](https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE) | 2:26 |
 | 20 | [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 5:29 |
 | 21 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 |
 | 22 | [blurred moon](https://open.spotify.com/track/1M9Ggvu2gYRB37UBJ4letX) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [blurred moon](https://open.spotify.com/album/2YQYY4ppF7KKozYBEE2Ees) | 1:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 | 49 | [Jyoti](https://open.spotify.com/track/27KAWLRYB0djGhfnIvzjQr) | [r mccarthy](https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7) | [Dick Arkive: Issue 2](https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV) | 1:26 |
 | 50 | [Cloud Memory](https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Cloud Memory](https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU) | 1:57 |
 
-Snapshot ID: `MCxlNDhhNWMwOTc3YTYwM2M4YjE3ZmFiOWEwZTgyZTBkMTI4MDY2YTY1`
+Snapshot ID: `MCw5NDQ1ZjUxZDFhMGRmZmIxZWZmNjk3ZjlkMGFkNWVlMjg4N2FkNjZl`

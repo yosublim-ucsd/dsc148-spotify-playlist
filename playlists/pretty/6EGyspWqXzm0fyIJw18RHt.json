@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "MTcsMDkyMzQ2ZTllMGM3NjI4MzgxODEyYjFjYTBlMmY3YzgzYzFmMzE5NA==",
+  "snapshot_id": "MTgsNDQxNmY3ZjBiMTY5YTA5NDBiZWRhOWViMDI1MWEwMzM3OWJjOWI2OQ==",
   "tracks": [
     {
       "added_at": "2023-03-23 07:57:00",
@@ -231,6 +231,22 @@
       "duration_ms": 229199,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix Extended",
       "url": "https://open.spotify.com/track/5kwuPm3p11TnirbMvcGrZZ"
+    },
+    {
+      "added_at": "2024-04-08 07:05:17",
+      "album": {
+        "name": "Incantations",
+        "url": "https://open.spotify.com/album/5CfNebrzhXfZqa5aRQlOPb"
+      },
+      "artists": [
+        {
+          "name": "Nick Lutsko",
+          "url": "https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE"
+        }
+      ],
+      "duration_ms": 146134,
+      "name": "A Ghost Story",
+      "url": "https://open.spotify.com/track/2FoxK1MoP36ZiIfwooZI6j"
     }
   ],
   "unique_name": "Halloween",

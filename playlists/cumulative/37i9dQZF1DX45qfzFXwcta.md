@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-150 songs - 7 hr 19 min
+151 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Do You Believe? \- Instrumental](https://open.spotify.com/track/5wB50WI6crBSLs29UZFFCH) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [Do You Believe? EP](https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak) | 3:41 | 2022-07-22 |  |
 | [Don't U Kno \(Instrumental\)](https://open.spotify.com/track/5rMTikALrtzbfNsqP7Ewgt) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself \(Instrumental\)](https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn) | 2:59 | 2023-09-15 |  |
 | [Doping](https://open.spotify.com/track/5VyPn7VhYaBlhFJRp4OoLw) | [DOPE90](https://open.spotify.com/artist/5PvSb8IlXP6e2rX6Pwoj8u), [Kovsh](https://open.spotify.com/artist/08g5Q6KdzrLJsXxoZzqDmB) | [Sputnik](https://open.spotify.com/album/7osdfCoxMwonsdCbZKSgf3) | 3:08 | 2022-07-22 |  |
+| [Drifting](https://open.spotify.com/track/4NMKlKMLgiznsW61hhP4E2) | [Mr\. Goldenfold](https://open.spotify.com/artist/6FPuOcm8xqY362N137yZXi) | [Orbit Transmissions, Vol\. 2](https://open.spotify.com/album/7D4zNGeZfBwJPcOqsqNRzL) | 3:08 | 2024-04-08 |  |
 | [Drugs \- Instrumental](https://open.spotify.com/track/4BnqIkoyrxpQZFO6xSmE3P) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:19 | 2022-07-22 |  |
 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 | 2022-07-22 |  |
 | [East Ward](https://open.spotify.com/track/4PMUz5gEkv4XphJ5lyDLE9) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [East Ward](https://open.spotify.com/album/04XhdiFJeyqFD3804vPDlf) | 3:00 | 2023-08-17 | 2023-09-01 |

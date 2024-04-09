@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grupo Menos é Mais com Luisa Sonza, LUDMILLA e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,925,851 likes - 68 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,926,021 likes - 68 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 67 | [Assume The Position](https://open.spotify.com/track/7BOsIXFUa09SzoocKq9SoT) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 3:21 |
 | 68 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
 
-Snapshot ID: `MCwzM2I1MWI0MTQwZWZmMGQ4ZDY3N2NjOGRlNzJiODQ4N2Y0ZTBiNzQ5`
+Snapshot ID: `MCxmNWMxYWQ3MjMyMWY1ZTIxZGFmMWEwNDdiNjdmN2RlNTBjNzQ1MDY0`

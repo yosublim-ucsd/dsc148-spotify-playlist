@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 202925,
+  "num_followers": 203239,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGQxNDUzM2U0YTEyMTAyNjczZjVmMDlhYmFjNzE2NmZlZDMyYzNh",
+  "snapshot_id": "MCwzYWI3MThlYWUxN2I1ZjUxZGFiY2M3ZGZhODE2YjU5Zjk1MDlkMjhi",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 153388,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/7vO6yVflgdpdAxArZV6URT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "People's Champ",
         "url": "https://open.spotify.com/album/05nUDymtjkkya5l7gtyznT"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 231457,
       "name": "Vows (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/01CPKpskTCzekQrlkqZtjS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 153388,
-      "name": "Comfort Zone",
-      "url": "https://open.spotify.com/track/7vO6yVflgdpdAxArZV6URT"
     },
     {
       "added_at": null,
@@ -639,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 152100,
+      "name": "Copenhagen In A Cadillac",
+      "url": "https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mud to Gold",
         "url": "https://open.spotify.com/album/2C9n12izeGNvEJ0FlSUTxX"
       },
@@ -663,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 152100,
-      "name": "Copenhagen In A Cadillac",
-      "url": "https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
       },
@@ -699,26 +699,6 @@
       "duration_ms": 229103,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
-      },
-      "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 202675,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD"
     },
     {
       "added_at": null,
@@ -743,6 +723,26 @@
       "duration_ms": 226511,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 202675,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD"
     },
     {
       "added_at": null,

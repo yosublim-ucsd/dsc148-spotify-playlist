@@ -4,14 +4,14 @@
 
 > pov, you ask for your Martini shaken...
 
-54 songs - 2 hr 48 min
+55 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 | 2021-10-21 |  |
 | [Bagheera](https://open.spotify.com/track/7gHrPw1mxmtpPHpPj5YneK) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Jungle Obsession](https://open.spotify.com/album/0K8kxH3K4DmHUkzIdz1Dt8) | 2:18 | 2021-10-21 | 2024-03-19 |
 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 | 2021-10-21 |  |
-| [Cha tatch ka](https://open.spotify.com/track/6DGAPpaH9L7nWWlxVWpMcu) | [Bernard Estardy](https://open.spotify.com/artist/4Q9cCxYDsJQc4MhC2pQZhm) | [La formule du baron](https://open.spotify.com/album/7w4P7eIRiL8WKalceUxMWK) | 2:27 | 2021-10-21 |  |
+| [Cha tatch ka](https://open.spotify.com/track/6DGAPpaH9L7nWWlxVWpMcu) | [Bernard Estardy](https://open.spotify.com/artist/4Q9cCxYDsJQc4MhC2pQZhm) | [La formule du baron](https://open.spotify.com/album/7w4P7eIRiL8WKalceUxMWK) | 2:27 | 2021-10-21 | 2024-04-09 |
 | [Cobwebs and Rainbows](https://open.spotify.com/track/0tjoIFhgOdPL8Oepm7ZO2k) | [Dick Walter](https://open.spotify.com/artist/3bhwPW2KAIrtctvKZXmWVN) | [Pure Big Band \- Part 2 / Vocals](https://open.spotify.com/album/6ZzW5gbGwFXl1OgU3sxeBg) | 3:03 | 2021-10-21 |  |
 | [Diamonds Are Forever](https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Let Me Sing and I'm Happy](https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5) | 2:41 | 2022-04-01 |  |
 | [Exclusive Blend](https://open.spotify.com/track/64ZdWos9KcvgKOK9dCirVI) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 3:24 | 2021-10-21 |  |
@@ -30,6 +30,7 @@
 | [Lazy Sunday](https://open.spotify.com/track/3IdBNzUVuC5MHfuA6dmjAj) | [Duncan Lamont](https://open.spotify.com/artist/6iUQpaTq1rzkfcdNo8d62s) | [Kpm 1000 Series: The Human Touch](https://open.spotify.com/album/35ALADthkaRlhnF6tiuCF6) | 2:58 | 2021-10-21 |  |
 | [Left Bank Two \- \[Gallery Theme from "Vision On"](https://open.spotify.com/track/4EVjJAF4v519GjGk3rsJ7Z) | [Wayne Hill](https://open.spotify.com/artist/1wDTppICsOJwrAAaROEqaY) | [Top Dog \(A Retrospective Of Classic TV & Radio Themes 1960\-1982\)](https://open.spotify.com/album/2d286hNlRXgpqtTxXWjgiD) | 2:29 | 2021-10-21 |  |
 | [Liquid Sunshine](https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q) | [John Cameron](https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk) | [Kpm 1000 Series: Voices in Harmony](https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o) | 2:59 | 2021-10-21 |  |
+| [Lonely Australian Landcape](https://open.spotify.com/track/7sLDc1nYXFLEzfKIcuN3w4) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Nature Walkabout \(Original Television Soundtrack\) \[Remastered\]](https://open.spotify.com/album/1QcGLDihuIiNDQiwCbBtW7) | 3:39 | 2021-10-21 |  |
 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 | 2021-10-21 |  |
 | [Main Title \- From "Thunderball"](https://open.spotify.com/track/0yaLrtLWGYWVmvvNOlRZDj) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Movie Night: Famous Soundtracks](https://open.spotify.com/album/2ryZgGxfvRhpbtIHF2FEAR) | 3:03 | 2022-04-01 |  |
 | [Mermaid](https://open.spotify.com/track/4LcogSQgiNo6rtCG70emJj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:56 | 2021-10-21 |  |

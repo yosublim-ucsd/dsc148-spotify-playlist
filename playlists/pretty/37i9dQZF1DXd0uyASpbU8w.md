@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET?si=k\-FfLSpCRzafA\-Qf9Eta2g">Benson Boone</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,030 likes - 67 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,059 likes - 67 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 66 | [Tonight](https://open.spotify.com/track/2GBfPNvZqNmIG8lgF8p9tU) | [Mary Jane](https://open.spotify.com/artist/6N2ZOBipWXmuFn5uzXoVpr) | [Tonight](https://open.spotify.com/album/1xTXtXOgV8leQWJkWjjjNA) | 3:21 |
 | 67 | [Molo sisi](https://open.spotify.com/track/6LLN5PlzmkzzS5zFnCsTQ7) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54), [zee@eez](https://open.spotify.com/artist/6oDWtx8trbunM8zKdwbw2e) | [Molo sisi](https://open.spotify.com/album/1gCMH1hIiQK18K3RE8BiAp) | 4:11 |
 
-Snapshot ID: `MCw3OWZiMjg2NTM5YjIzNDhjZWRmY2I0NzViZjk1ZDBiMTM0MzQ1NWI3`
+Snapshot ID: `MCwyMzEzYmMwN2QwYzA1NzcxNjUyOWZmNjAzMDNjOWYwM2FiYTQyNGI4`

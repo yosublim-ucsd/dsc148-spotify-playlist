@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-708 songs - 1 day 11 hr 42 min
+709 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [hejhejdå](https://open.spotify.com/track/7bE0VqZMz2Z2GolmkYP2Fp) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [hejhejdå](https://open.spotify.com/album/33VuLAoQ9pfnD9zAKiqpd0) | 2:52 | 2024-03-21 |  |
 | [Hela världen är min](https://open.spotify.com/track/07l5IJqrY6ERJw7HNdnM0G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Hela världen är min](https://open.spotify.com/album/2FD0zqU3iO8cwQkR2SEgMN) | 3:06 | 2022-03-18 | 2022-07-22 |
 | [Hemlisar](https://open.spotify.com/track/1lRhiGwhU0rOvdQegTNmND) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Hemlisar](https://open.spotify.com/album/39yJ200hiDcZB9tvsjbPzP) | 3:35 | 2022-09-26 | 2022-10-27 |
+| [HEMSK](https://open.spotify.com/track/2yWyVyZwv87UDeDqYyx9Dh) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [HEMSK](https://open.spotify.com/album/7wj5b42oRBEnvky3Zhikwo) | 2:07 | 2024-04-08 |  |
 | [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2022-12-09 | 2023-01-19 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2022-11-11 |
 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 | 2022-09-19 | 2022-12-24 |
@@ -596,7 +597,7 @@
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-18 | 2022-07-29 |
 | [Superstar](https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Superstar](https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5) | 3:10 | 2023-05-17 | 2023-08-15 |
 | [Svalen till grammis](https://open.spotify.com/track/2SxOcZ9qTi8oRgViQFE4gF) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Svalen till grammis](https://open.spotify.com/album/4AqhSm1RxCLe3G6a5r5GHr) | 2:42 | 2024-04-04 |  |
-| [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-04 |  |
+| [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-04 | 2024-04-09 |
 | [Svart Ferrari](https://open.spotify.com/track/1CPOpQKVLD2evuM7HrBYY7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Svart Ferrari](https://open.spotify.com/album/5q6u7feIJNs8GubNSybtYb) | 3:15 | 2024-01-12 | 2024-02-09 |
 | [Svett](https://open.spotify.com/track/4uXlhWXPnysM9HQMFqzU3f) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Svett](https://open.spotify.com/album/565wtWK25tA1JjATQZbvVg) | 3:06 | 2024-04-04 |  |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2021-12-16 | 2021-12-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,573 likes - 65 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,994 likes - 65 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 64 | [I Wonder](https://open.spotify.com/track/5ZCNcQRCQfqdE9gAJir3Hg) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [I Wonder](https://open.spotify.com/album/7yHdGR9ZJLR7Gm56tWdKh8) | 2:39 |
 | 65 | [Still Go a Dance](https://open.spotify.com/track/4clUohoKu1S7YGM8SuCMrs) | [Christopher Ellis](https://open.spotify.com/artist/1CEhqTYXYpWeVLCCZE0LEs) | [Still Go a Dance](https://open.spotify.com/album/6yN83NixfyLv59uj635Ccx) | 3:11 |
 
-Snapshot ID: `MCwwNTYwNDlkM2IzZDg2MzI4MzdjNTRjZWUyNWZjZTc4MTUxMzhiNTQ1`
+Snapshot ID: `MCxjYmQ5M2ZlMGMxMjFmODNlYTRjZWVmMmE0YzViYmUyN2U0MzM4NTJh`

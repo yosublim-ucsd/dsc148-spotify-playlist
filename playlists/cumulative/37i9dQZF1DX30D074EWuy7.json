@@ -261,6 +261,28 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/1bOa1ylGCG0WZJvsqtZvNf"
+      },
+      "artists": [
+        {
+          "name": "Maurizio Caldura",
+          "url": "https://open.spotify.com/artist/6BLookt9SlgBe5l4Q7Bpzl"
+        },
+        {
+          "name": "Luigi Bonafede",
+          "url": "https://open.spotify.com/artist/6q2kP2BONsl2RxOOmPIUXs"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345120,
+      "name": "Agnese",
+      "url": "https://open.spotify.com/track/0G7n129cO4q4n16BRbBq0R"
+    },
+    {
+      "album": {
         "name": "Jeux de couleurs",
         "url": "https://open.spotify.com/album/4MHtt9xdDi88XL3NackV32"
       },
@@ -9138,7 +9160,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 289634,
       "name": "Transe Napolitaine",
       "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"

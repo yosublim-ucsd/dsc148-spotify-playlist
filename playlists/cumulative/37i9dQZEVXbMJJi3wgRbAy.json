@@ -3943,6 +3943,24 @@
     },
     {
       "album": {
+        "name": "Deja el guille",
+        "url": "https://open.spotify.com/album/0sX77SyKS1r0wEw72XE2gi"
+      },
+      "artists": [
+        {
+          "name": "Betone",
+          "url": "https://open.spotify.com/artist/633I0vj981muhXRC2xFZcQ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Deja el guille",
+      "url": "https://open.spotify.com/track/3xkSJ96WiMbbOgTyQcDxHd"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -8196,7 +8214,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"

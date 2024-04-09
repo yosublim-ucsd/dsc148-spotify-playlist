@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 134445,
+  "2024-04-09": 134456,
   "date_first_scraped": "2022-07-19",
   "description": "Canciones instrumentales de guitarra.",
   "name": "Guitarra Tranquila",
@@ -975,7 +975,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 237770,
       "name": "Austin",
       "url": "https://open.spotify.com/track/4YezUSq1Jln6CBattRur3E"
@@ -2549,7 +2549,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 127269,
       "name": "Dartden Road",
       "url": "https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff"
@@ -7901,7 +7901,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 123937,
       "name": "Origins",
       "url": "https://open.spotify.com/track/2v86cHUt2Dv7pCdGinwLaB"
@@ -8243,7 +8243,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 208631,
       "name": "Poetic Tale",
       "url": "https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n"
@@ -9784,6 +9784,24 @@
     },
     {
       "album": {
+        "name": "Something For You",
+        "url": "https://open.spotify.com/album/2RZsThQXub83Rxjrxo0qvd"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Torres",
+          "url": "https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "Something For You",
+      "url": "https://open.spotify.com/track/6oqZPFJ1LM1hokfEdUBPxp"
+    },
+    {
+      "album": {
         "name": "Belgian Park",
         "url": "https://open.spotify.com/album/7ji31sf4p8xRHMoPA7o6mH"
       },
@@ -10461,7 +10479,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 130856,
       "name": "Telodice",
       "url": "https://open.spotify.com/track/2p0Hp7dQvwfEu8nsP3fCMT"

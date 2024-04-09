@@ -1931,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "LBRTY",
+        "url": "https://open.spotify.com/album/5V3AymlNG7GgpJgwVxL8Wp"
+      },
+      "artists": [
+        {
+          "name": "Heyson",
+          "url": "https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195875,
+      "name": "LBRTY",
+      "url": "https://open.spotify.com/track/2bufGmn2RcHFnI8znnI8xD"
+    },
+    {
+      "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o"
       },

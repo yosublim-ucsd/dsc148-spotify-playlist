@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 14423,
+  "2024-04-09": 14437,
   "date_first_scraped": "2022-11-23",
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
@@ -864,6 +864,28 @@
     },
     {
       "album": {
+        "name": "His Story",
+        "url": "https://open.spotify.com/album/4cjEWNisOR1ZcaNNQgHTBQ"
+      },
+      "artists": [
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        },
+        {
+          "name": "Kim Tae Woo",
+          "url": "https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252933,
+      "name": "I Love U? Oh Thank U (Feat. \uae40\ud0dc\uc6b0)",
+      "url": "https://open.spotify.com/track/1KGiNVIzzD0vUZUIErKZTr"
+    },
+    {
+      "album": {
         "name": "\ud3ec\uc9c0\uc158 \uc2a4\ud398\uc15c I LOVE YOU",
         "url": "https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv"
       },
@@ -1387,7 +1409,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 199014,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/2iHoEvbIjpo2VPRxHo0RIY"
@@ -2207,7 +2229,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 285234,
       "name": "\uac10\uc0ac",
       "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
@@ -3253,6 +3275,24 @@
       "duration_ms": 284626,
       "name": "\ud5e4\uc5b4\uc9c0\uc9c0 \ubabb\ud558\ub294 \uc5ec\uc790, \ub5a0\ub098\uac00\uc9c0 \ubabb\ud558\ub294 \ub0a8\uc790 Can't Breakup Girl, Can't Breakaway Boy (feat. \uc815\uc778 Jung In)",
       "url": "https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK"
+    },
+    {
+      "album": {
+        "name": "\ud61c\uc131",
+        "url": "https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194821,
+      "name": "\ud61c\uc131",
+      "url": "https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits.
 
-75 songs - 3 hr 23 min
+76 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Lava](https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn), [Napua Greig](https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B), [James Ford Murphy](https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK) | [Lava \(From "Lava"\)](https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9) | 5:46 | 2023-09-15 |  |
 | [Le Festin](https://open.spotify.com/track/02JIdsrod3BYucThfUFDUX) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:50 | 2023-09-15 |  |
 | [Learn Me Right](https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Indomable](https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx) | 3:45 | 2023-09-15 |  |
+| [Let's Play Ball](https://open.spotify.com/track/4egvqUTVsfmTGaXeun8k9i) | [Dominic Lewis](https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U) | [Monsters at Work: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/10lNvm3AhklBi1qwufa5AY) | 2:38 | 2024-04-08 |  |
 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 | 2023-09-15 |  |
 | [Life's Incredible Again](https://open.spotify.com/track/45MllV1fJos1Ef6Cd13H2E) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV) | 1:24 | 2023-09-15 |  |
 | [Lightyear](https://open.spotify.com/track/1geYunsE8iz03nNwWJPszT) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Lightyear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3SNjDkFpokQWo9gm88dWVx) | 2:45 | 2023-09-15 |  |

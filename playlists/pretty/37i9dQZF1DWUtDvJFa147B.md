@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,013 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,022 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 28 | [모든 날 모든 순간](https://open.spotify.com/track/4YFuEVtei9QRxtbYzRZLA9) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Begin Again Open Mic Episode.2](https://open.spotify.com/album/13NIHyvcTUikGNpB2Eom5Y) | 2:24 |
 | 29 | [예뻤어](https://open.spotify.com/track/3Y4NKHQJrBfwGxtMjtGvt8) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Begin Again Open Mic Episode.1](https://open.spotify.com/album/7iem5K9m8FOx6gnjrqdt74) | 2:59 |
 | 30 | [우울시계](https://open.spotify.com/track/4Zo3A6ZxagtR2Q4WZW23hK) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Begin Again Open Mic Episode.1](https://open.spotify.com/album/7iem5K9m8FOx6gnjrqdt74) | 3:01 |
-| 31 | [Begin Again Korea, Episode.1 \(Original Television Soundtrack\)\-Departure \- 인천국제공항 Version](https://open.spotify.com/track/07urgDusnzwLk7FxhdsAmE) | [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [Begin Again Korea, Episode.1 \(Original Television Soundtrack\)\-Departure](https://open.spotify.com/album/4UUxKG68Trqkjw8Re1gooV) | 3:52 |
+| 31 | [Begin Again Korea, Episode.1 \(Original Television Soundtrack\)\-Departure \- 인천국제공항 Version](https://open.spotify.com/track/07urgDusnzwLk7FxhdsAmE) | [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Begin Again Korea, Episode.1 \(Original Television Soundtrack\)\-Departure](https://open.spotify.com/album/4UUxKG68Trqkjw8Re1gooV) | 3:52 |
 | 32 | [Begin Again Korea, Episode.1\-1 \(Original Television Soundtrack\)\-Youngblood \- 드라이브 인 버스킹 Version](https://open.spotify.com/track/19t5Uty8pIgAo7t8mke7Jt) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Begin Again Korea, Episode.1\-1 \(Original Television Soundtrack\)\-Youngblood](https://open.spotify.com/album/4HFbxy4OQLKJygpRwXAtd9) | 4:38 |
 | 33 | [Begin Again Korea, Episode.3 \(Original Television Soundtrack\)\- CAN'T STOP THE FEELING! \- 스타디움 버스킹 Version](https://open.spotify.com/track/7bfonr9qCNaKjzE5gBdgF1) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Begin Again Korea, Episode.3 \(Original Television Soundtrack\)\- CAN'T STOP THE FEELING!](https://open.spotify.com/album/3WIa3PYHrfS9zmpTocMluQ) | 2:57 |
 | 34 | [Begin Again Korea, Episode.5 \(Original Television Soundtrack\)\-I Don't Want to Miss a Thing \- 시네마 버스킹 Version](https://open.spotify.com/track/1hY0JZKh9HHkmuqEmWRH5W) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Begin Again Korea, Episode.5 \(Original Television Soundtrack\)\-I Don't Want to Miss a Thing](https://open.spotify.com/album/4djaizv2ifFgnfGb6WkQ1c) | 2:50 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 112 | [I bless you – Chamonix Busking ver](https://open.spotify.com/track/5ujO0nDWSnIEYZrH5YLghc) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [RO HONG CHUL](https://open.spotify.com/artist/0zcTx4R5R60a41u2jDVQbP) | [Begin Again\-Episode12](https://open.spotify.com/album/6H41cjcgNBY9xBvoF2Ffpb) | 3:57 |
 | 113 | [In Front Of The Autumn Post Office – Chamonix Busking ver](https://open.spotify.com/track/33hWdbayWz9hmNKnqhr7EN) | [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Begin Again\-Episode12](https://open.spotify.com/album/5eWfAwyHVx7TpQ12HTFzwh) | 4:44 |
 
-Snapshot ID: `MCw0YzdjY2EzMzNmNjBmNWZmYmFiMDEwY2U1YjBjOGU4NzViOTQ5YmEw`
+Snapshot ID: `MCxkYWE0ZDE4NGVhZTA0MzNmNjg2YjNhMjRiNTU1MjEwZjllMGQzODY4`

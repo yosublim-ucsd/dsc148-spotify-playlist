@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 68151,
+  "num_followers": 68317,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjE3YWQyY2M5OWM5MGIxM2FkZjU5ZDAzMTc0YmQyNGE4YWUxZmYw",
+  "snapshot_id": "MCwxNTY1NzVkZmM0YzcyNTczMjNiYmZjODZkY2M2YmYwMmEyODg2OWQy",
   "tracks": [
     {
       "added_at": "2024-01-05 17:02:31",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Earth Angel",
         "url": "https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 184634,
       "name": "I Love You for All Seasons",
       "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -579,6 +579,38 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
       },
@@ -607,38 +639,6 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
         "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Car Wash",
         "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 238200,
       "name": "I Wanna Get Next To You",
       "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Too Hot to Handle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 377106,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -831,6 +815,22 @@
       "duration_ms": 255173,
       "name": "Float On - Single Version",
       "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 377106,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Very Best Of Aaron Neville",
-        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Workin' On A Groovy Thing....The Best Of",
         "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 151453,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Very Best Of Aaron Neville",
+        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Swingsation: Sil Austin",
-        "url": "https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa"
-      },
-      "artists": [
-        {
-          "name": "Sil Austin",
-          "url": "https://open.spotify.com/artist/4ZER6Et93aVvfwzaiwjjbI"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "Slow Walk",
-      "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 177946,
       "name": "I Do Love You",
       "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Swingsation: Sil Austin",
+        "url": "https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa"
+      },
+      "artists": [
+        {
+          "name": "Sil Austin",
+          "url": "https://open.spotify.com/artist/4ZER6Et93aVvfwzaiwjjbI"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "Slow Walk",
+      "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 117133,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Too Hot to Handle (Expanded Edition)",
         "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 209213,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117133,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 141746,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Searching For My Love",
         "url": "https://open.spotify.com/album/7lpZkRX58TVPOyRbCFiRjV"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 150533,
       "name": "Searching For My Love",
       "url": "https://open.spotify.com/track/6EtOgpD6m1fBzcnckUAEfW"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 141746,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Will You Still Love Me Tomorrow",
-        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 151626,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/1ntEg1vkoTy13VGg0bbDvE"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/1lv1pjnBPOQbGBt4tYedy6"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Salsoul",
         "url": "https://open.spotify.com/album/3UKJxuwhcy1poGhxdMNvIP"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 268939,
       "name": "Mujer Mia (2022 - Remaster)",
       "url": "https://open.spotify.com/track/7Lzr8bmMFrUFLYsalwDN3v"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/1ntEg1vkoTy13VGg0bbDvE"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/1lv1pjnBPOQbGBt4tYedy6"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Essential Deniece Williams (The Columbia Years)",
-        "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "It's Gonna Take a Miracle",
-      "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Floaters",
         "url": "https://open.spotify.com/album/3R4GYvXz5zKCBG7rgUeEjX"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 708866,
       "name": "Float On",
       "url": "https://open.spotify.com/track/7xg0Rbj3SVOVzQVJEqh5Zd"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Essential Deniece Williams (The Columbia Years)",
+        "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "It's Gonna Take a Miracle",
+      "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Dreams Of Contentment (Special Deluxe Collection)",
+        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
+      },
+      "artists": [
+        {
+          "name": "The Dells",
+          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Oh What A Nite",
+      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Thee Only One",
         "url": "https://open.spotify.com/album/4ztSd9IONvZJ1kq4sdDkVp"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 216913,
       "name": "Thee Only One",
       "url": "https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Dreams Of Contentment (Special Deluxe Collection)",
-        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
-      },
-      "artists": [
-        {
-          "name": "The Dells",
-          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Oh What A Nite",
-      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Grow Forever b/w Now It\u2019s Your Turn To Sing",
-        "url": "https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL"
-      },
-      "artists": [
-        {
-          "name": "Lizette & Quevin",
-          "url": "https://open.spotify.com/artist/1Ja8gq8kybmwpYcCSVNBqY"
-        }
-      ],
-      "duration_ms": 193620,
-      "name": "Grow Forever",
-      "url": "https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Maybe It's Time",
         "url": "https://open.spotify.com/album/4VzG7pkJyHbjnz5mTWyrKS"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 211865,
       "name": "Maybe It's Time",
       "url": "https://open.spotify.com/track/4Gy2mnEllofZbpi9ITuWpV"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Grow Forever b/w Now It\u2019s Your Turn To Sing",
+        "url": "https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL"
+      },
+      "artists": [
+        {
+          "name": "Lizette & Quevin",
+          "url": "https://open.spotify.com/artist/1Ja8gq8kybmwpYcCSVNBqY"
+        }
+      ],
+      "duration_ms": 193620,
+      "name": "Grow Forever",
+      "url": "https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt"
     },
     {
       "added_at": "2024-01-05 17:02:31",

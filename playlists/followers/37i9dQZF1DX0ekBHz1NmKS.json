@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 195922,
+  "2024-04-09": 195921,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -5406,6 +5406,24 @@
     },
     {
       "album": {
+        "name": "Fakka ur",
+        "url": "https://open.spotify.com/album/3b3d4OzKPwi8T54rEZvkrF"
+      },
+      "artists": [
+        {
+          "name": "KHARMA",
+          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175293,
+      "name": "Fakka ur",
+      "url": "https://open.spotify.com/track/2n2ObgjImm2neSROK9phmP"
+    },
+    {
+      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
       },
@@ -10007,7 +10025,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 199090,
       "name": "Kanske blir b\u00e4st",
       "url": "https://open.spotify.com/track/5vxayeeeiAijEdv4MGlJRT"
@@ -16458,6 +16476,24 @@
     },
     {
       "album": {
+        "name": "Sommaren",
+        "url": "https://open.spotify.com/album/0kxuRSR8M1fwzwrjeIsj8m"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130526,
+      "name": "Sommaren",
+      "url": "https://open.spotify.com/track/3qir39bFtgEGQiqs1EETer"
+    },
+    {
+      "album": {
         "name": "Sommarn \u00e4r \u00f6ver (feat. Eah)",
         "url": "https://open.spotify.com/album/4x6jVOB2d25n5WqHtCe9Mk"
       },
@@ -19925,7 +19961,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 177187,
       "name": "Viktigt",
       "url": "https://open.spotify.com/track/5pOmq3IrlHIqdSgcacwuKX"

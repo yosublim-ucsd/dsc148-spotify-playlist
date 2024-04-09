@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 210333,
       "name": "About a Girl",
       "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 207656,
       "name": "Asian Impact (\u30b9\u30c6\u30fc\u30b83)",
       "url": "https://open.spotify.com/track/2W80mGEdvxF6hLQ7k5AtOZ"
@@ -1192,6 +1192,24 @@
       "duration_ms": 41400,
       "name": "Boss of Me (From \"Malcolm in the Middle\")",
       "url": "https://open.spotify.com/track/5NbakuBtm6SKgmGxPS5QJh"
+    },
+    {
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174845,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc"
     },
     {
       "album": {
@@ -1809,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Punk Goes 90s Vol. 2",
+        "url": "https://open.spotify.com/album/5YEUqtBlEPHSEHCkSIIhK0"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384637,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7CDg6jt9cFRthTOrXhKrWy"
+    },
+    {
+      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -2137,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Lucidity (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4zApuxmkizVW3LFcXaBiuz"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276693,
+      "name": "Daylight Lucidity - 2016 Remaster; Remastered",
+      "url": "https://open.spotify.com/track/0BVaeKodms6MvEvxDQyyK6"
+    },
+    {
+      "album": {
         "name": "Dead Plants",
         "url": "https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl"
       },
@@ -2411,6 +2465,32 @@
     },
     {
       "album": {
+        "name": "ALL-YOU-CAN-EAT VOL.1",
+        "url": "https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Sad Lacra",
+          "url": "https://open.spotify.com/artist/5c3syF6gl4XSWupfdZ1g0C"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65000,
+      "name": "Drag\u00f3n de la Monta\u00f1a (M\u00e9rida, Interludio)",
+      "url": "https://open.spotify.com/track/26IgNXRcOX6vLuJlfpYZDH"
+    },
+    {
+      "album": {
         "name": "\u00a1TR\u00c9!",
         "url": "https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8"
       },
@@ -2638,7 +2718,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 292120,
       "name": "El Rey Tibur\u00f3n",
       "url": "https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS"
@@ -2822,7 +2902,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 212841,
       "name": "Eulogy",
       "url": "https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6"
@@ -3270,6 +3350,42 @@
       "duration_ms": 172038,
       "name": "FUBAR",
       "url": "https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc"
+    },
+    {
+      "album": {
+        "name": "Love Start in Lake",
+        "url": "https://open.spotify.com/album/4y0fXCVNB00mcZzzBX3q1Z"
+      },
+      "artists": [
+        {
+          "name": "How can I",
+          "url": "https://open.spotify.com/artist/2vSOHgmhuAZ76qhd2Fmif3"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304243,
+      "name": "funny animal videos",
+      "url": "https://open.spotify.com/track/2tgLQRZxXxCVGIY9uLtCYR"
+    },
+    {
+      "album": {
+        "name": "Funny Cats",
+        "url": "https://open.spotify.com/album/7jr7eAKeSrUYvEuAZYxhvV"
+      },
+      "artists": [
+        {
+          "name": "Bubble Sound Family",
+          "url": "https://open.spotify.com/artist/5IY4N6rqLFxiTRajVbIyRe"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82000,
+      "name": "Funny Cats",
+      "url": "https://open.spotify.com/track/3kOoLBYcEk8IDB063CAXMi"
     },
     {
       "album": {
@@ -5256,7 +5372,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 269773,
       "name": "Magia",
       "url": "https://open.spotify.com/track/5Y5RPoHcQN1wJbH1RBwd2D"
@@ -5742,7 +5858,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 221000,
       "name": "My Generation",
       "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
@@ -6190,7 +6306,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 263573,
       "name": "Not Now",
       "url": "https://open.spotify.com/track/6LLQY25x8tSelUTdpnL4tO"
@@ -6341,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "Metallica Through The Never (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5NWCBEEdWtLK6G5aO2bIuo"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504573,
+      "name": "One - Live",
+      "url": "https://open.spotify.com/track/4CmrcfuMSvYWamYrbYTT50"
+    },
+    {
+      "album": {
         "name": "Greatest Hits II (2011 Remaster)",
         "url": "https://open.spotify.com/album/3enuKERSauyNFVTa2n0t7S"
       },
@@ -6424,7 +6558,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 337266,
       "name": "Override",
       "url": "https://open.spotify.com/track/57WMQgEqr9lRCCuy6eiQEq"
@@ -7287,6 +7421,28 @@
     },
     {
       "album": {
+        "name": "Ritmo Sideral",
+        "url": "https://open.spotify.com/album/7f13tGN1ULmqGIMQMF5pIs"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        },
+        {
+          "name": "C-Lurico & Area 31",
+          "url": "https://open.spotify.com/artist/6kJdjyzfM8K5m0mmtQNwaD"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170426,
+      "name": "Ritmo Sideral",
+      "url": "https://open.spotify.com/track/1qNWQVlCXwHrP4avM2WzZV"
+    },
+    {
+      "album": {
         "name": "LIVING THINGS: Acapellas and Instrumentals",
         "url": "https://open.spotify.com/album/7qRKpkP0jSOlBMLYZhAMCh"
       },
@@ -7482,6 +7638,24 @@
       "duration_ms": 271986,
       "name": "Scream",
       "url": "https://open.spotify.com/track/1MxB3Qw6wz8IZYSmIPyH6I"
+    },
+    {
+      "album": {
+        "name": "Secrets in a Box",
+        "url": "https://open.spotify.com/album/7eQ5R30YMqoyIQXW1B1f2E"
+      },
+      "artists": [
+        {
+          "name": "Cruskin",
+          "url": "https://open.spotify.com/artist/0HhKAWSf0VFCkW9zoZodE9"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179072,
+      "name": "Secrets in a Box",
+      "url": "https://open.spotify.com/track/0p8UUl28sWjj4O9eTOHz2o"
     },
     {
       "album": {
@@ -8395,6 +8569,24 @@
     },
     {
       "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319426,
+      "name": "The Blister Exists",
+      "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8"
+    },
+    {
+      "album": {
         "name": "The Pale Emperor (Deluxe)",
         "url": "https://open.spotify.com/album/3EaXUU967ApUUxMm7SWtGN"
       },
@@ -8918,7 +9110,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 245453,
       "name": "Till the World Ends",
       "url": "https://open.spotify.com/track/5hXTbOrBEPx5eZZI6SrNlc"
@@ -9250,7 +9442,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 348333,
       "name": "Unleashed",
       "url": "https://open.spotify.com/track/36QjHKq3eiCeAiYkFo8CXS"
@@ -9394,7 +9586,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 176533,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/4A48NL57P16zSRaq3yoYry"
@@ -10044,6 +10236,24 @@
       "duration_ms": 166895,
       "name": "Worms",
       "url": "https://open.spotify.com/track/3vxEgwQPiXqF2FK3hL79BL"
+    },
+    {
+      "album": {
+        "name": "Define The Great Line",
+        "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242413,
+      "name": "Writing On The Walls",
+      "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
     },
     {
       "album": {

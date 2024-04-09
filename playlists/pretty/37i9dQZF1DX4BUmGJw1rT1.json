@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 68816,
+  "num_followers": 68815,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjkxYWE1NmJhMWVjZGU5NzAzZjZkZWNjODJlNTkwMjg1NTNhMjNm",
+  "snapshot_id": "MCxjNDYxNWNhOGEwN2U3ZTIwZWFkYTU5YzY4YzRlMWZkMDg2Y2JmOWEx",
   "tracks": [
     {
       "added_at": "2023-11-24 19:22:06",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Fire on the Floor (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 311226,
-      "name": "Fire On The Floor",
-      "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "If These Walls Could Talk",
         "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 177329,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Fire on the Floor (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 311226,
+      "name": "Fire On The Floor",
+      "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Long Road Ahead",
-        "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 202143,
-      "name": "Long Road Ahead",
-      "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 255426,
       "name": "Blues Music",
       "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Long Road Ahead",
+        "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 202143,
+      "name": "Long Road Ahead",
+      "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 356426,
+      "name": "A Quitter Never Wins",
+      "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 412333,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 356426,
-      "name": "A Quitter Never Wins",
-      "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Take Your Shoes Off",
         "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 225077,
       "name": "No Mercy In This Land",
       "url": "https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Good To Be (Home Again)",
-        "url": "https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Good To Be (Home Again)",
-      "url": "https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Lucille",
         "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 264506,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Good To Be (Home Again)",
+        "url": "https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Good To Be (Home Again)",
+      "url": "https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "One Foot In The Groove",
-        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
-      },
-      "artists": [
-        {
-          "name": "Boneshakers",
-          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
-        }
-      ],
-      "duration_ms": 205974,
-      "name": "Ice Cream and Cigarettes",
-      "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/274mSeGv906bj4ylimeKiW"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 254929,
       "name": "I Love Your Rock 'n' Roll",
       "url": "https://open.spotify.com/track/6rBwdTO9YwLm8xzgvdyHIt"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "One Foot In The Groove",
+        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Ice Cream and Cigarettes",
+      "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Because of You",
-        "url": "https://open.spotify.com/album/0FtKh6eZHrAOQwd786kUlk"
-      },
-      "artists": [
-        {
-          "name": "Dana Masters",
-          "url": "https://open.spotify.com/artist/60Vsjzkpv3xyOYPtNnoNCh"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "Little Girl",
-      "url": "https://open.spotify.com/track/0T7VAmfLUzTw8zSjhPZLuV"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Get Behind the Wheel",
         "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
       },
@@ -2023,18 +2007,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Scream, Holler & Howl",
-        "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
+        "name": "Because of You",
+        "url": "https://open.spotify.com/album/0FtKh6eZHrAOQwd786kUlk"
       },
       "artists": [
         {
-          "name": "Blue Moon Marquee",
-          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
+          "name": "Dana Masters",
+          "url": "https://open.spotify.com/artist/60Vsjzkpv3xyOYPtNnoNCh"
         }
       ],
-      "duration_ms": 247946,
-      "name": "Medicine Man",
-      "url": "https://open.spotify.com/track/3j6EDxYRTUTAYdC7MUHuic"
+      "duration_ms": 305493,
+      "name": "Little Girl",
+      "url": "https://open.spotify.com/track/0T7VAmfLUzTw8zSjhPZLuV"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2051,6 +2035,22 @@
       "duration_ms": 266094,
       "name": "No Limit to My Love",
       "url": "https://open.spotify.com/track/7ioBQAz0j9QcvO6oNrsW0D"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Scream, Holler & Howl",
+        "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
+      },
+      "artists": [
+        {
+          "name": "Blue Moon Marquee",
+          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
+        }
+      ],
+      "duration_ms": 247946,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/3j6EDxYRTUTAYdC7MUHuic"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2239,18 +2239,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2"
+        "name": "Not the One",
+        "url": "https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS"
       },
       "artists": [
         {
-          "name": "Ebba Forsberg",
-          "url": "https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk"
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
         }
       ],
-      "duration_ms": 149746,
-      "name": "Lost Count - Live",
-      "url": "https://open.spotify.com/track/2WVdl7Dja5y0vv8mrn6Fwa"
+      "duration_ms": 218666,
+      "name": "Not the One",
+      "url": "https://open.spotify.com/track/3ILOjQIsXO1gfvHzkBsc89"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2271,34 +2271,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Not the One",
-        "url": "https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2"
       },
       "artists": [
         {
-          "name": "Vintage Trouble",
-          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
+          "name": "Ebba Forsberg",
+          "url": "https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Not the One",
-      "url": "https://open.spotify.com/track/3ILOjQIsXO1gfvHzkBsc89"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Connor Selby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 290502,
-      "name": "Hear My Prayer",
-      "url": "https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn"
+      "duration_ms": 149746,
+      "name": "Lost Count - Live",
+      "url": "https://open.spotify.com/track/2WVdl7Dja5y0vv8mrn6Fwa"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2331,6 +2315,22 @@
       "duration_ms": 208592,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/61afTyjnWQ0q4cQXg4av0f"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Connor Selby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 290502,
+      "name": "Hear My Prayer",
+      "url": "https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "I'll Do It for You",
-        "url": "https://open.spotify.com/album/3DXggTbZAVLrzqddCu7l6b"
-      },
-      "artists": [
-        {
-          "name": "The Mystix",
-          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
-        }
-      ],
-      "duration_ms": 219597,
-      "name": "I'll Do It for You",
-      "url": "https://open.spotify.com/track/7nrhg2euCaBJ7bw3rcki0Y"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Oh Betty (Acoustic)",
         "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
       },
@@ -2423,6 +2407,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "I'll Do It for You",
+        "url": "https://open.spotify.com/album/3DXggTbZAVLrzqddCu7l6b"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        }
+      ],
+      "duration_ms": 219597,
+      "name": "I'll Do It for You",
+      "url": "https://open.spotify.com/track/7nrhg2euCaBJ7bw3rcki0Y"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "THOUSAND STRINGED INSTRUMENT",
         "url": "https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD"
       },
@@ -2435,6 +2435,22 @@
       "duration_ms": 329000,
       "name": "THOUSAND STRINGED INSTRUMENT",
       "url": "https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Hard to Kill",
+        "url": "https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Fireman",
+      "url": "https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2479,22 +2495,6 @@
       "duration_ms": 251384,
       "name": "Grease the Wheel",
       "url": "https://open.spotify.com/track/7zAaLt4VJczZoFBMEKLLDO"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Hard to Kill",
-        "url": "https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P"
-      },
-      "artists": [
-        {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Fireman",
-      "url": "https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO"
     },
     {
       "added_at": "2023-11-24 19:22:06",

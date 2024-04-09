@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,851 likes - 40 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,846 likes - 40 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 15 | [Glósóli](https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 6:15 |
 | 16 | [Silent Flight, Sleeping Dawn \- Remastered](https://open.spotify.com/track/0Dv3M0Ck4n9anoPu1VQ5fU) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 6:00 |
 | 17 | [I'm Jim Morrison, I'm Dead](https://open.spotify.com/track/1fV2Bp9JpE1CavonususVW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Hawk Is Howling](https://open.spotify.com/album/6XfWE0VdiRbH9QWfyLibxW) | 6:44 |
-| 18 | [Threads](https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 5:39 |
-| 19 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
-| 20 | [The First Fire](https://open.spotify.com/track/0glEvaWrhIP0boU56o5Q9U) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Red Forest](https://open.spotify.com/album/0i1vP6JtYq4kE3oygILHzk) | 6:30 |
+| 18 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
+| 19 | [The First Fire](https://open.spotify.com/track/0glEvaWrhIP0boU56o5Q9U) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Red Forest](https://open.spotify.com/album/0i1vP6JtYq4kE3oygILHzk) | 6:30 |
+| 20 | [Threads](https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 5:39 |
 | 21 | [Job's Lament](https://open.spotify.com/track/6rK7VyAi0XGdhz4LdzXVZj) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 8:02 |
 | 22 | [It's Dark, It's Cold, It's Winter](https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [sleepmakeswaves](https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp) | 4:50 |
 | 23 | [Unmake the Wild Light](https://open.spotify.com/track/7EmaLbhPGnQuw4riUkvlkp) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Wild Light](https://open.spotify.com/album/3a68UJXba5ejXgM5K8BUVF) | 6:23 |
 | 24 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 4:25 |
 | 25 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 7:36 |
 | 26 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
-| 27 | [Glow](https://open.spotify.com/track/0LF29vtBiXGfFdLzq0dkdo) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Chronicle](https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU) | 4:16 |
-| 28 | [Children](https://open.spotify.com/track/6lgUuPNqAPnihWXs66mRVP) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [Children](https://open.spotify.com/album/54HUczZ6IE8t8rrDuhWLaE) | 4:34 |
+| 27 | [Children](https://open.spotify.com/track/6lgUuPNqAPnihWXs66mRVP) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [Children](https://open.spotify.com/album/54HUczZ6IE8t8rrDuhWLaE) | 4:34 |
+| 28 | [Glow](https://open.spotify.com/track/0LF29vtBiXGfFdLzq0dkdo) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Chronicle](https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU) | 4:16 |
 | 29 | [Love in the Void](https://open.spotify.com/track/6pta8oSJZZ8ypEgAN3zeNY) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 5:03 |
 | 30 | [Radio Protector](https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Radio Protector](https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg) | 5:28 |
 | 31 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 6:07 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 35 | [The Letters We'll Never Send](https://open.spotify.com/track/4HrZYWhVwy6oOzn5BUPjIv) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [The Letters We'll Never Send](https://open.spotify.com/album/1X72RQSH32yVaSlTvrIlsL) | 6:50 |
 | 36 | [Alaska](https://open.spotify.com/track/4h0iGeA83sYvsngisIw92M) | [Kwoon](https://open.spotify.com/artist/1ctreRQSlu47UoP3po9zd2) | [Alaska](https://open.spotify.com/album/5hSPs0thai8mK30ivMFHeY) | 6:43 |
 | 37 | [We'll Find the Light in Darkness](https://open.spotify.com/track/1aWPIurjGonozOh46AzNcj) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [We'll Find the Light in Darkness](https://open.spotify.com/album/7JOwJdBWGN0GAKcEf1qanb) | 4:41 |
-| 38 | [Magik](https://open.spotify.com/track/0kuRZfnraTXD8p8Qr4FMKA) | [Glasgow Coma Scale](https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8) | [Sirens](https://open.spotify.com/album/0rJ9KcNjZ8MjYBuviSzMmV) | 6:41 |
-| 39 | [Logic of a Dream](https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 6:37 |
-| 40 | [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 |
+| 38 | [Golden Hill](https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [Spine And Sensory \(Expanded And Remastered\)](https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6) | 4:52 |
+| 39 | [Magik](https://open.spotify.com/track/0kuRZfnraTXD8p8Qr4FMKA) | [Glasgow Coma Scale](https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8) | [Sirens](https://open.spotify.com/album/0rJ9KcNjZ8MjYBuviSzMmV) | 6:41 |
+| 40 | [Logic of a Dream](https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 6:37 |
 
-Snapshot ID: `MCxmODA0ZGU3ZTgxNWQwNTNiN2I2OWY4OGY0Yjk3YjhiNTBkMjUzNTQy`
+Snapshot ID: `MCw4NTc3ZTZjYzJhYjQxMGE1Mzk3MWZmODM1MGNlM2Q2YjJlOTZkNzZl`

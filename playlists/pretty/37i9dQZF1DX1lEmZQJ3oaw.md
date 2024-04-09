@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,403 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,449 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 | 49 | [Zindagi Do Pal Ki](https://open.spotify.com/track/3s6H6UW7yPu2rsF8CGki60) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Kites](https://open.spotify.com/album/79uqwO6n4ZFqHaDwLZhyL0) | 4:13 |
 | 50 | [Dil Jahan Pe Le Chala \(Amit Trivedi\)](https://open.spotify.com/track/78JKBkqF3siJDIrX0mnXTh) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 3:53 |
 
-Snapshot ID: `MCw2ZmI2M2JjMTIyMWYwNDgxMjgwYWYxMTFlZWRlYTc0MzVhMWU4NzNi`
+Snapshot ID: `MCxjOGIxMjljYTVkZmM4ZDMxZjNhYWVlNzViYTZmMTc3YzkwM2VkY2Rj`

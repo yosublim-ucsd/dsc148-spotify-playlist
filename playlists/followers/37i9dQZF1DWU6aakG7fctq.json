@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 493832,
+  "2024-04-09": 493840,
   "date_first_scraped": "2022-01-10",
   "description": "Fresh Latin Indie you should know. Cover: The Mar\u00edas",
   "name": "el nuevo indie",
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 211080,
       "name": "Barco",
       "url": "https://open.spotify.com/track/4JWh5Yf0xRs4LOSeXEpAbS"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 187378,
       "name": "cari\u00f1o",
       "url": "https://open.spotify.com/track/0dQHCW83ZUOSo4n3bxnEfn"
@@ -1761,6 +1761,24 @@
       "duration_ms": 171125,
       "name": "Common Places, Common Faces",
       "url": "https://open.spotify.com/track/418eTc9b78KdTeF8g3IDXP"
+    },
+    {
+      "album": {
+        "name": "COMO LO MUEVES",
+        "url": "https://open.spotify.com/album/015ltU2roLUHF8KvgxWoZq"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177841,
+      "name": "COMO LO MUEVES",
+      "url": "https://open.spotify.com/track/2B8LTd0wcI3WkmKtbwuROw"
     },
     {
       "album": {
@@ -8129,6 +8147,24 @@
       "duration_ms": 312652,
       "name": "Presente",
       "url": "https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9"
+    },
+    {
+      "album": {
+        "name": "Primer Beso",
+        "url": "https://open.spotify.com/album/7DpYxoa79sTZkMrQPxEo5h"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199346,
+      "name": "Primer Beso",
+      "url": "https://open.spotify.com/track/480qwG6dXSM8kxsPR7gnio"
     },
     {
       "album": {

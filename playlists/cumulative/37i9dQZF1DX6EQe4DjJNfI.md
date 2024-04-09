@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: HODARI, Urias
 
-208 songs - 10 hr 33 min
+209 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Bem Calma](https://open.spotify.com/track/6c3b87lxij2i7A4uFpcd1t) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Bem Calma](https://open.spotify.com/album/3yWAlfv8Jyw8ddRiLqWECS) | 3:00 | 2022-11-18 | 2023-01-14 |
 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 | 2023-01-20 | 2023-06-03 |
 | [Brigas Demais](https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 4:08 | 2023-03-24 | 2023-08-05 |
-| [Bunda Irada](https://open.spotify.com/track/60gYHwS5eH3mi8qpKeWhFE) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Fases Vol\. 1](https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG) | 2:27 | 2024-03-29 |  |
+| [Bunda Irada](https://open.spotify.com/track/60gYHwS5eH3mi8qpKeWhFE) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Fases Vol\. 1](https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG) | 2:27 | 2024-03-29 | 2024-04-09 |
 | [Bunda Irada](https://open.spotify.com/track/2gV1NayptOesaBhCGm1rzT) | [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Bunda Irada](https://open.spotify.com/album/5Lss9IXevp7XKdMeEzpkks) | 2:27 | 2024-03-29 | 2024-03-31 |
+| [Bunda Irada](https://open.spotify.com/track/741fh7RcTu9FncdwyyMkBK) | [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Bunda Irada](https://open.spotify.com/album/0WYlr0QO7D0Pr0y3xjNEjq) | 2:27 | 2024-04-05 |  |
 | [Cadê Aquele Nosso Amor \- Ao Vivo](https://open.spotify.com/track/422sUCkF4qs7gOImkoBhBw) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:04 | 2023-12-09 | 2024-03-02 |
 | [Caixa Postal](https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Caixa Postal](https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR) | 3:03 | 2023-09-01 |  |
 | [calma](https://open.spotify.com/track/5HDIwU7a2S5sfP7QMEgS9N) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Douglas Moda](https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 4:03 | 2023-11-10 | 2024-03-09 |

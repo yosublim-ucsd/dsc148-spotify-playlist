@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXRx4AFLjzB2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXRx4AFLjzB2)
 
-### [Spring Break Perreo Party](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
+### [Solar Eclipse Perreo Party](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
 
-> Perreo del bueno for your spring break party!
+> Perreo del bueno under the solar eclipse!
 
 302 songs - 17 hr 3 min
 

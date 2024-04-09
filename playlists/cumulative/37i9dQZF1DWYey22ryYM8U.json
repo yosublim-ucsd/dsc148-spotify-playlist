@@ -3012,6 +3012,28 @@
     {
       "album": {
         "name": "Lo Veo y No Lo Creo",
+        "url": "https://open.spotify.com/album/53oghpWRV5ghhgPmugXap3"
+      },
+      "artists": [
+        {
+          "name": "Willy Garcia",
+          "url": "https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200098,
+      "name": "Lo Veo y No Lo Creo",
+      "url": "https://open.spotify.com/track/6hGR9vRbM4ZQ5IiB9O16WZ"
+    },
+    {
+      "album": {
+        "name": "Lo Veo y No Lo Creo",
         "url": "https://open.spotify.com/album/3QVS8w8jQ4DBZdwAu6d25K"
       },
       "artists": [
@@ -4766,7 +4788,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 301388,
       "name": "Sin Fronteras",
       "url": "https://open.spotify.com/track/0EjGZf0b32jCa43xMkEt13"

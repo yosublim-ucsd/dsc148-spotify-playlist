@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,214 likes - 115 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,347 likes - 115 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 114 | [雄叫び](https://open.spotify.com/track/3jcW4gTJQQ5inpE8VxSSav) | [Yusuke](https://open.spotify.com/artist/0iWpuF3h43ZtZJxcUp8eti) | [雄叫び](https://open.spotify.com/album/68hM5eE9BgTn8AYhns8nug) | 3:41 |
 | 115 | [Future Eve](https://open.spotify.com/track/5B26nnZsdXY3KheV1oxo2M) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [欲望](https://open.spotify.com/album/1KRWNkaUdxDoEVgdUXfa76) | 3:52 |
 
-Snapshot ID: `MCw3YWZlNDkyZDM3YmY2OThjZDBkZWUwM2M4NTA4YjEwNDYxNGUwZDQ0`
+Snapshot ID: `MCwxNDNiYzkxNWVmMmU2MGE2ZmM2Y2U4OGQ4ZDFkMzNlNjExNmU1Mzhh`

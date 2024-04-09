@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-312 songs - 16 hr 58 min
+313 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Hey Snehithe](https://open.spotify.com/track/1vy1wvjZnGRy2jmI05n3C2) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Prarthana MA](https://open.spotify.com/artist/6OL8EER7m5R0WJYu1VMcvf), [Vihaan Arya](https://open.spotify.com/artist/3aV5EPIDyxtPmDe0PLaj7G), [Aneesh Poojari](https://open.spotify.com/artist/5HPROpmWawOVZh7atmOalE) | [Hey Snehithe](https://open.spotify.com/album/01RPjbea2bSnh45A4QJ9tH) | 2:37 | 2024-03-04 |  |
 | [Hogey](https://open.spotify.com/track/1dpbtaXrFGTlXL2HVxAFWz) | [A Spikey](https://open.spotify.com/artist/2xwx1HGL8LZtMIiZoq7TrK), [Loud Silence](https://open.spotify.com/artist/7rpgKYrHf6PqwG0ancMOVl), [Hi\-Polar](https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW) | [Hogey](https://open.spotify.com/album/1xEgorMZd60Bof9x0cdqaM) | 2:34 | 2023-08-09 | 2024-03-15 |
 | [Homecoming \(The Ayodhya Anthem\) \- Kannada](https://open.spotify.com/track/6SQAUBzXknH8EGJ4aynrSk) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG), [Malavika Rajhesh](https://open.spotify.com/artist/5Dspm3rX4DLj9YK6RFps93), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Homecoming \(The Ayodhya Anthem\) \[Kannada\]](https://open.spotify.com/album/2yIB0jJGqRMWlAQoZQ0F2r) | 4:55 | 2024-01-18 |  |
+| [Hosa Generation](https://open.spotify.com/track/3tvqY86xJ71qTyfJkyAkHV) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Hosa Generation](https://open.spotify.com/album/1e99mzhwSAi5Z60E20gP0k) | 2:06 | 2024-04-08 |  |
 | [Hot](https://open.spotify.com/track/62nk85CK7tWrCJpuegJ4mx) | [MJ Karthik](https://open.spotify.com/artist/3zb4TFlHgaLMU1AVbb2PJh) | [Hot](https://open.spotify.com/album/3UDgpaXNTcpWIMYHQSroEb) | 3:01 | 2024-02-14 |  |
 | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/track/06IGehC54CWNiupQEi8v9z) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/album/13qgAYlWQ9NyRhlmP4gr86) | 4:51 | 2023-12-08 | 2024-01-27 |
 | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/track/1NpuyaasFQawZTuXItBVbo) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/album/0OkFHiIQPeydk7D4TiiqpP) | 4:51 | 2023-12-08 |  |

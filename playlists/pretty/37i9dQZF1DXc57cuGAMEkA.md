@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Benson Boone, Doja Cat, Khalid, Conan Gray, なとり and more! cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,511 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,518 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 89 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 90 | [Viola Saga: Movement 2](https://open.spotify.com/track/2LryZ4IpqPYxQFAgYomJcA) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [ウィーン交響楽団](https://open.spotify.com/artist/45P7v25izf78nRf3bgfYI8), [アントワーヌ・タムスティ](https://open.spotify.com/artist/4OvFr49pX6XA0PE1EJChyu) | [Joe Hisaishi: Viola Saga: Movement 2](https://open.spotify.com/album/0OxOWGoixNZhaOYcSlYpOp) | 10:04 |
 
-Snapshot ID: `MCxkNmRmN2FjNDgyZWVlMjQxOGQ0YzcyZDA4ODNlYjk1NTk3YmMwMGE5`
+Snapshot ID: `MCxlMGM0NWEzMDY2ODNmN2JlYjdhMzRhNDVmN2ViMWRjOWVhYTJhNTA4`

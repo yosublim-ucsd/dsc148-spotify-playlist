@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,709 likes - 100 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,734 likes - 100 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 99 | [Ghetto Blaster](https://open.spotify.com/track/5e7Dene77ny6k4L52MdE7R) | [Majesty](https://open.spotify.com/artist/3FTvq0qIUHI7xnQHOdgp9y) | [Kumasi Music Vol\. 3](https://open.spotify.com/album/6TGkS2XmIiLDUpt6f3i55L) | 5:50 |
 | 100 | [Stop frontin’](https://open.spotify.com/track/5ZyzKU5JZ2C7WcZ4ZWQcjQ) | [Lawnchair Generals](https://open.spotify.com/artist/0umsJTZz5gpupXnmIdwnyj) | [You Got To](https://open.spotify.com/album/48XMe4kwx0LvBexkYyB4hi) | 7:12 |
 
-Snapshot ID: `MCw3ZmE4NTZhNGZjYjFjOTkzMDFiMjNkY2RlZjEwMjU1NGIzMjQwOTJk`
+Snapshot ID: `MCxlYmI1Mjg4OGFlNWU2ODVhMjNhZTcyNzQyYTFiNTI5ZTkwZjZmYzU0`

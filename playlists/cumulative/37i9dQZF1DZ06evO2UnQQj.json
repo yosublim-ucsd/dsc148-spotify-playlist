@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 184115,
       "name": "Al\u00e9m",
       "url": "https://open.spotify.com/track/6OykVbCM9nisoRLrnqtk21"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 150972,
       "name": "Devo P**** Nenhuma",
       "url": "https://open.spotify.com/track/6CNynqvkwLbM1CIumjX3KQ"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 148235,
       "name": "Mesmo Que Demore",
       "url": "https://open.spotify.com/track/6o3Zp5Khl1zGD2pd8ba5Xf"
@@ -954,6 +954,24 @@
       "duration_ms": 93379,
       "name": "Neg\u00f3cios",
       "url": "https://open.spotify.com/track/6l0j1MZGf9So2rGh49JU43"
+    },
+    {
+      "album": {
+        "name": "Transgress\u00e3o",
+        "url": "https://open.spotify.com/album/35FcgAKlBZl6sgChnxzv8n"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138099,
+      "name": "Nocaute",
+      "url": "https://open.spotify.com/track/34uD8vDuVl6mrZ2UcgOvra"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-681 songs - 1 day 13 hr 20 min
+682 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Again](https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Again](https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI) | 2:15 | 2023-03-04 | 2023-08-26 |
 | [Ain’t Nobody](https://open.spotify.com/track/0Ctpzuq446LGu8RVIQOFiJ) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis \(Deluxe Edition\)](https://open.spotify.com/album/5snWN07rioDJfH1hR8aITX) | 2:25 | 2023-09-22 | 2023-12-18 |
 | [ALIENS!](https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ALIENS!](https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj) | 4:18 | 2021-12-15 | 2022-07-29 |
+| [All A Dream](https://open.spotify.com/track/10RWFqvHZ9eMZFkLo0fbvW) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 2:28 | 2024-04-05 |  |
 | [All Bad](https://open.spotify.com/track/0G6ExlA2fcJIDGoayswUNT) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Never Story](https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd) | 4:51 | 2021-12-15 | 2022-04-05 |
 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-10-14 |  |
 | [all I'll do is love you more](https://open.spotify.com/track/14928p8uoAlqgb21MWAQsV) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [all I'll do is love you more](https://open.spotify.com/album/0NYUUTEcSnMplI7TgpRblO) | 2:31 | 2023-07-14 | 2023-11-11 |
@@ -502,7 +503,7 @@
 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 | 2023-08-04 |  |
 | [Requiem](https://open.spotify.com/track/2JydmjbQ7nGdVI6HbumkLA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 4:44 | 2023-05-26 |  |
 | [Risk](https://open.spotify.com/track/2QDFsehUg5Fui2LOVpCw3Q) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Risk](https://open.spotify.com/album/2yCpdo20DhxBEPsyt8RUz6) | 3:58 | 2021-12-15 | 2022-05-09 |
-| [ROAD RAGE \(feat\. Wakai\)](https://open.spotify.com/track/6VxLtT1zcFnQ9BnTXQqFo5) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [PINS & NEEDLES](https://open.spotify.com/album/5j2Q1mmOJY7LOfDJvcWS2u) | 2:29 | 2024-03-01 |  |
+| [ROAD RAGE \(feat\. Wakai\)](https://open.spotify.com/track/6VxLtT1zcFnQ9BnTXQqFo5) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [PINS & NEEDLES](https://open.spotify.com/album/5j2Q1mmOJY7LOfDJvcWS2u) | 2:29 | 2024-03-01 | 2024-04-09 |
 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2023-02-16 | 2023-12-09 |
 | [ROLLA](https://open.spotify.com/track/0E1ECahwlKkFkoi5uFHfRB) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [ROLLA](https://open.spotify.com/album/29FTSpA2recQP47Z4H6Qqm) | 3:52 | 2021-12-15 | 2022-07-06 |
 | [Running](https://open.spotify.com/track/1et9bfdvDHld2wPBZfT1OA) | [Nicotine](https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX) | [An Open Letter](https://open.spotify.com/album/2d1Mpponk9uBdLfM9pfH1i) | 4:07 | 2021-12-15 | 2022-04-20 |

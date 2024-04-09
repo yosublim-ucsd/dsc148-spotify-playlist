@@ -2,7 +2,7 @@
 
 ### [90's Pop Party](https://open.spotify.com/playlist/0BXZFUhCvDu1cTb1mX01ix)
 
-> Crank it, sing along, and relive the decade that brought some of the best hits! Cover: Shania Twain
+> Crank it, sing along, and relive the decade that brought some of the best hits! Cover: No Doubt
 
 80 songs - 5 hr 35 min
 

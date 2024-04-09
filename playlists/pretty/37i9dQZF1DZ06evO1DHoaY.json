@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2009090,
+  "num_followers": 2009387,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQ2YjlkYzEwMTUwMjEwMjFlMTgwYmRjMmYwNWRiZjFkNTVjZmQ3",
+  "snapshot_id": "MCwzYzRjMDBlNmI3OWY5ZmNlMjA4ZDc2NTM2OWFjMjVmMTc5ZjEwNzJj",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
       "duration_ms": 192680,
       "name": "Ambush In The Night",
       "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9"
     },
     {
       "added_at": null,

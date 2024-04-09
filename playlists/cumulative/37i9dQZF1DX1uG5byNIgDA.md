@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-390 songs - 21 hr 33 min
+391 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [everyday \(feat\. Sweet The Kid\)](https://open.spotify.com/track/7tDlC43QydYsP2V7slZDnm) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [everyday](https://open.spotify.com/album/43DXA6wOpw3aggaOntcCfa) | 3:14 | 2022-04-19 | 2022-04-21 |
 | [Eye 2 Eye \(PROD\. Caesar & Loui\)](https://open.spotify.com/track/3wJm4Eu1S5mTE53rQRN44V) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [ANOTHER](https://open.spotify.com/album/1x45vQjY21GuaouM2BA9xq) | 3:45 | 2022-03-23 | 2022-04-20 |
 | [Eyes & Lips](https://open.spotify.com/track/0uROxYvulGWKBRMrss7HUR) | [FOOL IN THE POOL](https://open.spotify.com/artist/0t3tdvuFolwBWVO5azzqqk) | [Flowering](https://open.spotify.com/album/1ZJIW5OQGZC3Cb6EScdoP5) | 2:59 | 2022-05-30 | 2022-06-08 |
+| [Fact Check](https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 | 2024-03-27 |  |
 | [Fade Away 니가 없는 \(Bonus Track\)](https://open.spotify.com/track/30px3jrgPn0Mp15xNpqN6t) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [kind](https://open.spotify.com/album/4yQBj0zxQx9ZCdlItG2znd) | 3:39 | 2022-03-23 | 2022-04-20 |
 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 | 2022-07-04 |  |
 | [FANCY](https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 3:33 | 2021-12-06 | 2022-06-05 |
@@ -280,7 +281,7 @@
 | [See you \- with Noair, Nason](https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG) | 3:06 | 2021-12-06 | 2022-07-29 |
 | [Send Me Your Sign \(feat\. B JYUN.\)](https://open.spotify.com/track/1KZf9I0BqRF5fY9b3hCiL6) | [Shoi](https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x), [Sof'boy Han](https://open.spotify.com/artist/1vxViNm5ccQtEdM7jIoo4x), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Cameo](https://open.spotify.com/album/6CFlFFEkaom8vEIQ0e9lle) | 2:41 | 2023-04-04 | 2023-04-27 |
 | [seoul](https://open.spotify.com/track/3M93OPU2yy22UK54z1u7vE) | [lily by](https://open.spotify.com/artist/1fGqEKeI0hFiz3prcEZJjO) | [seoul](https://open.spotify.com/album/1PDYblHgRp4aK3LsZ0cDIf) | 3:03 | 2022-02-16 | 2022-04-08 |
-| [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2024-03-27 |  |
+| [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2024-03-27 | 2024-04-09 |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2024-03-27 |  |
 | [She's In The Rain](https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/2rKkvzVCh5GD3yh5BYBJ4a) | 3:57 | 2021-12-06 | 2022-07-29 |
 | [She's In The Rain](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) | 3:57 | 2022-07-04 | 2023-01-04 |

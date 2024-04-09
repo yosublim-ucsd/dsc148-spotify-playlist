@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Mojjo
 
-275 songs - 14 hr 53 min
+276 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Inside \- Edit](https://open.spotify.com/track/0tLyDJaFJchA95KqqHcCZ9) | [Sharam Jey](https://open.spotify.com/artist/0k4tYg6N84bhZcd6tfNWXt), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Amazondas](https://open.spotify.com/artist/0kCVx9wT8OVupc7rvLzo3Y) | [Inside](https://open.spotify.com/album/1Mss70p4SsVGvj6N4bkkwM) | 3:38 | 2024-04-05 |  |
 | [Inside Your Head](https://open.spotify.com/track/4gyEEkiTjh3QMWP1KTkcUe) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX), [Vicentini](https://open.spotify.com/artist/6uWFAuJj9zE1sBash9M1Af) | [Inside Your Head](https://open.spotify.com/album/5Hk28tHH4i3yUjnSDYPC5b) | 3:19 | 2023-12-01 |  |
 | [Intentions](https://open.spotify.com/track/0VpCBofzHaTHmhdm78xTsN) | [CEVITH](https://open.spotify.com/artist/0R5cBqUk6GntjEAHrAQxjd), [SARRIA](https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY) | [Intentions](https://open.spotify.com/album/2BTDtKatM3SLC3Dz7BT7Bd) | 2:47 | 2023-07-21 | 2023-07-29 |
+| [Interestelar](https://open.spotify.com/track/2q0Aok603ZpxZNzyGAc8SW) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Lau de Prá](https://open.spotify.com/artist/0IQDW58CkNXAGsLx3DWcRt) | [Interestelar](https://open.spotify.com/album/7wkZJBKtUUdyr4peDi7NWw) | 3:03 | 2024-04-08 |  |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-09-11 | 2023-10-30 |
 | [Jacaré \- Cat Dealers Remix](https://open.spotify.com/track/17lUIaVkGcCRe8H5a9PBNi) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Jacaré \(Cat Dealers Remix\)](https://open.spotify.com/album/2PDfmMTmpW3DL0gTVlJ05i) | 2:50 | 2023-08-04 | 2023-11-11 |
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-08-25 | 2024-02-10 |

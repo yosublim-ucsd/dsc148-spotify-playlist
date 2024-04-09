@@ -1,13 +1,29 @@
 {
   "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Pony Bravo en portada.",
-  "num_followers": 45880,
+  "num_followers": 45889,
   "original_name": "Novedades Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjY0ZThiZTdlYzEzYjAzZTBjZGViNGYzMjI2OTE2ODJjODE5OWY2",
+  "snapshot_id": "MCxkN2FkMjdhN2YxZjE0NDFmYTBhZjA1ZDgzZTY2OTFmMTgyYjE3MDQ1",
   "tracks": [
+    {
+      "added_at": "2024-04-08 14:51:01",
+      "album": {
+        "name": "Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/7D23DUOpEAsO4vQybRZaKi"
+      },
+      "artists": [
+        {
+          "name": "Pony Bravo",
+          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Chich\u00e9n Itz\u00e1",
+      "url": "https://open.spotify.com/track/0PWfRHKBoBk3RhbT9CRt68"
+    },
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Ese Lugar de Ninguna Parte",
-        "url": "https://open.spotify.com/album/5dqPE0OJqJ37nEXMIj1eTI"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 232522,
-      "name": "Ese Lugar de Ninguna Parte",
-      "url": "https://open.spotify.com/track/4Ll0B5IkgX3tmuAhNlZD3g"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Fuentes de Ortiz",
         "url": "https://open.spotify.com/album/5wrVUSwflFFhS9QbgHFx75"
       },
@@ -755,62 +755,38 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Springs Eternal",
-        "url": "https://open.spotify.com/album/0uJRNa7jNGJhZLCFDDo44B"
+        "name": "Bulberizer / Bulbo Raqu\u00eddeo",
+        "url": "https://open.spotify.com/album/6cD7ZctaLWVlsN8eUfxEmD"
       },
       "artists": [
         {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        },
+        {
+          "name": "Bulberizer",
+          "url": "https://open.spotify.com/artist/1EfQ2xkvSqlF2e86zK0xQc"
         }
       ],
-      "duration_ms": 205750,
-      "name": "CYA",
-      "url": "https://open.spotify.com/track/35oXt4LFYI83b9Qrin0kcL"
+      "duration_ms": 192020,
+      "name": "Maldito",
+      "url": "https://open.spotify.com/track/01S2FhxrnSBavSoDb5NH6p"
     },
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Cosas de la edad (Aniversario)",
-        "url": "https://open.spotify.com/album/1K4fZ8pX7hvMj2FOQx1KsS"
+        "name": "Ese Lugar de Ninguna Parte",
+        "url": "https://open.spotify.com/album/5dqPE0OJqJ37nEXMIj1eTI"
       },
       "artists": [
         {
-          "name": "Modestia Aparte",
-          "url": "https://open.spotify.com/artist/6yPTzaskdKAAlLMdnw9IkM"
-        },
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        },
-        {
-          "name": "Conchita",
-          "url": "https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 147087,
-      "name": "Cosas de la edad - Aniversario",
-      "url": "https://open.spotify.com/track/7DGblEJrq5Lkd7Ml5YOQMq"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "En Vivo Estadio Obras",
-        "url": "https://open.spotify.com/album/7yoIFZZ7ilOycR23bQQLse"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 193762,
-      "name": "Demoliendo Hoteles - En Vivo",
-      "url": "https://open.spotify.com/track/3qjU5q5CJzhVFWz4K1Bfly"
+      "duration_ms": 232522,
+      "name": "Ese Lugar de Ninguna Parte",
+      "url": "https://open.spotify.com/track/4Ll0B5IkgX3tmuAhNlZD3g"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -839,22 +815,38 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Bulberizer / Bulbo Raqu\u00eddeo",
-        "url": "https://open.spotify.com/album/6cD7ZctaLWVlsN8eUfxEmD"
+        "name": "Springs Eternal",
+        "url": "https://open.spotify.com/album/0uJRNa7jNGJhZLCFDDo44B"
       },
       "artists": [
         {
-          "name": "Jessy Bulbo",
-          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
-        },
-        {
-          "name": "Bulberizer",
-          "url": "https://open.spotify.com/artist/1EfQ2xkvSqlF2e86zK0xQc"
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
         }
       ],
-      "duration_ms": 192020,
-      "name": "Maldito",
-      "url": "https://open.spotify.com/track/01S2FhxrnSBavSoDb5NH6p"
+      "duration_ms": 205750,
+      "name": "CYA",
+      "url": "https://open.spotify.com/track/35oXt4LFYI83b9Qrin0kcL"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "En Vivo Estadio Obras",
+        "url": "https://open.spotify.com/album/7yoIFZZ7ilOycR23bQQLse"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 193762,
+      "name": "Demoliendo Hoteles - En Vivo",
+      "url": "https://open.spotify.com/track/3qjU5q5CJzhVFWz4K1Bfly"
     }
   ],
   "unique_name": "Novedades Rock",

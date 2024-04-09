@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Sfg6tDxHc.md) - [plain]
 
 > Time to enjoy some mulled wine, a bag of roasted almonds, and a few classic Christmas carols.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,803 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,799 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Sfg6tDxHc.md) - [plain]
 | 43 | [The Linden Tree Carol](https://open.spotify.com/track/5YlwlNV59U0LfnGHjHL4VB) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Elora Festival Singers](https://open.spotify.com/artist/5nT4cLeFAQJszMSk06DvDy), [Noel Edison](https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy) | [The Mystery of Christmas](https://open.spotify.com/album/0RqXNvldA4k444jpai59He) | 1:41 |
 | 44 | [20 Polish Christmas Carols: Angels to the shepherds came](https://open.spotify.com/track/663mGg0YyMEZoPji2gOIO0) | [Witold Lutosławski](https://open.spotify.com/artist/5Ks8fS8lZJnTFbtvxkDOkM), [Olga Pasichnyk](https://open.spotify.com/artist/5RHCTR2Ux0jqeeiJqOjBbg), [Polish Radio Choir](https://open.spotify.com/artist/1rb7CB5Bi6Wh76dVfqZxP4), [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK), [Antoni Wit](https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh) | [Lutoslawski: 20 Polish Christmas Carols / Lacrimosa / 5 Songs](https://open.spotify.com/album/6OD7zZ6clBnICKozqRGHjJ) | 2:01 |
 
-Snapshot ID: `MCxlMDM0MGM2MTdkMWI0NWJmYTI0NGUyNTYxMDU5Y2Q5ZjNmNzc1OThi`
+Snapshot ID: `MCxjNDY2YzA2ZGJhZTY4NDgzNjcxNzExNWM0YWE1YmY3YzJlZGUzNDBi`

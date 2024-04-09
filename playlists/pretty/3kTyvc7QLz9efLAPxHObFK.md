@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 1,235 songs - 2 day 20 hr 38 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 1,239 songs - 2 day 20 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1243,5 +1243,9 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1233 | [AROUND THE WORLD](https://open.spotify.com/track/3mgQBnxRvpOVZ2dsYzxmsh) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l), [Michelle Barth](https://open.spotify.com/artist/4ypSIxnbDQtY4LjdzLS9DO) | [AROUND THE WORLD](https://open.spotify.com/album/7ecd07HBfKzESTmmRP18eG) | 2:55 |
 | 1234 | [OUR DESTRUCTION](https://open.spotify.com/track/5YwRFrawW6m3gQnnnbL5CO) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [OUR DESTRUCTION](https://open.spotify.com/album/1IiRHjrQnS8mkEbNSXo35H) | 3:16 |
 | 1235 | [Summer SZN](https://open.spotify.com/track/4UtWFn5sFfQUT8xbYbjTwU) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [Summer SZN](https://open.spotify.com/album/7LkbdAPrjF6WZocfiVxqCm) | 2:53 |
+| 1236 | [Tools In The Kitchen](https://open.spotify.com/track/1ScB34T3J0MJyl8SU1QYb5) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Tools In The Kitchen](https://open.spotify.com/album/7dgUHrkhklP8bh5ktKlrHd) | 3:22 |
+| 1237 | [Escape Reality](https://open.spotify.com/track/0atbwhxBGooLIHZ1rYxpAH) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Escape Reality](https://open.spotify.com/album/5zE1SU6TWe4qvewAI7uxfF) | 2:30 |
+| 1238 | [After You](https://open.spotify.com/track/1joE0VMxQgzefYW5gilve9) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [After You](https://open.spotify.com/album/7M0CG5GNZbxnFd3B1CQUEK) | 2:35 |
+| 1239 | [BRINGING THE THUNDER](https://open.spotify.com/track/7d3jBTp8rtAzLXdLDUYefS) | [Hatred](https://open.spotify.com/artist/3TvVKqrkgwoHXuj8r71GEJ), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd) | [BRINGING THE THUNDER](https://open.spotify.com/album/1yHbjNUnfrA5Wp6k4VXxrC) | 3:40 |
 
-Snapshot ID: `MTI3OCwyNzNkOGE3NmZhNmE3Nzg4NDA3NzI0NjA1YjQ4OTBjOThhM2I0OTI1`
+Snapshot ID: `MTI4Miw1ZmVmZDhiMWFhZGY2ZTNmMTU4MTBiMjdlYjFiNDhiMTI0MTNlZDNk`

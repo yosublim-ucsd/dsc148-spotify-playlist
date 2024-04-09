@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 168838,
+  "2024-04-09": 169032,
   "date_first_scraped": "2023-11-26",
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
   "name": "Vivo de Pop",
@@ -119,6 +119,24 @@
       "duration_ms": 213186,
       "name": "Cada Beso - Primera Fila",
       "url": "https://open.spotify.com/track/7LXoq0tHtpL3szSsqagc7K"
+    },
+    {
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/2xnZIjOmKQE4Wg2cMZKK1Q"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "Cama y Mesa - Primera Fila - En Vivo",
+      "url": "https://open.spotify.com/track/1ZiMa214IlQ3S4Iyu2XrE3"
     },
     {
       "album": {
@@ -789,7 +807,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 285320,
       "name": "Rosas - Directo Primera Fila",
       "url": "https://open.spotify.com/track/4Evx9DFFSCMJnUevhy4w7a"

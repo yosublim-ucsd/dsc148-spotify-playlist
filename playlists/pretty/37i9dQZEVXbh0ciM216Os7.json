@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MzgxNjAsMDAwMDAwMDBhNDY0ZjRiOTRkNDJjY2QwZWVjNGQyMzAxZmY4MzQ4Mw==",
+  "snapshot_id": "Mjg1MzgxNjAsMDAwMDAwMDBkYWMyMDgxZWI0NDFhY2IyN2IxYWE4ZGVmZDlkYzYwZA==",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -31,22 +31,6 @@
       "duration_ms": 96009,
       "name": "86Sentra",
       "url": "https://open.spotify.com/track/0CBPxBZNCCBC5k1eBRVgYH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Forever Young (Metal Version)",
-        "url": "https://open.spotify.com/album/0Mjq4iWRavgjK1TVKfx2Yf"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 298143,
-      "name": "Forever Young (Metal Version)",
-      "url": "https://open.spotify.com/track/4uwEnHkoc6Q4wXqKw9NNlB"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -99,6 +83,46 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "P.O.W.",
+        "url": "https://open.spotify.com/album/5sEjbG4vWNOgdMd1Gb9nmr"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne Collabos",
+          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Marley Young",
+          "url": "https://open.spotify.com/artist/3w6NsYwesEyDyr8Ep0yvIr"
+        }
+      ],
+      "duration_ms": 210619,
+      "name": "P.O.W.",
+      "url": "https://open.spotify.com/track/03BHehJeTFvjkIHBx5tks8"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Forever Young (Metal Version)",
+        "url": "https://open.spotify.com/album/0Mjq4iWRavgjK1TVKfx2Yf"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 298143,
+      "name": "Forever Young (Metal Version)",
+      "url": "https://open.spotify.com/track/4uwEnHkoc6Q4wXqKw9NNlB"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "SHAOLIN LESSONS",
         "url": "https://open.spotify.com/album/6cxoyK2Sg9MRculrDgX29f"
       },
@@ -115,6 +139,22 @@
       "duration_ms": 174285,
       "name": "SHAOLIN LESSONS",
       "url": "https://open.spotify.com/track/2XsaKckedWhjHdXIqfGbnk"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Unforgiven II",
+        "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 245274,
+      "name": "The Unforgiven II",
+      "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -143,6 +183,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Loaded Gun",
+        "url": "https://open.spotify.com/album/711LtIzRK3res78Qbvi11j"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Loaded Gun",
+      "url": "https://open.spotify.com/track/2kt75Q0nhLQRD3458eN5Mw"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "ASCENT",
         "url": "https://open.spotify.com/album/3HTOnKukMs0RuZwzPryPoY"
       },
@@ -163,62 +219,6 @@
       "duration_ms": 257966,
       "name": "SAME THANG",
       "url": "https://open.spotify.com/track/0HYU2joxo28fVeyCVBhxZW"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "P.O.W.",
-        "url": "https://open.spotify.com/album/5sEjbG4vWNOgdMd1Gb9nmr"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne Collabos",
-          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Marley Young",
-          "url": "https://open.spotify.com/artist/3w6NsYwesEyDyr8Ep0yvIr"
-        }
-      ],
-      "duration_ms": 210619,
-      "name": "P.O.W.",
-      "url": "https://open.spotify.com/track/03BHehJeTFvjkIHBx5tks8"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Loaded Gun",
-        "url": "https://open.spotify.com/album/711LtIzRK3res78Qbvi11j"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "Loaded Gun",
-      "url": "https://open.spotify.com/track/2kt75Q0nhLQRD3458eN5Mw"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Unforgiven II",
-        "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 245274,
-      "name": "The Unforgiven II",
-      "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -410,11 +410,15 @@
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 378652,
-      "name": "Autumn leaves / What\u2019s New / Moonlight in Vermont - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/0hIZZy30wPwAOYUhrDDZC8"
+      "duration_ms": 486763,
+      "name": "Rifftide - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/5H77RAVXaLRG4Kl90614O9"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -476,9 +480,9 @@
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/2dPo9buiY2Vx1q7zKMCuFE"
+      "duration_ms": 179010,
+      "name": "One Finger Snap",
+      "url": "https://open.spotify.com/track/439PR1QLYBLZujThn3TQ0I"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -519,26 +523,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "dark days",
-        "url": "https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        }
-      ],
-      "duration_ms": 212613,
-      "name": "dark days",
-      "url": "https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Lighter (Galantis & Misha K VIP Mix)",
         "url": "https://open.spotify.com/album/1rLu0gC8WKV5CXwmQw1dgN"
       },
@@ -563,6 +547,26 @@
       "duration_ms": 173151,
       "name": "Lighter - Galantis & Misha K VIP Mix",
       "url": "https://open.spotify.com/track/1V5MmyrbzDQNjR3iX3JQ0v"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "dark days",
+        "url": "https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 212613,
+      "name": "dark days",
+      "url": "https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO"
     },
     {
       "added_at": "2024-04-05 04:00:00",

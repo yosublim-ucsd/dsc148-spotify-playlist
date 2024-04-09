@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "After You",
+        "url": "https://open.spotify.com/album/7M0CG5GNZbxnFd3B1CQUEK"
+      },
+      "artists": [
+        {
+          "name": "Maltorian",
+          "url": "https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155636,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/1joE0VMxQgzefYW5gilve9"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/3cmlOsjIMPoUVvWHQ1WPwX"
       },
@@ -3198,6 +3216,28 @@
       "duration_ms": 280363,
       "name": "Bring \u2019Em (Deadlock Remix)",
       "url": "https://open.spotify.com/track/0d02T4RUKKLrXNLo0pykwT"
+    },
+    {
+      "album": {
+        "name": "BRINGING THE THUNDER",
+        "url": "https://open.spotify.com/album/1yHbjNUnfrA5Wp6k4VXxrC"
+      },
+      "artists": [
+        {
+          "name": "Hatred",
+          "url": "https://open.spotify.com/artist/3TvVKqrkgwoHXuj8r71GEJ"
+        },
+        {
+          "name": "MBK",
+          "url": "https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220571,
+      "name": "BRINGING THE THUNDER",
+      "url": "https://open.spotify.com/track/7d3jBTp8rtAzLXdLDUYefS"
     },
     {
       "album": {
@@ -6548,6 +6588,24 @@
       "duration_ms": 227003,
       "name": "Escape From Reality",
       "url": "https://open.spotify.com/track/4YI8DJwDRMiAySMwruqUXQ"
+    },
+    {
+      "album": {
+        "name": "Escape Reality",
+        "url": "https://open.spotify.com/album/5zE1SU6TWe4qvewAI7uxfF"
+      },
+      "artists": [
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150475,
+      "name": "Escape Reality",
+      "url": "https://open.spotify.com/track/0atbwhxBGooLIHZ1rYxpAH"
     },
     {
       "album": {
@@ -22718,6 +22776,28 @@
       "duration_ms": 191151,
       "name": "Too Late To Turn Back",
       "url": "https://open.spotify.com/track/3cBtpm3w3PzqCqXxVdEHil"
+    },
+    {
+      "album": {
+        "name": "Tools In The Kitchen",
+        "url": "https://open.spotify.com/album/7dgUHrkhklP8bh5ktKlrHd"
+      },
+      "artists": [
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        },
+        {
+          "name": "Tharken",
+          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Tools In The Kitchen",
+      "url": "https://open.spotify.com/track/1ScB34T3J0MJyl8SU1QYb5"
     },
     {
       "album": {

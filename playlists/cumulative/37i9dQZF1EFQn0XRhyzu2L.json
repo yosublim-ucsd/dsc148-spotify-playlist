@@ -6525,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "DON'T TAKE THIS SERIOUS Vol.2",
+        "url": "https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD"
+      },
+      "artists": [
+        {
+          "name": "BeaRSawse",
+          "url": "https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189779,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ"
+    },
+    {
+      "album": {
         "name": "People Can Change",
         "url": "https://open.spotify.com/album/5VR3ZzZuM7c4LaHu1vjOBV"
       },

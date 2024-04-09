@@ -2304,7 +2304,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 188682,
       "name": "Buddy Buddy",
       "url": "https://open.spotify.com/track/4gACAiWLKEZS7Y9YbAKQdi"
@@ -11129,6 +11129,24 @@
     },
     {
       "album": {
+        "name": "Say It To Yourself",
+        "url": "https://open.spotify.com/album/3p4IiDJBZ8Trs09m0kMJXC"
+      },
+      "artists": [
+        {
+          "name": "Touchline",
+          "url": "https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251999,
+      "name": "Say It To Yourself",
+      "url": "https://open.spotify.com/track/5XJYqaSOlo3kkIBcuVdzNo"
+    },
+    {
+      "album": {
         "name": "Say Wit Yoh Chest Out",
         "url": "https://open.spotify.com/album/01Wgbssjmj73g3FOmxKeBv"
       },
@@ -12666,7 +12684,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 192296,
       "name": "Sundphazamisa",
       "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"

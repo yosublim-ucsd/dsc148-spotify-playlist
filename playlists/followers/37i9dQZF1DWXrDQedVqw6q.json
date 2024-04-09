@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 465843,
+  "2024-04-09": 465943,
   "date_first_scraped": "2022-04-20",
   "description": "Calm music to help you focus on your reading.",
   "name": "Reading Chill Out",
@@ -2170,6 +2170,24 @@
     },
     {
       "album": {
+        "name": "Shades Of Blue",
+        "url": "https://open.spotify.com/album/0Z8JYZ53hGWikbBi7oweM6"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Lambert",
+          "url": "https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198874,
+      "name": "Shades Of Blue",
+      "url": "https://open.spotify.com/track/6rSdbPDYjitI1uUWd94SJs"
+    },
+    {
+      "album": {
         "name": "Silent joy",
         "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
       },
@@ -2257,6 +2275,24 @@
       "duration_ms": 215574,
       "name": "Sleep Quiz",
       "url": "https://open.spotify.com/track/4EzwRp1nDzCe7LeQI3cNmu"
+    },
+    {
+      "album": {
+        "name": "Sleepland Calls",
+        "url": "https://open.spotify.com/album/1HQ24owiNx06kLfVO4RZLB"
+      },
+      "artists": [
+        {
+          "name": "Junius Clyde",
+          "url": "https://open.spotify.com/artist/0RvljygdcU5lXCCnNMwAGU"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Sleepland Calls",
+      "url": "https://open.spotify.com/track/4W43CPbWUe9sG6K8ET0ydw"
     },
     {
       "album": {
@@ -3231,6 +3267,24 @@
       "duration_ms": 142063,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV"
+    },
+    {
+      "album": {
+        "name": "Weightless Moments",
+        "url": "https://open.spotify.com/album/0hlW6PxO25DJR95MLLWxFd"
+      },
+      "artists": [
+        {
+          "name": "Matt van Stern",
+          "url": "https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161874,
+      "name": "Weightless Moments",
+      "url": "https://open.spotify.com/track/430S5jXFtVzLvDY14M8UiM"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 147824,
+  "2024-04-09": 147871,
   "date_first_scraped": "2022-06-02",
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
   "name": "This Is Cardenales De Nuevo Le\u00f3n",
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 167880,
       "name": "El Se\u00f1or De Las Canas",
       "url": "https://open.spotify.com/track/5fnLEufeYsIAK7n7BiqBuY"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 199226,
       "name": "La Baraja",
       "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 193666,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 185650,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/1gNzBRLuAKNZNf7zAp59cD"

@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-241 songs - 14 hr 43 min
+242 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Choosthunna Choosthunna](https://open.spotify.com/track/1KSM8nh7qcMk9DC9BxyMKt) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [From The Bottom of My Heart](https://open.spotify.com/album/5uLM5Pxs42aenO0tcqoYNP) | 3:17 | 2023-03-01 | 2023-06-20 |
 | [Chusaane Eevele](https://open.spotify.com/track/46Um0yvfG4sTaqZMGZdVq6) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Chusaane Eevele](https://open.spotify.com/album/5khSYBDWpdAiglRtrMCIba) | 3:07 | 2023-05-08 | 2024-01-04 |
 | [Chusaane Eevele](https://open.spotify.com/track/5xB8uAKjvql9Hfz84G4z2E) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Chusaane Eevele](https://open.spotify.com/album/2Tg3MXvSWCkJ4tFf40fdLQ) | 3:07 | 2023-05-08 | 2024-03-27 |
-| [Chusuko](https://open.spotify.com/track/0Naz1VxWjkVV5qcLrtiDGy) | [Anvesh Rao Kagitala](https://open.spotify.com/artist/3D6RCMROowyiD8tHKdKpOn), [Yasaswi Kondepudi](https://open.spotify.com/artist/3ceCS03lkWe0Zlxe2r22mj), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Chusuko](https://open.spotify.com/album/6d2U54GVNlx9Utip7qyE7F) | 3:59 | 2024-02-26 |  |
+| [Chusuko](https://open.spotify.com/track/0Naz1VxWjkVV5qcLrtiDGy) | [Anvesh Rao Kagitala](https://open.spotify.com/artist/3D6RCMROowyiD8tHKdKpOn), [Yasaswi Kondepudi](https://open.spotify.com/artist/3ceCS03lkWe0Zlxe2r22mj), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Chusuko](https://open.spotify.com/album/6d2U54GVNlx9Utip7qyE7F) | 3:59 | 2024-02-26 | 2024-04-09 |
 | [Daawath](https://open.spotify.com/track/3Bv6Jghbq72NqEqWnkqUOj) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Daawath](https://open.spotify.com/album/2RGBGad3aW0SxVDuMZf4tV) | 4:05 | 2022-07-18 | 2023-10-05 |
 | [Dhom Thana](https://open.spotify.com/track/0tSTu2qPEFmK2QBzKRLuxk) | [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Dhom Thana](https://open.spotify.com/album/2rrcsYWGUOZ6JxBLHPlXU4) | 3:38 | 2022-07-18 | 2023-05-23 |
 | [Don't Care](https://open.spotify.com/track/5uS1kRmoUBwUQQWNCJfdA8) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0) | [Don't Care](https://open.spotify.com/album/2VsrTgf8EkXamAUJK80dj1) | 3:35 | 2023-09-27 | 2024-02-21 |
@@ -74,6 +74,7 @@
 | [Intermediate](https://open.spotify.com/track/3sIEDEQCVtSdsJSuBrkTwX) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Intermediate](https://open.spotify.com/album/4tZszXN6ekajeIsZltJCon) | 5:40 | 2024-02-09 |  |
 | [Inthena Inthena](https://open.spotify.com/track/4YbQwnwgbTg7eIq10oB9No) | [Maruthi Kodimoju](https://open.spotify.com/artist/6NB8Z3w2Ti8Rwf2DYhS6Ag) | [Inthena Inthena](https://open.spotify.com/album/2p3b6wCV1MNfG6nXSmbbiq) | 3:50 | 2023-03-07 | 2023-06-05 |
 | [Jimpak Chipak](https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF) | [MC Mike](https://open.spotify.com/artist/3fJeUWROZ8RmlLHDWTtqYo), [MC Uneek](https://open.spotify.com/artist/5V59VPRPHoUasr8KOncBne), [Om Sripathi](https://open.spotify.com/artist/6cHpt2n70Z4fNJdkP7r13T) | [Jimpak Chipak](https://open.spotify.com/album/5Bl77fvZRxNfEkudOcjgaT) | 3:07 | 2022-07-18 | 2024-01-20 |
+| [Kaalaale](https://open.spotify.com/track/51u6ywNUr5EhTpBfllwrSN) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0), [Jyoti Kavi](https://open.spotify.com/artist/7HeMDT4UyuKc3NNQBvpZnN) | [Kaalaale](https://open.spotify.com/album/7zuoO7Uhrb8ALzLT9bRlp0) | 3:38 | 2024-04-08 |  |
 | [Kaalam Karigee Vela](https://open.spotify.com/track/0ORgN49uMzjQXQzPDo02kg) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce) | 3:05 | 2023-05-26 | 2024-01-05 |
 | [Kaalam Karigee Vela](https://open.spotify.com/track/4H4xbEw7snbrhkyZx73xPN) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/62nW8JpmhiafjI7PveQ2dp) | 3:05 | 2023-05-26 | 2024-02-22 |
 | [Kaatuka Kallakettinaave](https://open.spotify.com/track/6oi7mBSvwYHOy0uX1yrQSc) | [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Kaatuka Kallakettinaave](https://open.spotify.com/album/7ET4tUowUafTghbMn0FxhC) | 3:19 | 2022-07-18 | 2024-03-09 |

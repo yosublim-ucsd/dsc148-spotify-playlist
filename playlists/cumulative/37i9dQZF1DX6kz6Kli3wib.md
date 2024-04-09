@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-319 songs - 15 hr 16 min
+324 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Cruisin](https://open.spotify.com/track/05IEDJVQnFPggjAD0o0vB4) | [4TB](https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF) | [Cruisin](https://open.spotify.com/album/7tPX59Ir4f3TlYxAHabC4V) | 2:25 | 2022-11-25 |  |
 | [Crystals](https://open.spotify.com/track/02o4X4FcJr6YeDxsNypNrY) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Crystals](https://open.spotify.com/album/00jgyv6zuR4TrBNJubM84f) | 2:19 | 2022-11-25 |  |
 | [Currency Trades](https://open.spotify.com/track/27d3IGNbhYjppkLeDiyW5x) | [heffaa](https://open.spotify.com/artist/4wy8oQqp8igwjgKNMJEMY8) | [Currency Trends](https://open.spotify.com/album/1duJs27pAntlZDI8aJAJ8o) | 2:16 | 2024-01-23 |  |
+| [Daisy Chain](https://open.spotify.com/track/5mKE6oHgWbwShWtmZffxXM) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Daisy Chain](https://open.spotify.com/album/5Tyk3ptgEUblUxj4sQWHdn) | 2:14 | 2024-04-08 |  |
 | [Deep Deep Waters](https://open.spotify.com/track/6vkn2C9DRfYh8YeIo8O9VH) | [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [Deep Deep Waters](https://open.spotify.com/album/2xTnT76L2MKnoUOWlVBJpG) | 3:47 | 2023-01-20 | 2023-05-06 |
 | [Degrees](https://open.spotify.com/track/7MKGzP89oekcEczUyKdjSs) | [Pocket Nine](https://open.spotify.com/artist/50EEE2w7CNIP7RDQuewOPU) | [Degrees](https://open.spotify.com/album/5hKWCcrzBHkmEdFnSSAmeR) | 2:29 | 2023-07-06 |  |
 | [detour](https://open.spotify.com/track/3cH2o1jJ13v2U1o1nbGUNW) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [detour](https://open.spotify.com/album/3W42O1LosXXhBD1d5N5TQH) | 2:57 | 2022-06-24 |  |
@@ -159,6 +160,7 @@
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2021-11-11 |  |
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2021-11-11 |  |
 | [Lifesaver](https://open.spotify.com/track/0ErNDv1Ki7vVXlWPUoEVC0) | [Adam Doschki](https://open.spotify.com/artist/6Srxg2LqSxDvLlgxWkvUzO) | [Lifesaver](https://open.spotify.com/album/0xuZTpvDmtYL3ychCXbNHl) | 1:46 | 2021-11-11 | 2022-04-06 |
+| [liftoff](https://open.spotify.com/track/43jB6dC4u4x74H0HQ7C1OT) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [liftoff](https://open.spotify.com/album/4obMmY8hJ3h3VoJYXlXAvU) | 2:28 | 2024-04-08 |  |
 | [Limoncello](https://open.spotify.com/track/3hiMfIXRuD4OAjD6F5VLQb) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Limoncello](https://open.spotify.com/album/1mUX9DSCKssZvL9SAJiaR3) | 2:26 | 2022-07-15 |  |
 | [Little Miss Universe](https://open.spotify.com/track/1Ec6Duf5AmAmPGFwEzJkv4) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Little Miss Universe](https://open.spotify.com/album/5IHkFNd44rqOD7cF4jMid1) | 3:23 | 2022-05-20 | 2022-09-09 |
 | [Little Things](https://open.spotify.com/track/4ITZMLhFDxgoH8b4dWAqkB) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Little Things](https://open.spotify.com/album/7CoUgGrEeQ87OjzYwvrLKn) | 2:43 | 2023-10-02 |  |
@@ -273,6 +275,7 @@
 | [Sultry Sun](https://open.spotify.com/track/0eVgyPTBj8yNjN2eaUiAVr) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Sultry Sun](https://open.spotify.com/album/1LUNQlnOc4fJUAuY5elK5q) | 3:00 | 2023-11-17 |  |
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2022-07-08 |  |
 | [Summertime Love](https://open.spotify.com/track/2h1OAlUkaqGlUdiCsfWy0P) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Summertime Love](https://open.spotify.com/album/0LcN6YlgfKqBqvdpB29JNM) | 3:20 | 2021-11-11 |  |
+| [Sun Deck](https://open.spotify.com/track/0Or4VHtJbcMgDsGrrke9Iw) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Sun Deck](https://open.spotify.com/album/2Fzv0zJXyty88CJn0NQJ0l) | 3:05 | 2024-04-08 |  |
 | [Sun Glitches](https://open.spotify.com/track/4J9HHafhgC42Dm18pJUIQo) | [Dream Lanterns](https://open.spotify.com/artist/4gpy3xS2i5lM4Yopidaimg) | [Sun Glitches](https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h) | 4:01 | 2021-11-11 | 2022-02-11 |
 | [Sunday Things](https://open.spotify.com/track/6LJG84ULDJA9Q1bwEKzkTT) | [Leon FM](https://open.spotify.com/artist/4Yc8THLLISQc6PwYxM1yu1) | [Sunday Things](https://open.spotify.com/album/10k3XBRyUNgr2if36KYXgB) | 2:19 | 2023-11-24 |  |
 | [sunique](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [sunique](https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH) | 3:08 | 2021-11-11 |  |
@@ -290,6 +293,7 @@
 | [The Propeller \- Chill out Mix](https://open.spotify.com/track/10ydbGi9AazOlYGrr1MgHU) | [Deep Diggaz](https://open.spotify.com/artist/5cYytmWSIOZxcTcid2FQ7c) | [The Propeller \(Chill out Mix\)](https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu) | 2:48 | 2021-11-11 | 2023-08-12 |
 | [Tidal Coasts](https://open.spotify.com/track/2zSahxci13KeL5m8ec3yOf) | [Under Neon Skies](https://open.spotify.com/artist/1VU82xmzJyRHGD4IqNKC2H) | [Tidal Coasts](https://open.spotify.com/album/4NYj1xsoq63bVA7mCGm99F) | 3:08 | 2021-11-11 |  |
 | [Tikka](https://open.spotify.com/track/6u71jQ49gijuHiDKMGyjdA) | [Wandsworth](https://open.spotify.com/artist/1HRgXaepsBT07n30t1RpiX) | [Tikka](https://open.spotify.com/album/3oVmNykBqgixGyvvBrN1u1) | 2:08 | 2024-01-23 |  |
+| [Tilting at Sunsets](https://open.spotify.com/track/0XLr0SUlFHaZRM8NAzLk4S) | [makers mask](https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9) | [Tilting at Sunsets](https://open.spotify.com/album/3AcyJaROcc6Blx0nVTqVyg) | 2:39 | 2024-04-08 |  |
 | [Time & Space](https://open.spotify.com/track/65PJ7AIFK8gAp1XxDYO1Hl) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Time and Space](https://open.spotify.com/album/5RQA3FWGZs8f6S90umCeDA) | 4:02 | 2021-11-11 | 2022-05-20 |
 | [Time Imprisoned](https://open.spotify.com/track/0LbCtG6IBveEF7MejHErAM) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Time Imprisoned](https://open.spotify.com/album/679DOisO4TQwg5UR3WKWP5) | 2:50 | 2022-06-17 |  |
 | [Timshel](https://open.spotify.com/track/57I8KVxB1hLmjgkmif49kB) | [Verdacci](https://open.spotify.com/artist/3qmIRttgBXWlN3T7frBg1e) | [Timshel](https://open.spotify.com/album/2rAnRq1iKlxJLGJCfJQlKJ) | 3:17 | 2023-06-23 |  |
@@ -325,6 +329,7 @@
 | [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2021-11-11 |  |
 | [You Make Winter Warm](https://open.spotify.com/track/4HxJ9Kxpaz8JUHQZRQmDYZ) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [You Make Winter Warm](https://open.spotify.com/album/3UIqGVxbKI4t0tJ0v7jshj) | 3:28 | 2024-02-13 |  |
 | [Zenith](https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 2:47 | 2022-01-21 | 2023-06-24 |
+| [zermatt](https://open.spotify.com/track/1njUdpi7jrLoq1CO79FKDr) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [zermatt](https://open.spotify.com/album/0uWt7JyjEgoX04b405wosk) | 2:35 | 2024-04-08 |  |
 | [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 | 2023-01-06 |  |
 | [Été](https://open.spotify.com/track/4faQsCXVnzLa2yITblP9ow) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Été](https://open.spotify.com/album/46XuT3p7wL8ojiHImiXatz) | 3:37 | 2022-06-17 |  |
 

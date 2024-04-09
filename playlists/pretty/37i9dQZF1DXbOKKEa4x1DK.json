@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 2359,
+  "num_followers": 2384,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmQ4MzBjNTI5YjM4ZDU4OWQyOGI0ZjMxZDdkNTRmZjQ4NzM2NzI1",
+  "snapshot_id": "MCw2OWI5ZDEzYWQ5ZjM4MGJkYzBlMTNlNDhmN2RkMDViYTVjY2Y3NzUw",
   "tracks": [
     {
       "added_at": "2024-03-28 01:30:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 280920,
-      "name": "Demasiado Romantica",
-      "url": "https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "Mis Exitos Vol.1",
         "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 246600,
       "name": "La Fotografia",
       "url": "https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 280920,
+      "name": "Demasiado Romantica",
+      "url": "https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -207,22 +207,6 @@
       "duration_ms": 237560,
       "name": "Que Levante la Mano",
       "url": "https://open.spotify.com/track/0zg7eikeFzJg2GZcNZi24l"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "Los A\u00f1os Dorados de Sergio Vargas",
-        "url": "https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "Si Alg\u00fan D\u00eda la Ves",
-      "url": "https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -291,6 +275,22 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
+        "name": "Los A\u00f1os Dorados de Sergio Vargas",
+        "url": "https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 284866,
+      "name": "Si Alg\u00fan D\u00eda la Ves",
+      "url": "https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi"
       },
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Mi Propuesta 1996",
-        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 279680,
-      "name": "Ni Tu Ni Yo",
-      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "20 Exitos Originales",
         "url": "https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1"
       },
@@ -391,22 +375,6 @@
       "duration_ms": 220573,
       "name": "Cuando Est\u00e9s Con \u00c9l",
       "url": "https://open.spotify.com/track/6BOhbcfVzsNpIJ1dJYa47X"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "Por un Poco de Tu Amor",
-        "url": "https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Que Pasara",
-      "url": "https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -459,18 +427,34 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+        "name": "Mi Propuesta 1996",
+        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 226440,
-      "name": "Me Arrepiento",
-      "url": "https://open.spotify.com/track/2mImo5tRWlJrd7a1kl176n"
+      "duration_ms": 279680,
+      "name": "Ni Tu Ni Yo",
+      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Por un Poco de Tu Amor",
+        "url": "https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Que Pasara",
+      "url": "https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -491,18 +475,18 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Vete y Dile",
-        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 296586,
-      "name": "Vete y Dile",
-      "url": "https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7"
+      "duration_ms": 226440,
+      "name": "Me Arrepiento",
+      "url": "https://open.spotify.com/track/2mImo5tRWlJrd7a1kl176n"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -519,6 +503,22 @@
       "duration_ms": 257426,
       "name": "Mi Tonto Amor",
       "url": "https://open.spotify.com/track/6UEAh3AEbOMhgyH6OT8pDl"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Vete y Dile",
+        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Vete y Dile",
+      "url": "https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Otro Dia Mas Sin Verte",
-        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
-      },
-      "artists": [
-        {
-          "name": "Sandy Reyes",
-          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
-        }
-      ],
-      "duration_ms": 287623,
-      "name": "Mi Novia, Mi Amante y Mujer",
-      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "Resistire",
         "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
       },
@@ -615,6 +599,38 @@
       "duration_ms": 310226,
       "name": "Resistire",
       "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 303293,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Otro Dia Mas Sin Verte",
+        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
+      },
+      "artists": [
+        {
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+        }
+      ],
+      "duration_ms": 287623,
+      "name": "Mi Novia, Mi Amante y Mujer",
+      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 303293,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "La Negra Mia",
         "url": "https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 213545,
       "name": "La Casa de Ramon",
       "url": "https://open.spotify.com/track/6ZGEQPicVG2ERQE763HBAm"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Exclusivo",
+        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -767,22 +783,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Exclusivo",
-        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 247120,
       "name": "Coraz\u00f3n De Nadie",
       "url": "https://open.spotify.com/track/4PtTs7pmraBdfXCYs0qSvn"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Me Olvide de Vivir",
+        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 337800,
+      "name": "Donde",
+      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Caliente",
-        "url": "https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 306266,
-      "name": "Llego Tu Marido",
-      "url": "https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "I Love Urbano 2011 (Dembow - Mambo - Reggaeton - Merengue Urbano)",
         "url": "https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj"
       },
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Me Olvide de Vivir",
-        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1"
       },
       "artists": [
         {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 337800,
-      "name": "Donde",
-      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
+      "duration_ms": 306266,
+      "name": "Llego Tu Marido",
+      "url": "https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B"
     }
   ],
   "unique_name": "Merengue De Amor",

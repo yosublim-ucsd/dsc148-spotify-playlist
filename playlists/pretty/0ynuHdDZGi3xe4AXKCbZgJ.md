@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ynuHdDZGi3xe4AXKCbZgJ.md) - [plain]
 
 > Fugitive flavored trauma
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 7 songs - 25 min 21 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 8 songs - 29 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,5 +15,6 @@ pretty - [cumulative](/playlists/cumulative/0ynuHdDZGi3xe4AXKCbZgJ.md) - [plain]
 | 5 | [Bad Child](https://open.spotify.com/track/1qCmZnC1FUpNgOydIzqIPC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Bad Child/Can't Be Happy All The Time](https://open.spotify.com/album/6Z7DGRyzIlsq7kXNXQF3Yd) | 3:41 |
 | 6 | [Bulletproof Heart](https://open.spotify.com/track/2EGF4JrisrJ4D4HOdTyYEO) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:56 |
 | 7 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 |
+| 8 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 |
 
-Snapshot ID: `MTAsMmM5YzNkZWE4ZmUxOWMyMzczYjgzNmM0ZTQ4N2NmYWJkMDBhMzc4Nw==`
+Snapshot ID: `MTEsNzExYjM2ZTg4NDBkMzk0MWQ4NmZiYmM4OWZiZWMxZWZjYjQwYzNhZA==`

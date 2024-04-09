@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 105619,
+  "2024-04-09": 105634,
   "date_first_scraped": "2023-02-25",
   "description": "Luister naar nieuwe songs en hits van dit moment! Cover: Imagine Dragons",
   "name": "Stay Tuned!",
@@ -925,10 +925,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 235106,
       "name": "Brothers And Sisters",
       "url": "https://open.spotify.com/track/4srsFockSV7zNZjSbvbkML"
+    },
+    {
+      "album": {
+        "name": "Brothers & Sisters",
+        "url": "https://open.spotify.com/album/2VmcCIkNH8csGrM5ztrs4T"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235106,
+      "name": "Brothers And Sisters",
+      "url": "https://open.spotify.com/track/6YWjxol9LN0KbJHfgJ6aMe"
     },
     {
       "album": {

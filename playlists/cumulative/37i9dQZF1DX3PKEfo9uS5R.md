@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-224 songs - 11 hr 21 min
+229 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Biscuit](https://open.spotify.com/track/5cPmiWqjOg48GPxBdKjzGo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Cool Sneakers](https://open.spotify.com/album/6CLLHgPGTWJ0HfNy9Ob8gD) | 2:59 | 2021-11-11 | 2022-09-02 |
 | [Biting](https://open.spotify.com/track/3VR8hpmEvOMxW3nM4TNoBM) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Biting](https://open.spotify.com/album/3wo2lUtYASfyHEQbYxEosQ) | 2:46 | 2023-03-24 |  |
 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 | 2021-11-11 | 2023-09-23 |
+| [Blissful Drift](https://open.spotify.com/track/069eAD3fJhtbAnkEEIb72E) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Blissful Drift](https://open.spotify.com/album/5QUuc1SEcM5tAx44E0eH85) | 2:06 | 2024-04-09 |  |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2021-11-11 |  |
 | [Body & Mind](https://open.spotify.com/track/66g8tZeyTA6RK4eZhq8VHn) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Body & Mind](https://open.spotify.com/album/74WLWBBSOIoQh3Xbzv631P) | 2:11 | 2024-03-26 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2021-11-11 | 2023-03-10 |
@@ -56,10 +57,11 @@
 | [Duane](https://open.spotify.com/track/6OFnPWtW3pANhBtcG8orIg) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Duane](https://open.spotify.com/album/51Hqtsc3EsOYeDIuYunnjd) | 3:12 | 2023-03-31 | 2023-10-13 |
 | [easy](https://open.spotify.com/track/3fcJHP9P1Jipkv9UBQZNTh) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [easy](https://open.spotify.com/album/2xwuLtS6WGvYyphK7N7CYk) | 2:19 | 2023-04-07 |  |
 | [Equilibrium](https://open.spotify.com/track/6QNjAO54fSs8bZzF15wyVa) | [Moodyou](https://open.spotify.com/artist/76nnxHmvCdI2qqm4gHdOXH) | [Equilibrium](https://open.spotify.com/album/20MeBKAO12VIiRJlYH5pPO) | 2:33 | 2023-12-01 |  |
+| [Eventide Hours](https://open.spotify.com/track/1N3vQGr7C8eSk9ApS671J7) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Eventide Hours](https://open.spotify.com/album/0RLml74Al1iOsz6piU7tcE) | 3:12 | 2024-04-09 |  |
 | [Extrinsic](https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Picturesque](https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe) | 5:23 | 2021-11-11 | 2022-05-20 |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-11 |  |
 | [Faro](https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V) | [Afonso Jardim](https://open.spotify.com/artist/42tsH6bAB8RIb2qAZ2Y612) | [Faro](https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4) | 2:23 | 2021-11-11 | 2022-07-01 |
-| [Fast Friends](https://open.spotify.com/track/55SNJ5c6P2s9qoBjBSAJbq) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Low Tide](https://open.spotify.com/album/0KYdYU0aQoFid6Bx5Vp4WE) | 2:20 | 2023-06-19 |  |
+| [Fast Friends](https://open.spotify.com/track/55SNJ5c6P2s9qoBjBSAJbq) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Low Tide](https://open.spotify.com/album/0KYdYU0aQoFid6Bx5Vp4WE) | 2:20 | 2023-06-19 | 2024-04-09 |
 | [Feelin' Good](https://open.spotify.com/track/0wuL0yacecXr7gpFu6OZOV) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Feelin' Good](https://open.spotify.com/album/29pO1732siF8fnDt53XRQb) | 2:43 | 2023-03-10 |  |
 | [Feuilles](https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Feuilles](https://open.spotify.com/album/739JpDz78mPc7hTX0zLvhN) | 2:33 | 2021-11-11 | 2023-03-10 |
 | [Five Minutes](https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Five Minutes](https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8) | 3:12 | 2021-11-11 |  |
@@ -67,6 +69,7 @@
 | [Floating Secret](https://open.spotify.com/track/2zeCIPXBx3TGr4nGHUgVzA) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Floating Secret](https://open.spotify.com/album/4qnNAa0KWZ4h9BzfvO1RcJ) | 3:12 | 2024-03-26 |  |
 | [Fluffy](https://open.spotify.com/track/0s050M5SSv4hLyZ73cg5oh) | [NoCloudSky](https://open.spotify.com/artist/6ED30UOfoZVV94homQZYHl) | [Fluffy](https://open.spotify.com/album/0f7giVEcSFX5FY3rhAsBAj) | 2:14 | 2021-11-11 | 2022-04-06 |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-11 |  |
+| [Forgotten Summers](https://open.spotify.com/track/6oeCrGS7gJWfgCr6A9d8uS) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Forgotten Summers](https://open.spotify.com/album/2to3L32ztvJSFC4aDw1UO2) | 2:22 | 2024-04-09 |  |
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 | 2022-08-05 |
 | [free](https://open.spotify.com/track/4yiDLzimhW55rMSv0MeE8F) | [Crispy Candy](https://open.spotify.com/artist/0q6FzJH9tH7ysqdLy7kXKp) | [free](https://open.spotify.com/album/1Twl9jb2ob9s2tGaWnLixh) | 3:30 | 2022-10-07 |  |
 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-05-20 | 2022-07-22 |
@@ -209,6 +212,7 @@
 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 | 2023-04-21 |  |
 | [Think im falling](https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu) | [WingIt](https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy) | [Island Bypass](https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4) | 2:06 | 2023-06-02 |  |
 | [Thoughts](https://open.spotify.com/track/3etZY7gz2AHkVFX1bgOMBa) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Another Dream Room EP](https://open.spotify.com/album/2pe3jQkLqd0vjnxxxJuSDW) | 5:16 | 2021-11-11 | 2022-02-11 |
+| [Time Is Passing](https://open.spotify.com/track/2VpqOuwZTksI3KrIqaD4eU) | [Connor Munyard](https://open.spotify.com/artist/5O2keCOuemDZOLBVRn8nmg) | [Time Is Passing](https://open.spotify.com/album/1L28wGRAM2g5ARwhH2pghi) | 2:55 | 2024-04-09 |  |
 | [Time to Rest](https://open.spotify.com/track/2HfslpAapuq8I148nED63h) | [Oleg Kashchenko](https://open.spotify.com/artist/1JdC9tTyikddLX25acadfi) | [Time to Rest](https://open.spotify.com/album/0BXHAqw9kMh8MQtSZ9a2aq) | 2:12 | 2021-11-11 | 2022-05-20 |
 | [To Hold You](https://open.spotify.com/track/6d9REln2cJYL7KRRAbffUb) | [Sundancer Marquis](https://open.spotify.com/artist/6O3Pus00j8dR7bOWKUF02i) | [To Hold You](https://open.spotify.com/album/3W0WdtAqSsYcj5QnDvqEHn) | 3:40 | 2022-05-10 | 2022-07-01 |
 | [Together Potion](https://open.spotify.com/track/0tUqVTjY5gascy0deX6oPR) | [Pillow Kid](https://open.spotify.com/artist/3THB0bPkpqpRVoai1rmnVW) | [Dance Under the Apple Tree](https://open.spotify.com/album/6ChVuZYL7nL6u9Gatu5s5C) | 3:08 | 2021-11-11 | 2023-06-03 |
@@ -231,6 +235,7 @@
 | [wurley](https://open.spotify.com/track/5YdQDDQLm3zCNiK2zyrU9p) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [wurley](https://open.spotify.com/album/5KZGax3atAaM5N6XKGtY3Y) | 2:45 | 2023-02-10 |  |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2021-11-11 | 2023-03-10 |
 | [Young Guns](https://open.spotify.com/track/6Inc6yOBo4kUlCltz75Y4K) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Young Guns](https://open.spotify.com/album/7yg546r9ibdZQXlDB3C8qr) | 3:03 | 2022-10-07 |  |
+| [Zenith](https://open.spotify.com/track/5SCylXZhv1Av8qluTRmlrB) | [Enjoy Banker](https://open.spotify.com/artist/5Vr0qKd6KNRHtQCyZn4NR9) | [Zenith](https://open.spotify.com/album/3wYX5UP6v3EeVC9KmLqpbq) | 2:16 | 2024-04-09 |  |
 | [Zip Through](https://open.spotify.com/track/7zd4LLcYWUX6ebsW9sTzMi) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Zip Through](https://open.spotify.com/album/6EfT02b8x0g3Y0drg77xqU) | 2:39 | 2023-04-07 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

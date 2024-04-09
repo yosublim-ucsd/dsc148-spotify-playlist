@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 26497,
+  "num_followers": 26500,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmI5MzljYmJlZmRjOTc0ZjRlY2Y0ZDRjNGE1OWY1ZDNmZWU5NWUx",
+  "snapshot_id": "MCw2NGFkOTM1ZmI0MTNhMmMxNDE1NGNhZmIwNTE0Mjk3OTljNTY2ZTkw",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -179,18 +179,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
+        "name": "Sudaka",
+        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
       },
       "artists": [
         {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 259506,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
+      "duration_ms": 202808,
+      "name": "Sudaka",
+      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -215,6 +219,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Eco (feat. Funky Torinos)",
         "url": "https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 286080,
       "name": "Back to Life",
       "url": "https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Sudaka",
-        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 202808,
-      "name": "Sudaka",
-      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Hotel Boston",
-        "url": "https://open.spotify.com/album/6s2x7pj3jSr4q2CtVIlPg1"
-      },
-      "artists": [
-        {
-          "name": "Funk\u00b4chula",
-          "url": "https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hotel Boston",
-      "url": "https://open.spotify.com/track/1xrDy9mzkA8D60wsQa2d9k"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Prescription For Soul",
         "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
       },
@@ -595,18 +579,34 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+        "name": "Niguiri Sessions",
+        "url": "https://open.spotify.com/album/0qJs4hALyuV9PIiMz3leXl"
       },
       "artists": [
         {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
         }
       ],
-      "duration_ms": 209546,
-      "name": "Tal para Cual",
-      "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
+      "duration_ms": 248615,
+      "name": "Supremac\u00eda - Niguiri Sessions",
+      "url": "https://open.spotify.com/track/0bbjRIKri8tDonziX4GIsw"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Hotel Boston",
+        "url": "https://open.spotify.com/album/6s2x7pj3jSr4q2CtVIlPg1"
+      },
+      "artists": [
+        {
+          "name": "Funk\u00b4chula",
+          "url": "https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hotel Boston",
+      "url": "https://open.spotify.com/track/1xrDy9mzkA8D60wsQa2d9k"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Niguiri Sessions",
-        "url": "https://open.spotify.com/album/0qJs4hALyuV9PIiMz3leXl"
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
       "artists": [
         {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
         }
       ],
-      "duration_ms": 248615,
-      "name": "Supremac\u00eda - Niguiri Sessions",
-      "url": "https://open.spotify.com/track/0bbjRIKri8tDonziX4GIsw"
+      "duration_ms": 209546,
+      "name": "Tal para Cual",
+      "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 296120,
-      "name": "El Cocinero",
-      "url": "https://open.spotify.com/track/6herLkW2vgVBvtGXlGcAEG"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Guacamole",
         "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 279399,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 296120,
+      "name": "El Cocinero",
+      "url": "https://open.spotify.com/track/6herLkW2vgVBvtGXlGcAEG"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Groovin' Bohemia",
         "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 445089,
       "name": "Ameba",
       "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Kaos & Armon\u00eda",
         "url": "https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Aeronave",
         "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
       },
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/12D6I9cf0ThU8AO9jf3LfX"
+        "name": "Peluche Peligroso",
+        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
       "artists": [
         {
-          "name": "Papanegro",
-          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
         }
       ],
-      "duration_ms": 183312,
-      "name": "Nocaut",
-      "url": "https://open.spotify.com/track/0rZ21PT9MDXup9hwbzcLsT"
+      "duration_ms": 227221,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Peluche Peligroso",
-        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
+        "name": "7",
+        "url": "https://open.spotify.com/album/12D6I9cf0ThU8AO9jf3LfX"
       },
       "artists": [
         {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+          "name": "Papanegro",
+          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
         }
       ],
-      "duration_ms": 227221,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
+      "duration_ms": 183312,
+      "name": "Nocaut",
+      "url": "https://open.spotify.com/track/0rZ21PT9MDXup9hwbzcLsT"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1515,6 +1515,38 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Tangible",
+        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
+      },
+      "artists": [
+        {
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+        }
+      ],
+      "duration_ms": 315922,
+      "name": "Beast in You",
+      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Twice",
         "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
       },
@@ -1535,38 +1567,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Tangible",
-        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
-      },
-      "artists": [
-        {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
-        }
-      ],
-      "duration_ms": 315922,
-      "name": "Beast in You",
-      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
-      },
-      "artists": [
-        {
-          "name": "Sophie Sobral & Factor Paraca\u00eddas",
-          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Get Porn",
         "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
       },
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
       },
       "artists": [
         {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+          "name": "Sophie Sobral & Factor Paraca\u00eddas",
+          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
         }
       ],
-      "duration_ms": 190373,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
+      "duration_ms": 210580,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
     },
     {
       "added_at": "2024-03-29 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Khruangbin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,217 likes - 175 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,361 likes - 175 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Boys](https://open.spotify.com/track/1wzz6n18rGB4G7Jlz1MKIr) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Boys](https://open.spotify.com/album/3WD2Esqx5d8U6kjiiTLLkU) | 4:18 |
 | 175 | [Wishing Well](https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Wishing Well](https://open.spotify.com/album/1sDJd52CG9r5lYy7D7ir48) | 4:04 |
 
-Snapshot ID: `MCxiZTg4ODczZjk4MjIzMjBmMTkwNDJiOTliYzdkMTE3ZjhlZGU0MzYy`
+Snapshot ID: `MCw5NjdmNDNmZWU5MTExNjQ5ZDk4NTcwZGZhM2QwNzkyOTlhN2Q1YmU3`

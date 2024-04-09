@@ -1,12 +1,12 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 137963,
+  "num_followers": 138080,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjZiMGJlMmJkYmVjNDNmZjg5NmQ2YWI4MGI0ZWQ0ZWU5NjFjODUy",
+  "snapshot_id": "MCxkYjFiM2EzZGFjNGRlZjRjYWM5YjY1MzQ4M2U1ZTQ4OGY3NTcwY2M1",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Irreversible... 2012",
         "url": "https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF"
       },
@@ -235,86 +251,6 @@
       "duration_ms": 282885,
       "name": "Yo Quisiera Entrar",
       "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
-      "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Mi Raz\u00f3n De Ser",
-        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/2Y5pjQMzAQ5QpBazHrzhqP"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Mil Heridas",
-        "url": "https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4kWqIWkEN1XMOMyWo6FN4k"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "La N\u00famero 20",
-      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -351,22 +287,50 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Ellas As\u00ed Son",
-        "url": "https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP"
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 215243,
-      "name": "Ellas As\u00ed Son",
-      "url": "https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN"
+      "duration_ms": 234480,
+      "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
+      "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Mi Raz\u00f3n De Ser",
+        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/2Y5pjQMzAQ5QpBazHrzhqP"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "La N\u00famero 20",
+      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -387,38 +351,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Ando Bien Pedo",
-        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "La Escuelita",
-      "url": "https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Cuando el Sol Salga Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Un Hombre Normal",
         "url": "https://open.spotify.com/album/0JrrexttdAK01fNFZOulo1"
       },
@@ -431,38 +363,6 @@
       "duration_ms": 255853,
       "name": "Un Hombre Normal",
       "url": "https://open.spotify.com/track/7tUgcu6nBx2MxlFaiDh7nY"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Disfrut\u00e9 Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/2yHmyqLvinMYOiOsJagAYK"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Mi Raz\u00f3n De Ser",
-        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "P\u00eddeme Perd\u00f3n",
-      "url": "https://open.spotify.com/track/0WcdEM7jdkl33XsQtm0RW9"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -483,18 +383,70 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "M\u00e1s Adelante",
-        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+        "name": "Mil Heridas",
+        "url": "https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Si Yo Te Contara",
-      "url": "https://open.spotify.com/track/1uziiqdJSWCbAINo8s68CX"
+      "duration_ms": 212280,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4kWqIWkEN1XMOMyWo6FN4k"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Ellas As\u00ed Son",
+        "url": "https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 215243,
+      "name": "Ellas As\u00ed Son",
+      "url": "https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "La Escuelita",
+      "url": "https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Disfrut\u00e9 Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/2yHmyqLvinMYOiOsJagAYK"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -515,8 +467,24 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Necesito Due\u00f1a",
-        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Si Yo Te Contara",
+      "url": "https://open.spotify.com/track/1uziiqdJSWCbAINo8s68CX"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
       "artists": [
         {
@@ -524,9 +492,25 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 181506,
-      "name": "Necesito Due\u00f1a - Ranchera Version",
-      "url": "https://open.spotify.com/track/5nQusPyVdSNdpBJdX5uSq4"
+      "duration_ms": 187760,
+      "name": "Cuando el Sol Salga Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Mi Raz\u00f3n De Ser",
+        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "P\u00eddeme Perd\u00f3n",
+      "url": "https://open.spotify.com/track/0WcdEM7jdkl33XsQtm0RW9"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -579,22 +563,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "M\u00e1s Adelante",
-        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "Carita De Perd\u00f3n",
-      "url": "https://open.spotify.com/track/6apOgi25sgEaVSJO7znHCg"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Hasta el Final",
         "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
       },
@@ -611,18 +579,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Prohibido, Salud Por \u00c9l Y M\u00e1s \u00c9xitos",
-        "url": "https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb"
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 226083,
-      "name": "Salud Por \u00c9l",
-      "url": "https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj"
+      "duration_ms": 181506,
+      "name": "Necesito Due\u00f1a - Ranchera Version",
+      "url": "https://open.spotify.com/track/5nQusPyVdSNdpBJdX5uSq4"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -643,6 +611,38 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "Carita De Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6apOgi25sgEaVSJO7znHCg"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Prohibido, Salud Por \u00c9l Y M\u00e1s \u00c9xitos",
+        "url": "https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 226083,
+      "name": "Salud Por \u00c9l",
+      "url": "https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Idolos De Mexico Para El Mundo",
         "url": "https://open.spotify.com/album/03QeaYk3AUCbRQFBQdXOZG"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 219373,
       "name": "Para Impresionarte",
       "url": "https://open.spotify.com/track/3zhLYl0tIzHUx6UxD1KP0C"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Vive y D\u00e9jame Vivir",
+        "url": "https://open.spotify.com/album/6YiHMEAUyDwPZSQasQH17w"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Vive Y D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/77WQrnphsSnSxyQElfqvbg"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -691,22 +707,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Vive y D\u00e9jame Vivir",
-        "url": "https://open.spotify.com/album/6YiHMEAUyDwPZSQasQH17w"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Vive Y D\u00e9jame Vivir",
-      "url": "https://open.spotify.com/track/77WQrnphsSnSxyQElfqvbg"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Nos Divertimos Logrando Lo Imposible",
         "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 247209,
       "name": "Cuando Me Ten\u00edas",
       "url": "https://open.spotify.com/track/4bPKM2jZ9PU1uzANyOC0G7"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Seremos",
+        "url": "https://open.spotify.com/album/6H4FKdBzb29bJ8xOJCRJPr"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/1ea25iz3zE8aLnbSZ5ZR92"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -759,38 +775,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Seremos",
-        "url": "https://open.spotify.com/album/6H4FKdBzb29bJ8xOJCRJPr"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/1ea25iz3zE8aLnbSZ5ZR92"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Hombre De Rancho",
-        "url": "https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Se Me Sigue Notando",
-      "url": "https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/0nhYBDq7AGkaOFqrqYwN2I"
       },
@@ -823,22 +807,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Thalia En Primera Fila",
-        "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "El Pr\u00f3ximo Viernes - Live Version",
-      "url": "https://open.spotify.com/track/1uW8wYIoulhYK6qIXhakbg"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Recordando A El Shaka",
         "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 204346,
       "name": "Mu\u00f1equita - Balada Version",
       "url": "https://open.spotify.com/track/36csppf4oC76qA6vbMWDSo"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Hombre De Rancho",
+        "url": "https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Se Me Sigue Notando",
+      "url": "https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "El Pr\u00f3ximo Viernes - Live Version",
+      "url": "https://open.spotify.com/track/1uW8wYIoulhYK6qIXhakbg"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Como Burro Sin Mecate",
-        "url": "https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "La Tabla Del 1",
-      "url": "https://open.spotify.com/track/4mzqMrRSKLr2pccw37z63y"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Alegre Y Enamorado",
         "url": "https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Como Burro Sin Mecate",
+        "url": "https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "La Tabla Del 1",
+      "url": "https://open.spotify.com/track/4mzqMrRSKLr2pccw37z63y"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "El Rancho Grande",
         "url": "https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Ojal\u00e1, Dios Quiera",
-        "url": "https://open.spotify.com/album/7pQwd1nnxAAIvsIpXI7GLs"
-      },
-      "artists": [
-        {
-          "name": "Los Nietos",
-          "url": "https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/4irj9XwKWmBhg3QAbcrLJH"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Como Tortilla al Comal (Relanzamiento)",
         "url": "https://open.spotify.com/album/29pYsVXfqCYLlmT9RGLoAw"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 190217,
       "name": "Como Tortilla al Comal - Estudio",
       "url": "https://open.spotify.com/track/0jfQ1QVYeMCbXvpg8rwqMh"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Ojal\u00e1, Dios Quiera",
+        "url": "https://open.spotify.com/album/7pQwd1nnxAAIvsIpXI7GLs"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos",
+          "url": "https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/4irj9XwKWmBhg3QAbcrLJH"
     },
     {
       "added_at": "2023-10-06 06:00:00",

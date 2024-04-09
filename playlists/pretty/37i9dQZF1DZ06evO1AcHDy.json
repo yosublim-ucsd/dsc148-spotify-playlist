@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37245,
+  "num_followers": 37246,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODlmYWE0ZmUzNzRjY2Q5OTI2NmIzODEwYzAwY2MyZWM4N2UzMmQ1",
+  "snapshot_id": "MCxjM2IwNWUyOThhNWIzNGQ2ZDYxMTQ3MjYwNWNmMmI0M2FmMjcxYzg3",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
       "duration_ms": 227037,
       "name": "Ordinary Superstar",
       "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleeping in Waking",
-        "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 141114,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/2gdn1IDxIjjsiXFpfdwfRw"
     }
   ],
   "unique_name": "This Is Rina Sawayama",

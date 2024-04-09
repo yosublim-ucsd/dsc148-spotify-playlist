@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 15931,
+  "num_followers": 15937,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTg1YmQzZGE1MGE5MzRjNDIwZTQ4NmNiOTQ4N2JiMjc4MTE5M2Ew",
+  "snapshot_id": "MCxmOTkwZDBkNmIzZjE2MWJhZDQ0MmQ3MTE0MmY5OTdmZmE0MzA0MWNi",
   "tracks": [
     {
       "added_at": "2024-03-25 13:44:27",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Secuencia Inicial - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Amor Amarillo",
         "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 388480,
       "name": "A Merced",
       "url": "https://open.spotify.com/track/3ZC8BXItb2bvgs8oKgz5qG"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Secuencia Inicial - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+        "name": "San Cipriano",
+        "url": "https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9"
       },
       "artists": [
         {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+          "name": "Los Brujos",
+          "url": "https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4"
         }
       ],
-      "duration_ms": 173293,
-      "name": "Escafandra",
-      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
+      "duration_ms": 163626,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -235,34 +235,18 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "San Cipriano",
-        "url": "https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9"
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
       },
       "artists": [
         {
-          "name": "Los Brujos",
-          "url": "https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4"
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
         }
       ],
-      "duration_ms": 163626,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Todos Tus Muertos",
-        "url": "https://open.spotify.com/album/58GZrNOJyanBdSRnKqrJfK"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 158026,
-      "name": "Gente Que No",
-      "url": "https://open.spotify.com/track/0nShxrQfMcHl2sTcUst04Q"
+      "duration_ms": 173293,
+      "name": "Escafandra",
+      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -283,22 +267,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
-      },
-      "artists": [
-        {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Agujeros Negros",
-      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Emporio Bizarro",
         "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
@@ -315,24 +283,24 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Fabrico Cuero",
-        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
+        "name": "Todos Tus Muertos",
+        "url": "https://open.spotify.com/album/58GZrNOJyanBdSRnKqrJfK"
       },
       "artists": [
         {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
         }
       ],
-      "duration_ms": 178493,
-      "name": "Fabrico Cuero",
-      "url": "https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT"
+      "duration_ms": 158026,
+      "name": "Gente Que No",
+      "url": "https://open.spotify.com/track/0nShxrQfMcHl2sTcUst04Q"
     },
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Trance Zomba",
-        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
+        "name": "Dopadromo",
+        "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
       },
       "artists": [
         {
@@ -340,29 +308,25 @@
           "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 209640,
-      "name": "Monta\u00f1as de Agua",
-      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
+      "duration_ms": 231386,
+      "name": "Viva Satana",
+      "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
     },
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Colores Santos",
-        "url": "https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2"
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        },
-        {
-          "name": "Daniel Melero",
-          "url": "https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY"
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
         }
       ],
-      "duration_ms": 262386,
-      "name": "Marea de Venus",
-      "url": "https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG"
+      "duration_ms": 158786,
+      "name": "Agujeros Negros",
+      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -383,6 +347,22 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
+        "name": "Fabrico Cuero",
+        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Fabrico Cuero",
+      "url": "https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
         "name": "Emporio Bizarro",
         "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 234613,
       "name": "Microman",
       "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Colores Santos",
+        "url": "https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        },
+        {
+          "name": "Daniel Melero",
+          "url": "https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY"
+        }
+      ],
+      "duration_ms": 262386,
+      "name": "Marea de Venus",
+      "url": "https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
+        "name": "Trance Zomba",
+        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 209640,
+      "name": "Monta\u00f1as de Agua",
+      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
         "name": "Modelo 96",
         "url": "https://open.spotify.com/album/2ZwjZRXvyLPqhXLM4vkB5b"
       },
@@ -447,6 +463,38 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
+        "name": "Megaton",
+        "url": "https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn"
+      },
+      "artists": [
+        {
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+        }
+      ],
+      "duration_ms": 269240,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Fabrico Cuero",
+        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Jubilados Violentos",
+      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
         "name": "A un Mill\u00f3n de A\u00f1os Blues",
         "url": "https://open.spotify.com/album/4xZBKEor9gCAUBZa3QuAVT"
       },
@@ -459,22 +507,6 @@
       "duration_ms": 167133,
       "name": "Pr\u00edncipe Oscuro",
       "url": "https://open.spotify.com/track/3G51NUusBvLtwGOTCGlXzr"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
-        "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
-      },
-      "artists": [
-        {
-          "name": "Jaime Sin Tierra",
-          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
-        }
-      ],
-      "duration_ms": 143866,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -499,54 +531,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Dopadromo",
-        "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Viva Satana",
-      "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Fabrico Cuero",
-        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Jubilados Violentos",
-      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Megaton",
-        "url": "https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn"
-      },
-      "artists": [
-        {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
-        }
-      ],
-      "duration_ms": 269240,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Los 7 Delfines",
         "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 318906,
       "name": "Travesia",
       "url": "https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Manzana de Metal",
+        "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
+      },
+      "artists": [
+        {
+          "name": "Altocamet",
+          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "Atl\u00e1ntico",
+      "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
     },
     {
       "added_at": "2024-03-25 13:44:27",

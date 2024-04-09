@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,332 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,346 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Cherish](https://open.spotify.com/track/256duzyAQ2cgNI0Bh89K0m) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Cherish](https://open.spotify.com/album/5OVwztAS3zX3ufTgXZNA8R) | 2:28 |
 | 100 | [Point of View](https://open.spotify.com/track/6aF81cWRsSIK0lF7sirYat) | [Okke Punt](https://open.spotify.com/artist/62eGoLRCLKqObqDkLfYDVP) | [Point of View](https://open.spotify.com/album/6fBdzISWaqSWYjiT3H5TXO) | 3:53 |
 
-Snapshot ID: `MCwzNTg1ZDE4MzQwMDcyNTQwNjJmYzM0NjEyMzMyNmQwYzgyNzE0NmE3`
+Snapshot ID: `MCw5YTJjZGQ4ODc2YTFhZWY5YmZkNzVmZjdmODIyYTRiNTlkMzAzYTNm`

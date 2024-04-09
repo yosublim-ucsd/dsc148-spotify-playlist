@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover:  Nandy
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,139 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,215 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 74 | [Give Up](https://open.spotify.com/track/0axpvfQ41L0RKwJzXVRpel) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Give Up](https://open.spotify.com/album/46YJhXvo60fDfRsaX6qhP2) | 2:55 |
 | 75 | [Nikilewa](https://open.spotify.com/track/1qcGEe6axTplnCkOGnztSm) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Nikilewa](https://open.spotify.com/album/5GKOjH3Mz96OS8jXHr2g6Z) | 3:29 |
 
-Snapshot ID: `MCxjMzRkZWZkMDNmNWQwYTJmZTZlNTRlYTVkYTRlM2FkZGZlMTgwNWZh`
+Snapshot ID: `MCw4NTViMDA4NjZkYWU3MzZiZmJlMjM5ZDEyMzJiM2RlYTA2NjNhMTAz`

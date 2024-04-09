@@ -4,7 +4,7 @@
 
 > This country is a corpse
 
-24 songs - 1 hr 32 min
+25 songs - 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Jeff Found A Genie](https://open.spotify.com/track/3FZ6EglonCHH9vBDuRiVyQ) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Spring](https://open.spotify.com/album/0FKUaMZRABK2f7HjJuyAfT) | 2:26 | 2023-07-09 |  |
 | [Only a Pawn in Their Game](https://open.spotify.com/track/6lib77q4koq52srysevRfT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:29 | 2023-05-22 |  |
 | [Providence](https://open.spotify.com/track/4VGR3mr2WbiD0splKGasFc) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Providence](https://open.spotify.com/album/0mV9xVaTWHbakQC10LKtgL) | 3:03 | 2023-10-30 |  |
+| [Sideshow](https://open.spotify.com/track/4hFMy4uUSJ4hFfYpAVd1OI) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Swords](https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g) | 5:29 | 2024-04-08 |  |
 | [Sixteen Tons](https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d) | [Geoff Castellucci](https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz) | [Sixteen Tons](https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr) | 2:50 | 2023-11-15 |  |
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |
 | [The Ballad of Crowfoot](https://open.spotify.com/track/0gFggOFUXynJtprBeJ1rTy) | [Willie Dunn](https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6) | [Creation Never Sleeps, Creation Never Dies: The Willie Dunn Anthology](https://open.spotify.com/album/5qr30I1zoVNzWmApcC2e3m) | 9:54 | 2023-05-15 |  |

@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-256 songs - 13 hr 21 min
+257 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 | 2021-12-03 | 2023-03-14 |
 | [\#Doyalike](https://open.spotify.com/track/4JhL6VywH5lKtAW6E3gKpD) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#Doyalike](https://open.spotify.com/album/1E4Eap7cvWM5wtLNZsVlev) | 3:03 | 2022-04-08 | 2022-07-29 |
 | [2 Phút Hơn \- KAIZ Remix](https://open.spotify.com/track/4SUk1ZTtA6OC120afxrpRZ) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [KAIZ](https://open.spotify.com/artist/5Oy8zRNFImMUeoAxjbT7Bj) | [2 Phút Hơn \(KAIZ Remix\)](https://open.spotify.com/album/1V8qSPtmixwUiyLheEazuc) | 3:03 | 2021-12-03 | 2022-04-19 |
-| [3 Strikes \(Terror's Version\)](https://open.spotify.com/track/4pUznRdmMgxkFfU8Std5W6) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX) | [3 Strikes \(Terror's Version\)](https://open.spotify.com/album/3hPBz2bG48hgGmENQgSiP1) | 2:19 | 2024-03-15 |  |
+| [3 Strikes \(Terror's Version\)](https://open.spotify.com/track/4pUznRdmMgxkFfU8Std5W6) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX) | [3 Strikes \(Terror's Version\)](https://open.spotify.com/album/3hPBz2bG48hgGmENQgSiP1) | 2:19 | 2024-03-15 | 2024-04-09 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-12-03 | 2022-07-29 |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2021-12-03 |  |
 | [Ain't No Way 2024](https://open.spotify.com/track/4R2lfQVqaPgvqt3gwMcj6I) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [The Riddler](https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l) | [Ain't No Way 2024](https://open.spotify.com/album/0hnWRdRsayfrvFEKurtWJD) | 2:58 | 2024-01-12 | 2024-03-16 |
@@ -218,6 +218,7 @@
 | [Stereo Love](https://open.spotify.com/track/5iVokrKeCN1Bje8GlgxtQU) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [The Stereo Love Show](https://open.spotify.com/album/5qNOR0z9J59e8Tgp8Vsl1C) | 5:20 | 2021-12-31 | 2022-04-21 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-06 |  |
 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 | 2023-09-29 | 2023-11-14 |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-04-08 |  |
 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 | 2021-12-03 | 2023-11-21 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-18 | 2024-01-27 |
 | [Swimming Pool](https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool](https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls) | 5:25 | 2021-12-23 | 2022-07-29 |

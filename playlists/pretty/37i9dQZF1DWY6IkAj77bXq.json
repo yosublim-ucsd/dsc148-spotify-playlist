@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 69836,
+  "num_followers": 69896,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzc4MTYyM2FmMmIxOTBjN2ZiZDEzNzdhMTczZmRiODZmZjZlZDg5",
+  "snapshot_id": "MCxjOWYxNDlmNjNmYjgzOTIwYTNmZDc2NTE3MGI5M2QxZTM5MTU5OTZm",
   "tracks": [
     {
       "added_at": "2024-04-04 22:09:58",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Afloat",
-        "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
-      },
-      "artists": [
-        {
-          "name": "Pristeen",
-          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
-        }
-      ],
-      "duration_ms": 139600,
-      "name": "Afloat",
-      "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Unfolding",
         "url": "https://open.spotify.com/album/0yOaKPEteOBVPdhpHs0Xs7"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 152986,
       "name": "Unfolding",
       "url": "https://open.spotify.com/track/5lgb2a2KzgBsk1Dmv87dKL"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
+      },
+      "artists": [
+        {
+          "name": "Pristeen",
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "A Silent Moon",
-        "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
+        "name": "Silent Waters",
+        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
       },
       "artists": [
         {
-          "name": "Atmosferion",
-          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
         }
       ],
-      "duration_ms": 188893,
-      "name": "A Silent Moon",
-      "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
+      "duration_ms": 144830,
+      "name": "Silent Waters",
+      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Silent Waters",
-        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
+        "name": "A Silent Moon",
+        "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
       },
       "artists": [
         {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+          "name": "Atmosferion",
+          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
         }
       ],
-      "duration_ms": 144830,
-      "name": "Silent Waters",
-      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
+      "duration_ms": 188893,
+      "name": "A Silent Moon",
+      "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "The Sun Will Rise Again",
-        "url": "https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn"
-      },
-      "artists": [
-        {
-          "name": "Remi Asana",
-          "url": "https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc"
-        }
-      ],
-      "duration_ms": 142595,
-      "name": "The Sun Will Rise Again",
-      "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Breath of Life",
         "url": "https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 154069,
       "name": "Breath Of Life",
       "url": "https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "The Sun Will Rise Again",
+        "url": "https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn"
+      },
+      "artists": [
+        {
+          "name": "Remi Asana",
+          "url": "https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc"
+        }
+      ],
+      "duration_ms": 142595,
+      "name": "The Sun Will Rise Again",
+      "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
+        "name": "Sleep, Heavenly Sleep",
+        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
+      },
+      "artists": [
+        {
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+        }
+      ],
+      "duration_ms": 180882,
+      "name": "Sleep, Heavenly Sleep",
+      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
         "name": "Sleepy Eyes",
         "url": "https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 162028,
       "name": "Unawareness",
       "url": "https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
-        "name": "Sleep, Heavenly Sleep",
-        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
-      },
-      "artists": [
-        {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
-        }
-      ],
-      "duration_ms": 180882,
-      "name": "Sleep, Heavenly Sleep",
-      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Theta Sleep",
-        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
-      },
-      "artists": [
-        {
-          "name": "Zonyoh",
-          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Clear-Headed",
-      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Quiet Hours",
         "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
       },
@@ -1163,22 +1147,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9"
       },
@@ -1191,6 +1159,38 @@
       "duration_ms": 143013,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Theta Sleep",
+        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
+      },
+      "artists": [
+        {
+          "name": "Zonyoh",
+          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Clear-Headed",
+      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
+      },
+      "artists": [
+        {
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
-      },
-      "artists": [
-        {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
-        }
-      ],
-      "duration_ms": 161012,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Prieks",
         "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 145524,
       "name": "Prieks",
       "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+      },
+      "artists": [
+        {
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+        }
+      ],
+      "duration_ms": 161012,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
-      },
-      "artists": [
-        {
-          "name": "James Nepali",
-          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
-        }
-      ],
-      "duration_ms": 137349,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Floating Without Gravity",
         "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 162400,
       "name": "Floating Without Gravity",
       "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
+      },
+      "artists": [
+        {
+          "name": "James Nepali",
+          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
+        }
+      ],
+      "duration_ms": 137349,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Soothe",
-        "url": "https://open.spotify.com/album/74vs037IHVc421BMmB5yqo"
-      },
-      "artists": [
-        {
-          "name": "Ever So Calm",
-          "url": "https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Soothe",
-      "url": "https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Sleep - Vol 4",
         "url": "https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 255578,
       "name": "Reinstatement",
       "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Soothe",
+        "url": "https://open.spotify.com/album/74vs037IHVc421BMmB5yqo"
+      },
+      "artists": [
+        {
+          "name": "Ever So Calm",
+          "url": "https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Soothe",
+      "url": "https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1563,22 +1563,6 @@
       "duration_ms": 252765,
       "name": "Nature's Embrace",
       "url": "https://open.spotify.com/track/7iASF4SyBJIHg7PM3rEpTR"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
-        "name": "Tangerine Dreams",
-        "url": "https://open.spotify.com/album/2IfctRtqYFXXcUXuYsO8HI"
-      },
-      "artists": [
-        {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Tangerine Dreams",
-      "url": "https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1631,34 +1615,18 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Desiderio",
-        "url": "https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh"
+        "name": "Tangerine Dreams",
+        "url": "https://open.spotify.com/album/2IfctRtqYFXXcUXuYsO8HI"
       },
       "artists": [
         {
-          "name": "Armand DeLuca",
-          "url": "https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu"
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
         }
       ],
-      "duration_ms": 154726,
-      "name": "Desiderio",
-      "url": "https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
-        "name": "Calming Water",
-        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
-      },
-      "artists": [
-        {
-          "name": "Divine Retreat",
-          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
-        }
-      ],
-      "duration_ms": 239353,
-      "name": "Cleansing Raindrops",
-      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
+      "duration_ms": 170958,
+      "name": "Tangerine Dreams",
+      "url": "https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1679,6 +1647,38 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
+        "name": "Calming Water",
+        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
+      },
+      "artists": [
+        {
+          "name": "Divine Retreat",
+          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
+        }
+      ],
+      "duration_ms": 239353,
+      "name": "Cleansing Raindrops",
+      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Desiderio",
+        "url": "https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh"
+      },
+      "artists": [
+        {
+          "name": "Armand DeLuca",
+          "url": "https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu"
+        }
+      ],
+      "duration_ms": 154726,
+      "name": "Desiderio",
+      "url": "https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
       },
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Expanded Reality",
-        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
+        "name": "Light & Hope",
+        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
       },
       "artists": [
         {
-          "name": "Axial Flow",
-          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Expanded Reality",
-      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
+      "duration_ms": 167099,
+      "name": "Light & Hope",
+      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Light & Hope",
-        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
+        "name": "Expanded Reality",
+        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
       },
       "artists": [
         {
-          "name": "Crystalsong",
-          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+          "name": "Axial Flow",
+          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
         }
       ],
-      "duration_ms": 167099,
-      "name": "Light & Hope",
-      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
+      "duration_ms": 162857,
+      "name": "Expanded Reality",
+      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
+        "name": "mOther World",
+        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+      },
+      "artists": [
+        {
+          "name": "Mike Molloy",
+          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+        }
+      ],
+      "duration_ms": 124458,
+      "name": "mOther World",
+      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
         "name": "Mesmerize",
         "url": "https://open.spotify.com/album/0d7WNCggIX0H9oX8jGrNaL"
       },
@@ -1787,6 +1803,22 @@
       "duration_ms": 163636,
       "name": "Mesmerize",
       "url": "https://open.spotify.com/track/2E1ZqBkFXyp7ZND2e5RGAq"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
+      },
+      "artists": [
+        {
+          "name": "LUVT",
+          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+        }
+      ],
+      "duration_ms": 304952,
+      "name": "Solace - Meditation",
+      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1807,34 +1839,18 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "mOther World",
-        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+        "name": "Dogma of Sleep",
+        "url": "https://open.spotify.com/album/7E9G74qdVBpjKwFoJMAv1d"
       },
       "artists": [
         {
-          "name": "Mike Molloy",
-          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+          "name": "Joseph Beg",
+          "url": "https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px"
         }
       ],
-      "duration_ms": 124458,
-      "name": "mOther World",
-      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
-      },
-      "artists": [
-        {
-          "name": "LUVT",
-          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
-        }
-      ],
-      "duration_ms": 304952,
-      "name": "Solace - Meditation",
-      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
+      "duration_ms": 378250,
+      "name": "The Sleep",
+      "url": "https://open.spotify.com/track/7nwY6NWAgKc5ugYWLMZtc4"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1871,22 +1887,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Dogma of Sleep",
-        "url": "https://open.spotify.com/album/7E9G74qdVBpjKwFoJMAv1d"
-      },
-      "artists": [
-        {
-          "name": "Joseph Beg",
-          "url": "https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px"
-        }
-      ],
-      "duration_ms": 378250,
-      "name": "The Sleep",
-      "url": "https://open.spotify.com/track/7nwY6NWAgKc5ugYWLMZtc4"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Dreamgaze",
         "url": "https://open.spotify.com/album/0gvuIEHNqACJU8JXn2BcTC"
       },
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Sphere",
-        "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
+        "name": "Structure",
+        "url": "https://open.spotify.com/album/396r7PoiVVsRKXg8jlD3GX"
       },
       "artists": [
         {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+          "name": "Matter and Energy",
+          "url": "https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0"
         }
       ],
-      "duration_ms": 179104,
-      "name": "Sphere",
-      "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
+      "duration_ms": 185626,
+      "name": "Structure",
+      "url": "https://open.spotify.com/track/4mxKceI65QluBw8XSJpXiN"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

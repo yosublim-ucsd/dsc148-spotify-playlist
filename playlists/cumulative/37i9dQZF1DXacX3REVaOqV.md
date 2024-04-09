@@ -4,7 +4,7 @@
 
 > The best in house music
 
-406 songs - 1 day 4 hr 24 min
+407 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Whisper \(with James Yuill\)](https://open.spotify.com/track/0RwDjtiwRatY6Ai8z5AIna) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [James Yuill](https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps) | [Whisper \(with James Yuill\)](https://open.spotify.com/album/4ySI6Tst0tSVb7papl2evR) | 2:40 | 2022-04-14 | 2024-03-01 |
 | [Who Am I](https://open.spotify.com/track/5nIL1etglKhsfxRPcVhbjq) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Who Am I](https://open.spotify.com/album/3fAVBC0O0os0YeRGSt4MVZ) | 3:52 | 2022-04-20 | 2022-07-28 |
 | [Who Is He? \(feat\. Kevin Haden\) \- Extended Mix](https://open.spotify.com/track/5e5DWeS14hmBJOvgmHU9nD) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25), [Kevin Haden](https://open.spotify.com/artist/5k8MFak0TtbPb5WQHIprYT) | [Who Is He? \(feat\. Kevin Haden\)](https://open.spotify.com/album/3fR6uK85kD08zDg0ECaogD) | 5:50 | 2022-07-28 | 2023-02-17 |
+| [With You](https://open.spotify.com/track/0OPodBWCYqqijUbmkv75fK) | [Anthony Sebastian](https://open.spotify.com/artist/6FBRfb1tjwVT1JXdlykmCt) | [With You](https://open.spotify.com/album/4OFJbmcqnduW5U1b6Mrzau) | 3:20 | 2024-04-08 |  |
 | [Woman Like You](https://open.spotify.com/track/0Tby0PFN8E8I8pg0oxeapb) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Woman Like You](https://open.spotify.com/album/3thcwDUKvwi5ghc2KZbkkv) | 4:05 | 2022-04-14 | 2024-03-01 |
 | [Won't Explain](https://open.spotify.com/track/28sh8QxMveO01irLmUOjP5) | [Ibranovski](https://open.spotify.com/artist/5ASWBtbVe1yfxjrCuREQ4p) | [Won't Explain](https://open.spotify.com/album/6hZuaVsuRJEfXCrOYDxf0y) | 3:40 | 2022-04-14 | 2022-07-29 |
 | [Work \(feat\. Dave Giles II, Cor.Ece & Mike Dunn\)](https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw), [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Work \(feat\. Dave Giles II, Cor.Ece & Mike Dunn\)](https://open.spotify.com/album/5gv2eRP8iQYnhQo7YaFUMn) | 3:01 | 2022-04-14 | 2023-07-15 |

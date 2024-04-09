@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,694 songs - 10 day 13 hr 47 min
+6,695 songs - 10 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4247,7 +4247,7 @@
 | [One4Bill](https://open.spotify.com/track/1A4YthdhOMBLGBXvqXQag4) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0) | [Backyard](https://open.spotify.com/album/25UPRJuNvK0YpgwpYnQvYL) | 3:05 | 2023-09-15 | 2023-09-30 |
 | [One\_4\_u](https://open.spotify.com/track/2VB8x2R7S8UCb7LhTPLnfe) | [TV Culture](https://open.spotify.com/artist/4SMpfT0gDr82P6jyWArDve) | [One\_4\_u](https://open.spotify.com/album/0dSki2pZi23BDvkGgzMDmh) | 3:16 | 2020-06-16 | 2021-10-02 |
 | [Oneformybrother](https://open.spotify.com/track/1YRTzBGw9g5SeyfkwVsNxO) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Lost & Found](https://open.spotify.com/album/77gYS05vWSzvGY3CsF8sId) | 1:49 | 2023-05-09 | 2023-10-13 |
-| [OneFourDed](https://open.spotify.com/track/1fi0djtQcu7NDgwEvnRz0R) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [OneFourDed](https://open.spotify.com/album/1e9Sx5ljCfuRAq4jTvEOw2) | 2:43 | 2024-03-15 |  |
+| [OneFourDed](https://open.spotify.com/track/1fi0djtQcu7NDgwEvnRz0R) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [OneFourDed](https://open.spotify.com/album/1e9Sx5ljCfuRAq4jTvEOw2) | 2:43 | 2024-03-15 | 2024-04-09 |
 | [Onewayticket](https://open.spotify.com/track/5gD8byOsmaMo35zYvomKkZ) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Onewayticket](https://open.spotify.com/album/5tKhLqjZ4emdla6qdVVp0j) | 1:46 | 2022-08-12 | 2022-11-20 |
 | [Onewayticket](https://open.spotify.com/track/7He1jmd49gD6BO9JY8u1wa) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Escapism II](https://open.spotify.com/album/3SiCrEPIRNZ8zYJOJy2s0Z) | 1:46 | 2022-11-18 | 2022-11-25 |
 | [Oni](https://open.spotify.com/track/1xwyrUYxzfaKGbGzm1easA) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Oni](https://open.spotify.com/album/0NdAWNXglxRoetXN86Nt59) | 1:59 | 2023-07-13 | 2023-10-06 |
@@ -5606,6 +5606,7 @@
 | [Sundayz](https://open.spotify.com/track/21lO5APQxUVgJmS5ixKM9s) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Sundayz](https://open.spotify.com/album/4ZO9A4n9Y7qrX2hdUyK2dy) | 2:08 | 2022-07-29 | 2022-11-11 |
 | [Sundets](https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Kanbina](https://open.spotify.com/album/6HZiWLomAqbJbt56oOiK34) | 2:02 | 2022-02-14 | 2022-09-09 |
 | [Sundown](https://open.spotify.com/track/3xNZP70uRdHJK3lZJ8OfJr) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Sundown](https://open.spotify.com/album/2ao0Uc2jDxXl8YPfuYMy6f) | 2:48 | 2020-01-19 | 2021-08-28 |
+| [Sundown](https://open.spotify.com/track/2lGdxGiE1Gukl4q2Mh00RR) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Voyage](https://open.spotify.com/album/3hBqYQCIB3a0iBYiUqWoNy) | 2:04 | 2024-03-29 |  |
 | [sundown](https://open.spotify.com/track/15LqhqSSDfZmIylBdlxxVK) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [sundown / whisper](https://open.spotify.com/album/4rrjKhuPxr11fsXNkmJIr7) | 1:46 | 2019-09-08 | 2021-07-01 |
 | [Sundress & Tattoos](https://open.spotify.com/track/4L0aj6GxRyDoPuCZq7qsIc) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Sundress & Tattoos](https://open.spotify.com/album/43HC66ToQZ5zUatxG5oI0t) | 1:34 | 2020-04-08 | 2021-01-11 |
 | [Sunflakes](https://open.spotify.com/track/4RMcbb9ITtAESFO6Sg0DLo) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sunflakes](https://open.spotify.com/album/2WzoWxIEus3RpJMslk37CG) | 2:14 | 2022-10-07 | 2023-02-14 |

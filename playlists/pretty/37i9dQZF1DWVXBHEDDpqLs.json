@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 31076,
+  "num_followers": 31078,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2Q1Y2NhMzk2MDk3MGU4MWRlOWFiMWU5NWIyMzE5ZWVmOThmZDBm",
+  "snapshot_id": "MCxjNDhkZmFiYWIwNmUzY2M3NDhjNGY0YzFmZmUxODk1ZGMyY2M5YWUy",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "TWITCH",
-        "url": "https://open.spotify.com/album/37FPdxNsW9wwfbsrxhiRT6"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        }
-      ],
-      "duration_ms": 190639,
-      "name": "TWITCH",
-      "url": "https://open.spotify.com/track/6gZZoJwDXTYWiUIVs7ERxW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Sri Lanka",
         "url": "https://open.spotify.com/album/1L3i8chDu8LRbQB2DSWe8d"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 116280,
       "name": "Sri Lanka",
       "url": "https://open.spotify.com/track/58oUv4YvqAthrjI0fMnYUI"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "TWITCH",
+        "url": "https://open.spotify.com/album/37FPdxNsW9wwfbsrxhiRT6"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "duration_ms": 190639,
+      "name": "TWITCH",
+      "url": "https://open.spotify.com/track/6gZZoJwDXTYWiUIVs7ERxW"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "It's Giving EP",
-        "url": "https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ"
-      },
-      "artists": [
-        {
-          "name": "Baby Weight",
-          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
-        },
-        {
-          "name": "Jesse Fields",
-          "url": "https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe"
-        }
-      ],
-      "duration_ms": 219999,
-      "name": "Slay 4 Me (feat. Jesse Fields) - Edit",
-      "url": "https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Vibe (If I Back It Up)",
         "url": "https://open.spotify.com/album/1YAwpQCn7QlomW7PFBOA6B"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 144065,
       "name": "Vibe (If I Back It Up)",
       "url": "https://open.spotify.com/track/5bS6VIBCYdi9QL9T1upn3G"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "It's Giving EP",
+        "url": "https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ"
+      },
+      "artists": [
+        {
+          "name": "Baby Weight",
+          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
+        },
+        {
+          "name": "Jesse Fields",
+          "url": "https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe"
+        }
+      ],
+      "duration_ms": 219999,
+      "name": "Slay 4 Me (feat. Jesse Fields) - Edit",
+      "url": "https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Rhythm Chronicles",
+        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
+      },
+      "artists": [
+        {
+          "name": "Gina Jeanz",
+          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Body Bend",
+      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate) [Swizzymack Remix]",
         "url": "https://open.spotify.com/album/5sBmlgY9QI82CYKHIFu3ww"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Rhythm Chronicles",
-        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
-      },
-      "artists": [
-        {
-          "name": "Gina Jeanz",
-          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Body Bend",
-      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Nzinga",
         "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
       },
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "We from Baltimore",
-        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
-        }
-      ],
-      "duration_ms": 131391,
-      "name": "Bitch We from Baltimore",
-      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
       },
@@ -1311,6 +1291,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+        }
+      ],
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Nah Follow Dem",
         "url": "https://open.spotify.com/album/1XXV1sE3cJ2eshrGhwu2zg"
       },
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Tighten Up",
+        "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
+      },
+      "artists": [
+        {
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+        }
+      ],
+      "duration_ms": 123650,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Jersey",
         "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 143399,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Tighten Up",
-        "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
-      },
-      "artists": [
-        {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        }
-      ],
-      "duration_ms": 123650,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Sweaty Clothes",
+        "url": "https://open.spotify.com/album/5AsYAgNA5T7J0zyduUi1K2"
+      },
+      "artists": [
+        {
+          "name": "DJ Slugo",
+          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
+        },
+        {
+          "name": "Cerrissa Koza",
+          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "Sweaty Clothes",
+      "url": "https://open.spotify.com/track/1UUzO7l0CPOoZKAXrwTJ5j"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Impossible (Roska Remix)",
         "url": "https://open.spotify.com/album/11yIOT6Gaqn2T4c1Lusgi4"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 239000,
       "name": "Impossible - Roska Remix",
       "url": "https://open.spotify.com/track/5y8vPSQJqelX46gjX0KYmi"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Sweaty Clothes",
-        "url": "https://open.spotify.com/album/5AsYAgNA5T7J0zyduUi1K2"
-      },
-      "artists": [
-        {
-          "name": "DJ Slugo",
-          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
-        },
-        {
-          "name": "Cerrissa Koza",
-          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Sweaty Clothes",
-      "url": "https://open.spotify.com/track/1UUzO7l0CPOoZKAXrwTJ5j"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "HARIK\u0112N",
-        "url": "https://open.spotify.com/album/2esoQJyT3OTzWDw6yUXYO3"
-      },
-      "artists": [
-        {
-          "name": "shnd\u014d",
-          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
-        }
-      ],
-      "duration_ms": 160140,
-      "name": "HARIK\u0112N",
-      "url": "https://open.spotify.com/track/3yglfaWdEzm0KMS7K7MMTH"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Bubbly",
         "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Sub Zero",
-        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+        "name": "HARIK\u0112N",
+        "url": "https://open.spotify.com/album/2esoQJyT3OTzWDw6yUXYO3"
       },
       "artists": [
         {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+          "name": "shnd\u014d",
+          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
         }
       ],
-      "duration_ms": 206093,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
+      "duration_ms": 160140,
+      "name": "HARIK\u0112N",
+      "url": "https://open.spotify.com/track/3yglfaWdEzm0KMS7K7MMTH"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Philly Goats House Mixes",
         "url": "https://open.spotify.com/album/6QOGShPPl9oiWqWRigqcJM"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Wash Yo Handz",
-        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
-      },
-      "artists": [
-        {
-          "name": "DJ Class",
-          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
-        }
-      ],
-      "duration_ms": 118282,
-      "name": "Wash Yo Handz",
-      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Money Mouth",
         "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
       },
@@ -1667,26 +1651,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Period",
-        "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
+        "name": "Wash Yo Handz",
+        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
       },
       "artists": [
         {
-          "name": "leanon",
-          "url": "https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ"
-        },
-        {
-          "name": "Fatou",
-          "url": "https://open.spotify.com/artist/3Cv8Mlj2kEGomJuHHfMKHZ"
-        },
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+          "name": "DJ Class",
+          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
         }
       ],
-      "duration_ms": 113493,
-      "name": "Period",
-      "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
+      "duration_ms": 118282,
+      "name": "Wash Yo Handz",
+      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1731,6 +1707,30 @@
       "duration_ms": 157714,
       "name": "STAND BACK (RELOADED)",
       "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Period",
+        "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
+      },
+      "artists": [
+        {
+          "name": "leanon",
+          "url": "https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ"
+        },
+        {
+          "name": "Fatou",
+          "url": "https://open.spotify.com/artist/3Cv8Mlj2kEGomJuHHfMKHZ"
+        },
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 113493,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1919,6 +1919,46 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
+      },
+      "artists": [
+        {
+          "name": "Patrick",
+          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Busy (Jaymie Silk Remix)",
+        "url": "https://open.spotify.com/album/1QZ38VPwqmFHNUbXurW20B"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "Jaymie Silk",
+          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Busy - Jaymie Silk Remix",
+      "url": "https://open.spotify.com/track/123p7SXAx8SBGLwLVlpmon"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Bombtrack (Roska Remix)",
         "url": "https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C"
       },
@@ -1947,46 +1987,6 @@
       "duration_ms": 268057,
       "name": "Bombtrack (Roska Remix)",
       "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Busy (Jaymie Silk Remix)",
-        "url": "https://open.spotify.com/album/1QZ38VPwqmFHNUbXurW20B"
-      },
-      "artists": [
-        {
-          "name": "Nina Las Vegas",
-          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
-        },
-        {
-          "name": "Jaymie Silk",
-          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Busy - Jaymie Silk Remix",
-      "url": "https://open.spotify.com/track/123p7SXAx8SBGLwLVlpmon"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
-      },
-      "artists": [
-        {
-          "name": "Patrick",
-          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
     },
     {
       "added_at": "2024-01-26 05:00:00",

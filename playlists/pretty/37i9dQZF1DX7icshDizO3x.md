@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > 【STAYが選ぶスキズ楽曲ベスト】トップ32曲！さらに進化するのでMy Libraryに追加してお楽しみください！
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,805 likes - 32 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,899 likes - 32 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 | 31 | [Question](https://open.spotify.com/track/5tuWRIcjZJXPKio9W8jFqh) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:04 |
 | 32 | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/track/24c1YnlFKxrAPINd69UlLd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:13 |
 
-Snapshot ID: `MCw3NzY4NGI4MjRlNjI1ODlkZThiODcxMWI5NTBmN2RmNDQ2YTBhOWY2`
+Snapshot ID: `MCw2MTI4MzI3MDc1MzY2Yzk1ODc3NGNmMTFlYjg2NWNjMTQzYjRhNjIw`

@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 7177,
+  "2024-04-09": 7176,
   "date_first_scraped": "2022-12-24",
   "description": "This is \u6797\u3086\u3046\u304d. The essential tracks, all in one playlist.",
   "name": "This Is \u6797\u3086\u3046\u304d",
@@ -427,7 +427,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 229093,
       "name": "My Hero Is Our Hero",
       "url": "https://open.spotify.com/track/2yheZqd9dNuvawJM1lkeAU"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 132866,
       "name": "\u30aa\u30fc\u30eb\u30fb\u30d5\u30a9\u30fc\u30fb\u30ef\u30f3",
       "url": "https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 224573,
       "name": "\u4e09\u4f4d\u4e00\u4f53",
       "url": "https://open.spotify.com/track/6mLaZxhLKgeeQBMh0Aj8Uw"
@@ -1401,6 +1401,24 @@
       "duration_ms": 162000,
       "name": "\u6557\u8005",
       "url": "https://open.spotify.com/track/3MKlI3y3MQjcAzmgG3VJoe"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "\u6557\u8005",
+      "url": "https://open.spotify.com/track/4vRbvyWLU5Salwd9RYous6"
     },
     {
       "album": {

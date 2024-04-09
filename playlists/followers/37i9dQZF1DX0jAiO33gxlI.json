@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 222580,
+  "2024-04-09": 222584,
   "date_first_scraped": "2022-03-24",
   "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Rashid",
   "name": "Presen\u00e7a Hip Hop",
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 157586,
       "name": "As Preta Primeiro",
       "url": "https://open.spotify.com/track/7L1JQv9Lg1QFMmiGvUmQDq"
@@ -1252,6 +1252,32 @@
     },
     {
       "album": {
+        "name": "Bala No Copo",
+        "url": "https://open.spotify.com/album/61hHJx97dLlGNaZrsvLNqu"
+      },
+      "artists": [
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164676,
+      "name": "Bala No Copo",
+      "url": "https://open.spotify.com/track/3kpavRHss4ebrwVy00AkqG"
+    },
+    {
+      "album": {
         "name": "Ballin",
         "url": "https://open.spotify.com/album/7L9pBeyUEISPEfiYI7WUdu"
       },
@@ -1389,7 +1415,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 114545,
       "name": "Bate Palma",
       "url": "https://open.spotify.com/track/4gqLLxX1pjQSL8RYlx7fAr"
@@ -3025,7 +3051,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 198260,
       "name": "Cupido Querido",
       "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
@@ -3615,6 +3641,36 @@
       "duration_ms": 154160,
       "name": "Desde Que Eu N\u00e3o Tinha Nada",
       "url": "https://open.spotify.com/track/5RcI8wb122fcezQ3x8UjIT"
+    },
+    {
+      "album": {
+        "name": "DESTAK",
+        "url": "https://open.spotify.com/album/3NetXsD8wACcMUPfDF7AVr"
+      },
+      "artists": [
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+        },
+        {
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
+        },
+        {
+          "name": "Trulin",
+          "url": "https://open.spotify.com/artist/14rWyhIOfnqsOlXpKJ81UO"
+        },
+        {
+          "name": "Lucas fig",
+          "url": "https://open.spotify.com/artist/423DHvDLXEvdp3tYOEwn9I"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144569,
+      "name": "DESTAK",
+      "url": "https://open.spotify.com/track/6eJQdXS6mMWEnMq19OotXL"
     },
     {
       "album": {
@@ -5278,6 +5334,36 @@
     },
     {
       "album": {
+        "name": "Fogo na Pista",
+        "url": "https://open.spotify.com/album/3adhQSW4QhQnEEngjqyUhF"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Dejour",
+          "url": "https://open.spotify.com/artist/2qPE1cHelmMHiIqKHhQdK4"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Fogo na Pista",
+      "url": "https://open.spotify.com/track/0h3a7Km9Ldz1B1NnET4Qb8"
+    },
+    {
+      "album": {
         "name": "Forasteiro",
         "url": "https://open.spotify.com/album/7uN5MHZaKna9fvaSPtOck6"
       },
@@ -6871,6 +6957,32 @@
       "duration_ms": 211252,
       "name": "Lado Sujo, Pt. 2",
       "url": "https://open.spotify.com/track/05OORli4KkXy3evm4sGNkU"
+    },
+    {
+      "album": {
+        "name": "Lado Sul",
+        "url": "https://open.spotify.com/album/0auawK0pQ2eMKY9QlWRF1Q"
+      },
+      "artists": [
+        {
+          "name": "PH Original",
+          "url": "https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1"
+        },
+        {
+          "name": "Liip Beats",
+          "url": "https://open.spotify.com/artist/3Pr7FENKcGB6uHVbHDXcPC"
+        },
+        {
+          "name": "MADDRUGA",
+          "url": "https://open.spotify.com/artist/5WTKBWeFY0In0q57BtzZUd"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "Lado Sul",
+      "url": "https://open.spotify.com/track/3oRnApxPuuDm1atizRli2p"
     },
     {
       "album": {
@@ -8878,6 +8990,36 @@
     },
     {
       "album": {
+        "name": "Sabotage 50",
+        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Xis",
+          "url": "https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222351,
+      "name": "No Brooklin - Sabotage 50",
+      "url": "https://open.spotify.com/track/7qe83eUTv4IbvMYCYCOAbu"
+    },
+    {
+      "album": {
         "name": "No Corre",
         "url": "https://open.spotify.com/album/2BRH2zjETIcdj10WqZrsRm"
       },
@@ -9279,7 +9421,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 185000,
       "name": "N\u00e3o \u00c9 Ju",
       "url": "https://open.spotify.com/track/3dTOZAznQKLSApKHT0qYET"
@@ -9780,6 +9922,28 @@
     },
     {
       "album": {
+        "name": "Original de Quebrada",
+        "url": "https://open.spotify.com/album/2gsOlo29mjQD3coDUgG6zG"
+      },
+      "artists": [
+        {
+          "name": "Edgar",
+          "url": "https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z"
+        },
+        {
+          "name": "Nelson D",
+          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Original de Quebrada",
+      "url": "https://open.spotify.com/track/4JYheUzxgSHkoQ4p4jAJJO"
+    },
+    {
+      "album": {
         "name": "Original Demais pra Ser Dubl\u00ea (Sai)",
         "url": "https://open.spotify.com/album/4TZQcRV8eYTB0YyNO9X6dC"
       },
@@ -10149,7 +10313,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 206142,
       "name": "Pegando Carona",
       "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
@@ -10700,6 +10864,28 @@
     },
     {
       "album": {
+        "name": "D\u00e1 Pra Imaginar / Plebe",
+        "url": "https://open.spotify.com/album/5K1NxYHrNZoTIjzhyGCUKO"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174702,
+      "name": "Plebe",
+      "url": "https://open.spotify.com/track/0ZtjsIEFFFq8jl4ObKqlvE"
+    },
+    {
+      "album": {
         "name": "Podcast",
         "url": "https://open.spotify.com/album/3zE8liYYIGutz1qLXwySz1"
       },
@@ -10741,6 +10927,24 @@
       "duration_ms": 192962,
       "name": "Podcast - Ao Vivo",
       "url": "https://open.spotify.com/track/5vuVz9btN4PBd2rdTdAVQE"
+    },
+    {
+      "album": {
+        "name": "Pode Se Envolver",
+        "url": "https://open.spotify.com/album/1YyPwoPQ5TIxUBSWB0O0Sc"
+      },
+      "artists": [
+        {
+          "name": "Slim Rimografia",
+          "url": "https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Pode Se Envolver",
+      "url": "https://open.spotify.com/track/5bIStDozcJatCWbsbh6a8d"
     },
     {
       "album": {
@@ -11141,7 +11345,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 143333,
       "name": "Qatar Freestyle (Papatracks #9)",
       "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
@@ -11744,6 +11948,28 @@
     },
     {
       "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/5rIuM3ku9VMsYjCRH4NfbY"
+      },
+      "artists": [
+        {
+          "name": "Pierre S.",
+          "url": "https://open.spotify.com/artist/7ssRnAHlA2ssd2vTlamAhy"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/20CUnJXQ9H0KfH6Qm1Hgpx"
+    },
+    {
+      "album": {
         "name": "Retro",
         "url": "https://open.spotify.com/album/17P3Iw3nUMezj9sWEnwDYN"
       },
@@ -12271,7 +12497,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 218823,
       "name": "Sem Pressa",
       "url": "https://open.spotify.com/track/3VB0JsD0mCbx9JlEi41bNu"
@@ -12559,7 +12785,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 99130,
       "name": "Serial Driller FREESTYLE",
       "url": "https://open.spotify.com/track/4L8tWeVnrEy2VwUObknirz"
@@ -13195,7 +13421,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 153070,
       "name": "Suco de Gangorra",
       "url": "https://open.spotify.com/track/40I4pXPRbnM99j81YLP9c6"

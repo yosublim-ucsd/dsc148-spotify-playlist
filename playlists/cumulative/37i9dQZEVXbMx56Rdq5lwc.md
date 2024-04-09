@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,550 songs - 3 day 12 hr 59 min
+1,551 songs - 3 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,7 +898,7 @@
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-07-21 | 2022-04-27 |
 | [Nejauti tu ritmo](https://open.spotify.com/track/4OiPl78qFMFaihQ5AM8PEk) | [Dmnk](https://open.spotify.com/artist/3zjrCFHnh6hMuS4Bg0sPpS), [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Nejauti tu ritmo](https://open.spotify.com/album/4jAxDRhTPtxCiK6ZxRUMCx) | 3:07 | 2023-05-24 | 2023-05-27 |
 | [Nemylėjau tavęs](https://open.spotify.com/track/3yeqYN4uzkXF034vZJfeAh) | [Gintariniai Laikai](https://open.spotify.com/artist/49JoHj1exgBGqL8ARESQ7c), [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [Nemylėjau tavęs](https://open.spotify.com/album/3dc1YnwCmPfKj0vCk9NCkd) | 3:17 | 2023-06-17 | 2023-06-19 |
-| [Nes Aš Tik Vėjas](https://open.spotify.com/track/3CqHPd7DL2cfXsGbOaNfp4) | [Sel](https://open.spotify.com/artist/3x5BNVdaDxbzqEQOxPoQ5F) | [Aš Kaip Žąsis](https://open.spotify.com/album/2rS7VRU14bCxN92rAdzZUX) | 3:52 | 2023-08-27 |  |
+| [Nes Aš Tik Vėjas](https://open.spotify.com/track/3CqHPd7DL2cfXsGbOaNfp4) | [Sel](https://open.spotify.com/artist/3x5BNVdaDxbzqEQOxPoQ5F) | [Aš Kaip Žąsis](https://open.spotify.com/album/2rS7VRU14bCxN92rAdzZUX) | 3:52 | 2023-08-27 | 2024-04-09 |
 | [Neskaičiuoju](https://open.spotify.com/track/3lMZmO5Pvd3aYkyUx0RQQa) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5), [Soliaris](https://open.spotify.com/artist/7LBzs6cqSEFzNeCXr3Bhhw) | [Neskaičiuoju](https://open.spotify.com/album/3CR5yUhJMTMTgUB8TZDmGD) | 2:48 | 2021-08-07 | 2021-08-24 |
 | [NESUSTABDOMAS](https://open.spotify.com/track/2X31yi2yeE7wQjJKgH3XzL) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:49 | 2022-08-27 | 2022-09-04 |
 | [Neturėjom Dainos](https://open.spotify.com/track/5i2P4wsbe6x8hrvdZwCSJj) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Olos](https://open.spotify.com/album/2MNW7btzSNiDWQq9QsGPBQ) | 5:00 | 2023-06-12 | 2023-06-15 |
@@ -921,7 +921,7 @@
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-05 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-09 |
 | [No morë talk](https://open.spotify.com/track/7qPiAhk71D2RqLRtnjDL76) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:58 | 2023-02-25 | 2023-03-02 |
-| [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2022-05-10 | 2023-10-23 |
+| [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2022-05-10 |  |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-01-19 | 2023-01-29 |
 | [Noriu](https://open.spotify.com/track/22UqkyV1Iz8krj5119H8XQ) | [GJan](https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy) | [Noriu](https://open.spotify.com/album/69mbffZ3n4xfGXgQTR0HN2) | 3:36 | 2022-08-05 | 2022-08-18 |
 | [noriu grįžt namo](https://open.spotify.com/track/6I6Pr0gPQJlvSTctTMVI94) | [Monique](https://open.spotify.com/artist/4zbz40hlj1xjpP8npH8A8a) | [ir tik dėl jos](https://open.spotify.com/album/3msSQA6ThgGFlODr9oVpJt) | 3:41 | 2023-10-28 | 2023-11-02 |
@@ -1009,10 +1009,11 @@
 | [PAŽADAI](https://open.spotify.com/track/6KOhOLjSsbv3bggefGCLLm) | [ba.](https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf) | [NAUTO](https://open.spotify.com/album/1XXP7AmLVPFsriIOegQYUf) | 2:59 | 2022-10-01 | 2024-02-13 |
 | [Pažadėti viską](https://open.spotify.com/track/1VTUbMt7Gpu8r773V9l4vs) | [FC Baseball](https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD) | [ŽVĖRYNĖ](https://open.spotify.com/album/0HQUjiRWR7bIQIEiBRYIfr) | 3:48 | 2022-02-02 | 2022-02-06 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-31 |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-08 |  |
 | [Peep Show](https://open.spotify.com/track/55mQOeMJtDZsY5dE79T8m9) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [DĖMESIO!](https://open.spotify.com/album/4VsOrX8Fg32ZQENEhUFTI5) | 2:56 | 2021-09-18 | 2021-09-20 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-23 | 2022-05-13 |
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 | 2024-01-09 | 2024-01-22 |
-| [Perlai](https://open.spotify.com/track/2riBo7Y0x7MoFCN6fv5yue) | [Sel](https://open.spotify.com/artist/3x5BNVdaDxbzqEQOxPoQ5F) | [Aš Kaip Žąsis](https://open.spotify.com/album/2rS7VRU14bCxN92rAdzZUX) | 3:54 | 2024-01-01 |  |
+| [Perlai](https://open.spotify.com/track/2riBo7Y0x7MoFCN6fv5yue) | [Sel](https://open.spotify.com/artist/3x5BNVdaDxbzqEQOxPoQ5F) | [Aš Kaip Žąsis](https://open.spotify.com/album/2rS7VRU14bCxN92rAdzZUX) | 3:54 | 2024-01-01 | 2024-04-09 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-25 |
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-07-25 | 2021-07-26 |
 | [Phantom Regret by Jim](https://open.spotify.com/track/1NlK2NtpuUazpziLhnJwEV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:59 | 2022-01-08 | 2022-01-10 |

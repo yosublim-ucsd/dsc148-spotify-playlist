@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring J\. Cole, Doja Cat, GloRilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,171 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,326 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [how many?](https://open.spotify.com/track/6fLU1fYLAemn8sBqIfNEB0) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [everything is obvious](https://open.spotify.com/album/00o4niYKMz7fC6yB45tWRt) | 1:26 |
 | 49 | [Kill The Static](https://open.spotify.com/track/3fbi5mSUuu0rRme7W4BQxl) | [Tino Szn](https://open.spotify.com/artist/5aQ4epm9xnqB7ZKfnEILCB) | [Kill The Static](https://open.spotify.com/album/4dzqasRu3oivUGAKtM8dXQ) | 3:25 |
 
-Snapshot ID: `MCxlY2JkMjQ3YThkYjI0YTljODlkYzBkYjRiYjUxMzA5MDAxY2ZmOGJk`
+Snapshot ID: `MCw3MDRiMTRiODA2N2ZiODMzNGZhODI4NDEwMWMxNGExNjU3MjYxNjVk`

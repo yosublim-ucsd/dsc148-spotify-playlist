@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-470 songs - 20 hr 57 min
+474 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Estuary](https://open.spotify.com/track/0uvXmStLwVQFAnhP6YD9TR) | [Post Op](https://open.spotify.com/artist/2QLZFqNC0yRXuhZi3VvOqS) | [Estuary](https://open.spotify.com/album/4RHtv2ncUKuH3TVzbLFtB8) | 3:13 | 2021-11-10 | 2022-09-09 |
 | [Etoile](https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Etoile](https://open.spotify.com/album/3MQsERyDqkYLQztXDBofaV) | 2:29 | 2021-11-10 | 2023-05-06 |
 | [evening cafe](https://open.spotify.com/track/7G37dmyKJB2ElUyPzPS4ss) | [cingie](https://open.spotify.com/artist/3LRWwnmhuhlhZilHht5dYw) | [evening cafe](https://open.spotify.com/album/5ZEtTCbokCZxMwptMrNBQR) | 2:03 | 2022-07-01 |  |
+| [Eventide Hours](https://open.spotify.com/track/1N3vQGr7C8eSk9ApS671J7) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Eventide Hours](https://open.spotify.com/album/0RLml74Al1iOsz6piU7tcE) | 3:12 | 2024-04-09 |  |
 | [Everything Fun In The Way You Dance](https://open.spotify.com/track/5KJe3Lh1UYFfZqrns2mN8w) | [Madbank](https://open.spotify.com/artist/0PWa4U2yMdW9jOhrKv6SzI), [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Soul Endeavors](https://open.spotify.com/album/1uHUfHUvN8aN5S43XeBZVu) | 3:03 | 2023-04-28 |  |
 | [Extramundane](https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [Extramundane](https://open.spotify.com/album/7iw6EuNKOKSBonMQ4iqE2c) | 2:32 | 2021-11-10 | 2022-05-11 |
 | [Fair Sky](https://open.spotify.com/track/2MULc6gHMdtUukyIYifPqw) | [NueBoo](https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [Window Shades](https://open.spotify.com/album/5Yh3xIKw4VK04mSZXPLIyN) | 2:25 | 2023-05-05 |  |
@@ -158,6 +159,7 @@
 | [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2021-11-10 | 2022-09-02 |
 | [Foresta](https://open.spotify.com/track/27deYXGhkgSd7glci93wwK) | [Maya Mde](https://open.spotify.com/artist/5CNQTClM0UBvapkEUe4mM2) | [Foresta](https://open.spotify.com/album/5BRB0pwU4dR4Hk19sk7Opf) | 2:56 | 2024-02-13 |  |
 | [Forever Yours](https://open.spotify.com/track/6uviz3fvF7MzJobVeJCXsZ) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Forever Yours](https://open.spotify.com/album/0nWeoNfUl2JRU8yWd88KLL) | 4:07 | 2021-11-10 | 2022-09-17 |
+| [Forgotten Summers](https://open.spotify.com/track/6oeCrGS7gJWfgCr6A9d8uS) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Forgotten Summers](https://open.spotify.com/album/2to3L32ztvJSFC4aDw1UO2) | 2:22 | 2024-04-09 |  |
 | [Forwards](https://open.spotify.com/track/4zBWSLd2yF6z3hDi292M8Z) | [Asa Bjorg](https://open.spotify.com/artist/1aFaXuKUvi4TpzZn8cKYRQ) | [Forwards](https://open.spotify.com/album/0mu6prS0OkwKyifgO9zAod) | 3:56 | 2021-11-10 | 2022-05-20 |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2021-11-10 | 2023-04-07 |
 | [Free As Dogs](https://open.spotify.com/track/3AtSwMiONFjvK8pFDxNqUT) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Famous](https://open.spotify.com/album/56AG1YCUB35Mbe8rqJV2iH) | 3:12 | 2022-06-10 | 2022-09-02 |
@@ -229,6 +231,7 @@
 | [lament orange](https://open.spotify.com/track/1NsENCo25TvQKmBk9khtNA) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [lament orange](https://open.spotify.com/album/5XgmzbVgztvwlUb3n0XwiY) | 2:56 | 2022-07-15 | 2023-02-18 |
 | [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 | 2023-08-19 |
 | [Las Vegas](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx) | [Spiral Solace](https://open.spotify.com/artist/2NNajlXb9VSrYlESf8AlKG) | [Las Vegas](https://open.spotify.com/album/18Pt5mnL3AsrQHiIVgeMUc) | 3:40 | 2021-11-10 | 2022-01-22 |
+| [Last Night](https://open.spotify.com/track/74Zfyh1mqDaKVxRe4YcIeM) | [Maison Prad](https://open.spotify.com/artist/2GFncvilyYhy81rRadV34d) | [Last Night](https://open.spotify.com/album/1sZy1LC3qv4oJplUFNGPxN) | 3:34 | 2024-04-09 |  |
 | [late hours](https://open.spotify.com/track/7nBwHiPERl38w1mfBt6E6t) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [late hours](https://open.spotify.com/album/1xVZe1oQp8MzstqKoHCOgt) | 2:04 | 2022-10-07 |  |
 | [Late Night Drive](https://open.spotify.com/track/1sHlhVfyPyVlyBpp1x5Xgz) | [Homage](https://open.spotify.com/artist/0Nax9ohdb2ezDUpPmT3iMz) | [Late Night Drive](https://open.spotify.com/album/45135XbCrnFc6aRXGmDzO4) | 2:20 | 2022-11-25 |  |
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2021-11-10 | 2022-06-10 |
@@ -430,6 +433,7 @@
 | [Till dig](https://open.spotify.com/track/2qcPi2BKIrArJ0Cnb06kqC) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Ta Paus](https://open.spotify.com/album/4sWUPjRnNBlT7GYfU9aPaU) | 3:35 | 2021-11-10 | 2022-07-08 |
 | [Time](https://open.spotify.com/track/7AlUplIMwg0AFXK4Ypj1KD) | [The Peaceful Beats Project](https://open.spotify.com/artist/2HxsVVdPzarYSgmY3UAtCB) | [Focus Inside](https://open.spotify.com/album/6j0BaPQlbezfWxEcVB7CLB) | 2:57 | 2021-11-10 | 2022-05-20 |
 | [Time Imprisoned](https://open.spotify.com/track/0LbCtG6IBveEF7MejHErAM) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Time Imprisoned](https://open.spotify.com/album/679DOisO4TQwg5UR3WKWP5) | 2:50 | 2022-06-17 |  |
+| [Time Is Passing](https://open.spotify.com/track/2VpqOuwZTksI3KrIqaD4eU) | [Connor Munyard](https://open.spotify.com/artist/5O2keCOuemDZOLBVRn8nmg) | [Time Is Passing](https://open.spotify.com/album/1L28wGRAM2g5ARwhH2pghi) | 2:55 | 2024-04-09 |  |
 | [Time Warped](https://open.spotify.com/track/3hNBfFtEyb4qFhaSLrvQi2) | [Kaj Lee](https://open.spotify.com/artist/21w3W6pw3KRqaaX3DhiVFG) | [Time Warped](https://open.spotify.com/album/6ghwOw5CnwlFmgM26gG9EQ) | 1:58 | 2021-11-10 | 2022-04-06 |
 | [To Be Here](https://open.spotify.com/track/54GvvO3gB5aW6tcwT2IvpJ) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [To Be Here](https://open.spotify.com/album/68ciTSRU84Bu3jHlLlCPgx) | 3:09 | 2024-03-26 |  |
 | [To you](https://open.spotify.com/track/7hPqGFVUZHdKGLS7xQIwd0) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [To you](https://open.spotify.com/album/2pUZkKAIngyGI5yJH7fz8e) | 1:51 | 2022-11-25 | 2023-07-29 |

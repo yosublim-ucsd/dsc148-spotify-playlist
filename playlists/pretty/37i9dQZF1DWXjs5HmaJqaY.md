@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,909 likes - 62 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,973 likes - 62 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 61 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 |
 | 62 | [Freedom \- Breitenstein Remix](https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj), [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Freedom Remixes](https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv) | 7:02 |
 
-Snapshot ID: `MCxiZDMxMDQ5YjJkNjNjOTUxOGNiMjU0ZGQ5MGMyODY3ODZhMDM5Njhi`
+Snapshot ID: `MCxlYmRjZmI4ODQ5YWI1YTlhOWU4NjE0MTQ5NTUyYzIyNWM2ZDdjYjI2`

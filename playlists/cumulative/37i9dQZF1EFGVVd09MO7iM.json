@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 248240,
       "name": "Chingy Jackpot",
       "url": "https://open.spotify.com/track/36n0GlZkzkU58qfDueQKBd"
@@ -5253,6 +5253,32 @@
     },
     {
       "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266253,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/4TRUsIZw92IhJjAtxtiC4e"
+    },
+    {
+      "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/1YwzJz7CrV9fd9Qeb6oo1d"
       },
@@ -5272,7 +5298,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 266253,
       "name": "Lift Off",
       "url": "https://open.spotify.com/track/63dETSxIKCdUHGzlUyCjWb"
@@ -6814,7 +6840,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 295400,
       "name": "Recognize (feat. Chris Rock)",
       "url": "https://open.spotify.com/track/5NSmT4lUFahOBEYSKYmCj1"

@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 303799,
+  "2024-04-09": 303846,
   "date_first_scraped": "2023-12-25",
   "description": "Enter an Alpha meditative state with mid-range frequencies and then ease into a Theta brainwave state.",
   "name": "Binaural Beats: Meditation",
@@ -363,6 +363,24 @@
       "duration_ms": 178898,
       "name": "Alpha Peace (93Hz - 103Hz)",
       "url": "https://open.spotify.com/track/3sWYDCDKnKsQMzg2J3FJRA"
+    },
+    {
+      "album": {
+        "name": "Alpha REM 82 Hz - 92 Hz",
+        "url": "https://open.spotify.com/album/1pdONj5eMm3maQzqVtNNdV"
+      },
+      "artists": [
+        {
+          "name": "REM",
+          "url": "https://open.spotify.com/artist/6FdgwOhDP1kPWChJQqKGA4"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Alpha REM 82 Hz - 92 Hz",
+      "url": "https://open.spotify.com/track/6Fn4dlKQFkDP421P2IShjC"
     },
     {
       "album": {

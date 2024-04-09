@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 429850,
       "name": "Aurora (Avision Remix)",
       "url": "https://open.spotify.com/track/1xmZtHJmUQXeWMdKbVGd3B"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 379083,
       "name": "Aurora (Ivory Sunrise Mix)",
       "url": "https://open.spotify.com/track/1hrZPeG4HHQsIB5jRXkcRG"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 370909,
       "name": "Belgium (Christopher Coe Remix)",
       "url": "https://open.spotify.com/track/6Tuvx0H6dkcX4P3bxF4qPF"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 436764,
       "name": "Belgium (Josh Wink Strings Remix)",
       "url": "https://open.spotify.com/track/799sZyTRoI5MsCeajPlnBL"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 437760,
       "name": "Black Triangles (Bawrut Remix)",
       "url": "https://open.spotify.com/track/30wACka2xHLztuBuAeCfmY"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 344038,
       "name": "Black Triangles (Metodi Hristov Remix)",
       "url": "https://open.spotify.com/track/6gWVWzgvWWjey1z0tiHeO1"
@@ -580,6 +580,24 @@
       "duration_ms": 426674,
       "name": "Body Sweat",
       "url": "https://open.spotify.com/track/3rYdmZ90weUjvLRapJlaPb"
+    },
+    {
+      "album": {
+        "name": "Mamma Noise - EP",
+        "url": "https://open.spotify.com/album/1DE6oRbkbyGJ0wg3hHN12K"
+      },
+      "artists": [
+        {
+          "name": "Anderson Noise",
+          "url": "https://open.spotify.com/artist/2me4xwYD90Z6cyk21AZX8i"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325984,
+      "name": "Boogie Down Now",
+      "url": "https://open.spotify.com/track/06IwF60L7Z6cCLR60t84dv"
     },
     {
       "album": {
@@ -735,6 +753,28 @@
     },
     {
       "album": {
+        "name": "Climb The Tree (Marc Romboy Remix)",
+        "url": "https://open.spotify.com/album/615UGdPgSlSsZmoGLScyGN"
+      },
+      "artists": [
+        {
+          "name": "An On Bast",
+          "url": "https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs"
+        },
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432755,
+      "name": "Climb The Tree - Marc Romboy Remix",
+      "url": "https://open.spotify.com/track/5mKRpmpggYyUVrr7G3k1bC"
+    },
+    {
+      "album": {
         "name": "Mindset - EP",
         "url": "https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4"
       },
@@ -824,6 +864,28 @@
       "duration_ms": 439440,
       "name": "Computer Love - 2009 Remaster",
       "url": "https://open.spotify.com/track/7CZdd0S4WTktuiiARS8pY4"
+    },
+    {
+      "album": {
+        "name": "Concentrate",
+        "url": "https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB"
     },
     {
       "album": {
@@ -1277,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Everything Is Amazing",
+        "url": "https://open.spotify.com/album/0I9RDomQqWtbtVg2Yyq10M"
+      },
+      "artists": [
+        {
+          "name": "Hilit Kolet",
+          "url": "https://open.spotify.com/artist/55V8bcpuStLufEK3xFIwyy"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194183,
+      "name": "Everything Is Amazing - Edit",
+      "url": "https://open.spotify.com/track/77jrsG7CbtfaM3utFZGP6d"
+    },
+    {
+      "album": {
         "name": "Music Made for Aliens",
         "url": "https://open.spotify.com/album/2mFKFYNlT5gYdBaAGbRHnP"
       },
@@ -1310,7 +1390,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 320455,
       "name": "Exeter (Pfirter Remix)",
       "url": "https://open.spotify.com/track/7iX8EXzCjjRI5eEWNVvotm"
@@ -1412,6 +1492,24 @@
       "duration_ms": 399480,
       "name": "Friction",
       "url": "https://open.spotify.com/track/1zpsyx9HYDqYv99kc6wez0"
+    },
+    {
+      "album": {
+        "name": "Nitro",
+        "url": "https://open.spotify.com/album/1Ulfcs34i5xWug4fiV0dtS"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350568,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/4xNSwGdAS330yJu9bFj9Pb"
     },
     {
       "album": {
@@ -2084,7 +2182,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 343357,
       "name": "Intelligence (FLUG Remix)",
       "url": "https://open.spotify.com/track/6BHK6V4eQcgUc0NQh0nUu3"
@@ -2106,7 +2204,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 384854,
       "name": "Intelligence (Toto Chiavetta Remix)",
       "url": "https://open.spotify.com/track/1AspxCsGxK7vG5bLsKCuxX"
@@ -2414,6 +2512,24 @@
       "duration_ms": 408750,
       "name": "Malbiten",
       "url": "https://open.spotify.com/track/4hQN5kvT1djcKlvz9lgSnu"
+    },
+    {
+      "album": {
+        "name": "Mamma Noise - EP",
+        "url": "https://open.spotify.com/album/1DE6oRbkbyGJ0wg3hHN12K"
+      },
+      "artists": [
+        {
+          "name": "Anderson Noise",
+          "url": "https://open.spotify.com/artist/2me4xwYD90Z6cyk21AZX8i"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325500,
+      "name": "Mamma Noise",
+      "url": "https://open.spotify.com/track/1XIphUO0dVhjSBTn4KbTbA"
     },
     {
       "album": {
@@ -3191,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/5ftHU8c3OPkWMmKdtIll18"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323829,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj"
+    },
+    {
+      "album": {
         "name": "Reflection EP",
         "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
@@ -3276,6 +3410,24 @@
       "duration_ms": 354490,
       "name": "Rhythm Tension",
       "url": "https://open.spotify.com/track/2ToQPlXkcArtp7DhUhRDFA"
+    },
+    {
+      "album": {
+        "name": "Rouge Acid",
+        "url": "https://open.spotify.com/album/2PSPabkQXWeqK9YwD34WGp"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408679,
+      "name": "Rouge Acid",
+      "url": "https://open.spotify.com/track/5Sv2FkzWzasTMYmWYsNa0s"
     },
     {
       "album": {
@@ -3500,6 +3652,24 @@
       "duration_ms": 358081,
       "name": "She Hates That Chord",
       "url": "https://open.spotify.com/track/6KG3nib4DciCHi9L4QVfH7"
+    },
+    {
+      "album": {
+        "name": "Silver Spark",
+        "url": "https://open.spotify.com/album/0SWoFlfVjModLr3r5qeVNi"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261176,
+      "name": "Silver Spark",
+      "url": "https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk"
     },
     {
       "album": {
@@ -3964,6 +4134,32 @@
       "duration_ms": 656962,
       "name": "Tales from The Real World",
       "url": "https://open.spotify.com/track/5JuGY5qQy5byKT3RB04bYV"
+    },
+    {
+      "album": {
+        "name": "The Unreleased Remixes, Vol. 1",
+        "url": "https://open.spotify.com/album/0exX6L0mEtWcfdrvW3TwyT"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        },
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        },
+        {
+          "name": "Andr\u00e9 Winter",
+          "url": "https://open.spotify.com/artist/3uGjpxycNoFU7hQYQduP4k"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399230,
+      "name": "Talking To You (Marc Romboy & Andr\u00e9 Winter Remix)",
+      "url": "https://open.spotify.com/track/0WAjrqMeLz454UkhCdU4lM"
     },
     {
       "album": {

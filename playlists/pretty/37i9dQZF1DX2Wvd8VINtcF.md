@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Goldielocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,803 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,838 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [All 4 One](https://open.spotify.com/track/0T2xAaVPUiEfe6c7RMmpcF) | [VAIN](https://open.spotify.com/artist/2YYQsfuJDgBdYHNJMZA1BS), [Glayden](https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj), [Niko Demus](https://open.spotify.com/artist/1tzCwHckFepdUWpH3WxFXD), [MFM](https://open.spotify.com/artist/5xvA0mjmeF1CxB12bjWR8l), [inter alia](https://open.spotify.com/artist/4XxygEqjEzswVq93XqGv77) | [From HEL With Love](https://open.spotify.com/album/5EDrg0lAWiSoZ7SEcAH0wt) | 3:47 |
 | 99 | [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 |
 
-Snapshot ID: `MCw4YzAyN2U3MWM5MDcyZDRiNzM5ZmY1ZTBjMTgwZThhYWJhOTcwY2Nh`
+Snapshot ID: `MCxhODhkZTljM2RmZGIzZDM1YTkzMmMxNzQyYjk3ODMyZGY4MmUyZDNi`

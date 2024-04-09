@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Jojo Siwa
 
-865 songs - 1 day 19 hr 33 min
+866 songs - 1 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 | 2023-10-17 |  |
 | [Moonlight](https://open.spotify.com/track/5QWWWBAkC6sDuCLlKubuYi) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR](https://open.spotify.com/album/1B65FjcrhMSeAK719d2Jz2) | 3:10 | 2022-05-27 | 2023-01-28 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 | 2023-02-11 |
+| [MOTHER ATE](https://open.spotify.com/track/6S2LusrzKx5Khn4FxfzhYw) | [Jane Bell](https://open.spotify.com/artist/77bNmKoq4fuzSlRB8KDCKk) | [MOTHER ATE](https://open.spotify.com/album/17SKda70MgNi3mViFcweHp) | 3:21 | 2024-04-08 |  |
 | [Motorbike](https://open.spotify.com/track/2HYay9cjoX0v5mgOaQFufh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Motorbike](https://open.spotify.com/album/6KuekGFTXLpJU73y7jXqG0) | 2:26 | 2023-09-15 | 2023-12-09 |
 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Move](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 | 2023-05-12 | 2023-06-17 |
 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 | 2022-03-18 | 2022-05-28 |
@@ -627,7 +628,7 @@
 | [Rebel Revolution](https://open.spotify.com/track/1GmC0Iva33Hf3uCF5VU7ZJ) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Rebel Revolution](https://open.spotify.com/album/6qIZTPqy1uZCIkvJaxfwCV) | 3:08 | 2022-07-31 | 2022-09-03 |
 | [Rebel Revolution](https://open.spotify.com/track/1dIFTswy9iCiF2gVVvmwNV) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Rebel Revolution](https://open.spotify.com/album/4OpD2M4bZ8BMgOkWl7OfxO) | 3:08 | 2022-05-27 | 2022-08-01 |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-10-13 |  |
-| [RELAX AFTER WORK WITH A DRINK](https://open.spotify.com/track/6pCesx8BBK7A6wevRbTVfk) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 1:57 | 2023-12-11 |  |
+| [RELAX AFTER WORK WITH A DRINK](https://open.spotify.com/track/6pCesx8BBK7A6wevRbTVfk) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 1:57 | 2023-12-11 | 2024-04-09 |
 | [Remedy](https://open.spotify.com/track/5C3J3C5nzBclrE8xuW5UQ7) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/5DkP7hUfhlC2lvvJ0d1jtz) | 2:27 | 2022-07-25 | 2022-07-30 |
 | [Remedy](https://open.spotify.com/track/5wXpoS2j5VYb7V3nK66xDe) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/3HbUBiBpAWBzQlVej5s73c) | 2:27 | 2022-02-15 | 2022-07-29 |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2022-11-18 | 2023-02-18 |

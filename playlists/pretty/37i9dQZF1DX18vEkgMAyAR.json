@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 67902,
+  "num_followers": 67905,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWI1NDFlYzA4YTJlOWU2ODRkNDgyNzgwNDI4MjdiYzRlNWYzYzc0",
+  "snapshot_id": "MCw1MDliNjExZDA3NDZlMjc0MTkxODE0NDA3Y2FiZWY3MjQ5NmIwNGRl",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "While The World Was Burning",
         "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 176218,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "Three Second Memory (Deluxe)",
+        "url": "https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        }
+      ],
+      "duration_ms": 359226,
+      "name": "Moonwalk Away",
+      "url": "https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "Stay (feat. Dana Williams)",
         "url": "https://open.spotify.com/album/659fdu0EaiK5Ilsh3dBTQW"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 250826,
       "name": "Rafael",
       "url": "https://open.spotify.com/track/7od1iIHmDdFSeaLvNF6mCM"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "Three Second Memory (Deluxe)",
-        "url": "https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        }
-      ],
-      "duration_ms": 359226,
-      "name": "Moonwalk Away",
-      "url": "https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "The Hanging Gardens Of Beatenberg",
-        "url": "https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ"
-      },
-      "artists": [
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "duration_ms": 352493,
-      "name": "Pluto - Live",
-      "url": "https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "Life Without Fantasies (Radio Edit)",
         "url": "https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
+        "name": "The Hanging Gardens Of Beatenberg",
+        "url": "https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 352493,
+      "name": "Pluto - Live",
+      "url": "https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
         "name": "Two High (Acoustic)",
         "url": "https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K"
       },
@@ -1075,6 +1075,26 @@
       "duration_ms": 212172,
       "name": "Two High - Acoustic",
       "url": "https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "OMOGE WA JO",
+        "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "L0LA",
+          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
+        }
+      ],
+      "duration_ms": 145084,
+      "name": "OMOGE WA JO",
+      "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1111,26 +1131,6 @@
       "duration_ms": 174159,
       "name": "Say You Will Remember Me - Remix",
       "url": "https://open.spotify.com/track/4r4vKPPrhM8leqcpjnT9QC"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
-        "name": "OMOGE WA JO",
-        "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "L0LA",
-          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
-        }
-      ],
-      "duration_ms": 145084,
-      "name": "OMOGE WA JO",
-      "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
     }
   ],
   "unique_name": "Feel Good Look Good",

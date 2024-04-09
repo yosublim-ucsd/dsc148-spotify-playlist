@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Penyendiri",
+        "url": "https://open.spotify.com/album/70JRb7Z5FHl8lcyUXmNFHc"
+      },
+      "artists": [
+        {
+          "name": "Misellia",
+          "url": "https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183218,
+      "name": "Akhir Tak Bahagia",
+      "url": "https://open.spotify.com/track/304FEq5eVvrxur9KdHhC5I"
+    },
+    {
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
@@ -2970,6 +2988,24 @@
       "duration_ms": 275900,
       "name": "Tega",
       "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"
+    },
+    {
+      "album": {
+        "name": "Berdamai",
+        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220010,
+      "name": "Teramini",
+      "url": "https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk"
     },
     {
       "album": {

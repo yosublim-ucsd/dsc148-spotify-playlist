@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.
 
-3,232 songs - 7 day 15 hr 37 min
+3,233 songs - 7 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1903,7 +1903,7 @@
 | [Music Is My Way Of Life \- JKriv Remix](https://open.spotify.com/track/5DLEESU416w0XuJwr4ceux) | [Full Flava](https://open.spotify.com/artist/5t5JR8OaTz7lsKo9xFKnl3), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Music Is My Way Of Life \(JKriv Remix\)](https://open.spotify.com/album/4SPyd2Z0wZNort5bJnDPyO) | 5:52 | 2021-11-27 | 2021-12-12 |
 | [Music Is My Woman](https://open.spotify.com/track/6XTAAKLGIP4vCCHA2ZNM9u) | [LAZYRAVE](https://open.spotify.com/artist/3AfVo7omZ2E22MfF27d5ca) | [Music Is My Woman](https://open.spotify.com/album/3sft3s7A0UEb9uMi2B5eB9) | 3:37 | 2020-04-18 | 2020-04-25 |
 | [Music of Life](https://open.spotify.com/track/1O92r7YlzWBp7jYNn7HK8E) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Music of Life](https://open.spotify.com/album/5tqdzZyBKECO8AmpqNnOLX) | 4:00 | 2023-05-11 | 2023-05-30 |
-| [Mustard on My Shirt](https://open.spotify.com/track/6EYHbUZVtHpbPiWByxj1tS) | [Ethan Larsh](https://open.spotify.com/artist/4vva0Pt8sHIQOTYj2sShcG) | [Into Thine Kingdom of Heaven](https://open.spotify.com/album/2BrLngfgTkg0BdixMSXtbJ) | 3:42 | 2024-03-29 |  |
+| [Mustard on My Shirt](https://open.spotify.com/track/6EYHbUZVtHpbPiWByxj1tS) | [Ethan Larsh](https://open.spotify.com/artist/4vva0Pt8sHIQOTYj2sShcG) | [Into Thine Kingdom of Heaven](https://open.spotify.com/album/2BrLngfgTkg0BdixMSXtbJ) | 3:42 | 2024-03-29 | 2024-04-09 |
 | [Muñequita de Papel.](https://open.spotify.com/track/5ZRQEXAV0zLdlpEpfVPLtI) | [Amïn](https://open.spotify.com/artist/3LpVt4Rfa5RkNNisRd9vy0) | [Muñequita de Papel.](https://open.spotify.com/album/486iqtxMxt24sEIx09LoH9) | 3:37 | 2021-03-26 | 2021-04-11 |
 | [My 1st Song](https://open.spotify.com/track/69W44ENAu1t2JmZU6OJ2B7) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:45 | 2020-11-17 | 2020-12-04 |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2020-08-20 | 2023-08-28 |
@@ -1979,6 +1979,7 @@
 | [Nina Cried Power \(feat\. Mavis Staples\)](https://open.spotify.com/track/7wR5r0KYGXBpyWXCdyYs3F) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 3:45 | 2021-08-28 | 2021-09-11 |
 | [Nineteen](https://open.spotify.com/track/2IwSszozJ6xQtCCXlPYHVj) | [Sheepx](https://open.spotify.com/artist/3ZEAKkQ1Q47UB0aALmQewK), [bakterienfarm](https://open.spotify.com/artist/2C0tMrf2JvC23vCEvPt4rP), [Otto Palmborg](https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc) | [Nineteen](https://open.spotify.com/album/2j0C5qhbUbNo6mAJoHrIKh) | 2:57 | 2022-10-28 | 2022-11-19 |
 | [Ninfomana](https://open.spotify.com/track/7o1TdfoLOEQw8dmCfW2rDA) | [Nikillo Yb](https://open.spotify.com/artist/3CyUeCUiJ9jKrzRDCMEJQV) | [Ninfomana](https://open.spotify.com/album/4deg049QoyvEjVZlTzUkCU) | 3:12 | 2023-12-07 | 2023-12-16 |
+| [NME](https://open.spotify.com/track/0y9vwbIshMHjc2dYHNFEOo) | [TELAH!](https://open.spotify.com/artist/6KrViPFeoRXBXrkrTSId7M) | [NME](https://open.spotify.com/album/4TvDLynFlfuAPLRyGxoZaI) | 3:25 | 2024-04-08 |  |
 | [no doubt](https://open.spotify.com/track/3hm1vdAOy3t2nvFfXRlo0Y) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [no doubt](https://open.spotify.com/album/2sYahxXmv97Nc7mfq1Lt7N) | 3:08 | 2021-03-06 | 2021-03-20 |
 | [No Excuses](https://open.spotify.com/track/0jyTOoAx7dNLQEQje9Qex5) | [Mimis Kitchen](https://open.spotify.com/artist/7mJcAuOns8lI6MkVYAVEtE) | [No Excuses](https://open.spotify.com/album/5hizZrYbuDIlV41Fcjj2rg) | 2:46 | 2024-02-20 | 2024-02-28 |
 | [No Flowers](https://open.spotify.com/track/3MCfn1QhvcUZnwzMP7jF9s) | [Yassin](https://open.spotify.com/artist/6MQaXix1Y8JL3q2zYZkd1v), [Sean Terrio](https://open.spotify.com/artist/0l0Wq630AJX4XHHp6auylt) | [No Flowers](https://open.spotify.com/album/00PVTLFK2za5MOZa6rHa31) | 2:29 | 2020-08-24 | 2020-09-08 |

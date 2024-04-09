@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 48413,
+  "num_followers": 48416,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTA1YzY0MDA0NTUwZmMwMTI3NTllNTdhMWE1NTIyZmVmMjgyMmZi",
+  "snapshot_id": "MCw5YTRlMjZlNjUyMzQ5NmExMjU3YTRkNWM2ZmU5YjE0ODYyNWRkNDk5",
   "tracks": [
     {
       "added_at": "2024-03-28 15:19:07",
@@ -195,46 +195,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
-        }
-      ],
-      "duration_ms": 158031,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
       },
@@ -255,6 +215,26 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 158031,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Lost In The Sky",
         "url": "https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 160645,
       "name": "Lost In The Sky",
       "url": "https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Inside My Love",
+        "url": "https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Inside My Love",
+      "url": "https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -419,42 +435,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 159845,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Inside My Love",
-        "url": "https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Inside My Love",
-      "url": "https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 229484,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/595M3e9mqepEd19NGVEABi"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 159845,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Rest of My Life",
-        "url": "https://open.spotify.com/album/3Gq46ztXW7cqnXOmTydi1R"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Eloi El",
-          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
-        }
-      ],
-      "duration_ms": 139010,
-      "name": "Rest of My Life",
-      "url": "https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -611,22 +591,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Like The River",
-        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
+        "name": "Rest of My Life",
+        "url": "https://open.spotify.com/album/3Gq46ztXW7cqnXOmTydi1R"
       },
       "artists": [
         {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         },
         {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
         }
       ],
-      "duration_ms": 166991,
-      "name": "Like The River",
-      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
+      "duration_ms": 139010,
+      "name": "Rest of My Life",
+      "url": "https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -647,6 +627,26 @@
       "duration_ms": 142372,
       "name": "Ready For Your Love",
       "url": "https://open.spotify.com/track/2KNGqTAuFjtHnOwMHM2pSW"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "Like The River",
+        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
+      },
+      "artists": [
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        },
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 166991,
+      "name": "Like The River",
+      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Feeling Lost Tonight",
-        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
-      },
-      "artists": [
-        {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
-        }
-      ],
-      "duration_ms": 106315,
-      "name": "Feeling Lost Tonight",
-      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
       },
@@ -743,6 +727,38 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Feeling Lost Tonight",
+        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 106315,
+      "name": "Feeling Lost Tonight",
+      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Hold on Tight",
         "url": "https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 206384,
       "name": "Hold on Tight",
       "url": "https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Heartbreak In Seychelles",
         "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
-      },
-      "artists": [
-        {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "I Can See",
-      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -907,6 +907,30 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "Waiting in The Dark",
+        "url": "https://open.spotify.com/album/7q4bmI0F7WYKWmmPYZ8bhJ"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "BANDANA",
+          "url": "https://open.spotify.com/artist/1hoN1yLmFgWqQNPdGitU2m"
+        },
+        {
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        }
+      ],
+      "duration_ms": 119097,
+      "name": "Waiting in The Dark",
+      "url": "https://open.spotify.com/track/2XAJIpL4Mw4gXEPEjd0eDx"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -987,30 +1011,6 @@
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Waiting in The Dark",
-        "url": "https://open.spotify.com/album/7q4bmI0F7WYKWmmPYZ8bhJ"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "BANDANA",
-          "url": "https://open.spotify.com/artist/1hoN1yLmFgWqQNPdGitU2m"
-        },
-        {
-          "name": "LAST CALL",
-          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
-        }
-      ],
-      "duration_ms": 119097,
-      "name": "Waiting in The Dark",
-      "url": "https://open.spotify.com/track/2XAJIpL4Mw4gXEPEjd0eDx"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
@@ -1267,6 +1283,22 @@
       "duration_ms": 232917,
       "name": "About You",
       "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1311,38 +1343,6 @@
       "duration_ms": 152903,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Nomads",
+        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "Nomads",
+      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 269679,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs"
-      },
-      "artists": [
-        {
-          "name": "Mats Westbroek",
-          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
-        }
-      ],
-      "duration_ms": 184994,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
     }
   ],
   "unique_name": "Dance Chill",

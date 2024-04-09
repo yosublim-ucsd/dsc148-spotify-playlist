@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the film Bob Marley: One Love.",
-  "num_followers": 2244682,
+  "num_followers": 2245200,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGI3YjIwZDE4MjdjMTEyZTM0YTJiMjM1ZDYxMDM5MGE1MTFkYTQz",
+  "snapshot_id": "MCxkZWYxMGVmZGVkOWNjMWM4NjlkZDM0OGY4ZjliNjYyYWM0NmFiYTM4",
   "tracks": [
     {
       "added_at": "2024-01-29 05:23:56",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 279720,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Stony Hill",
         "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 222466,
       "name": "Medication",
       "url": "https://open.spotify.com/track/2WQKHNETUytUGsD32TTNeO"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Burnin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 279720,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Mama Africa",
         "url": "https://open.spotify.com/album/6iFMsJMHQ9zqty9vnRmycq"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "The Seven Year Itch",
         "url": "https://open.spotify.com/album/785pirNtohI84EfviUaGkq"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Stony Hill",
-        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
-      },
-      "artists": [
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Living It Up",
-      "url": "https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Night Nurse (Expanded Edition)",
         "url": "https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Reggae Greats - Toots & The Maytals",
-        "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
+        "name": "Stony Hill",
+        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
       },
       "artists": [
         {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
-      "duration_ms": 173493,
-      "name": "Pressure Drop - Single Version",
-      "url": "https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT"
+      "duration_ms": 240293,
+      "name": "Living It Up",
+      "url": "https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -623,6 +607,22 @@
       "duration_ms": 208466,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/43CAMHDrAVA3nJP2zgKJDI"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Reggae Greats - Toots & The Maytals",
+        "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Pressure Drop - Single Version",
+      "url": "https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Legalize It (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle"
-      },
-      "artists": [
-        {
-          "name": "Peter Tosh",
-          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Legalize It",
-      "url": "https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Revelation Part 1: The Root Of Life",
         "url": "https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 225333,
       "name": "Break Us Apart",
       "url": "https://open.spotify.com/track/5wgy309XNqFkqj8MMDquvj"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Legalize It (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle"
+      },
+      "artists": [
+        {
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Legalize It",
+      "url": "https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "Beach In Hawaii",
-      "url": "https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Mind Control",
         "url": "https://open.spotify.com/album/1uJzh0ZINTIALdPwDVrbJP"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 294786,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/1Bsl6Jw7bJtQ4pc7OQREog"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "Beach In Hawaii",
+      "url": "https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -947,6 +947,30 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Revelation Pt. II: The Fruit of Life",
+        "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Rock Stone",
+      "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Song Book: Chapter a Day",
         "url": "https://open.spotify.com/album/0UIDN8jPyn2Gt5LGFkTrsk"
       },
@@ -959,6 +983,38 @@
       "duration_ms": 154333,
       "name": "Tenement Yard",
       "url": "https://open.spotify.com/track/28auprp3b9yjwPYmUxFxkR"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "007 Shanty Town",
+        "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "007 (Shanty Town)",
+      "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "True Reflections...A New Beginning",
+        "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Longing For",
+      "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1035,22 +1091,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "007 Shanty Town",
-        "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "007 (Shanty Town)",
-      "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Do To Me",
         "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
@@ -1079,46 +1119,6 @@
       "duration_ms": 295666,
       "name": "Funky Kingston",
       "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Revelation Pt. II: The Fruit of Life",
-        "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
-      },
-      "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        },
-        {
-          "name": "Sizzla",
-          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Rock Stone",
-      "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "True Reflections...A New Beginning",
-        "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
-      },
-      "artists": [
-        {
-          "name": "Jah Cure",
-          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Longing For",
-      "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
-      },
-      "artists": [
-        {
-          "name": "Jah Cure",
-          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Equal Rights (Legacy Edition)",
         "url": "https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 269546,
       "name": "I Am That I Am",
       "url": "https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        }
+      ],
+      "duration_ms": 279533,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Who Feels It Knows It",
-        "url": "https://open.spotify.com/album/5BhC8RTEdWPiHF0HrzWE9F"
-      },
-      "artists": [
-        {
-          "name": "Rita Marley",
-          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "One Draw",
-      "url": "https://open.spotify.com/track/0Og4hTQytc9vv4CCxZ2wpy"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 242173,
       "name": "Chill Out",
       "url": "https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Who Feels It Knows It",
+        "url": "https://open.spotify.com/album/5BhC8RTEdWPiHF0HrzWE9F"
+      },
+      "artists": [
+        {
+          "name": "Rita Marley",
+          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "One Draw",
+      "url": "https://open.spotify.com/track/0Og4hTQytc9vv4CCxZ2wpy"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Hail H.I.M",
+        "url": "https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg"
+      },
+      "artists": [
+        {
+          "name": "Burning Spear",
+          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Hail H.I.M - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Ten Cane Row (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Hail H.I.M",
-        "url": "https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg"
-      },
-      "artists": [
-        {
-          "name": "Burning Spear",
-          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Hail H.I.M - 2002 Remastered Version",
-      "url": "https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Reggae Greats",
-        "url": "https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA"
-      },
-      "artists": [
-        {
-          "name": "Steel Pulse",
-          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "Handsworth Revolution",
-      "url": "https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "5 Decades of Jamaica's Musical Heritage",
         "url": "https://open.spotify.com/album/2xV5VH34Y2v2YPoinzCeyT"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 272360,
       "name": "Untold Strories",
       "url": "https://open.spotify.com/track/3HOBTvzauIkHi2TiVCGw0B"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Reggae Greats",
+        "url": "https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA"
+      },
+      "artists": [
+        {
+          "name": "Steel Pulse",
+          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Handsworth Revolution",
+      "url": "https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Stony Hill",
-        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
-      },
-      "artists": [
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 305733,
-      "name": "Speak Life",
-      "url": "https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "'Til Shiloh (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 237053,
       "name": "Murderer",
       "url": "https://open.spotify.com/track/3H9VcVDIdfgjZRj8Surw6s"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Stony Hill",
+        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 305733,
+      "name": "Speak Life",
+      "url": "https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv"
     }
   ],
   "unique_name": "One Love",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Pedro Lotto
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,634 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,635 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Iluminado](https://open.spotify.com/track/5MTWcFSTZgTT035W9E8oDy) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [Iluminado](https://open.spotify.com/album/6n724oU1bAC0bwZAoGqpqH) | 4:39 |
 | 75 | [FOR REAL](https://open.spotify.com/track/2xqo6OXTieIY50laJrqmUo) | [Moreir4](https://open.spotify.com/artist/67Ly0I5kLhLHjlT6L2dJTW), [Lp067](https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M) | [FOR REAL](https://open.spotify.com/album/0fxV7TYWILQMxBB8ZrDrh0) | 1:50 |
 
-Snapshot ID: `MCw2NjMyMDc4M2UyNDhjNDY0ODdmYTdhNTUyMjRlY2FiMjM1NTE4NWFi`
+Snapshot ID: `MCw3NGNiY2ZhNjAwNGQxYWVkNTcyOWQ3OGIyMjUxMzIxNWU3ZmQxYjZm`

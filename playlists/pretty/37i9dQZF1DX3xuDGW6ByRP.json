@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 48199,
+  "num_followers": 48201,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2I2YmYwYmNlMDc2YmZlYzA1MDY1ODk1Mzc2MDMyOGIzN2MzNTcw",
+  "snapshot_id": "MCwyNWI5MTIzZjNlMDFkYmFiZWEzZTBiNGU5ZjJmMDQ1YzcyNjdkNjY5",
   "tracks": [
     {
       "added_at": "2024-02-22 17:25:15",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Dilemma",
         "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Still Alive (From the Original Motion Picture Scream VI)",
+        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 185310,
+      "name": "Still Alive - From the Original Motion Picture Scream VI",
+      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "tired of california",
         "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
       },
@@ -351,6 +367,22 @@
       "duration_ms": 190800,
       "name": "tired of california",
       "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "lonely bitch",
+        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 175997,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -371,38 +403,6 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "Still Alive (From the Original Motion Picture Scream VI)",
-        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 185310,
-      "name": "Still Alive - From the Original Motion Picture Scream VI",
-      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "lonely bitch",
-        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 175997,
-      "name": "lonely bitch",
-      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Tell Me You Love Me - Rock Version",
+      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "ur just horny",
         "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 174786,
       "name": "Anestesiado",
       "url": "https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Tell Me You Love Me - Rock Version",
-      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Caso Perdido",
+        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 199401,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "Dona da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Caso Perdido",
-        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 199401,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "lentamente",
         "url": "https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r"
       },
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Muito Al\u00e9m",
+        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 168505,
+      "name": "Muito Al\u00e9m",
+      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "Reviravolta",
         "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
       },
@@ -819,6 +839,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "T\u00c1 TODO MUNDO MAL",
+        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "T\u00c1 TODO MUNDO MAL",
+      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "INTENSAMENTE",
         "url": "https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte"
       },
@@ -835,26 +871,6 @@
       "duration_ms": 178531,
       "name": "INTENSAMENTE",
       "url": "https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "Muito Al\u00e9m",
-        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 168505,
-      "name": "Muito Al\u00e9m",
-      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -891,6 +907,26 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "QUEM NUNCA??",
+        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        },
+        {
+          "name": "Egypcio",
+          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+        }
+      ],
+      "duration_ms": 216255,
+      "name": "QUEM NUNCA??",
+      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "Vampira (Remix)",
         "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
       },
@@ -911,38 +947,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "T\u00c1 TODO MUNDO MAL",
-        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
+        "name": "Castelo De Areia",
+        "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
       },
       "artists": [
         {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "T\u00c1 TODO MUNDO MAL",
-      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "QUEM NUNCA??",
-        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         },
         {
-          "name": "Egypcio",
-          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+          "name": "Bullet Bane",
+          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
         }
       ],
-      "duration_ms": 216255,
-      "name": "QUEM NUNCA??",
-      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+      "duration_ms": 176666,
+      "name": "Castelo De Areia",
+      "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1015,26 +1035,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Castelo De Areia",
-        "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Bullet Bane",
-          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Castelo De Areia",
-      "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Conto de Falhas",
         "url": "https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "DUBL\u00ca",
-        "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
-      },
-      "artists": [
-        {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
-        }
-      ],
-      "duration_ms": 178208,
-      "name": "DUBL\u00ca",
-      "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "MENTIRA FAVORITA",
         "url": "https://open.spotify.com/album/5S0rzOgakJueLdblfzAjwf"
       },
@@ -1095,22 +1079,6 @@
       "duration_ms": 173461,
       "name": "MENTIRA FAVORITA",
       "url": "https://open.spotify.com/track/2tnAEKbdnPds84REPr5S73"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "EMO NAS BAHAMAS",
-        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
-      },
-      "artists": [
-        {
-          "name": "BAKA",
-          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "VOU ALI DORMIR",
-      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1131,6 +1099,38 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "DUBL\u00ca",
+        "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "duration_ms": 178208,
+      "name": "DUBL\u00ca",
+      "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "EMO NAS BAHAMAS",
+        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
+      },
+      "artists": [
+        {
+          "name": "BAKA",
+          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "VOU ALI DORMIR",
+      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "PODERIA SER (bem) PIOR",
         "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 171861,
       "name": "Amigo de Ningu\u00e9m",
       "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "vc n gosta de garotas",
-        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
-      },
-      "artists": [
-        {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "vc n gosta de garotas",
-      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1195,6 +1179,22 @@
       "duration_ms": 180488,
       "name": "Depois Das Seis",
       "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "vc n gosta de garotas",
+        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "vc n gosta de garotas",
+      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Tonto, Mole, Trouxa (e meio devagar)",
-        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 131986,
-      "name": "Tonto, Mole, Trouxa (e meio devagar)",
-      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Papel de Carta (Deluxe)",
         "url": "https://open.spotify.com/album/5JD9z50Qpmv591ytAzuwO1"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Foi Tudo Aqui",
-        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
+        "name": "Tonto, Mole, Trouxa (e meio devagar)",
+        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
       },
       "artists": [
         {
-          "name": "Fuze",
-          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 189901,
-      "name": "Deixa Estar",
-      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
+      "duration_ms": 131986,
+      "name": "Tonto, Mole, Trouxa (e meio devagar)",
+      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1367,6 +1351,22 @@
       "duration_ms": 224043,
       "name": "Lugar no Espa\u00e7o",
       "url": "https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Foi Tudo Aqui",
+        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
+      },
+      "artists": [
+        {
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Deixa Estar",
+      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
     },
     {
       "added_at": "2024-02-22 17:25:15",

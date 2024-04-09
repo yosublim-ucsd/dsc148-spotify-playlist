@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-225 songs - 10 hr 14 min
+226 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Kylie](https://open.spotify.com/track/735lPgzrp5IrVURzjINTs6) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Kylie](https://open.spotify.com/album/516RC3OSfnSRoK2LQwmSfN) | 2:52 | 2021-11-11 |  |
 | [Lasereyes](https://open.spotify.com/track/0Ka5znv6bMwTEucP5VR4oS) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Stone\-Cold](https://open.spotify.com/album/4JOTmJS6ThVk5Vo4ZE0KU9) | 2:50 | 2022-12-23 |  |
 | [Last to Leave](https://open.spotify.com/track/2775fOrLACHgsbdfJWHhYX) | [Humblebee](https://open.spotify.com/artist/43DaGVXzvghYrfrHK4eP3m) | [Occasus](https://open.spotify.com/album/1ddz02kStcLhxFiizCK1lP) | 2:38 | 2021-11-11 |  |
+| [LBRTY](https://open.spotify.com/track/2bufGmn2RcHFnI8znnI8xD) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [LBRTY](https://open.spotify.com/album/5V3AymlNG7GgpJgwVxL8Wp) | 3:15 | 2024-04-09 |  |
 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 | 2021-11-11 |  |
 | [Life I Live](https://open.spotify.com/track/6HsVc3Q5pBMWEgAVI4vBia) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Sprinter](https://open.spotify.com/album/2d9dXXSS9PSMWOcMja9xgG) | 2:32 | 2022-04-22 |  |
 | [Loading](https://open.spotify.com/track/3WVicQ4glIQr9TzyfzAe97) | [Siu](https://open.spotify.com/artist/7ntLYl3u3vBksf8JJji0vp), [Ludde](https://open.spotify.com/artist/74doVqtsvgXzLMtNBzf7te) | [Loading](https://open.spotify.com/album/3hs2paejJDhVKam4LOf454) | 1:29 | 2022-06-17 | 2022-09-17 |

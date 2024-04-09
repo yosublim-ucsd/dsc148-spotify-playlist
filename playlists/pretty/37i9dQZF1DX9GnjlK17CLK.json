@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 135047,
+  "num_followers": 135142,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmQwM2E2NGE3MDlkYmM3MWE4ZGIwMjg3MzNiOGZlNmVkZjUyMTg2",
+  "snapshot_id": "MCwwYzUwNWMxYWUzNzUyZGEwYTJkMzc1MzI1OTZhYzM1YjQwOGM0YjVi",
   "tracks": [
     {
       "added_at": "2023-08-10 16:46:04",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -199,22 +183,6 @@
       "duration_ms": 251306,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 314880,
-      "name": "Be Careful With a Fool",
-      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -243,6 +211,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 314880,
+      "name": "Be Careful With a Fool",
+      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 147800,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 223906,
-      "name": "Red House",
-      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "Street Talkin'",
         "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 192661,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 400760,
+      "name": "I Can't Quit You, Baby",
+      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "The Best Of Muddy Waters",
         "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 158200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 400760,
-      "name": "I Can't Quit You, Baby",
-      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "1956-1958 Cobra Recordings",
-        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "What It Takes: The Chess Years",
         "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "1956-1958 Cobra Recordings",
+        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 150693,
       "name": "Jelly Bread",
       "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "Buddy Guy/ Freddie King/ Sonny Boy Williamson",
         "url": "https://open.spotify.com/album/0K4t8v6w7lXab6n0yTNkA9"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Electric Blues: 1970s",
-        "url": "https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "My Love Strikes Like Lightning",
-      "url": "https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "Blues 100",
         "url": "https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 283106,
       "name": "4:59am",
       "url": "https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Electric Blues: 1970s",
+        "url": "https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "My Love Strikes Like Lightning",
+      "url": "https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv"
     },
     {
       "added_at": "2023-08-10 16:46:04",

@@ -1,12 +1,12 @@
 {
   "description": "A playlist for the eclipse. Photo credits: NASA",
-  "num_followers": 77600,
+  "num_followers": 159589,
   "original_name": "sonder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDhhNWMwOTc3YTYwM2M4YjE3ZmFiOWEwZTgyZTBkMTI4MDY2YTY1",
+  "snapshot_id": "MCw5NDQ1ZjUxZDFhMGRmZmIxZWZmNjk3ZjlkMGFkNWVlMjg4N2FkNjZl",
   "tracks": [
     {
       "added_at": "2024-04-05 13:54:47",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-04-05 13:54:47",
       "album": {
+        "name": "hurry up mixtape",
+        "url": "https://open.spotify.com/album/3fCTiizAiiH3S9cBn5Gad6"
+      },
+      "artists": [
+        {
+          "name": "Alvedon",
+          "url": "https://open.spotify.com/artist/6nFwmnSA3mMtoePROXi5LT"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "retire (final)",
+      "url": "https://open.spotify.com/track/1hwX5UMu9aUV44INM8GdPv"
+    },
+    {
+      "added_at": "2024-04-05 13:54:47",
+      "album": {
         "name": "New Home (Slowed)",
         "url": "https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq"
       },
@@ -123,18 +139,18 @@
     {
       "added_at": "2024-04-05 13:54:47",
       "album": {
-        "name": "hurry up mixtape",
-        "url": "https://open.spotify.com/album/3fCTiizAiiH3S9cBn5Gad6"
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
       "artists": [
         {
-          "name": "Alvedon",
-          "url": "https://open.spotify.com/artist/6nFwmnSA3mMtoePROXi5LT"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 214588,
-      "name": "retire (final)",
-      "url": "https://open.spotify.com/track/1hwX5UMu9aUV44INM8GdPv"
+      "duration_ms": 87466,
+      "name": "QKThr",
+      "url": "https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM"
     },
     {
       "added_at": "2024-04-05 13:54:47",
@@ -155,22 +171,6 @@
       "duration_ms": 215621,
       "name": "Song on the Beach",
       "url": "https://open.spotify.com/track/1hUi0hdMU0C3syYTyRdPub"
-    },
-    {
-      "added_at": "2024-04-05 13:54:47",
-      "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 87466,
-      "name": "QKThr",
-      "url": "https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM"
     },
     {
       "added_at": "2024-04-05 13:54:47",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-04-05 13:54:47",
       "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 82493,
-      "name": "Just a Feeling",
-      "url": "https://open.spotify.com/track/0ZjTXCk5QKDR0wGGPgqSS3"
-    },
-    {
-      "added_at": "2024-04-05 13:54:47",
-      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -239,6 +223,38 @@
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": "2024-04-05 13:54:47",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/6stqw16mycyRmbGf4iJvEZ"
+      },
+      "artists": [
+        {
+          "name": "Kilgore Doubtfire",
+          "url": "https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr"
+        }
+      ],
+      "duration_ms": 280749,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS"
+    },
+    {
+      "added_at": "2024-04-05 13:54:47",
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 82493,
+      "name": "Just a Feeling",
+      "url": "https://open.spotify.com/track/0ZjTXCk5QKDR0wGGPgqSS3"
     },
     {
       "added_at": "2024-04-05 13:54:47",
@@ -303,22 +319,6 @@
       "duration_ms": 146000,
       "name": "Present",
       "url": "https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF"
-    },
-    {
-      "added_at": "2024-04-05 13:54:47",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/6stqw16mycyRmbGf4iJvEZ"
-      },
-      "artists": [
-        {
-          "name": "Kilgore Doubtfire",
-          "url": "https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr"
-        }
-      ],
-      "duration_ms": 280749,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS"
     },
     {
       "added_at": "2024-04-05 13:54:47",

@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-200 songs - 5 hr 6 min
+201 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Baboons!](https://open.spotify.com/track/1OOq8w9ADim9j3Hm8H3YzH) | [Cast \- The Lion Guard](https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7) | [The Lion Guard: Disney Junior Music](https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv) | 2:05 | 2022-03-18 |  |
 | [Baby Bath Time](https://open.spotify.com/track/0vASj53WHYdRqmWXKFraQZ) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Doc McStuffins: Disney Junior Music](https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd) | 0:52 | 2022-03-18 |  |
 | [Be A Firebud \- From "Disney Junior Music: Firebuds"](https://open.spotify.com/track/11IfD973wh91iYe4AH0lfP) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Be A Firebud \(From "Disney Junior Music: Firebuds"\)](https://open.spotify.com/album/34YGWg1HdUBeTSxgF9vwVe) | 2:30 | 2023-07-21 | 2023-08-09 |
+| [Best Day Ever](https://open.spotify.com/track/5xuJWkruuozU1po4XJ8V2M) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Charged](https://open.spotify.com/album/3maWWI3K5sZu9UW8yMKNaB) | 2:36 | 2024-04-08 |  |
 | [Best Friends \- From "Disney Junior Music: Star Wars \- Young Jedi Adventures"](https://open.spotify.com/track/6yrtCt8np914Vk1kUmACr7) | [Star Wars: Young Jedi Adventures \- Cast](https://open.spotify.com/artist/5z8sEMBST1zW6RL9staYA7) | [Best Friends \(From "Disney Junior Music: Star Wars \- Young Jedi Adventures"\)](https://open.spotify.com/album/40pEr2MJkwHTYYFRC0xfE8) | 1:57 | 2023-08-04 | 2023-08-09 |
 | [Best Medicine](https://open.spotify.com/track/46YX7WnuTsE8Q1JTyNw29I) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:55 | 2022-03-18 |  |
 | [Better Together](https://open.spotify.com/track/06XmduRx6Fhod8FnjyK9lh) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:18 | 2022-03-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 197155,
+  "num_followers": 197187,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzFkZDk2N2FlNzM0MjNhNGFjYTc0NDY5MWIyOThmN2Q2ZDY0ZTJj",
+  "snapshot_id": "MCxkOTEyMDE3OGU0NmNjNGU1YmE4MjU2ZmNhMTI2N2VlZWYwY2I4OTdi",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Mafia Nueva",
-      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
+      "duration_ms": 203128,
+      "name": "Tu Fotografia",
+      "url": "https://open.spotify.com/track/5YXbNf3uYo713jo7uDARia"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Mafia Nueva",
+      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Noche En Culiac\u00e1n",
         "url": "https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 173125,
       "name": "Una Noche En Culiac\u00e1n",
       "url": "https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 203128,
-      "name": "Tu Fotografia",
-      "url": "https://open.spotify.com/track/5YXbNf3uYo713jo7uDARia"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Me Quiero Mas",
-        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "Yo Me Quiero Mas",
-      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parrandero (Remix)",
         "url": "https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 168127,
       "name": "Parrandero (Remix)",
       "url": "https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Me Quiero Mas",
+        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Yo Me Quiero Mas",
+      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mujer Enamorada",
-        "url": "https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 140511,
-      "name": "Mujer Enamorada",
-      "url": "https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Golden Boy",
         "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 160645,
       "name": "El Golden Boy",
       "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mujer Enamorada",
+        "url": "https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 140511,
+      "name": "Mujer Enamorada",
+      "url": "https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b"
     },
     {
       "added_at": null,
@@ -915,22 +915,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/0IDSWIblPZ2z1VV1F7A6Np"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "LP Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/1rgap1cQy2bdlDSeNRdGe6"
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     }
   ],
   "unique_name": "This Is El Komander",

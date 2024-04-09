@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGE0NjU0ZmY2ODNkNGQyYTUwNjU4MWI2MTI1MjkyZjIyYjUzNWFh",
+  "snapshot_id": "MCxjNmQ1MDBkNjBlNDg2OTU0YWU1MGQzZWM2YzQzNTdmMzhmMzQ2Yzk5",
   "tracks": [
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "The Dock of the Bay (Mono)",
-        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
-    },
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "So Sick Of Dreaming",
         "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 232080,
       "name": "So Sick Of Dreaming",
       "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Sonia Dada",
         "url": "https://open.spotify.com/album/5pvGQ3nohEcX2yJ1hAyX7u"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 247626,
       "name": "(Lover) You Don't Treat Me No Good",
       "url": "https://open.spotify.com/track/1wdQiMzfdRiufsCKWH2anl"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "What A Devastating Turn of Events",
-        "url": "https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 259536,
-      "name": "What A Devastating Turn of Events",
-      "url": "https://open.spotify.com/track/6CxdeM5S42kp7GyMlLs1Ea"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "When You Were Mine",
         "url": "https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203483,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "What A Devastating Turn of Events",
+        "url": "https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 259536,
+      "name": "What A Devastating Turn of Events",
+      "url": "https://open.spotify.com/track/6CxdeM5S42kp7GyMlLs1Ea"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "over",
-        "url": "https://open.spotify.com/album/1CcqKVf3Vf6sD2d9PA9pWj"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 133300,
-      "name": "over",
-      "url": "https://open.spotify.com/track/0Z5hhHje7VPBAkiqgBKdUp"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Giving It In",
         "url": "https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 200347,
       "name": "Giving It In",
       "url": "https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "over",
+        "url": "https://open.spotify.com/album/1CcqKVf3Vf6sD2d9PA9pWj"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 133300,
+      "name": "over",
+      "url": "https://open.spotify.com/track/0Z5hhHje7VPBAkiqgBKdUp"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Inspiration Information/ Wings Of Love",
-        "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Inspiration Information",
-      "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Gonna Be Okay",
         "url": "https://open.spotify.com/album/6GC3ZIeCB96n7UCRoaqK66"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 202170,
       "name": "Gonna Be Okay",
       "url": "https://open.spotify.com/track/3fxawBiMArwkgB7pljKAw4"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Inspiration Information/ Wings Of Love",
+        "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Inspiration Information",
+      "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "It\u2019s Been A Week",
         "url": "https://open.spotify.com/album/72cu7PDY50JqN8UY0VBdgW"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 179857,
       "name": "It's Been A Week",
       "url": "https://open.spotify.com/track/7ubDr5F9DWHYZjFX42jHnp"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Without Words",
-        "url": "https://open.spotify.com/album/2m1FDvBl8pE7IIph8sjrAf"
-      },
-      "artists": [
-        {
-          "name": "Delilah Montagu",
-          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
-        }
-      ],
-      "duration_ms": 186496,
-      "name": "Without Words",
-      "url": "https://open.spotify.com/track/2fC0RkvXGfa9A6eZDSnUha"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Katata",
         "url": "https://open.spotify.com/album/6NArqG0EGzKBknB2x88YlL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 216150,
       "name": "Katata",
       "url": "https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Without Words",
+        "url": "https://open.spotify.com/album/2m1FDvBl8pE7IIph8sjrAf"
+      },
+      "artists": [
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "Without Words",
+      "url": "https://open.spotify.com/track/2fC0RkvXGfa9A6eZDSnUha"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 164448,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "every night was the same",
         "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 148445,
       "name": "circles",
       "url": "https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 164448,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Over When It's Over",
+        "url": "https://open.spotify.com/album/7BSAkD0VoUXqfEU38Ta7L0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 215336,
+      "name": "Over When It's Over",
+      "url": "https://open.spotify.com/track/5r4qu6EI4ptv8NudzUzycx"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Lonely Are the Brave (Mav's Version)",
         "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
       },
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Over When It's Over",
-        "url": "https://open.spotify.com/album/7BSAkD0VoUXqfEU38Ta7L0"
+        "name": "What Sundays Are For",
+        "url": "https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
         }
       ],
-      "duration_ms": 215336,
-      "name": "Over When It's Over",
-      "url": "https://open.spotify.com/track/5r4qu6EI4ptv8NudzUzycx"
+      "duration_ms": 172559,
+      "name": "What Sundays Are For",
+      "url": "https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 216160,
       "name": "Kitchen Sunset",
       "url": "https://open.spotify.com/track/2W4vCfd2QEYhgKA2UNwRch"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "What Sundays Are For",
-        "url": "https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 172559,
-      "name": "What Sundays Are For",
-      "url": "https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO"
     },
     {
       "added_at": "2024-03-29 00:00:00",

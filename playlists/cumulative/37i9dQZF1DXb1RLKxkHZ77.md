@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Sarah Suhairi, Alfie Zumi
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: De Fam
 
 409 songs - 1 day 1 hr 49 min
 

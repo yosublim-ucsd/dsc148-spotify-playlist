@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-327 songs - 16 hr 57 min
+332 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Anna \(Edit\)](https://open.spotify.com/track/14gU9MqXONePJcAftTXMtu) | [Björn Döner](https://open.spotify.com/artist/3HXuu13t2xWz0PSVjXjaOq) | [Anna \(Edit\)](https://open.spotify.com/album/216YZ8176Bp8HlXTv8xBau) | 2:45 | 2022-10-14 |  |
 | [Apelsin](https://open.spotify.com/track/2JU9HxO67unq1IxdfLWywI) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Apelsin](https://open.spotify.com/album/4yfmMDdTRzvgFkzseQ6w4T) | 2:54 | 2022-07-08 |  |
 | [apples & cherries](https://open.spotify.com/track/6lGTMaRwSWwdfm60Ja1w2j) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [apples & cherries](https://open.spotify.com/album/1WQTGwGpUXf7O2n1ol0Hmo) | 2:08 | 2024-03-26 |  |
+| [Apricity](https://open.spotify.com/track/35jQ4X9SMzSmIY0u0SLuIA) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Apricity](https://open.spotify.com/album/1CE7KlBOYQAlJRVQgCzCzS) | 2:56 | 2024-04-08 |  |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2022-04-15 |  |
 | [Art Nomad](https://open.spotify.com/track/5zXCk4UBemtz8m8edhQ6wN) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Art Nomad](https://open.spotify.com/album/3k5ChCpkVEfV93uIcfhQ1e) | 3:09 | 2022-05-20 | 2022-08-19 |
 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 | 2022-04-15 | 2022-08-19 |
@@ -42,6 +43,7 @@
 | [Bit of Window](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Bit of Window](https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap) | 2:01 | 2024-02-28 |  |
 | [Blame Me](https://open.spotify.com/track/0SUjJjiF8l8TRoFIYf0C11) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [SRY / Blame Me](https://open.spotify.com/album/6abDeahvTe453GxeIP462g) | 4:11 | 2022-06-10 | 2022-10-14 |
 | [Blip\-A\-Thon](https://open.spotify.com/track/40RUbTmKa8OCmtXai1KN2l) | [Jakkalz](https://open.spotify.com/artist/1WoIRFMlTR84QzDZE8kZaG) | [Blip\-A\-Thon](https://open.spotify.com/album/44OHKDhuwWKyvzeQfS9t0f) | 1:41 | 2022-05-27 | 2023-01-20 |
+| [Bloom](https://open.spotify.com/track/6pEOQbxwG0PdJQm13y8cBj) | [Petronella Dice](https://open.spotify.com/artist/2Fc8FaMao0KyaeOsIT8Ve7) | [Bloom](https://open.spotify.com/album/4dw1SPqeHhhYXbIQEfPoEE) | 2:41 | 2024-04-08 |  |
 | [Bloom](https://open.spotify.com/track/18giPJITeabMO6IB2pp45x) | [Wilborn](https://open.spotify.com/artist/73bYcf4jRS1co8vAERIbJW) | [Bloom](https://open.spotify.com/album/2OtEMRK0aS7xrnrrLtr44T) | 4:20 | 2022-09-02 | 2023-04-29 |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2022-04-15 | 2022-10-14 |
 | [Blue Demons](https://open.spotify.com/track/3Ilx5ch1nI6ioUw1nqbYpk) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [Blue Demons](https://open.spotify.com/album/0QG1EKrQ4IqQAGvCVG3dFb) | 1:59 | 2022-04-15 | 2022-08-19 |
@@ -55,6 +57,7 @@
 | [Bright Red](https://open.spotify.com/track/306wpz1gZioEodOsqyc16i) | [Palos Azules](https://open.spotify.com/artist/4sk8WgXLP5T8ATvv3QuGfw) | [Bright Red](https://open.spotify.com/album/5iCbtIfeGRbmuVLkhd1YnO) | 2:00 | 2022-04-15 |  |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2022-04-15 |  |
 | [Burrata](https://open.spotify.com/track/1wsjU5AYe7xxt7SCa2f6G4) | [4TB](https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF) | [Burrata](https://open.spotify.com/album/7lwCGt3pUCdPhJnxhvOMBp) | 2:39 | 2022-10-28 | 2023-07-15 |
+| [butter.](https://open.spotify.com/track/0GZv1vf6qrrHJ32sTebX9C) | [Vinewood Square](https://open.spotify.com/artist/3uT8IqHNiQOtfXSihhNsRf) | [butter.](https://open.spotify.com/album/3duAoAVJnmTxHdHhR6qzn5) | 2:41 | 2024-04-08 |  |
 | [Butterfly](https://open.spotify.com/track/3rp3tNPhOHySBqHbawolKh) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Butterfly](https://open.spotify.com/album/5H9k158ooh71IQmt6WL5iR) | 2:39 | 2023-11-17 |  |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2022-04-15 | 2023-10-05 |
 | [Cap Bénat](https://open.spotify.com/track/0ITR2dYQz1AelssrHTZ0a7) | [Zack & Alex](https://open.spotify.com/artist/5zQXrY8n5KXT1kjmNryojG) | [Cap Bénat](https://open.spotify.com/album/4EmeOCvieivOpPAKj0MhQN) | 3:14 | 2022-09-02 |  |
@@ -108,6 +111,7 @@
 | [Elephant](https://open.spotify.com/track/5nN9ez4MrKn2eeJW5EQIZx) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Elephant](https://open.spotify.com/album/2urEyKFkHVefwU34yJhee1) | 2:18 | 2023-01-06 | 2023-03-25 |
 | [Encounters](https://open.spotify.com/track/39PAf5P83sN0HQfFFe4OnM) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Encounters](https://open.spotify.com/album/4NbBt1t3SETGwzJKZ3urx6) | 2:46 | 2023-01-20 |  |
 | [Enigma](https://open.spotify.com/track/1FcUfCutL1B7b9sOtU7t86) | [In Love Mearas](https://open.spotify.com/artist/5jHQIRcl8h1pnEfuqxL7y9) | [Enigma](https://open.spotify.com/album/5DbpAYJgwZlPxiSNlb3e78) | 2:20 | 2024-03-21 |  |
+| [Essence](https://open.spotify.com/track/5gENF7x1MgvHgSwKUcdtEH) | [Ali Neroli](https://open.spotify.com/artist/5peHVLddUJr3XzqnlypxZR) | [Essence](https://open.spotify.com/album/2NmHyH7YC9ONvbZng9o1rY) | 2:08 | 2024-04-08 |  |
 | [Essence](https://open.spotify.com/track/3UEqSBDZxPv6dZc6Ysgpyj) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Essence](https://open.spotify.com/album/5afNE10Oh6rhMJrDVqPtxL) | 3:14 | 2022-11-25 |  |
 | [evenings with u](https://open.spotify.com/track/1E3LzOvG6zBVvn68sEZZjr) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [evenings with u](https://open.spotify.com/album/39DWG3sn0Fq4yNB2eBnzln) | 2:38 | 2022-10-14 |  |
 | [Eventide](https://open.spotify.com/track/3dZhAToKg4famFWbbqLT1m) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Eventide](https://open.spotify.com/album/2mypqQlLvZUuDCdq8S1mW6) | 3:08 | 2022-10-07 |  |
@@ -333,6 +337,7 @@
 | [What Was It Like](https://open.spotify.com/track/7rwWQ2lBEQvLzalmgIdEH7) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [What Was It Like](https://open.spotify.com/album/5Qgjv6Z2zgtMDtdRQhRDki) | 2:55 | 2022-10-07 |  |
 | [Where When](https://open.spotify.com/track/0WJjY4u7gtDDgKseWFXiG3) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Where When](https://open.spotify.com/album/6A49euv0NWuguiIrQBAAov) | 2:36 | 2022-11-25 |  |
 | [Why Is This Bird So Jealous?](https://open.spotify.com/track/05iKKQ1NqXQ3HXW6tPWsAo) | [Chelle Ives](https://open.spotify.com/artist/7birWEa67r8nIby8rV64EJ) | [Why Is This Bird So Jealous?](https://open.spotify.com/album/39zLbFDfamlVJdVAA27OLt) | 3:52 | 2022-10-07 | 2023-01-07 |
+| [You Name It](https://open.spotify.com/track/7nZvvpkKGAOaVtURxr0eMd) | [PeachPuff](https://open.spotify.com/artist/5GSiEiqF4H8J4yr33wNbM6) | [You Name It](https://open.spotify.com/album/2lorb74Vp13J3WBm7Kgsuo) | 2:40 | 2024-04-08 |  |
 | [Zero Gravity](https://open.spotify.com/track/7s7b3H2cMBMGbqV0u5VCIr) | [In Diooo](https://open.spotify.com/artist/4wxCkW1LyTe4wSkS1TrPFU) | [Zero Gravity](https://open.spotify.com/album/4leNi2kUacyGvcaUo738Nk) | 2:28 | 2024-02-28 |  |
 | [Été](https://open.spotify.com/track/4faQsCXVnzLa2yITblP9ow) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Été](https://open.spotify.com/album/46XuT3p7wL8ojiHImiXatz) | 3:37 | 2022-06-17 |  |
 

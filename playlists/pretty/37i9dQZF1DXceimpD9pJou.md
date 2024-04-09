@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:45ofU8JjddtvjfP1UXV7um">Ayrton Day</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,938 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,993 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Eres Hermoso \- Live](https://open.spotify.com/track/1BMkurQozHjdS39qHMWAyF) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Dame A Cristo \(Live\)](https://open.spotify.com/album/3nHY9HT1qs3GZlweqB7wbF) | 10:41 |
 | 100 | [Digno Es El Cordero \- Live](https://open.spotify.com/track/51Lh6dO9lUHFtwSWFj8Rkr) | [Humillé](https://open.spotify.com/artist/2j15s5SPI9yS6X7YGPhd22), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Digno Es El Cordero \(Live\)](https://open.spotify.com/album/4FxldtLoiWoifDgHxN0wCr) | 16:05 |
 
-Snapshot ID: `MCxjNTRkNmMwMDQ1OWVjNTYzY2EyMDA5ZWUzZTRmY2Q3NGZjOWVhYTlh`
+Snapshot ID: `MCw3ODZiNDNlMWIwODllOThmNmM3Mzc4Y2E3NTJjODU3MjhiZmI0ZTc1`

@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 189739,
+  "num_followers": 189811,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTY1ZGZkN2ViM2RiOTM2NmEzOGUyYzJhNzNjM2I2NGRhYjVhNTBm",
+  "snapshot_id": "MCwxZjZlYjIxMzc1YTI5M2ViNWJhODYyNGQ4NWUzYTg2OWM5MDBmNmUx",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Bitchboy",
+        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 107162,
+      "name": "Bitchboy",
+      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Juno Goes to the Big House",
         "url": "https://open.spotify.com/album/0bPiaza1NaQbzdg8s1CJOn"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 152363,
       "name": "I Fucked Yr Mom",
       "url": "https://open.spotify.com/track/70WFvp0yF9m1asIb60gKcj"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Fences",
-        "url": "https://open.spotify.com/album/64b3SlMzVbSWqcPTvBxWLW"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 238040,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/5BzxNPsMQhrRnwNRKyMNXB"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Bitchboy",
-        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
+        "name": "Fences",
+        "url": "https://open.spotify.com/album/64b3SlMzVbSWqcPTvBxWLW"
       },
       "artists": [
         {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         }
       ],
-      "duration_ms": 107162,
-      "name": "Bitchboy",
-      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
+      "duration_ms": 238040,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/5BzxNPsMQhrRnwNRKyMNXB"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Demo 2015",
-        "url": "https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl"
-      },
-      "artists": [
-        {
-          "name": "G.L.O.S.S.",
-          "url": "https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU"
-        }
-      ],
-      "duration_ms": 91249,
-      "name": "G.L.O.S.S. (We're from the Future)",
-      "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Love Me Forever",
         "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 196942,
       "name": "the kids aren't alright",
       "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Demo 2015",
+        "url": "https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl"
+      },
+      "artists": [
+        {
+          "name": "G.L.O.S.S.",
+          "url": "https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU"
+        }
+      ],
+      "duration_ms": 91249,
+      "name": "G.L.O.S.S. (We're from the Future)",
+      "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Intractable",
-        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
-      },
-      "artists": [
-        {
-          "name": "Gina Young",
-          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
-        }
-      ],
-      "duration_ms": 124653,
-      "name": "So-Called Str8 Grrrl",
-      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "gasoline",
         "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 114053,
       "name": "Staplegun",
       "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Intractable",
+        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
+      },
+      "artists": [
+        {
+          "name": "Gina Young",
+          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "So-Called Str8 Grrrl",
+      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Queen Zee",
-        "url": "https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk"
-      },
-      "artists": [
-        {
-          "name": "Queen Zee",
-          "url": "https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL"
-        }
-      ],
-      "duration_ms": 143853,
-      "name": "Sissy Fists",
-      "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Girls With Glasses",
         "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 129706,
       "name": "Girls With Glasses",
       "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Queen Zee",
+        "url": "https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk"
+      },
+      "artists": [
+        {
+          "name": "Queen Zee",
+          "url": "https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL"
+        }
+      ],
+      "duration_ms": 143853,
+      "name": "Sissy Fists",
+      "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
     },
     {
       "added_at": "2023-05-25 14:38:53",

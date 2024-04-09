@@ -2511,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/0iZ9k0l0Rbjuz9GUaFtHrE"
+      },
+      "artists": [
+        {
+          "name": "Demon Hyde",
+          "url": "https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116888,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/0mAIE7c7GNYhMffrKAX8cq"
+    },
+    {
+      "album": {
         "name": "Love Me Never",
         "url": "https://open.spotify.com/album/2RF0UxaOTtYlyaWEXi981U"
       },
@@ -4471,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/7vdWzrmaRC1ObHCAM8tbD1"
+      },
+      "artists": [
+        {
+          "name": "Alien Academy",
+          "url": "https://open.spotify.com/artist/37MJLRFMewr3LFXff6skVk"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124604,
+      "name": "Purgatory",
+      "url": "https://open.spotify.com/track/02dlauQwCv2o8dYphcRlUA"
+    },
+    {
+      "album": {
         "name": "Quantum",
         "url": "https://open.spotify.com/album/2N7Y2ecrZBLIBZgSJ8zmuh"
       },
@@ -4782,6 +4818,24 @@
       "duration_ms": 168000,
       "name": "running out of time",
       "url": "https://open.spotify.com/track/0e6UrhLAH2lnNe6zdlUTBN"
+    },
+    {
+      "album": {
+        "name": "Sankhu",
+        "url": "https://open.spotify.com/album/5LFE54hCCIAj4usOH9ujqw"
+      },
+      "artists": [
+        {
+          "name": "Uhrk-Nagimi",
+          "url": "https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Sankhu",
+      "url": "https://open.spotify.com/track/6woydkEMJP5u7nBDa4d12N"
     },
     {
       "album": {

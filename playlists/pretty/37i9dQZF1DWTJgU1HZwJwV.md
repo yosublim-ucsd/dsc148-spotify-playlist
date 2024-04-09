@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,804 likes - 163 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,846 likes - 163 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 162 | [Melody For My Best Friend](https://open.spotify.com/track/1IA0lgqrDrqXbiQgbo8oB2) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Melody For My Best Friend](https://open.spotify.com/album/3W6OOmwDnWm6SMPl26r7tV) | 2:48 |
 | 163 | [La Condesa](https://open.spotify.com/track/2AGOxoYeqI7nFJMA2AmG27) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [La Condesa](https://open.spotify.com/album/3l9FBpt6oDAkq9UMGgBQwZ) | 3:14 |
 
-Snapshot ID: `MCxhNjA5YTFjZDZmNzBjOTY0ZWE5Y2MyZmQ0MDY3ZjAxNmZkZDM2NTI3`
+Snapshot ID: `MCxiYjM2Yjk3M2Q0ZDhjZmQ5NWQ4NzlmOWEwMmM2NjRlZGQ3MzUyY2Q5`

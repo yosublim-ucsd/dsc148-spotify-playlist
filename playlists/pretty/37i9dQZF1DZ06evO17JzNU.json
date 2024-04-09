@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 21490,
+  "num_followers": 21507,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTFkNjhiNzdmMmJiMjViOGU3OTQ2NGM1NmVkYzZlYzVkYTg3MWVi",
+  "snapshot_id": "MCw0ZjMyNmFhZTFmM2Q2MTJlYjFlOTM5NTNiMDkwNDlkMDJjOGJmYmQw",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Vas A Llorar",
-        "url": "https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G63",
         "url": "https://open.spotify.com/album/7wfmoOfb10g2Y2ALkyWDty"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 165875,
       "name": "G63",
       "url": "https://open.spotify.com/track/3E2aYBCPmf8kTq1Ug5E1sN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloody Steps",
+        "url": "https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Bloody Steps",
+      "url": "https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nos Acoplamos Macizo",
         "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 246059,
       "name": "Nos Acoplamos Macizo",
       "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloody Steps",
-        "url": "https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Bloody Steps",
-      "url": "https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Creyeron",
-        "url": "https://open.spotify.com/album/7usrNQirwgYKaGzxEUkAAD"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "No Creyeron",
-      "url": "https://open.spotify.com/track/0RygZfsCKhBfZTj5RuKnsq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Muchachon",
         "url": "https://open.spotify.com/album/16oNWUo02F6vehFx1VVfLN"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 201935,
       "name": "El Muchachon",
       "url": "https://open.spotify.com/track/5AJ76ymr2po9eU3z9Kks1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Creyeron",
+        "url": "https://open.spotify.com/album/7usrNQirwgYKaGzxEUkAAD"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "No Creyeron",
+      "url": "https://open.spotify.com/track/0RygZfsCKhBfZTj5RuKnsq"
     },
     {
       "added_at": null,

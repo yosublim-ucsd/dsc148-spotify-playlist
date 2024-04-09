@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Takeover: Bruce Dickinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,410 likes - 59 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,419 likes - 59 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 58 | [Earth Mother](https://open.spotify.com/track/764F5dyelTQhL8TwWkl5Fj) | [Samson](https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7) | [Survivors / Head on / Head on \(Tony Platt Alternative Mix\) / Shock Tactics / Live at Reading](https://open.spotify.com/album/3MCcIeFltmMGTqP4NdsyNO) | 4:40 |
 | 59 | [Chemical Wedding \(2001 Remaster\)](https://open.spotify.com/track/4rHBxp5ss7VnYrEo5m3Cfg) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Chemical Wedding](https://open.spotify.com/album/0ixzPRuTcEmvftZdRRG4t5) | 4:06 |
 
-Snapshot ID: `MCwxOTVhNWVmZGRmZjcwMjdlMDg3M2ZjY2E0ODE3MzIzNzkxOTJjODVm`
+Snapshot ID: `MCw1ODIyNzRhYWJkZWI1NDI1NjY4M2MwMGE1OWIzMjBhNTMxOWZmY2Qz`

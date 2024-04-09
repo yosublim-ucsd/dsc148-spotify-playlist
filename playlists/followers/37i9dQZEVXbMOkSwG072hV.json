@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 353420,
+  "2024-04-09": 353440,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -229,7 +229,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 227250,
       "name": "16 CARRIAGES",
       "url": "https://open.spotify.com/track/7x5ziCOQFir0AQN8dFisK6"
@@ -13552,6 +13552,24 @@
     },
     {
       "album": {
+        "name": "ELAS GOSTAM DE BAILE DE MARGINAL",
+        "url": "https://open.spotify.com/album/5T2bxk3mIC6kWVaRaHZZqg"
+      },
+      "artists": [
+        {
+          "name": "DJ KAUAN SHEIK",
+          "url": "https://open.spotify.com/artist/2kuF7YySkSiYXeS974JVFZ"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "ELAS GOSTAM DE BAILE DE MARGINAL",
+      "url": "https://open.spotify.com/track/65aZGVuDSF6nNIgltEflqj"
+    },
+    {
+      "album": {
         "name": "Elas Quer Sentar pro Hotwheels",
         "url": "https://open.spotify.com/album/7BGYHcZFUweCAKBpaEZ92W"
       },
@@ -17751,6 +17769,36 @@
       "duration_ms": 153062,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
+    },
+    {
+      "album": {
+        "name": "Gelinho (Remix)",
+        "url": "https://open.spotify.com/album/3GDIhXoaFqIquyP52h19Mw"
+      },
+      "artists": [
+        {
+          "name": "Ded\u00e9 A+D1000",
+          "url": "https://open.spotify.com/artist/72eDLr7luYBYC4nUg4LVbw"
+        },
+        {
+          "name": "Gago Na Voz",
+          "url": "https://open.spotify.com/artist/1dXUG3j00EvtJfssEZsoZY"
+        },
+        {
+          "name": "John Johnis",
+          "url": "https://open.spotify.com/artist/2s3XhkYhy3bag3w84FBJdv"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "Gelinho - Remix",
+      "url": "https://open.spotify.com/track/4bYdxMmSAyOhWIsLu6CCEi"
     },
     {
       "album": {
@@ -35671,7 +35719,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 129418,
       "name": "RAM TCHUM",
       "url": "https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD"
@@ -44433,7 +44481,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -44953,6 +45001,32 @@
       "duration_ms": 192000,
       "name": "VAMOS SAIR UM POUCO PRA DAN\u00c7AR",
       "url": "https://open.spotify.com/track/7b8DQTeaj2fO7JwHth1WJd"
+    },
+    {
+      "album": {
+        "name": "VAMOS SAIR UM POUCO PRA DAN\u00c7AR",
+        "url": "https://open.spotify.com/album/5QcxQQdBY3VJGmdp935sBs"
+      },
+      "artists": [
+        {
+          "name": "qx22bw",
+          "url": "https://open.spotify.com/artist/4mW7kg0ZkzFuop2VaOslee"
+        },
+        {
+          "name": "ati2x06",
+          "url": "https://open.spotify.com/artist/3lM7oQy191ThpVzhdS1UUa"
+        },
+        {
+          "name": "onvrwalker",
+          "url": "https://open.spotify.com/artist/4FEAqBlmPiuxaI4HuVTAaR"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192168,
+      "name": "VAMOS SAIR UM POUCO PRA DAN\u00c7AR",
+      "url": "https://open.spotify.com/track/2DdynfYl8qbKrkEy5hiG80"
     },
     {
       "album": {

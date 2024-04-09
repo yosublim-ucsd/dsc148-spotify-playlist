@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 531911,
+  "num_followers": 531935,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmYzOGFiNjEyODljYzBkZGFjYWIyZmUxOGRiMzBjNjY5ZDJmN2Ey",
+  "snapshot_id": "MCw4MmZjZDU0MTU5ZWQzMTJmYTA0NTZlYzVkZDA3NTE4MTg0NmJlNGE1",
   "tracks": [
     {
       "added_at": "2023-10-27 12:44:19",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 144226,
-      "name": "Tutti Frutti",
-      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Forever Blue",
+        "url": "https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Baby Did A Bad Bad Thing",
+      "url": "https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Forever Blue",
-        "url": "https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY"
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
       "artists": [
         {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Baby Did A Bad Bad Thing",
-      "url": "https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp"
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 129132,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Built For Speed",
         "url": "https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 198000,
       "name": "Stray Cat Strut",
       "url": "https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "The Killer Keys Of Jerry Lee Lewis (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Whole Lotta Shakin' Going On - Remastered 2022",
+      "url": "https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "The Killer Keys Of Jerry Lee Lewis (Sun Records 70th / Remastered 2022)",
-        "url": "https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "Whole Lotta Shakin' Going On - Remastered 2022",
-      "url": "https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "More Mayhem",
         "url": "https://open.spotify.com/album/7vL49AGpkONykl6dCDShAu"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 151493,
       "name": "North Side Gal",
       "url": "https://open.spotify.com/track/0CwX2DEmDAxx4WYMjty8Mh"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 129132,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "That'll Be The Day",
-        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "Rock Around With Ollie Vee - Alternate Version",
-      "url": "https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "The Best Of Eddie Cochran",
         "url": "https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 116560,
       "name": "C\u2019Mon Everybody",
       "url": "https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "Rock Around With Ollie Vee - Alternate Version",
+      "url": "https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 133009,
-      "name": "Everybody's Trying to Be My Baby",
-      "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Rock In Threes!",
         "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 160466,
       "name": "Another Sunday Morning",
       "url": "https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 133009,
+      "name": "Everybody's Trying to Be My Baby",
+      "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Blue Suede Shoes",
-        "url": "https://open.spotify.com/album/120QlqCRbDq0MQdDBZa3c7"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 99630,
-      "name": "Glad All Over",
-      "url": "https://open.spotify.com/track/6Xs8va9c9ZgR2cLKSlo466"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Baby Come Back",
         "url": "https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L"
       },
@@ -975,6 +959,26 @@
       "duration_ms": 201667,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Our Own Way Of Rockin'",
+        "url": "https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO"
+      },
+      "artists": [
+        {
+          "name": "Crazy Cavan",
+          "url": "https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv"
+        },
+        {
+          "name": "The Rhythm Rockers",
+          "url": "https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "My Little Sister Gotta Motorbike",
+      "url": "https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY"
     }
   ],
   "unique_name": "Rockabilly Mania",

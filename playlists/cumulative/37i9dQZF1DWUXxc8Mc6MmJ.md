@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-261 songs - 16 hr 52 min
+262 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Time, like a shining star](https://open.spotify.com/track/4SBbY7GP2BCugTmZ8uhzC9) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5qcdTdgUCunW6VV7Mkblpx) | 3:18 | 2022-05-11 | 2022-07-29 |
 | [To You](https://open.spotify.com/track/0cHL0qsKF9csr6JasAEdzj) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/0bWtzPnraDWlMFClaXDwNQ) | 3:43 | 2022-05-11 | 2022-07-26 |
 | [Two People](https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1tV7ZIyAJDZkis4RjXWQ91) | 4:27 | 2022-05-11 | 2022-07-29 |
+| [U](https://open.spotify.com/track/0AtHUIDAkXWgpbD0QkyKgi) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve) | 3:44 | 2024-04-04 |  |
 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 | 2022-05-11 |  |
 | [Way back home](https://open.spotify.com/track/1d2OlYerfxGD0xTCyThzre) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [It’s okay to be sensitive 2 OST Part.3](https://open.spotify.com/album/2QhbFZOZMVc4jquiVfOW9r) | 3:32 | 2022-05-11 | 2022-07-24 |
 | [We All Lie](https://open.spotify.com/track/6DyXREiYD3B4xgjjsfHfJ9) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [SKY Castle, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/38DD8BlG64VE9rMQIA7Yyx) | 3:15 | 2022-06-24 | 2022-07-02 |
@@ -260,7 +261,7 @@
 | [내 머리가 나빠서](https://open.spotify.com/track/7k1zf9Ch2n8dgNQ0UxbxJ9) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:23 | 2024-04-03 |  |
 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 | 2022-06-24 |  |
 | [두근거려 \(Beautiful\)](https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [우리 옆집에 EXO가 산다 \(EXO NEXT DOOR\) OST](https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc) | 3:44 | 2024-04-03 |  |
-| [러브 델루나](https://open.spotify.com/track/5WjiDiNBOoLCqPz8qzK1xS) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Hotel del Luna \(Original Television Soundtrack\) Pt.13](https://open.spotify.com/album/2iFyDSfi0oz36tC3Llj8Ln) | 4:27 | 2024-04-04 |  |
+| [러브 델루나](https://open.spotify.com/track/5WjiDiNBOoLCqPz8qzK1xS) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Hotel del Luna \(Original Television Soundtrack\) Pt.13](https://open.spotify.com/album/2iFyDSfi0oz36tC3Llj8Ln) | 4:27 | 2024-04-04 | 2024-04-09 |
 | [마음의 말](https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야, Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF) | 5:02 | 2022-05-11 | 2022-07-27 |
 | [미래](https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN) | 3:35 | 2023-03-13 |  |
 | [별](https://open.spotify.com/track/02q7sJH0d1lC0oDd8gf513) | [Youme](https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h) | [미녀는 괴로워 Original Motion picture Soundtrack](https://open.spotify.com/album/5XUYDlbeJCIFSCekufQiZb) | 5:02 | 2022-05-11 | 2022-07-24 |

@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-226 songs - 13 hr 43 min
+227 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Fun](https://open.spotify.com/track/4v7prkc928rArBPIwxGJKa) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Fragments](https://open.spotify.com/album/0sr9FWHQ3ckzVkFYk3NPrL) | 3:17 | 2021-10-26 |  |
 | [Give Love A Try](https://open.spotify.com/track/4i00ONewCjrYXz4VZbIMw5) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Meets Sly & Robbie Downtown](https://open.spotify.com/album/2aCP5RN7FDS11gIurk5nvK) | 2:14 | 2021-10-26 |  |
 | [Gringo Che](https://open.spotify.com/track/59kMIeaoC2tJcVqMmrUt0x) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 3:46 | 2023-02-23 |  |
-| [Guajira sicodélica](https://open.spotify.com/track/7BCox4yFBBdHflBRfp82ji) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/03wLLXfyRT2uos4kZnufCo) | 3:31 | 2023-02-23 |  |
+| [Guajira sicodélica](https://open.spotify.com/track/7BCox4yFBBdHflBRfp82ji) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/03wLLXfyRT2uos4kZnufCo) | 3:31 | 2023-02-23 | 2024-04-09 |
+| [Guajira Sicodélica](https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12) | 3:32 | 2023-03-01 |  |
 | [Gypsy Queen](https://open.spotify.com/track/5og3nbiR4hZ24Ij6ue6i3n) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Spellbinder](https://open.spotify.com/album/0Ri88poJN9bsj8k66O00mV) | 5:13 | 2023-02-23 |  |
 | [Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Happy Now](https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb) | 3:27 | 2023-02-03 |  |
 | [Heaven on the Beach With You](https://open.spotify.com/track/1aYDZpNwbkWa2ci01qbReB) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Ode to a Rainy Day: Archives 1972\-1975](https://open.spotify.com/album/7be9L5bnrienOBoWnPt1lz) | 2:02 | 2023-02-23 | 2023-05-01 |

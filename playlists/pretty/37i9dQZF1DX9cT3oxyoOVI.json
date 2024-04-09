@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 277,
+  "num_followers": 135,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2M2YjUyNjFjODc4OTVmMzQ3MzQ0YjlmMGQ1NWNjNDc2ZjYyNzg0",
+  "snapshot_id": "MCw4NDYyZGRlMTJjMjdiYjM0YzBjMTQzNjU3MjkxODcyNTVmN2E1NWY5",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Emily Can't Sing",
         "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 213855,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Super Champon",
-        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
-      },
-      "artists": [
-        {
-          "name": "Otoboke Beaver",
-          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "YAKITORI",
-      "url": "https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Mauvaises habitudes",
         "url": "https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 145002,
       "name": "Mauvaises habitudes",
       "url": "https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Super Champon",
+        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "YAKITORI",
+      "url": "https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O"
     },
     {
       "added_at": "2023-01-30 15:22:38",

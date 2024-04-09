@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-191 songs - 10 hr 35 min
+192 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Rave Superstar](https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Rave Superstar](https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi) | 2:39 | 2023-06-22 | 2024-03-08 |
 | [Raw Resurgence \- Official Supremacy 2023 Anthem](https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Raw Resurgence \(Official Supremacy 2023 Anthem\)](https://open.spotify.com/album/2Q5gYixfKgOf7kokByz6TN) | 5:20 | 2023-12-04 | 2024-03-08 |
 | [Realign](https://open.spotify.com/track/50lXm6nruD49kKZlvxpZGc) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Realign](https://open.spotify.com/album/5PvqY3FPsJVy5jt9ctDieT) | 3:09 | 2024-02-15 |  |
-| [Remedy](https://open.spotify.com/track/4IMmJyNPll5HorW8Ip2HCS) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Remedy](https://open.spotify.com/album/6dcUeAanVoMTEQYT5C8EvB) | 3:08 | 2024-03-20 |  |
+| [Remedy](https://open.spotify.com/track/4IMmJyNPll5HorW8Ip2HCS) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Remedy](https://open.spotify.com/album/6dcUeAanVoMTEQYT5C8EvB) | 3:08 | 2024-03-20 | 2024-04-09 |
 | [Respawn](https://open.spotify.com/track/0fFwgoY1RTsZyC2lhKbzaZ) | [ANDY SVGE](https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp), [Voidax](https://open.spotify.com/artist/2JqPH5sGxBA5lDMUmO5uAE), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Respawn \(feat\. Robin Vane\)](https://open.spotify.com/album/3EJnAee0ffhaYemzufVDKv) | 3:38 | 2022-12-08 | 2023-04-14 |
 | [Rise Of The Tribe](https://open.spotify.com/track/2G21IeSXw1q1rhSbnkOtOq) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Rise Of The Tribe](https://open.spotify.com/album/1wMAE1XxaWWY7U3BgUrxZO) | 4:23 | 2023-06-01 |  |
 | [Rock Tha Party](https://open.spotify.com/track/2y4MGW3z5eMAZTXm7Q0T7V) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Rock Tha Party](https://open.spotify.com/album/7dBMFgErPgPAd1PNTo57Is) | 2:51 | 2022-12-22 | 2024-03-08 |
@@ -197,6 +197,7 @@
 | [With You](https://open.spotify.com/track/2qR8jsXwHJccStxQUQFXyx) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [With You](https://open.spotify.com/album/3kHnXUrJmc696tghdqE2d5) | 3:18 | 2023-02-28 | 2023-04-23 |
 | [Won't Forget](https://open.spotify.com/track/7JXZuqmi5XC8pfiNgeF1yZ) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW) | [Won't Forget](https://open.spotify.com/album/6PnHSLrP5IYAubIo3fT2n7) | 2:32 | 2022-12-08 |  |
 | [Worlds Collide \- Omnya Remix](https://open.spotify.com/track/2uSrTcuAgfNQSEoXDOfAUe) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Omnya](https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL) | [Worlds Collide \(Omnya Remix\)](https://open.spotify.com/album/4tr0H7vrHhGkKJ4zvEvjsk) | 3:31 | 2024-03-07 |  |
+| [X \(A DECADE\)](https://open.spotify.com/track/5hQVCrL0yKJw5Jf7lWnjPY) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [X \(A DECADE\)](https://open.spotify.com/album/0g915bxfWtbv7YbTRnt826) | 2:49 | 2024-04-08 |  |
 | [You're My Angel \- Hypnose Remix Edit](https://open.spotify.com/track/1mCx32u41MITwQIlYTeZ6x) | [Styles & Breeze](https://open.spotify.com/artist/3VmdvdqFAX1F9kwV54xGMT), [Hypnose](https://open.spotify.com/artist/2UBCeOEjEhqNkm6IFzVV4D) | [You're My Angel](https://open.spotify.com/album/2t9xeNMImOFvQxTtQ3wi3a) | 2:50 | 2023-02-09 | 2023-02-28 |
 | [Zyzzbrah \- Wild Angel Remix](https://open.spotify.com/track/481IUBPpXiTWn8G9Mm52bK) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44), [Wild Angel](https://open.spotify.com/artist/74gkRyj7Ewp0kcakS0xTiL) | [Zyzzbrah \(Wild Angel Remix\)](https://open.spotify.com/album/2ENRbO0fXogFaE7EO7hl4X) | 2:54 | 2023-04-20 | 2023-06-02 |
 

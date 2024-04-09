@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTdlNDZmOGY4ZmMxNTJkY2IxODYwYTYyZWU4NjQ3NWVmZTc1NTdh",
+  "snapshot_id": "MCxmZmNhNGVmY2U2MjZhNWQzMjAxZWExNzhmOTNmZjZjZDk5ZTM5ZDEz",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 191233,
-      "name": "Fried for the Night",
-      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
       },
@@ -679,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno (Remixed)",
-        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
@@ -688,17 +668,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
-        },
-        {
-          "name": "Halogenix",
-          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 248907,
-      "name": "Come and Go - Halogenix Remix",
-      "url": "https://open.spotify.com/track/20vmuTwxzhupT4hQhAtdtL"
+      "duration_ms": 191233,
+      "name": "Fried for the Night",
+      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
     },
     {
       "added_at": null,
@@ -735,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge (Remixed)",
-        "url": "https://open.spotify.com/album/5N6srwSnMVnUr2CGTbEByX"
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
       "artists": [
         {
@@ -744,17 +720,17 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
         },
         {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+          "name": "Halogenix",
+          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
         }
       ],
-      "duration_ms": 190800,
-      "name": "We Love - Felix Cartal Remix",
-      "url": "https://open.spotify.com/track/2yie05svrhg545Jg8b7rte"
+      "duration_ms": 248907,
+      "name": "Come and Go - Halogenix Remix",
+      "url": "https://open.spotify.com/track/20vmuTwxzhupT4hQhAtdtL"
     },
     {
       "added_at": null,
@@ -807,6 +783,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lune Rouge (Remixed)",
+        "url": "https://open.spotify.com/album/5N6srwSnMVnUr2CGTbEByX"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        },
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "We Love - Felix Cartal Remix",
+      "url": "https://open.spotify.com/track/2yie05svrhg545Jg8b7rte"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You're Invited",
         "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
       },
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 275586,
+      "name": "Day Job",
+      "url": "https://open.spotify.com/track/15Mo2tdzulBWzaG6Yv37Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 93929,
       "name": "2nd Boom",
       "url": "https://open.spotify.com/track/1ezQ8Q9pYUXaJ5lAFtoWw7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "Day Job",
-      "url": "https://open.spotify.com/track/15Mo2tdzulBWzaG6Yv37Tq"
     },
     {
       "added_at": null,
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
         }
       ],
-      "duration_ms": 231639,
-      "name": "Nxt Msg - Deletion Mix",
-      "url": "https://open.spotify.com/track/04I7GkdacPUoq91OCjoyPe"
+      "duration_ms": 90397,
+      "name": "4th Boom",
+      "url": "https://open.spotify.com/track/5yGttN7cpq88005UeU0EB0"
     },
     {
       "added_at": null,

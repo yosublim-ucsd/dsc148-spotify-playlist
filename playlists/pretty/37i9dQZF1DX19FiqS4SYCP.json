@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 135064,
+  "num_followers": 135066,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDQyZTkwYzYzYjViMDQwNjA4ZTlmZmRlNGY5ZmE4NDY3MzRkYjg5",
+  "snapshot_id": "MCxkYmJhN2QyYjQyMGYzOTVmODEwZGZiYzNiNDU0ZDNjNDBmODllYzc1",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Amor Condicional",
+        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lamas",
+          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
+        }
+      ],
+      "duration_ms": 257137,
+      "name": "Amor Condicional",
+      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Anhelos",
         "url": "https://open.spotify.com/album/6bQNxIp5ebYjjlnlZr69xd"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Otra Vez Soltera",
-        "url": "https://open.spotify.com/album/6YuNLasBSbj27kGKevK0dT"
-      },
-      "artists": [
-        {
-          "name": "Las Fenix",
-          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
-        }
-      ],
-      "duration_ms": 153896,
-      "name": "Otra Vez Soltera",
-      "url": "https://open.spotify.com/track/5KVoEPfr37AST35AsDcY7t"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Mas Tequila Por Favor",
         "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
       },
@@ -423,50 +423,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Amor Condicional",
-        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
+        "name": "Otra Vez Soltera",
+        "url": "https://open.spotify.com/album/6YuNLasBSbj27kGKevK0dT"
       },
       "artists": [
         {
-          "name": "Hilda Lamas",
-          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
         }
       ],
-      "duration_ms": 257137,
-      "name": "Amor Condicional",
-      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Porque T\u00fa",
-        "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
-      },
-      "artists": [
-        {
-          "name": "Stevie D",
-          "url": "https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "Porque T\u00fa",
-      "url": "https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Te Llevo En Mi Alma",
-        "url": "https://open.spotify.com/album/3wMfT06yH67fOLn2OVecfA"
-      },
-      "artists": [
-        {
-          "name": "Mike Gonzalez Iconiczz",
-          "url": "https://open.spotify.com/artist/4afRalL7UqAGeT0btMm53X"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "Mi Necesidad",
-      "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
+      "duration_ms": 153896,
+      "name": "Otra Vez Soltera",
+      "url": "https://open.spotify.com/track/5KVoEPfr37AST35AsDcY7t"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -487,18 +455,34 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Anda Vuela Y Vete",
-        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
+        "name": "Te Llevo En Mi Alma",
+        "url": "https://open.spotify.com/album/3wMfT06yH67fOLn2OVecfA"
       },
       "artists": [
         {
-          "name": "Kamryn Ramirez",
-          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
+          "name": "Mike Gonzalez Iconiczz",
+          "url": "https://open.spotify.com/artist/4afRalL7UqAGeT0btMm53X"
         }
       ],
-      "duration_ms": 165866,
-      "name": "Anda Vuela Y Vete",
-      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
+      "duration_ms": 224256,
+      "name": "Mi Necesidad",
+      "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Porque T\u00fa",
+        "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
+      },
+      "artists": [
+        {
+          "name": "Stevie D",
+          "url": "https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc"
+        }
+      ],
+      "duration_ms": 234186,
+      "name": "Porque T\u00fa",
+      "url": "https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -515,6 +499,22 @@
       "duration_ms": 191824,
       "name": "Cuatro O Cinco Farolasos",
       "url": "https://open.spotify.com/track/5GrQy4hk0EXu5XO1W89Ero"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Anda Vuela Y Vete",
+        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
+      },
+      "artists": [
+        {
+          "name": "Kamryn Ramirez",
+          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
+        }
+      ],
+      "duration_ms": 165866,
+      "name": "Anda Vuela Y Vete",
+      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Camino al Progreso",
+        "url": "https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alamo",
+          "url": "https://open.spotify.com/artist/61gPodc8cyGwCnO8Z8quDy"
+        }
+      ],
+      "duration_ms": 229950,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Amigo Fiel",
         "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 207463,
       "name": "Quiereme - Hard Core Tex-Mex Version",
       "url": "https://open.spotify.com/track/0Mw3XtMS8mVa0TePH6JWPS"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Camino al Progreso",
-        "url": "https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alamo",
-          "url": "https://open.spotify.com/artist/61gPodc8cyGwCnO8Z8quDy"
-        }
-      ],
-      "duration_ms": 229950,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Soy Ella",
-        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
-      },
-      "artists": [
-        {
-          "name": "Joanna Rae",
-          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
-        }
-      ],
-      "duration_ms": 179908,
-      "name": "Soy Ella",
-      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "El Error M\u00e1s Bello",
         "url": "https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 205258,
       "name": "El Error M\u00e1s Bello",
       "url": "https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Soy Ella",
+        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
+      },
+      "artists": [
+        {
+          "name": "Joanna Rae",
+          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
+        }
+      ],
+      "duration_ms": 179908,
+      "name": "Soy Ella",
+      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 209836,
+      "name": "Sed\u00faceme",
+      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Contigo Corazon",
         "url": "https://open.spotify.com/album/7ymlEj6NfzuNw2CYa2ZrJj"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 254586,
       "name": "Necesito Borrarte",
       "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 209836,
-      "name": "Sed\u00faceme",
-      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "\u00bfC\u00f3mo Puede Ser As\u00ed?",
-        "url": "https://open.spotify.com/album/0ZNklUBNTfrn5OeFPWYJci"
-      },
-      "artists": [
-        {
-          "name": "Destiny Navaira",
-          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "\u00bfComo Puede Ser As\u00ed?",
-      "url": "https://open.spotify.com/track/3dl1BnbuZitazqKqjCjp5d"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Que Dolor",
         "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 202292,
       "name": "Que Dolor",
       "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "\u00bfC\u00f3mo Puede Ser As\u00ed?",
+        "url": "https://open.spotify.com/album/0ZNklUBNTfrn5OeFPWYJci"
+      },
+      "artists": [
+        {
+          "name": "Destiny Navaira",
+          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "\u00bfComo Puede Ser As\u00ed?",
+      "url": "https://open.spotify.com/track/3dl1BnbuZitazqKqjCjp5d"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/55H74KaK5knXlO72MFajfT"
-      },
-      "artists": [
-        {
-          "name": "Erika Ren\u00e9e",
-          "url": "https://open.spotify.com/artist/42MtvRYX0wZ5B00nbK2Jpw"
-        },
-        {
-          "name": "Aliz\u00e9 Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1MWIy3obn0cy1w2HPcCcNd"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "NADIE",
         "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 188265,
       "name": "Como Te Voy a Olvidar",
       "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/55H74KaK5knXlO72MFajfT"
+      },
+      "artists": [
+        {
+          "name": "Erika Ren\u00e9e",
+          "url": "https://open.spotify.com/artist/42MtvRYX0wZ5B00nbK2Jpw"
+        },
+        {
+          "name": "Aliz\u00e9 Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1MWIy3obn0cy1w2HPcCcNd"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi"
     },
     {
       "added_at": "2023-09-13 20:37:36",

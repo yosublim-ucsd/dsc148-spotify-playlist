@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-610 songs - 1 day 12 hr 20 min
+611 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [This Time Around](https://open.spotify.com/track/52fmgQqhNWTXXKPPoJG58M) | [Matt Daniel](https://open.spotify.com/artist/6QiblG2jfJUChehe6UpFvT) | [This Time Around](https://open.spotify.com/album/09REi8SfRMiwYGEBz7JfID) | 3:27 | 2022-01-14 | 2022-03-19 |
 | [Thorns](https://open.spotify.com/track/1t5JzFzRDHdiPf5K8vT5rr) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Thorns](https://open.spotify.com/album/6ztMuvkxG1L53wV9y0O408) | 3:17 | 2022-04-15 | 2022-05-20 |
 | [Threw Away](https://open.spotify.com/track/6y9xknJBdsTfllYj1HQIYo) | [Braydon Zink](https://open.spotify.com/artist/71HnAsSWgf87Mi2pT0EvOO) | [Time](https://open.spotify.com/album/7nC872HsgMGjoYr7vmIyvs) | 4:16 | 2022-03-04 | 2022-07-16 |
+| [Till You](https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Till You](https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR) | 3:26 | 2024-04-05 |  |
 | [Time of The Rambler](https://open.spotify.com/track/5jvph0QWRjgxRq2jM0bGZO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Time of The Rambler](https://open.spotify.com/album/52fzMuwSfWE2y7AxN8Yq0G) | 3:13 | 2023-11-03 | 2023-11-18 |
 | [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 | 2021-12-17 | 2022-01-08 |
 | [Tomorrow's Out Of Sight](https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Tomorrow's Out Of Sight](https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt) | 3:34 | 2024-02-16 |  |
@@ -594,7 +595,7 @@
 | [Whiskey Over Wine](https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa) | [David McMahon](https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT), [Jake Parshall](https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U) | [Whiskey Over Wine](https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs) | 3:50 | 2021-12-17 | 2022-03-19 |
 | [Whiskey When I'm Gone](https://open.spotify.com/track/4NMrYRUW7GHSZhlUaqnG38) | [Cooper Mohrmann](https://open.spotify.com/artist/4b5lxXh8G3bCrO4q8fTTkk) | [Whiskey When I'm Gone](https://open.spotify.com/album/32GyLIWTsXlW1F54Zxns1R) | 3:47 | 2021-12-17 | 2022-07-22 |
 | [Who Am I to Judge](https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Who Am I to Judge](https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD) | 3:52 | 2022-07-08 | 2023-02-25 |
-| [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-09-01 |  |
+| [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-09-01 | 2024-04-09 |
 | [Whole Lotta Heaven](https://open.spotify.com/track/0qXhqE3uvLWL3cs2HpQaug) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Whole Lotta Heaven](https://open.spotify.com/album/7cRUHxfuLWHl0VMe7imioy) | 3:09 | 2022-01-21 | 2022-08-12 |
 | [Why Do Good People Die](https://open.spotify.com/track/49Pmd0h8IYfu0YferhZQtb) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Midland](https://open.spotify.com/album/1WqO0gfSatzacLlvivWTih) | 3:57 | 2023-07-07 |  |
 | [Why, Dallas?](https://open.spotify.com/track/0aG9eIioKkXS4aicxhyuT8) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Why, Dallas?](https://open.spotify.com/album/5KIHgSEWi3mJ6qTVs5bGGl) | 3:23 | 2022-10-21 | 2023-01-06 |

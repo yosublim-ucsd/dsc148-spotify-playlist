@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 137702,
+  "2024-04-09": 137801,
   "date_first_scraped": "2023-10-23",
   "description": "Adormecer ao som relaxante da chuva.",
   "name": "Chuva para Dormir",
@@ -2825,7 +2825,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 180000,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/2iM7PybcbJwrzzS7by70m8"
@@ -7001,7 +7001,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 141920,
       "name": "Thunder & Rain Sound",
       "url": "https://open.spotify.com/track/2SB1XCZHGJIrjNBqzmKQZ8"

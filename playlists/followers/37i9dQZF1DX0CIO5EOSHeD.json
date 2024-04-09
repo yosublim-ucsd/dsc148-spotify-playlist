@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 484040,
+  "2024-04-09": 484265,
   "date_first_scraped": "2020-10-27",
   "description": "Slacker jams. Cover: Bnny",
   "name": "Lofi Indie",
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "AHH!!",
       "url": "https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7"
@@ -4463,7 +4463,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 202626,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"

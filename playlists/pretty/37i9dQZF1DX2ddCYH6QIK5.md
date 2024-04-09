@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: fiora, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,703 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,710 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Hold Me](https://open.spotify.com/track/7BUp4RbEmzgrcIorrde4Yv) | [Julian Brown](https://open.spotify.com/artist/79Mk7W8bdPKLU00RCdGQZD) | [Hold Me](https://open.spotify.com/album/59tosTdJvAjD5bQwa0y55r) | 3:10 |
 | 80 | [Glow](https://open.spotify.com/track/2adojbdJXnJxBatQ35RvMx) | [Boxwell](https://open.spotify.com/artist/22ODxCZ6qo5fyDnweWQ2YD) | [Glow](https://open.spotify.com/album/09Nq0oRqRW7myZ0alzNKcK) | 3:55 |
 
-Snapshot ID: `MCxjNTQ1MTJiZmYwNWRiMGVkMTc2NmI1NzgyZWVhMDM3ODIzY2M5ZDM1`
+Snapshot ID: `MCwyYWY0MmIyYjJmMGM1NDljOTBhNmQyMDg3YzQ1NjBhZWU2MTc2MGU4`

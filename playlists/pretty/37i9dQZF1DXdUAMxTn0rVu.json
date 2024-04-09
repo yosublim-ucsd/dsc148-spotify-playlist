@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Madvillain",
-  "num_followers": 490148,
+  "num_followers": 490406,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzYzMzMwNzUzNjlhMDYxNDI0MzhlNzUwZTZmYTc1MTFkMzEzYTc2",
+  "snapshot_id": "MCwxZGMyZjRiMGQxMmQxM2U4YjJkYzEzOTJmNjViYzA5NGEwY2IyMTk0",
   "tracks": [
     {
       "added_at": "2024-03-08 02:42:53",
@@ -99,18 +99,22 @@
     {
       "added_at": "2024-03-08 02:42:53",
       "album": {
-        "name": "The Slim Shady LP",
-        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Pebbles The Invisible Girl",
+          "url": "https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4"
         }
       ],
-      "duration_ms": 242573,
-      "name": "Just Don't Give A Fuck",
-      "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
+      "duration_ms": 298053,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
     },
     {
       "added_at": "2024-03-08 02:42:53",
@@ -139,6 +143,22 @@
     {
       "added_at": "2024-03-08 02:42:53",
       "album": {
+        "name": "The Slim Shady LP",
+        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Just Don't Give A Fuck",
+      "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
+    },
+    {
+      "added_at": "2024-03-08 02:42:53",
+      "album": {
         "name": "Moment Of Truth",
         "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 221626,
       "name": "Above The Clouds",
       "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
-    },
-    {
-      "added_at": "2024-03-08 02:42:53",
-      "album": {
-        "name": "The Grind Date",
-        "url": "https://open.spotify.com/album/6pA5vsn22nBSarlpib38QR"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Rock Co.Kane Flow (feat. MF DOOM)",
-      "url": "https://open.spotify.com/track/5eWj4hoqE9cf8mCE1pkB7M"
     },
     {
       "added_at": "2024-03-08 02:42:53",
@@ -239,22 +239,22 @@
     {
       "added_at": "2024-03-08 02:42:53",
       "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+        "name": "The Grind Date",
+        "url": "https://open.spotify.com/album/6pA5vsn22nBSarlpib38QR"
       },
       "artists": [
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         },
         {
-          "name": "Pebbles The Invisible Girl",
-          "url": "https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4"
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
         }
       ],
-      "duration_ms": 298053,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
+      "duration_ms": 185266,
+      "name": "Rock Co.Kane Flow (feat. MF DOOM)",
+      "url": "https://open.spotify.com/track/5eWj4hoqE9cf8mCE1pkB7M"
     },
     {
       "added_at": "2024-03-08 02:42:53",
@@ -287,6 +287,22 @@
       "duration_ms": 177666,
       "name": "Work",
       "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
+    },
+    {
+      "added_at": "2024-03-08 02:42:53",
+      "album": {
+        "name": "MM...FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "One Beer",
+      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
     },
     {
       "added_at": "2024-03-08 02:42:53",
@@ -339,22 +355,6 @@
     {
       "added_at": "2024-03-08 02:42:53",
       "album": {
-        "name": "Acid Raindrops",
-        "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
-      },
-      "artists": [
-        {
-          "name": "People Under The Stairs",
-          "url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
-        }
-      ],
-      "duration_ms": 264152,
-      "name": "Acid Raindrops",
-      "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
-    },
-    {
-      "added_at": "2024-03-08 02:42:53",
-      "album": {
         "name": "Madvillainy",
         "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
       },
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-03-08 02:42:53",
       "album": {
-        "name": "MM...FOOD",
-        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+        "name": "Acid Raindrops",
+        "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
       },
       "artists": [
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "People Under The Stairs",
+          "url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
         }
       ],
-      "duration_ms": 258586,
-      "name": "One Beer",
-      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
+      "duration_ms": 264152,
+      "name": "Acid Raindrops",
+      "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
     },
     {
       "added_at": "2024-03-08 02:42:53",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-03-08 02:42:53",
       "album": {
-        "name": "I Need Drugs",
-        "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
-      },
-      "artists": [
-        {
-          "name": "Necro",
-          "url": "https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Your Fuckin\u2019 Head Split",
-      "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
-    },
-    {
-      "added_at": "2024-03-08 02:42:53",
-      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 187026,
       "name": "Blast",
       "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
+    },
+    {
+      "added_at": "2024-03-08 02:42:53",
+      "album": {
+        "name": "I Need Drugs",
+        "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
+      },
+      "artists": [
+        {
+          "name": "Necro",
+          "url": "https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Your Fuckin\u2019 Head Split",
+      "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
     },
     {
       "added_at": "2024-03-08 02:42:53",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-08 02:42:53",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2024-03-08 02:42:53",
-      "album": {
         "name": "Donuts",
         "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 177120,
       "name": "Workinonit",
       "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
+    },
+    {
+      "added_at": "2024-03-08 02:42:53",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2024-03-08 02:42:53",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-03-08 02:42:53",
       "album": {
-        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
       },
       "artists": [
         {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 241533,
-      "name": "Little Brother",
-      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
     },
     {
       "added_at": "2024-03-08 02:42:53",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-03-08 02:42:53",
       "album": {
+        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
+      },
+      "artists": [
+        {
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Little Brother",
+      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
+    },
+    {
+      "added_at": "2024-03-08 02:42:53",
+      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 322960,
       "name": "Never Fallin'",
       "url": "https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z"
-    },
-    {
-      "added_at": "2024-03-08 02:42:53",
-      "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
     }
   ],
   "unique_name": "I Love My Underground Classics",

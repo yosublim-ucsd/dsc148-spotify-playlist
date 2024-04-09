@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: X Ambassadors
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,947 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,025 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Tender](https://open.spotify.com/track/0q7NYBwAYdAELOSwnyzFoO) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Tender](https://open.spotify.com/album/7kFPWvFvhsBWzfc6Q3ZFUf) | 5:06 |
 | 150 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 |
 
-Snapshot ID: `MCwwZjEyNTRhYjA2MjIzNTIwOTFlNmU2MDBkNDg0YzAyMzVjN2JmNTIz`
+Snapshot ID: `MCwwODcwZWE0NGI0NzY4MzM0MjNjYTlmMDhlZTI1ZWZjNGNmNDNkNWRk`

@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1525418,
+  "num_followers": 1525503,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTQ2Yjg1MTA4MzE2MGVjNmYzZTAzYWM2NDZiMmRmYWJlNmMxYWU5",
+  "snapshot_id": "MCxiOTQyYjdjYWNlN2ViN2ZlOGVjYWZkMWMyNzczMWU0NmUxYWYwYmJh",
   "tracks": [
     {
       "added_at": "2024-03-18 13:00:14",
@@ -95,18 +95,18 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+        "name": "M\u00fasica Popular Cai\u00e7ara: Edi\u00e7\u00e3o Luxo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6oXMHZ4TuFId1OgRb4Eb3Y"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 231474,
-      "name": "Meu Abrigo",
-      "url": "https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe"
+      "duration_ms": 200071,
+      "name": "C\u00e9u Azul - Ao Vivo",
+      "url": "https://open.spotify.com/track/1z1EeTXwnz3gvoUvzvkkdw"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -123,6 +123,22 @@
       "duration_ms": 229573,
       "name": "Cola Comigo",
       "url": "https://open.spotify.com/track/0qMLvVQQV4jFb9dR8VDYeA"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 231474,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -203,22 +219,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "M\u00fasica Popular Cai\u00e7ara: Edi\u00e7\u00e3o Luxo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6oXMHZ4TuFId1OgRb4Eb3Y"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "C\u00e9u Azul - Ao Vivo",
-      "url": "https://open.spotify.com/track/1z1EeTXwnz3gvoUvzvkkdw"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Adrenalizou",
         "url": "https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi"
       },
@@ -271,26 +271,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Eu Feat. Voc\u00ea",
-        "url": "https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 214249,
-      "name": "Cabelo De Anjo",
-      "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -311,22 +291,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 192714,
-      "name": "Agora Eu Quero Ir",
-      "url": "https://open.spotify.com/track/0wHLjfLyc26xILjHVMGIHN"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
         "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
       },
@@ -339,6 +303,26 @@
       "duration_ms": 252789,
       "name": "Sentimento - Ao vivo",
       "url": "https://open.spotify.com/track/0vaISMFBEhY4ssii1zCGUQ"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Eu Feat. Voc\u00ea",
+        "url": "https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 214249,
+      "name": "Cabelo De Anjo",
+      "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -399,6 +383,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/0wHLjfLyc26xILjHVMGIHN"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "Adrenalizou",
         "url": "https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi"
       },
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "Ac\u00fastico MTV",
+        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "Os Cegos do Castelo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "Amor Pra Recome\u00e7ar",
         "url": "https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 202474,
       "name": "Por Voc\u00ea - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Ac\u00fastico MTV",
-        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 296773,
-      "name": "Os Cegos do Castelo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "VI",
+        "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Por Onde Voc\u00ea Anda?",
+      "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "OutroEu",
         "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 258720,
       "name": "Ai de Mim",
       "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "VI",
-        "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Por Onde Voc\u00ea Anda?",
-      "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -719,22 +719,6 @@
       "duration_ms": 227415,
       "name": "N\u00e3o Vai Embora - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Amei Te Ver",
-        "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 254096,
-      "name": "Amei Te Ver - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "Amei Te Ver",
+        "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 254096,
+      "name": "Amei Te Ver - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 237696,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -835,22 +851,6 @@
       "duration_ms": 230107,
       "name": "Novo Ciclo",
       "url": "https://open.spotify.com/track/59ZPagDizQRjxBsDmCL0Pi"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Boca Com Boca",
-      "url": "https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "V\u00ea Se N\u00e3o Me Esquece Mais",
         "url": "https://open.spotify.com/album/5UPRYphdZKvDysG65y8Ecy"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 161255,
       "name": "V\u00ea Se N\u00e3o Me Esquece Mais",
       "url": "https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Boca Com Boca",
+      "url": "https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "Todas as Praias (Ax\u00e9) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 181327,
+      "name": "Nobre Vagabundo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6LvvLGpol0wkihXq9u5OVR"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/2mi7uRYUk8qaBvGWAuuIbH"
       },
@@ -1463,38 +1479,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Outra Vida",
-        "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 184006,
-      "name": "Outra Vida",
-      "url": "https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Todas as Praias (Ax\u00e9) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 181327,
-      "name": "Nobre Vagabundo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6LvvLGpol0wkihXq9u5OVR"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Nois T\u00e1 Alto (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6faMP9dyuKy5l1py2YqCMb"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 169745,
       "name": "Tudo no Sigilo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Outra Vida",
+        "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 184006,
+      "name": "Outra Vida",
+      "url": "https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0"
     },
     {
       "added_at": "2024-03-18 13:00:14",

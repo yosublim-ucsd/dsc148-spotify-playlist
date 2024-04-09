@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-697 songs - 1 day 16 hr 17 min
+698 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,7 +591,7 @@
 | [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 | 2024-01-26 |  |
 | [Take Me](https://open.spotify.com/track/3bhhWM9zuWeUDyR4ODiaaD) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [Fine Lines](https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA) | 3:16 | 2022-11-25 | 2022-11-29 |
 | [Take Me Away](https://open.spotify.com/track/3AqelM2KUTUGUOgqPIpegG) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Meredith Bull](https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or) | [Take Me Away](https://open.spotify.com/album/5w1SO7iTkO8XjBhwUOi68j) | 3:37 | 2022-06-29 | 2022-09-10 |
-| [Take Me Higher](https://open.spotify.com/track/7x6WyCtfWVMSzY7BtvSlbs) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Take Me Higher](https://open.spotify.com/album/4liRBcZA8VxmCO17uCpwhC) | 2:34 | 2024-01-17 |  |
+| [Take Me Higher](https://open.spotify.com/track/7x6WyCtfWVMSzY7BtvSlbs) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Take Me Higher](https://open.spotify.com/album/4liRBcZA8VxmCO17uCpwhC) | 2:34 | 2024-01-17 | 2024-04-09 |
 | [Take Me Into Space](https://open.spotify.com/track/7fyOoDZjardzxtHszeAtz3) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO) | [Take Me Into Space](https://open.spotify.com/album/3gep8PSYHoNtjx05xWCN6N) | 3:01 | 2023-01-17 | 2023-03-31 |
 | [Talk To Me](https://open.spotify.com/track/1HTAiaEhm1ASBdfku96IUF) | [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Talk To Me](https://open.spotify.com/album/4lXG5SZAxBlwZGD13ePprM) | 4:07 | 2022-09-21 | 2022-11-23 |
 | [Talk To You](https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Talk To You](https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3) | 4:06 | 2023-04-06 | 2023-06-30 |
@@ -648,6 +648,7 @@
 | [Turn Me On](https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Turn Me On](https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE) | 2:43 | 2023-03-29 | 2023-06-21 |
 | [Turning](https://open.spotify.com/track/1syjpaCUrigJLbsdvBL2g6) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Turning](https://open.spotify.com/album/10alSsU3B9fySetvtSSoyR) | 3:40 | 2024-02-13 |  |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |
+| [U & Me \- Vincent Remix](https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [U & Me \(Vincent Remix\)](https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J) | 3:58 | 2024-04-08 |  |
 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 | 2023-03-24 | 2023-06-20 |
 | [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 | 2024-01-29 |  |
 | [Uatchu](https://open.spotify.com/track/4eUX2nKYBGSbknXF6zoRgj) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Uatchu](https://open.spotify.com/album/2Kdrhi2A9RY0gmB2yyBPUw) | 4:37 | 2021-11-19 | 2022-01-25 |

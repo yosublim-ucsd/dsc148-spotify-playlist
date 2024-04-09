@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=VsaLe1ESSSuT53CtxGU\-4Q">Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,818 likes - 50 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,160 likes - 50 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/track/4Fjt2bhzk7l5FvDKcGTGhE) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Breakthrough](https://open.spotify.com/album/5oY5TTJsroVfIVlM42dUM8) | 4:40 |
 | 50 | [Jabulani Sesingabantwana \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jabulani Sesingabantwana \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u) | 7:35 |
 
-Snapshot ID: `MCxkYWVlZTUxOWEwZmVkODQ0OTM3MzRiZWI4NjdkMGI1YzE3MDliMGFm`
+Snapshot ID: `MCxkNDRhYWVmMjBlYzBkM2ZlYjg3M2U2Y2NlZDFlMTUyYWU4NjYzNjI3`

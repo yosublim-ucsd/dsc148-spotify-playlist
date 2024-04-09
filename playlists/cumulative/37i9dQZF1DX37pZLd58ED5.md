@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Massimo Pericolo
 
-158 songs - 8 hr 36 min
+159 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Non sai di me](https://open.spotify.com/track/3A9N1BNNayyIwV4TndhNbs) | [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH) | [Non sai di me](https://open.spotify.com/album/4Rg5xUoxzHyY4734IBTcrk) | 3:12 | 2023-11-30 | 2023-12-15 |
 | [Novità \(feat\. Rkomi, Ernia & Tedua\)](https://open.spotify.com/track/0hkY6Je3FYVPCCLZNtPKhH) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:04 | 2022-04-28 |  |
 | [Nuovi Jeans](https://open.spotify.com/track/0N1pKkjhVwKZWFLF47R1tv) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Real](https://open.spotify.com/album/46DpgdlcIIF9poWbkKmQFc) | 3:29 | 2022-04-28 | 2023-12-08 |
-| [Outro \(Non Piango Più\)](https://open.spotify.com/track/05FqJW1j1cIb04S7iDDTBn) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:19 | 2024-03-29 |  |
+| [NUOVO ME ᭆ \(con Rkomi, Bresh, Iako\)](https://open.spotify.com/track/7EDkMWQFt9A3adrZbU6cWg) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [iako](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:01 | 2024-04-08 |  |
+| [Outro \(Non Piango Più\)](https://open.spotify.com/track/05FqJW1j1cIb04S7iDDTBn) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:19 | 2024-03-29 | 2024-04-09 |
 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 | 2022-04-28 |  |
 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 | 2024-01-12 |  |
 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 | 2024-01-13 |

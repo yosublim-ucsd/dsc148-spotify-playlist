@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-579 songs - 1 day 4 hr 29 min
+580 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Accelerate](https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Accelerate](https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l) | 2:07 | 2022-03-23 | 2023-11-03 |
 | [Adventure](https://open.spotify.com/track/5k9VuQEeySm7vOIkj5joWW) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Adventure](https://open.spotify.com/album/3CtdMXnK53iu83nh1vpdkz) | 3:07 | 2022-02-04 | 2022-05-11 |
 | [After](https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8), [Thomas Iannucci](https://open.spotify.com/artist/1owYPqqX6qgsRRQsocw3Bm) | [After](https://open.spotify.com/album/6Dn3OXlvjkxCxXahmeFB7v) | 2:38 | 2022-08-06 | 2024-01-13 |
+| [AGUA](https://open.spotify.com/track/3JQbPW5RXoiVVQv7zwCoBX) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [AGUA](https://open.spotify.com/album/27PRsTVHgdHphrS7c20jIY) | 2:08 | 2024-03-20 |  |
 | [Ain't Nobody \(feat\. LaShun Pace\)](https://open.spotify.com/track/51JKSTZ1bJjfpV9z8vp9Oi) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [Ain't Nobody \(feat\. LaShun Pace\)](https://open.spotify.com/album/2EB62zJMobWATatn8tWCO4) | 2:54 | 2022-03-23 | 2022-04-21 |
 | [Ain't Playin'](https://open.spotify.com/track/6eGe69PKFWB7AQae8XGeOn) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Ain't Playin'](https://open.spotify.com/album/5yvJGix8i4vEc74cJcaS9H) | 3:43 | 2022-03-23 | 2024-01-13 |
 | [All I See \(feat\. CASS\)](https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [All I See \(feat\. CASS\)](https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs) | 3:03 | 2022-02-04 | 2024-01-13 |
@@ -161,7 +162,7 @@
 | [For A Reason](https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [For A Reason](https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV) | 2:41 | 2024-02-02 | 2024-04-06 |
 | [Forever](https://open.spotify.com/track/5hgv7WVjHPUjPBxY4M9fHB) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk) | [Forever](https://open.spotify.com/album/6Y3FWXwfalkRuK7lU73dmC) | 2:29 | 2022-07-17 | 2023-09-24 |
 | [Free Indeed](https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Free Indeed](https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13) | 3:07 | 2023-08-11 |  |
-| [Freedom](https://open.spotify.com/track/3z6e2jZFuNrLFE6nXrSPTa) | [A\-Eazy](https://open.spotify.com/artist/1XhOpjLTSElOphEUHoCdO2), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Message Muzik](https://open.spotify.com/artist/2Zb6NqJgw5gvlXuW9Ww0i0) | [Freedom](https://open.spotify.com/album/0CgRpgsbDEV7uiiZBsdrqp) | 2:27 | 2024-02-02 |  |
+| [Freedom](https://open.spotify.com/track/3z6e2jZFuNrLFE6nXrSPTa) | [A\-Eazy](https://open.spotify.com/artist/1XhOpjLTSElOphEUHoCdO2), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Message Muzik](https://open.spotify.com/artist/2Zb6NqJgw5gvlXuW9Ww0i0) | [Freedom](https://open.spotify.com/album/0CgRpgsbDEV7uiiZBsdrqp) | 2:27 | 2024-02-02 | 2024-04-09 |
 | [Freedom \- Amapiano](https://open.spotify.com/track/1RfHFStdEXyJWorqSQmMUU) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Denga](https://open.spotify.com/album/1RLgrGJKZ9jRVIXyNoGiGZ) | 4:23 | 2022-02-04 | 2022-04-30 |
 | [Freedom Reign](https://open.spotify.com/track/1JtoUj5crGlArogzjngLRp) | [Cat Rea](https://open.spotify.com/artist/2p5dxSCkyWzMfgCc77ulwi), [Joshua Luke Smith](https://open.spotify.com/artist/7mmASPkwqvMm4OKlncqud3) | [Freedom Reign](https://open.spotify.com/album/5dYFYlaAj5dEXybeo8hnVI) | 3:05 | 2022-02-04 | 2022-07-29 |
 | [FRONT ROW](https://open.spotify.com/track/2eKAGXhvlPxUsGe4PXVR73) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [FRONT ROW](https://open.spotify.com/album/2OJbLHFcmhmEYLKXm5BByp) | 3:15 | 2022-02-04 | 2022-07-29 |

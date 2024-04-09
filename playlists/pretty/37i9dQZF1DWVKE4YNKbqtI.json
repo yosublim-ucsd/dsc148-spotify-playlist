@@ -1,12 +1,12 @@
 {
   "description": "Little Walter, Junior Wells, James Cotton the finest blues harmonica players.",
-  "num_followers": 10874,
+  "num_followers": 10881,
   "original_name": "Blues Harp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjFjOWVjZTQ0NTEwZTA2NmNlN2M0YjNjZDJmYTg1ZjVjZjI3Nzli",
+  "snapshot_id": "MCw2MGZkMzQxOGZiMTcyZWNmOGQzZDY4MDQ1MDIxMTczM2QyZDM4MzQ2",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -147,58 +147,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Down And Out Blues",
-        "url": "https://open.spotify.com/album/6uhJ93exe9enyJnV3jgyLO"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Don't Start Me To Talkin'",
-      "url": "https://open.spotify.com/track/1f9FEeBWZkuT4ItJZwsJ2l"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Sonny Boy Williamson Vol. 1 (1937 - 1938)",
         "url": "https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L"
       },
@@ -231,6 +179,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Down And Out Blues",
+        "url": "https://open.spotify.com/album/6uhJ93exe9enyJnV3jgyLO"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Don't Start Me To Talkin'",
+      "url": "https://open.spotify.com/track/1f9FEeBWZkuT4ItJZwsJ2l"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Big Walter Horton w/ Carey Bell",
         "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
@@ -247,18 +211,34 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Shake My Hand",
-        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
+        "name": "Back Where I Belong",
+        "url": "https://open.spotify.com/album/59auu3dHE34dRuCajZ2Kd2"
       },
       "artists": [
         {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
         }
       ],
-      "duration_ms": 258399,
-      "name": "Work With Me Annie",
-      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
+      "duration_ms": 219560,
+      "name": "I Wish You Would",
+      "url": "https://open.spotify.com/track/6YSJ7rgjRiO3glbDJrBZR3"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -291,18 +271,38 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Back Where I Belong",
-        "url": "https://open.spotify.com/album/59auu3dHE34dRuCajZ2Kd2"
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
       "artists": [
         {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 219560,
-      "name": "I Wish You Would",
-      "url": "https://open.spotify.com/track/6YSJ7rgjRiO3glbDJrBZR3"
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Shake My Hand",
+        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
+      },
+      "artists": [
+        {
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Work With Me Annie",
+      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -343,6 +343,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Deep In The Blues",
+        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Play With Your Poodle",
+      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Louisiana Legend",
         "url": "https://open.spotify.com/album/4s0G9NIPxGreWN5IiliCEa"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Whoopin'",
-        "url": "https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry",
-          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
-        }
-      ],
-      "duration_ms": 286693,
-      "name": "Sonny's Whoopin' The Doop",
-      "url": "https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Hail To The Kings!",
         "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 229506,
       "name": "The Wine Talkin'",
       "url": "https://open.spotify.com/track/4jwpFbAnl9e5fsMbhVZgjV"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Whoopin'",
+        "url": "https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry",
+          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
+        }
+      ],
+      "duration_ms": 286693,
+      "name": "Sonny's Whoopin' The Doop",
+      "url": "https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -443,22 +459,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Deep In The Blues",
-        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Play With Your Poodle",
-      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "No Mercy In This Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
       },
@@ -475,6 +475,26 @@
       "duration_ms": 218101,
       "name": "The Bottle Wins Again",
       "url": "https://open.spotify.com/track/7c2FB64ULKN97mjU5wvIyQ"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -527,6 +547,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Sonny Is King",
+        "url": "https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry",
+          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "One Monkey Don't Stop The Show",
+      "url": "https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Dirty Memory",
         "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
       },
@@ -543,22 +579,6 @@
       "duration_ms": 362486,
       "name": "Jason Solo",
       "url": "https://open.spotify.com/track/0KVqA1NoDClaWnKkqQV8wP"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Sonny Is King",
-        "url": "https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry",
-          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "One Monkey Don't Stop The Show",
-      "url": "https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -611,26 +631,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Alone With The Blues",
         "url": "https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ"
       },
@@ -647,18 +647,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Flash Forward",
-        "url": "https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv"
+        "name": "One Wrong Turn",
+        "url": "https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl"
       },
       "artists": [
         {
-          "name": "The Siegel-Schwall Band",
-          "url": "https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo"
+          "name": "Rick Estrin & The Nightcats",
+          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Going Back To Alabama",
-      "url": "https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr"
+      "duration_ms": 313680,
+      "name": "Callin' All Fools",
+      "url": "https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -683,18 +683,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "One Wrong Turn",
-        "url": "https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl"
+        "name": "Flash Forward",
+        "url": "https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv"
       },
       "artists": [
         {
-          "name": "Rick Estrin & The Nightcats",
-          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+          "name": "The Siegel-Schwall Band",
+          "url": "https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo"
         }
       ],
-      "duration_ms": 313680,
-      "name": "Callin' All Fools",
-      "url": "https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF"
+      "duration_ms": 219560,
+      "name": "Going Back To Alabama",
+      "url": "https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr"
     },
     {
       "added_at": "2020-10-22 17:19:34",

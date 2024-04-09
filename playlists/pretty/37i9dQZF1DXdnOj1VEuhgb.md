@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ati242
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,343,668 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,343,997 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SUBMARINER](https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SUBMARINER](https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7) | 2:03 |
-| 2 | [Kaptan](https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kaptan](https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs) | 3:11 |
-| 3 | [Kennedy'i Ben Vurdum](https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Kennedy'i Ben Vurdum](https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq) | 2:18 |
-| 4 | [LANNISTER](https://open.spotify.com/track/3kahv1hGB5bOr5blQMguOx) | [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [LANNISTER](https://open.spotify.com/album/6ofhyEoqDiB2YqK3QVp5DM) | 2:09 |
-| 5 | [pVg](https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [pVg](https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6) | 4:03 |
+| 1 | [Kaptan](https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kaptan](https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs) | 3:11 |
+| 2 | [SUBMARINER](https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SUBMARINER](https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7) | 2:03 |
+| 3 | [LANNISTER](https://open.spotify.com/track/3kahv1hGB5bOr5blQMguOx) | [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [LANNISTER](https://open.spotify.com/album/6ofhyEoqDiB2YqK3QVp5DM) | 2:09 |
+| 4 | [Kennedy'i Ben Vurdum](https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Kennedy'i Ben Vurdum](https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq) | 2:18 |
+| 5 | [Koyu Siyah](https://open.spotify.com/track/4RaUr30Wsaw3y2sSHjl9QM) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Doruk Erester](https://open.spotify.com/artist/3CwnAZ3czmquojmi4X3OKp) | [Koyu Siyah](https://open.spotify.com/album/3e1pH4DC88DXopF9Tk1rvi) | 4:46 |
 | 6 | [Mümkünse](https://open.spotify.com/track/1LYVm4xK4dAoBNd4IDs5Wa) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [YBF](https://open.spotify.com/album/45cQk54hGNWgTImfVD5RAB) | 3:16 |
-| 7 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/3bYADKpgBpTUAYYPOslHtW) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 3:11 |
-| 8 | [Koyu Siyah](https://open.spotify.com/track/4RaUr30Wsaw3y2sSHjl9QM) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Doruk Erester](https://open.spotify.com/artist/3CwnAZ3czmquojmi4X3OKp) | [Koyu Siyah](https://open.spotify.com/album/3e1pH4DC88DXopF9Tk1rvi) | 4:46 |
+| 7 | [pVg](https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [pVg](https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6) | 4:03 |
+| 8 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/3bYADKpgBpTUAYYPOslHtW) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 3:11 |
 | 9 | [GÜZEL VE İDDİALI](https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GÜZEL VE İDDİALI](https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G) | 2:55 |
 | 10 | [Çaresizce](https://open.spotify.com/track/5Owbx90EQ9qYyGQtJmZ8x1) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [CAITYPE](https://open.spotify.com/album/44lkzLxZrsdJ5iFus1I9Au) | 2:34 |
 | 11 | [MINI TERORISTA](https://open.spotify.com/track/2XHozQfA0T57iHczS9N4sl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/5U4UvgvFitfNPiIF0zAPBp) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 |
 | 50 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
-Snapshot ID: `MCxhY2Q3ODJmNGY5MTZiZWIzOTgwMGJhNzAwODJkNWU2ZmJhMGRmZTM4`
+Snapshot ID: `MCw2NTc5YWIwYjk3NzVmYmY1ZmZhNDc3NWRiMTJmNGU0MTA2MDgwZDAw`

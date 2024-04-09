@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 81424,
+  "2024-04-09": 81431,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Guatemala.",
   "name": "Top 50 - Guatemala",
@@ -6885,7 +6885,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
@@ -13513,7 +13513,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 246453,
       "name": "S\u00e9 Que Te Amo",
       "url": "https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG"

@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 75 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
 | 76 | [華麗ワンターン](https://open.spotify.com/track/3E7PYVYZ5YfmeJpzEv4PYf) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [華麗ワンターン](https://open.spotify.com/album/5Gu4DBIvLsOtPIPXSBAG7Y) | 4:23 |
 
-Snapshot ID: `MCw1ZWY1MWNkMDhlNjhhN2JiOGI1YmQ5NjFhZjU2ZWI5ZTNhYTM3MTgy`
+Snapshot ID: `MCw5YmY5ZWI4YzU4OTkxOThjN2MwNzc3M2NmOTY0OTM4NmFlMDQ4ZWNk`

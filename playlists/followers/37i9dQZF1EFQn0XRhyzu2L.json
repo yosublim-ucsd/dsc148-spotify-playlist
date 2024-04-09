@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 8490,
+  "2024-04-09": 8490,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz\">Justin Tranter</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Justin Tranter",
@@ -2913,6 +2913,24 @@
       "duration_ms": 200827,
       "name": "Good Girl Act - From the Paramount+ Series \u2018Grease: Rise of the Pink Ladies'",
       "url": "https://open.spotify.com/track/2YdRc2Uqc0MQdmoUtU61mm"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "album": {

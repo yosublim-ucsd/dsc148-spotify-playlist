@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 80119,
+  "2024-04-09": 80163,
   "date_first_scraped": "2022-09-09",
   "description": "Global ambient with percussion to soundtrack your Yoga session.",
   "name": "Yoga Flow",
@@ -1374,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "Isha Sky",
+        "url": "https://open.spotify.com/album/7CRuUGDr21CfLgHvalGwIg"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9sir\u00e9 Renaud",
+          "url": "https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130929,
+      "name": "Isha Sky",
+      "url": "https://open.spotify.com/track/1shogpgsW1zvMcHhlCM956"
+    },
+    {
+      "album": {
         "name": "Jewel of Sangha",
         "url": "https://open.spotify.com/album/7DcadO0a8aVIPCCCGfa31X"
       },
@@ -1389,6 +1407,24 @@
       "duration_ms": 154500,
       "name": "Jewel of Sangha",
       "url": "https://open.spotify.com/track/6dyJdwInk8DnebR9UXLY9H"
+    },
+    {
+      "album": {
+        "name": "Kailash Parbat",
+        "url": "https://open.spotify.com/album/2mjdSFpJ32SWf8pa7sUAxl"
+      },
+      "artists": [
+        {
+          "name": "J. Cartwright",
+          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152694,
+      "name": "Kailash Parbat",
+      "url": "https://open.spotify.com/track/3so007Ue4ijYtieRtHCjVP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: NiziU
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,577 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,592 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 |
 | 60 | [United States Of Division](https://open.spotify.com/track/42IywCSd29OYc49Nfpxzcb) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [United States Of Division](https://open.spotify.com/album/2SCgxaMeSnN22J653SEp6Q) | 6:18 |
 
-Snapshot ID: `MCxiOTQ4NGVlNWQ4YmEyMTE3ODAyMWU1NGIxNmIyYWU5ZjljNjI0ZjA3`
+Snapshot ID: `MCxhNzYyM2M0NjM1YTMyZGQ5NzdiZTczNjdlNDc5ZjE5OWM5MWUzM2Ew`

@@ -42,7 +42,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 87084,
       "name": "Acapulco suite",
       "url": "https://open.spotify.com/track/2kV2obNpJ6kwYnNXkx1NLG"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 158337,
       "name": "Adelita",
       "url": "https://open.spotify.com/track/1Om6ar1DbgFbGW3fqczD9B"
@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed Suena la Marimba",
+        "url": "https://open.spotify.com/album/02OCBXcHA4rkSGmU128kj1"
+      },
+      "artists": [
+        {
+          "name": "Marimba Reyna Fraylescana",
+          "url": "https://open.spotify.com/artist/0azP4Z0bX5S7z83xvlRwGq"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174840,
+      "name": "Amar y Vivir",
+      "url": "https://open.spotify.com/track/3BP8NoR5uw7r2zkP7IEUpS"
+    },
+    {
+      "album": {
         "name": "Vuelve La Marimba Orquesta Lira de Chiapas",
         "url": "https://open.spotify.com/album/4Pj926DUiao0viyG8mho42"
       },
@@ -180,7 +198,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 181465,
       "name": "Ansia Marimba",
       "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
@@ -202,6 +220,24 @@
       "duration_ms": 188773,
       "name": "Antigua Guatemala",
       "url": "https://open.spotify.com/track/5pJ6HaGiYrONFRxJS6jgVq"
+    },
+    {
+      "album": {
+        "name": "Recordando a Hugo Reyes, Con Lo Mejor de Irma Ventura",
+        "url": "https://open.spotify.com/album/3E5vkzHGNY42XLddOs1vlV"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquestal Virreynal De Hugo Reyes",
+          "url": "https://open.spotify.com/artist/73G5dvHWU7Nq0A14Bq0jEO"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169280,
+      "name": "Arriaga",
+      "url": "https://open.spotify.com/track/1aixQSbQ0aiChthQtdGoz7"
     },
     {
       "album": {
@@ -252,7 +288,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 139853,
       "name": "Caballo Negro",
       "url": "https://open.spotify.com/track/1BDQIqtflr6e00qXSUqpW0"
@@ -310,6 +346,24 @@
       "duration_ms": 172187,
       "name": "Chacha chachita",
       "url": "https://open.spotify.com/track/7tWZCJW94n0Q9nzWPKPikB"
+    },
+    {
+      "album": {
+        "name": "Marimbas Con Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/1Z1MOCCSOwEkCTGMy7Voab"
+      },
+      "artists": [
+        {
+          "name": "Marimba Brisas Del Grijalva",
+          "url": "https://open.spotify.com/artist/4olVlpt1hJMV20j9EX6KSR"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151026,
+      "name": "Chiapas",
+      "url": "https://open.spotify.com/track/2fW8qf2G8vNpJEtvV1n4no"
     },
     {
       "album": {
@@ -476,7 +530,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 174430,
       "name": "Cuando me lo pidas marimba",
       "url": "https://open.spotify.com/track/5NdALXOb7RqZrfyuGeenYk"
@@ -555,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Al Son de la Marimba",
+        "url": "https://open.spotify.com/album/0wxM4bQS2LGqHegc3Ouc6x"
+      },
+      "artists": [
+        {
+          "name": "Marimba Perla del Soconusco",
+          "url": "https://open.spotify.com/artist/6J9Z1V5gcVO6zphy7zANO4"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160293,
+      "name": "Ecos de Grijalva",
+      "url": "https://open.spotify.com/track/10Y9inhqqeRw5pos81s2bP"
+    },
+    {
+      "album": {
         "name": "Luna de Plata",
         "url": "https://open.spotify.com/album/5zsYxrTgEVPdO24SKoaMbv"
       },
@@ -628,10 +700,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 118570,
       "name": "El bikini",
       "url": "https://open.spotify.com/track/2OrXy4Q4dY3EplIUMLuum1"
+    },
+    {
+      "album": {
+        "name": "Marimba para Bailar",
+        "url": "https://open.spotify.com/album/0Ihsjeu5Gs19Iu7t6mItQT"
+      },
+      "artists": [
+        {
+          "name": "Marimba Estrella De Chiapas",
+          "url": "https://open.spotify.com/artist/69BHaB39ynVJXoMhRMWmw1"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211433,
+      "name": "El Cable",
+      "url": "https://open.spotify.com/track/4wEamhOETbihGJoAuAePeo"
     },
     {
       "album": {
@@ -707,6 +797,42 @@
     },
     {
       "album": {
+        "name": "Mi Primavera",
+        "url": "https://open.spotify.com/album/3pxX9CWbb6Ns3fgU9y94Te"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquestra Los Rios",
+          "url": "https://open.spotify.com/artist/7aFuhai2azzpPRe2Sv2mbp"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "El Lepero",
+      "url": "https://open.spotify.com/track/6w0dsA6Ps1fcz8l5nrCrK5"
+    },
+    {
+      "album": {
+        "name": "Sones Chiapanecos",
+        "url": "https://open.spotify.com/album/7DL3iOTWpHa60ZC8ar3V1r"
+      },
+      "artists": [
+        {
+          "name": "Marimba Niluyarilo",
+          "url": "https://open.spotify.com/artist/40c8gkv9OKXjSkGZexn7rJ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "El Lloron",
+      "url": "https://open.spotify.com/track/5rOxFEQPOowgKn1JUhE4HD"
+    },
+    {
+      "album": {
         "name": "Exitos Internacionales en Marimba",
         "url": "https://open.spotify.com/album/6OCCL0MXixxHIKNH8tC9gJ"
       },
@@ -722,6 +848,24 @@
       "duration_ms": 254040,
       "name": "El Manicero",
       "url": "https://open.spotify.com/track/7hOMzXGysLGalUajUPEVqV"
+    },
+    {
+      "album": {
+        "name": "Marimba para Bailar",
+        "url": "https://open.spotify.com/album/0Ihsjeu5Gs19Iu7t6mItQT"
+      },
+      "artists": [
+        {
+          "name": "Marimba Estrella De Chiapas",
+          "url": "https://open.spotify.com/artist/69BHaB39ynVJXoMhRMWmw1"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160480,
+      "name": "El Negro Jos\u00e9",
+      "url": "https://open.spotify.com/track/3r2HzXJ7kTnkFKdXvqOiGf"
     },
     {
       "album": {
@@ -779,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Sones Chiapanecos",
+        "url": "https://open.spotify.com/album/7DL3iOTWpHa60ZC8ar3V1r"
+      },
+      "artists": [
+        {
+          "name": "Marimba Niluyarilo",
+          "url": "https://open.spotify.com/artist/40c8gkv9OKXjSkGZexn7rJ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241520,
+      "name": "El Sapo",
+      "url": "https://open.spotify.com/track/71lJenNGfpS1GpHw5T27gK"
+    },
+    {
+      "album": {
         "name": "World Music Guatemala - Danzas Mayas (Mayan Dances)",
         "url": "https://open.spotify.com/album/4fAkdvEpAB9h7WgBxySn5q"
       },
@@ -812,6 +974,24 @@
       "duration_ms": 229586,
       "name": "El Tikalito",
       "url": "https://open.spotify.com/track/221FZlg0q4xAeZ0DjY4ELg"
+    },
+    {
+      "album": {
+        "name": "Vol. 6",
+        "url": "https://open.spotify.com/album/68hnpw9a9FD7bHwb8zl9nA"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquestra Los Rios",
+          "url": "https://open.spotify.com/artist/7aFuhai2azzpPRe2Sv2mbp"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222266,
+      "name": "El Torito",
+      "url": "https://open.spotify.com/track/2hK0XOu2PKnydXB4M2y7cg"
     },
     {
       "album": {
@@ -888,7 +1068,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 100413,
       "name": "En Donde Estara Mi Reina",
       "url": "https://open.spotify.com/track/3rzXE4LelDDBWxlqQZqvzD"
@@ -914,7 +1094,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 86644,
       "name": "Escalera a las nubes",
       "url": "https://open.spotify.com/track/1k1wRrZuqioouMN7yZbeX2"
@@ -954,6 +1134,24 @@
       "duration_ms": 210706,
       "name": "Ferrocarril De Los Altos, Marimba de Guatemala",
       "url": "https://open.spotify.com/track/0HHniRcsqkJ6LGUI1uInSC"
+    },
+    {
+      "album": {
+        "name": "Aires de Mexico/ Corridos de caballos",
+        "url": "https://open.spotify.com/album/1TFh0vHVkHlryfgp1SPj31"
+      },
+      "artists": [
+        {
+          "name": "Banda Matador",
+          "url": "https://open.spotify.com/artist/5ucMf3YVMxc8O9pGPdx12y"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119466,
+      "name": "Flor de la malague\u00f1a",
+      "url": "https://open.spotify.com/track/0v37qk1L94vdVx2vNnCLVh"
     },
     {
       "album": {
@@ -1004,7 +1202,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 539506,
       "name": "Huapango",
       "url": "https://open.spotify.com/track/65bgM1R5qZeiQwnUOFcSf9"
@@ -1088,7 +1286,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 155906,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/4b1i7kRgTXbqqbfwaKbm9x"
@@ -1110,7 +1308,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 134291,
       "name": "La Cucaracha",
       "url": "https://open.spotify.com/track/70YB8z8u5OflFK8CWN5rcS"
@@ -1204,7 +1402,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 143440,
       "name": "La Ni\u00f1a Popoff",
       "url": "https://open.spotify.com/track/2qlryAB5I1brraqiCVBuBF"
@@ -1230,7 +1428,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 108002,
       "name": "La Ramona",
       "url": "https://open.spotify.com/track/6ceRzX6816UPM4IVxzP3OP"
@@ -1252,7 +1450,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 107860,
       "name": "La Rielera",
       "url": "https://open.spotify.com/track/1R3VLBZTkSnd3k80I971YT"
@@ -1332,10 +1530,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 202532,
       "name": "La Valentina",
       "url": "https://open.spotify.com/track/2z9QAii7LHxC112enTEmSM"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n De Oro: Del Folklore Mexicano, Vol. 2 \u2013 La Zandunga",
+        "url": "https://open.spotify.com/album/66bUTcQKgYl6IAjz32rTMR"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143516,
+      "name": "La Zandunga",
+      "url": "https://open.spotify.com/track/5XuLtL8vNTvh9m8z83WsBi"
     },
     {
       "album": {
@@ -1452,7 +1668,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 115537,
       "name": "Las Tehuanas",
       "url": "https://open.spotify.com/track/2YvqaC9SMsXVOxy0djXafD"
@@ -1474,6 +1690,24 @@
       "duration_ms": 291000,
       "name": "Linda Kelly",
       "url": "https://open.spotify.com/track/4EtUJ9yFoNehGggP3OgKtK"
+    },
+    {
+      "album": {
+        "name": "Bailables Chiapanecos - Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos Garc\u00eda",
+        "url": "https://open.spotify.com/album/3bFynqrx7Xhmw5n0fKvaEa"
+      },
+      "artists": [
+        {
+          "name": "Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5in6b8uMmeW1geq5rs1Byu"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295488,
+      "name": "Los Parachicos",
+      "url": "https://open.spotify.com/track/2VsxAftoOrzG4YohUFsNXT"
     },
     {
       "album": {
@@ -1506,10 +1740,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 199786,
       "name": "Mambo en Marimba",
       "url": "https://open.spotify.com/track/6ZBedssrUgegt6uxTD3ZaW"
+    },
+    {
+      "album": {
+        "name": "Mi Margarita",
+        "url": "https://open.spotify.com/album/5PEH74YWqDatN6YfQRIOnC"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Corona De Tapachula",
+          "url": "https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183309,
+      "name": "Mambo En Marimba",
+      "url": "https://open.spotify.com/track/5Srm2Yi1OHWoq5O2bCFNhk"
     },
     {
       "album": {
@@ -1640,7 +1892,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 91672,
       "name": "Me Dio Su Mano",
       "url": "https://open.spotify.com/track/373T9ZvzJpnOezlVkZL3Qx"
@@ -1684,7 +1936,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 85090,
       "name": "Mi Villahermosa",
       "url": "https://open.spotify.com/track/1i0PwVXUZAC94ljaKtAyVy"
@@ -1961,6 +2213,42 @@
     },
     {
       "album": {
+        "name": "Los Mejores Popurris",
+        "url": "https://open.spotify.com/album/3CG1UkuWHfKdFnBQJgplJR"
+      },
+      "artists": [
+        {
+          "name": "La Marimba Del Estado De Oaxaca",
+          "url": "https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568986,
+      "name": "Popurri Chuy Rasgado Naela",
+      "url": "https://open.spotify.com/track/35xUcIbaMDpaRtmmh30owl"
+    },
+    {
+      "album": {
+        "name": "Popurries Tropicales Con Las Mejores",
+        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394213,
+      "name": "Popurri De Cumbias",
+      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
+    },
+    {
+      "album": {
         "name": "Marimba Alma de Chiapas de Juan Palacios",
         "url": "https://open.spotify.com/album/27owIuyxZgBgWnVQdxBaOz"
       },
@@ -1976,6 +2264,24 @@
       "duration_ms": 331213,
       "name": "Popurr\u00ed Ranchero: Tristes Recuerdos, Caminos de Michoac\u00e1n, No Volver\u00e9, El Sinaloense",
       "url": "https://open.spotify.com/track/4fenlXxnj6nZ61J3PZa35C"
+    },
+    {
+      "album": {
+        "name": "Para Bailar Sabroso",
+        "url": "https://open.spotify.com/album/68PdxSuoXeRKxdy8OLj4f5"
+      },
+      "artists": [
+        {
+          "name": "Internacional Marimba Orquesta",
+          "url": "https://open.spotify.com/artist/5WTMNLBdhFlJKXnEKrQrbN"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544626,
+      "name": "Popurr\u00ed: La Cumbancha / Veracruz / Farolito / Mar\u00eda Bonita / Solamente una V\u00e8z",
+      "url": "https://open.spotify.com/track/6ovQnL3oF3vKtThmj5XkMe"
     },
     {
       "album": {
@@ -2159,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Para Bailar \u00a1Mas Sabroso! - Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos Garc\u00eda",
+        "url": "https://open.spotify.com/album/2sLiFq7zMQgEIeeOVLVi2O"
+      },
+      "artists": [
+        {
+          "name": "Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5in6b8uMmeW1geq5rs1Byu"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306995,
+      "name": "Son De La Calenda",
+      "url": "https://open.spotify.com/track/4y4y3F5jeHfzYJOVus9hQZ"
+    },
+    {
+      "album": {
         "name": "Camaron Pelao",
         "url": "https://open.spotify.com/album/1HoW7usYBQI1StanRLk5eY"
       },
@@ -2192,6 +2516,24 @@
       "duration_ms": 181446,
       "name": "Son Tus Perj\u00famenes Mujer",
       "url": "https://open.spotify.com/track/5ugkh4WYcSGeaBEENv09WS"
+    },
+    {
+      "album": {
+        "name": "Sones Chiapanecos",
+        "url": "https://open.spotify.com/album/7DL3iOTWpHa60ZC8ar3V1r"
+      },
+      "artists": [
+        {
+          "name": "Marimba Niluyarilo",
+          "url": "https://open.spotify.com/artist/40c8gkv9OKXjSkGZexn7rJ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423466,
+      "name": "Sones Chiapanecos",
+      "url": "https://open.spotify.com/track/2UivhTv8Gsqy7qI6sr8qbV"
     },
     {
       "album": {
@@ -2267,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "Recordando a Hugo Reyes, Con Lo Mejor de Irma Ventura",
+        "url": "https://open.spotify.com/album/3E5vkzHGNY42XLddOs1vlV"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquestal Virreynal De Hugo Reyes",
+          "url": "https://open.spotify.com/artist/73G5dvHWU7Nq0A14Bq0jEO"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "Tonal\u00e1",
+      "url": "https://open.spotify.com/track/6ibiktFdAAQLaRMbOpcIwd"
+    },
+    {
+      "album": {
         "name": "Chapinlandia - Marimba Music of Guatemala",
         "url": "https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG"
       },
@@ -2314,7 +2674,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 231693,
       "name": "Vamos A Guerrero-Por Los Caminos Del Sur-La San Marque\u00f1a-Pinotepa Nacional",
       "url": "https://open.spotify.com/track/3thvvHwTN1ri3jtARSckSS"
@@ -2340,7 +2700,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 95086,
       "name": "Vamos a Villahermosa",
       "url": "https://open.spotify.com/track/6FPMIaGg0HpX2OEGtvVv5m"
@@ -2362,6 +2722,24 @@
       "duration_ms": 322666,
       "name": "Yo No Fui",
       "url": "https://open.spotify.com/track/7G5YcICaR0V8DO1bih6X9s"
+    },
+    {
+      "album": {
+        "name": "Recordando a Hugo Reyes, Con Lo Mejor de Irma Ventura",
+        "url": "https://open.spotify.com/album/3E5vkzHGNY42XLddOs1vlV"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquestal Virreynal De Hugo Reyes",
+          "url": "https://open.spotify.com/artist/73G5dvHWU7Nq0A14Bq0jEO"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175106,
+      "name": "Zanatenco",
+      "url": "https://open.spotify.com/track/1WcCFZP97CPHI1AErrom9w"
     },
     {
       "album": {

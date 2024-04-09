@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Ivandro e Slow J entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,011 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,996 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [SLOWLY](https://open.spotify.com/track/3GiSZdYGVzZOjKN3cdCQur) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Dj Dadda](https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu) | [THE NINJA SPIRIT](https://open.spotify.com/album/0IJUNankp0rti6gsU77HDI) | 3:02 |
 | 75 | [VIDA BANDIDA](https://open.spotify.com/track/0z0hJIDVzyFX6CpHsy4b5a) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Casp3r](https://open.spotify.com/artist/2dNyGUrMkoGzDHTMTukhf6) | [VIDA BANDIDA](https://open.spotify.com/album/6FOBnYk5bE3HkuBZAKVfYw) | 3:22 |
 
-Snapshot ID: `MCw3MDhjYzhjMTUwNWNlZGM5OTc1NWI5MjY0Yjc3ZDVlM2E2ZjRhNGFh`
+Snapshot ID: `MCw0MzFiZWMyZjJjOTRiNTFiMzVkM2Q2ZTEwMDhlYTliZGE5ZTgwNWRh`

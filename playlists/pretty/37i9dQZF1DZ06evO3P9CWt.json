@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 275860,
+  "num_followers": 275865,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTU4YTQ5YTI5NmI5NzJmNGQzYjlmMDZjNGQxNjdiNjdhNzgxMTVh",
+  "snapshot_id": "MCwyMDE0NjYyZTQ5NGQxNzRmMDg2ZjNiNDZkNjlhMGIwYTc4OGY2NWEy",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 39106,
-      "name": "Noitada INTRO",
-      "url": "https://open.spotify.com/track/2hXH0lq9mfxS8EVFsWOwmW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 150259,
       "name": "MODO TURBO",
       "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 39106,
+      "name": "Noitada INTRO",
+      "url": "https://open.spotify.com/track/2hXH0lq9mfxS8EVFsWOwmW"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flash Pose",
+        "url": "https://open.spotify.com/album/7a8LBp4khqUFgSc4j8tVgN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 152932,
+      "name": "Flash Pose",
+      "url": "https://open.spotify.com/track/5GsJcnO3rgpZFOrzL2EISO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 222463,
       "name": "Apetitosa (feat. Frimes) - S4TAN Remix",
       "url": "https://open.spotify.com/track/5l0sTb9daBTdVhDNrWs7FG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flash Pose",
-        "url": "https://open.spotify.com/album/7a8LBp4khqUFgSc4j8tVgN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 152932,
-      "name": "Flash Pose",
-      "url": "https://open.spotify.com/track/5GsJcnO3rgpZFOrzL2EISO"
     },
     {
       "added_at": null,

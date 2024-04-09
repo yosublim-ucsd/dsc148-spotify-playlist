@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Elsa y Elmar.",
-  "num_followers": 122962,
+  "num_followers": 122995,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWJhZTgxODE3ZmQwYTQ4OGI5MzQxMDU4ODZmOTAxZGQ0NDUwMWMy",
+  "snapshot_id": "MCxlM2QzNzU1OWYxZTQyYjk2Zjg4OTYyY2M0MWRhM2EwMGFkNzJjNzE3",
   "tracks": [
     {
       "added_at": "2024-04-05 13:57:27",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "papel de fumar",
-        "url": "https://open.spotify.com/album/16MEYDdZd4HA04KPmf2SBo"
-      },
-      "artists": [
-        {
-          "name": "Candela G\u00f3mez",
-          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
-        }
-      ],
-      "duration_ms": 219143,
-      "name": "papel de fumar",
-      "url": "https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
+        "name": "papel de fumar",
+        "url": "https://open.spotify.com/album/16MEYDdZd4HA04KPmf2SBo"
+      },
+      "artists": [
+        {
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
+        }
+      ],
+      "duration_ms": 219143,
+      "name": "papel de fumar",
+      "url": "https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
         "name": "El Perro Feroz",
         "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
       },
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
+        "name": "Capurgan\u00e1",
+        "url": "https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu"
+      },
+      "artists": [
+        {
+          "name": "Astola y Rat\u00f3n",
+          "url": "https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "Capurgan\u00e1",
+      "url": "https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
-        "name": "Capurgan\u00e1",
-        "url": "https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu"
-      },
-      "artists": [
-        {
-          "name": "Astola y Rat\u00f3n",
-          "url": "https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "Capurgan\u00e1",
-      "url": "https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/07lKXcTObjoJTSbZ3ja38O"
-      },
-      "artists": [
-        {
-          "name": "Ainoa Buitrago",
-          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
-        }
-      ],
-      "duration_ms": 171744,
-      "name": "23",
-      "url": "https://open.spotify.com/track/3en9r8oxZAF08fshqAaswq"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "C\u00f3smosis",
         "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 246720,
       "name": "C\u00f3smosis",
       "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/07lKXcTObjoJTSbZ3ja38O"
+      },
+      "artists": [
+        {
+          "name": "Ainoa Buitrago",
+          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
+        }
+      ],
+      "duration_ms": 171744,
+      "name": "23",
+      "url": "https://open.spotify.com/track/3en9r8oxZAF08fshqAaswq"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
+        "name": "Qui\u00e9n Lo Dir\u00eda",
+        "url": "https://open.spotify.com/album/47v626dipoxlz7BCMgum3Q"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 197144,
+      "name": "Qui\u00e9n Lo Dir\u00eda",
+      "url": "https://open.spotify.com/track/0v6BKaRYR08RgEmyZigUKf"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
         "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
         "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Qui\u00e9n Lo Dir\u00eda",
-        "url": "https://open.spotify.com/album/47v626dipoxlz7BCMgum3Q"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 197144,
-      "name": "Qui\u00e9n Lo Dir\u00eda",
-      "url": "https://open.spotify.com/track/0v6BKaRYR08RgEmyZigUKf"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "Kumbayeo (Lado A)",
         "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "Rumba en Cahuita",
         "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 167752,
       "name": "Rumba en Cahuita",
       "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 322242,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 322242,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/19rufpTetxXAnNTU0BeLYS"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/1oTv4yrhxmIEJNc31vv4db"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
@@ -1371,18 +1387,22 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Asesina",
-        "url": "https://open.spotify.com/album/19rufpTetxXAnNTU0BeLYS"
+        "name": "San Nosotros",
+        "url": "https://open.spotify.com/album/0Du489jVeI92AyatEtdmYm"
       },
       "artists": [
         {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+          "name": "Ant\u00edlopez",
+          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
+        },
+        {
+          "name": "David Parejo",
+          "url": "https://open.spotify.com/artist/4asbNH05UWkBskErFyBC1x"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/1oTv4yrhxmIEJNc31vv4db"
+      "duration_ms": 159230,
+      "name": "San Nosotros",
+      "url": "https://open.spotify.com/track/0I120QSj7hSLvHqd5x57r3"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1499,26 +1519,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "San Nosotros",
-        "url": "https://open.spotify.com/album/0Du489jVeI92AyatEtdmYm"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00edlopez",
-          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
-        },
-        {
-          "name": "David Parejo",
-          "url": "https://open.spotify.com/artist/4asbNH05UWkBskErFyBC1x"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "San Nosotros",
-      "url": "https://open.spotify.com/track/0I120QSj7hSLvHqd5x57r3"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "La Serrana",
         "url": "https://open.spotify.com/album/5l0f2RgDat84Z7xWUM5zgS"
       },
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "OTRX",
-        "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        },
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "D\u00eda De Lluvia En Madrid",
         "url": "https://open.spotify.com/album/4JziU8KvKnc6fnKQKtK3Sx"
       },
@@ -1659,18 +1639,22 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
       },
       "artists": [
         {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        },
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
         }
       ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+      "duration_ms": 175412,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1687,6 +1671,42 @@
       "duration_ms": 197589,
       "name": "Ser + Peque",
       "url": "https://open.spotify.com/track/4Ha0IH9PM7QpD7PQC1Ic1E"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "Como Un Amuleto",
+        "url": "https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Ainoa Buitrago",
+          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
+        }
+      ],
+      "duration_ms": 191689,
+      "name": "Como Un Amuleto",
+      "url": "https://open.spotify.com/track/2nRjw9V6oQmueOWsaoymJ4"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1715,26 +1735,6 @@
     {
       "added_at": "2024-04-05 13:57:27",
       "album": {
-        "name": "Como Un Amuleto",
-        "url": "https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Ainoa Buitrago",
-          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
-        }
-      ],
-      "duration_ms": 191689,
-      "name": "Como Un Amuleto",
-      "url": "https://open.spotify.com/track/2nRjw9V6oQmueOWsaoymJ4"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
         "name": "Resalada",
         "url": "https://open.spotify.com/album/4BiDgfahVGuGbUdMPMxLeY"
       },
@@ -1747,6 +1747,22 @@
       "duration_ms": 197442,
       "name": "No somos extra\u00f1os",
       "url": "https://open.spotify.com/track/3hDzrdAPXuxZCXBotYK4cu"
+    },
+    {
+      "added_at": "2024-04-05 13:57:27",
+      "album": {
+        "name": "Propuestas Imposibles",
+        "url": "https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 223047,
+      "name": "Propuestas Imposibles",
+      "url": "https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy"
     },
     {
       "added_at": "2024-04-05 13:57:27",
@@ -1771,22 +1787,6 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
-    },
-    {
-      "added_at": "2024-04-05 13:57:27",
-      "album": {
-        "name": "Propuestas Imposibles",
-        "url": "https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 223047,
-      "name": "Propuestas Imposibles",
-      "url": "https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy"
     },
     {
       "added_at": "2024-04-05 13:57:27",

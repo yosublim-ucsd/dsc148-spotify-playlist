@@ -1,12 +1,12 @@
 {
   "description": "Los temas inmortales de Selena en voces de nuevos int\u00e9rpretes",
-  "num_followers": 20161,
+  "num_followers": 20178,
   "original_name": "Selena Cancionero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzI3NTJkOTU3ZDNhZTM5Nzg5YzMwZTRhOWM5ZDcxMzViM2YzODk5",
+  "snapshot_id": "MCwzZjhkOGZiYmIzOWY4NTU0MTEzYWQyNjg3YTdjM2U2YTU0NmRjYzdh",
   "tracks": [
     {
       "added_at": "2023-01-09 06:20:56",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-01-09 06:20:56",
       "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 176365,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo"
+    },
+    {
+      "added_at": "2023-01-09 06:20:56",
+      "album": {
         "name": "En Letra de Otro",
         "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
       },
@@ -215,22 +231,6 @@
     {
       "added_at": "2023-01-09 06:20:56",
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 176365,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo"
-    },
-    {
-      "added_at": "2023-01-09 06:20:56",
-      "album": {
         "name": "A Selena Tribute: Como La Flor / Bidi Bidi Bom Bom / Amor Prohibido / I Could Fall In Love / No Me Queda Mas",
         "url": "https://open.spotify.com/album/5OSh4fIcIwPBiUP9hjjBY4"
       },
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-01-09 06:20:56",
       "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872"
+    },
+    {
+      "added_at": "2023-01-09 06:20:56",
+      "album": {
         "name": "Lo Grande De Los Grandes",
         "url": "https://open.spotify.com/album/3ZFhJo5aUACP0bgeyuJZOV"
       },
@@ -275,6 +291,26 @@
       "duration_ms": 209211,
       "name": "T\u00fa S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/1Q4RGgbJmZkNwnl90s5Ita"
+    },
+    {
+      "added_at": "2023-01-09 06:20:56",
+      "album": {
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 175573,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/6o5ZlCDb85cE8jrhkYysiE"
     },
     {
       "added_at": "2023-01-09 06:20:56",
@@ -307,26 +343,6 @@
       "duration_ms": 166293,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/22oUsXhc9Wiuwt9rtdCoXI"
-    },
-    {
-      "added_at": "2023-01-09 06:20:56",
-      "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 175573,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/6o5ZlCDb85cE8jrhkYysiE"
     },
     {
       "added_at": "2023-01-09 06:20:56",
@@ -392,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 175889,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872"
+      "duration_ms": 212615,
+      "name": "Dreaming Of You / I Could Fall In Love",
+      "url": "https://open.spotify.com/track/3J5OSyGUsO4DwrCKkMHoGa"
     },
     {
       "added_at": "2023-01-09 06:20:56",
@@ -431,38 +447,6 @@
     {
       "added_at": "2023-01-09 06:20:56",
       "album": {
-        "name": "Reyna",
-        "url": "https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 205609,
-      "name": "Selena",
-      "url": "https://open.spotify.com/track/3aLfVYYjd0GQrBsccS7w92"
-    },
-    {
-      "added_at": "2023-01-09 06:20:56",
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "Dreaming Of You / I Could Fall In Love",
-      "url": "https://open.spotify.com/track/3J5OSyGUsO4DwrCKkMHoGa"
-    },
-    {
-      "added_at": "2023-01-09 06:20:56",
-      "album": {
         "name": "La Leyenda (Version Deluxe)",
         "url": "https://open.spotify.com/album/2UbcZhoI1lrKnmRsfk2KGF"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 284826,
       "name": "Buenos Amigos",
       "url": "https://open.spotify.com/track/2gTlal0EmSkFAdmJkhLGIw"
+    },
+    {
+      "added_at": "2023-01-09 06:20:56",
+      "album": {
+        "name": "Reyna",
+        "url": "https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        }
+      ],
+      "duration_ms": 205609,
+      "name": "Selena",
+      "url": "https://open.spotify.com/track/3aLfVYYjd0GQrBsccS7w92"
     },
     {
       "added_at": "2023-01-09 06:20:56",

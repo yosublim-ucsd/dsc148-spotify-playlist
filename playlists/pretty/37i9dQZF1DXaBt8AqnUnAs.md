@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,547 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,550 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [OUTROMAR](https://open.spotify.com/track/0a8tMucr4ja7RTDqrdYzbx) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Ashley David](https://open.spotify.com/artist/1wEC94P6n5pxqSRpiJHufF) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:28 |
 | 75 | [OLh05f3xD5](https://open.spotify.com/track/4vgttE8mIgf0fHGOkOXrZ7) | [Chozy](https://open.spotify.com/artist/6NTiankZRvz9miBAa9fLuS), [Griluv77](https://open.spotify.com/artist/40AYkcZaW0YvEoO6L9otxh) | [OLh05f3xD5](https://open.spotify.com/album/2iXHw9SqHI7NG1EdxM0KKU) | 2:29 |
 
-Snapshot ID: `MCw5OWMyMTNmMTQ3MjU1NDhhMjM1MzJkYzdhYmUxNzExMzRjMTM1OWM5`
+Snapshot ID: `MCwyZTQ0ZGVlYjlhZDA1MDZmYzA1YzBlMzdjN2ZmYTM4YzJhOGU4ZDU1`

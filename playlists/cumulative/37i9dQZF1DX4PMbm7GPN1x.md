@@ -4,7 +4,7 @@
 
 > Relive the disco era with these superhits\. Cover \- Disco Dancer
 
-79 songs - 7 hr 26 min
+80 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- From "Zamaane Ko Dikhana Hai"](https://open.spotify.com/track/3Z9aXnlcKDhPeE0mLZlbFI) | [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Best of RD Burman](https://open.spotify.com/album/1beCiDJxZeOD7tYHLCOOoW) | 8:00 | 2023-03-22 | 2023-05-25 |
 | [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- From "Zamaane Ko Dikhana Hai"](https://open.spotify.com/track/43isQX2aE8qkZyz3CuV7QA) | [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Most Popular RD Burman Songs](https://open.spotify.com/album/6dFWrIuUwFn5nob1EYq7ok) | 8:00 | 2023-03-22 |  |
 | [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- Zamaane Ko Dikhana Hai / Soundtrack Version](https://open.spotify.com/track/0eUIFoZp2GtOLkd2MRZaBH) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Zamaane Ko Dikhana Hai \(OST\)](https://open.spotify.com/album/3YZnhGgYdoLoELL5sEchOD) | 7:59 | 2021-11-16 | 2022-07-29 |
+| [Disco Station \- From "Haathkadi"](https://open.spotify.com/track/6GkxJTJfbV459gNFFXiDQc) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Haathkadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NksIAIqCEU70UdcMrptWw) | 6:53 | 2024-04-08 |  |
 | [Disco Station \- Haathkadi / Soundtrack Version](https://open.spotify.com/track/3SHBWYlE2P7zzHWNoOUJpj) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Haathkadi](https://open.spotify.com/album/6uCths8m5Ae3gQJuFIaToq) | 6:53 | 2021-11-16 |  |
 | [Dum Dee Dee Dum](https://open.spotify.com/track/3ilnBa1Fn11NXwhjAqZfx4) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Young Tarang](https://open.spotify.com/album/2EnmsTN6QbJmiw0udWFB5O) | 4:19 | 2021-11-16 |  |
 | [Gunmaster G\-9](https://open.spotify.com/track/6kAVYOf6CbuLO7odHTiRJu) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Annette Pinto](https://open.spotify.com/artist/1iAJP0fds4MdLGjha2ahDt) | [Surakksha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y96C5codhCZcwTr8inaLU) | 5:17 | 2021-11-16 |  |

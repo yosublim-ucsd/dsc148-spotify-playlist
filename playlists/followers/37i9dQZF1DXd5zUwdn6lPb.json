@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 316710,
+  "2024-04-09": 316893,
   "date_first_scraped": "2022-04-19",
   "description": "Enhance your focus with classical music.",
   "name": "Classical Focus",
@@ -721,6 +721,28 @@
       "duration_ms": 206333,
       "name": "Bunte Reihe, S484/R149: Gondellied in F Major",
       "url": "https://open.spotify.com/track/13V9EABmO5Z1d4GAKBm2a7"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
+        "url": "https://open.spotify.com/album/06qLCT2VJCWRbxkJV7YvC8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261969,
+      "name": "Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
+      "url": "https://open.spotify.com/track/14MG8dXMuUjylGn350RKtT"
     },
     {
       "album": {
@@ -3675,7 +3697,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 233920,
       "name": "Partita No. 3 In A Minor, BWV 827 : I. Fantasia",
       "url": "https://open.spotify.com/track/2rwutsPWAKDybfbVuBRC4L"

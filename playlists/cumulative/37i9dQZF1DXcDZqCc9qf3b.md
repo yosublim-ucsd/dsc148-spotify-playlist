@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: Hot Wheels: Let's Race
 
-125 songs - 5 hr 11 min
+127 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ordinary Me](https://open.spotify.com/track/7oTWEMowWcNShU0LhOoP9z) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB), [Oh, Hush!](https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk), [graywolfe](https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0) | 1:26 | 2022-10-12 | 2022-11-24 |
 | [Paws Off](https://open.spotify.com/track/4F0lrCxtYqDPsg5HXzEbPE) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze), [Román Zaragoza](https://open.spotify.com/artist/6RHHwTVRq68EP7uB86Krpj) | [Spirit Rangers: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/17xy5eOeUcNuJpAyIjKjIF) | 1:04 | 2022-10-12 | 2022-11-17 |
 | [Paws Off](https://open.spotify.com/track/7qSk3rPjRoksldhlwcZdc7) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze), [Román Zaragoza](https://open.spotify.com/artist/6RHHwTVRq68EP7uB86Krpj) | [Spirit Rangers: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4pTf1x9AErsPd3Dt5FLyPf) | 1:04 | 2022-10-12 |  |
+| [Potlatch Party](https://open.spotify.com/track/51NwBNjvL0sc8vQW59hrKo) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze) | [Spirit Rangers: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/20hf5xuyRMfWSqN5GYlSAd) | 1:03 | 2024-04-08 |  |
 | [Princess Power Theme Song \(from the Netflix Series\)](https://open.spotify.com/track/3FRY7aHuPSHpmwIbmTYUr0) | [Princess Power](https://open.spotify.com/artist/48rvn0SQ8YkKH1wcjggkVr) | [Princess Power Theme Song \(from the Netflix Series\)](https://open.spotify.com/album/1HZXJsFLRSufKj7HExLmG8) | 1:31 | 2023-01-13 |  |
 | [Proud Of My Hair](https://open.spotify.com/track/32Mar6wKUVHa886N2iwcG0) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Karma’s World](https://open.spotify.com/album/2WtR8Ymlpgvx3DXnZIrcAA) | 2:10 | 2022-04-08 |  |
 | [Reach Out I'll Be There](https://open.spotify.com/track/7kMlkg1X3DTi2S5H11o626) | [Motown Magic Cast](https://open.spotify.com/artist/2ejbZK38MVvz9L9lOx7cEw) | [Motown Magic \(Original Soundtrack\)](https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL) | 4:01 | 2022-04-08 |  |
@@ -119,6 +120,7 @@
 | [The Power Is Ours](https://open.spotify.com/track/7jiLiLBb2UPYKiomQpNwTd) | [Ali Dee](https://open.spotify.com/artist/11Z6vwNiOdfaki04eL60tj) | [He\-Man and the Masters of the Universe, Vol\. 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/3gTyS9vXB0WQERPLu11WhP) | 2:54 | 2022-04-08 |  |
 | [The Sea Beast](https://open.spotify.com/track/3YhPDdcQ5kz0MW4vTKyX8t) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [The Sea Beast \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx) | 2:23 | 2022-07-08 | 2022-07-10 |
 | [The Slip](https://open.spotify.com/track/7Jr9MNxJWexglBZJvHNTCk) | [EL3VATORS](https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K), [Jordan Mosley](https://open.spotify.com/artist/3sdEAXDskGxSy9wwOsza6s) | [My Dad The Bounty Hunter \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/18hA5x8SmQG5FDATMx3wvp) | 2:27 | 2023-02-03 |  |
+| [The Trickster Twins](https://open.spotify.com/track/0bODqMJZeLTmFLvQFuBYg5) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze) | [Spirit Rangers: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/20hf5xuyRMfWSqN5GYlSAd) | 0:58 | 2024-04-08 |  |
 | [The Why Song](https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:31 | 2022-04-08 |  |
 | [This Day](https://open.spotify.com/track/2rZWWJNvLD2MRSIqjsLXpc) | [Justin Cornwell](https://open.spotify.com/artist/2A5eGxahQnw1LlZDMlzCWC), [Sharon Rose](https://open.spotify.com/artist/4eeDtE1DM9kHdHyHi668JQ) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:33 | 2022-04-08 |  |
 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 | 2022-10-12 |  |

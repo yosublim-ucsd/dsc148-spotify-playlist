@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Edgär
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,372 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,378 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Méandres](https://open.spotify.com/track/75GWeilFe8MSVqOyIxCyMO) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [Méandres](https://open.spotify.com/album/6ABQGgLr013oap4hcMUFJB) | 6:33 |
 | 50 | [What A Life](https://open.spotify.com/track/23g7JXPRidvXvuPTsetgwI) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [What A Life](https://open.spotify.com/album/2XQGjToeh7CxcEKZQ2tCMu) | 2:30 |
 
-Snapshot ID: `MCxhZWQyZTZkN2M5ZDJjMmJhNTk4YWJhNWZjMDJiMjA4YTllZjA0OGIz`
+Snapshot ID: `MCxlNmE4NWFjZmU2ZDE1YWIzODc4MDQxMTFiMDUxNGY1NjBmZDIwYjVh`

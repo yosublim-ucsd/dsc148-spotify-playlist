@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 170965,
       "name": "Avalale Naan",
       "url": "https://open.spotify.com/track/1A7FsJYMA9MRPJoBZ3UGKz"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 259534,
       "name": "Iravillaa Maalai",
       "url": "https://open.spotify.com/track/2Z31haqJVZGymjwgdlBeo5"
@@ -9161,6 +9161,32 @@
     },
     {
       "album": {
+        "name": "Sollu (From \"VM ORIGINALS - Season 1\")",
+        "url": "https://open.spotify.com/album/41MNFGqp8ZdLgeHJrGOwkp"
+      },
+      "artists": [
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Vivek Siva",
+          "url": "https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD"
+        },
+        {
+          "name": "Nithyashree Venkataramanan",
+          "url": "https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248918,
+      "name": "Sollu (From \"VM ORIGINALS - Season 1\")",
+      "url": "https://open.spotify.com/track/2Hwd07KC1h2ISM2zCuyv5D"
+    },
+    {
+      "album": {
         "name": "Sooravali",
         "url": "https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8"
       },
@@ -10316,7 +10342,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 195200,
       "name": "Vaa Usure",
       "url": "https://open.spotify.com/track/45i5WYIG56kj7YMhLrVaHz"

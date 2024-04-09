@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,124 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,209 likes - 174 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 63 | [Midnight Wine](https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Year Of The Spider](https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY) | 3:18 |
 | 64 | [Sugar Craft](https://open.spotify.com/track/2qjHB920me7MCPAM6KqNGM) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Combustication](https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN) | 3:22 |
 | 65 | [No Mutuals](https://open.spotify.com/track/1NweFLWRCij8C2vywqcB8r) | [Fake Fruit](https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9) | [Fake Fruit](https://open.spotify.com/album/5q4N607hmNNhSxqrSepTL5) | 2:48 |
-| 66 | [Guajira sicodélica](https://open.spotify.com/track/7BCox4yFBBdHflBRfp82ji) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/03wLLXfyRT2uos4kZnufCo) | 3:31 |
+| 66 | [Guajira Sicodélica](https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12) | 3:32 |
 | 67 | [La Pajuelera](https://open.spotify.com/track/6uYpSJADtZDNmbBMz4tKnB) | [Luis Kalaff Y Sus Alegres Dominicanos](https://open.spotify.com/artist/1BFeO7nE5BSz98qtBIzpXx) | [Merengues, Vol\. 2](https://open.spotify.com/album/0pPnXuuNORaRlLk5UTLNzf) | 3:04 |
 | 68 | [La Mariposa](https://open.spotify.com/track/2Z2eyFm6TrRdbrVNJMlqVN) | [Raúl Monsalve y los Forajidos](https://open.spotify.com/artist/6gnd8QrdkjUk18Rk27kWkj), [Lya Bonilla](https://open.spotify.com/artist/0m8iKjhsWsyvPrgCtWW3SI) | [Bichos](https://open.spotify.com/album/32ZEJ8t7uV7TwheaedvE30) | 3:37 |
 | 69 | [Que Lengua](https://open.spotify.com/track/0H4zoI0T85DpU70rxrUfjp) | [Kito Vélez y sus Estrellas](https://open.spotify.com/artist/2IymFJpJ9hwpi8DcphwA0S) | [Kito Vélez y sus Estrellas](https://open.spotify.com/album/2MH3UTAjZnLETZW0X8oBzE) | 2:31 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MCw1MDk1OWU5MGEwMWMxYzMxMWI1NDg2Yjc0MjMyODcwYjlkYTJjMmQz`
+Snapshot ID: `MCw2MWVhNDQ5MjEwMTQ0NjEzNmVkZTI1ZTZhYWI4NjJiNWFlMTZmZTNj`

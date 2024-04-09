@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Artie 5ive, Rondodasosa, MACE, Silent Bob e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,932 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,964 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [1K 2K 3K](https://open.spotify.com/track/0uF1EfAMmFWW3EvdqMzJfe) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [1K 2K 3K](https://open.spotify.com/album/2kqRGd6HpKXCJ7rrvjR8SM) | 2:38 |
 | 100 | [NASTY](https://open.spotify.com/track/7FmJ24EdZb8ktn5OBg11b8) | [XWOND](https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX) | [NASTY](https://open.spotify.com/album/4wsyabPdMHIJmWB38ytUeL) | 2:18 |
 
-Snapshot ID: `MCw5NThjNTYyMzNhZTI4YWVlZDZiNDJkNzY2NTNmMjE3MGU4MjYyNzZj`
+Snapshot ID: `MCxkZmI5MTk0YmE1YmMwMTdlYjkzODI2NWQ0YTVlNTgwODliMmMwMGI3`

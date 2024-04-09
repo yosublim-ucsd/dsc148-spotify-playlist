@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 156603,
+  "num_followers": 156656,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY3ZjJjMjYwYmY4NDQ3MDA5OTk4YTM5MTU2NmJhMzNkMDQ3NzZi",
+  "snapshot_id": "MCw0NmYxZWRmNTNhNDk5YTk4MTVlOGRhY2JjZDZkNmQ2NDk1NzU4MDI4",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -111,6 +111,38 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Luz Do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Os Anjos Te Louvam - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Ess\u00eancia",
+        "url": "https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 202768,
+      "name": "Um Pouco do Que Deus Fez",
+      "url": "https://open.spotify.com/track/1F2NsHxUk1qDckkHfPtEzp"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Sonhos de Deus",
         "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
       },
@@ -159,38 +191,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Ess\u00eancia",
-        "url": "https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 202768,
-      "name": "Um Pouco do Que Deus Fez",
-      "url": "https://open.spotify.com/track/1F2NsHxUk1qDckkHfPtEzp"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Luz Do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Os Anjos Te Louvam - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Deus Cuida de Mim",
         "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
       },
@@ -203,6 +203,22 @@
       "duration_ms": 203081,
       "name": "Jeova \u00e9 o Teu Cavaleiro",
       "url": "https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 258390,
+      "name": "Dele, Com Ele - Ao Vivo",
+      "url": "https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -239,22 +255,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Bem Perto",
-        "url": "https://open.spotify.com/album/5rRpDFmpjetBCTQDTDRIZV"
-      },
-      "artists": [
-        {
-          "name": "Discopraise",
-          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
-        }
-      ],
-      "duration_ms": 230124,
-      "name": "Bem Perto",
-      "url": "https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Saudade, Vol. 1",
         "url": "https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE"
       },
@@ -267,6 +267,22 @@
       "duration_ms": 259683,
       "name": "Me Faz Viver",
       "url": "https://open.spotify.com/track/2RESyS5FZ5CUzkir51jQKT"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Bem Perto",
+        "url": "https://open.spotify.com/album/5rRpDFmpjetBCTQDTDRIZV"
+      },
+      "artists": [
+        {
+          "name": "Discopraise",
+          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
+        }
+      ],
+      "duration_ms": 230124,
+      "name": "Bem Perto",
+      "url": "https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -287,8 +303,8 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
+        "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw"
       },
       "artists": [
         {
@@ -296,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 258390,
-      "name": "Dele, Com Ele - Ao Vivo",
-      "url": "https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED"
+      "duration_ms": 249917,
+      "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -315,22 +331,6 @@
       "duration_ms": 222813,
       "name": "Vem",
       "url": "https://open.spotify.com/track/5DKGCBPgRe0YGvdFFDrHTg"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Ema\u00fas",
-        "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
-      },
-      "artists": [
-        {
-          "name": "Templo Soul",
-          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
-        }
-      ],
-      "duration_ms": 435428,
-      "name": "Ema\u00fas",
-      "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Ema\u00fas",
+        "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
+      },
+      "artists": [
+        {
+          "name": "Templo Soul",
+          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
+        }
+      ],
+      "duration_ms": 435428,
+      "name": "Ema\u00fas",
+      "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Saudade, Vol. 2",
         "url": "https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 285601,
       "name": "Deus da Minha Vida",
       "url": "https://open.spotify.com/track/0JpSWEkjpNEfnmlPTYw60F"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 249917,
-      "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Luz Do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "Crente Que Ora - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Um Pedido",
         "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
       },
@@ -415,6 +431,38 @@
       "duration_ms": 255568,
       "name": "Um Pedido",
       "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+      },
+      "artists": [
+        {
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Eu Sou De Jesus",
+      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Luz - Parte 1",
+        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 221193,
+      "name": "Zanzando",
+      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -443,22 +491,6 @@
       "duration_ms": 195765,
       "name": "Tamo Junto",
       "url": "https://open.spotify.com/track/3ZVOLNMuY3zqLl9lyU4VtD"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
-      },
-      "artists": [
-        {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Eu Sou De Jesus",
-      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -503,50 +535,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Haja Luz",
-        "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
+        "name": "Tudo Posso",
+        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
       },
       "artists": [
         {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
-        }
-      ],
-      "duration_ms": 246906,
-      "name": "Ben\u00e7\u00e3o em Ben\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3YEqc7Y3wQfOEcuGk1UKQb"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Luz Do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
-      },
-      "artists": [
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        },
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Lucas Augusto",
+          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
         }
       ],
-      "duration_ms": 280133,
-      "name": "Crente Que Ora - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Luz - Parte 1",
-        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 221193,
-      "name": "Zanzando",
-      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
+      "duration_ms": 397762,
+      "name": "Tudo Posso",
+      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -567,22 +571,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Tudo Posso",
-        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
+        "name": "Haja Luz",
+        "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
       },
       "artists": [
         {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Lucas Augusto",
-          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
         }
       ],
-      "duration_ms": 397762,
-      "name": "Tudo Posso",
-      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
+      "duration_ms": 246906,
+      "name": "Ben\u00e7\u00e3o em Ben\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3YEqc7Y3wQfOEcuGk1UKQb"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Frequ\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma"
-      },
-      "artists": [
-        {
-          "name": "Felipe Vilela",
-          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
-        },
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 255050,
-      "name": "Frequ\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Nada Se Compara",
         "url": "https://open.spotify.com/album/3UeS120DmaRg42viHosGU6"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 283280,
       "name": "O C\u00e9u \u00c9 o Limite",
       "url": "https://open.spotify.com/track/7d3BPwhS1MLufNHPWhM7rD"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Frequ\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma"
+      },
+      "artists": [
+        {
+          "name": "Felipe Vilela",
+          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
+        },
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 255050,
+      "name": "Frequ\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Avante",
-        "url": "https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "T\u00f4 Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/6bPzIPnHfGksLjrXRSJGbo"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Sobre Deixar",
         "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Eu Grito",
-        "url": "https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1"
+        "name": "Avante",
+        "url": "https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3"
       },
       "artists": [
         {
-          "name": "Discopraise",
-          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
         }
       ],
-      "duration_ms": 273500,
-      "name": "Eu Grito",
-      "url": "https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL"
+      "duration_ms": 228735,
+      "name": "T\u00f4 Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/6bPzIPnHfGksLjrXRSJGbo"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 251640,
       "name": "Brighter Day - Kirk's Mix",
       "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Eu Grito",
+        "url": "https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1"
+      },
+      "artists": [
+        {
+          "name": "Discopraise",
+          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
+        }
+      ],
+      "duration_ms": 273500,
+      "name": "Eu Grito",
+      "url": "https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Te Adorar",
-        "url": "https://open.spotify.com/album/7tXxdiOv0uaMinPIk4Ti14"
-      },
-      "artists": [
-        {
-          "name": "Vinicius Motta",
-          "url": "https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y"
-        }
-      ],
-      "duration_ms": 234985,
-      "name": "Louvarei",
-      "url": "https://open.spotify.com/track/1HolPI1xldNL8COYPtj1Id"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Por Amor a Ti",
         "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 163000,
       "name": "Medley: Dom Supremo",
       "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Te Adorar",
+        "url": "https://open.spotify.com/album/7tXxdiOv0uaMinPIk4Ti14"
+      },
+      "artists": [
+        {
+          "name": "Vinicius Motta",
+          "url": "https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y"
+        }
+      ],
+      "duration_ms": 234985,
+      "name": "Louvarei",
+      "url": "https://open.spotify.com/track/1HolPI1xldNL8COYPtj1Id"
     },
     {
       "added_at": "2023-12-22 03:00:00",

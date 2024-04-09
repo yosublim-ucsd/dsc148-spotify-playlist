@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-299 songs - 19 hr 3 min
+300 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Flowers for Handcuffs](https://open.spotify.com/track/2sO7GZQ9FQOtB7XSRqkf33) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [The Future is the End](https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7) | 2:53 | 2023-05-11 | 2023-07-20 |
 | [Forces du désordre](https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu) | 4:43 | 2021-12-15 | 2022-07-29 |
 | [Forces du désordre](https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF) | 4:43 | 2022-09-12 | 2023-06-28 |
-| [From The Sea To Your Mind](https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [From The Sea To Your Mind](https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9) | 5:29 | 2022-03-24 |  |
+| [From The Sea To Your Mind](https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [From The Sea To Your Mind](https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9) | 5:29 | 2022-03-24 | 2024-04-09 |
 | [Full Circle Back](https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Full Circle Back](https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu) | 3:46 | 2022-04-17 | 2024-03-09 |
 | [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 | 2022-01-03 | 2023-12-16 |
 | [Funny Job](https://open.spotify.com/track/1UkK5H2jqo3AsT1BqWN18p) | [Alista](https://open.spotify.com/artist/61hCos6hISn5le08kOOkIc) | [Home Alone](https://open.spotify.com/album/487GnXko7mltMClLrOXiI5) | 3:46 | 2021-12-15 | 2023-12-14 |
@@ -216,6 +216,7 @@
 | [Power Lines](https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Power Lines](https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS) | 3:40 | 2021-12-15 |  |
 | [Preliminary](https://open.spotify.com/track/4DS5aXb22EZCfFzNZV2Mdv) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Preliminary](https://open.spotify.com/album/6dlFEG62a3cpgQgnx2R6W6) | 4:11 | 2023-02-28 | 2023-06-11 |
 | [Pretty Vicious Summer](https://open.spotify.com/track/2o7UfjK4hX42hJ5rhC27xS) | [Murder At The Pony Club](https://open.spotify.com/artist/7C3EICXmCNNxgAs2CPneWO) | [Pretty Vicious Summer](https://open.spotify.com/album/03wwVkw1W92XMrW45nKzN9) | 4:20 | 2021-12-15 | 2022-07-28 |
+| [Provocative](https://open.spotify.com/track/38a028wwlHws1qY0UfVgCK) | [WOOD WOUNDS](https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm) | [Provocative](https://open.spotify.com/album/3WruGDJtSzFt10JJjIQh5G) | 1:59 | 2024-02-28 |  |
 | [Quatre\-Vingt\-Quatorze](https://open.spotify.com/track/1lNG9VfZ9OiNYFKCPoOftD) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Geranium](https://open.spotify.com/album/6tGqiQoZvdtVOLrOj7HPDE) | 5:19 | 2022-06-30 | 2022-07-29 |
 | [Quicklime](https://open.spotify.com/track/3BpT0RYpDTBvMLoIXa3udo) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Obstacle](https://open.spotify.com/album/7e94WnlPTcX85liEG8FcYM) | 4:51 | 2021-12-15 | 2022-07-28 |
 | [R.I.P\. In Peace](https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi) | [Jessica93](https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg) | [Guilty Species](https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau) | 4:38 | 2022-06-30 |  |

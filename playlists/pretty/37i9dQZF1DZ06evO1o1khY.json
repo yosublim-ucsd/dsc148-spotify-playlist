@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 13505,
+  "num_followers": 13546,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2I5M2U1NzM2ZGYzNGRmZGI2ZDIzOTI3YjRmYTc4MDk4Njg2MzY0",
+  "snapshot_id": "MCw5YTgyMTY4ZTdlY2U1YzhjZjVkOWRjODA4ZTIzOTlmZjU1NTJmZTBj",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 176551,
       "name": "All Dere (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di"
     },
     {
       "added_at": null,
@@ -287,26 +287,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
-        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
+        "name": "Internet Trolls (feat. Hitkidd)",
+        "url": "https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3"
       },
       "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "Gangsta Boo",
-          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
         }
       ],
-      "duration_ms": 145655,
-      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
-      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+      "duration_ms": 140572,
+      "name": "Internet Trolls (feat. Hitkidd)",
+      "url": "https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "Opp Shit",
+      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
     },
     {
       "added_at": null,
@@ -327,22 +339,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Internet Trolls (feat. Hitkidd)",
-        "url": "https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3"
+        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
       "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
         }
       ],
-      "duration_ms": 140572,
-      "name": "Internet Trolls (feat. Hitkidd)",
-      "url": "https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk"
+      "duration_ms": 145655,
+      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
     },
     {
       "added_at": null,
@@ -376,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 126315,
-      "name": "Opp Shit",
-      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
+      "duration_ms": 179200,
+      "name": "No Bih",
+      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
     },
     {
       "added_at": null,
@@ -450,11 +466,15 @@
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Boston Richey",
+          "url": "https://open.spotify.com/artist/6N6dtckgIXwmGROqfhwkFz"
         }
       ],
-      "duration_ms": 179200,
-      "name": "No Bih",
-      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
+      "duration_ms": 180800,
+      "name": "Bad Bih 4 Ya (feat. Boston Richey)",
+      "url": "https://open.spotify.com/track/6oXwnROJNUkozh28jT9O1V"
     },
     {
       "added_at": null,
@@ -518,11 +538,15 @@
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kevo Muney",
+          "url": "https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY"
         }
       ],
-      "duration_ms": 150588,
-      "name": "Nun Of Dem",
-      "url": "https://open.spotify.com/track/76ENXK6WuaJ07V86r3WY4g"
+      "duration_ms": 241509,
+      "name": "Aite (feat. Kevo Muney)",
+      "url": "https://open.spotify.com/track/6yJbMJVWxeW9oWLM15KLGN"
     },
     {
       "added_at": null,
@@ -594,15 +618,11 @@
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Boston Richey",
-          "url": "https://open.spotify.com/artist/6N6dtckgIXwmGROqfhwkFz"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Bad Bih 4 Ya (feat. Boston Richey)",
-      "url": "https://open.spotify.com/track/6oXwnROJNUkozh28jT9O1V"
+      "duration_ms": 150588,
+      "name": "Nun Of Dem",
+      "url": "https://open.spotify.com/track/76ENXK6WuaJ07V86r3WY4g"
     },
     {
       "added_at": null,
@@ -679,26 +699,6 @@
       "duration_ms": 197011,
       "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
       "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Kevo Muney",
-          "url": "https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY"
-        }
-      ],
-      "duration_ms": 241509,
-      "name": "Aite (feat. Kevo Muney)",
-      "url": "https://open.spotify.com/track/6yJbMJVWxeW9oWLM15KLGN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-177 songs - 9 hr 54 min
+180 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Memoria](https://open.spotify.com/track/1t9TTxVV7JYE3TqOXalOlc) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Ysii](https://open.spotify.com/album/0Zoe3s98XNtiboI1Qhw2Ti) | 4:26 | 2022-09-23 | 2023-07-18 |
 | [Mistwalker](https://open.spotify.com/track/29HBY8bz6ut3ePI9VyEtx5) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Mistwalker](https://open.spotify.com/album/6r0JeC4CfopkU0otpIKqTg) | 4:50 | 2022-09-23 |  |
 | [Momentum](https://open.spotify.com/track/0dwUqHfuKGhtYCChyeLyxX) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Momentum](https://open.spotify.com/album/1QsITkVjzy1Rx4AqYNUAsZ) | 2:42 | 2022-09-23 |  |
+| [Mothra](https://open.spotify.com/track/0JTPCwA4wxOaCu5khqWdk8) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [Mothra](https://open.spotify.com/album/0fth3QNvRomLJDLeFetyy9) | 3:17 | 2024-04-09 |  |
 | [Moves](https://open.spotify.com/track/4fPv168u1RcMv7EvXpjhm2) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:47 | 2022-09-23 |  |
 | [narrow club](https://open.spotify.com/track/6hMCmAzbsXyzcfcR11429z) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [narrow club](https://open.spotify.com/album/6bDsCQR9bY1Q0Jvk06Js1j) | 2:26 | 2022-11-25 |  |
 | [Naymara](https://open.spotify.com/track/30cOun7g2v2GO6fLin6gPy) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Naymara](https://open.spotify.com/album/43ECTj9mRWwpMr5ehDBHzT) | 2:20 | 2022-09-23 |  |
@@ -160,6 +161,7 @@
 | [stories 13](https://open.spotify.com/track/6HNgWzpxQl1qukSKeIuqid) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [stories 13](https://open.spotify.com/album/56rTivunke1UwRpxEe8yMP) | 2:42 | 2023-01-06 | 2023-07-18 |
 | [Strando](https://open.spotify.com/track/5w7VoQPLh12DPLASLcd4ew) | [Pablo Funke](https://open.spotify.com/artist/2XsRJTf7BZQTrb3BumlhHm) | [Strando](https://open.spotify.com/album/00RDUWlShtyBYbZvdpB89W) | 2:57 | 2022-09-23 | 2023-07-18 |
 | [Sunny Sides](https://open.spotify.com/track/6olBk82nCjXjLcXL5bPZBj) | [Mont Áy](https://open.spotify.com/artist/1lEZ94eNcaKh7AHMaBcv0q) | [Sunny Sides](https://open.spotify.com/album/2tWPuGy38UmTsEIZWjyGxw) | 2:48 | 2023-11-17 |  |
+| [Sustain](https://open.spotify.com/track/7HesBPjY6KsxTjJSudt4H4) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa) | [Equilibrium](https://open.spotify.com/album/6G9L7a5ujhXehQRaf3sQh7) | 3:24 | 2024-04-09 |  |
 | [Sweet Harmony \- Erdi Irmak Remix](https://open.spotify.com/track/0ZEGR6XcO7gG8aFhTMPofm) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Beatamines](https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK), [Erdi Irmak](https://open.spotify.com/artist/5KIoXQYGj3bWNxCVkiW7M6) | [Sweet Harmony \(Remixed\)](https://open.spotify.com/album/02MzP5OO5FfTgyH1OlpEnS) | 6:46 | 2023-03-10 | 2023-04-29 |
 | [talking to the stars](https://open.spotify.com/track/7nPMoLmBEkX5RZJFu69yBJ) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [talking to the stars](https://open.spotify.com/album/0QYLpRpeFBLc9ZluwNesya) | 3:10 | 2023-01-06 |  |
 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 | 2022-09-23 | 2023-07-18 |
@@ -177,6 +179,7 @@
 | [We Are the Stars](https://open.spotify.com/track/5nRHKAgw6ZY1NqNA5amA2Y) | [Lady DJ](https://open.spotify.com/artist/3luz91ywJZl3n8zqhqNTLP) | [We Are the Stars](https://open.spotify.com/album/5OGy2WlkfkHf8uSchuFEkl) | 2:19 | 2022-09-23 | 2023-07-18 |
 | [We Shine](https://open.spotify.com/track/22ydaAhu90qn4JHtOxKZXI) | [Moonlight Giorgio](https://open.spotify.com/artist/2Vy6FkZX3t0J94BAojjUmB), [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [We Shine](https://open.spotify.com/album/3WzQWv3d9AdObd7uIHpbxU) | 2:57 | 2024-01-23 |  |
 | [Where Have U Been?](https://open.spotify.com/track/3bCnwmJwBob222khzVUrcN) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Where Have U Been?](https://open.spotify.com/album/3gmS7R3fNWUNN8Ewwy6URY) | 2:16 | 2022-09-23 |  |
+| [Wish You Could Stay](https://open.spotify.com/track/1Oj6RTiv5an9Yprzq7DJnB) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Wish You Could Stay](https://open.spotify.com/album/0A3HZKIyRwPNvGjjMtUbV9) | 3:07 | 2024-04-09 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/3nTWBIjPDUWuuAfIdgQgxi) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Wish You Were Mine](https://open.spotify.com/album/5wbyzmz1QgQ2B9K5NSoaGL) | 3:09 | 2022-09-23 | 2023-07-18 |
 | [Wons](https://open.spotify.com/track/6xcXGCA6Qs9LwxY4r6B0g4) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Reyk](https://open.spotify.com/album/1BkKPSXIsJvSBhqS9FI7qY) | 3:15 | 2023-04-14 |  |
 | [Wrath](https://open.spotify.com/track/0nxEpiRh6ja8YxKTR8kCkO) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Wrath / Envy](https://open.spotify.com/album/1dCtDbppPhPtiIl3ZCkfFu) | 3:21 | 2022-11-25 |  |

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "MTE1LDQwNzQ4YjUyYzBlZGRmM2U2ZDA5NTUwZDViNDE1YzhlNmFkMjU4ZjA=",
+  "snapshot_id": "MTE3LGJmNjA1YzJjNjc0MzhlYTdiOGIzZmIwN2Y0MDBmY2MzNWRiM2VkZjQ=",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -1351,6 +1351,38 @@
       "duration_ms": 159832,
       "name": "1993 (feat. Little Ricky ZR3)",
       "url": "https://open.spotify.com/track/71iA79hOFAMmwGB1w83VH1"
+    },
+    {
+      "added_at": "2024-04-08 07:05:09",
+      "album": {
+        "name": "Incantations",
+        "url": "https://open.spotify.com/album/5CfNebrzhXfZqa5aRQlOPb"
+      },
+      "artists": [
+        {
+          "name": "Nick Lutsko",
+          "url": "https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE"
+        }
+      ],
+      "duration_ms": 146134,
+      "name": "A Ghost Story",
+      "url": "https://open.spotify.com/track/2FoxK1MoP36ZiIfwooZI6j"
+    },
+    {
+      "added_at": "2024-04-08 07:19:42",
+      "album": {
+        "name": "Bread",
+        "url": "https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV"
+      },
+      "artists": [
+        {
+          "name": "Anya Nami",
+          "url": "https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h"
+        }
+      ],
+      "duration_ms": 102461,
+      "name": "Bread",
+      "url": "https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun"
     }
   ],
   "unique_name": "Questionable Bops",

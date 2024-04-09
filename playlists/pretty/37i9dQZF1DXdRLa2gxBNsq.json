@@ -1,29 +1,13 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Lendakaris Muertos.",
-  "num_followers": 103449,
+  "num_followers": 103470,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTUzMWYwMWQ3N2E0ODc5NThkNWI3Yjc2MGZkMDZlMTg0ZTViODg2",
+  "snapshot_id": "MCw4NmQ5ZTc3YWJhOGMwYTExOGU2Y2ZkOTQzZjViMDAxOGZhYTM5NzVj",
   "tracks": [
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Dif\u00edcil Ser Humano",
-        "url": "https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e"
-      },
-      "artists": [
-        {
-          "name": "Envidia Kotxina",
-          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
-        }
-      ],
-      "duration_ms": 183635,
-      "name": "El Pais de Alicia",
-      "url": "https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe"
-    },
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 245853,
       "name": "Sarri, Sarri",
       "url": "https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Dif\u00edcil Ser Humano",
+        "url": "https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e"
+      },
+      "artists": [
+        {
+          "name": "Envidia Kotxina",
+          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
+        }
+      ],
+      "duration_ms": 183635,
+      "name": "El Pais de Alicia",
+      "url": "https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Mierda De Ciudad",
+      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Tiempos Oscuros",
         "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 198135,
       "name": "Tus Bragas",
       "url": "https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Mierda De Ciudad",
-      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd"
+        "name": "Los singles y primeras grabaciones",
+        "url": "https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke"
       },
       "artists": [
         {
-          "name": "Los De Marras",
-          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
+          "name": "Paralisis Permanente",
+          "url": "https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k"
         }
       ],
-      "duration_ms": 233200,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7"
+      "duration_ms": 127600,
+      "name": "Autosuficiencia",
+      "url": "https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Los singles y primeras grabaciones",
-        "url": "https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke"
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd"
       },
       "artists": [
         {
-          "name": "Paralisis Permanente",
-          "url": "https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k"
+          "name": "Los De Marras",
+          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
         }
       ],
-      "duration_ms": 127600,
-      "name": "Autosuficiencia",
-      "url": "https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK"
+      "duration_ms": 233200,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 127480,
+      "name": "Jimmy Jazz",
+      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Ladr\u00f3n de Almas",
         "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 227526,
       "name": "Resistir\u00e9 - En Directo",
       "url": "https://open.spotify.com/track/60qqPA0MLA1KgMCyinwjIW"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 127480,
-      "name": "Jimmy Jazz",
-      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Camela or Die 2.0",
         "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Versos de Rabia",
         "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 217130,
       "name": "Ke Felicidad!",
       "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "S\u00edganle compadres",
+        "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
+      },
+      "artists": [
+        {
+          "name": "Kojon Prieto y los Huajolotes",
+          "url": "https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Txus",
+      "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 220488,
       "name": "Froil\u00e1n de Todos los Antros",
       "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "S\u00edganle compadres",
-        "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
-      },
-      "artists": [
-        {
-          "name": "Kojon Prieto y los Huajolotes",
-          "url": "https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Txus",
-      "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1393,6 +1393,26 @@
       "url": "https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs"
     },
     {
+      "added_at": "2024-04-05 08:27:37",
+      "album": {
+        "name": "Corona de Espinas",
+        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
+      },
+      "artists": [
+        {
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Corona de Espinas",
+      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
+    },
+    {
       "added_at": "2024-04-04 22:00:00",
       "album": {
         "name": "Camino hacia la ruina",
@@ -1427,22 +1447,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "No Olvidamos, 3 de Marzo - Single",
-        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "No Olvidamos, 3 de Marzo",
-      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Noche Molona",
         "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
       },
@@ -1457,24 +1461,20 @@
       "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
     },
     {
-      "added_at": "2024-04-05 08:27:37",
+      "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Corona de Espinas",
-        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
+        "name": "No Olvidamos, 3 de Marzo - Single",
+        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
       "artists": [
         {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 217466,
-      "name": "Corona de Espinas",
-      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
+      "duration_ms": 231593,
+      "name": "No Olvidamos, 3 de Marzo",
+      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
     },
     {
       "added_at": "2024-04-04 22:00:00",

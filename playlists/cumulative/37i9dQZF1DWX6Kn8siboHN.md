@@ -2,7 +2,7 @@
 
 ### [Clásicas Norteñas](https://open.spotify.com/playlist/37i9dQZF1DWX6Kn8siboHN)
 
-> ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Carlos & José en portada.
+> ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
 
 232 songs - 12 hr 9 min
 

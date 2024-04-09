@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-402 songs - 1 day 3 hr 31 min
+403 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,13 +312,14 @@
 | [Silver Ladders](https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5ROFj16TsmnCUd5YtiVDU3) | 3:45 | 2021-10-20 | 2022-07-28 |
 | [Silver Secrets](https://open.spotify.com/track/2OV2BllliHblN27N5I31Hq) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr) | [Field Works: Ultrasonic](https://open.spotify.com/album/5pJLTSGYfTkCnXdcz9Dfyt) | 5:16 | 2021-10-20 | 2022-07-29 |
 | [simbiosis](https://open.spotify.com/track/50oogoHC2e9HDCFxw1oB7G) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/3RK6NpoByT63TvTZO1k9RY) | 3:36 | 2021-10-20 | 2022-07-28 |
-| [Sinú](https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6) | [Nodes](https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv) | [Pantano Lontano](https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE) | 5:41 | 2021-10-20 |  |
+| [Sinú](https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6) | [Nodes](https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv) | [Pantano Lontano](https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE) | 5:41 | 2021-10-20 | 2024-04-09 |
 | [Sistine \(Plucks\)](https://open.spotify.com/track/6HmtbuPgCApFCDKPmciwAq) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:29 | 2021-10-20 | 2022-07-13 |
 | [Sleep Sequence](https://open.spotify.com/track/16b0tdZzwsVf0Q0NgFynUx) | [Fractal Designs](https://open.spotify.com/artist/5eZs1YL93qStrFtYXW0PpX) | [Sleep Sequence](https://open.spotify.com/album/4ZXiKGAXlAYEndTKT4oLt6) | 3:11 | 2021-10-20 | 2022-07-29 |
 | [Social Fabric](https://open.spotify.com/track/6vg29wum2IoJmTUTF7ywKN) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Social Fabric](https://open.spotify.com/album/0fKz6CFMbWwGRTuuSQickU) | 3:02 | 2021-10-20 | 2022-04-27 |
 | [Soft Gaiden](https://open.spotify.com/track/5TSBcSt79jSYwuZmBJDp4X) | [Brin](https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp) | [Soft Gaiden / Featherdrift](https://open.spotify.com/album/4LkiJAIvbejVb6r2r8zdR4) | 5:26 | 2021-10-20 | 2022-07-29 |
 | [Soft Meadow](https://open.spotify.com/track/0OwQcBnZDvSIjk82JH0s4V) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 5:28 | 2021-10-20 | 2022-07-29 |
 | [Soft Meadow](https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 5:28 | 2021-10-20 |  |
+| [sol](https://open.spotify.com/track/1x9zn5iITjMAg6rJF5FdoX) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/1H46AyYosdxrhuROEbTHms) | 1:59 | 2023-01-06 |  |
 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 | 2023-01-06 | 2024-02-23 |
 | [Solar](https://open.spotify.com/track/4Mgq8E9ehbpUFAFxiEcwss) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Solar](https://open.spotify.com/album/0qIMW1UNQKG34F9eXtr2uD) | 4:10 | 2021-10-20 | 2022-07-26 |
 | [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2HCtyKgeht2LC7jXhywJ1s) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/1Zk5AG5bbR2S3nP4YLCo2u) | 2:40 | 2021-10-20 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Crank it up. Cover: Brantley Gilbert",
-  "num_followers": 146982,
+  "num_followers": 146981,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGIwOWY2ZDA5ZDU4NWNkYzA1Y2Y2MzhhNDhiZWUwMTcwZWQxMTM0",
+  "snapshot_id": "MCxkYWQxMTEzZDQ3YjIxZmQ3NThkNzE3M2YwYWI5ODk4MmMwMDliMmFl",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -115,6 +115,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Bottoms Up - Remix",
+      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Denim",
         "url": "https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT"
       },
@@ -135,22 +155,6 @@
       "duration_ms": 225578,
       "name": "Way of Life",
       "url": "https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM"
-      },
-      "artists": [
-        {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
-        }
-      ],
-      "duration_ms": 189258,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -191,6 +195,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "duration_ms": 189258,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Just As I Am (Platinum Edition)",
         "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
@@ -198,15 +218,11 @@
         {
           "name": "Brantley Gilbert",
           "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         }
       ],
-      "duration_ms": 221573,
-      "name": "Bottoms Up - Remix",
-      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
+      "duration_ms": 234880,
+      "name": "Read Me My Rights",
+      "url": "https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -231,22 +247,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 138318,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Country As Shit (feat. Jelly Roll)",
         "url": "https://open.spotify.com/album/07iG9P7XxHxD2SMcSXGL7e"
       },
@@ -267,22 +267,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Body Language (Deluxe)",
-        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Fire up the Night (feat. HARDY)",
-      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
+      "duration_ms": 138318,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -319,6 +315,46 @@
       "duration_ms": 179253,
       "name": "Son Of The Dirty South",
       "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Body Language (Deluxe)",
+        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Fire up the Night (feat. HARDY)",
+      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Target Practice",
+        "url": "https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L"
+      },
+      "artists": [
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+        },
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        }
+      ],
+      "duration_ms": 152939,
+      "name": "Hold Our Own",
+      "url": "https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -371,26 +407,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Target Practice",
-        "url": "https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L"
-      },
-      "artists": [
-        {
-          "name": "Demun Jones",
-          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
-        },
-        {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        }
-      ],
-      "duration_ms": 152939,
-      "name": "Hold Our Own",
-      "url": "https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Sweet Southern Sugar",
         "url": "https://open.spotify.com/album/4J4DGZzDABGKm0cQfXxWV3"
       },
@@ -431,6 +447,38 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Diesel Gang",
+        "url": "https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "duration_ms": 138048,
+      "name": "Diesel Gang",
+      "url": "https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Down by the Riverside",
         "url": "https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC"
       },
@@ -443,6 +491,22 @@
       "duration_ms": 179741,
       "name": "Down by the Riverside",
       "url": "https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Dirt Road",
+        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 165041,
+      "name": "Dirt Road",
+      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -467,38 +531,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Diesel Gang",
-        "url": "https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb"
-      },
-      "artists": [
-        {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
-        }
-      ],
-      "duration_ms": 138048,
-      "name": "Diesel Gang",
-      "url": "https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Dirt Road",
-        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 165041,
-      "name": "Dirt Road",
-      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "John Wayne",
         "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
       },
@@ -511,22 +543,6 @@
       "duration_ms": 158685,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "Read Me My Rights",
-      "url": "https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -551,6 +567,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Thanks for Listening",
+        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Crank It Up",
+      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Down the Road (feat. Colt Ford) [Remix]",
         "url": "https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb"
       },
@@ -571,18 +603,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Thanks for Listening",
-        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg"
       },
       "artists": [
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+          "name": "Shelbykay",
+          "url": "https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD"
         }
       ],
-      "duration_ms": 200441,
-      "name": "Crank It Up",
-      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
+      "duration_ms": 123762,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -611,22 +643,6 @@
       "duration_ms": 262760,
       "name": "We All Country (feat. Colt Ford, Sarah Ross & Charlie Farley)",
       "url": "https://open.spotify.com/track/2SGjJdLuSIvyVB5eXAJXm7"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg"
-      },
-      "artists": [
-        {
-          "name": "Shelbykay",
-          "url": "https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD"
-        }
-      ],
-      "duration_ms": 123762,
-      "name": "Confetti",
-      "url": "https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 282000,
       "name": "Backroads Life (feat. The Lacs)",
       "url": "https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -823,22 +823,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "We The People, Vol. 1",
-        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
+        "name": "Outlaw In Me",
+        "url": "https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr"
       },
       "artists": [
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
         }
       ],
-      "duration_ms": 191669,
-      "name": "Back to Them Backroads",
-      "url": "https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo"
+      "duration_ms": 279880,
+      "name": "Out Here",
+      "url": "https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -859,18 +855,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Kuntry Livin'",
-        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
+        "name": "We The People, Vol. 1",
+        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
       },
       "artists": [
         {
-          "name": "SMO",
-          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Bumpy Road",
-      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
+      "duration_ms": 191669,
+      "name": "Back to Them Backroads",
+      "url": "https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Outlaw In Me",
-        "url": "https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr"
+        "name": "Kuntry Livin'",
+        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
       },
       "artists": [
         {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+          "name": "SMO",
+          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
         }
       ],
-      "duration_ms": 279880,
-      "name": "Out Here",
-      "url": "https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV"
+      "duration_ms": 170400,
+      "name": "Bumpy Road",
+      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "COUNTRY FUZZ",
-        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 164334,
-      "name": "Slow Rollin'",
-      "url": "https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "American Rebelution",
         "url": "https://open.spotify.com/album/0cganQdW9Mj2mJEmNG4949"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 232941,
       "name": "Jack in My Coke",
       "url": "https://open.spotify.com/track/1w1BSlPEuUFhsYLizhVE0I"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "COUNTRY FUZZ",
+        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "duration_ms": 164334,
+      "name": "Slow Rollin'",
+      "url": "https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Mud Digger 5",
+        "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
+      },
+      "artists": [
+        {
+          "name": "Gunnar & The Grizzly Boys",
+          "url": "https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "Standard American",
+      "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Roll With Me (feat. Chris Hurt)",
         "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 235416,
       "name": "Roll With Me (feat. Chris Hurt)",
       "url": "https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Mud Digger 5",
-        "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
-      },
-      "artists": [
-        {
-          "name": "Gunnar & The Grizzly Boys",
-          "url": "https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "Standard American",
-      "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
     },
     {
       "added_at": "2024-03-08 05:00:00",

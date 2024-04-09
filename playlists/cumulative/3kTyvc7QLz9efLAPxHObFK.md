@@ -4,7 +4,7 @@
 
 > 
 
-1,235 songs - 2 day 20 hr 38 min
+1,239 songs - 2 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Addicted](https://open.spotify.com/track/5iLyI8LnSGP7y48JKGfCoh) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Addicted](https://open.spotify.com/album/2EqVo5W8w8jHlXE3eIDIqe) | 2:55 | 2023-11-10 |  |
 | [Addicts 2.0](https://open.spotify.com/track/7zgQDPZJXI9azbU9RQ8QND) | [Hatred](https://open.spotify.com/artist/3TvVKqrkgwoHXuj8r71GEJ) | [Addicts 2.0](https://open.spotify.com/album/4YMnbNMEywlMuolTWO1khw) | 2:37 | 2022-11-21 |  |
 | [Adrenaline Overload](https://open.spotify.com/track/1iD09eMQvJIxlT3ZaomPpx) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Adrenaline Overload](https://open.spotify.com/album/4Mfm6EyEDSRwVy2gFd5jr2) | 3:17 | 2023-11-20 |  |
+| [After You](https://open.spotify.com/track/1joE0VMxQgzefYW5gilve9) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [After You](https://open.spotify.com/album/7M0CG5GNZbxnFd3B1CQUEK) | 2:35 | 2024-04-09 |  |
 | [Afterglow](https://open.spotify.com/track/7xMf0f8upHaz4sct07wOlq) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Afterglow](https://open.spotify.com/album/3cmlOsjIMPoUVvWHQ1WPwX) | 2:45 | 2023-03-21 |  |
 | [Again & Again](https://open.spotify.com/track/2Mw7HBFneGUw7Dw15pQcbN) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Again & Again](https://open.spotify.com/album/6MaTZ3YmrtGa4Ajb5wmBKy) | 4:00 | 2022-02-17 |  |
 | [Against Me \- Radio Mix](https://open.spotify.com/track/4uI0hpZb06AVf7pmWUABCh) | [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Against Me](https://open.spotify.com/album/6vlrsGrlWmavbmdVmwtBS5) | 3:27 | 2022-10-30 |  |
@@ -166,6 +167,7 @@
 | [Bring The Beast Out](https://open.spotify.com/track/4MhXgbalpfhPQnadZcC5GR) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Lock And Load](https://open.spotify.com/album/4DYk7asrtEb9W0CAQl1jDA) | 3:15 | 2022-12-20 |  |
 | [Bring The Force \(Official Harder Force 2023 Anthem\)](https://open.spotify.com/track/2Thpwv5T4uiLUlETERH0bC) | [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [Bring The Force \(Official Harder Force 2023 Anthem\)](https://open.spotify.com/album/18yV2x39xAM49YovqXFHQH) | 3:40 | 2023-05-20 |  |
 | [Bring ’Em \(Deadlock Remix\)](https://open.spotify.com/track/0d02T4RUKKLrXNLo0pykwT) | [General Guyble](https://open.spotify.com/artist/243QvtpTK9oRiWUNDZWmBz), [Deadlock](https://open.spotify.com/artist/7hx1Yw0FIMONCsRbueIZrP) | [Bring ’Em](https://open.spotify.com/album/2G8OsoxMZsQV0J3VS4py51) | 4:40 | 2022-04-19 |  |
+| [BRINGING THE THUNDER](https://open.spotify.com/track/7d3jBTp8rtAzLXdLDUYefS) | [Hatred](https://open.spotify.com/artist/3TvVKqrkgwoHXuj8r71GEJ), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd) | [BRINGING THE THUNDER](https://open.spotify.com/album/1yHbjNUnfrA5Wp6k4VXxrC) | 3:40 | 2024-04-09 |  |
 | [Broken Dreams](https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx) | [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Broken Dreams](https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX) | 3:42 | 2023-12-02 |  |
 | [Broken Inside](https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Broken Inside](https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8) | 3:25 | 2023-08-21 |  |
 | [Brotherhood](https://open.spotify.com/track/2o6h76CvALJM7Ds7LNabHx) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [Griever](https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a) | [Brotherhood](https://open.spotify.com/album/5RvzoHLyAKZS3mEzTAijF4) | 3:18 | 2022-11-07 |  |
@@ -327,6 +329,7 @@
 | [Energy](https://open.spotify.com/track/4oPzvOsR5VSGRAZdW9oQEF) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Energy](https://open.spotify.com/album/4xh5GYqAej9dBc8VoZ3hXc) | 2:48 | 2023-04-16 |  |
 | [Enhancer \(Lights in the air\)](https://open.spotify.com/track/6lMLJiwpR9aTzOIn1HSYC5) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Enhancer \(Lights in the air\)](https://open.spotify.com/album/2pF214lmSPZRzxIwqJY3k6) | 3:58 | 2022-08-14 |  |
 | [Escape From Reality](https://open.spotify.com/track/4YI8DJwDRMiAySMwruqUXQ) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [Escape From Reality](https://open.spotify.com/album/2pZ09I2wmBb3Fg4LlxR1VW) | 3:47 | 2023-11-26 |  |
+| [Escape Reality](https://open.spotify.com/track/0atbwhxBGooLIHZ1rYxpAH) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Escape Reality](https://open.spotify.com/album/5zE1SU6TWe4qvewAI7uxfF) | 2:30 | 2024-04-09 |  |
 | [ETERNITY](https://open.spotify.com/track/0BoBmAYPTM8jbQ8OkERuHU) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [ETERNITY](https://open.spotify.com/album/7jvsHlV2dNJ5d8U1IeMehT) | 3:35 | 2023-03-21 |  |
 | [Ett Glas Till](https://open.spotify.com/track/2NHCEvEBgLaqvJZPIMLzVd) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [Ett Glas Till](https://open.spotify.com/album/2p6cKEGO4bvXQValiwG340) | 2:32 | 2023-05-01 |  |
 | [Euphoria](https://open.spotify.com/track/1MZQzrlsp8Lg4Zo8fBdJJ9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [Euphoria](https://open.spotify.com/album/49tzGjcmL5kKOTJWloKggq) | 4:00 | 2022-09-21 |  |
@@ -1104,6 +1107,7 @@
 | [Tokyo Midnight](https://open.spotify.com/track/3MW6Xx6gp17o4WSuxLj3PN) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k), [Mami](https://open.spotify.com/artist/4H4hbdqo6CUw5q77Wv6U0O) | [Tokyo Midnight](https://open.spotify.com/album/5K16ZQvBXmuIT23ZSnnYwO) | 2:56 | 2023-11-26 |  |
 | [Tomorrow Night \- Long ver](https://open.spotify.com/track/0k1dXe3Fq6JUlWdonHcRy8) | [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK) | [CROWN](https://open.spotify.com/album/48h2hNZyq3hyH6cZh0oVoI) | 3:33 | 2023-05-13 |  |
 | [Too Late To Turn Back](https://open.spotify.com/track/3cBtpm3w3PzqCqXxVdEHil) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Too Late To Turn Back](https://open.spotify.com/album/6AgMcA2jZ1Z8wF1sThXPQd) | 3:11 | 2022-09-21 |  |
+| [Tools In The Kitchen](https://open.spotify.com/track/1ScB34T3J0MJyl8SU1QYb5) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Tools In The Kitchen](https://open.spotify.com/album/7dgUHrkhklP8bh5ktKlrHd) | 3:22 | 2024-04-09 |  |
 | [Total Domination](https://open.spotify.com/track/4ckBjnIsjDdSLBnnqQIsPn) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs) | [Made In Hell](https://open.spotify.com/album/7cmla7qWx1qigCuG8tBtu2) | 3:17 | 2022-12-11 |  |
 | [Tourbillon](https://open.spotify.com/track/2CDODTYt1NgIzyNLFsyMoK) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i), [中村さんそ](https://open.spotify.com/artist/30R9MQOeKqrMoafeHmTYuY) | [Azure World](https://open.spotify.com/album/1kwWNAqOWEUsqsEAA1A2gk) | 4:03 | 2022-02-22 |  |
 | [Toymatic Parade!! \- ULTIMATE HAPPY EXTENDED MIX](https://open.spotify.com/track/6VzXH0OLEOGmdXCr5q9pl4) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [ULTIMATE HAPPY CARNIVAL](https://open.spotify.com/album/1K5SbC5wm0foPdbjbKUnOn) | 2:57 | 2022-08-10 |  |

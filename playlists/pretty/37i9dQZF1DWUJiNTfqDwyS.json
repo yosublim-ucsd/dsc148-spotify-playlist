@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 367847,
+  "num_followers": 367962,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2VhYzVmNTJlMTFlNzUwNWY2YjI2MWYwYmEzM2FlYTA5MDYxZTNl",
+  "snapshot_id": "MCw2ODEwNmFmNmFiNWMwNTJiMzQ1MWEwY2RjNGU4M2Q1ZTg0MDlmMzA1",
   "tracks": [
     {
       "added_at": "2024-04-01 20:18:26",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-04-01 20:18:26",
       "album": {
+        "name": "Astronaut In The Ocean",
+        "url": "https://open.spotify.com/album/3OilDLxf5rFVhaQmez7ent"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/2qjH6wZfR0g11ZiT7KqyRO"
+    },
+    {
+      "added_at": "2024-04-01 20:18:26",
+      "album": {
         "name": "Garage, Inc.",
         "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 244040,
       "name": "They Don't Care About Us",
       "url": "https://open.spotify.com/track/2yhpa4tgc5SeM6ErBm26fK"
-    },
-    {
-      "added_at": "2024-04-01 20:18:26",
-      "album": {
-        "name": "Astronaut In The Ocean",
-        "url": "https://open.spotify.com/album/3OilDLxf5rFVhaQmez7ent"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/2qjH6wZfR0g11ZiT7KqyRO"
     },
     {
       "added_at": "2024-04-01 20:18:26",

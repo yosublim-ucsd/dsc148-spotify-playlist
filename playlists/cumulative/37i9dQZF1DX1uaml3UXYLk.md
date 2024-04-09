@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-591 songs - 1 day 12 hr 40 min
+595 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Breaking Rain](https://open.spotify.com/track/7Bc41CIi3uH6jWl9gHa8V8) | [MUUI](https://open.spotify.com/artist/4uprJRAH1f3978H1YMzqWY) | [Your Revised Reality](https://open.spotify.com/album/3G3Fm89vWaT80itL9DSaoe) | 6:57 | 2020-12-24 | 2021-01-15 |
 | [Breakthru \- Arutani’s Off The Grid Remix](https://open.spotify.com/track/3GCXvuIWKJiikhlAsLhaAY) | [Nährwerk](https://open.spotify.com/artist/6WXcBFp0NF1ZWbCujQ64UZ), [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [Breakthru \(Arutani's Off The Grid Remix\)](https://open.spotify.com/album/7jvt2rVHLegeqPQ5eE6JEQ) | 7:33 | 2020-11-28 | 2021-03-25 |
 | [Breather](https://open.spotify.com/track/3EX7o6cJG9jGUJBSOLLKdP) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Pending](https://open.spotify.com/album/2SZomWDmOD84JYTbqJo6PG) | 3:26 | 2020-10-20\* | 2021-06-23 |
+| [Breeze](https://open.spotify.com/track/7lIqdxaQprUnIjgkZsppyP) | [Lauren Que](https://open.spotify.com/artist/7DQiNBj7qfmV8s5Z0HmOLW) | [Breeze](https://open.spotify.com/album/5zv8gtm5j7nezGo3FdAEh8) | 2:34 | 2024-04-09 |  |
 | [Breezin](https://open.spotify.com/track/3wUHfX5JyU1ipP9BOXBLB5) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [Breezin](https://open.spotify.com/album/1OiSBgpilimYhIUmfuOpuZ) | 3:08 | 2020-10-20\* | 2021-08-25 |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2021-08-25 | 2022-02-11 |
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2020-10-20\* | 2021-07-09 |
@@ -129,6 +130,7 @@
 | [Cul de Sac](https://open.spotify.com/track/4AMrfTJror50C9Tx3zX5Z2) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Cul de Sac](https://open.spotify.com/album/0KcH619DqxpelLGbWgRA0J) | 3:35 | 2020-10-20\* | 2021-06-23 |
 | [D N A](https://open.spotify.com/track/69f6p04wKzUe5WQVsfne99) | [Roberto Mazza](https://open.spotify.com/artist/60GAAkvbZRSHCWI2uHwJdG) | [D N A](https://open.spotify.com/album/2438Jv1Uxvjqkfrdj6179k) | 4:54 | 2023-11-24 |  |
 | [Daiane's Samba](https://open.spotify.com/track/5SQTB8jJNdMHKQslwg1GX2) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Daiane's Samba](https://open.spotify.com/album/5BnKfRcJNRnbWvYTiTy3vU) | 2:43 | 2021-01-29 |  |
+| [Dance In The Air](https://open.spotify.com/track/3Ow81q74hjgsWPWJFO2C6u) | [Helio Lush](https://open.spotify.com/artist/4gtfDaFcQA61xtmw5GenXa) | [Dance In The Air](https://open.spotify.com/album/0y2IvJ4f0Z1wH0VWimgjyg) | 4:16 | 2024-04-09 |  |
 | [Dancing On The Ceiling](https://open.spotify.com/track/4i9EX3daDLV0qiWOROKCUJ) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Dancing On The Ceiling](https://open.spotify.com/album/1t1lPrpOtT685DdfsWwIuz) | 3:51 | 2023-01-13 | 2023-12-02 |
 | [Dancing with Taylor](https://open.spotify.com/track/36PqpImKv4HV6ueNoR0o9s) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Dancing with Taylor](https://open.spotify.com/album/4bLhdFsywgLO3Hup4H4Qan) | 3:01 | 2023-10-12 |  |
 | [Dawncaller](https://open.spotify.com/track/68RwfkkJ1VFOr5g3Apeif7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Raincaller](https://open.spotify.com/album/0ZHvIq9zoftFWPbBeRpgVc) | 4:04 | 2020-10-20\* | 2021-05-13 |
@@ -434,6 +436,7 @@
 | [Round and Round](https://open.spotify.com/track/7EHLrtHzrjLyEYbXj3FKoR) | [Mosho](https://open.spotify.com/artist/6Dn9b7oA0Vj4Df5qiCCmOk) | [Round and Round](https://open.spotify.com/album/72TbtayF4KCChsoPDFEXFJ) | 2:26 | 2023-12-01 |  |
 | [Rung](https://open.spotify.com/track/22x9QfhMz3VHpupWk0F1Tt) | [Owen Ni](https://open.spotify.com/artist/2MmrSvDip3ZAMG8GYwRyYk), [rhythmrobot](https://open.spotify.com/artist/2SoUEIeMw1icFbdv4b1a81) | [Crate Diggin' / Rung](https://open.spotify.com/album/4SIVh8m5VFVdM28mOHGxRa) | 5:31 | 2021-03-25 | 2021-06-23 |
 | [Safari](https://open.spotify.com/track/2sVWZpx2SYdy5zsCbNt93g) | [David Bume](https://open.spotify.com/artist/1eqMf09fOHETYtHLfTITCv) | [Safari](https://open.spotify.com/album/6wL1ZfIwEDzrsQGpP5ixXf) | 3:16 | 2020-11-13 | 2021-05-13 |
+| [Sail](https://open.spotify.com/track/7A6EOHKcpfACJ9KpCKIiRy) | [Steve Cee](https://open.spotify.com/artist/49b6O9wEJfqyRU0Xpxbx7T) | [Sail](https://open.spotify.com/album/53XN8LfDbgRDNb14Lqskbc) | 2:42 | 2024-04-09 |  |
 | [Saint Tropez](https://open.spotify.com/track/4JO8HC0O0wJAjjiC01OISb) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Saint Tropez](https://open.spotify.com/album/3zvW548gu7s9f5k2fndTej) | 2:35 | 2021-05-13 |  |
 | [Saints](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Saints](https://open.spotify.com/album/2cUal4h6gvOSWY3tCc6eOK) | 2:49 | 2022-05-10 |  |
 | [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2021-07-09 | 2022-08-05 |
@@ -476,6 +479,7 @@
 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 | 2021-03-25 | 2022-09-23 |
 | [Sobel Caviar](https://open.spotify.com/track/3rcwaxTUm3FoGPlRUqdC6A) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Sobel Caviar](https://open.spotify.com/album/3bnG37s0WUPx7WZC5rq8Va) | 2:42 | 2023-11-17 |  |
 | [Socorro & Jüpiter](https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Socorro & Jüpiter](https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84) | 6:55 | 2020-11-13 | 2020-12-24 |
+| [Sol](https://open.spotify.com/track/3mzCjP52U7GDJBwoh93YFz) | [Miss Mygo](https://open.spotify.com/artist/0ivFy3lqYjPkp0RSESptIY) | [Sol](https://open.spotify.com/album/50alOuSIsRGjp8bgD5oy3R) | 2:42 | 2024-04-09 |  |
 | [Solar Smile](https://open.spotify.com/track/2mzIEhqRq7O2sfVtUPFux7) | [Lemon Pi](https://open.spotify.com/artist/4iXm09MxBWzOQBhZVUGw12) | [Solar Smile](https://open.spotify.com/album/6wk7DhHGCje3P6dfWV4aqE) | 2:31 | 2021-02-12 | 2021-03-25 |
 | [solastic breeze](https://open.spotify.com/track/5gZMmubNmIuHCT3dcFv5nW) | [aiXer](https://open.spotify.com/artist/38cxiZaVtAaOFokZfEN9Df) | [solastic breeze](https://open.spotify.com/album/0usNXiN5J6gdT3LUcxl8Ic) | 2:24 | 2024-02-27 |  |
 | [Solitude](https://open.spotify.com/track/1YTf5EFF82UYyTa1KIlWoZ) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [Solitude](https://open.spotify.com/album/1XIkAi3l0twutovCyEpBbU) | 1:47 | 2020-10-20\* | 2021-04-15 |

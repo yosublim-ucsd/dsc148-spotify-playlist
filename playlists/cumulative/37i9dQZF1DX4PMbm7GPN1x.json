@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Haathkadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NksIAIqCEU70UdcMrptWw"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413200,
+      "name": "Disco Station - From \"Haathkadi\"",
+      "url": "https://open.spotify.com/track/6GkxJTJfbV459gNFFXiDQc"
+    },
+    {
+      "album": {
         "name": "Haathkadi",
         "url": "https://open.spotify.com/album/6uCths8m5Ae3gQJuFIaToq"
       },

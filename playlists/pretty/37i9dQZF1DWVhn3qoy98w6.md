@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Bautista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,146 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,152 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [Moleskines](https://open.spotify.com/track/1zlQUYSyD47ZVKWIqjbtjO) | [Mastrolilli](https://open.spotify.com/artist/73TfmuRhZsMwVSwn2II6SW) | [Moleskines](https://open.spotify.com/album/7xNWaa3naYNHTG3sQpiqj3) | 2:02 |
 | 60 | [Promesa Bordada en el Sol](https://open.spotify.com/track/3nSE42PE4gMEFvywib3zhN) | [Sacoga](https://open.spotify.com/artist/2apBghN8YxnOPWkp1pFetI) | [Promesa Bordada en el Sol](https://open.spotify.com/album/0zc3Wkygay2ZocApvVVWBh) | 8:30 |
 
-Snapshot ID: `MCw1ODE3MzUwYThlNTRjYzIxYWI0NTNkYjg4YTZhM2FmMjE3NGYwOWIx`
+Snapshot ID: `MCxjNmJlMGIyNWNhM2VlZGFiMDE0NzFiZWM5MTZiN2RjYWE4ZDZmMWY0`

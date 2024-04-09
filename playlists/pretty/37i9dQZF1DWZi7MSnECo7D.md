@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Bruno Berle
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,911 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,928 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 59 | [Terra do Nunca Mais](https://open.spotify.com/track/7Kt4Z5D10KiBFzBu1PPeAM) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Terra do Nunca Mais](https://open.spotify.com/album/4IVbk8x030ph7yTku23iEP) | 3:30 |
 | 60 | [Horas Iguais](https://open.spotify.com/track/3Ya1g8ylZheWcFhyF5RzKM) | [Lúcio Maia](https://open.spotify.com/artist/0uu17DoK7kT8DWzO9CLA5O) | [Horas Iguais](https://open.spotify.com/album/3XATFGhrDvTibddYrjAXpJ) | 3:14 |
 
-Snapshot ID: `MCw5MDEyMDdkODA3ZWM1ZTgwZDlmN2JhMDc3YzlhZTNhMDA5NWIzMTAy`
+Snapshot ID: `MCxkZjQyYzkxOWFmOWI0Yjc4ZGE0YzMyZmVmZTFjMTE1ZTAxOWFmNTRm`

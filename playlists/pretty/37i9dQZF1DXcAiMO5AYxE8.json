@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 502312,
+  "num_followers": 502409,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDc5NjVhYzBjN2ZhYzMxYjcyYmY0YzQ2OTY0ZjQzMTdlNzE0YTVm",
+  "snapshot_id": "MCwxYmIzNTdiOTk5YjI4NDNkNTcwYjYzZDMyMDI5ZjMyNjM2OTg0NWU0",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -291,22 +291,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Best Of The Emotions: Best Of My Love",
-        "url": "https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 339320,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Best Of The Emotions: Best Of My Love",
+        "url": "https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "4 Hits: Eruption",
-        "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
-      },
-      "artists": [
-        {
-          "name": "Eruption",
-          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "I Can't Stand the Rain",
-      "url": "https://open.spotify.com/track/2SWmfd8iv4CiBOztWJebux"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "The Glow of Love (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 373240,
       "name": "The Glow of Love",
       "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "4 Hits: Eruption",
+        "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
+      },
+      "artists": [
+        {
+          "name": "Eruption",
+          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "I Can't Stand the Rain",
+      "url": "https://open.spotify.com/track/2SWmfd8iv4CiBOztWJebux"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -699,6 +699,26 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
+      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Dream On (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 180280,
       "name": "More, More, More - Single Version",
       "url": "https://open.spotify.com/track/3AE5u8SGUVStmdjXzHWflz"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
-      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
     },
     {
       "added_at": "2021-07-04 17:34:32",

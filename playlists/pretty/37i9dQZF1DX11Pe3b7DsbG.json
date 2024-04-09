@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232625,
+  "num_followers": 232630,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDFlYjA3ZTdkZjhhZjdlYjZiOGNhMzNiZmVjMzZlNWVlMGNmY2E2",
+  "snapshot_id": "MCxlZThhZTYwMzMwMzM0ZjgyOTMxOWZkNGFlNDVhY2E2ZmNhZmRkMTBj",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Ao Vivo Com Os Amigos",
-        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
-      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -655,6 +635,26 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Ao Vivo Com Os Amigos",
+        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
+      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Meus Momentos",
         "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 179120,
       "name": "O Mar Serenou",
       "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Sentimento Brasileiro",
+        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 171293,
+      "name": "Quando o povo entra na dan\u00e7a",
+      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -699,22 +715,6 @@
       "duration_ms": 246733,
       "name": "Nas Asas da Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Sentimento Brasileiro",
-        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "Quando o povo entra na dan\u00e7a",
-      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "A Voz Do Samba (Disco 03)",
+        "url": "https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR"
+      },
+      "artists": [
+        {
+          "name": "Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Exalta\u00e7\u00e3o \u00e0 mangueira",
+      "url": "https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Tudo Azul",
         "url": "https://open.spotify.com/album/6POI5YwQbVMnplbryMA4VT"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 263373,
       "name": "Volta, Meu Amor",
       "url": "https://open.spotify.com/track/1izDPzew6TdIcAJVN4XIyj"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "A Voz Do Samba (Disco 03)",
-        "url": "https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR"
-      },
-      "artists": [
-        {
-          "name": "Jamel\u00e3o",
-          "url": "https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Exalta\u00e7\u00e3o \u00e0 mangueira",
-      "url": "https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "O Samba Em Mim (Ao Vivo Na Lapa)",
-        "url": "https://open.spotify.com/album/2wv5WDVgqmtwqCcVok5eyr"
-      },
-      "artists": [
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 226694,
-      "name": "\u00c9 Corpo, \u00c9 Alma, \u00c9 Religi\u00e3o - Ao Vivo Na Lapa",
-      "url": "https://open.spotify.com/track/1Titm76tFsIqqjjITUYRfx"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Zeca Pagodinho",
         "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 203000,
       "name": "Spc",
       "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "O Samba Em Mim (Ao Vivo Na Lapa)",
+        "url": "https://open.spotify.com/album/2wv5WDVgqmtwqCcVok5eyr"
+      },
+      "artists": [
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 226694,
+      "name": "\u00c9 Corpo, \u00c9 Alma, \u00c9 Religi\u00e3o - Ao Vivo Na Lapa",
+      "url": "https://open.spotify.com/track/1Titm76tFsIqqjjITUYRfx"
     },
     {
       "added_at": "2023-08-04 03:01:00",

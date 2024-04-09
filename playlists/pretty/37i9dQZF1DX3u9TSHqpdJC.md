@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Micah McLaurin\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,750 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,778 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [wreck](https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8) | [wreck](https://open.spotify.com/album/2RS3dR9XAsMRbglQ6azUT9) | 3:14 |
 | 100 | [Sinister](https://open.spotify.com/track/5g3VLhRVLUpWJghanBJkMm) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Sinister](https://open.spotify.com/album/2kOKgoaflXbstlzKnc9V7T) | 2:57 |
 
-Snapshot ID: `MCwzOGRmNGUxOTg2ZGM5ZGFiMmExMDRmMjM3M2QzYjAwMDRjNDJjMDYw`
+Snapshot ID: `MCxmY2E2ZjMwOTE3ODk1ZTc0M2UxNzYxY2M0NTVmOTJhZGFlZTlkNWRl`

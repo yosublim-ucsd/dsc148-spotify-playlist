@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Duelo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,817 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,841 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 74 | [Ojitos Lindos](https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:36 |
 | 75 | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/track/4JX70TTm4ZWDaCvS0jQcYC) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/album/7nwBAclWEuLBH335I138sP) | 3:32 |
 
-Snapshot ID: `MCxjNzJjYzUzNjczNDVkZjZiNTUxMmE1OTA0YzkyNmQ3ZGFkM2NlYTRl`
+Snapshot ID: `MCwyZDQxZDY1YTFjMTdlODUwOGIwNzJkOWNmMjZhNjcxZTY2MjMxMzI5`

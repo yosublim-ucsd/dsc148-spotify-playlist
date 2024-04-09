@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,918 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,956 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
 | 50 | [Chhora Haryane Ala](https://open.spotify.com/track/04IAIuNeXUGZCJlogBfQqP) | [Diler Kharkiya](https://open.spotify.com/artist/5d6sKB0JbbWKiWoPDTLPj0) | [Chhora Haryane Ala](https://open.spotify.com/album/51Ucmq3UdA5pvIJGy0TvUC) | 2:31 |
 
-Snapshot ID: `MCxhMTE3ZmZjZTdkMTJjYWZiODViNDU2YTU5MTg2ODdiMWU0OGM3NjE3`
+Snapshot ID: `MCw3MGZiYjMyYTlhYWQxZjk3MGViZDU4MDk5NzMxZjFjOGM5NmZlNjg1`

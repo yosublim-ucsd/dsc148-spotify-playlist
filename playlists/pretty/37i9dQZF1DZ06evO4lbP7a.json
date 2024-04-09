@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 46978,
+  "num_followers": 46986,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWEzYmU1MDE0NTU0ZDRjNjVjNGU2M2Y0NDk5ODA3MTNkMDg2Mjg3",
+  "snapshot_id": "MCw2OTc3NWRjZDJiNGYzOTBiYTYwOWVhODliMGZkODM2MzE3MzJhMmQ2",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/2XskQcykcw8kEH6xkDjUkO"
+        "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
+        "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
       },
       "artists": [
         {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         },
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 161470,
-      "name": "D(evil) feat. yama",
-      "url": "https://open.spotify.com/track/64taNX9xrRu6cYf0a0v72w"
+      "duration_ms": 272319,
+      "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
+      "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
     },
     {
       "added_at": null,
@@ -287,22 +283,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
-        "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
+        "name": "25",
+        "url": "https://open.spotify.com/album/2XskQcykcw8kEH6xkDjUkO"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
         },
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 272319,
-      "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
-      "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
+      "duration_ms": 161470,
+      "name": "D(evil) feat. yama",
+      "url": "https://open.spotify.com/track/64taNX9xrRu6cYf0a0v72w"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "awake\uff06build",
+        "url": "https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "\u30a4\u30ce\u30bb\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/76gLNwSDLHSq0KdpOC86SS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u9ebb\u75fa",
         "url": "https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "awake\uff06build",
-        "url": "https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "\u30a4\u30ce\u30bb\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/76gLNwSDLHSq0KdpOC86SS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the meaning of life",
         "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 240133,
       "name": "\u5929\u8272",
       "url": "https://open.spotify.com/track/2ug8mDoQnwu4EaU7wVSd6W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "awake\uff06build",
+        "url": "https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "\u72ec\u767d",
+      "url": "https://open.spotify.com/track/07AGBVcxuI8hSTvBEtvWou"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 256333,
       "name": "\u30b9\u30e2\u30fc\u30ad\u30fc\u30d2\u30ed\u30a4\u30f3",
       "url": "https://open.spotify.com/track/7pSYlsa0hdDwDoB8thZj8q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "awake\uff06build",
-        "url": "https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "\u72ec\u767d",
-      "url": "https://open.spotify.com/track/07AGBVcxuI8hSTvBEtvWou"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "acoustic live tour 2023 \u300c\u591c\u3068\u9583\u304d\u300d\uff082023.5.12 \uff20GORILLA HALL OSAKA\uff09",
-        "url": "https://open.spotify.com/album/1DESIUqjMts9kv44GjDUH3"
+        "name": "awake\uff06build",
+        "url": "https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 235816,
-      "name": "\u65b0\u661f -acoustic live tour 2023 \u300c\u591c\u3068\u9583\u304d\u300d-",
-      "url": "https://open.spotify.com/track/6yQNFgWLYrFrcel0V7FDTo"
+      "duration_ms": 313893,
+      "name": "\u967d\u3060\u307e\u308a",
+      "url": "https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh"
     }
   ],
   "unique_name": "This Is yama",

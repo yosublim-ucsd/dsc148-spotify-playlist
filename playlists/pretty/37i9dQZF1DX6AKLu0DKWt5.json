@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmRmYzMyOTY2NDQwNGRkNWQzOWFjODJlYmIzNGE2Y2Q2M2JjZDE3",
+  "snapshot_id": "MCwxYjBkNmZiOWQ5YjhiMjJlNWYwZjQ3OTJhM2Q5MGU1M2I2ODI0NDYw",
   "tracks": [
     {
       "added_at": "2023-12-19 16:37:32",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
+        "name": "John Wick: Chapter 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PQjHSR0NRLwAZMXOJIqcN"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 185657,
+      "name": "Eye For an Eye",
+      "url": "https://open.spotify.com/track/63OiFJTU3Xv1CCCLFJQ6Fl"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
         "name": "Fargo Year 5 (Soundtrack from the MGM/ FXP Series)",
         "url": "https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 282640,
       "name": "Toxic (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
-        "name": "John Wick: Chapter 4 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2PQjHSR0NRLwAZMXOJIqcN"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 185657,
-      "name": "Eye For an Eye",
-      "url": "https://open.spotify.com/track/63OiFJTU3Xv1CCCLFJQ6Fl"
     },
     {
       "added_at": "2023-12-19 16:37:32",

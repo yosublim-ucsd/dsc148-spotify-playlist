@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-305 songs - 17 hr 19 min
+306 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Meherbaan](https://open.spotify.com/track/0wJ9ScQ2fMJspiwOU1oO12) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Amjad Bagadwa](https://open.spotify.com/artist/1ShV4w1KY1Sofk04H6qzdL) | [Meherbaan](https://open.spotify.com/album/0YxC1L4SSsWUrg5OgoyTEi) | 2:56 | 2023-05-25 | 2023-06-06 |
 | [Mein Aur Tum](https://open.spotify.com/track/2xb679KGUYTQUXeJK0IqMo) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Mein Aur Tum](https://open.spotify.com/album/7JjirikQXBXGNkoSHMmTFm) | 2:49 | 2023-05-17 | 2023-05-26 |
 | [Mera Chaand](https://open.spotify.com/track/1OpaXuFejD7SZihxltCY0i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Mera Chaand](https://open.spotify.com/album/5t0eb1ckENCqaz7DPkksRY) | 2:55 | 2024-02-09 |  |
+| [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/track/5gx74G9kqfjddSddH4LFQ0) | [Purusharth Jain](https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc) | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/album/3W7RQsmVuo94rvZZuNfp8H) | 3:46 | 2024-04-08 |  |
 | [Meri Jaan](https://open.spotify.com/track/3uilAC3xBH3PclTwcOZLPG) | [Nitin Sharma](https://open.spotify.com/artist/3MJdIBBwnU6bgvdZ5Opq1b), [Swati Marwal](https://open.spotify.com/artist/5AaZWpvlOxpKkBYfBR3PDQ) | [Meri Jaan \- Single](https://open.spotify.com/album/20JpqXx3m3XsWEROa6JCfd) | 3:17 | 2023-05-17 | 2023-06-10 |
 | [Meri Jaan](https://open.spotify.com/track/0VlepsCPuzUblC3ogHFnct) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Meri Jaan](https://open.spotify.com/album/4R9zeNJdQ5HIUeacMzTC42) | 5:33 | 2023-09-21 | 2023-12-14 |
 | [Milke Jana](https://open.spotify.com/track/6nZQeNdsgaTFvCenGKFmU5) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN) | 3:10 | 2023-07-25 | 2024-01-05 |
@@ -241,7 +242,7 @@
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 | 2023-08-05 |
 | [Saari Umar](https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Saari Umar](https://open.spotify.com/album/4CLPALqNL9TZnE3gOIQ3C5) | 4:34 | 2023-05-17 | 2023-06-07 |
 | [Sabse Alag](https://open.spotify.com/track/1E9ePQNracuQS2exzXhFE2) | [Ruhfikra](https://open.spotify.com/artist/0uMRWwTlxDDSK7MAQuKPvY), [Jake Affrunti](https://open.spotify.com/artist/40ND6IHWv2Lm79jvD0envd) | [Sabse Alag](https://open.spotify.com/album/5B8Ej4Lps2p04TwU8nhNFa) | 3:02 | 2024-01-30 |  |
-| [Sach](https://open.spotify.com/track/5W7TjIh32z3p5LpkncXTpb) | [Subhranil Paul](https://open.spotify.com/artist/4EqjmfWeakKJdFZkoZd3vb) | [Sach](https://open.spotify.com/album/2K2cpw3QqOSsf7lDpbbiAz) | 3:59 | 2024-01-30 |  |
+| [Sach](https://open.spotify.com/track/5W7TjIh32z3p5LpkncXTpb) | [Subhranil Paul](https://open.spotify.com/artist/4EqjmfWeakKJdFZkoZd3vb) | [Sach](https://open.spotify.com/album/2K2cpw3QqOSsf7lDpbbiAz) | 3:59 | 2024-01-30 | 2024-04-09 |
 | [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/3C5gNf24feSHYFXXEJWiAJ) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 | 2023-07-06 | 2023-09-28 |
 | [Sadgi](https://open.spotify.com/track/0w891ljZDidc50QRARZxL6) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Sadgi](https://open.spotify.com/album/0DfVYUSlcjLDa2eAgJd6RR) | 4:09 | 2023-06-22 | 2023-08-10 |
 | [Sang Tere](https://open.spotify.com/track/5NsEfpHGCMmBS4sANtp5qo) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Rupin Suchak](https://open.spotify.com/artist/1VKnLalQQJZajLYjTyyYnl) | [Sang Tere](https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me) | 2:55 | 2023-11-29 | 2024-02-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 55390,
+  "num_followers": 55423,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDRjYzMxYjE4NjIwMzVmMzA0NDU3MGFhYTdlMzRiMDAxYzYyNTk4",
+  "snapshot_id": "MCxmYTczMTYyMzE0OWZhNGZhM2JhZjUzNTc1YzQzMjdiZThjMDI4MGY3",
   "tracks": [
     {
       "added_at": null,
@@ -583,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "La Plebada del Mayo",
+        "url": "https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3"
       },
       "artists": [
+        {
+          "name": "Los Del Sombrero",
+          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
+        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 139856,
-      "name": "Agasajaba La Noche",
-      "url": "https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j"
+      "duration_ms": 311530,
+      "name": "La Plebada del Mayo",
+      "url": "https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD"
     },
     {
       "added_at": null,
@@ -619,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Plebada del Mayo",
-        "url": "https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3"
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
       "artists": [
-        {
-          "name": "Los Del Sombrero",
-          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 311530,
-      "name": "La Plebada del Mayo",
-      "url": "https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD"
+      "duration_ms": 139856,
+      "name": "Agasajaba La Noche",
+      "url": "https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j"
     },
     {
       "added_at": null,
@@ -659,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
+        "url": "https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK"
       },
       "artists": [
+        {
+          "name": "Mario \"El Cachorro\" Delgado",
+          "url": "https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX"
+        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 150713,
-      "name": "Y Van A Hablar",
-      "url": "https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG"
+      "duration_ms": 496138,
+      "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
+      "url": "https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am"
     },
     {
       "added_at": null,
@@ -695,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
-        "url": "https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK"
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
       "artists": [
-        {
-          "name": "Mario \"El Cachorro\" Delgado",
-          "url": "https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 496138,
-      "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
-      "url": "https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am"
+      "duration_ms": 150713,
+      "name": "Y Van A Hablar",
+      "url": "https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

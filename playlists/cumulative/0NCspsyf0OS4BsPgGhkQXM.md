@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,046 songs - 2 day 6 hr 37 min
+1,047 songs - 2 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Enemy](https://open.spotify.com/track/7wVlESY6jLiNI9uSZl4Dh0) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc) | [The Nature of Hope](https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm) | 3:20 | 2023-11-03 | 2023-12-19 |
 | [Enigma](https://open.spotify.com/track/6ZGLumeSAYwtAVF4yWZu6m) | [Emoter](https://open.spotify.com/artist/61YSVV1OUrF6VcwghVVggg) | [Enigma](https://open.spotify.com/album/2bJV3YzMJ6RrW4memIg1vl) | 5:05 | 2023-06-29 | 2023-12-19 |
 | [Enigma](https://open.spotify.com/track/5Tv8R4UVY2mtlm5YC4CTCK) | [Lenny](https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU), [SL!DE](https://open.spotify.com/artist/1lKzr6x82kX0Rb7t3Slskc), [MCTR](https://open.spotify.com/artist/2VpQ8zzDQwLxYQw5F2HaWk), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 2:20 | 2022-06-16 | 2022-11-24 |
+| [Escape](https://open.spotify.com/track/6lp7U6mqjhThZXFtOMfARt) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Escape](https://open.spotify.com/album/3qZZBR3WfoRgLCrA4hCVSx) | 3:36 | 2024-04-09 |  |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 | 2022-11-08 | 2022-11-10 |
 | [Etazhi \- Remix](https://open.spotify.com/track/5qgsP3VphQxRp3WpSVSeIp) | [ANGUISH](https://open.spotify.com/artist/1oAtPfjSyQWY7rERuiYnpl), [дипинс](https://open.spotify.com/artist/2cl1ge5wteXTbAr0S4HPAI), [ily](https://open.spotify.com/artist/58V1mBG998BXT4jR5YvIGt) | [Etazhi \- Remix](https://open.spotify.com/album/0Ouip98HsB43MlCB5yQVsa) | 1:40 | 2023-12-01 |  |
 | [Eternal](https://open.spotify.com/track/0N6tsJpJilHbLoXLItHvM4) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [mark veins](https://open.spotify.com/artist/5Rt7OtfJpjne2jW8qy9Kcz), [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS) | [Eternal](https://open.spotify.com/album/6vP34IYlwS8zv3JKcFtHvX) | 2:43 | 2022-01-14 | 2022-09-15 |

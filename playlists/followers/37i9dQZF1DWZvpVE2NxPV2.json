@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 127987,
+  "2024-04-09": 128029,
   "date_first_scraped": "2022-01-21",
   "description": "Peaceful ambient for mind body connection.",
   "name": "Hatha Yoga",
@@ -1029,6 +1029,24 @@
       "duration_ms": 121128,
       "name": "Endless Horizon",
       "url": "https://open.spotify.com/track/76RFgwdQlwsMi0vfA20gSV"
+    },
+    {
+      "album": {
+        "name": "Endless Shores",
+        "url": "https://open.spotify.com/album/19pCjw0tOBFbKcjjg0Yj53"
+      },
+      "artists": [
+        {
+          "name": "Samuel Meadow",
+          "url": "https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179488,
+      "name": "Endless Shores",
+      "url": "https://open.spotify.com/track/6NEW6dkVxVq7ra9vX016Eb"
     },
     {
       "album": {
@@ -3387,6 +3405,24 @@
       "duration_ms": 180204,
       "name": "Spring Flower",
       "url": "https://open.spotify.com/track/6wPoL3OrhS8NOOwWk9F7QW"
+    },
+    {
+      "album": {
+        "name": "Star Sapphire",
+        "url": "https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy"
+      },
+      "artists": [
+        {
+          "name": "Galactica Pivot",
+          "url": "https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "Star Sapphire",
+      "url": "https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt"
     },
     {
       "album": {

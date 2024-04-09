@@ -1,7 +1,7 @@
 {
-  "2024-04-08": 250795,
+  "2024-04-09": 250919,
   "date_first_scraped": "2021-12-28",
-  "description": "Les hits marocains du moment. Cover: Kawtar",
+  "description": "Les hits marocains du moment. Cover: DYSTINCT",
   "name": "Maroc Hits",
   "tracks": [
     {
@@ -1275,6 +1275,28 @@
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D"
+    },
+    {
+      "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/4fdpS6Q0wfscKoVy42UcND"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188370,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb"
     },
     {
       "album": {
@@ -4005,7 +4027,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 254800,
       "name": "MAGHRIBI",
       "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"

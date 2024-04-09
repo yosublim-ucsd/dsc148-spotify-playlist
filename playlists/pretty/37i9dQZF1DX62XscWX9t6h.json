@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 177288,
+  "num_followers": 177395,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWI5NWFjNGM5MGY2YzQ2Yjc5MGFjZjExMzkzNzhiNDAzODUwN2M3",
+  "snapshot_id": "MCwzY2RjMzBlNDcwM2VlYzhlZTA1YzYzYjRjNGJjZDhiMWI3ZjQ0MDEz",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -141,20 +141,24 @@
       "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-08-31 04:14:59",
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
       "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 190999,
-      "name": "Maria Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
+      "duration_ms": 333150,
+      "name": "Tongo Barra",
+      "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
     },
     {
       "added_at": "2024-02-02 05:27:19",
@@ -305,24 +309,20 @@
       "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
     },
     {
-      "added_at": "2022-08-31 04:14:59",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
       "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 333150,
-      "name": "Tongo Barra",
-      "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
     },
     {
       "added_at": "2024-01-05 00:53:46",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 142480,
-      "name": "Run To Your Mama",
-      "url": "https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8"
-    },
-    {
       "added_at": "2022-07-01 02:44:20",
       "album": {
         "name": "Sacatela",
@@ -727,18 +711,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Carry Me Home",
-        "url": "https://open.spotify.com/album/18xdK3SoHfN0nHVAQfKvnQ"
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
         }
       ],
-      "duration_ms": 327560,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/2mgIoFgItGxpYAQw5j1ShQ"
+      "duration_ms": 142480,
+      "name": "Run To Your Mama",
+      "url": "https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8"
     },
     {
       "added_at": "2022-04-22 19:20:43",
@@ -763,6 +747,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/18xdK3SoHfN0nHVAQfKvnQ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 327560,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/2mgIoFgItGxpYAQw5j1ShQ"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "Dos Uvas",
         "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 209280,
       "name": "Dos Uvas",
       "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
-    },
-    {
-      "added_at": "2022-02-03 23:38:31",
-      "album": {
-        "name": "Let the Festivities Begin!",
-        "url": "https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "The Link Is About to Die",
-      "url": "https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -825,6 +809,22 @@
       "url": "https://open.spotify.com/track/6KiS9YtjvBEr96wazaVfO4"
     },
     {
+      "added_at": "2022-02-03 23:38:31",
+      "album": {
+        "name": "Let the Festivities Begin!",
+        "url": "https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "The Link Is About to Die",
+      "url": "https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Harumi",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Mosaic of the Orient",
-        "url": "https://open.spotify.com/album/35V308120K0txY7JUMoN6M"
-      },
-      "artists": [
-        {
-          "name": "Elias Rahbani",
-          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "Dance of Maria",
-      "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
-    },
-    {
       "added_at": "2022-04-17 18:29:09",
       "album": {
         "name": "Escape Plan",
@@ -871,6 +855,22 @@
       "duration_ms": 186548,
       "name": "Break Away",
       "url": "https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Mosaic of the Orient",
+        "url": "https://open.spotify.com/album/35V308120K0txY7JUMoN6M"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "Dance of Maria",
+      "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8"
     },
     {
+      "added_at": "2022-09-15 12:52:37",
+      "album": {
+        "name": "Yahudky",
+        "url": "https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm"
+      },
+      "artists": [
+        {
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "\u0428\u043e \u0437-\u043f\u043e\u0434 \u0434\u0443\u0431\u0430",
+      "url": "https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Yeti Season (Deluxe Version)",
@@ -1047,22 +1063,6 @@
       "duration_ms": 192404,
       "name": "Murkit Gem",
       "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
-    },
-    {
-      "added_at": "2022-09-15 12:52:37",
-      "album": {
-        "name": "Yahudky",
-        "url": "https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm"
-      },
-      "artists": [
-        {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "\u0428\u043e \u0437-\u043f\u043e\u0434 \u0434\u0443\u0431\u0430",
-      "url": "https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Ilana (The Creator)",
-        "url": "https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 447083,
-      "name": "Tarhatazed",
-      "url": "https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Ilana (The Creator)",
+        "url": "https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 447083,
+      "name": "Tarhatazed",
+      "url": "https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU"
     },
     {
       "added_at": "2023-12-05 16:22:29",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr"
     },
     {
-      "added_at": "2023-12-12 21:18:55",
-      "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 343000,
-      "name": "Newcastle",
-      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Nomad",
@@ -1263,6 +1247,22 @@
       "duration_ms": 268640,
       "name": "Amidinine",
       "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
+    },
+    {
+      "added_at": "2023-12-12 21:18:55",
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 343000,
+      "name": "Newcastle",
+      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
     },
     {
-      "added_at": "2023-11-23 03:51:02",
-      "album": {
-        "name": "The Livelong Day",
-        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 331500,
-      "name": "Bear Creek",
-      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Ash",
@@ -1363,6 +1347,22 @@
       "duration_ms": 187400,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu"
+    },
+    {
+      "added_at": "2023-11-23 03:51:02",
+      "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 331500,
+      "name": "Bear Creek",
+      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1465,6 +1465,22 @@
       "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
     },
     {
+      "added_at": "2023-04-14 00:27:25",
+      "album": {
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+      },
+      "artists": [
+        {
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Freedom Fables",
@@ -1483,22 +1499,6 @@
       "duration_ms": 319653,
       "name": "Tittle Tattle",
       "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
-    },
-    {
-      "added_at": "2023-04-14 00:27:25",
-      "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
-      },
-      "artists": [
-        {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
       "added_at": "2022-02-23 18:02:26",

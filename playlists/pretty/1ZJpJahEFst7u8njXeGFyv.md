@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 ### [Relaxing Classical](https://open.spotify.com/playlist/1ZJpJahEFst7u8njXeGFyv)
 
-> Relax, unwind and chill to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Alexandra Streliski, Yo\-Yo Ma, Esther Abrami and Alexis Ffrench\. The perfect background music for sleep and study.
+> Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 309,908 likes - 197 songs - 13 hr 19 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 309,916 likes - 197 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 196 | [Images pour piano, Livre I, L\. 110: No\. 2: Hommage à Rameau](https://open.spotify.com/track/5M7Qe45e5vxrVva1SFQfNI) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 7:31 |
 | 197 | [Images pour piano, Livre I, L\. 110: No\. 3: Mouvement](https://open.spotify.com/track/2v4jMY77JlgLeCW9HFRRQT) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 3:23 |
 
-Snapshot ID: `MTIzOCw0N2Q3ZmExZjhhNGY0YjkwMWYyMDMyOTNlMjRjMzRmYTAyMDBmOGVm`
+Snapshot ID: `MTIzOSxhMzM0NWNkZjQ4NDJkNjQ1OGM1NWQ4ZGM4NTNkZTExNmRlZTUyYjBi`

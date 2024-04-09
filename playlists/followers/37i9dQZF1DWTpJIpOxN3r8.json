@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 91217,
+  "2024-04-09": 91244,
   "date_first_scraped": "2023-04-07",
   "description": "Sonidos de lluvia para descansar y dormir.",
   "name": "Lluvia para Dormir",
@@ -719,7 +719,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 147696,
       "name": "Constant Heavy Rain",
       "url": "https://open.spotify.com/track/0T6g62X91GsCWDuHwl4LHe"
@@ -3887,7 +3887,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Outdoors Rain With Thunder (Seamless)",
       "url": "https://open.spotify.com/track/0prtbZYVPOt3qX5taZ3EtH"

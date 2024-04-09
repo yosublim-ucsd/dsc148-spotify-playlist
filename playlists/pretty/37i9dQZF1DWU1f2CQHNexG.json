@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 133628,
+  "num_followers": 133722,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWJmMjRmMmU4NTE0YWQ5NDcyNzFmOGU1ZTkxYmNiZWYzYTUwNDlk",
+  "snapshot_id": "MCw4YjRhMjQwMjkyODU3ZDY5N2U0ZWM5YTMwZWE2NWRhNmIxZDJhMmNl",
   "tracks": [
     {
       "added_at": "2023-02-02 20:54:30",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2023-02-02 20:54:30",
+      "album": {
         "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
         "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 266600,
       "name": "Voyage voyage",
       "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
-    },
-    {
-      "added_at": "2023-02-02 20:54:30",
-      "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2023-02-02 20:54:30",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 265320,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
-    },
-    {
-      "added_at": "2023-02-02 20:54:30",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/3rZuJ5oWUJGLmJLpvILp1B"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
-        "name": "Construction Time Again",
-        "url": "https://open.spotify.com/album/4PACSjpgl1unuvybxtiZqo"
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 261066,
-      "name": "Everything Counts",
-      "url": "https://open.spotify.com/track/1mb5bblw96UieIjCPlWyEw"
+      "duration_ms": 265320,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
     },
     {
       "added_at": "2023-02-02 20:54:30",
@@ -1163,6 +1147,22 @@
       "duration_ms": 197760,
       "name": "Who Needs Love Like That",
       "url": "https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB"
+    },
+    {
+      "added_at": "2023-02-02 20:54:30",
+      "album": {
+        "name": "Construction Time Again",
+        "url": "https://open.spotify.com/album/4PACSjpgl1unuvybxtiZqo"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Everything Counts",
+      "url": "https://open.spotify.com/track/1mb5bblw96UieIjCPlWyEw"
     },
     {
       "added_at": "2023-02-02 20:54:30",

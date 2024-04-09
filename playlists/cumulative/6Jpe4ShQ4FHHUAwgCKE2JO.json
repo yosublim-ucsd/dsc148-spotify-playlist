@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Swords",
+        "url": "https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g"
+      },
+      "artists": [
+        {
+          "name": "Nick Lutsko",
+          "url": "https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329957,
+      "name": "Sideshow",
+      "url": "https://open.spotify.com/track/4hFMy4uUSJ4hFfYpAVd1OI"
+    },
+    {
+      "album": {
         "name": "Sixteen Tons",
         "url": "https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr"
       },

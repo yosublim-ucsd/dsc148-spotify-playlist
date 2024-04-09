@@ -4,19 +4,21 @@
 
 > Questionable in both morals and taste.
 
-87 songs - 5 hr 10 min
+89 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 | 2023-11-20 |  |
 | [134340 Pluto](https://open.spotify.com/track/4y68MbR4SBc8UcnvQgzvdA) | [Cojum Dip](https://open.spotify.com/artist/0HfXJsCfDuqowm6agu6I0i) | [Cojum Dip](https://open.spotify.com/album/5RSTrCPHo0MvHuO4BncjTw) | 3:42 | 2023-03-26 |  |
 | [1993 \(feat\. Little Ricky ZR3\)](https://open.spotify.com/track/71iA79hOFAMmwGB1w83VH1) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Little Ricky ZR3](https://open.spotify.com/artist/6GaslxycqT27V8q2H3yZ7x) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:39 | 2024-03-28 |  |
+| [A Ghost Story](https://open.spotify.com/track/2FoxK1MoP36ZiIfwooZI6j) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Incantations](https://open.spotify.com/album/5CfNebrzhXfZqa5aRQlOPb) | 2:26 | 2024-04-08 |  |
 | [A Mask of My Own Face](https://open.spotify.com/track/6ibbHAoBrdqJxo345QGumd) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Nature Tapes](https://open.spotify.com/album/4Julje5zwF2IRlSqBOQ2oJ) | 3:30 | 2022-08-01 |  |
 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2023-03-26 | 2023-12-14 |
 | [An Unhealthy Obsession](https://open.spotify.com/track/43FkY9svV70r8PmBL7ypUh) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [An Unhealthy Obsession](https://open.spotify.com/album/4mK2uqTY0iz0rNYebd4EDd) | 2:58 | 2023-03-23 |  |
 | [Artificial Intelligence](https://open.spotify.com/track/3H65hbZNMHDCiFo3vhiAOA) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:57 | 2022-05-06 |  |
 | [Blood and Bones](https://open.spotify.com/track/3zTgL5xA9C02l65VR0XqaN) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Blood and Bones](https://open.spotify.com/album/5QCjqY1hcyAKWeWFduVtEs) | 2:10 | 2023-03-23 |  |
 | [Booty Swing](https://open.spotify.com/track/64yyY22zIihs01OpURdsh8) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Paris Swing Box](https://open.spotify.com/album/2djW68ErXMloNYhZaqDZdx) | 3:16 | 2023-11-15 |  |
+| [Bread](https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Bread](https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV) | 1:42 | 2024-04-08 |  |
 | [Burnin' for You](https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Fire of Unknown Origin](https://open.spotify.com/album/7v4kEpVtppoMm80m43lGzt) | 4:31 | 2023-11-20 |  |
 | [Business Man](https://open.spotify.com/track/0Ugvi8H89YmbBkSOx9VgUj) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:02 | 2022-05-06 |  |
 | [C'est la vie](https://open.spotify.com/track/0UhWFmdlrBSmZ7A6bFD8L9) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:14 | 2024-02-19 |  |

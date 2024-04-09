@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-570 songs - 1 day 0 hr 19 min
+574 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Bittersweet Brilliance](https://open.spotify.com/track/4OmgwhjWEYnIrUDMpaMApB) | [Pillowdowns](https://open.spotify.com/artist/2nWLLnsvWQJ901pO7JkVdn) | [Under the Skyplane](https://open.spotify.com/album/7tKMxysRCC5qyGzC9BAjom) | 3:17 | 2021-11-10 | 2022-02-11 |
 | [Blakwool](https://open.spotify.com/track/6I8asPH52FAFn13luYM3UR) | [Rakuto](https://open.spotify.com/artist/3TdtGIrs1VN2rb5eCD911V) | [Futureboy](https://open.spotify.com/album/4AAZahcCcVsNtFxO294eSA) | 3:45 | 2021-11-10 | 2022-05-20 |
 | [Blanket](https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Blanket](https://open.spotify.com/album/7upEQocfRg69LCyh1DeIMs) | 2:07 | 2023-10-02 |  |
+| [Blissful Drift](https://open.spotify.com/track/069eAD3fJhtbAnkEEIb72E) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Blissful Drift](https://open.spotify.com/album/5QUuc1SEcM5tAx44E0eH85) | 2:06 | 2024-04-08 |  |
 | [Bloomin'](https://open.spotify.com/track/4V84CYLnNvkP3YzhL5cpLx) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Bloomin'](https://open.spotify.com/album/6lgNSOo9OivZS0jLaWeXwB) | 2:16 | 2022-01-21 | 2022-07-01 |
 | [Blue](https://open.spotify.com/track/6jpQ73DuZifjGw2VDnj21p) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [Blue](https://open.spotify.com/album/01dwUb3AtTgxqnYLMzk5La) | 2:15 | 2022-10-28 |  |
 | [blue beach](https://open.spotify.com/track/5eBeSATSSfCHgkh00kZa4Y) | [ilsey john](https://open.spotify.com/artist/2klDNbRLOvnZT8mMB7Nmqu) | [blue beach](https://open.spotify.com/album/2ftLfhiciXIAcVt3uXRWUB) | 2:38 | 2022-06-10 | 2022-09-02 |
@@ -157,6 +158,7 @@
 | [Encapsulation](https://open.spotify.com/track/6luvhGwShtZChuy2LuiWFn) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Knit](https://open.spotify.com/album/5bpPypgoPOTNFfPMDqkjwz) | 2:44 | 2022-06-17 | 2022-07-15 |
 | [Endless Road](https://open.spotify.com/track/1Kqx9kj7twQEexWCa4WHUZ) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu) | [Endless Road](https://open.spotify.com/album/04YdOVml7kXJN985zOOHPX) | 2:22 | 2022-06-17 |  |
 | [enveloped in light w/ renkon](https://open.spotify.com/track/7K98Miow57rmGvCHzhQjoY) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [mountain](https://open.spotify.com/album/62TTDigv36E1PWu2G51zqB) | 3:09 | 2023-06-23 |  |
+| [Es Princep](https://open.spotify.com/track/7c9yaTgbbybOhrzmKpaVRa) | [Malacca](https://open.spotify.com/artist/3CefIz6qIlfMy80r0vZJxX) | [Es Princep](https://open.spotify.com/album/7Jw7dNAFCFShEU9RqPrV3T) | 3:54 | 2024-04-08 |  |
 | [Escape](https://open.spotify.com/track/3FEMzs5uAomMdS2i24VCD9) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Escape](https://open.spotify.com/album/5AoBGsllGk1254c2UqTS2E) | 2:13 | 2022-11-25 |  |
 | [Estrellas Viejas](https://open.spotify.com/track/6vGxiIvhKlcrzOWwHM71Cl) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Cielo Infinito](https://open.spotify.com/album/3xgVtYCFkw8c97AFCXqzqH) | 4:01 | 2021-11-10 | 2022-01-22 |
 | [Estuary](https://open.spotify.com/track/0uvXmStLwVQFAnhP6YD9TR) | [Post Op](https://open.spotify.com/artist/2QLZFqNC0yRXuhZi3VvOqS) | [Estuary](https://open.spotify.com/album/4RHtv2ncUKuH3TVzbLFtB8) | 3:13 | 2021-11-10 | 2022-06-10 |
@@ -213,6 +215,7 @@
 | [Happy Lollo](https://open.spotify.com/track/3S2pim1uoTBkPNNIC9nurq) | [Creeti & Pleeti](https://open.spotify.com/artist/3t3fsmwdxmWrQJ1g7rCEkX) | [Happy Lollo](https://open.spotify.com/album/3MZr6N7xSk4VUtQzdX1nag) | 2:00 | 2021-11-10 | 2022-07-29 |
 | [Haze](https://open.spotify.com/track/2eEamAkO1cFzLiUVnMrlGy) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Haze](https://open.spotify.com/album/4KL2OyY3m1qum4FA63ws8l) | 3:26 | 2022-10-28 |  |
 | [Heartbeat](https://open.spotify.com/track/6GRpj6J1fpVqtUgnsth0Ea) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Heartbeat](https://open.spotify.com/album/2avjmz9VXH5vcXrjrHy1Yv) | 4:25 | 2021-11-10 | 2022-07-29 |
+| [Hearts](https://open.spotify.com/track/0eZJfUknR9uigunQEpNyuh) | [Arnos Grove](https://open.spotify.com/artist/70yqS0ADu1EIsaHcn8ebKf) | [Hearts](https://open.spotify.com/album/0GcBhx6XomVtvS4C2nD48y) | 2:09 | 2024-04-08 |  |
 | [Heaven](https://open.spotify.com/track/6X35WKQ3YgELrIj3CT3NOt) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [Heaven](https://open.spotify.com/album/0C6hqHyCFgiH1OEdWWOLyM) | 3:06 | 2022-01-21 |  |
 | [Heaven is Here](https://open.spotify.com/track/5KCVDdzSH4Y1mzrlAXlwiR) | [Underself](https://open.spotify.com/artist/7rw99EZC3keTqq7BH7a6qF) | [Who Knows Love](https://open.spotify.com/album/5kJtclew7bKFzaASwMOecP) | 3:18 | 2022-04-15 |  |
 | [Her Universe](https://open.spotify.com/track/17yHJKIZIOprUbTTD6Et0E) | [Floating Bits](https://open.spotify.com/artist/4CmfscPBgrYJQuZP1nTQbs) | [Her Universe](https://open.spotify.com/album/3IJ5PVtarhwisMYO1z33g8) | 1:45 | 2022-10-07 | 2023-07-29 |
@@ -576,6 +579,7 @@
 | [Youth](https://open.spotify.com/track/0w1Bmnum1Fk0Unjy5Ok2ov) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Youth](https://open.spotify.com/album/1qOuL7TsLLRCTDMFXCCnGm) | 2:24 | 2022-09-02 |  |
 | [Zakky](https://open.spotify.com/track/0hZ2N9qQUApVWKWR1allC5) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 2:35 | 2021-11-10 | 2023-02-10 |
 | [Zealous](https://open.spotify.com/track/4FIpXfK5Py8emyfmWCTcm1) | [Fast Flux](https://open.spotify.com/artist/3jndf0YYCbrGOLFij8XuFs) | [Zealous](https://open.spotify.com/album/4QsVtR5zmxTXx66KeBnwt0) | 2:21 | 2021-11-10 | 2023-01-13 |
+| [Zenith](https://open.spotify.com/track/5SCylXZhv1Av8qluTRmlrB) | [Enjoy Banker](https://open.spotify.com/artist/5Vr0qKd6KNRHtQCyZn4NR9) | [Zenith](https://open.spotify.com/album/3wYX5UP6v3EeVC9KmLqpbq) | 2:16 | 2024-04-08 |  |
 | [Zodiac Interstellar](https://open.spotify.com/track/2lOa0pC5BbOchxyxWg9EPS) | [Mimimi](https://open.spotify.com/artist/5RE5W8McrdwFqlv0mG2Jet) | [Zodiac Interstellar](https://open.spotify.com/album/0U6GqcJAnfi8qr9KCwVzpJ) | 2:34 | 2022-12-09 |  |
 | [Zélande](https://open.spotify.com/track/4k109frzLZCYYGLg29VeXK) | [Foxy Fox](https://open.spotify.com/artist/7CvzsutSO2u3R3IaROBw5v) | [Coast Bound](https://open.spotify.com/album/6kZZVZj0BtkukLbrvMVI2z) | 2:07 | 2022-07-08 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 35413,
+  "num_followers": 35420,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDYwMGQxODI4Zjg2ODgwNDU3ZWRiNjZhOTVjZTJhNDI1N2QyYmQx",
+  "snapshot_id": "MCxiYjM5ZDVkYWUzMWU5OTE0NDc4NmRlMzQyNGI5YTRmNDk3N2M3NjA4",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 189861,
-      "name": "Jealous Buffoon",
-      "url": "https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 197733,
       "name": "MF",
       "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 189861,
+      "name": "Jealous Buffoon",
+      "url": "https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Freaking Me Out",
+        "url": "https://open.spotify.com/album/6cnxGth7ym2xo7cPphvgE0"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 208230,
+      "name": "Freaking Me Out",
+      "url": "https://open.spotify.com/track/2EgCA8OSliOqPRn30n6XmQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here Come the Runts",
         "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
@@ -715,28 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Table for One (feat. Elohim)",
-        "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 278867,
-      "name": "Table for One (feat. Elohim)",
-      "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freaking Me Out",
-        "url": "https://open.spotify.com/album/6cnxGth7ym2xo7cPphvgE0"
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
       "artists": [
         {
@@ -744,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 208230,
-      "name": "Freaking Me Out",
-      "url": "https://open.spotify.com/track/2EgCA8OSliOqPRn30n6XmQ"
+      "duration_ms": 292439,
+      "name": "Some Kind of Joke",
+      "url": "https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA"
     },
     {
       "added_at": null,
@@ -767,6 +763,26 @@
       "duration_ms": 243066,
       "name": "Eye In The Sky (feat. Beck)",
       "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Table for One (feat. Elohim)",
+        "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 278867,
+      "name": "Table for One (feat. Elohim)",
+      "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
     },
     {
       "added_at": null,
@@ -796,9 +812,29 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 292439,
-      "name": "Some Kind of Joke",
-      "url": "https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA"
+      "duration_ms": 191200,
+      "name": "Shoestrings",
+      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 211445,
+      "name": "Alone Again (Naturally)[feat. Midland]",
+      "url": "https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC"
     },
     {
       "added_at": null,
@@ -827,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 211445,
-      "name": "Alone Again (Naturally)[feat. Midland]",
-      "url": "https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
@@ -856,29 +872,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Shoestrings",
-      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OCCULT CLASSIC",
-        "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
-      },
-      "artists": [
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 266680,
-      "name": "All In My Head (feat. AWOLNATION)",
-      "url": "https://open.spotify.com/track/0HQrTFhNkxL1EQdOiN0ZFf"
+      "duration_ms": 182080,
+      "name": "Swinging from the Castles",
+      "url": "https://open.spotify.com/track/6Vr85PSTw31QO9lplFapFL"
     },
     {
       "added_at": null,
@@ -903,18 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+        "name": "OCCULT CLASSIC",
+        "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
       },
       "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 182080,
-      "name": "Swinging from the Castles",
-      "url": "https://open.spotify.com/track/6Vr85PSTw31QO9lplFapFL"
+      "duration_ms": 266680,
+      "name": "All In My Head (feat. AWOLNATION)",
+      "url": "https://open.spotify.com/track/0HQrTFhNkxL1EQdOiN0ZFf"
     }
   ],
   "unique_name": "This Is AWOLNATION",

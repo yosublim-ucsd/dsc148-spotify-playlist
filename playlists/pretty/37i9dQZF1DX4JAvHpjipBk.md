@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Benson Boone, Doja Cat, J\. Cole, Bryson Tiller, Vampire Weekend, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,191,659 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,191,942 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 |
 | 100 | [back to him](https://open.spotify.com/track/4l4q4SvYblrOQecJdKojJp) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [he's just not that into you!](https://open.spotify.com/album/3LQxhuq5ZS9eQQrocLGwdO) | 2:44 |
 
-Snapshot ID: `MCxlNTUxZDAyZDIzNzFjYTEzYzk5MTg0NGEyOTQ2ZWUxODYyOWZkYTcw`
+Snapshot ID: `MCwzMTM3MjM3OGMyZWVjN2MzNjVhMDY4ZmQ0NWM1OWRiMDU0MDYyZDY0`

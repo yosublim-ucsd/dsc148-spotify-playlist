@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 468319,
+  "2024-04-09": 468337,
   "date_first_scraped": "2021-12-21",
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: Hozier",
   "name": "Rockin' Vibes",
@@ -1163,10 +1163,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 199874,
       "name": "Deep Stays Down",
       "url": "https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg"
+    },
+    {
+      "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263933,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY"
     },
     {
       "album": {

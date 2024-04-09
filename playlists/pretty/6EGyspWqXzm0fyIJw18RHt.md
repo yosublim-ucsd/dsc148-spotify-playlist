@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 
 > The vibes
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 14 songs - 56 min 38 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 15 songs - 59 min 4 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,5 +22,6 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 | 12 | [Necromancin Dancin](https://open.spotify.com/track/4VoSYq3aTp57jgrdNswzrd) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/album/1QGh29u6gecFcSXOVloWEX) | 3:47 |
 | 13 | [Beware!](https://open.spotify.com/track/3fTVQa1lb0gfjVXNu2Qc5S) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Your Parents Are Only Marginally Disappointed in Your Musical Taste](https://open.spotify.com/album/15b8BZbbE9M7Dx2twH81p0) | 4:38 |
 | 14 | [Spooky, Scary Skeletons \- Undead Tombstone Remix Extended](https://open.spotify.com/track/5kwuPm3p11TnirbMvcGrZZ) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 3:49 |
+| 15 | [A Ghost Story](https://open.spotify.com/track/2FoxK1MoP36ZiIfwooZI6j) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Incantations](https://open.spotify.com/album/5CfNebrzhXfZqa5aRQlOPb) | 2:26 |
 
-Snapshot ID: `MTcsMDkyMzQ2ZTllMGM3NjI4MzgxODEyYjFjYTBlMmY3YzgzYzFmMzE5NA==`
+Snapshot ID: `MTgsNDQxNmY3ZjBiMTY5YTA5NDBiZWRhOWViMDI1MWEwMzM3OWJjOWI2OQ==`

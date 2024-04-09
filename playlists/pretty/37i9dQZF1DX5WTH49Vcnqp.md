@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,813 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,885 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/2RjD1CgW7MWRWSNkimCPNy) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:21 |
 | 75 | [Witness](https://open.spotify.com/track/4LfSwi3vWDMQYqNsxsIesm) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Witness](https://open.spotify.com/album/3zfQMqcvn7NwEBjZhKyX0C) | 3:58 |
 
-Snapshot ID: `MCwwYThhMzNjZTE3NzhlMTY3OWIyZTcxNGFkMTdhYzJiMjE5YjY0Mzcw`
+Snapshot ID: `MCxjY2RhYTEwNWE1N2I3NTM4NTNjNzE2YTUyMjUxOWU0NzUwNTBmOTJl`

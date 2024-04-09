@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 239423,
       "name": "Chusuko",
       "url": "https://open.spotify.com/track/0Naz1VxWjkVV5qcLrtiDGy"
@@ -1430,6 +1430,28 @@
       "duration_ms": 187941,
       "name": "Jimpak Chipak",
       "url": "https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF"
+    },
+    {
+      "album": {
+        "name": "Kaalaale",
+        "url": "https://open.spotify.com/album/7zuoO7Uhrb8ALzLT9bRlp0"
+      },
+      "artists": [
+        {
+          "name": "Phani Kalyan",
+          "url": "https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0"
+        },
+        {
+          "name": "Jyoti Kavi",
+          "url": "https://open.spotify.com/artist/7HeMDT4UyuKc3NNQBvpZnN"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218380,
+      "name": "Kaalaale",
+      "url": "https://open.spotify.com/track/51u6ywNUr5EhTpBfllwrSN"
     },
     {
       "album": {

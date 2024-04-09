@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 11379,
+  "num_followers": 11383,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTEzYjQ3NDk4NzhlZmU2OTgyNjAyZjE3YTFjOTgzMjg3NDAyNGFi",
+  "snapshot_id": "MCxiNzEzOWY0OThhNzE3YjU3OWE0ODQ2OTJjZGVjYzAxNDczNDQ5MDc1",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 150667,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 114784,
       "name": "We've Got The Music",
       "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 150667,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Like It on Top",
         "url": "https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 285893,
       "name": "Like It on Top",
       "url": "https://open.spotify.com/track/1MMXilYlgGiVXSz5YCOV9d"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Dirty Truth",
+        "url": "https://open.spotify.com/album/0kzodLdXKTl9mbyAr5hFXW"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 262413,
+      "name": "Outlaw Angel",
+      "url": "https://open.spotify.com/track/6sxkNpFtNuK5q8ctf626Z1"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Times Have Changed",
         "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 233560,
       "name": "Come On Up",
       "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Dirty Truth",
-        "url": "https://open.spotify.com/album/0kzodLdXKTl9mbyAr5hFXW"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 262413,
-      "name": "Outlaw Angel",
-      "url": "https://open.spotify.com/track/6sxkNpFtNuK5q8ctf626Z1"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Everything I Need",
+        "url": "https://open.spotify.com/album/457tPPHTx0QG2ZsP7y1pfK"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Soundman",
+      "url": "https://open.spotify.com/track/0vDTwKpjbKiWYgkXFVZB7Y"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The Son Of A Bluesman",
         "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Everything I Need",
-        "url": "https://open.spotify.com/album/457tPPHTx0QG2ZsP7y1pfK"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Soundman",
-      "url": "https://open.spotify.com/track/0vDTwKpjbKiWYgkXFVZB7Y"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Alligator Records Years",
         "url": "https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ"
       },
@@ -831,30 +831,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "50 - Just warming up !",
-        "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        },
-        {
-          "name": "Danielia Cotton",
-          "url": "https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t"
-        },
-        {
-          "name": "Sugar Blue",
-          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Let The Good Time Party Begin",
-      "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Blues Survivor",
         "url": "https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr"
       },
@@ -867,6 +843,22 @@
       "duration_ms": 410360,
       "name": "Shake For Me",
       "url": "https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 288282,
+      "name": "Blues Party",
+      "url": "https://open.spotify.com/track/5CHMY9NB9xTsPOmvAyCYEj"
     }
   ],
   "unique_name": "Blues Party",

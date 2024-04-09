@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,161 likes - 131 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,214 likes - 131 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 130 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 |
 | 131 | [Mortal Like Me](https://open.spotify.com/track/0V0gmNQ5UL3paMRmKKx76J) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8), [Joe Troop](https://open.spotify.com/artist/6ZEEjgoF57Fa8eh2aXGoNa) | [Mortal Like Me](https://open.spotify.com/album/6ZFb24q2lPY70oVv9PgQMj) | 3:14 |
 
-Snapshot ID: `MCxlODQzOTZhYWQ5NzQ3Y2U0MjlkOGVhNzk4NzRmYWQ3MzBlNGU5ZGVl`
+Snapshot ID: `MCw5YzY1ODNkM2MzNTY0ZWM0ZDQ3YjhmODI0ZDg1OTU0NjBiZjA2Y2Uz`

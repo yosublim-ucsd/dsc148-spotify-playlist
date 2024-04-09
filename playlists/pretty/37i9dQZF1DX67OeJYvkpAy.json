@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90246,
+  "num_followers": 90237,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTQzN2RmMWQ4YWY0NmMwNzkxMDdkMzg1YzBkMzFlMDdkZjVjOTc3",
+  "snapshot_id": "MCw0YWVlZjdhZTJhYjBkYzhhY2YwZTVhMzA2ZGE1MWYwZGJjYjc1ZTI1",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Clearest of Signs",
-        "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
-      },
-      "artists": [
-        {
-          "name": "SwitchOTR",
-          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
-        }
-      ],
-      "duration_ms": 135416,
-      "name": "Clearest of Signs",
-      "url": "https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Hoods Hottest",
         "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 187617,
       "name": "Hoods Hottest",
       "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Clearest of Signs",
+        "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
+      },
+      "artists": [
+        {
+          "name": "SwitchOTR",
+          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
+        }
+      ],
+      "duration_ms": 135416,
+      "name": "Clearest of Signs",
+      "url": "https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/0SDeBHRN5zC4oWSWyyKrep"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/7afBX5p6Qw5RPfpedhEMWS"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Mad About Bars - S5-E8",
         "url": "https://open.spotify.com/album/1APQzz72dkxKKhwWyJF1tb"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 125995,
       "name": "Mad About Bars - S5-E8 Pt 2",
       "url": "https://open.spotify.com/track/5w0OFvbgCjnbq9TK4vzVXL"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/0SDeBHRN5zC4oWSWyyKrep"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/7afBX5p6Qw5RPfpedhEMWS"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Talking Stage",
+        "url": "https://open.spotify.com/album/5NLili28W2k9Uei0PLB0fd"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 180047,
+      "name": "Talking Stage",
+      "url": "https://open.spotify.com/track/2wqit987hOdo26WWk95BIK"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Why you gotta lie?",
         "url": "https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 195933,
       "name": "Paro(noia)",
       "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Talking Stage",
-        "url": "https://open.spotify.com/album/5NLili28W2k9Uei0PLB0fd"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 180047,
-      "name": "Talking Stage",
-      "url": "https://open.spotify.com/track/2wqit987hOdo26WWk95BIK"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Rise Above Hate",
-        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 112043,
-      "name": "SS Interlude",
-      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Stuck In My Ways",
         "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "HBK",
-        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
+        "name": "Rise Above Hate",
+        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
       },
       "artists": [
         {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
         }
       ],
-      "duration_ms": 145306,
-      "name": "Heart On Ice",
-      "url": "https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf"
+      "duration_ms": 112043,
+      "name": "SS Interlude",
+      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -583,6 +567,22 @@
       "duration_ms": 244000,
       "name": "mate in five",
       "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 145306,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
       },
@@ -759,22 +743,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "2:30AM",
-        "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 182937,
-      "name": "2:30AM",
-      "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "DSLM?",
         "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
       },
@@ -791,22 +759,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo"
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
       },
       "artists": [
         {
           "name": "Ronzo",
           "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -839,6 +803,22 @@
       "duration_ms": 152571,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "2:30AM",
+        "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 182937,
+      "name": "2:30AM",
+      "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -939,6 +919,26 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Retrogress (Season 1)",
         "url": "https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "House Invasions",
-        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
-      },
-      "artists": [
-        {
-          "name": "Nino SLG",
-          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
-        }
-      ],
-      "duration_ms": 209345,
-      "name": "House Invasions",
-      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Retrogress (Season 1)",
         "url": "https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 176680,
       "name": "I Thought I\u2019d Die In Your Arms",
       "url": "https://open.spotify.com/track/4b3pxifcb2ZdFWcutsC5Ik"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "House Invasions",
+        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
+      },
+      "artists": [
+        {
+          "name": "Nino SLG",
+          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "House Invasions",
+      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        },
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 160490,
+      "name": "Venting",
+      "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/6yAjcw3OQin9aBXTDI0k0A"
       },
@@ -1107,22 +1127,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/2S4RILOQgJXWNI1xiFjhUJ"
       },
       "artists": [
         {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        },
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "J4TT",
+          "url": "https://open.spotify.com/artist/07b7fDFq0MD93AByJSH8B6"
         }
       ],
-      "duration_ms": 160490,
-      "name": "Venting",
-      "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
+      "duration_ms": 192004,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/3a9ydOZeQaduBvqr6DS58a"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/2S4RILOQgJXWNI1xiFjhUJ"
-      },
-      "artists": [
-        {
-          "name": "J4TT",
-          "url": "https://open.spotify.com/artist/07b7fDFq0MD93AByJSH8B6"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/3a9ydOZeQaduBvqr6DS58a"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Scorpio Trait",
         "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 249600,
       "name": "Scorpio Trait",
       "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 200035,
-      "name": "Toxic Veins",
-      "url": "https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1239,22 +1223,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Akhirah",
         "url": "https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW"
       },
@@ -1267,6 +1235,38 @@
       "duration_ms": 221570,
       "name": "Akhirah",
       "url": "https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 200035,
+      "name": "Toxic Veins",
+      "url": "https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Different Man",
-      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
       },
@@ -1355,6 +1339,38 @@
       "duration_ms": 135000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Different Man",
+      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Hearts Get Numb",
-        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Hearts Get Numb",
-      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "WAIT N SEE",
         "url": "https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV"
       },
@@ -1447,6 +1447,26 @@
       "duration_ms": 164553,
       "name": "WAIT N SEE",
       "url": "https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Berlin Luv",
+        "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        },
+        {
+          "name": "AD North",
+          "url": "https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Berlin Luv",
+      "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1519,26 +1539,6 @@
       "duration_ms": 154157,
       "name": "Lowkey '",
       "url": "https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Berlin Luv",
-        "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        },
-        {
-          "name": "AD North",
-          "url": "https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Berlin Luv",
-      "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
     },
     {
       "added_at": "2023-08-01 17:14:44",

@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1990s\. Cover: TLC
 
-717 songs - 2 day 2 hr 50 min
+718 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [My Father's Eyes](https://open.spotify.com/track/7zXqmgoZNRHNFgFAOoxhx6) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/3NciWxb2An4XoNC0AaYyNK) | 5:23 | 2019-07-23 | 2019-08-09 |
 | [My Favourite Game](https://open.spotify.com/track/0Ssq7X1zG3iUqTDEKPaT1J) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo](https://open.spotify.com/album/6gxAs4Xk6dytHvqADOhLPw) | 3:37 | 2020-08-20 | 2022-04-14 |
 | [My Favourite Game](https://open.spotify.com/track/7gjm1sq5ALU5svBSi9g178) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo](https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO) | 3:37 | 2019-07-17 | 2019-08-27 |
+| [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 | 2024-02-12 |  |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 | 2021-02-15 |  |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/3oEHQmhvFLiE7ZYES0ulzv) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/3SwxRkHbAarf3wWlInRTzA) | 4:40 | 2020-06-12 | 2021-04-15 |
 | [My Hero](https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:20 | 2022-09-09 |  |
@@ -613,7 +614,7 @@
 | [The One And Only](https://open.spotify.com/track/69Tyiih00ZZKboHFnXp0VF) | [Chesney Hawkes](https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY) | [Buddy's Song](https://open.spotify.com/album/1u2eOnhJaDlnDJ9ArCFXzC) | 3:43 | 2022-06-02 | 2022-07-29 |
 | [The Only One I Know](https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj) | 3:58 | 2019-07-28 | 2019-08-10 |
 | [The Power](https://open.spotify.com/track/0nQLxiNGbbUoSGrxksETLm) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [World Power](https://open.spotify.com/album/40dT7brCvniJawDHpBCE4A) | 3:48 | 2019-08-04 | 2019-08-10 |
-| [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 | 2019-05-26\* |  |
+| [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 | 2019-05-26\* | 2024-04-09 |
 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 | 2019-06-23 | 2022-04-18 |
 | [The Rockafeller Skank \- Short Edit](https://open.spotify.com/track/6QuBlKmaadzwQn21IUTPPX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Rockafeller Skank](https://open.spotify.com/album/3Q4pPaHsv4Dy5v3Y0AQXdK) | 4:01 | 2019-07-16 | 2022-04-17 |
 | [The Shoop Shoop Song \(It's In His Kiss\)](https://open.spotify.com/track/1F93GMRPvmWpVP970SzjpH) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts \(UK Mid Price\)](https://open.spotify.com/album/4Zzx7tVCCHj0rufZPXsrhr) | 2:50 | 2019-05-26\* | 2022-07-29 |

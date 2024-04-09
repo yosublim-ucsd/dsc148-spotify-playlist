@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-157 songs - 11 hr 30 min
+158 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/18XoiSzpBYBGBhDb52acQw) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/0auupn5v493j5uMF0ozK97) | 3:36 | 2022-01-14 | 2022-07-29 |
 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2022-01-14 | 2023-07-24 |
 | [Lose Your Love](https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Lose Your Love](https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi) | 3:12 | 2024-03-29 |  |
+| [Losing Game](https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Enter](https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk) | 4:00 | 2024-04-05 |  |
 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2022-01-14 |  |
 | [Lost In You](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Lost In You EP](https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl) | 3:30 | 2022-01-14 |  |
 | [Love Loud](https://open.spotify.com/track/3DGlzGu8B8YE0Eklb4QIdG) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Ciaran McAuley presents Elï](https://open.spotify.com/artist/0mD8WnekMqwZfNT3s5CwCp) | [Love Loud](https://open.spotify.com/album/7ofobncYCierBbrI0Gmo5x) | 2:54 | 2024-03-01 | 2024-03-15 |
@@ -106,7 +107,7 @@
 | [Need You By My Side](https://open.spotify.com/track/09xjDhkPAbr3OqP9zYjnM8) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You by My Side](https://open.spotify.com/album/1dQQsumH9Y0MO5xbq3Tr9s) | 3:20 | 2022-11-25 | 2024-02-25 |
 | [Need You By My Side](https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You By My Side](https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP) | 3:20 | 2022-01-14 | 2023-10-01 |
 | [Next Life](https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:52 | 2024-02-23 |  |
-| [No Judgement \- Kölsch Remix Edit](https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [No Judgement \(Kölsch Remix Edit\)](https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo) | 4:17 | 2022-01-14 |  |
+| [No Judgement \- Kölsch Remix Edit](https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [No Judgement \(Kölsch Remix Edit\)](https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo) | 4:17 | 2022-01-14 | 2024-04-09 |
 | [No One’s Coming](https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:38 | 2024-03-15 |  |
 | [No Time \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [No Time \(RÜFÜS DU SOL Remix\)](https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy) | 6:38 | 2022-01-14 |  |
 | [Nothing Ever Changes](https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Nothing Ever Changes](https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4) | 3:46 | 2024-04-05 |  |

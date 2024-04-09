@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb?si=ZXqGyRHTQY2VCnM6FwepgQ">Mark Akol</a>, <a href="https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8?si=Rk3WycIzTcO5bsOMhdziEg">Sipho The Gift</a>
 
-717 songs - 1 day 14 hr 38 min
+718 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Broken Bottle](https://open.spotify.com/track/0I1AzqXQ6spcEeQy2FJmSy) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [Broken Bottle](https://open.spotify.com/album/5ebAy7CQ5oSdhIop9nRs4v) | 2:10 | 2024-02-16 |  |
 | [BRUCE WAYNE](https://open.spotify.com/track/1eIk9KQ1zkDB4K3QO4cmlQ) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [P2 : THE BIG HEARTED BAD GUY](https://open.spotify.com/album/5VRS9HeUxDmGRnmkfHPmp1) | 1:55 | 2023-10-20 |  |
 | [Buddah of the year](https://open.spotify.com/track/0t60whoNK0BztGvGSDKRaw) | [Lolli Native](https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0), [Soul T Idyan](https://open.spotify.com/artist/7D94UybsHMksRMPc6e1ybB), [Blue K](https://open.spotify.com/artist/2vF0eCfzKrLkg7fsVD2TW1) | [iVangeli](https://open.spotify.com/album/7d6zphfuSNz41GTNw1TlPM) | 3:41 | 2022-08-18 | 2022-09-30 |
-| [Buddy Buddy](https://open.spotify.com/track/4gACAiWLKEZS7Y9YbAKQdi) | [SlickZack](https://open.spotify.com/artist/3VznvXo63CbeIwEzapkitc) | [Buddy Buddy](https://open.spotify.com/album/0O8f2TUuOMCLc8jB9Za30F) | 3:08 | 2024-02-01 |  |
+| [Buddy Buddy](https://open.spotify.com/track/4gACAiWLKEZS7Y9YbAKQdi) | [SlickZack](https://open.spotify.com/artist/3VznvXo63CbeIwEzapkitc) | [Buddy Buddy](https://open.spotify.com/album/0O8f2TUuOMCLc8jB9Za30F) | 3:08 | 2024-02-01 | 2024-04-09 |
 | [Bula Sekele](https://open.spotify.com/track/53zBbKEqPVgHk9t0xDPoE7) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 3:10 | 2022-04-22 | 2022-07-15 |
 | [bums & sex freestyle](https://open.spotify.com/track/4cOtG2ob763lqmZKHkP03Y) | [SadBoySantana](https://open.spotify.com/artist/3nb1rmahl4LbN6Jm4eVssM) | [bums & sex freestyle](https://open.spotify.com/album/5qLGQy6r5paokC72dxeXBs) | 1:32 | 2022-03-10 | 2022-03-18 |
 | [Buya Embo](https://open.spotify.com/track/164ACyhEkCE1qmiTSG6sZf) | [Laliboi](https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ), [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [Buya Embo](https://open.spotify.com/album/35Ai9RRzaqROEzAHNetxQV) | 2:50 | 2023-04-13 | 2023-04-28 |
@@ -520,6 +520,7 @@
 | [Savage](https://open.spotify.com/track/73AB392bUj4JnIR1vRVvwZ) | [Gia Mayham](https://open.spotify.com/artist/7A9CylAl5mdCXJNh8AAQp7) | [Savage](https://open.spotify.com/album/2F7Fr3sxenbwbAi9D2rOUH) | 2:47 | 2022-07-14 | 2022-07-29 |
 | [Save Me from the Trenches](https://open.spotify.com/track/4tRPmHXmcivSmwJ5ps9IdG) | [El Nino Diablo](https://open.spotify.com/artist/0H2VHRUkTJRaLWbbucSfjK) | [Save Me from the Trenches](https://open.spotify.com/album/2KFGiEQquNUtSndyX3qGAi) | 2:44 | 2022-02-17 | 2022-02-25 |
 | [Save Yourself](https://open.spotify.com/track/3eurWygW39lWlywEYn9ZAF) | [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Save Yourself](https://open.spotify.com/album/5J84DJO1BbDJSIxcw0PLj2) | 3:14 | 2022-03-24 | 2022-05-20 |
+| [Say It To Yourself](https://open.spotify.com/track/5XJYqaSOlo3kkIBcuVdzNo) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz) | [Say It To Yourself](https://open.spotify.com/album/3p4IiDJBZ8Trs09m0kMJXC) | 4:11 | 2024-04-08 |  |
 | [Say Wit Yoh Chest Out](https://open.spotify.com/track/0hC0L6QozvxstZZ6qVSKjM) | [Sireece](https://open.spotify.com/artist/6Qpp3BxsDyTKjNPgJp95ae) | [Say Wit Yoh Chest Out](https://open.spotify.com/album/01Wgbssjmj73g3FOmxKeBv) | 2:27 | 2022-01-20 | 2022-02-11 |
 | [Say You Love Me](https://open.spotify.com/track/6ioy9pHT4ZgmVTTtWgiXVS) | [TheOnlyAidy](https://open.spotify.com/artist/4oVnTT6iEEPSfodBu0KuNZ) | [Say You Love Me](https://open.spotify.com/album/3njtR2loHie7WdXS3s7dDP) | 2:52 | 2022-07-08 | 2022-07-29 |
 | [Seasons and Love](https://open.spotify.com/track/5Tjcbe9gPoOVhuk90T38q8) | [King Lutendo](https://open.spotify.com/artist/7361yHNXTgVwZBXsbqI0Lu) | [Lwendo](https://open.spotify.com/album/3uNVAVDTARJ2OFgfrjtdpn) | 3:41 | 2023-07-07 | 2023-07-28 |
@@ -587,7 +588,7 @@
 | [Stronger](https://open.spotify.com/track/2zetch7a8zBaYtrZ15qnwo) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Stronger](https://open.spotify.com/album/1pPQAIpDEBMrbaLL1rFSpt) | 3:31 | 2023-06-18 | 2023-10-14 |
 | [Stru](https://open.spotify.com/track/2VMFLg4q2682hAwZsbMjyl) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e) | [Stru](https://open.spotify.com/album/0XPXGn2w0pzatcO5FsakoR) | 1:56 | 2023-07-28 | 2023-10-21 |
 | [SUN](https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SUN / BABY BLUE 4’s](https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD) | 2:27 | 2022-12-12 | 2023-02-01 |
-| [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 | 2024-01-19 |  |
+| [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 | 2024-01-19 | 2024-04-09 |
 | [Sunset Boulevard](https://open.spotify.com/track/2hHZJhS3UeFgWI3ubOEin6) | [Hanztheman](https://open.spotify.com/artist/5Iq940fxpJlrUQpGjV3mvP), [Begho](https://open.spotify.com/artist/3TTy6LYKVib6oOmyEq0QZb) | [Sunset Boulevard](https://open.spotify.com/album/12t0GrcToxrjNcmZ50g5c6) | 2:19 | 2022-04-14 | 2022-04-23 |
 | [Super Soft](https://open.spotify.com/track/5PbQKeSihe6TxGEXbmPWOA) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Super Soft](https://open.spotify.com/album/2g4ZRcuaGojr5u19ps28gL) | 3:01 | 2021-08-20 | 2022-04-15 |
 | [Superficial](https://open.spotify.com/track/0uyROdf7uNrQGjtRPdoNnH) | [Elliot Smalls](https://open.spotify.com/artist/6ee6gOLet09Kv10DhYzCQ2) | [Prestige](https://open.spotify.com/album/4IJw3uea6efFp8qyH0uW9F) | 3:24 | 2022-02-03 | 2022-07-29 |

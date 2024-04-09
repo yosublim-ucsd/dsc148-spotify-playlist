@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:6iz52ADwFl483ghAI7NuS1\">god.wifi</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:5nGEwOuyd7RFe64eB0kWd8\">Iwona Skv</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 158787,
       "name": "$WAG (lepi si\u0119 w ch*j)",
       "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+    },
+    {
+      "album": {
+        "name": "2late",
+        "url": "https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "2late",
+      "url": "https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF"
     },
     {
       "album": {
@@ -128,7 +146,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 141340,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
@@ -150,7 +168,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 230489,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/1tEGMBP6luVt9q9nImOooY"
@@ -204,7 +222,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 199168,
       "name": "bezdech",
       "url": "https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50"
@@ -222,7 +240,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 182219,
       "name": "Bezpowrotnie",
       "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
@@ -244,6 +262,24 @@
       "duration_ms": 163076,
       "name": "Bezsens",
       "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
+    },
+    {
+      "album": {
+        "name": "nie pow\u00f3d do p\u0142aczu",
+        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "bia\u0142y szum",
+      "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
     },
     {
       "album": {
@@ -721,6 +757,24 @@
     },
     {
       "album": {
+        "name": "nie pow\u00f3d do p\u0142aczu",
+        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209706,
+      "name": "dotkliwie",
+      "url": "https://open.spotify.com/track/3i8HGoWPINUw33Ig9Cu8eS"
+    },
+    {
+      "album": {
         "name": "DUEL 35 Chamber Orchestra",
         "url": "https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd"
       },
@@ -1009,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "Haiku",
+        "url": "https://open.spotify.com/album/1utL1XsLZYrQEiLQX8o3qu"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Haiku",
+      "url": "https://open.spotify.com/track/4kdJPEgNmlyzo0mrRC4kOQ"
+    },
+    {
+      "album": {
         "name": "Bloo Feelings",
         "url": "https://open.spotify.com/album/4YFda393j1BTBGPBNFvaiq"
       },
@@ -1024,6 +1096,24 @@
       "duration_ms": 215493,
       "name": "Head in The Sky",
       "url": "https://open.spotify.com/track/5qLtgcbN26a38JV6VY26KY"
+    },
+    {
+      "album": {
+        "name": "Hot and Heavy",
+        "url": "https://open.spotify.com/album/5bot6sVmTvitGKuYJfNX53"
+      },
+      "artists": [
+        {
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Hot and Heavy",
+      "url": "https://open.spotify.com/track/4vyoGRV89S2iYtgbKG4RSw"
     },
     {
       "album": {
@@ -1146,7 +1236,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 359338,
       "name": "JOY",
       "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
@@ -1348,7 +1438,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 222000,
       "name": "LICEUM (SALA 27)",
       "url": "https://open.spotify.com/track/6MRatjwwFoJt07cK1bt6FW"
@@ -1460,10 +1550,28 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 221333,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/5VOhAoMnrJqSmDYU3uzpjj"
+    },
+    {
+      "album": {
+        "name": "maybe someday",
+        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "maybe someday",
+      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
     },
     {
       "album": {
@@ -1684,7 +1792,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 202419,
       "name": "Nie ma",
       "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
@@ -1756,7 +1864,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 160836,
       "name": "niem\u00f3wmi",
       "url": "https://open.spotify.com/track/7KSRgQPBOsuTi9SclLCQHc"
@@ -1818,7 +1926,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 176500,
       "name": "Nowhere to Go",
       "url": "https://open.spotify.com/track/6tjgcuQ0GVd8woWQHDBp5I"
@@ -1991,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Peccatum",
+        "url": "https://open.spotify.com/album/3sJ5DTKb39DwRXDqYu11EP"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159545,
+      "name": "Peccatum",
+      "url": "https://open.spotify.com/track/2qA1SscwLeJPC6qz4toLxq"
+    },
+    {
+      "album": {
         "name": "Pentimento",
         "url": "https://open.spotify.com/album/3on2CIIc8sGo68Q2d5Ne79"
       },
@@ -2046,7 +2172,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 203505,
       "name": "Piruet i salto",
       "url": "https://open.spotify.com/track/2ym23Le3ixHJoEnbtHeB3j"
@@ -2589,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Rozkosz",
+        "url": "https://open.spotify.com/album/3qr5MOBJoaEnG0iic6jegX"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184218,
+      "name": "Rozkosz",
+      "url": "https://open.spotify.com/track/4bymysBJGx0jxLDb47dVYO"
+    },
+    {
+      "album": {
         "name": "Dla nas dom",
         "url": "https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf"
       },
@@ -2814,7 +2958,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 193942,
       "name": "Spytaj mnie",
       "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
@@ -3299,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "wci\u0105\u017c pami\u0119tam o tobie.",
+        "url": "https://open.spotify.com/album/0ovG9QlD7ljXckbIhep6pQ"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172245,
+      "name": "wci\u0105\u017c pami\u0119tam o tobie.",
+      "url": "https://open.spotify.com/track/4Z1qMryDH9yO9n0ui1dgFl"
+    },
+    {
+      "album": {
         "name": "Post Dreams",
         "url": "https://open.spotify.com/album/0aAOa1NeG7gZwbGpIM47yF"
       },
@@ -3372,7 +3534,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 162666,
       "name": "Wi\u015bnie",
       "url": "https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp"
@@ -3430,7 +3592,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 118956,
       "name": "Wyruchaj Mi Cip\u0119",
       "url": "https://open.spotify.com/track/2aK05lGD2BMcJ6dMw0AU45"
@@ -3536,6 +3698,28 @@
       "duration_ms": 175609,
       "name": "Zesp\u00f3\u0142 Cotarda",
       "url": "https://open.spotify.com/track/4Rx8hrk2WIIu4mP73X8Ie0"
+    },
+    {
+      "album": {
+        "name": "POLO DANCE",
+        "url": "https://open.spotify.com/album/6tf0SMEWKiyDtr7zVx1Ju0"
+      },
+      "artists": [
+        {
+          "name": "ania cringe",
+          "url": "https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn"
+        },
+        {
+          "name": "Ma\u0142gola, No",
+          "url": "https://open.spotify.com/artist/0uzUmwzNGtiw8vzlUpWuRD"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310606,
+      "name": "zgrana para",
+      "url": "https://open.spotify.com/track/4IwN8QqdZZlpkddS2ITfdH"
     },
     {
       "album": {

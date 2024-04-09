@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 193988,
+  "2024-04-09": 194110,
   "date_first_scraped": "2022-05-26",
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
   "name": "Bossa Chill",
@@ -1099,6 +1099,24 @@
       "duration_ms": 173943,
       "name": "Cosme Velho",
       "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
+    },
+    {
+      "album": {
+        "name": "C\u00e9u Tropical",
+        "url": "https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215699,
+      "name": "C\u00e9u Tropical",
+      "url": "https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY"
     },
     {
       "album": {
@@ -2383,7 +2401,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 218106,
       "name": "Just My Type",
       "url": "https://open.spotify.com/track/6JMPmjsg9tWVKZ1KkEhwjo"

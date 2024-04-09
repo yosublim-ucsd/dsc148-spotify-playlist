@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: SD9, VND, Raflow
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,563 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,576 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [LEI DA RUA](https://open.spotify.com/track/6DlhQZ3WLULs9Zi8woAxak) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [CLUB DA DZ7](https://open.spotify.com/artist/0OYVtrqGQ97ub2QGLNbOql), [Meira](https://open.spotify.com/artist/3wHmZwMa7bEvmoq2nWlYoM) | [ESCOLA DE TURIM](https://open.spotify.com/album/29MsSRcK4wZ1vb5vapo59d) | 2:06 |
 | 75 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 
-Snapshot ID: `MCw4YTY5ZGU4ZGI5M2RhMzkwMmZkOGQ0Y2U2MGIzMDEzZWM3MjUyMzcy`
+Snapshot ID: `MCwzYzU5ZTY0OTc2ZjI5YTQ1ZTVjMTQzZGViYTJmMzQ4NTMyNmYxNGNi`

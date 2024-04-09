@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,854 likes - 94 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,041 likes - 94 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 93 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 3:58 |
 | 94 | [Modern Miracle](https://open.spotify.com/track/6FtqBfzpYGTFt7yQPIaOFg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Pure Grooves Vol\. 1](https://open.spotify.com/album/796eeTpFCvH90a7DweaaNq) | 3:08 |
 
-Snapshot ID: `MCw3NTljODc4OGRhYzllNTJjZTk1NWU1YjMyMjA3ZmRiOTNmMTk2ZDU3`
+Snapshot ID: `MCwyN2ZkM2Y4MTBiN2ZiZTZjYjQwMzUxZmZjZWVmMzM3OWIxYzNjMDVi`

@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8 (Special Edition)",
+        "url": "https://open.spotify.com/album/1zY5V7Y2Y0n0tbN3qSBPet"
+      },
+      "artists": [
+        {
+          "name": "Keyakizaka46",
+          "url": "https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273866,
+      "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/5WDKR3hzbHiXWgbMPyOcLk"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30a7\u30a4\u30af\u30ef\u30fc\u30eb\u30c9\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
         "url": "https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR"
       },

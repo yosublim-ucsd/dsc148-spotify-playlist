@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 151715,
+  "num_followers": 151759,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmIyYjcyNDhmMjRlY2UyMTFkNDM4YmY5YmVjNDdlMDZmYjMyNzFm",
+  "snapshot_id": "MCxiYjZmYTZiNjFjZDYxNzllNGQ2MjgzZDhhNzdjNDg3ZWZiODY1MDUx",
   "tracks": [
     {
       "added_at": "2024-03-01 11:54:01",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Stan Smith",
-        "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "Coco",
-          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Stan Smith",
-      "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Ready To Fly (Sub Focus & Dimension)",
         "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 204500,
       "name": "Ready To Fly - Sub Focus & Dimension",
       "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Stan Smith",
+        "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Stan Smith",
+      "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 182000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 242750,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Vibration (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
         "name": "Mash up the Dance (Kings of the Rollers Remix)",
         "url": "https://open.spotify.com/album/6FS0y1f1pL45RPIWr6kYl0"
       },
@@ -1063,6 +1083,22 @@
       "duration_ms": 177882,
       "name": "Mash up the Dance - Kings of the Rollers Remix",
       "url": "https://open.spotify.com/track/3hHgU7QO5ev5R6FZVsPsJZ"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1087,26 +1123,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 242760,
-      "name": "Vibration (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Baddest",
         "url": "https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 223008,
       "name": "Baddest",
       "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw"
-      },
-      "artists": [
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1261,6 +1261,22 @@
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Bad Gyalz",
+        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 159299,
+      "name": "Bad Gyalz",
+      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
+    },
+    {
       "added_at": "2024-03-22 00:01:00",
       "album": {
         "name": "Circus Four",
@@ -1283,22 +1299,6 @@
       "duration_ms": 231724,
       "name": "Bigger Than Bad",
       "url": "https://open.spotify.com/track/0e4ZPqNyRUywth2AtjMH0K"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
-        "name": "Bad Gyalz",
-        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 159299,
-      "name": "Bad Gyalz",
-      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
     },
     {
       "added_at": "2024-03-01 11:54:01",

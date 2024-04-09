@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 113043,
+  "2024-04-09": 113082,
   "date_first_scraped": "2021-12-28",
   "description": "Restorative piano and ambient music.",
   "name": "Detox",
@@ -1065,6 +1065,24 @@
       "duration_ms": 172423,
       "name": "Cuidada",
       "url": "https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM"
+    },
+    {
+      "album": {
+        "name": "Curiousity",
+        "url": "https://open.spotify.com/album/0YdloNcXRtehS3B9HYHLWd"
+      },
+      "artists": [
+        {
+          "name": "Warpzeit",
+          "url": "https://open.spotify.com/artist/3e9fK5PYMDiMgY0s1Am6iJ"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "Curiousity",
+      "url": "https://open.spotify.com/track/3I5RnTlsZ6qGd512wilesA"
     },
     {
       "album": {

@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 173186,
       "name": "7 M\u00e4dchen",
       "url": "https://open.spotify.com/track/13haVESplLXnO0ktYj1Xuu"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -4118,7 +4118,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -4344,7 +4344,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 133722,
       "name": "She Know What She Wanted - Jersey Club Remix Slowed",
       "url": "https://open.spotify.com/track/17j94KZ4XMNM599wComGDG"
@@ -4722,7 +4722,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 147731,
       "name": "Substanzen (feat. Aymen, Jiyo & ilo 7araga)",
       "url": "https://open.spotify.com/track/1EypcNrXUoHSv6siw5FNPi"
@@ -5036,10 +5036,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 191850,
       "name": "The West Side Remix",
       "url": "https://open.spotify.com/track/5I2tVobnVIxCYaF9r8hbzd"
+    },
+    {
+      "album": {
+        "name": "they/them (unzensierte version)",
+        "url": "https://open.spotify.com/album/2Jg23l6FqtTZMOCeEp2zYS"
+      },
+      "artists": [
+        {
+          "name": "Mortymp3",
+          "url": "https://open.spotify.com/artist/1Eqhkm1ofLD24BZWKOwdvR"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115519,
+      "name": "they/them - unzensierte version",
+      "url": "https://open.spotify.com/track/27XjbGziM7LRMp3lUbNYbs"
     },
     {
       "album": {
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 166998,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/13FraYFP1CPx0c726P5cF3"
@@ -5316,7 +5334,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 154365,
       "name": "Walou Diploma",
       "url": "https://open.spotify.com/track/27EXNwLk86McXpIr85kvjk"
@@ -5378,7 +5396,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"

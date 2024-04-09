@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,741 songs - 1 day 12 hr 6 min
+1,744 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,6 +637,7 @@
 | [From Dream to Dream](https://open.spotify.com/track/2e9FQGZnnl5Us52CDEssjZ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Abstract](https://open.spotify.com/album/6zXvhgdKBac71HBB0YFxgt) | 1:35 | 2022-01-20 |  |
 | [From The Horizon \- Cello Version](https://open.spotify.com/track/59DBSs0GXSGXas1CQrJY53) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soft Cello](https://open.spotify.com/album/2e8LTImP3X4WN7mQBAIRCO) | 1:03 | 2022-01-13 | 2024-02-13 |
 | [Fulfilled](https://open.spotify.com/track/4eND28NxSHuh3kAYDDrhPg) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Beautiful Shadows](https://open.spotify.com/album/64il19i2VgQx3ZRS7mT0mu) | 1:02 | 2022-07-25 |  |
+| [Full Heart](https://open.spotify.com/track/4ozLtSk1Vi2w5FeKAjvza8) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Full Heart](https://open.spotify.com/album/3z1FX27gcPZNbi68rlitPT) | 1:00 | 2024-04-08 |  |
 | [Full Moon](https://open.spotify.com/track/08CrvAo6Rvs3F4gXs21Wup) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Full Moon](https://open.spotify.com/album/024xRfR0DTka5rrHHhfxTQ) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Full Moon \- Strings Version](https://open.spotify.com/track/3pMZvANmqjz1tRrLyZSi1R) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Full Moon \(Strings Version\)](https://open.spotify.com/album/2xqHVQIFFG0yb3aqTnPbRf) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Full Moon In The Rain](https://open.spotify.com/track/772eagugA5zMnSGjwMDQR0) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Full Moon](https://open.spotify.com/album/024xRfR0DTka5rrHHhfxTQ) | 1:03 | 2024-02-09 | 2024-02-13 |
@@ -1253,6 +1254,7 @@
 | [Right Here Waiting](https://open.spotify.com/track/0R31w2qJto5KjMaEjNlA8j) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Short Stories](https://open.spotify.com/album/75A4ti6eIFrAAjEnkzpBLw) | 1:28 | 2024-01-29 |  |
 | [Rings](https://open.spotify.com/track/53hp4mu97NvYNg0cMz8nqq) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:02 | 2022-02-06 | 2024-01-30 |
 | [Ripples In Your Dreams](https://open.spotify.com/track/2wjnV1Aq1L4IxiptN4mWDv) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wanderings](https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp) | 1:02 | 2022-02-11 |  |
+| [Rise](https://open.spotify.com/track/6uu59jUqnnPRTh3XRKOx52) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Rise](https://open.spotify.com/album/2SNwuvlaNKQrDqdZzJI3kL) | 1:00 | 2024-04-08 |  |
 | [Rising of the Moon](https://open.spotify.com/track/7G1ytuw9UNt317srYJqRYc) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Beautiful Dreams](https://open.spotify.com/album/6Q8Qv4dPI9s1Fe5uKIbz3T) | 1:39 | 2022-01-20 |  |
 | [River Dreaming Again](https://open.spotify.com/track/1jumcuQob1Gj4zziQpYvDM) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Constant Glow](https://open.spotify.com/album/1GJvpTYe3wv4ZpjXwH1oUP) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Rivers](https://open.spotify.com/track/46S417G0xvadkFYteZQvpj) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |
@@ -1406,6 +1408,7 @@
 | [Spirit \- Cello Version](https://open.spotify.com/track/4QBFqswsm4Jb6KjbieVACR) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Spirit \(Cello Version\)](https://open.spotify.com/album/41IKM9tEI65IHMlUJkdfhD) | 1:00 | 2024-04-05 |  |
 | [Spiritual Sounds](https://open.spotify.com/track/0PSDMsMSzJ7695gjmc86RZ) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Autumn Rain](https://open.spotify.com/album/0JsMeQCTqpoV07HsE6QVC0) | 1:46 | 2022-01-20 |  |
 | [Spring Breeze](https://open.spotify.com/track/50Qj8udzdckL2mZmEksME5) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios, Vol\. 2](https://open.spotify.com/album/61EfeMvitQ0F6lSdE4ILT2) | 1:14 | 2024-01-29 |  |
+| [Spring Calm](https://open.spotify.com/track/5C2OmELc1ZYiR911w0nqGa) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Spring Calm](https://open.spotify.com/album/4OCPUSt17iYA7vzvs4Yuiw) | 1:00 | 2024-04-08 |  |
 | [Spring Meadows](https://open.spotify.com/track/6mdX2ewmW0gh1Rj9wBJqXf) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Seasons](https://open.spotify.com/album/336oLXBbHOoXUMlolO0knz) | 2:06 | 2022-01-12 | 2024-01-30 |
 | [Spring Sun](https://open.spotify.com/track/7uwwThNv4jACx8G2HBicP1) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
 | [Spring Warmth Again \- Cello Version](https://open.spotify.com/track/7MQhI8USlPbgNtamZs5SV7) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spring Warmth Again \(Cello Version\)](https://open.spotify.com/album/2UXnDLSHUF8Il2sKg23Wfl) | 1:00 | 2022-07-15 |  |

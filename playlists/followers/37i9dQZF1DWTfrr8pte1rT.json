@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 325889,
+  "2024-04-09": 325941,
   "date_first_scraped": "2021-12-21",
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
   "name": "Rocktronic",
@@ -1007,6 +1007,24 @@
       "duration_ms": 211013,
       "name": "Buried Beneath You",
       "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
+    },
+    {
+      "album": {
+        "name": "I WANT BLOOD / i want love",
+        "url": "https://open.spotify.com/album/4z172SKyhMOorillZtbIIZ"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133888,
+      "name": "BURNING RUBBER",
+      "url": "https://open.spotify.com/track/2zhW4Hb4JuQugffpsuVwKz"
     },
     {
       "album": {
@@ -6857,7 +6875,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"

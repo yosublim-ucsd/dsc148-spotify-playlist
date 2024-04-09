@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 
 > <a href="spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N">PAUZA</a>'s favorite tracks\. Updated regularly\. Curated by PAUZA\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,402 likes - 51 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,418 likes - 51 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 | 50 | [Lágrimas \- Havana Vibes Edit](https://open.spotify.com/track/0Du9Rs1VvtSp5alK7gxp2D) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Argentina](https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2) | [Lágrimas \(Feat\. Argentina\)](https://open.spotify.com/album/177yb1Pg2TGtIAO7pHzvPX) | 4:05 |
 | 51 | [Jamestown Riddim](https://open.spotify.com/track/2xCNLR4PjVb5mrrWfczrTK) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Jamestown Riddim](https://open.spotify.com/album/77JDS4EeZA1Jf3gmbDQoZt) | 3:00 |
 
-Snapshot ID: `MCwzYzMxZTNmYzU1NjVkYTVhZGIxZTBjNGIyY2ZlZDAxYjU3ODFlOTZm`
+Snapshot ID: `MCxlZjkyZTY4N2ZkYTE4NGNiYTAxZTI3NjRhMTFkNmQzNWFmMmI4YTc5`

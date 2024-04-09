@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDE5OGIyZWRhNjk1YjY0OTYxYmI2ODJhZGZkMzFiZjdlN2QwYmVl",
+  "snapshot_id": "MCw2ZjBmMmRkNmJiNzE4YzE5YmE3OTc1MzJmMTlkOTY1YmRkNTI1MDA5",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/78CHrctUDb2LjgFdInJwms"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 207430,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/5rJuxuT06npGq0ImHMGsOL"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 223400,
       "name": "Blame It On Eve",
       "url": "https://open.spotify.com/track/2Gb45i57zA76fV09OmQjGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/78CHrctUDb2LjgFdInJwms"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 207430,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Of A Ride",
-        "url": "https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Ready For Love",
-      "url": "https://open.spotify.com/track/3YSl4i3tefmSES68EHJNpV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milestones",
         "url": "https://open.spotify.com/album/6Luiw9GezMaBUeRVozcsxp"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 215388,
       "name": "Milestones",
       "url": "https://open.spotify.com/track/6aK4ecrJMw0hBnWxSGulxH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Ready For Love",
+      "url": "https://open.spotify.com/track/3YSl4i3tefmSES68EHJNpV"
     },
     {
       "added_at": null,
@@ -488,15 +488,15 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 190226,
-      "name": "Get On Down The Road",
-      "url": "https://open.spotify.com/track/0L4LJGIt2QkQOnA6ZtUZC8"
+      "duration_ms": 240000,
+      "name": "You're A Revhead",
+      "url": "https://open.spotify.com/track/5dj1SeeHuxrqOL77UrafQX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My Side Of The Street",
-        "url": "https://open.spotify.com/album/0OZoX1Vpoi1SSv64fLJcxF"
+        "name": "Get Loud",
+        "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 194334,
-      "name": "Hearts I Leave Behind",
-      "url": "https://open.spotify.com/track/0lkAvMfm03vdKGNLe3Bvas"
+      "duration_ms": 174160,
+      "name": "Number 34",
+      "url": "https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Loud",
-        "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
+        "name": "My Side Of The Street",
+        "url": "https://open.spotify.com/album/0OZoX1Vpoi1SSv64fLJcxF"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 174160,
-      "name": "Number 34",
-      "url": "https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls"
+      "duration_ms": 194334,
+      "name": "Hearts I Leave Behind",
+      "url": "https://open.spotify.com/track/0lkAvMfm03vdKGNLe3Bvas"
     },
     {
       "added_at": null,
@@ -556,25 +556,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 240000,
-      "name": "You're A Revhead",
-      "url": "https://open.spotify.com/track/5dj1SeeHuxrqOL77UrafQX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still The One",
-        "url": "https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Still The One",
-      "url": "https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu"
+      "duration_ms": 190226,
+      "name": "Get On Down The Road",
+      "url": "https://open.spotify.com/track/0L4LJGIt2QkQOnA6ZtUZC8"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 198289,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/45lasTnqrHd1t9SZ8s2SWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still The One",
+        "url": "https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Still The One",
+      "url": "https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Friends",
-        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Beating Around The Bush",
-      "url": "https://open.spotify.com/track/0Ul76B6hmCMTEAgjblo1Am"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get On Your Feet",
         "url": "https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 178518,
       "name": "Get On Your Feet",
       "url": "https://open.spotify.com/track/5YF7zeU2Op6MlUHQlzBf37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Friends",
+        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "You Are To Me",
+      "url": "https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Friends",
-        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "You Are To Me",
-      "url": "https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get On Your Feet",
         "url": "https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm"
       },
@@ -731,28 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Will Settle",
-        "url": "https://open.spotify.com/album/0f2rAOkhPHPsQUAwBYDUMo"
-      },
-      "artists": [
-        {
-          "name": "The Sunny Cowgirls",
-          "url": "https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO"
-        },
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/12qLBrLCpHD5ggV1HPJQbn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp"
+        "name": "Good Friends",
+        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
       },
       "artists": [
         {
@@ -760,9 +724,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 195416,
-      "name": "Little Less Lonely",
-      "url": "https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN"
+      "duration_ms": 199093,
+      "name": "Beating Around The Bush",
+      "url": "https://open.spotify.com/track/0Ul76B6hmCMTEAgjblo1Am"
     },
     {
       "added_at": null,
@@ -783,6 +747,42 @@
       "duration_ms": 218133,
       "name": "Love Away The Night - with Adam Brand",
       "url": "https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Little Less Lonely",
+      "url": "https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Will Settle",
+        "url": "https://open.spotify.com/album/0f2rAOkhPHPsQUAwBYDUMo"
+      },
+      "artists": [
+        {
+          "name": "The Sunny Cowgirls",
+          "url": "https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO"
+        },
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/12qLBrLCpHD5ggV1HPJQbn"
     },
     {
       "added_at": null,

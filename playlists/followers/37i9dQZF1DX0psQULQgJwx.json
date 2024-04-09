@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 161059,
+  "2024-04-09": 161153,
   "date_first_scraped": "2022-09-09",
   "description": "Lounge sounds for SPA",
   "name": "SPA Lounge",
@@ -129,6 +129,24 @@
       "duration_ms": 180000,
       "name": "Agoritsa",
       "url": "https://open.spotify.com/track/4lrHlM0lAZe1QlzNO23f2G"
+    },
+    {
+      "album": {
+        "name": "Agreement",
+        "url": "https://open.spotify.com/album/2YzjIDe9aM5tq75fApnyRs"
+      },
+      "artists": [
+        {
+          "name": "Zims Ele",
+          "url": "https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Agreement",
+      "url": "https://open.spotify.com/track/0hQN2kDFS4f1doAwUH91pL"
     },
     {
       "album": {
@@ -335,6 +353,24 @@
       "duration_ms": 148000,
       "name": "Back to Sinharaja",
       "url": "https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB"
+    },
+    {
+      "album": {
+        "name": "Blissful Breeze",
+        "url": "https://open.spotify.com/album/2BVKx1soGE44pXFTj2EXkn"
+      },
+      "artists": [
+        {
+          "name": "Aurora Novara",
+          "url": "https://open.spotify.com/artist/01Yy0uR2H9jYuImGLmMi70"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Blissful Breeze",
+      "url": "https://open.spotify.com/track/5mEstebX16SCW56WWnEluW"
     },
     {
       "album": {
@@ -698,6 +734,24 @@
     },
     {
       "album": {
+        "name": "Ethernal Bliss",
+        "url": "https://open.spotify.com/album/08XNqJbhshB27KCzV2n0xv"
+      },
+      "artists": [
+        {
+          "name": "Solace Sonique",
+          "url": "https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161920,
+      "name": "Ethernal Bliss",
+      "url": "https://open.spotify.com/track/46A4KIikyBvPeqHbbKCgYh"
+    },
+    {
+      "album": {
         "name": "Pan Flute Sessions 1",
         "url": "https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs"
       },
@@ -745,7 +799,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 343504,
       "name": "Fables",
       "url": "https://open.spotify.com/track/040LGJRwswUENGiwHYRuft"
@@ -875,6 +929,24 @@
       "duration_ms": 179400,
       "name": "Golden Day",
       "url": "https://open.spotify.com/track/7zpADkJtQQxS35VOsEoMFX"
+    },
+    {
+      "album": {
+        "name": "Golden Eagle",
+        "url": "https://open.spotify.com/album/0P1vuAjz1CnXkkUm3XnQDG"
+      },
+      "artists": [
+        {
+          "name": "Zoniacs",
+          "url": "https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Golden Eagle",
+      "url": "https://open.spotify.com/track/2u5OwJ67fLCp4w54EoOJJZ"
     },
     {
       "album": {
@@ -1040,6 +1112,42 @@
     },
     {
       "album": {
+        "name": "Inner Watchfulness",
+        "url": "https://open.spotify.com/album/7c77G020jR41fYML7UTU8g"
+      },
+      "artists": [
+        {
+          "name": "Max Moller",
+          "url": "https://open.spotify.com/artist/0gMFBXqBiYu46TA6G2fr1X"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Inner Watchfulness",
+      "url": "https://open.spotify.com/track/69pDGa7GUe2fStp3TlsLx5"
+    },
+    {
+      "album": {
+        "name": "Insheen",
+        "url": "https://open.spotify.com/album/3eUVidiYKxd8hIro6QGZgs"
+      },
+      "artists": [
+        {
+          "name": "Zen Sound Bath",
+          "url": "https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Insheen",
+      "url": "https://open.spotify.com/track/7lbUvHlNlJMaXPyXUplCzZ"
+    },
+    {
+      "album": {
         "name": "Intuitively",
         "url": "https://open.spotify.com/album/5MU3m3fvGCtiiR98hwMiLB"
       },
@@ -1055,6 +1163,24 @@
       "duration_ms": 177600,
       "name": "Intuitively",
       "url": "https://open.spotify.com/track/7Js2oijctTVG8KpEQaIe5I"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/15GShjofLiAv6f1vQOf4qt"
+      },
+      "artists": [
+        {
+          "name": "Aden Cloud",
+          "url": "https://open.spotify.com/artist/1X13YqlCwaDIj1uvC36gln"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178482,
+      "name": "Justice",
+      "url": "https://open.spotify.com/track/5TSyKEnThZBxS8n6T3O6yh"
     },
     {
       "album": {
@@ -1238,6 +1364,24 @@
     },
     {
       "album": {
+        "name": "Lotus Lullaby",
+        "url": "https://open.spotify.com/album/5x7tyjn5OiTSFSj5VkAoWE"
+      },
+      "artists": [
+        {
+          "name": "Zenith Lily",
+          "url": "https://open.spotify.com/artist/4gyUwZzCOf9gfF52Xi7eoY"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Lotus Lullaby",
+      "url": "https://open.spotify.com/track/6OTcN4tThtca8Twcxm3Vie"
+    },
+    {
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/2ojZqGU6hHCdc1WEmx4bX0"
       },
@@ -1325,6 +1469,24 @@
       "duration_ms": 131558,
       "name": "Meditation",
       "url": "https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA"
+    },
+    {
+      "album": {
+        "name": "\u00cdcaro",
+        "url": "https://open.spotify.com/album/1QC0Khis5UVsFZfZjcp5PK"
+      },
+      "artists": [
+        {
+          "name": "Huma",
+          "url": "https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Melted wax",
+      "url": "https://open.spotify.com/track/0gPYUajvYdFr8R56H0aHbS"
     },
     {
       "album": {
@@ -1598,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "Oasis of Stillness",
+        "url": "https://open.spotify.com/album/1sx8HA77okp1MVy45u6vkR"
+      },
+      "artists": [
+        {
+          "name": "Saga Lotus",
+          "url": "https://open.spotify.com/artist/5RwXzQeQAqiSEcXHxmhFn9"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Oasis of Stillness",
+      "url": "https://open.spotify.com/track/1CPN7WGamNNxLhZTJVlW89"
+    },
+    {
+      "album": {
         "name": "Spa Lounge",
         "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
       },
@@ -1832,6 +2012,42 @@
     },
     {
       "album": {
+        "name": "Rain Journey",
+        "url": "https://open.spotify.com/album/7nyqoIIzMo1JwYBBR12YGf"
+      },
+      "artists": [
+        {
+          "name": "Joan Abe",
+          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Rain Journey",
+      "url": "https://open.spotify.com/track/4vUj9kxhOGXpK7XC7jnwiN"
+    },
+    {
+      "album": {
+        "name": "Redstone",
+        "url": "https://open.spotify.com/album/1e4cgSHBl0JeG50WgtTSk4"
+      },
+      "artists": [
+        {
+          "name": "Trancistique",
+          "url": "https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Redstone",
+      "url": "https://open.spotify.com/track/5eVG7qWjtfXwSEX2JZOhMg"
+    },
+    {
+      "album": {
         "name": "Reincarnate",
         "url": "https://open.spotify.com/album/5LEAfPyqpnX104GDfHgsSi"
       },
@@ -1919,6 +2135,24 @@
       "duration_ms": 192899,
       "name": "Sacred Spirit",
       "url": "https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO"
+    },
+    {
+      "album": {
+        "name": "Seba's Bliss",
+        "url": "https://open.spotify.com/album/389EmXM1w7PqpXoKwiHAnI"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254693,
+      "name": "Seba's Bliss - Spa",
+      "url": "https://open.spotify.com/track/0Rk1uoJxJ4PuJVwNJsLrgF"
     },
     {
       "album": {
@@ -2138,6 +2372,24 @@
     },
     {
       "album": {
+        "name": "Spiritual Journey",
+        "url": "https://open.spotify.com/album/1wuH6jrN9Eug9dfVfzDAdr"
+      },
+      "artists": [
+        {
+          "name": "Kundalini Dreams",
+          "url": "https://open.spotify.com/artist/24OD7jZHofVutQwTUSL2mV"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144067,
+      "name": "Spiritual Journey",
+      "url": "https://open.spotify.com/track/60FBGb6CI6aLdjUcyglBgc"
+    },
+    {
+      "album": {
         "name": "Gimdalen",
         "url": "https://open.spotify.com/album/5KiyJPS3ZdCt1yCQh80pdE"
       },
@@ -2268,6 +2520,24 @@
     },
     {
       "album": {
+        "name": "The Top Of The Hill",
+        "url": "https://open.spotify.com/album/735tZY3cDh3qHbSgEK7YH2"
+      },
+      "artists": [
+        {
+          "name": "Sundo",
+          "url": "https://open.spotify.com/artist/6HOWuMMUjUyDYvcvokoW36"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "The Top Of The Hill",
+      "url": "https://open.spotify.com/track/6Fl3ztf7mfhMMDii6jJHa2"
+    },
+    {
+      "album": {
         "name": "This night",
         "url": "https://open.spotify.com/album/4wEvwj51552ftkdHoXQm1G"
       },
@@ -2301,6 +2571,46 @@
       "duration_ms": 209708,
       "name": "Through The Changes",
       "url": "https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl"
+    },
+    {
+      "album": {
+        "name": "Tundra",
+        "url": "https://open.spotify.com/album/6868zEzvl0w6JJUi2bIOux"
+      },
+      "artists": [
+        {
+          "name": "Intunement",
+          "url": "https://open.spotify.com/artist/4T9KclnNdDHCaeuc0k7pPN"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206323,
+      "name": "Tundra",
+      "url": "https://open.spotify.com/track/1DrJxZMTHzTtBfT6kW5xCE"
+    },
+    {
+      "album": {
+        "name": "un barco que tambien quiere estar en tierra",
+        "url": "https://open.spotify.com/album/0r4ckdcvxcYYRbvjYPOSeE"
+      },
+      "artists": [
+        {
+          "name": "disociado",
+          "url": "https://open.spotify.com/artist/4r5V1N4OD4fNd1aTOMjLPw"
+        },
+        {
+          "name": "tapei",
+          "url": "https://open.spotify.com/artist/6IJCzUQPa8OZTS14N55erm"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233684,
+      "name": "un barco que tambien quiere estar en tierra",
+      "url": "https://open.spotify.com/track/4p8l8Ns6Ak3nha6fNzSGWq"
     },
     {
       "album": {

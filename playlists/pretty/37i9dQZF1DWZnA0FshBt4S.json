@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 106309,
+  "num_followers": 106376,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2ExY2RkYjQ1MzgyMGRmYzAxYjk4NTBjYTc4MTM4Nzk1MGQ3OGEy",
+  "snapshot_id": "MCxmN2QzZjk4Y2FmNmZmNTUwYTZmZWQyMjRjYTQxNjdmZTQ4YTJhMWQ5",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "New Way To Be Human",
-        "url": "https://open.spotify.com/album/02kPSZyDPwxd0MSoBTsBME"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "Only Hope",
-      "url": "https://open.spotify.com/track/6pwhSBxhaF5x0WbNZRyzlD"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Essential Kirk Franklin",
         "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 305666,
       "name": "Stomp (Remix)",
       "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "New Way To Be Human",
+        "url": "https://open.spotify.com/album/02kPSZyDPwxd0MSoBTsBME"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 253106,
+      "name": "Only Hope",
+      "url": "https://open.spotify.com/track/6pwhSBxhaF5x0WbNZRyzlD"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 260613,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/60kuYvjy5UaEKELsHLxd2n"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Jars Of Clay",
         "url": "https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 286266,
       "name": "Love Song For A Savior",
       "url": "https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 260613,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/60kuYvjy5UaEKELsHLxd2n"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -591,38 +591,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "Sonicpraise",
-        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
-      },
-      "artists": [
-        {
-          "name": "Sonicflood",
-          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
-        }
-      ],
-      "duration_ms": 381600,
-      "name": "Lord I Lift Your Name on High",
-      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Supertones Strike Back, The",
         "url": "https://open.spotify.com/album/4m5KGlpqUtKNT4nrH1Wq8k"
       },
@@ -635,6 +603,22 @@
       "duration_ms": 161533,
       "name": "Supertones Strike Back",
       "url": "https://open.spotify.com/track/7aTrho0CMMab35UaanDEwu"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Sonicpraise",
+        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "Upbeats & Beatdowns",
         "url": "https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Hi Fi Revival",
+        "url": "https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR"
+      },
+      "artists": [
+        {
+          "name": "The O.C. Supertones",
+          "url": "https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE"
+        }
+      ],
+      "duration_ms": 163093,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "Genuine",
         "url": "https://open.spotify.com/album/3yurqtwBDlirDKcQt2pEMk"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 242493,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/050IFBYeEqDS4FavXJifoe"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "Hi Fi Revival",
-        "url": "https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR"
-      },
-      "artists": [
-        {
-          "name": "The O.C. Supertones",
-          "url": "https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE"
-        }
-      ],
-      "duration_ms": 163093,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Lay It Down",
+        "url": "https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Knapp",
+          "url": "https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "Free At Last (Live)",
         "url": "https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 210768,
       "name": "Butterfly - Seven Day Jesus Album Version",
       "url": "https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "Lay It Down",
-        "url": "https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Knapp",
-          "url": "https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Thrifty Mr. Kickstar",
-        "url": "https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ"
-      },
-      "artists": [
-        {
-          "name": "dryve",
-          "url": "https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4"
-        }
-      ],
-      "duration_ms": 406726,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Best Of Plumb",
         "url": "https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 246106,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Thrifty Mr. Kickstar",
+        "url": "https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ"
+      },
+      "artists": [
+        {
+          "name": "dryve",
+          "url": "https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4"
+        }
+      ],
+      "duration_ms": 406726,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Access:d - Live Worship In The Key Of D",
+        "url": "https://open.spotify.com/album/78xZy7Krg7f5kDiWh8QuBF"
+      },
+      "artists": [
+        {
+          "name": "Delirious?",
+          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
+        }
+      ],
+      "duration_ms": 259924,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/2CgWrGgBty31yIRLNTLxKq"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "The Waiting Room",
         "url": "https://open.spotify.com/album/2CZhEQJRXhfOxWMYnYKpE5"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 202333,
       "name": "Why Do I Do",
       "url": "https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "Access:d - Live Worship In The Key Of D",
-        "url": "https://open.spotify.com/album/78xZy7Krg7f5kDiWh8QuBF"
-      },
-      "artists": [
-        {
-          "name": "Delirious?",
-          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
-        }
-      ],
-      "duration_ms": 259924,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/2CgWrGgBty31yIRLNTLxKq"
     },
     {
       "added_at": "2023-02-01 04:53:20",

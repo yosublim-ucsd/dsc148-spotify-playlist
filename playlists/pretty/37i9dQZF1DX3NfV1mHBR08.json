@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14924,
+  "num_followers": 14926,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2JiODU3ODYzN2UzMzVlZTcwNDVmNmNmOTBmNjA3ZDNlZjAzNzdj",
+  "snapshot_id": "MCw4MGY4NDg2ZTMwZTEzNzMyYTU4NzMzMzUyMDUyZDhhZjIwMTBlYTYy",
   "tracks": [
     {
       "added_at": "2024-03-08 06:40:15",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
         "name": "Song Request (feat. SUGA of BTS)",
         "url": "https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi"
       },
@@ -219,6 +219,26 @@
       "duration_ms": 216000,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 217412,
+      "name": "Palette (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -255,6 +275,26 @@
       "duration_ms": 265586,
       "name": "To You My Light (feat. LEE RAON)",
       "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "OO",
+        "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 207492,
+      "name": "Complex (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -307,46 +347,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 217412,
-      "name": "Palette (feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
-        "name": "OO",
-        "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 207492,
-      "name": "Complex (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Kim Cheolsu Story",
         "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 248433,
       "name": "Kim Cheolsu Story",
       "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Trust Me (MIDZY)",
+        "url": "https://open.spotify.com/album/7EHXDcznIDHxNWTSPBf9Po"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 221638,
+      "name": "Trust Me (MIDZY)",
+      "url": "https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -379,18 +395,18 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Trust Me (MIDZY)",
-        "url": "https://open.spotify.com/album/7EHXDcznIDHxNWTSPBf9Po"
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 221638,
-      "name": "Trust Me (MIDZY)",
-      "url": "https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ"
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -467,22 +483,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 186173,
       "name": "Fix me",
       "url": "https://open.spotify.com/track/6bSkF997fC5HQz6BuEZkXV"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 258238,
+      "name": "Love poem",
+      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -535,22 +551,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Still the Same",
-        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
-      },
-      "artists": [
-        {
-          "name": "KYUL",
-          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
-        }
-      ],
-      "duration_ms": 148002,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 223693,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Still the Same",
+        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "duration_ms": 148002,
+      "name": "Still the Same",
+      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -595,22 +611,6 @@
       "duration_ms": 237520,
       "name": "Human",
       "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 258238,
-      "name": "Love poem",
-      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull"
+      },
+      "artists": [
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "\uc218\uace0\ud588\uc5b4, \uc624\ub298\ub3c4 Cheer Up",
+      "url": "https://open.spotify.com/track/74S870utHcrils7QiOw0Jh"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
         "name": "I Mean",
         "url": "https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 272144,
       "name": "Together",
       "url": "https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
-        "name": "28",
-        "url": "https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull"
-      },
-      "artists": [
-        {
-          "name": "OKDAL",
-          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "\uc218\uace0\ud588\uc5b4, \uc624\ub298\ub3c4 Cheer Up",
-      "url": "https://open.spotify.com/track/74S870utHcrils7QiOw0Jh"
     },
     {
       "added_at": "2024-03-08 06:40:15",

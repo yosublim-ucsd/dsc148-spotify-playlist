@@ -5795,6 +5795,24 @@
     },
     {
       "album": {
+        "name": "Born of Fire (Live)",
+        "url": "https://open.spotify.com/album/4IbhjwBe3BkFY8w5FMr6aF"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332930,
+      "name": "Don't Talk to Strangers - Live 1983",
+      "url": "https://open.spotify.com/track/6EjZBavlpEOTnqVSyT9vUN"
+    },
+    {
+      "album": {
         "name": "Don't Tell Me (feat. Ann Wilson) [PLZ Tethered Version]",
         "url": "https://open.spotify.com/album/5txXtUvhYlx6l7kgJsZeoU"
       },
@@ -9724,7 +9742,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 640287,
       "name": "Holy Diver - Live 1983",
       "url": "https://open.spotify.com/track/45fByU34ICfj1vbxgII7A6"

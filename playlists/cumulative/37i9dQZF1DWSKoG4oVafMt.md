@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-841 songs - 1 day 21 hr 41 min
+842 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [PROPOSE](https://open.spotify.com/track/4dGszjKyLhzqdZR07FK4m0) | [Ajam Khan](https://open.spotify.com/artist/19VOmXDeorD7vTiW3cQLNW), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Himanshi Khurana](https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3) | [PROPOSE](https://open.spotify.com/album/2zwsiN6jZADJ76BX9X28ZL) | 2:54 | 2022-02-02 | 2022-03-11 |
 | [Punjabiyan Di Dhee](https://open.spotify.com/track/541oF6e3e6P38aDIqQXxU7) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Punjabiyan Di Dhee](https://open.spotify.com/album/4Yv4GvvKhIyH9n83vczEdz) | 3:13 | 2022-03-03 | 2022-04-29 |
 | [Push K Dekhi](https://open.spotify.com/track/0y1DEvhc5BVrGwaRJxDUOP) | [KB Jatt](https://open.spotify.com/artist/06Dzu1H3Ny8F7gHJt5TkKJ) | [Push K Dekhi](https://open.spotify.com/album/4FwbqDE4VU746zF8eXtDdh) | 2:29 | 2022-04-29 | 2022-05-11 |
+| [Pyaar Ch Haan \(From "Furteela"\)](https://open.spotify.com/track/7n2WdcXkndxEHi2nE3issW) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Raj Fatehpur](https://open.spotify.com/artist/4c93VO4EasGejF0BHid3wi) | [Pyaar Ch Haan \(From "Furteela"\)](https://open.spotify.com/album/5bMEqJu0UDcxMzNEiHcS32) | 3:35 | 2024-04-08 |  |
 | [PYAAR DIYA GALLAN](https://open.spotify.com/track/7LWWWB3Ht5L3bW9JpqMwCI) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 2:28 | 2023-01-09 | 2024-03-27 |
 | [Pyar Karda \- From "Lover"](https://open.spotify.com/track/3Y5h0lvg9eYqkw8VFtddr8) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Pyar Karda \(From "Lover"\)](https://open.spotify.com/album/0guW2lry5P9J01EV23mwKQ) | 3:31 | 2022-05-31 | 2023-02-04 |
 | [Pyar Mukk Gae Ne](https://open.spotify.com/track/5C6a9TGQiJ5nRRytp9SF3c) | [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ) | [Criminal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18pJOgcR7zbwhPG4PYeN0i) | 3:03 | 2023-01-12 | 2023-01-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 207789,
+  "num_followers": 207875,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDI0NGQ3YjhmOTE2MGVlNjhhNjBjZmFmNDE2NjNjMTA3M2QxOWUz",
+  "snapshot_id": "MCw0ZjU3NTM4YmM2MzRiMGRkYjU4MmQ2NDdmNTlmM2JjN2Y2M2IxMmNk",
   "tracks": [
     {
       "added_at": "2024-03-01 12:22:09",
@@ -413,24 +413,24 @@
       "url": "https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP"
     },
     {
-      "added_at": "2024-03-01 12:22:09",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "132.00FM",
-        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
+        "name": "Wild (bullet tooth Remix)",
+        "url": "https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
         },
         {
-          "name": "Cecelia",
-          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
         }
       ],
-      "duration_ms": 232727,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
+      "duration_ms": 178000,
+      "name": "Wild - bullet tooth Remix",
+      "url": "https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE"
     },
     {
       "added_at": "2024-03-01 12:22:09",
@@ -453,24 +453,24 @@
       "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
+      "added_at": "2024-03-01 12:22:09",
       "album": {
-        "name": "Wild (bullet tooth Remix)",
-        "url": "https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR"
+        "name": "132.00FM",
+        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
       },
       "artists": [
         {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         },
         {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Wild - bullet tooth Remix",
-      "url": "https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE"
+      "duration_ms": 232727,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
     },
     {
       "added_at": "2024-03-01 12:22:09",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-01 12:22:09",
       "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
-    },
-    {
-      "added_at": "2024-03-01 12:22:09",
-      "album": {
         "name": "Faith In Chaos",
         "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 137910,
       "name": "Badman Riddim (feat. Sweetie Irie)",
       "url": "https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE"
+    },
+    {
+      "added_at": "2024-03-01 12:22:09",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
     },
     {
       "added_at": "2024-03-01 12:22:09",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-01 12:22:09",
       "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
+    },
+    {
+      "added_at": "2024-03-01 12:22:09",
+      "album": {
         "name": "Pressure Drop",
         "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 198372,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
-    },
-    {
-      "added_at": "2024-03-01 12:22:09",
-      "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-03-01 12:22:09",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
-    },
-    {
-      "added_at": "2024-03-01 12:22:09",
-      "album": {
         "name": "One Ting",
         "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2024-03-01 12:22:09",
       "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+    },
+    {
+      "added_at": "2024-03-01 12:22:09",
+      "album": {
         "name": "Want (ur body)",
         "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
       },
@@ -1123,26 +1123,6 @@
       "duration_ms": 274672,
       "name": "Want (ur body)",
       "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
-      },
-      "artists": [
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 182192,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
     },
     {
       "added_at": "2024-03-01 12:22:09",
@@ -1187,22 +1167,6 @@
     {
       "added_at": "2024-03-01 12:22:09",
       "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2024-03-01 12:22:09",
-      "album": {
         "name": "P.S Remix (2023)",
         "url": "https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft"
       },
@@ -1219,6 +1183,42 @@
       "duration_ms": 204000,
       "name": "P.S 2023 (Bassline Remix)",
       "url": "https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
+    },
+    {
+      "added_at": "2024-03-01 12:22:09",
+      "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
     },
     {
       "added_at": "2024-03-01 12:22:09",
@@ -1337,6 +1337,26 @@
       "url": "https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j"
     },
     {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Dapper",
+        "url": "https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        },
+        {
+          "name": "Cleva Thoughts",
+          "url": "https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Dapper",
+      "url": "https://open.spotify.com/track/3OzAvvApHy9PT6oHcYMRYG"
+    },
+    {
       "added_at": "2024-03-01 12:22:09",
       "album": {
         "name": "Inside",
@@ -1351,26 +1371,6 @@
       "duration_ms": 252000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
-    },
-    {
-      "added_at": "2024-03-01 12:22:09",
-      "album": {
-        "name": "Wavelord Bizniz",
-        "url": "https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK"
-      },
-      "artists": [
-        {
-          "name": "Samurai Breaks",
-          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
-        },
-        {
-          "name": "Napes",
-          "url": "https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5"
-        }
-      ],
-      "duration_ms": 280656,
-      "name": "Wavelord Bizniz",
-      "url": "https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w"
     }
   ],
   "unique_name": "Bassline Bangers",

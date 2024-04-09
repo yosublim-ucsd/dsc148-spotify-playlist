@@ -1,12 +1,12 @@
 {
   "description": "This is ClariS. The essential tracks, all in one playlist.",
-  "num_followers": 18879,
+  "num_followers": 18887,
   "original_name": "This Is ClariS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGQ5Nzg0MDU1OTk1ZDU0OTg0NzQwMmJiMzQ3M2ZkZTNiYzVlNWFm",
+  "snapshot_id": "MCwwMmYxMDlmN2RmMmFmYzIxYmI2NGQxMzg0ZmZmYzNhZGYyYjU4YWUz",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ClariS 10th Anniversary BEST - Green Star -",
-        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "\u30a2\u30ea\u30b7\u30a2",
-      "url": "https://open.spotify.com/track/48bApuUSPxV0TY1CeBXFfe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 237730,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "\u30a2\u30ea\u30b7\u30a2",
+      "url": "https://open.spotify.com/track/48bApuUSPxV0TY1CeBXFfe"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ClariS 10th Anniversary BEST - Green Star -",
-        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+        "name": "SUMMER TRACKS \uff0d\u590f\u306e\u3046\u305f\uff0d",
+        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 267626,
-      "name": "PRECIOUS",
-      "url": "https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX"
+      "duration_ms": 159520,
+      "name": "\u604b\u306e\u30d0\u30ab\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUMMER TRACKS \uff0d\u590f\u306e\u3046\u305f\uff0d",
-        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 159520,
-      "name": "\u604b\u306e\u30d0\u30ab\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud"
+      "duration_ms": 267626,
+      "name": "PRECIOUS",
+      "url": "https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 222026,
-      "name": "\u5e7b\u60f3\u604b\u6155",
-      "url": "https://open.spotify.com/track/5JffCaDZNpGZkFU1mpiKoB"
+      "duration_ms": 214706,
+      "name": "\u541b\u8272",
+      "url": "https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "\u5fd8\u308c\u3066\u3082\u3044\u3044\u3088",
-      "url": "https://open.spotify.com/track/4BbNUcHFb4ijbX1RYFDaU7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUMMER TRACKS \uff0d\u590f\u306e\u3046\u305f\uff0d",
         "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "\u5fd8\u308c\u3066\u3082\u3044\u3044\u3088",
+      "url": "https://open.spotify.com/track/4BbNUcHFb4ijbX1RYFDaU7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u3075\u3049\u308a\u3089",
         "url": "https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi"
       },
@@ -696,25 +696,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 214706,
-      "name": "\u541b\u8272",
-      "url": "https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parfaitone",
-        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 254960,
-      "name": "Summer Delay",
-      "url": "https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J"
+      "duration_ms": 222026,
+      "name": "\u5e7b\u60f3\u604b\u6155",
+      "url": "https://open.spotify.com/track/5JffCaDZNpGZkFU1mpiKoB"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
       "duration_ms": 266670,
       "name": "\u6dcb\u3057\u3044\u71b1\u5e2f\u9b5a",
       "url": "https://open.spotify.com/track/1oNBmN9FfWYE94BRiIGeBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parfaitone",
+        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "Summer Delay",
+      "url": "https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J"
     },
     {
       "added_at": null,

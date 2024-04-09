@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to women at full volume Cover: Chanel Loren
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,019 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,015 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Drippin' In Gold](https://open.spotify.com/track/1qjXbbbg4rWMSkmWyd5jJ3) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Drippin' In Gold](https://open.spotify.com/album/5vShPFSrmP15OQbs3BLi3O) | 2:55 |
 | 100 | [This Generation Sucks](https://open.spotify.com/track/4NVNnpHWcw5AErkebQpz9j) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [This Generation Sucks](https://open.spotify.com/album/7wMxSUbeSMNnGQGhYo8fYV) | 2:58 |
 
-Snapshot ID: `MCxlODViNmFhMWNkYjJiNjNmZDQxNzU0ZGQ4ZjNmNDUwMmMzNjc0NWQ1`
+Snapshot ID: `MCw4MjY5MjQwMmJiNmI1ZmM2MDI4ZTdiMDFiZTEzNDViYjhiYTAzMzI0`

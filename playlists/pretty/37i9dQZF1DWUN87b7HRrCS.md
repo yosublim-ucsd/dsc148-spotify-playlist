@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN87b7HRrCS.md) - [plain]
 
 > Soft and cozy sounds of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,169 likes - 104 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,224 likes - 104 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN87b7HRrCS.md) - [plain]
 | 103 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 |
 | 104 | [Ondas Cintilantes](https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Ondas Cintilantes](https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A) | 2:58 |
 
-Snapshot ID: `MCwwMGQ2YjI3NGM5NmZjNzhiN2IyOWIwNDJjZGZjMzY2YzM1Y2M5MjQ4`
+Snapshot ID: `MCxmOGU5NWZhYWJmMGE1N2IzNjRjZDlkYTZjOTliMTVlOGU5NWJjMzE4`

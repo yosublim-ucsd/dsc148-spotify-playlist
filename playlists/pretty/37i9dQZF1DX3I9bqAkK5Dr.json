@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
-  "num_followers": 32303,
+  "num_followers": 32307,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjFkOGEyNzdkYjM5MGIwNDEzYjk0YTcyM2JhMTg5NzBjNGYwMWJm",
+  "snapshot_id": "MCxjZmZiZGFhNGRmYjcxZjVmM2Y1OGQ5YTk4ZGFhZjE4NWEyZmU1OGM5",
   "tracks": [
     {
       "added_at": "2024-02-19 08:51:27",
@@ -47,6 +47,26 @@
       "duration_ms": 209400,
       "name": "O Seliya",
       "url": "https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c"
+    },
+    {
+      "added_at": "2024-04-08 07:18:37",
+      "album": {
+        "name": "Kaalaale",
+        "url": "https://open.spotify.com/album/7zuoO7Uhrb8ALzLT9bRlp0"
+      },
+      "artists": [
+        {
+          "name": "Phani Kalyan",
+          "url": "https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0"
+        },
+        {
+          "name": "Jyoti Kavi",
+          "url": "https://open.spotify.com/artist/7HeMDT4UyuKc3NNQBvpZnN"
+        }
+      ],
+      "duration_ms": 218380,
+      "name": "Kaalaale",
+      "url": "https://open.spotify.com/track/51u6ywNUr5EhTpBfllwrSN"
     },
     {
       "added_at": "2024-04-01 14:02:16",
@@ -127,30 +147,6 @@
       "duration_ms": 288162,
       "name": "Nanna",
       "url": "https://open.spotify.com/track/3sg1o6wwTvZ8osPnMyHNNw"
-    },
-    {
-      "added_at": "2024-02-26 13:04:20",
-      "album": {
-        "name": "Chusuko",
-        "url": "https://open.spotify.com/album/6d2U54GVNlx9Utip7qyE7F"
-      },
-      "artists": [
-        {
-          "name": "Anvesh Rao Kagitala",
-          "url": "https://open.spotify.com/artist/3D6RCMROowyiD8tHKdKpOn"
-        },
-        {
-          "name": "Yasaswi Kondepudi",
-          "url": "https://open.spotify.com/artist/3ceCS03lkWe0Zlxe2r22mj"
-        },
-        {
-          "name": "Harini Ivaturi",
-          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
-        }
-      ],
-      "duration_ms": 239423,
-      "name": "Chusuko",
-      "url": "https://open.spotify.com/track/0Naz1VxWjkVV5qcLrtiDGy"
     },
     {
       "added_at": "2024-03-26 07:23:33",

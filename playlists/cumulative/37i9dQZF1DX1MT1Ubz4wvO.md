@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Pony Bravo en portada.
 
-2,499 songs - 6 day 1 hr 33 min
+2,500 songs - 6 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Chez Toi](https://open.spotify.com/track/69VjPausWbwW7f2ytRdULI) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Chez Toi](https://open.spotify.com/album/7en4PuHhcFXFYrYJ2xflY2) | 4:41 | 2023-06-23 | 2023-07-08 |
 | [Chica cadáver](https://open.spotify.com/track/2YyBpGYK158dPmbzkv1oXe) | [Los Yolos](https://open.spotify.com/artist/6Q1inMUu76E70DvimdPQ2P) | [Chica cadáver](https://open.spotify.com/album/6VAsqzNTrQ45ssMEzG81Hz) | 4:46 | 2023-07-28 | 2023-08-12 |
 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 | 2023-09-01 | 2023-09-16 |
+| [Chichén Itzá](https://open.spotify.com/track/0PWfRHKBoBk3RhbT9CRt68) | [Pony Bravo](https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF) | [Trópico](https://open.spotify.com/album/7D23DUOpEAsO4vQybRZaKi) | 3:42 | 2024-04-08 |  |
 | [Chinga Tu Padre](https://open.spotify.com/track/2lxtpW8aRd6UC57FJhjN4u) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS) | [Chinga Tu Padre](https://open.spotify.com/album/2y5ItRFqCN6TT9C8QlbB6Q) | 3:00 | 2022-10-14 | 2022-10-29 |
 | [Chinos Ojos Rojos](https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T) | 4:15 | 2023-06-30 | 2023-07-15 |
 | [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 | 2023-06-30 | 2023-07-04 |
@@ -453,7 +454,7 @@
 | [Corre](https://open.spotify.com/track/28Ou5U7q1kjUSukE7jGKZL) | [Rock & Roll Magnus](https://open.spotify.com/artist/6chpTOXnacf0tzE8WIYVb9) | [Corre](https://open.spotify.com/album/3xju0OJjHj74eT75vVSwxq) | 3:12 | 2023-08-11 | 2023-08-26 |
 | [Correr](https://open.spotify.com/track/1x004egyayORlLkYuLYSAW) | [Anitnegra](https://open.spotify.com/artist/4QeiX6gJFtuLNcjog72pPk) | [Correr](https://open.spotify.com/album/4nRuGBfovUZfEFU42WVbiy) | 3:13 | 2023-08-11 | 2023-08-26 |
 | [Cosas](https://open.spotify.com/track/41ZarrjvIOafMNeqE1qVSH) | [Sandré](https://open.spotify.com/artist/5jO693ntO8nc5utL8HpE4H) | [Gestiones Fáciles](https://open.spotify.com/album/4HF3B06HiS1P9vb9PxdGe6) | 3:15 | 2022-11-25 | 2022-12-17 |
-| [Cosas de la edad \- Aniversario](https://open.spotify.com/track/7DGblEJrq5Lkd7Ml5YOQMq) | [Modestia Aparte](https://open.spotify.com/artist/6yPTzaskdKAAlLMdnw9IkM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR), [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [Cosas de la edad \(Aniversario\)](https://open.spotify.com/album/1K4fZ8pX7hvMj2FOQx1KsS) | 2:27 | 2024-03-29 |  |
+| [Cosas de la edad \- Aniversario](https://open.spotify.com/track/7DGblEJrq5Lkd7Ml5YOQMq) | [Modestia Aparte](https://open.spotify.com/artist/6yPTzaskdKAAlLMdnw9IkM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR), [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [Cosas de la edad \(Aniversario\)](https://open.spotify.com/album/1K4fZ8pX7hvMj2FOQx1KsS) | 2:27 | 2024-03-29 | 2024-04-09 |
 | [Cosas de la Vida](https://open.spotify.com/track/69ehDM2B7rSqIXVr3r5BIb) | [Voodoo Zombie](https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X) | [Cosas de la Vida](https://open.spotify.com/album/224aivhc1LLFxfMNJOWozx) | 4:04 | 2023-10-06 | 2023-10-21 |
 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 | 2022-08-12 | 2022-09-03 |
 | [Cosas que \(no\) importan](https://open.spotify.com/track/3Z5WDFy8sp3AsDMkMQTUIc) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [Cosas que \(no\) importan](https://open.spotify.com/album/3UbdkX6YVUolyOAh26kdct) | 2:16 | 2023-12-01 | 2023-12-16 |

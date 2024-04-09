@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Vinka",
-  "num_followers": 2491,
+  "num_followers": 2513,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWI2MTczMGQ2NjRmYTIzMGMxYTdlNDg1NjRhZjRmMTc0YzQ0ZTlj",
+  "snapshot_id": "MCxlOWM3N2M1MzFhMmY0YTc4MDY2YTJlMjRjMjRkOGZjYzM0ZGQ0MTJi",
   "tracks": [
     {
       "added_at": "2024-04-05 07:40:46",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-04-05 07:40:46",
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/7t4A3s2p3zolibFnDwx1xY"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 184950,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/5Kl68dPoUw00u2RvXLYFnn"
+    },
+    {
+      "added_at": "2024-04-05 07:40:46",
+      "album": {
         "name": "Bwepaba",
         "url": "https://open.spotify.com/album/3KTcQeURSAxN6ubdoh9QKa"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 172871,
       "name": "Bwepaba",
       "url": "https://open.spotify.com/track/5zxBCElTKxOF2FptuZBjDt"
-    },
-    {
-      "added_at": "2024-04-05 07:40:46",
-      "album": {
-        "name": "Nkujjukira",
-        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Nkujjukira",
-      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -199,18 +199,18 @@
     {
       "added_at": "2024-04-05 07:40:46",
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/7t4A3s2p3zolibFnDwx1xY"
+        "name": "Nkujjukira",
+        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
       },
       "artists": [
         {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
         }
       ],
-      "duration_ms": 184950,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/5Kl68dPoUw00u2RvXLYFnn"
+      "duration_ms": 185217,
+      "name": "Nkujjukira",
+      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -227,38 +227,6 @@
       "duration_ms": 167816,
       "name": "Namulabako",
       "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
-    },
-    {
-      "added_at": "2024-04-05 07:40:46",
-      "album": {
-        "name": "Toxic Love",
-        "url": "https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 139166,
-      "name": "Toxic Love",
-      "url": "https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU"
-    },
-    {
-      "added_at": "2024-04-05 07:40:46",
-      "album": {
-        "name": "Wakikuba",
-        "url": "https://open.spotify.com/album/0WTiRdax3GmbI0EpPgccUq"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Wakikuba",
-      "url": "https://open.spotify.com/track/4qBvBJ1HcZN4PYJV0Z1pEF"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -347,22 +315,18 @@
     {
       "added_at": "2024-04-05 07:40:46",
       "album": {
-        "name": "Ability",
-        "url": "https://open.spotify.com/album/7snzcqObYYgEgCzXPXCjqe"
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK"
       },
       "artists": [
         {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
         }
       ],
-      "duration_ms": 174706,
-      "name": "Ability",
-      "url": "https://open.spotify.com/track/2WfykADENkOGFjTxL8I5Cs"
+      "duration_ms": 139166,
+      "name": "Toxic Love",
+      "url": "https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -387,6 +351,26 @@
     {
       "added_at": "2024-04-05 07:40:46",
       "album": {
+        "name": "Ability",
+        "url": "https://open.spotify.com/album/7snzcqObYYgEgCzXPXCjqe"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Ability",
+      "url": "https://open.spotify.com/track/2WfykADENkOGFjTxL8I5Cs"
+    },
+    {
+      "added_at": "2024-04-05 07:40:46",
+      "album": {
         "name": "Captain",
         "url": "https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE"
       },
@@ -403,6 +387,42 @@
       "duration_ms": 132857,
       "name": "Captain",
       "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
+    },
+    {
+      "added_at": "2024-04-05 07:40:46",
+      "album": {
+        "name": "Wakikuba",
+        "url": "https://open.spotify.com/album/0WTiRdax3GmbI0EpPgccUq"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Wakikuba",
+      "url": "https://open.spotify.com/track/4qBvBJ1HcZN4PYJV0Z1pEF"
+    },
+    {
+      "added_at": "2024-04-05 07:40:46",
+      "album": {
+        "name": "No Lie",
+        "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -455,26 +475,6 @@
       "duration_ms": 230500,
       "name": "SHE WAAN",
       "url": "https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8"
-    },
-    {
-      "added_at": "2024-04-05 07:40:46",
-      "album": {
-        "name": "No Lie",
-        "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "No Lie",
-      "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -551,6 +551,26 @@
       "duration_ms": 185939,
       "name": "Bwereere",
       "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
+    },
+    {
+      "added_at": "2024-04-05 07:40:46",
+      "album": {
+        "name": "Salary",
+        "url": "https://open.spotify.com/album/2hseTT6MxZLw9PiuqwHoDQ"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        },
+        {
+          "name": "Selecta Jeff",
+          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Salary",
+      "url": "https://open.spotify.com/track/2Oz0WCiNMXnAtPbBf5Uzy9"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -667,22 +687,6 @@
     {
       "added_at": "2024-04-05 07:40:46",
       "album": {
-        "name": "Omwenge",
-        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "Omwenge",
-      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
-    },
-    {
-      "added_at": "2024-04-05 07:40:46",
-      "album": {
         "name": "Found You",
         "url": "https://open.spotify.com/album/30EZO4mzKiVCNOwKwIz5zx"
       },
@@ -699,6 +703,38 @@
       "duration_ms": 225473,
       "name": "Found You",
       "url": "https://open.spotify.com/track/06LtEowrZCsWiV2N2iScwJ"
+    },
+    {
+      "added_at": "2024-04-05 07:40:46",
+      "album": {
+        "name": "Omwenge",
+        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "Omwenge",
+      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
+    },
+    {
+      "added_at": "2024-04-05 07:40:46",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 191691,
+      "name": "Practical",
+      "url": "https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -723,18 +759,22 @@
     {
       "added_at": "2024-04-05 07:40:46",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL"
+        "name": "Gukuba",
+        "url": "https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "Nandor Love",
+          "url": "https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6"
+        },
+        {
+          "name": "Vyroota",
+          "url": "https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R"
         }
       ],
-      "duration_ms": 191691,
-      "name": "Practical",
-      "url": "https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8"
+      "duration_ms": 172965,
+      "name": "Gukuba",
+      "url": "https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -763,22 +803,22 @@
     {
       "added_at": "2024-04-05 07:40:46",
       "album": {
-        "name": "Gukuba",
-        "url": "https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z"
+        "name": "Fertilizer",
+        "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
       },
       "artists": [
         {
-          "name": "Nandor Love",
-          "url": "https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6"
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
         },
         {
-          "name": "Vyroota",
-          "url": "https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R"
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
         }
       ],
-      "duration_ms": 172965,
-      "name": "Gukuba",
-      "url": "https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx"
+      "duration_ms": 175072,
+      "name": "Fertilizer",
+      "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -799,26 +839,6 @@
       "duration_ms": 178750,
       "name": "Not Safe in the West",
       "url": "https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR"
-    },
-    {
-      "added_at": "2024-04-05 07:40:46",
-      "album": {
-        "name": "Fertilizer",
-        "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Fertilizer",
-      "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -871,22 +891,18 @@
     {
       "added_at": "2024-04-05 07:40:46",
       "album": {
-        "name": "Salary",
-        "url": "https://open.spotify.com/album/2hseTT6MxZLw9PiuqwHoDQ"
+        "name": "Muleleetu",
+        "url": "https://open.spotify.com/album/5sSTTcNNCE1SUVmp0sQ13D"
       },
       "artists": [
         {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        },
-        {
-          "name": "Selecta Jeff",
-          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         }
       ],
-      "duration_ms": 169200,
-      "name": "Salary",
-      "url": "https://open.spotify.com/track/2Oz0WCiNMXnAtPbBf5Uzy9"
+      "duration_ms": 158093,
+      "name": "Muleleetu",
+      "url": "https://open.spotify.com/track/15KycmRRSpjaczTTgwowex"
     },
     {
       "added_at": "2024-04-05 07:40:46",
@@ -927,22 +943,6 @@
       "duration_ms": 210279,
       "name": "Type Of Girl",
       "url": "https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ"
-    },
-    {
-      "added_at": "2024-04-05 07:40:46",
-      "album": {
-        "name": "Leega",
-        "url": "https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        }
-      ],
-      "duration_ms": 216398,
-      "name": "Leega",
-      "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
     },
     {
       "added_at": "2024-04-05 07:40:46",

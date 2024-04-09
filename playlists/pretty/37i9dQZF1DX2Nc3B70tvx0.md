@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,125,698 likes - 116 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,125,748 likes - 116 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 115 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
 | 116 | [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 |
 
-Snapshot ID: `MCw5MmFhZjRhODExOTc0ZDEwMTM0ZTEwMzI2OGViYmE5YjI3MTM5ZTA4`
+Snapshot ID: `MCw2YmRiMTY5MWZlNzUxNTRjZTgzZTdkOGM4NThmOTc2NjQxZDk3ZmU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Kraantje Pappie
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,039 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,046 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 8 | [Soms gaat de tijd zo snel](https://open.spotify.com/track/3o20NBEBiwh7xB5ByLHzNh) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Soms gaat de tijd zo snel](https://open.spotify.com/album/2anvye5Ul8HSsufVusk8zQ) | 2:55 |
 | 9 | [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 |
 | 10 | [Stick To Your Ways](https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Dromers Slapen Niet](https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD) | 2:22 |
-| 11 | [Wees Niet Bang](https://open.spotify.com/track/7jkWQ2e92jOyjjhj2ZwVem) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Wees Niet Bang](https://open.spotify.com/album/3wT5djJDPFupycW30g3lob) | 3:22 |
-| 12 | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc) | 3:27 |
-| 13 | [Voor Wat Je Lief Is](https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 3:06 |
-| 14 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
-| 15 | [Hoe Zou Het Zijn](https://open.spotify.com/track/1Ozx074E5K8p5QNoIgKnrt) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Hoe Zou Het Zijn](https://open.spotify.com/album/2ALYBOS62AwjwUTxPuQZtN) | 2:20 |
-| 16 | [Laatste Trein](https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Laatste Trein](https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG) | 2:48 |
-| 17 | [Liever Dan Lief](https://open.spotify.com/track/45tt651zCvMR0Lq2xABBBo) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Liever Dan Lief](https://open.spotify.com/album/2xBlCsxpTu5BjIToy8GeWI) | 3:26 |
+| 11 | [Liever Dan Lief](https://open.spotify.com/track/45tt651zCvMR0Lq2xABBBo) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Liever Dan Lief](https://open.spotify.com/album/2xBlCsxpTu5BjIToy8GeWI) | 3:26 |
+| 12 | [Wees Niet Bang](https://open.spotify.com/track/7jkWQ2e92jOyjjhj2ZwVem) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Wees Niet Bang](https://open.spotify.com/album/3wT5djJDPFupycW30g3lob) | 3:22 |
+| 13 | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc) | 3:27 |
+| 14 | [Voor Wat Je Lief Is](https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 3:06 |
+| 15 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
+| 16 | [Hoe Zou Het Zijn](https://open.spotify.com/track/1Ozx074E5K8p5QNoIgKnrt) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Hoe Zou Het Zijn](https://open.spotify.com/album/2ALYBOS62AwjwUTxPuQZtN) | 2:20 |
+| 17 | [Laatste Trein](https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Laatste Trein](https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG) | 2:48 |
 | 18 | [Een Beatle & Een Stone](https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Achtentwintig \(Deluxe\)](https://open.spotify.com/album/1PbjgkZJbYSo6x9XrSQ6kq) | 3:10 |
 | 19 | [Ga En Groei](https://open.spotify.com/track/1sPY1rVNG2eMZRmFBDgHGr) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ga En Groei](https://open.spotify.com/album/1hKX2VOb6eNcKk9jNAhuqA) | 2:45 |
 | 20 | [Blik Op Jou](https://open.spotify.com/track/6n7MvjxLnE0EYNVDn5kh6c) | [Jada Borsato](https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE) | [Blik Op Jou](https://open.spotify.com/album/2eszVV2AEnzsQX5cPnKA15) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Wat Als De Storm Komt](https://open.spotify.com/track/1gEBvpvyyQmDeG6Lpo7cwN) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW), [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Wat Als De Storm Komt](https://open.spotify.com/album/2lLQEEFu8bzGmhqpYQ3F8Q) | 3:03 |
 | 60 | [Dezelfde Maan](https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Dezelfde Maan](https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR) | 3:05 |
 
-Snapshot ID: `MCw2OTYwMTM3YmEzODgwMjkzMzRlM2VkZTk3MjA1NDFkN2NkMzMzOTcw`
+Snapshot ID: `MCxjOTBlZGZkZGM1ZDNhYzMxYjcyZjgwNjZiMzlmNjQyYWJlMjQwOWVm`

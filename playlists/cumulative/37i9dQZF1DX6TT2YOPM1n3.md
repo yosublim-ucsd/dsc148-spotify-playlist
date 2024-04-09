@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Current Pakistani hits under one roof\. Cover: Nehaal Naseem, Aashir Wajahat, NAYEL
+> Current Pakistani hits under one roof\. Cover: Hasan Raheem
 
 132 songs - 8 hr 30 min
 
@@ -33,7 +33,7 @@
 | [Dard](https://open.spotify.com/track/3MqZKfZyzc9LEhMASXCtV8) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Dard](https://open.spotify.com/album/7s1DIgc6sYQunfkWFINPsD) | 3:50 | 2023-05-04 | 2023-12-22 |
 | [Darkest Hour \- Asim Azhar Version](https://open.spotify.com/track/6W8UyjragKGJ40siaZ2oKN) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Darkest Hour \(Asim Azhar Version\)](https://open.spotify.com/album/0XPSoFWnYLGteKJmPQcA2S) | 2:11 | 2023-05-08 | 2023-06-09 |
 | [Deja Vu](https://open.spotify.com/track/7bKTdSFy3wprMHMRxGcxSR) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Ziggy Bonafide](https://open.spotify.com/artist/776GUqSRgbmdcDvpnmtfdr) | [Deja Vu](https://open.spotify.com/album/58DxQJGOJI8GLWqLNOVswH) | 2:50 | 2023-06-15 | 2023-11-03 |
-| [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 | 2024-01-19 |  |
+| [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 | 2024-01-19 | 2024-04-09 |
 | [Dil Diyan Gallan](https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [YRF Top 10 \- Falling in Love](https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp) | 4:20 | 2023-12-21 |  |
 | [Dil Kay Isharay](https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Dil Kay Isharay](https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv) | 3:08 | 2023-05-04 | 2023-11-30 |
 | [dilrubaa](https://open.spotify.com/track/1PfOAYwjTSYCskgSGdRfQw) | [Wali Bakhat Warraich](https://open.spotify.com/artist/0CyRAEk8Qp6zicASWIKPLo) | [dilrubaa](https://open.spotify.com/album/7soQBh3lLNgnLkb3FPskkB) | 2:08 | 2023-12-21 |  |

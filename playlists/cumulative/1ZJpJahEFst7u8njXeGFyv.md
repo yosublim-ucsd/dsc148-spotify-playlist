@@ -2,7 +2,7 @@
 
 ### [Relaxing Classical](https://open.spotify.com/playlist/1ZJpJahEFst7u8njXeGFyv)
 
-> Relax, unwind and chill to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Alexandra Streliski, Yo\-Yo Ma, Esther Abrami and Alexis Ffrench\. The perfect background music for sleep and study.
+> Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
 597 songs - 1 day 14 hr 9 min
 

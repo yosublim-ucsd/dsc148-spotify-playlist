@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-1,391 songs - 3 day 4 hr 58 min
+1,392 songs - 3 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-07-23 | 2022-09-18 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-07-18 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-04 | 2021-05-23 |
+| [Deli Biri](https://open.spotify.com/track/0qCOkHC1oAU8380gTXgH5A) | [rosse17](https://open.spotify.com/artist/4i7oeJlCv0KiCps2hRVFjX) | [Deli Biri](https://open.spotify.com/album/5Kt2EksLBtkBVyPGOajahZ) | 2:27 | 2024-04-08 |  |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:10 | 2023-07-03 | 2023-09-21 |
 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-07-29 | 2023-08-03 |
 | [Demain](https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 3:03 | 2023-04-15 | 2023-06-24 |
@@ -556,7 +557,7 @@
 | [Hoop](https://open.spotify.com/track/7vtbmvZElsg69HeTdn6N55) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Hoop](https://open.spotify.com/album/4oGtHo9naxIqDdsQZ1p8BT) | 3:21 | 2023-01-21 | 2023-01-23 |
 | [Hope](https://open.spotify.com/track/7wCOdJ62C6ZWvp8nf8i59S) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Hope](https://open.spotify.com/album/6nNZY2RbAG3GFckpDPzztY) | 3:22 | 2021-05-18 | 2021-09-11 |
 | [Horen, Zien En Zwijgen](https://open.spotify.com/track/1primATZnXZfLf28dSmmM2) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Horen, Zien En Zwijgen](https://open.spotify.com/album/1pDpCfYNE0Jeue7TNroznv) | 3:01 | 2023-08-14 | 2023-08-23 |
-| [Hou Mij Vast](https://open.spotify.com/track/2DgtPHgQeLFRAMHKIBNN4W) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Hou Mij Vast](https://open.spotify.com/album/1Feu6CV2sQb2tK5m6hX2qQ) | 2:33 | 2023-12-23 |  |
+| [Hou Mij Vast](https://open.spotify.com/track/2DgtPHgQeLFRAMHKIBNN4W) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Hou Mij Vast](https://open.spotify.com/album/1Feu6CV2sQb2tK5m6hX2qQ) | 2:33 | 2023-12-23 | 2024-04-09 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-11 |  |
 | [Hours In Silence](https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 6:39 | 2022-11-05 | 2022-11-07 |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-05-30 | 2022-06-25 |

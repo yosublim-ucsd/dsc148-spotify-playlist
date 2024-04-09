@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 131900,
+  "num_followers": 131906,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Q0ZmQxMWU4NGEwNDQ4NjUyNjliMGNhNDRhMzIyZmQ0ZWU4ZTg3",
+  "snapshot_id": "MCwyOTYwYzNjMGIwZTM3YjA1Y2U0MjkwMmE4ZjI3YzZmZGFiYjIwMDE1",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Bossanova",
+        "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
+      },
+      "artists": [
+        {
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 201878,
+      "name": "Bossanova",
+      "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Quarta Feira",
         "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
       },
@@ -891,46 +911,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Juice of Mandarins",
-        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Juice of Mandarins",
-      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Quem Tem Um Amigo (Tem Tudo)",
-      "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Flor de Laranjeira",
         "url": "https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl"
       },
@@ -951,22 +931,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Bossanova",
-        "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
+        "name": "Juice of Mandarins",
+        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
       },
       "artists": [
         {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
         }
       ],
-      "duration_ms": 201878,
-      "name": "Bossanova",
-      "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
+      "duration_ms": 145609,
+      "name": "Juice of Mandarins",
+      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1007,22 +983,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Beto Villares",
-        "url": "https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p"
-      },
-      "artists": [
-        {
-          "name": "Beto Villares",
-          "url": "https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Rio da Bossa Nova",
-      "url": "https://open.spotify.com/track/07tHMgxtVHlo10234lOBML"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Rio de Janeiro",
         "url": "https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu"
       },
@@ -1039,6 +999,30 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Quem Tem Um Amigo (Tem Tudo)",
+      "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Tom Jobim",
         "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 248839,
       "name": "Tom Jobim",
       "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Beto Villares",
+        "url": "https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p"
+      },
+      "artists": [
+        {
+          "name": "Beto Villares",
+          "url": "https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Rio da Bossa Nova",
+      "url": "https://open.spotify.com/track/07tHMgxtVHlo10234lOBML"
     },
     {
       "added_at": "2023-06-23 03:00:00",

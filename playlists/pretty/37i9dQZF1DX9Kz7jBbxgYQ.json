@@ -1,12 +1,12 @@
 {
   "description": "Home to the best of South Asian Indie scene. Cover: Aashir Wajahat",
-  "num_followers": 150229,
+  "num_followers": 150365,
   "original_name": "Desi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTJmYTI2M2U0YTY2MTBiNDViZTczMjVjMzQ1ZGQ1OTc3ZjA1ZDVh",
+  "snapshot_id": "MCwwYmUwOGVkNjJmZDJmOTk1YzAzNGExODg0YjRjYWE4ZTg2NDBlZjc4",
   "tracks": [
     {
       "added_at": "2024-04-02 06:06:07",
@@ -63,6 +63,22 @@
       "duration_ms": 181818,
       "name": "Katchi Sera - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa"
+    },
+    {
+      "added_at": "2024-04-08 12:42:23",
+      "album": {
+        "name": "Tu hai kahan",
+        "url": "https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l"
+      },
+      "artists": [
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        }
+      ],
+      "duration_ms": 263184,
+      "name": "Tu hai kahan",
+      "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
     },
     {
       "added_at": "2024-04-02 06:06:07",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-04-02 06:06:07",
       "album": {
-        "name": "Bawariya",
-        "url": "https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C"
-      },
-      "artists": [
-        {
-          "name": "Vilen",
-          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
-        }
-      ],
-      "duration_ms": 179318,
-      "name": "Bawariya",
-      "url": "https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB"
-    },
-    {
-      "added_at": "2024-04-02 06:06:07",
-      "album": {
         "name": "Katputli Ke Dhaage",
         "url": "https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-04-02 06:06:07",
       "album": {
-        "name": "Ae Bandey",
-        "url": "https://open.spotify.com/album/2QvEclNhlVvllLkRhRr1LT"
-      },
-      "artists": [
-        {
-          "name": "Shubham Kabra",
-          "url": "https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Ae Bandey",
-      "url": "https://open.spotify.com/track/0eVEI23kHZob5VL93Iy6cI"
-    },
-    {
-      "added_at": "2024-04-02 06:06:07",
-      "album": {
         "name": "Muskan (Acoustic)",
         "url": "https://open.spotify.com/album/1Eq6kZv2CA6XRrV4nZlR40"
       },
@@ -1211,22 +1195,6 @@
       "duration_ms": 207312,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W"
-    },
-    {
-      "added_at": "2024-04-02 06:06:07",
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m"
-      },
-      "artists": [
-        {
-          "name": "Aditya A",
-          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Pagal Rehne De",
-      "url": "https://open.spotify.com/track/760LXdTukTZjtD6rZ4p2n8"
     },
     {
       "added_at": "2024-04-02 06:06:07",
@@ -1431,26 +1399,6 @@
       "duration_ms": 159795,
       "name": "Dhanak",
       "url": "https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5"
-    },
-    {
-      "added_at": "2024-04-02 06:06:07",
-      "album": {
-        "name": "Cham Cham",
-        "url": "https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx"
-      },
-      "artists": [
-        {
-          "name": "Annural Khalid",
-          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
-        },
-        {
-          "name": "Kumail Abbas",
-          "url": "https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R"
-        }
-      ],
-      "duration_ms": 226365,
-      "name": "Cham Cham",
-      "url": "https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw"
     },
     {
       "added_at": "2024-04-02 06:06:07",
@@ -1663,26 +1611,6 @@
     {
       "added_at": "2024-04-02 06:06:07",
       "album": {
-        "name": "Diya",
-        "url": "https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX"
-      },
-      "artists": [
-        {
-          "name": "Abdul Hannan",
-          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
-        },
-        {
-          "name": "Shahmeer Raza Khan",
-          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
-        }
-      ],
-      "duration_ms": 195558,
-      "name": "Diya",
-      "url": "https://open.spotify.com/track/6be2Qb95JM8HnKtJHYWpzG"
-    },
-    {
-      "added_at": "2024-04-02 06:06:07",
-      "album": {
         "name": "Kahan Jaoon",
         "url": "https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh"
       },
@@ -1695,22 +1623,6 @@
       "duration_ms": 329214,
       "name": "Kahan Jaoon",
       "url": "https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G"
-    },
-    {
-      "added_at": "2024-04-02 06:06:07",
-      "album": {
-        "name": "Aarish",
-        "url": "https://open.spotify.com/album/5ZJA0NoFtbUPGOwVBoecQo"
-      },
-      "artists": [
-        {
-          "name": "Himasri Sarkar",
-          "url": "https://open.spotify.com/artist/5GPWLvu5S3lXQNG7vzxu4C"
-        }
-      ],
-      "duration_ms": 261252,
-      "name": "Aarish",
-      "url": "https://open.spotify.com/track/4K5EIS3DM7A2TOu6wIjD3a"
     },
     {
       "added_at": "2024-04-02 06:06:07",

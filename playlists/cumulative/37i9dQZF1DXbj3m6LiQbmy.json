@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Giol\u00ec & Assia in cover! \u2728",
+  "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Gianna Nannini in cover! \u2728",
   "name": "GLOW Italia",
   "tracks": [
     {
@@ -2907,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "Sei nel l'anima",
+        "url": "https://open.spotify.com/album/3qoUOO1m5BrCOagNHlCG3H"
+      },
+      "artists": [
+        {
+          "name": "Gianna Nannini",
+          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265080,
+      "name": "Io voglio te",
+      "url": "https://open.spotify.com/track/3AeJSXkD5OUyIN13QNWXaT"
+    },
+    {
+      "album": {
         "name": "Isola",
         "url": "https://open.spotify.com/album/0zUddQ5L80ICqE4ro2oPtr"
       },
@@ -3594,6 +3612,28 @@
       "duration_ms": 138500,
       "name": "Ma che Hit",
       "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"
+    },
+    {
+      "album": {
+        "name": "MA COME SI FA",
+        "url": "https://open.spotify.com/album/4YwdSpryGk4Ciu2fqc3OdL"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        },
+        {
+          "name": "Scraby",
+          "url": "https://open.spotify.com/artist/3BgpK7ZHEWz7oX8376ngNL"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "MA COME SI FA",
+      "url": "https://open.spotify.com/track/0NWiNpldKNulxKaVSOToBB"
     },
     {
       "album": {

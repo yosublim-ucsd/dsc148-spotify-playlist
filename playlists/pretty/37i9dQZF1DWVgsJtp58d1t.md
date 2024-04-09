@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG"> Glorilla </a> and <a href="spotify:artist:181bsRPaVXVlUKXrxwZfHK">Megan Thee Stallion </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,793 likes - 96 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,016 likes - 96 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 95 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 96 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 
-Snapshot ID: `MCw1MDQ4YzNjZTAxNzNmZmU3MWFlODI3MWJjOTQzNTRiZDA5YmY4NTM2`
+Snapshot ID: `MCw4N2U0M2E0NTIwM2FlZWVmNjA0NzUzYzk1NjYxZTFjMTliMDdhZjJh`

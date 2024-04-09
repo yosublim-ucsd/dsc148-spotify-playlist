@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 107621,
+  "num_followers": 107649,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjMzMzQ5MmVjYTViMjI5MzA5ZTFmNjNiNDlhZmIyY2RjMGE5NmNi",
+  "snapshot_id": "MCw2ZjRkNDg1NGI5ZTAzZjk3YzkwYTc0YmQ1OTQ3MTI2NDk4NThiNGI5",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "Cara De Chango",
+      "url": "https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A La Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/1bp7ROjR99ipXFrSuRGhvM"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 186613,
       "name": "Tengo Un Amor",
       "url": "https://open.spotify.com/track/7jpqYcKRXHfGl0pP32h0xZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "Cara De Chango",
-      "url": "https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj"
     },
     {
       "added_at": null,

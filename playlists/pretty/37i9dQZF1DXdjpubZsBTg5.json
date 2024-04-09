@@ -1,12 +1,12 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 193419,
+  "num_followers": 193507,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmU4MGVkODk5NGY4NjllY2U4NjU0MjU5OGI4YjdiNmMzODNjODY5",
+  "snapshot_id": "MCxlYTEwMTBiNzI2OWI3MWZmNmNlM2ExZWMxOWU5N2I4ODEyODM4ODJl",
   "tracks": [
     {
       "added_at": "2024-04-05 21:37:24",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
         "name": "La Pachanga",
         "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 342520,
       "name": "Triste canci\u00f3n",
       "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Dos Caras Distintas",
-        "url": "https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm"
-      },
-      "artists": [
-        {
-          "name": "Los Secretos",
-          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Pero a tu lado",
-      "url": "https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 297533,
       "name": "Veneno Vil",
       "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Dos Caras Distintas",
+        "url": "https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm"
+      },
+      "artists": [
+        {
+          "name": "Los Secretos",
+          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Pero a tu lado",
+      "url": "https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Viviendo de Noche",
-        "url": "https://open.spotify.com/album/2Oo8AfNU3dyQPi8tNHbSoU"
-      },
-      "artists": [
-        {
-          "name": "Veni Vidi Vici",
-          "url": "https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe"
-        }
-      ],
-      "duration_ms": 246060,
-      "name": "Viviendo de Noche",
-      "url": "https://open.spotify.com/track/5TmobGkcbz4oYhtvPcmTDF"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Al calor del amor en un bar",
         "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Obras Cumbres (Parte 2)",
-        "url": "https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV"
+        "name": "Viviendo de Noche",
+        "url": "https://open.spotify.com/album/2Oo8AfNU3dyQPi8tNHbSoU"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Veni Vidi Vici",
+          "url": "https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe"
         }
       ],
-      "duration_ms": 292320,
-      "name": "Nada Personal",
-      "url": "https://open.spotify.com/track/2VWQAtJhyN3sQPJidCbP8v"
+      "duration_ms": 246060,
+      "name": "Viviendo de Noche",
+      "url": "https://open.spotify.com/track/5TmobGkcbz4oYhtvPcmTDF"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -919,6 +903,22 @@
       "duration_ms": 247066,
       "name": "C\u00f3mo pudiste hacerme esto a m\u00ed",
       "url": "https://open.spotify.com/track/6L3rEi9FdKAuwCz1DiWkIk"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Obras Cumbres (Parte 2)",
+        "url": "https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292320,
+      "name": "Nada Personal",
+      "url": "https://open.spotify.com/track/2VWQAtJhyN3sQPJidCbP8v"
     },
     {
       "added_at": "2024-04-05 21:37:24",

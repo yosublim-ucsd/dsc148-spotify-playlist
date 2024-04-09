@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-27 songs - 1 hr 52 min
+28 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [teenage club](https://open.spotify.com/track/4ExheCEfCm9TNBbgGYQFz3) | [gato](https://open.spotify.com/artist/4BFHLUOkM2GdeJXy0K0WiN) | [U+H](https://open.spotify.com/album/3o2UEIU10zoYfNmwFCnaD7) | 2:50 | 2024-04-01 |  |
 | [THE DAY](https://open.spotify.com/track/28xWca7sFfzvl5WyGMDR6B) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [MAD CITY](https://open.spotify.com/album/6D8rWuN2N8qVtPJ2SlffX4) | 3:36 | 2024-04-01 |  |
 | [ひとりの夜を抜け](https://open.spotify.com/track/0jKFkKHQWNCvjoBUG751Oq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [HUG](https://open.spotify.com/album/76DxOsTwHzuGyD27vEYWKJ) | 3:01 | 2024-04-01 |  |
+| [アンビバレント](https://open.spotify.com/track/5WDKR3hzbHiXWgbMPyOcLk) | [Keyakizaka46](https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil) | [アンビバレント \(Special Edition\)](https://open.spotify.com/album/1zY5V7Y2Y0n0tbN3qSBPet) | 4:33 | 2024-04-08 |  |
 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 | 2024-04-01 |  |
 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 | 2024-04-05 |  |
 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 | 2024-04-01 |  |

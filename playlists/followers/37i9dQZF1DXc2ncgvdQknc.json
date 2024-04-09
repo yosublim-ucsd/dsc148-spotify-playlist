@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 76045,
+  "2024-04-09": 76111,
   "date_first_scraped": "2022-05-14",
   "description": "All 10s, all ballads. Cover: Adele",
   "name": "10s Ballads",
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 526386,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/0SuG9kyzGRpDqrCWtgD6Lq"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 189475,
       "name": "Not About Angels",
       "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"

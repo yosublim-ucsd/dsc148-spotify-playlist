@@ -4,7 +4,7 @@
 
 > Hits con sabor\. Cover: Camilo & Evaluna Montaner
 
-297 songs - 19 hr 5 min
+298 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Lo Que Te Di](https://open.spotify.com/track/0W8NvcMsIuygeFnfNz2KnC) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 4:01 | 2021-12-03 |  |
 | [Lo Que Tú y Yo Vivimos \(feat\. Gente de Zona\) \- Ao Vivo](https://open.spotify.com/track/6poj56vC9JUu1yHTsv92WA) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [O Embaixador in Cariri \- Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3C9ZJaOENH5Held20rJ0x8) | 3:57 | 2021-12-03 | 2022-02-15 |
 | [Lo Que Yo Quiero](https://open.spotify.com/track/7zoa1nv5hDuoj7fWh7X4IV) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Lo Que Yo Quiero](https://open.spotify.com/album/3f3ohkl92Hd3UFIH37Ei9i) | 4:04 | 2021-12-03 | 2022-02-15 |
+| [Lo Veo y No Lo Creo](https://open.spotify.com/track/6hGR9vRbM4ZQ5IiB9O16WZ) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Lo Veo y No Lo Creo](https://open.spotify.com/album/53oghpWRV5ghhgPmugXap3) | 3:20 | 2024-03-14 |  |
 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/1OYqZAcqNOUtEpG7GnoCGk) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Lo Veo y No Lo Creo](https://open.spotify.com/album/3QVS8w8jQ4DBZdwAu6d25K) | 3:20 | 2021-12-03 | 2022-07-29 |
 | [Loma de Cayenas](https://open.spotify.com/track/2gT8OWcAgPg0yawg1qw4Nv) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Candela](https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe) | 3:47 | 2021-12-03 | 2022-02-15 |
 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 | 2022-02-14 |  |
@@ -239,7 +240,7 @@
 | [Siempre Seré](https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Más](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:24 | 2021-12-03 | 2022-02-15 |
 | [Sin Amenazas](https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sin Amenazas](https://open.spotify.com/album/6LSl2OOTA6nE0Gt6Sk6dU8) | 4:18 | 2021-12-03 | 2023-01-13 |
 | [Sin Fin](https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 | 2022-09-09 |  |
-| [Sin Fronteras](https://open.spotify.com/track/0EjGZf0b32jCa43xMkEt13) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Mimy Succar](https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv), [Haila](https://open.spotify.com/artist/4qaVBTUcoHpMlgf5NpQY7P) | [Sin Fronteras \(feat\. Haila\)](https://open.spotify.com/album/5qgoLsJKKnbHtVpqO4FD4C) | 5:01 | 2022-05-27 |  |
+| [Sin Fronteras](https://open.spotify.com/track/0EjGZf0b32jCa43xMkEt13) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Mimy Succar](https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv), [Haila](https://open.spotify.com/artist/4qaVBTUcoHpMlgf5NpQY7P) | [Sin Fronteras \(feat\. Haila\)](https://open.spotify.com/album/5qgoLsJKKnbHtVpqO4FD4C) | 5:01 | 2022-05-27 | 2024-04-09 |
 | [Sin Tu Amor](https://open.spotify.com/track/51Qo4o1rz2FJ5h0ie2Okjt) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Sin Tu Amor](https://open.spotify.com/album/7iySuoiTKC8ImCNs1Lw41O) | 3:35 | 2021-12-03 | 2022-02-13 |
 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 | 2023-06-16 |  |
 | [Sincero \- Versión Salsa](https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG) | 3:05 | 2022-03-04 | 2023-05-11 |

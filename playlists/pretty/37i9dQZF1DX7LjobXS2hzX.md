@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,245 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,157 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 74 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 75 | [Comfy](https://open.spotify.com/track/0gPL03fI5mxdNLrQv59qZ6) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Comfy](https://open.spotify.com/album/47C8DEWeRHnXunIn1sQHZb) | 3:09 |
 
-Snapshot ID: `MCxmMGFhNjYzYzkwMWM2MDZiMmE2YzBiMjRhMDc0ZjAzODAwNjc5OTE3`
+Snapshot ID: `MCxiYTlmZmVmNDU1NTE2MzAwMmQyZjJhNTkyNWM1MTZmOGI5ZDc5NDZk`

@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 5660,
+  "2024-04-09": 5662,
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
   "name": "This Is Banda Toro",
@@ -641,10 +641,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 162226,
       "name": "El Recogedor",
       "url": "https://open.spotify.com/track/75FxBR7bvIvLA5ueut7RTM"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162226,
+      "name": "El Recogerdor",
+      "url": "https://open.spotify.com/track/2UVRSSmngX62AUbzh5BqqP"
     },
     {
       "album": {
@@ -869,10 +887,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 180226,
       "name": "La Leccion",
       "url": "https://open.spotify.com/track/61pAsXfJhNvB8DNg4ROCb8"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "La Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/1dpnYgl9aEzpaGL4uqm41B"
     },
     {
       "album": {
@@ -1079,10 +1115,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 128213,
       "name": "Las Mulas de Jaramillo",
       "url": "https://open.spotify.com/track/3I6wNOHGBhvFFUxsKsLNWL"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128213,
+      "name": "Las Murallas De Jaramillo",
+      "url": "https://open.spotify.com/track/1LfSw95WcgRHzS0auTgh4A"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,608 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,656 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 84 | [BLESSING$](https://open.spotify.com/track/5l2a0rOc4A8fuy4TEDH3Ex) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BLESSING$](https://open.spotify.com/album/4BiiOopVTUJhsAP54UyiXk) | 2:41 |
 | 85 | [Waiting So Long](https://open.spotify.com/track/2JcLfZCOrAmU1b87gBdv5I) | [Kwesi Dain](https://open.spotify.com/artist/105LjXZfjJNB1VyldU9gCr), [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d) | [Waiting So Long](https://open.spotify.com/album/1BrJyJUvM3qefHIVxduF8c) | 3:35 |
 
-Snapshot ID: `MCw3Y2IwOGJkZDYyYmY2Y2E1ZWM4NmNlZjkyNzllYzUyOGVlMGQ3OTNh`
+Snapshot ID: `MCw1Y2U0MjM4OTAwNjA1ZjllNTMyOGI5NjBhNmNmMWM1OWQ0NDRkNGRj`

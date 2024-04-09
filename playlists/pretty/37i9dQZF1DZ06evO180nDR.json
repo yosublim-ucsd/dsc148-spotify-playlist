@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 26700,
+  "num_followers": 26718,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGUwOTY4ZDIwZGUzYjY1OWJjMmFhYmY4ZjkzN2M2NDQzMGQxZDk5",
+  "snapshot_id": "MCxhMTFmNzNkNWVhOWQ4ZTc1NTk5NGY2OTE5ZmY1ZWYzYzMyYmMwOGYz",
   "tracks": [
     {
       "added_at": null,
@@ -599,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+        "name": "La Mercedes Cuadradita (En Vivo)",
+        "url": "https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq"
       },
       "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 209920,
-      "name": "La Mas Bonita De Todas",
-      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
+      "duration_ms": 155280,
+      "name": "La Mercedes Cuadradita (En Vivo)",
+      "url": "https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY"
     },
     {
       "added_at": null,
@@ -631,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mercedes Cuadradita (En Vivo)",
-        "url": "https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq"
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
       },
       "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 155280,
-      "name": "La Mercedes Cuadradita (En Vivo)",
-      "url": "https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY"
+      "duration_ms": 209920,
+      "name": "La Mas Bonita De Todas",
+      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+        "name": "El Cache",
+        "url": "https://open.spotify.com/album/5XVx3rhlBrWHjXt1D0O3Jz"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 193306,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
+      "duration_ms": 197491,
+      "name": "El Cache",
+      "url": "https://open.spotify.com/track/3gtirxuuJWHJ1kInwCTsbo"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cache",
-        "url": "https://open.spotify.com/album/5XVx3rhlBrWHjXt1D0O3Jz"
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 197491,
-      "name": "El Cache",
-      "url": "https://open.spotify.com/track/3gtirxuuJWHJ1kInwCTsbo"
+      "duration_ms": 193306,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carrucha (En Vivo)",
-        "url": "https://open.spotify.com/album/2vI8Aflm0jIOqszgQuGaTG"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 201367,
-      "name": "La Carrucha (En Vivo)",
-      "url": "https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Principio Y El Fin",
         "url": "https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH"
       },
@@ -895,22 +875,6 @@
       "duration_ms": 182498,
       "name": "70 Calaveras",
       "url": "https://open.spotify.com/track/7ifBr1r11Dt26l4liTr7Ak"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "El Jabali - Huapango Version",
-      "url": "https://open.spotify.com/track/3HztqhFkIjy8Jf48FOKDJJ"
     },
     {
       "added_at": null,
@@ -931,6 +895,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "El Jabali - Huapango Version",
+      "url": "https://open.spotify.com/track/3HztqhFkIjy8Jf48FOKDJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Carrucha (En Vivo)",
+        "url": "https://open.spotify.com/album/2vI8Aflm0jIOqszgQuGaTG"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 201367,
+      "name": "La Carrucha (En Vivo)",
+      "url": "https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sangre Guerrera",
         "url": "https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 246026,
       "name": "Sangre Guerrera",
       "url": "https://open.spotify.com/track/54xui38HClfOPGWvn5ihxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Luz De D\u00eda",
+      "url": "https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD"
     },
     {
       "added_at": null,
@@ -979,22 +995,6 @@
       "duration_ms": 198437,
       "name": "Dichos Y Grandes",
       "url": "https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Luz De D\u00eda",
-      "url": "https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD"
     },
     {
       "added_at": null,

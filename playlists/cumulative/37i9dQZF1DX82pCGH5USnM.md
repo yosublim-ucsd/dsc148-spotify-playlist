@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-776 songs - 1 day 19 hr 38 min
+782 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Ai Shiteru](https://open.spotify.com/track/0LyQVn9FoBHCJBfB83wJrq) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Ai Shiteru](https://open.spotify.com/album/0LecoFiRVdQoqUapmPvAkh) | 4:40 | 2021-06-16 | 2021-07-08 |
 | [Air Zones](https://open.spotify.com/track/6QwkdlobqveOUlXfddLJGK) | [Tippy Ro](https://open.spotify.com/artist/7sgxEpfnodusFKzUSTSFIY) | [Air Zones](https://open.spotify.com/album/2hjZkraFr9q2gmMZwRSXD6) | 3:22 | 2021-09-09 | 2022-07-29 |
 | [Airglow](https://open.spotify.com/track/3leeQGS5ZOJRXrQ8I2juxI) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Airglow](https://open.spotify.com/album/5eiuYQuowBrhyX2WIEYxxa) | 2:10 | 2023-01-06 |  |
+| [Alcove](https://open.spotify.com/track/6AYTomZob9bIImQJfQTwyZ) | [Hackney](https://open.spotify.com/artist/7cdiUz1LNwYkklLniGmS1b) | [Alcove](https://open.spotify.com/album/7aOH7UHzIbWa9jeZ3O2Jol) | 2:14 | 2024-04-08 |  |
 | [ALFA](https://open.spotify.com/track/5aSNqR86hrZvqGURovp9wH) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [ALFA\-DELTA](https://open.spotify.com/album/7n9lRpIn21zIeAjtuFMM2a) | 5:09 | 2021-02-24 | 2021-09-09 |
 | [All Flow](https://open.spotify.com/track/4UNikpZvuGygYQsK5nbdF1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [All Flow](https://open.spotify.com/album/2ozaXysOH70zHLPoppcQNL) | 3:02 | 2023-04-28 |  |
 | [All Out of Love](https://open.spotify.com/track/2irwCQHAO9XO0DFxMJFliF) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [Arild Was Here](https://open.spotify.com/album/78cN1uIKRgl1Y0aBknEe17) | 4:08 | 2021-08-20 | 2021-09-09 |
@@ -123,6 +124,7 @@
 | [Ce n'est pas \(Axel Boman Remix\)](https://open.spotify.com/track/0rUNcOw5EaGaQjYcnlAuST) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 8:34 | 2021-01-27 | 2021-02-19 |
 | [Chasing the Now](https://open.spotify.com/track/63ypmPFNZJXv4SgTtsPdG3) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chasing The Now](https://open.spotify.com/album/4RDnaZuk2ZBBZORVqVdrYT) | 2:27 | 2021-11-08 | 2023-01-07 |
 | [Cheerful Gecko](https://open.spotify.com/track/1Czt8WIBLWwHqRwxvUBnUS) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Cheerful Gecko](https://open.spotify.com/album/7KQccSlxHaRNIX9eJ1IZMP) | 2:24 | 2021-07-08 | 2021-08-20 |
+| [Chillatorium](https://open.spotify.com/track/5NEvqdgF5r5vRuJD860hbO) | [Green Gold](https://open.spotify.com/artist/709cr7wm8P2ybOfAxCj9Fm) | [Chillatorium](https://open.spotify.com/album/5wjPzcEhJj5sBjmwKAKCgV) | 2:29 | 2024-04-08 |  |
 | [Chinook](https://open.spotify.com/track/0m3Ssbp73eDEtjIoPGqNis) | [Alfa State](https://open.spotify.com/artist/09XYEnqYotzkQdZIyltRtW), [Mystic District](https://open.spotify.com/artist/2PDVBt3lvTrglJpt2yYGaF) | [Chinook EP](https://open.spotify.com/album/4bhtTw2nU27UZEpxHH4RfG) | 7:26 | 2020-12-16 | 2021-01-05 |
 | [Chirality](https://open.spotify.com/track/5g77cC85KsmuaXgi1CCf2i) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Through My Mind](https://open.spotify.com/album/2Z1Z4go1XdwZiFLpsbUA5Z) | 3:50 | 2020-11-04 | 2021-09-09 |
 | [Chlorine](https://open.spotify.com/track/1B8IrVSNTA8KgHG8MJQaH1) | [Swank Doral](https://open.spotify.com/artist/1zgVVdHt2QiytBSufPLLaV) | [Chlorine](https://open.spotify.com/album/4SCPxSvn4cdrjeZSHSfnMY) | 2:59 | 2021-08-20 |  |
@@ -145,6 +147,7 @@
 | [Color Code](https://open.spotify.com/track/2hPUPT84eEvIxxDvdN0n0R) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Color Code](https://open.spotify.com/album/6vVBfItLBRgeK0pRTjXgkY) | 3:20 | 2020-04-03\* | 2021-03-18 |
 | [Colored Waves](https://open.spotify.com/track/0Z7HrettzLSkhelO24HKDX) | [Zumaia](https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH) | [Colored Waves](https://open.spotify.com/album/1pTgJHK31BvOFi3SEhx9ZZ) | 2:24 | 2023-09-15 |  |
 | [Colors of You](https://open.spotify.com/track/0fVisMBg8MPemjOxLj3Jeu) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Bluebells](https://open.spotify.com/album/1SqKWpy6qU65qhVHUjw1LA) | 3:34 | 2021-03-18 | 2022-10-07 |
+| [Comrate](https://open.spotify.com/track/3Rd69TLNlUD1LRlq5rx2th) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Comrate](https://open.spotify.com/album/6r9zacxDV2W6TeWIbowOQY) | 2:09 | 2024-04-08 |  |
 | [Connectivity Dub](https://open.spotify.com/track/7wO6beL28YzqSvqEal0S47) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Resonance](https://open.spotify.com/album/1LXSTaP6BPL4ywBG3nZYEd) | 6:46 | 2021-08-20 | 2021-09-22 |
 | [Cooking](https://open.spotify.com/track/7jUPFQuuEgrmae7d3nsHVO) | [frotteee](https://open.spotify.com/artist/2mKzge5uoouLNQlK8kzzVp) | [Cooking](https://open.spotify.com/album/5ZDE91xtdyjMFqQJBXaxEc) | 2:18 | 2024-02-13 |  |
 | [Copacabana](https://open.spotify.com/track/7m3TmUwQJYQkJvzvomijDd) | [Alex Caipirinha](https://open.spotify.com/artist/1usKVVJQ2IcqqB8RjvpGKv) | [Copacabana](https://open.spotify.com/album/2VcIx9AWHOSRanlFEnvSup) | 2:45 | 2021-04-15 | 2021-08-20 |
@@ -207,12 +210,14 @@
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2021-04-21 | 2023-06-03 |
 | [Elegante](https://open.spotify.com/track/2S1yA9T8fA4SSmWuylp49K) | [Verdacci](https://open.spotify.com/artist/3qmIRttgBXWlN3T7frBg1e) | [Elegante](https://open.spotify.com/album/5uNRBNLogQyX0yHNmJ7IZ7) | 3:32 | 2020-06-18 | 2021-09-22 |
 | [Ellipse](https://open.spotify.com/track/6GFj41kEAfnwTsleGqdoRH) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Ellipse / Zero One](https://open.spotify.com/album/4Y4nViAuPYfjN91q8l73I8) | 3:37 | 2022-11-25 |  |
+| [Elysian](https://open.spotify.com/track/4DXYUnaodf1qB3nEG2xpUu) | [In Love Mearas](https://open.spotify.com/artist/5jHQIRcl8h1pnEfuqxL7y9) | [Elysian](https://open.spotify.com/album/5wg10IxxWMUdZ2WhNKENPr) | 2:04 | 2024-04-08 |  |
 | [Email Love](https://open.spotify.com/track/6UnxA6yk3HxSAg5JzmkEeq) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [Email Love](https://open.spotify.com/album/4tahUTE99ftJgpiJ5ELtpH) | 2:47 | 2020-10-27 | 2021-02-10 |
 | [Embrace](https://open.spotify.com/track/5TXeBjOzQ5JXsIyopwEnec) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Embrace](https://open.spotify.com/album/46YVi0CuFan0r1Q6e3H8zx) | 2:56 | 2021-11-08 |  |
 | [Endless Magic](https://open.spotify.com/track/4DKN3nZrkDvTyzdROv69Ic) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Endless Magic](https://open.spotify.com/album/3MgmDh1eWHfU743BO4BDiO) | 1:53 | 2020-04-14 | 2021-04-21 |
 | [Enigma](https://open.spotify.com/track/3uPv7gwfs6YzUVeD8pyZ4c) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Enigma](https://open.spotify.com/album/4pD6ofyOFWOYJwuxrWhpuY) | 2:38 | 2021-02-04 | 2022-06-24 |
 | [envelope](https://open.spotify.com/track/4dT3GQBpTmm2c6T6vL7Ig0) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [envelope](https://open.spotify.com/album/5ze9A7KGjbG44vSS0ANosd) | 2:19 | 2022-09-23 |  |
 | [Equanimity](https://open.spotify.com/track/5isIut0C8hN4bId0imeKog) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [Zachary Bowe](https://open.spotify.com/artist/49flxx7eVrsc0uBG1KolV6) | [Equanimity](https://open.spotify.com/album/7xhqEbF1zKfa3ONmbSwIyQ) | 2:33 | 2021-04-15 | 2021-04-21 |
+| [Evening](https://open.spotify.com/track/3x0WefwMcRavP86UXpIoOL) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Evening](https://open.spotify.com/album/4F3EgMOcOcG9maYlBzGygv) | 2:11 | 2024-04-08 |  |
 | [Express](https://open.spotify.com/track/6NPvYtR9Zi1uIZqTj9CU53) | [Zazzo](https://open.spotify.com/artist/0IqdMYI4CDJgVZiioR7t3k) | [Express](https://open.spotify.com/album/17U4iL5TD60vVhBE4EtD5V) | 2:20 | 2023-03-31 |  |
 | [Extra Sauce](https://open.spotify.com/track/1hciDzduTo3NzRZAUbn8MF) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Extra Sauce](https://open.spotify.com/album/093GCiTifgpyMmpiWDOCUE) | 2:54 | 2022-06-10 |  |
 | [Extrinsic](https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Picturesque](https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe) | 5:23 | 2021-04-15 | 2021-08-20 |
@@ -227,6 +232,7 @@
 | [Feelings](https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Feelings](https://open.spotify.com/album/49IUgUWndwR4zm99VyAi0J) | 2:48 | 2021-10-06 | 2022-01-22 |
 | [Feelings Pt\. 2](https://open.spotify.com/track/1trBZuNfkopXnnvxgOr4tt) | [Genzlinger](https://open.spotify.com/artist/1CG6oa21WSjpjtNPhAOqmN) | [Feelings Pt\. 2](https://open.spotify.com/album/3J5LyLG4PJGoNtnyGZJzxa) | 3:19 | 2021-11-08 | 2022-08-19 |
 | [Figures](https://open.spotify.com/track/3gW3k4nrod4POzhmV742rt) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Figures](https://open.spotify.com/album/0NAtQR6It2XhpFsD8DNgJg) | 2:48 | 2023-01-06 |  |
+| [Fin De Semaine](https://open.spotify.com/track/7ztX5Qtfb7I7hIYhhFglqF) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [Fin De Semaine](https://open.spotify.com/album/6JW9RYEyirGPIomjMfrxqO) | 2:45 | 2024-04-08 |  |
 | [Find Home \- Vincenzo Remix](https://open.spotify.com/track/0QayFvre5hJOVTBkJnWKwF) | [Sumsuch](https://open.spotify.com/artist/1HHU2iqCzLhS5eJjxTcL0G), [Matty Eeles](https://open.spotify.com/artist/74tJCrPNK21aC2OC8TppuW), [Vincenzo](https://open.spotify.com/artist/7FR8ZynvReyPlYfi4LnKyI) | [Find Home](https://open.spotify.com/album/4CgxK6h3kf9XaNbdQYz1cS) | 5:36 | 2021-01-27 | 2021-02-10 |
 | [finders keepers](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [finders keepers](https://open.spotify.com/album/4YegljCmxI9QhS0wbG7ns9) | 2:55 | 2022-07-08 |  |
 | [Fire Sprinkler System: On](https://open.spotify.com/track/5k22f3yE7QCTEUElSuIWB3) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Sticky Bottle EP](https://open.spotify.com/album/3qV8k73DqSusDiqVyVoFMn) | 3:22 | 2020-12-16 | 2021-01-27 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 24084,
+  "num_followers": 24091,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTk0NDMxZGUzMmNiMWFhNjRmMGM0YmQ5NmQ3NTU5OTZmMDVjMGFj",
+  "snapshot_id": "MCxkODgzNGExZmFhNTg4YThlZTgzNzRlNjBiMTc5N2Y5NTJhZDAwODk2",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 148188,
-      "name": "Ay Amigo",
-      "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los 15 para Coleccionar",
         "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 171573,
       "name": "Los Luchadores",
       "url": "https://open.spotify.com/track/2pvWTGb71qi76t1c17WCIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 148188,
+      "name": "Ay Amigo",
+      "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 15 para Coleccionar",
-        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Madrecita Querida",
-      "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 153359,
       "name": "La Mano De Dios",
       "url": "https://open.spotify.com/track/07QCCzkYr17jJ7kTLLJltI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los 15 para Coleccionar",
+        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Madrecita Querida",
+      "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros de Coleccion",
-        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 170120,
-      "name": "Si la Ven por Ah\u00ed",
-      "url": "https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Estrella De Los Bailes - Los \u00c9xitos",
         "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+        "name": "Tesoros de Coleccion",
+        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
       },
       "artists": [
         {
@@ -660,25 +644,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 156493,
-      "name": "El Jalisciense",
-      "url": "https://open.spotify.com/track/57SmAa0MAjSRxJOqKgKxZV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
+      "duration_ms": 170120,
+      "name": "Si la Ven por Ah\u00ed",
+      "url": "https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C"
     },
     {
       "added_at": null,
@@ -699,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Radio",
-        "url": "https://open.spotify.com/album/3xuKMzzujppsqEvxFVgmEX"
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
       "artists": [
         {
@@ -708,9 +676,25 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 153960,
-      "name": "El Joven Viejo",
-      "url": "https://open.spotify.com/track/0acpP24ASl2qWpABqcjmIa"
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "El Jalisciense",
+      "url": "https://open.spotify.com/track/57SmAa0MAjSRxJOqKgKxZV"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 161560,
       "name": "Lagrimas de Sangre",
       "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos En Radio",
+        "url": "https://open.spotify.com/album/3xuKMzzujppsqEvxFVgmEX"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153960,
+      "name": "El Joven Viejo",
+      "url": "https://open.spotify.com/track/0acpP24ASl2qWpABqcjmIa"
     },
     {
       "added_at": null,

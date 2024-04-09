@@ -227,6 +227,28 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: SuperKitties Su-Purr Charged",
+        "url": "https://open.spotify.com/album/3maWWI3K5sZu9UW8yMKNaB"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156403,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/5xuJWkruuozU1po4XJ8V2M"
+    },
+    {
+      "album": {
         "name": "Best Friends (From \"Disney Junior Music: Star Wars - Young Jedi Adventures\")",
         "url": "https://open.spotify.com/album/40pEr2MJkwHTYYFRC0xfE8"
       },

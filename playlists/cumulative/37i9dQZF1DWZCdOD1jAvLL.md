@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Don Diablo & Major Lazer
 
-666 songs - 1 day 12 hr 33 min
+667 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [DRENCH](https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [DRENCH](https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H) | 3:17 | 2023-06-09 |  |
 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 | 2023-10-27 |  |
 | [Drop](https://open.spotify.com/track/5iscY6uoraOqqKurX7G8S9) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [Drop](https://open.spotify.com/album/4TotKs9vQYC2JnSNNUvUz6) | 2:08 | 2023-01-20 |  |
-| [DUST](https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [DUST](https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9) | 2:31 | 2023-12-08 |  |
+| [DUST](https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [DUST](https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9) | 2:31 | 2023-12-08 | 2024-04-09 |
 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 | 2024-01-19 | 2024-04-07 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-05 |  |
 | [Eat Your Soul](https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Eat Your Soul](https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg) | 2:39 | 2022-05-27 | 2022-08-06 |
@@ -603,6 +603,7 @@
 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 | 2022-10-07 | 2023-02-11 |
 | [The Throne](https://open.spotify.com/track/6Jl28uiFdGBPOx5EScNZw7) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [The Throne](https://open.spotify.com/album/0jbdpVS8HSlnPe2UhxSGwA) | 3:15 | 2023-05-12 | 2023-08-19 |
 | [The Veldt Cinema \- BYNX Edit](https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn) | [The Veldt Cinema \(BYNX Edit\)](https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg) | 4:37 | 2023-07-14 |  |
+| [The Weekend](https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [The Weekend / Control the Media](https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI) | 2:58 | 2024-04-05 |  |
 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 | 2023-10-13 | 2023-11-11 |
 | [Think About](https://open.spotify.com/track/0mgpKVkh9yenAnNB0lTWO4) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Think About](https://open.spotify.com/album/2cYsiuYP1rpKpLWjwSBvaL) | 3:24 | 2022-09-30 | 2023-02-25 |
 | [Think Of You](https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Think Of You](https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE) | 3:05 | 2022-04-15 | 2022-06-25 |

@@ -2,9 +2,9 @@
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Free to be! Musica dalla comunità LGBQTIA+ italiana\. Giolì & Assia in cover! ✨
+> Free to be! Musica dalla comunità LGBQTIA+ italiana\. Gianna Nannini in cover! ✨
 
-346 songs - 20 hr 26 min
+348 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Inverno dei fiori](https://open.spotify.com/track/29z1JCsMAx5ahaP3HV6Ful) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Inverno dei fiori](https://open.spotify.com/album/58iVNviD3PagSUWM2kkcFr) | 2:56 | 2023-06-08 |  |
 | [io in te](https://open.spotify.com/track/7eRedL3Ez9tTJ2XLa41vFZ) | [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh), [EGEENO](https://open.spotify.com/artist/7mW0MovYIhlnHSiaovWNTq) | [io in te](https://open.spotify.com/album/3garFsu2g9py7kkEjaR6GG) | 3:08 | 2023-10-27 | 2024-01-09 |
 | [io in te \- feat\. EGEENO](https://open.spotify.com/track/2q6FTdo92t92Pj7tWjMTQY) | [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh), [EGEENO](https://open.spotify.com/artist/7mW0MovYIhlnHSiaovWNTq) | [io in te \(feat\. EGEENO\)](https://open.spotify.com/album/5qo3JH1urOOQw93glEUYik) | 3:08 | 2022-07-04 | 2023-11-02 |
+| [Io voglio te](https://open.spotify.com/track/3AeJSXkD5OUyIN13QNWXaT) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Sei nel l'anima](https://open.spotify.com/album/3qoUOO1m5BrCOagNHlCG3H) | 4:25 | 2024-04-08 |  |
 | [Isola](https://open.spotify.com/track/6Ao9xnzzJK6ypc9TTL3f01) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [Leslie Sackey](https://open.spotify.com/artist/6SGzX8DcyP060Goqwkkta4) | [Isola](https://open.spotify.com/album/0zUddQ5L80ICqE4ro2oPtr) | 3:18 | 2022-07-04 | 2022-07-29 |
 | [Italove](https://open.spotify.com/track/2upjPXCYscwhOgazz6Remz) | [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [L'uomo d'affari / Italove](https://open.spotify.com/album/6g6DHknco9iNEvZn47eK8P) | 5:19 | 2021-11-19 | 2022-07-29 |
 | [Italove](https://open.spotify.com/track/4ll1UfyVm9we6xoTNGnMYO) | [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [L'uomo d'affari / Italove](https://open.spotify.com/album/5v84MAdR18Ed091b1hlSn5) | 5:19 | 2022-07-21 | 2023-06-09 |
@@ -188,6 +189,7 @@
 | [Luca \(Protopapa Remix\)](https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Luca \(Protopapa Remix\)](https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW) | 3:13 | 2023-06-22 |  |
 | [LURIDONA](https://open.spotify.com/track/5jk0Jko1G8b9ZtiN7rOBhM) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN) | [LURIDONA](https://open.spotify.com/album/1HKWCTcbfRowpc9N6r2sSc) | 1:45 | 2021-11-19 | 2023-07-07 |
 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 | 2023-02-23 | 2023-09-30 |
+| [MA COME SI FA](https://open.spotify.com/track/0NWiNpldKNulxKaVSOToBB) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Scraby](https://open.spotify.com/artist/3BgpK7ZHEWz7oX8376ngNL) | [MA COME SI FA](https://open.spotify.com/album/4YwdSpryGk4Ciu2fqc3OdL) | 2:19 | 2024-04-08 |  |
 | [macchina argento](https://open.spotify.com/track/18zK0tK6kSn6ovG8UkSGu9) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [macchina argento](https://open.spotify.com/album/0Awz1WP6nXunFkr4Tm6WNd) | 2:34 | 2023-06-01 | 2024-01-09 |
 | [Magari Vivi](https://open.spotify.com/track/0yPWp3eBcoREfTTU4U1QwC) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/6oTqwvC6XLtQCcGqpqhdKK) | 2:49 | 2021-11-19 | 2023-02-25 |
 | [Magari Vivi](https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/1F9xKBAzp8KOGupd0ARFpq) | 2:49 | 2023-02-28 | 2023-06-09 |

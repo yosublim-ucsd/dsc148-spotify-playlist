@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Jane Penny
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,087 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,099 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 85 | [The Ride](https://open.spotify.com/track/0U2CIiuR2rm5JnA3gyi7Qi) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [The Ride](https://open.spotify.com/album/3oLWwKaQBN3RgjllHPnubw) | 3:00 |
 | 86 | [For You](https://open.spotify.com/track/5YBqVqm8LmaIkrRSSfTMQk) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [For You](https://open.spotify.com/album/3aiBsLE0pQDTtZLO21UqZ8) | 3:37 |
 | 87 | [Grow](https://open.spotify.com/track/348YjRglmRPG0rM7f7hQo4) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Grow](https://open.spotify.com/album/3STaQElViLw9g79XFg2KRU) | 3:20 |
-| 88 | [doc martens](https://open.spotify.com/track/5Jk0UP6Kiq5EWZg2i7ltUe) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [doc martens](https://open.spotify.com/album/5KEZmb7DkdA7juyM1MbRhS) | 2:12 |
+| 88 | [doc martens](https://open.spotify.com/track/2tJjromZ7ByZDS737wFOG4) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [portable darkroom](https://open.spotify.com/album/08vfgwUZhy5B4w3uSNt6p5) | 2:12 |
 | 89 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 | 90 | [tell me](https://open.spotify.com/track/6CI16mxAWyzW1pMpCV4Qfw) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [tell me](https://open.spotify.com/album/2R3RQcOjyKQQUBb91Qv0bR) | 2:42 |
 | 91 | [Much](https://open.spotify.com/track/1jBAF8GMIpY37GXvOEAauP) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Much](https://open.spotify.com/album/7BpDH9xGQ2W7LKug4v9yup) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 |
 | 100 | [Wish](https://open.spotify.com/track/7j7NHQpLk3HJUNKtdMcATu) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Wish](https://open.spotify.com/album/3LXIH2vyXZLYoahg7B9Zzl) | 3:26 |
 
-Snapshot ID: `MCxkYTlkZTAzNDY1OGVlNDg1ZTRhNjU5OTJmYjYwNzI4OTIxYThlOTc3`
+Snapshot ID: `MCw4N2UwN2UwZWFjODRhOGM0MThlYWZjNWI1YWE5NTBlOTY4YmQxM2Q1`

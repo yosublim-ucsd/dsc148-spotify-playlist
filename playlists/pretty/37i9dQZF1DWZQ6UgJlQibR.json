@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 80729,
+  "num_followers": 80758,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGFmNzIxMzRhM2YxNzkyOWEyZWJmZTJhOWYxNDJmZTU3MWFlM2E2",
+  "snapshot_id": "MCw4ODk0YmNiYzYxMjU1ZjZlN2NlNThlYzc2MWEyNjU4ODY3ZTZlMzcw",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -123,38 +123,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Maliket Gamal El Rouh",
-        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
-      },
-      "artists": [
-        {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
-        }
-      ],
-      "duration_ms": 227869,
-      "name": "Maliket Gamal El Rouh",
-      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Haramt Ahebak",
-        "url": "https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo"
-      },
-      "artists": [
-        {
-          "name": "Warda",
-          "url": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
-        }
-      ],
-      "duration_ms": 476487,
-      "name": "Haramt Ahebak",
-      "url": "https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "El Toba",
         "url": "https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu"
       },
@@ -187,6 +155,38 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Haramt Ahebak",
+        "url": "https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo"
+      },
+      "artists": [
+        {
+          "name": "Warda",
+          "url": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
+        }
+      ],
+      "duration_ms": 476487,
+      "name": "Haramt Ahebak",
+      "url": "https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Maliket Gamal El Rouh",
+        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 227869,
+      "name": "Maliket Gamal El Rouh",
+      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Law Fina",
         "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
       },
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Hal El Garih",
-        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
+        "name": "Badak Maleoun Seneh",
+        "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
       },
       "artists": [
         {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+          "name": "Melhem Barakat",
+          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
         }
       ],
-      "duration_ms": 201598,
-      "name": "Hal El Garih",
-      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
+      "duration_ms": 954506,
+      "name": "Ala Babee Waqef Qamaren",
+      "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -231,22 +231,6 @@
       "duration_ms": 545586,
       "name": "Baatereflek",
       "url": "https://open.spotify.com/track/7CtrUBl2322AbN94u1aWSl"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Badak Maleoun Seneh",
-        "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
-      },
-      "artists": [
-        {
-          "name": "Melhem Barakat",
-          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
-        }
-      ],
-      "duration_ms": 954506,
-      "name": "Ala Babee Waqef Qamaren",
-      "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -303,6 +287,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Hal El Garih",
+        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 201598,
+      "name": "Hal El Garih",
+      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Tarab Hits",
         "url": "https://open.spotify.com/album/0OgTQ6y9BY3fZ4RaCsM6wJ"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Kfoury Classic",
-        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 342973,
-      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
-      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Ossit Helem",
         "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 389773,
       "name": "Al-Hobbi Koullou",
       "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Kfoury Classic",
+        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 342973,
+      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
+      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Sheel Oyoonak Anni",
-        "url": "https://open.spotify.com/album/3XuDhEdBDaT1zd9mmUfo77"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Sheel Oyounak Anni",
-      "url": "https://open.spotify.com/track/2PRL8u9zyCRResNVXeSgQw"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 449226,
       "name": "Ibaati Gawab",
       "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Sheel Oyoonak Anni",
+        "url": "https://open.spotify.com/album/3XuDhEdBDaT1zd9mmUfo77"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Sheel Oyounak Anni",
+      "url": "https://open.spotify.com/track/2PRL8u9zyCRResNVXeSgQw"
     },
     {
       "added_at": "2022-09-13 14:22:57",

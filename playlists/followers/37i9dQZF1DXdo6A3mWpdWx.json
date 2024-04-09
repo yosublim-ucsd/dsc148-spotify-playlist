@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 826678,
+  "2024-04-09": 827261,
   "date_first_scraped": "2022-02-13",
   "description": "The biggest party hits of the 1990s. Cover: B*Witched",
   "name": "90s Party",
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-08",
       "duration_ms": 223813,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/7Jg65cOkLoiT7Q4vQqUvIG"
@@ -3099,7 +3099,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "It's a Rainy Day",
       "url": "https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC"

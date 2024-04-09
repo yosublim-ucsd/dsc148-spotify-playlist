@@ -1,5 +1,5 @@
 {
-  "2024-04-08": 254156,
+  "2024-04-09": 254266,
   "date_first_scraped": "2022-05-30",
   "description": "Ambient and percussion to move the body and heal the soul.",
   "name": "Healing Rhythms",
@@ -1044,6 +1044,24 @@
     },
     {
       "album": {
+        "name": "Inner intuition",
+        "url": "https://open.spotify.com/album/0V5qQhB4oEjt1B24AAmWgw"
+      },
+      "artists": [
+        {
+          "name": "Dumana",
+          "url": "https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153493,
+      "name": "Inner Intuition",
+      "url": "https://open.spotify.com/track/2WNrn26PWJDLx5Gnjhb2Hy"
+    },
+    {
+      "album": {
         "name": "Inner Sanctum",
         "url": "https://open.spotify.com/album/0plusPTJbziOVYoqGEHQV7"
       },
@@ -1869,6 +1887,24 @@
       "duration_ms": 170367,
       "name": "Spring",
       "url": "https://open.spotify.com/track/6YQhvOxkbiEyfQ8HJOGcUA"
+    },
+    {
+      "album": {
+        "name": "Sumati Arya",
+        "url": "https://open.spotify.com/album/2bAxEHExcAAFGR1tDeWYqR"
+      },
+      "artists": [
+        {
+          "name": "Tsuchida Kasumi",
+          "url": "https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Sumati Arya",
+      "url": "https://open.spotify.com/track/33dVebZSHCWHN4H6pV8OCY"
     },
     {
       "album": {

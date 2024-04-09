@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jenni Rivera. Los temas esenciales, todos en una lista.",
-  "num_followers": 460973,
+  "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
+  "num_followers": 461109,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGM3YjRlMzJkNDgyY2U2ZmViZjc0MjEwMWM2MWY0OGUzOWE4YTI4",
+  "snapshot_id": "MCxmZDRmYjU2NjA2YjQxNDIyMjI0NDg1ZDAyODc1ODNiZWZmY2NhZDcy",
   "tracks": [
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Gran Se\u00f1ora (En Vivo)",
-        "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 184026,
-      "name": "\u00c9l - Banda",
-      "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
+      "duration_ms": 178840,
+      "name": "Querida Socia",
+      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+        "name": "La Gran Se\u00f1ora (En Vivo)",
+        "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Querida Socia",
-      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
+      "duration_ms": 184026,
+      "name": "\u00c9l - Banda",
+      "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
     },
     {
       "added_at": null,

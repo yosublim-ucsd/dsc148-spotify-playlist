@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-675 songs - 2 day 17 hr 11 min
+676 songs - 2 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [Rush](https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Rush](https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo) | 6:36 | 2022-03-25 | 2022-09-03 |
 | [Sabotage](https://open.spotify.com/track/6Jq60qpC6EeD0tUeRbPM2m) | [Uncertain](https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm) | [Sabotage EP](https://open.spotify.com/album/48Zh6P4xu8LPMTdcqvbB9o) | 5:23 | 2022-04-22 | 2022-06-18 |
 | [Sacrifice](https://open.spotify.com/track/6NTaOUrQf8tpu13sJUTU4J) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Sacrifice EP](https://open.spotify.com/album/5fLqtNXMYQ4QX26XKOarTf) | 6:27 | 2020-04-18\* | 2021-01-18 |
-| [Sakura](https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Sakura](https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6) | 4:28 | 2023-08-18 |  |
+| [Sakura](https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Sakura](https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6) | 4:28 | 2023-08-18 | 2024-04-09 |
 | [Salvation](https://open.spotify.com/track/4O5EJGMBjFFe0OihGvGpxt) | [Ignacio Arfeli](https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp) | [Salvation](https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr) | 4:09 | 2024-02-05 | 2024-02-23 |
 | [Sandbox Wars](https://open.spotify.com/track/1RrrlYfLmQveNOFvkVko8v) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Sandbox Wars](https://open.spotify.com/album/7f468hoVKxOGPtXrbcaVzl) | 6:21 | 2020-11-28 | 2021-03-27 |
 | [Saturn \- Original Mix](https://open.spotify.com/track/1uUb7jXf2JoKHxslefbC9W) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Alan Wools](https://open.spotify.com/artist/7o3vkxJ1muibqnDdlqOf8x) | [Saturn](https://open.spotify.com/album/0eptCJb4IbhfK9q3ITdUuX) | 3:39 | 2020-04-18\* | 2021-02-13 |
@@ -625,6 +625,7 @@
 | [Triple H](https://open.spotify.com/track/5JyafhDS6oapE6GCQMY0SD) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Triple H](https://open.spotify.com/album/6QkLYzyRekvkJJNe6y51jo) | 5:47 | 2023-05-26 | 2023-07-05 |
 | [Tunnel](https://open.spotify.com/track/6J8CNMeXUBKpoTxGNxvHG1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Tunnel](https://open.spotify.com/album/5uDI9IsrUmEBWXT9hFRZpN) | 6:01 | 2021-12-04 | 2022-05-14 |
 | [Two Steps from Heaven](https://open.spotify.com/track/0eRbOJ7nguOh6UCV1Lbpwn) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Disco Inferno 01](https://open.spotify.com/album/2Knz72wmGmCdGPTRqJZWB6) | 9:27 | 2024-01-22 |  |
+| [Tyler's Toolkit](https://open.spotify.com/track/6qwMfl6YzGwHGMd7O8kAdH) | [Disguised](https://open.spotify.com/artist/3eIDHfo94uKVDqWrLDRgCG) | [Tyler's Toolkit](https://open.spotify.com/album/07tq0NGJBjxon42BLzGNLT) | 7:29 | 2024-04-08 |  |
 | [UFOs & LFOs](https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Digital Age](https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t) | 4:56 | 2022-09-02 | 2023-02-11 |
 | [Ultimate Distortion](https://open.spotify.com/track/4KtFLus8yM9ieUoe3Mx6SY) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Ultimate Distortion](https://open.spotify.com/album/5SkqIWKh1nZInfBx2mC2Jb) | 6:20 | 2020-11-28 | 2021-06-26 |
 | [Unbowed](https://open.spotify.com/track/73mHZbUzM8VEIp708jQJ26) | [Coyu](https://open.spotify.com/artist/5cKSSXjPNJJ6Fkm9sCMplh) | [Unbowed EP](https://open.spotify.com/album/3EpPdinMHsUp76uCInSTuf) | 5:42 | 2023-01-27 | 2023-02-11 |

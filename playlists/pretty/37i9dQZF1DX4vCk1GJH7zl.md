@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra, Hotelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,347 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,352 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 74 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
 | 75 | [Que Haja Amor \- Ao Vivo](https://open.spotify.com/track/0QNtVyOxfVs8qUcTzB3nz8) | [Delittus](https://open.spotify.com/artist/3jGgAV4HKOqvQcOEdK4yer), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Delittus 15 Anos \(Ao Vivo\)](https://open.spotify.com/album/0o1b8zCvsWHiakPhlC0YJY) | 4:46 |
 
-Snapshot ID: `MCxmNzAzMmE4OGY1ZjJhNzQyNjAzY2Y3ZTA0MTRhMjk0OWE1YTZkNDJj`
+Snapshot ID: `MCxlMDM2MDhlNTNlMjY2YjQ0OTBlYTJiMTI2YWMyMzQ4Zjk5NjY1MGVi`

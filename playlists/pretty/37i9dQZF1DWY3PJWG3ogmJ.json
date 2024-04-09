@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 647574,
+  "num_followers": 647764,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTM3NTNlMjYxZjY4MzViMDIwNGQ3MGQ3Zjk3Nzk0NTMwZWYxYWNl",
+  "snapshot_id": "MCxiYWJhYTE4ZjM4YmRlMGRlYWE4ZWI3ZGZiYzQyNDc2YzE1MTk3MjY5",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 227440,
       "name": "Choke",
       "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "I Will Be Heard",
+      "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
     },
     {
       "added_at": "2023-02-08 14:40:50",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Perseverance",
-        "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
       "artists": [
         {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 178666,
-      "name": "I Will Be Heard",
-      "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -183,6 +183,22 @@
       "duration_ms": 284400,
       "name": "Scourge of Iron",
       "url": "https://open.spotify.com/track/6V3SNkvi4BnfmZU0j7s9TQ"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Destroy Everything",
+      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -267,18 +283,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Supremacy",
-        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
       "artists": [
         {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Destroy Everything",
-      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
+      "duration_ms": 225245,
+      "name": "Executioner's Tax (Swing of the Axe)",
+      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -295,22 +311,6 @@
       "duration_ms": 187142,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/3T3HQbUNL5abOheRDENfOV"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Executioner's Tax (Swing of the Axe)",
-      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "The Truest Love",
+      "url": "https://open.spotify.com/track/0bQQFw0ODv0XVqrquk0CDQ"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Fracture",
         "url": "https://open.spotify.com/album/0m0oTvI6SHfVmYHuq4jU8p"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG"
+        "name": "Inked in Blood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k"
       },
       "artists": [
         {
-          "name": "Kublai Khan TX",
-          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
         }
       ],
-      "duration_ms": 231625,
-      "name": "The Truest Love",
-      "url": "https://open.spotify.com/track/0bQQFw0ODv0XVqrquk0CDQ"
+      "duration_ms": 254118,
+      "name": "Visions in My Head",
+      "url": "https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -559,22 +575,6 @@
       "duration_ms": 169546,
       "name": "To the Threshold",
       "url": "https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Inked in Blood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k"
-      },
-      "artists": [
-        {
-          "name": "Obituary",
-          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
-        }
-      ],
-      "duration_ms": 254118,
-      "name": "Visions in My Head",
-      "url": "https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Death Perception",
-        "url": "https://open.spotify.com/album/7CpkZr08eLIFGLwlMrg2ev"
+        "name": "Welcome to the West Coast",
+        "url": "https://open.spotify.com/album/15IZ0SjrSoX6dP9OOBu8gd"
       },
       "artists": [
         {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
         }
       ],
-      "duration_ms": 154628,
-      "name": "Death Perception",
-      "url": "https://open.spotify.com/track/7F9mf1qxNAU9T886jeUoUA"
+      "duration_ms": 189985,
+      "name": "Lhhc",
+      "url": "https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Welcome to the West Coast",
-        "url": "https://open.spotify.com/album/15IZ0SjrSoX6dP9OOBu8gd"
+        "name": "Death Perception",
+        "url": "https://open.spotify.com/album/7CpkZr08eLIFGLwlMrg2ev"
       },
       "artists": [
         {
-          "name": "Lionheart",
-          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
         }
       ],
-      "duration_ms": 189985,
-      "name": "Lhhc",
-      "url": "https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC"
+      "duration_ms": 154628,
+      "name": "Death Perception",
+      "url": "https://open.spotify.com/track/7F9mf1qxNAU9T886jeUoUA"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Posthuman",
-        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
-      },
-      "artists": [
-        {
-          "name": "Harms Way",
-          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
-        }
-      ],
-      "duration_ms": 197879,
-      "name": "Human Carrying Capacity",
-      "url": "https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Legacy of Shi",
         "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 191746,
       "name": "Nekketsu",
       "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Posthuman",
+        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
+      },
+      "artists": [
+        {
+          "name": "Harms Way",
+          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
+        }
+      ],
+      "duration_ms": 197879,
+      "name": "Human Carrying Capacity",
+      "url": "https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Opening Fire: 2008-2014",
-        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Divine Apprehension",
-      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "You Will Never Be One of Us",
         "url": "https://open.spotify.com/album/0mcy7rGwHhNsPQTaNbvaac"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Bleed-Abide",
-        "url": "https://open.spotify.com/album/1PcvrxS7q5g9n1MxC7BOo4"
+        "name": "Opening Fire: 2008-2014",
+        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
       },
       "artists": [
         {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 194208,
-      "name": "Behind the Crowd",
-      "url": "https://open.spotify.com/track/0RaMMxG2LIexxGz4a3fEZt"
+      "duration_ms": 257695,
+      "name": "Divine Apprehension",
+      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1003,6 +987,22 @@
       "duration_ms": 216813,
       "name": "All Love Is Lost (feat. Max Cavalera)",
       "url": "https://open.spotify.com/track/3AsOm7qVG0IWyLFKRH7v6V"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Bleed-Abide",
+        "url": "https://open.spotify.com/album/1PcvrxS7q5g9n1MxC7BOo4"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 194208,
+      "name": "Behind the Crowd",
+      "url": "https://open.spotify.com/track/0RaMMxG2LIexxGz4a3fEZt"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Strength in Numbers",
-        "url": "https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN"
-      },
-      "artists": [
-        {
-          "name": "The Haunted",
-          "url": "https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq"
-        }
-      ],
-      "duration_ms": 295560,
-      "name": "Preachers of Death",
-      "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Level Above Human",
         "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 258245,
       "name": "Invidious",
       "url": "https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Strength in Numbers",
+        "url": "https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN"
+      },
+      "artists": [
+        {
+          "name": "The Haunted",
+          "url": "https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq"
+        }
+      ],
+      "duration_ms": 295560,
+      "name": "Preachers of Death",
+      "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Sentenced to Life",
-        "url": "https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb"
-      },
-      "artists": [
-        {
-          "name": "Black Breath",
-          "url": "https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Feast of the Damned",
-      "url": "https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "666-Pack",
         "url": "https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 92612,
       "name": "All Mosh / No Brain",
       "url": "https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Sentenced to Life",
+        "url": "https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb"
+      },
+      "artists": [
+        {
+          "name": "Black Breath",
+          "url": "https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Feast of the Damned",
+      "url": "https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "One Day Closer to the End of the World",
-        "url": "https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm"
-      },
-      "artists": [
-        {
-          "name": "Cattle Decapitation",
-          "url": "https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn"
-        }
-      ],
-      "duration_ms": 227398,
-      "name": "One Day Closer to the End of the World",
-      "url": "https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 198600,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "One Day Closer to the End of the World",
+        "url": "https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm"
+      },
+      "artists": [
+        {
+          "name": "Cattle Decapitation",
+          "url": "https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn"
+        }
+      ],
+      "duration_ms": 227398,
+      "name": "One Day Closer to the End of the World",
+      "url": "https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP"
     },
     {
       "added_at": "2023-01-18 15:54:17",

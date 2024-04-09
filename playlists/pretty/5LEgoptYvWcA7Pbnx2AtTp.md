@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 83 songs - 5 hr 5 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 85 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 81 | [Four Little Diamonds](https://open.spotify.com/track/6dEGo0qXo7dyFtPh0UjTNG) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:05 |
 | 82 | [C'est la vie](https://open.spotify.com/track/0UhWFmdlrBSmZ7A6bFD8L9) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:14 |
 | 83 | [1993 \(feat\. Little Ricky ZR3\)](https://open.spotify.com/track/71iA79hOFAMmwGB1w83VH1) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Little Ricky ZR3](https://open.spotify.com/artist/6GaslxycqT27V8q2H3yZ7x) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:39 |
+| 84 | [A Ghost Story](https://open.spotify.com/track/2FoxK1MoP36ZiIfwooZI6j) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Incantations](https://open.spotify.com/album/5CfNebrzhXfZqa5aRQlOPb) | 2:26 |
+| 85 | [Bread](https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Bread](https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV) | 1:42 |
 
-Snapshot ID: `MTE1LDQwNzQ4YjUyYzBlZGRmM2U2ZDA5NTUwZDViNDE1YzhlNmFkMjU4ZjA=`
+Snapshot ID: `MTE3LGJmNjA1YzJjNjc0MzhlYTdiOGIzZmIwN2Y0MDBmY2MzNWRiM2VkZjQ=`
