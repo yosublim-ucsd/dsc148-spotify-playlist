@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > ¡Pa' toda la raza carnavalera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,406 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,463 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 31 | [Al Estilo Potosí: El Pistolero / Ordeñando la Vaca / Cuando los Frijoles Bailan](https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 4:24 |
 | 32 | [El Condor Pasa](https://open.spotify.com/track/5wmZVCE7vxFr6Gzl6H4fOg) | [Banda RG\. Rancho Grande](https://open.spotify.com/artist/136OmZPTRgtELzB83WdW8g) | [Te Advierto](https://open.spotify.com/album/4T5rNGbPphSO5cBNjDEkNc) | 3:39 |
 | 33 | [Chilito Piquín](https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 2:31 |
-| 34 | [Popurri Sones: Maria Chuchena / Ya Llegué ya Estoy Aquí / Era de Madrugada / Juan Colorado](https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
-| 35 | [El Huitzuqueño](https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko \(Serie Titanium\)](https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo) | 3:07 |
+| 34 | [El Huitzuqueño](https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko \(Serie Titanium\)](https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo) | 3:07 |
+| 35 | [Popurri Sones: Maria Chuchena / Ya Llegué ya Estoy Aquí / Era de Madrugada / Juan Colorado](https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
 | 36 | [La Feria de Cali](https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 2:41 |
 | 37 | [Chineleando](https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [Contra Viento y Marea](https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo) | 4:21 |
 | 38 | [El Toro De Once \- En Vivo](https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 1:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 74 | [El Pato Asado, El Ahualulco \- En Vivo](https://open.spotify.com/track/2Nat0Cc2ddJVkkRqKlRN0M) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 5:25 |
 | 75 | [El Sinaloense](https://open.spotify.com/track/0b9MLh70Nx7Ix3Nn3Azs0E) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [En Vivo](https://open.spotify.com/album/4XNAcJHIkjMeV634pBtTY5) | 4:33 |
 
-Snapshot ID: `MCwxNzFjYzdjZTViN2Y1N2RmM2YzNDcyMzhiMTM0Zjc3M2ZlNzkyNjRl`
+Snapshot ID: `MCwyMjc5OTgxZGQyNWE3OTJhYjExNGYwNWFiNDdkOTMwZjM1OGViYzky`

@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 404400,
+  "num_followers": 404427,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWEyNzI4OWVkNjYxMzg3MzY1MWMzNDU4MzY0YTI2ZDhiOGJlNWVh",
+  "snapshot_id": "MCxhMDZmZTI3YTI4NTVmYWM5YzBjY2EwZDJlZDA3ZDJlZjJkZWI4MjI0",
   "tracks": [
     {
       "added_at": "2024-03-01 06:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "La Historia... Los \u00c9xitos",
         "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 259853,
       "name": "Yo No S\u00e9 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 199320,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Espejeando",
+      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Espejeando",
-      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -643,22 +659,6 @@
       "duration_ms": 188429,
       "name": "La Boda del Huitlacoche - En Vivo",
       "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Un Millon de Rosas",
-      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Pa' Gozar - Zona Rika",
         "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 235821,
       "name": "Spanish Girl",
       "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Un Millon de Rosas",
+      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Tan Bella y Tan Presumida (En Vivo)",
-        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida - En Vivo",
-      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "De Mil Maneras",
         "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "La Noche Que Murio Chicago",
-        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+        "name": "Tan Bella y Tan Presumida (En Vivo)",
+        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
       },
       "artists": [
         {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 161226,
-      "name": "La Noche Que Murio Chicago",
-      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+      "duration_ms": 181264,
+      "name": "Tan Bella y Tan Presumida - En Vivo",
+      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 198613,
       "name": "Cumbia De La Cobra",
       "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "La Noche Que Murio Chicago",
+      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 287896,
-      "name": "En Mi Escritorio (La Carta)",
-      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "30 Exitos Inolvidables",
         "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
       "artists": [
         {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
         }
       ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+      "duration_ms": 287896,
+      "name": "En Mi Escritorio (La Carta)",
+      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1543,6 +1527,22 @@
       "duration_ms": 160626,
       "name": "La ni\u00f1a fresa",
       "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Soy El Aventurero",
+        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
+      },
+      "artists": [
+        {
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+        }
+      ],
+      "duration_ms": 186247,
+      "name": "Yo Quiero Quebrarte",
+      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "El Final De Nuestra Historia",
         "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Soy El Aventurero",
-        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
-      },
-      "artists": [
-        {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
-        }
-      ],
-      "duration_ms": 186247,
-      "name": "Yo Quiero Quebrarte",
-      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
     },
     {
       "added_at": "2024-03-01 06:00:00",

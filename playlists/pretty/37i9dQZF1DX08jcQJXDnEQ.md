@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > The best metal songs of the 90s\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,216 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,853 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,26 +60,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 50 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
 | 51 | [Got The Time](https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time \(30th Anniversary Remaster\)](https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA) | 2:44 |
 | 52 | [Last Man Standing](https://open.spotify.com/track/18S33odAheWBHbVAefiRLM) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Any Means Necessary](https://open.spotify.com/album/19B8sBoHytS1ntvmy2QVju) | 4:30 |
-| 53 | [Refuse / Resist](https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 3:19 |
+| 53 | [Bück dich](https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:23 |
 | 54 | [Wherever I May Roam \(Remastered\)](https://open.spotify.com/track/745sNpjWbAxo2MA2zSYbyD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:44 |
-| 55 | [Bück dich](https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:23 |
+| 55 | [Refuse / Resist](https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 3:19 |
 | 56 | [Seasons In The Abyss](https://open.spotify.com/track/3Ky8IzV8IVSwijtaTWB2SK) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 6:37 |
 | 57 | [Loco](https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd) | 4:14 |
 | 58 | [Tears of the Dragon \(2001 Remaster\)](https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls to Picasso \(2001 Remaster\)](https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X) | 6:24 |
 | 59 | [Counterfeit](https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 5:08 |
 | 60 | [Space Lord](https://open.spotify.com/track/6GGfYfQlQhHidVOJO1tNgK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L) | 5:55 |
 | 61 | [Jet City Woman \- Remastered 2003](https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:21 |
-| 62 | [Territory](https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 4:47 |
-| 63 | [Dead Skin Mask](https://open.spotify.com/track/0t1lDXmMWBzF6mfnQ6KwqZ) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 5:20 |
-| 64 | [Monkey Business](https://open.spotify.com/track/4bINqmqxF9EUNcRvA0TZqi) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E) | 4:18 |
+| 62 | [Monkey Business](https://open.spotify.com/track/4bINqmqxF9EUNcRvA0TZqi) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E) | 4:18 |
+| 63 | [Territory](https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 4:47 |
+| 64 | [Dead Skin Mask](https://open.spotify.com/track/0t1lDXmMWBzF6mfnQ6KwqZ) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 5:20 |
 | 65 | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH) | 7:18 |
 | 66 | [March Of The Pigs](https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 2:58 |
 | 67 | [Bring The Noise](https://open.spotify.com/track/1p50Ir1Hm6Sa1urjaLGi7L) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP), [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Attack Of The Killer B's](https://open.spotify.com/album/6Ic0P6UAAHeyAsnvri4qXS) | 3:31 |
 | 68 | [Night Crawler](https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 5:44 |
-| 69 | [Arise](https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 3:18 |
+| 69 | [Black](https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Sevendust \(Definitive Edition\)](https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3) | 4:08 |
 | 70 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 |
-| 71 | [Black](https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Sevendust \(Definitive Edition\)](https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3) | 4:08 |
-| 72 | [War Ensemble](https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 4:51 |
+| 71 | [War Ensemble](https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 4:51 |
+| 72 | [Arise](https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 3:18 |
 | 73 | [You Can't Bring Me Down](https://open.spotify.com/track/203xxdlledLFnkqrUleD72) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 5:48 |
 | 74 | [Clean My Wounds](https://open.spotify.com/track/6g48vpikqU2atsrDXdGzKo) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 3:32 |
 | 75 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 99 | [Bring Your Daughter...To the Slaughter \(2015 Remaster\)](https://open.spotify.com/track/3kCbJ8yQuj0kAQBP7E4GTB) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer for the Dying \(2015 Remaster\)](https://open.spotify.com/album/2uMfzU12ioMp5zqQwhvt8g) | 4:43 |
 | 100 | [War?](https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:40 |
 
-Snapshot ID: `MCxmMjU5MGRiNjM1ODllOGQ1NDk1ZWY0YTA1MGZjMzNlZjk4YWZmNTlk`
+Snapshot ID: `MCwxZDk0M2YyOGViM2M2NGE1NzZiYjNkNmY3NzcxZDI1ZTAwZThjMWY1`

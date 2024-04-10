@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more\. Cover \- Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,926 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,978 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 59 | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Harrykahanhai](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk) | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS) | 3:14 |
 | 60 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 |
 
-Snapshot ID: `MCwxZDkxYjVkY2YzZDcwYmQwYzk1MTViYzA2YWViYzQyY2ZmMTIzNmU5`
+Snapshot ID: `MCw5ZGQzYjJlYjE0NWRiMjNkNDNlZWE5N2FiMWRhYWQ2ZDA1M2M2NjFm`

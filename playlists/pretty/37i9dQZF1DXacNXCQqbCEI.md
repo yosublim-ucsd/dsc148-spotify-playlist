@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,115 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,139 likes - 60 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 41 | [Siete](https://open.spotify.com/track/6H76nYgiuQ1BotX9hUKW6i) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Siku](https://open.spotify.com/album/3Ebykp28PuMSSQfqzkt8DO) | 5:47 |
 | 42 | [Sin Freno](https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 5:13 |
 | 43 | [Presagio](https://open.spotify.com/track/7hVwUppGpBWzfyEvejlYjz) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:33 |
-| 44 | [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 |
-| 45 | [Otun \(feat\. Nidia Gongora\)](https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 3:25 |
+| 44 | [Otun \(feat\. Nidia Gongora\)](https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 3:25 |
+| 45 | [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 |
 | 46 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 |
 | 47 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 |
 | 48 | [Brillo Más Que El Oro \(La Bala Apuntándome\)](https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Ahomale](https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe) | 3:56 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 54 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
 | 55 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 |
 | 56 | [Pachamama](https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Claudia Manzo](https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg) | [ATO 3: América do Sol](https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC) | 2:37 |
-| 57 | [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 |
-| 58 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
+| 57 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
+| 58 | [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 |
 | 59 | [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 |
 | 60 | [El Quemado](https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [De Aquí Hasta Aquí](https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY) | 3:16 |
 
-Snapshot ID: `MCw4N2I0NGVlNWY4MGYzMmQyZWU3NTI1MDhkNDI3NmM5Njk0MDc2ZjAy`
+Snapshot ID: `MCxlZGQxNTA1NzQ0NmMxMWQzZGU2YTU5OTcxYzNlODUzZTY0NTA0NGM3`

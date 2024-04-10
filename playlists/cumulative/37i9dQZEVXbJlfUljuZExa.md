@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-923 songs - 2 day 5 hr 5 min
+924 songs - 2 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Butter \(Instrumental\)](https://open.spotify.com/track/2Ol2sv6gePRdJrZC1hDVNY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:42 | 2021-07-11 | 2021-07-12 |
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 | 2021-08-29 | 2021-09-13 |
 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 | 2024-03-11 | 2024-03-25 |
+| [Cahaya Aidilfitri](https://open.spotify.com/track/5Qau6YAMpNHcWFDT5Aqgsn) | [Black Dog Bone](https://open.spotify.com/artist/2J7Y71FYEeL9Ksv2e5sdkf) | [25 Lagu\-Lagu Hari Raya Aidilfitri](https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc) | 3:43 | 2024-04-09 |  |
 | [Cahaya Aidilfitri](https://open.spotify.com/track/77QVIMNs9jeiTsTURUkhGa) | [Black Dog Bone](https://open.spotify.com/artist/2J7Y71FYEeL9Ksv2e5sdkf) | [Cahaya Aidilfitri](https://open.spotify.com/album/2RQc66p15MVsnLt3YgQ6Ms) | 3:43 | 2021-05-11 | 2023-04-25 |
 | [California \(feat\. Warren Hue\)](https://open.spotify.com/track/3Qj2f7BrpJNGj3dbxKpOlp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [California \(feat\. Warren Hue\)](https://open.spotify.com/album/2gCRiVJ8w6f64f2rtb3TAD) | 3:50 | 2021-06-05 | 2021-06-08 |
 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2022-07-03 | 2022-09-18 |
@@ -199,7 +200,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-02 | 2023-09-24 |
 | [Dad](https://open.spotify.com/track/0p4AJ91CdS1k8ibpguPJg5) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:54 | 2021-07-28 | 2021-07-30 |
 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-26 | 2023-08-26 |
-| [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2021-04-26 |  |
+| [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2021-04-26 | 2024-04-10 |
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-16 | 2022-08-28 |
 | [Dari Jauh Kupohon Maaf](https://open.spotify.com/track/6UTI3490SQ3rQdUfGXeKuc) | [Dato' Sudirman](https://open.spotify.com/artist/1HvVjPpCzFFgIo2XrDxM2x) | [25 Lagu\-Lagu Hari Raya Aidilfitri](https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc) | 3:45 | 2024-04-07 |  |
 | [Dari Jauh Kupohon Maaf](https://open.spotify.com/track/3brV0xXqxX3NHvqY1QJ3xj) | [Dato' Sudirman](https://open.spotify.com/artist/1HvVjPpCzFFgIo2XrDxM2x) | [Balik Kampung](https://open.spotify.com/album/3KGjxgFj40CxOYfAUzIEcg) | 3:49 | 2021-05-05 | 2023-04-25 |

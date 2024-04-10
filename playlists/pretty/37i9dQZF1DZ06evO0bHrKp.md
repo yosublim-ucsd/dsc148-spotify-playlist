@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,359 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,412 likes - 47 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,6 +55,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 45 | [A Death In The Family](https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:18 |
 | 46 | [Pain For Pleasure](https://open.spotify.com/track/4VtSO2QcHikRASfuNi7JOM) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 1:43 |
 | 47 | [Breaking The Chain](https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 4:03 |
-| 48 | [Heads Will Roll](https://open.spotify.com/track/2YIbk9mnCHCR83YPhqshaJ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
 
-Snapshot ID: `MCwyOWNmOTJjMDU0Yjk1MTJlZjJmMzVlNmU2ZjI5NDExZjgxOTVjNjUw`
+Snapshot ID: `MCwxNjUzYTAwMWU0ZjdmYmRhZWJkZjNkZTIyMjQzNzI2ZDRhN2ZjMGU2`

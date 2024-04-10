@@ -2092,10 +2092,36 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 183960,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/0cfhAHypL9t9ff2G23qJFR"
+    },
+    {
+      "album": {
+        "name": "Alligatorz",
+        "url": "https://open.spotify.com/album/1kBZD8UO8SS4101VfqGysY"
+      },
+      "artists": [
+        {
+          "name": "Alligatorz",
+          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
+        },
+        {
+          "name": "Hey Haad",
+          "url": "https://open.spotify.com/artist/2YnfXOwOUjmA9hHm2du6HE"
+        },
+        {
+          "name": "Ray Wright",
+          "url": "https://open.spotify.com/artist/0U5TX4ikhEk0Af9SX3ZOmd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "Work That Body",
+      "url": "https://open.spotify.com/track/1e2wgHOAxNRZzIAtcTB27v"
     },
     {
       "album": {

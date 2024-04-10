@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,071 likes - 125 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,246 likes - 125 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 45 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 |
 | 46 | [Words](https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Horizontal \(Deluxe Version\)](https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05) | 3:18 |
 | 47 | [La\-La Means I Love You](https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 3:20 |
-| 48 | [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:10 |
-| 49 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
+| 48 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
+| 49 | [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:10 |
 | 50 | [I Will Follow You](https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [For Your Sweet Love](https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox) | 2:26 |
 | 51 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
 | 52 | [Chapel Of Love](https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [The Very Best of The Dixie Cups: Chapel of Love](https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8) | 2:50 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 65 | [San Francisco \(Be Sure to Wear Some Flowers In Your Hair\)](https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [The Voice of Scott McKenzie \(Expanded Edition\)](https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ) | 2:58 |
 | 66 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
 | 67 | [Massachusetts \- Stereo Version](https://open.spotify.com/track/3o7k5Mcdi0PFAXICTqjxra) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Horizontal \(Deluxe Version\)](https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05) | 2:26 |
-| 68 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
-| 69 | [Both Sides Now](https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:33 |
+| 68 | [Both Sides Now](https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:33 |
+| 69 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
 | 70 | [Are You Lonesome Tonight?](https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 3:06 |
 | 71 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 |
 | 72 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 101 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [A Date with The Everly Brothers](https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P) | 2:22 |
 | 102 | [More Than I Can Say](https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Bobby Vee](https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV) | 2:29 |
 | 103 | [What the World Needs Now Is Love](https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Close to You](https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA) | 3:10 |
-| 104 | [Harbor Lights](https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Reflections](https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F) | 3:14 |
-| 105 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
+| 104 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
+| 105 | [Harbor Lights](https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Reflections](https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F) | 3:14 |
 | 106 | [For Your Precious Love](https://open.spotify.com/track/4HiOvJ1lASRijDaaqtZQ9N) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [For Your Precious Love...](https://open.spotify.com/album/2PHrZGSFqrXwJ4RM5svp4T) | 2:45 |
 | 107 | [Honey \(I Miss You\)](https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6) | [Gary Puckett & The Union Gap](https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ) | [Gary Puckett & The Union Gap Featuring "Young Girl"](https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M) | 4:12 |
 | 108 | [Make It Easy On Yourself](https://open.spotify.com/track/5DNmWyeY9sildeeHnmIImG) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Take It Easy With The Walker Brothers](https://open.spotify.com/album/5093E69Qt7j5Pv49zaEbhr) | 3:13 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 124 | [Trust In Me](https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:58 |
 | 125 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
 
-Snapshot ID: `MCxmNzBiMWFjYmM4YmZmMDUxYmMwNGY2OWYwYWU4NTJjNGQxZDViY2Zl`
+Snapshot ID: `MCxiMGE1YmY5NGYzMmUzZDI0ODg1MmIzNzkwMmYxOTFjODg0NTU3MGE5`

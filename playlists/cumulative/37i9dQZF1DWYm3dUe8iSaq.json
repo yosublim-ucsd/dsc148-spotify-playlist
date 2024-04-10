@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 204293,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ"
@@ -2768,6 +2768,24 @@
       "duration_ms": 215478,
       "name": "Mother In The Sky",
       "url": "https://open.spotify.com/track/7fyX5m7szAoc3xwgA8EbsL"
+    },
+    {
+      "album": {
+        "name": "My Heart Can't Take A Hint",
+        "url": "https://open.spotify.com/album/4BllECII7yWwrw1dwuDQiX"
+      },
+      "artists": [
+        {
+          "name": "Swimmingly",
+          "url": "https://open.spotify.com/artist/5TwNdcFYWfZtvq3uUPKvTg"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "My Heart Can't Take A Hint",
+      "url": "https://open.spotify.com/track/79r6w6rpfSDdq2qSleztWj"
     },
     {
       "album": {

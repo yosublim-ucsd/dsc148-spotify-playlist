@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-542 songs - 1 day 5 hr 35 min
+543 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2022-01-13 | 2022-10-21 |
 | [3 outfits](https://open.spotify.com/track/78zWCikDMYzFpXAdqANPrD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [3 outfits](https://open.spotify.com/album/0SFK4Bn2QtKOi1bJieGPZ1) | 3:30 | 2022-03-28 | 2022-07-29 |
 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2022-03-25 | 2022-10-13 |
-| [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 | 2022-12-02 |  |
+| [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 | 2022-12-02 | 2024-04-10 |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-11 | 2023-05-31 |
 | [5 Years Time](https://open.spotify.com/track/5VaPx8jYNENRGmOOhScbW1) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/5AuoAfjnUUnH6b6kkpyk6F) | 3:34 | 2022-03-28 | 2022-04-20 |
 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2021-12-29 | 2022-07-04 |
@@ -235,6 +235,7 @@
 | [High](https://open.spotify.com/track/1xF4jrICj7AgpCD8b7oSHI) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [High](https://open.spotify.com/album/0mfSM4OpXYzHfOkathaNd5) | 2:22 | 2023-01-06 | 2023-01-21 |
 | [Hip Hop Hooray](https://open.spotify.com/track/1w29UTa5uUvIri2tWtZ12Y) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [19 Naughty III](https://open.spotify.com/album/4OEP9VlZWOCt1QcOzX0oXF) | 4:27 | 2022-04-01 | 2022-04-11 |
 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 | 2022-03-25 | 2022-04-19 |
+| [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2024-03-08 |  |
 | [Ho Hey](https://open.spotify.com/track/7eAUXhbTO8lKvx9zydSbvA) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6eomkLwozF3PpGHjDcSFAw) | 2:43 | 2022-03-25 | 2022-04-21 |
 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 | 2022-03-28 | 2022-04-19 |
 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 | 2021-12-29 | 2022-04-17 |

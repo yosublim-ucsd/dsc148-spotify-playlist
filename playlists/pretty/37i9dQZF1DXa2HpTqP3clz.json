@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132471,
+  "num_followers": 132493,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmIwNzFkNjI4MThhODJkNWJlZGNkMTY4NWFmM2RlMDNmZThhY2Uz",
+  "snapshot_id": "MCxhNWIxYjdiNDJkNTI4YTJjNWJiZTg4MGM4ODEyNGFmYzIxYzQ5MjQ2",
   "tracks": [
     {
       "added_at": "2024-04-06 18:50:25",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 420123,
-      "name": "Grow Together",
-      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Sidetrack My Engine",
         "url": "https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 165213,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 420123,
+      "name": "Grow Together",
+      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
-      },
-      "artists": [
-        {
-          "name": "The Earls Of Leicester",
-          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Salty Dog Blues - Live",
-      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 195573,
       "name": "Down the Road",
       "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
+      },
+      "artists": [
+        {
+          "name": "The Earls Of Leicester",
+          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Salty Dog Blues - Live",
+      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+        "name": "Way Up In The Hills",
+        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
       },
       "artists": [
         {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+          "name": "Sad Daddy",
+          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
         }
       ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+      "duration_ms": 217453,
+      "name": "Arkansas Bound",
+      "url": "https://open.spotify.com/track/1R3sWcinAXhF6hPKrErYTz"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1547,34 +1547,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Way Up In The Hills",
-        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
       },
       "artists": [
         {
-          "name": "Sad Daddy",
-          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
         }
       ],
-      "duration_ms": 217453,
-      "name": "Arkansas Bound",
-      "url": "https://open.spotify.com/track/1R3sWcinAXhF6hPKrErYTz"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
-      },
-      "artists": [
-        {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1595,6 +1579,22 @@
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+      },
+      "artists": [
+        {
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
+        "name": "Way Up In The Hills",
+        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
+      },
+      "artists": [
+        {
+          "name": "Sad Daddy",
+          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Charlie Pickle",
+      "url": "https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
         "name": "Passages and Partings",
         "url": "https://open.spotify.com/album/6GdhqVOKnuALlouLCqtZlx"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 210226,
       "name": "Firewood",
       "url": "https://open.spotify.com/track/5wWACwkc0PchNpyBOzE0xx"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "Way Up In The Hills",
-        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
-      },
-      "artists": [
-        {
-          "name": "Sad Daddy",
-          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Charlie Pickle",
-      "url": "https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "I'd Rather Be Alone",
         "url": "https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge"
       },
@@ -1775,26 +1759,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Living In A Song",
-        "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
       },
       "artists": [
         {
-          "name": "Rob Ickes & Trey Hensley",
-          "url": "https://open.spotify.com/artist/1N33O43FnAJtlHh8Nna68C"
-        },
-        {
-          "name": "Rob Ickes",
-          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
-        },
-        {
-          "name": "Trey Hensley",
-          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 236213,
-      "name": "Living In A Song",
-      "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1819,26 +1795,42 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Trapper's Attic",
-        "url": "https://open.spotify.com/album/1nepXC3JRZ1OfdoTByMKqJ"
+        "name": "Lonesome State Of Mind",
+        "url": "https://open.spotify.com/album/1mfnqK1oHwaQZ4kXorOcox"
       },
       "artists": [
         {
-          "name": "Connor Jay Liess",
-          "url": "https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm"
-        },
-        {
-          "name": "Jolie Blue",
-          "url": "https://open.spotify.com/artist/66Xro82631Vw5PkxTASsxO"
-        },
-        {
-          "name": "The Aldape Bootstompers",
-          "url": "https://open.spotify.com/artist/0hSOP0IyyURB2DkgomtHwD"
+          "name": "Blue Highway",
+          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Idaho Mountain Song",
-      "url": "https://open.spotify.com/track/1mj8ViehGEsL6qR385CD0W"
+      "duration_ms": 144536,
+      "name": "Lonesome State Of Mind",
+      "url": "https://open.spotify.com/track/69USQNPpvXAIuz26IiYLkC"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Living In A Song",
+        "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
+      },
+      "artists": [
+        {
+          "name": "Rob Ickes & Trey Hensley",
+          "url": "https://open.spotify.com/artist/1N33O43FnAJtlHh8Nna68C"
+        },
+        {
+          "name": "Rob Ickes",
+          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
+        },
+        {
+          "name": "Trey Hensley",
+          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "Living In A Song",
+      "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
     }
   ],
   "unique_name": "Grass Roots",

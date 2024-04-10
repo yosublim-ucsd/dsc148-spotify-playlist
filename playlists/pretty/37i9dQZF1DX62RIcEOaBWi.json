@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 595115,
+  "num_followers": 595148,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2U2ZDYxMDNjMzYyMjFjYmQ3OTU5OTg5MjFkZWYwMzRiNThmYjRl",
+  "snapshot_id": "MCxiOWRiZDUxZTM4MjQ3OWMxY2RhYjg0NDZlNTA4ZjU2ZTE1MTU0NTg4",
   "tracks": [
     {
       "added_at": "2024-02-06 14:28:05",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 219960,
       "name": "CONTIGO VOY A MUERTE",
       "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 157846,
       "name": "UNA BACHATA",
       "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "El Mambo",
-        "url": "https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rivera",
-          "url": "https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF"
-        }
-      ],
-      "duration_ms": 129845,
-      "name": "El Mambo",
-      "url": "https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "El Mambo",
+        "url": "https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rivera",
+          "url": "https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF"
+        }
+      ],
+      "duration_ms": 129845,
+      "name": "El Mambo",
+      "url": "https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Porfa no te vayas",
-        "url": "https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 209712,
-      "name": "Porfa no te vayas",
-      "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "En Tus Planes",
         "url": "https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 196802,
       "name": "A Partir De Hoy",
       "url": "https://open.spotify.com/track/3Z7JMhKrVBiMvMd0xV1vyI"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Porfa no te vayas",
+        "url": "https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 209712,
+      "name": "Porfa no te vayas",
+      "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1391,42 +1391,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Falsos Recuerdos",
-        "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 191414,
-      "name": "Falsos Recuerdos",
-      "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
-        "name": "Lo mas lejos a tu lado",
-        "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 254373,
-      "name": "Soldadito marinero",
-      "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Todo cambia",
         "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
       },
@@ -1459,6 +1423,42 @@
       "duration_ms": 186359,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Lo mas lejos a tu lado",
+        "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 254373,
+      "name": "Soldadito marinero",
+      "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Falsos Recuerdos",
+        "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 191414,
+      "name": "Falsos Recuerdos",
+      "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "SUPERH\u00c9ROES",
         "url": "https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 200294,
       "name": "SUPERH\u00c9ROES",
       "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 174932,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "La Cruz Del Mapa",
-        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 270187,
-      "name": "Qu\u00e9 Bonito Es Querer",
-      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
       },
@@ -2251,6 +2235,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "Get Close (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
       },
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "amor de verano",
-        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "amor de verano",
-      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Aviones",
         "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 191586,
       "name": "Lady Madrid",
       "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "amor de verano",
+        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "amor de verano",
+      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Nuclear",
         "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 240984,
       "name": "Como Si Fueras a Morir Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2523,26 +2523,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Bebiendo Sola",
-      "url": "https://open.spotify.com/track/0wIIVkpeRLjoGAYkeYXevR"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Vivir (with Estopa)",
         "url": "https://open.spotify.com/album/4b0k7exKAA74bbUlKYBAi2"
       },
@@ -2559,6 +2539,26 @@
       "duration_ms": 172000,
       "name": "Vivir (with Estopa)",
       "url": "https://open.spotify.com/track/0n2lJjskWdFCvLI3ExAGha"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Bebiendo Sola",
+      "url": "https://open.spotify.com/track/0wIIVkpeRLjoGAYkeYXevR"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2583,22 +2583,18 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "COBARDE",
-        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
+        "name": "Carne y Hueso",
+        "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 166081,
-      "name": "COBARDE",
-      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
+      "duration_ms": 178309,
+      "name": "Carne y Hueso",
+      "url": "https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2623,18 +2619,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Carne y Hueso",
-        "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
+        "name": "COBARDE",
+        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 178309,
-      "name": "Carne y Hueso",
-      "url": "https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW"
+      "duration_ms": 166081,
+      "name": "COBARDE",
+      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
     }
   ],
   "unique_name": "En el Trabajo",

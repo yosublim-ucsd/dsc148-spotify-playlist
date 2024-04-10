@@ -2,9 +2,9 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎  / LUDMILLA, Ryan Castro
+> Grandes hits do BR e do 🌎 \. Foto: Pabllo Vittar
 
-271 songs - 13 hr 0 min
+272 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Down, Down, Down](https://open.spotify.com/track/0rJZEBFFrIsNLpJ5ZKjfZt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Back to Be](https://open.spotify.com/album/345Rzs9N9hE2h7caTpMdmr) | 3:03 | 2022-05-20 | 2022-06-23 |
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2022-08-12 | 2023-04-14 |
 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 | 2023-03-22 | 2023-03-25 |
-| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-29 |  |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-29 | 2024-04-10 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2022-05-20 | 2023-06-23 |
 | [Engana Dizendo Que Ama](https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 3:08 | 2023-06-21 | 2023-11-10 |
 | [Então Vai](https://open.spotify.com/track/5umLuCLbHMc0m1lWNru1UL) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Coloca O Capacete](https://open.spotify.com/album/3BzQ4N413txzGk13Wxahsw) | 2:43 | 2023-12-13 | 2024-01-11 |
@@ -133,6 +133,7 @@
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-30 | 2023-08-17 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-31 | 2023-03-16 |
 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2022-05-20 | 2023-03-13 |
+| [Idiota](https://open.spotify.com/track/7lqxgpVTIeUq2XLrYToRk7) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei) | 2:46 | 2024-04-10 |  |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-03-29 |  |
 | [Incendeia](https://open.spotify.com/track/4m1mqQuy34Nzh0480VR364) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Incendeia](https://open.spotify.com/album/6ljtMl412BhgFRHmfxrXYm) | 3:59 | 2022-08-05 | 2022-12-22 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2022-05-20 | 2023-02-14 |

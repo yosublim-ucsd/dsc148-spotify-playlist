@@ -66,10 +66,36 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 242762,
       "name": "4K - Ao Vivo",
       "url": "https://open.spotify.com/track/2ODCPhlKs2QAQlsh8pit5J"
+    },
+    {
+      "album": {
+        "name": "Guias e Ondas (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/6WYmfXGrDk2qWsJwTXkq84"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242762,
+      "name": "4K - Ao Vivo",
+      "url": "https://open.spotify.com/track/5A2y5UOgdzXLRtJBW25vRi"
     },
     {
       "album": {
@@ -824,8 +850,8 @@
           "url": "https://open.spotify.com/artist/2XbYkRNqc0WKV871nxnOno"
         },
         {
-          "name": "MC Bruno MS",
-          "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
+          "name": "Dodida",
+          "url": "https://open.spotify.com/artist/3WX3OGPYDIf4m5hFcDSFwU"
         },
         {
           "name": "Mc PP da VS",
@@ -840,8 +866,8 @@
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Dodida",
-          "url": "https://open.spotify.com/artist/3WX3OGPYDIf4m5hFcDSFwU"
+          "name": "MC Bruno MS",
+          "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
         },
         {
           "name": "MC Junin da VR",
@@ -890,7 +916,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 163636,
       "name": "Me Olha e Me Respeita",
       "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"
@@ -1914,7 +1940,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "Vida Do Crime",
       "url": "https://open.spotify.com/track/7pgXxhMqy7lFnAXborqxse"

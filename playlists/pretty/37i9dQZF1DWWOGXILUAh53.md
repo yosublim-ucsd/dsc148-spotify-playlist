@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,630 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,882 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 89 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 |
 | 90 | [Jet Plane](https://open.spotify.com/track/71uN50XgLYyAJaSXr0TNsY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Jet Plane \(with VIZE & JP Cooper\)](https://open.spotify.com/album/7iceVLH1NBbwX6Ij7XUBKv) | 2:58 |
 
-Snapshot ID: `MCxmMzUwYmNkNTU2MzBjNDU3MjdjMGM4NjY4ODI5YWFmZmM0ZGEwMjI5`
+Snapshot ID: `MCxkMTY5MjhjMjI0ZTUzYmQ3OWE2ZjE5ZTVhMDViM2M3YWY4MTdkMGI4`

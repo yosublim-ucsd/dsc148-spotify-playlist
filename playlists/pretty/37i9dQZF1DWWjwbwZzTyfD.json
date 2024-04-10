@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 11521,
+  "num_followers": 11524,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTlhOTYzOWVmN2YzNTM4YThkMDFlYjg5M2E5ODg3NjAwOGQ2MzM4",
+  "snapshot_id": "MCwyM2YyNzcwZGE4NWE4ODE4MGI1YzBkNDc5ZGQ1M2ZhYWNmYzcyNDI4",
   "tracks": [
     {
       "added_at": "2023-06-27 06:48:40",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "i am > i was",
-        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "a lot",
-      "url": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "i am > i was",
+        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "a lot",
+      "url": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -479,6 +479,42 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Open Arms (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 179449,
+      "name": "Look Back at It",
+      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -531,42 +567,6 @@
       "duration_ms": 150360,
       "name": "Language",
       "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Open Arms (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 179449,
-      "name": "Look Back at It",
-      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -655,22 +639,6 @@
       "duration_ms": 211496,
       "name": "Love Yourz",
       "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 144651,
-      "name": "Low Down",
-      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -695,46 +663,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 121572,
-      "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -751,26 +679,34 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 242965,
-      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
-      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+      "duration_ms": 299613,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 144651,
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -799,6 +735,46 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 242965,
+      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
+      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "SlimeBall 2",
         "url": "https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t"
       },
@@ -815,6 +791,46 @@
       "duration_ms": 227175,
       "name": "EA (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 133331,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 121572,
+      "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -887,22 +903,6 @@
       "duration_ms": 256079,
       "name": "Bed Peace",
       "url": "https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Artist 2.0 (Deluxe)",
-        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 133331,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 169531,
-      "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
-      "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 196204,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 169531,
+      "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
+      "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Peaches & Eggplants (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74"
+        "name": "Sincerely, Kentrell",
+        "url": "https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd"
       },
       "artists": [
         {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Peaches & Eggplants (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
+      "duration_ms": 155737,
+      "name": "Nevada",
+      "url": "https://open.spotify.com/track/2cEnKRR4dYBB2VA1mjlb1z"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Sincerely, Kentrell",
-        "url": "https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd"
+        "name": "Peaches & Eggplants (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74"
       },
       "artists": [
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 155737,
-      "name": "Nevada",
-      "url": "https://open.spotify.com/track/2cEnKRR4dYBB2VA1mjlb1z"
+      "duration_ms": 203813,
+      "name": "Peaches & Eggplants (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "56 Nights",
         "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
       },
@@ -1641,20 +1657,20 @@
       "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
     },
     {
-      "added_at": "2023-06-27 06:48:40",
+      "added_at": "2023-07-10 21:55:04",
       "album": {
-        "name": "Go Hard",
-        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
         }
       ],
-      "duration_ms": 217610,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+      "duration_ms": 188737,
+      "name": "Talibans",
+      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1677,22 +1693,6 @@
       "url": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
     },
     {
-      "added_at": "2023-07-10 21:55:04",
-      "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
-      },
-      "artists": [
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Talibans",
-      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
-    },
-    {
       "added_at": "2023-06-27 06:48:40",
       "album": {
         "name": "CALL DA FIREMAN",
@@ -1707,22 +1707,6 @@
       "duration_ms": 124805,
       "name": "SHAKE SUMN",
       "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Richest Opp",
-        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 185117,
-      "name": "Bitch Let's Do It",
-      "url": "https://open.spotify.com/track/3EN9CgupFLmuwmHYUPq0ny"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1763,6 +1747,22 @@
       "duration_ms": 164562,
       "name": "Molly",
       "url": "https://open.spotify.com/track/3m49rgJQUz5GU07RWjf5SH"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Richest Opp",
+        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 185117,
+      "name": "Bitch Let's Do It",
+      "url": "https://open.spotify.com/track/3EN9CgupFLmuwmHYUPq0ny"
     },
     {
       "added_at": "2023-06-27 06:48:40",

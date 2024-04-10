@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 203238,
+  "num_followers": 203368,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTMzM2IxODdiNTIyZTQ0NDc2M2Y0MzEzZDNjMmYwNTRlNDVmNmRh",
+  "snapshot_id": "MCwyMDhiOWEzMmRlZWY4NjJmZDBhMTNkODA3NzVkNWVlYzVjZGY0M2Y3",
   "tracks": [
     {
       "added_at": "2024-02-23 19:15:14",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
+        "name": "Victor Garc\u00eda",
+        "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
+      },
+      "artists": [
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
+    },
+    {
+      "added_at": "2024-02-23 19:15:14",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 257413,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7"
-    },
-    {
-      "added_at": "2024-02-23 19:15:14",
-      "album": {
-        "name": "Victor Garc\u00eda",
-        "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
-      },
-      "artists": [
-        {
-          "name": "Victor Garcia",
-          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Y Ahora Te Vas",
-      "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
+        "name": "Trozos De Mi Alma",
+        "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 235080,
+      "name": "Amor En Silencio",
+      "url": "https://open.spotify.com/track/1fqk8hFHIDQo99J6NYa1Lw"
+    },
+    {
+      "added_at": "2024-02-23 19:15:14",
+      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 210653,
       "name": "Una Mujer Como T\u00fa",
       "url": "https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh"
-    },
-    {
-      "added_at": "2024-02-23 19:15:14",
-      "album": {
-        "name": "Trozos De Mi Alma",
-        "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 235080,
-      "name": "Amor En Silencio",
-      "url": "https://open.spotify.com/track/1fqk8hFHIDQo99J6NYa1Lw"
     },
     {
       "added_at": "2024-02-23 19:15:14",

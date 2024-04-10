@@ -1,12 +1,12 @@
 {
   "description": "Relax with these seriously laid-back classics.",
-  "num_followers": 459008,
+  "num_followers": 459068,
   "original_name": "Chilled Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjc4ODYxMTUwMDBjODYwOWJhYTE1ZDRlYTI5ZmRmYWFjZWZkNjFj",
+  "snapshot_id": "MCwxOGU1MWViZDY1YmVjODhlNDAzNzJkYzQ1ZWY3YWQ3NTY2ZWFhYjFl",
   "tracks": [
     {
       "added_at": "2022-03-27 23:13:05",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 183306,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 281613,
       "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
       "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -283,34 +267,18 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
-        "name": "Stealers Wheel",
-        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -331,6 +299,22 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
         "name": "Buffalo Springfield",
         "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 197213,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -535,6 +551,38 @@
       "duration_ms": 243360,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 155880,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -575,38 +623,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 155880,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
     },
     {
       "added_at": "2022-03-27 23:13:05",

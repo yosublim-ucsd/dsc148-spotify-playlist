@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from J\. Cole, Lil Wayne and Doja Cat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,922,533 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,925,553 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 22 | [all of me](https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:18 |
 | 23 | [Back On My BS](https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:34 |
 | 24 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 |
-| 25 | [POINT ME TO IT \(feat\. Lil Yachty, Camo!\)](https://open.spotify.com/track/594MueE2n17NeaZYiGdhYP) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo](https://open.spotify.com/artist/2o2AdpYle5NrFYEU7AoMOe) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:14 |
+| 25 | [POINT ME TO IT \(feat\. Lil Yachty, Camo!\)](https://open.spotify.com/track/594MueE2n17NeaZYiGdhYP) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:14 |
 | 26 | [Never Lose Me](https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:05 |
 | 27 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 |
 | 28 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 |
 | 50 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 |
 
-Snapshot ID: `MCwwNWJmYTM4NjFlNjkwMmJjZTBhYWYxNzAzMTM3ZmIzMjI1NzQ0NmQz`
+Snapshot ID: `MCxhZTg1ZDZjZmI5ZDdhZjUxZGJlMWFmODc5N2ZjNzUzYzExZWU5NjEy`

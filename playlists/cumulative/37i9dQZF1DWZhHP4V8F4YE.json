@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -2334,6 +2334,24 @@
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr"
+      },
+      "artists": [
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v"
     },
     {
       "album": {
@@ -4916,6 +4934,24 @@
       "duration_ms": 133829,
       "name": "I Know - PR1SVX Edit",
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
+    },
+    {
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "album": {
@@ -12168,7 +12204,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 261459,
       "name": "Wenhliziyo Yami",
       "url": "https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH"

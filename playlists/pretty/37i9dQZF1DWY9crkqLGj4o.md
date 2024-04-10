@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,342 likes - 70 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,428 likes - 70 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 19 | [Deus e Eu \- Ao Vivo](https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Leandro Borges ao Vivo: Parte 2](https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ) | 4:03 |
 | 20 | [O Lamento de Israel](https://open.spotify.com/track/09yeqY7MiMdgxlPmITqqIg) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [O Lamento de Israel](https://open.spotify.com/album/613HHVVY7kYqtfAwIRyITd) | 4:14 |
 | 21 | [Espírito, Enche A Minha Vida / Ao Único](https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:36 |
-| 22 | [Quero Conhecer Jesus](https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ) | [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [O Fogo Nunca Dorme](https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei) | 6:00 |
-| 23 | [Acalma o Meu Coração](https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:21 |
+| 22 | [Acalma o Meu Coração](https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:21 |
+| 23 | [Quero Conhecer Jesus](https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ) | [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [O Fogo Nunca Dorme](https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei) | 6:00 |
 | 24 | [Meu Barquinho](https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B) | [Meu Barquinho](https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0) | 4:47 |
 | 25 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 |
 | 26 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 57 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 |
 | 58 | [Deus de Promessas \- Ao Vivo](https://open.spotify.com/track/5YdjtziN8CPnHXnfkeuUqC) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Simone](https://open.spotify.com/artist/1oVjhNDztl0fhT3y0iq5my) | [15 Anos \(ao Vivo\)](https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V) | 5:39 |
 | 59 | [Tudo a Ver Com Ele](https://open.spotify.com/track/726jL4DA03vptKr05so4Zu) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Tudo a Ver Com Ele](https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn) | 6:25 |
-| 60 | [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 |
+| 60 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 |
 | 61 | [Para Que Entre o Rei \- Ao Vivo](https://open.spotify.com/track/2c8UiaOBa5eWB5eVIMpAna) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5apwTXXwp74piToPxH30dE) | 6:38 |
-| 62 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 |
+| 62 | [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 |
 | 63 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
-| 64 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
-| 65 | [O Que Sua Glória Fez Comigo](https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 6:39 |
+| 64 | [O Que Sua Glória Fez Comigo](https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 6:39 |
+| 65 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
 | 66 | [Cicatrizes](https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:20 |
 | 67 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 8:38 |
 | 68 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 69 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
 | 70 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
 
-Snapshot ID: `MCwyNDAzYWMyM2ZhOTkxNjUwZmZiNTJiMTVlNzY3MDdlNTc5YWFmYmM5`
+Snapshot ID: `MCwyZTNlY2JkN2ZkYzQxMDkxYWY0NDE3NjA0ODdhNzE5ZDc0NDhlNzQ5`

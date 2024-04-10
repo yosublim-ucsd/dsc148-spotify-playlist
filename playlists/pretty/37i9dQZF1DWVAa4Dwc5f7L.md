@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Olga Tañón
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,443 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,484 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,21 +84,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 74 | [Tu Eres Ajena](https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Exitos De](https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr) | 4:55 |
 | 75 | [Confundido](https://open.spotify.com/track/56DvXyI2IcAM8cU6uWM0Ei) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Confundido](https://open.spotify.com/album/3nAOYBaxxla88WMihoA5Ig) | 3:13 |
 | 76 | [El Meneito](https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [15to Aniversario](https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7) | 5:10 |
-| 77 | [Volveré](https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:25 |
-| 78 | [Que Cara Más Bonita](https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merengue De Amor Vol.1](https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS) | 4:10 |
+| 77 | [Que Cara Más Bonita](https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merengue De Amor Vol.1](https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS) | 4:10 |
+| 78 | [Volveré](https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:25 |
 | 79 | [Ya Viene el Lunes](https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd) | 4:50 |
 | 80 | [Quiero Quemar La Pista](https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [LIMI\-T Para Siempre](https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM) | 2:33 |
 | 81 | [Quédate Conmigo \- Remix](https://open.spotify.com/track/4rAkFlZZOlhVAIUPPRdYG3) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Quédate Conmigo \(Remix\)](https://open.spotify.com/album/5CUUtc9NNti7eiTp5yFOCK) | 3:33 |
 | 82 | [Lluvia y Samba](https://open.spotify.com/track/1AV9KQLsAUWlUhCxbExYxz) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Lluvia y Samba](https://open.spotify.com/album/3FyrRtHlDXhkmwT8d5KScA) | 3:47 |
-| 83 | [Another Night](https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP), [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Morisoñando, Vol\. 1](https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B) | 3:50 |
-| 84 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
-| 85 | [Ganas \- Versión Merengue](https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ganas \(Versión Merengue\)](https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf) | 3:35 |
-| 86 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 |
+| 83 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 |
+| 84 | [Another Night](https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP), [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Morisoñando, Vol\. 1](https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B) | 3:50 |
+| 85 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
+| 86 | [Ganas \- Versión Merengue](https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ganas \(Versión Merengue\)](https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf) | 3:35 |
 | 87 | [Alo](https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Aura](https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap) | 4:38 |
-| 88 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 |
-| 89 | [Vivo De Tus Recuerdos](https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF) | [Vivo De Tus Recuerdos](https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf) | 3:18 |
-| 90 | [Que No Se Acabe](https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Que No Se Acabe](https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn) | 3:18 |
-| 91 | [Estás Enamorada](https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Historia](https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H) | 4:03 |
+| 88 | [Vivo De Tus Recuerdos](https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF) | [Vivo De Tus Recuerdos](https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf) | 3:18 |
+| 89 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 |
+| 90 | [Estás Enamorada](https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Historia](https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H) | 4:03 |
+| 91 | [Que No Se Acabe](https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Que No Se Acabe](https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn) | 3:18 |
 | 92 | [Enamorame](https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax) | [Papi Sanchez](https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq) | [Merengue De hoy](https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo) | 4:24 |
 | 93 | [La Faldita](https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [La Faldita](https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz) | 3:50 |
 | 94 | [Como Los Rayos Del Sol](https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Como Los Rayos Del Sol](https://open.spotify.com/album/7460LMvayest0YKVf9u052) | 3:36 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 96 | [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 |
 | 97 | [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 |
 | 98 | [No Llores Por Ella](https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [Con El Machete En La Mano](https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol) | 4:50 |
-| 99 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
-| 100 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 |
+| 99 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 |
+| 100 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
 
-Snapshot ID: `MCw5OGQ0ODZmNTQ0YTc3NDczMTdmMTk3NGE0MDg3MTBmZjczODIzYmE1`
+Snapshot ID: `MCxjOTJlMTE5YmVhOWUxN2I5NjRjOGQzY2QyMTk4ZGY1MTAzNWZmN2Fj`

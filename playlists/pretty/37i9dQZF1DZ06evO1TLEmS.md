@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,011 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,014 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 17 | [All I’ve Ever Known](https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 5:06 |
 | 18 | [The Age Of Worry](https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Age Of Worry](https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN) | 2:47 |
 | 19 | [Be My Witness](https://open.spotify.com/track/4rj8aHeMrVuMf4rjQga7Wk) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Repackaged Love Songs](https://open.spotify.com/album/1ucMM6LsAvC1RJwoxTmwrd) | 3:22 |
-| 20 | [Life According To Raechel \- Spotify Single](https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:35 |
+| 20 | [Little Things With Great Love \(Live\) \[feat\. Madison Cunningham\]](https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Work Songs: The Porter's Gate Worship Project Vol 1](https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI) | 5:07 |
 | 21 | [In From Japan](https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:22 |
-| 22 | [Little Things With Great Love \(Live\) \[feat\. Madison Cunningham\]](https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Work Songs: The Porter's Gate Worship Project Vol 1](https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI) | 5:07 |
+| 22 | [Life According To Raechel \- Spotify Single](https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:35 |
 | 23 | [Trouble Found Me](https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:14 |
 | 24 | [Braver \(feat\. Madison Cunningham\)](https://open.spotify.com/track/5v7u7TkiuIhS9iD7zS3B96) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [WELL WELL](https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc) | 2:30 |
 | 25 | [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 40 | [Hold On](https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday](https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK) | 4:28 |
 | 41 | [So Long, Frank Lloyd Wright](https://open.spotify.com/track/6xB36Rdbu32JzbQGrPcRb7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 3:03 |
 | 42 | [To Another Land](https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 3:21 |
-| 43 | [Inventing The Wheel](https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Inventing The Wheel](https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw) | 4:17 |
-| 44 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday \(Extended Edition\)](https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk) | 5:36 |
+| 43 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday \(Extended Edition\)](https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk) | 5:36 |
+| 44 | [Inventing The Wheel](https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Inventing The Wheel](https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw) | 4:17 |
 | 45 | [All At Once](https://open.spotify.com/track/59x97Muk1DvBUhyX8xcxJo) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:23 |
 | 46 | [When Love Loves Alone](https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:30 |
 | 47 | [Louisiana 1927 \(feat\. Madison Cunningham\)](https://open.spotify.com/track/08v0Un342hJHIgtsLcBbER) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 49 | [Redemption Ground](https://open.spotify.com/track/3Hb9XXnDjtXcd7lXy8N8Rf) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 4:46 |
 | 50 | [I Close My Eyes](https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 3:59 |
 
-Snapshot ID: `MCxlOTk4NDY1Y2I0MTQ2MTFkYTdiMGRlN2M4ZDRiNmI3MTA1MjY3YjM5`
+Snapshot ID: `MCw4Y2Y1ZDQ3ZTUyNmY0MTUyMDgzMzExNDYxNzFjYzcxMTFmMjRjMzAx`

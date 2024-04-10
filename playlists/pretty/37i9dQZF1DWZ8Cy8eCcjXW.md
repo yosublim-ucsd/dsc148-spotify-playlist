@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain]
 
 > The genre\-bending singer's essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,649 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,138 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain]
 | 50 | [Neva CHange](https://open.spotify.com/track/6tPDalwocS7zgeFpYi3xtr) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Blank Face LP](https://open.spotify.com/album/0YbpATCIng8Fz2JrfHmEf7) | 4:30 |
 | 51 | [Gods Reign](https://open.spotify.com/track/4MaI1E1CQfm15THfV0WUIE) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [These Days...](https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin) | 4:18 |
 
-Snapshot ID: `MCxjY2ZlM2U3N2EyMDZmZjU5Zjc0ZDBiYTI5Zjg5YjM5YzRhZjhhMjdh`
+Snapshot ID: `MCwyOGU0MzlhMjZiM2JjYzRkNWYwMzQzOTUxODMzNWY2YTQ2OTVjOGU4`

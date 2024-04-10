@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Picus",
-  "num_followers": 72525,
+  "num_followers": 72591,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDlkZDRhN2I2ZWMzODY2MWY1OGNkOGVjMTEwMzMyNzA5MTYwYzdl",
+  "snapshot_id": "MCwwYTBkM2JiOWUzY2MwM2FlY2U1OTY2YjczMzZkYmNjYzAxZDA0MjUw",
   "tracks": [
     {
       "added_at": "2024-03-01 06:00:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Un Poquito",
-        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166050,
-      "name": "Un Poquito",
-      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Un Poquito",
+        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166050,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "La del Tik Tok",
+        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 257592,
+      "name": "La del Tik Tok",
+      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Mi Fanatica",
         "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
       },
@@ -851,18 +867,30 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "La del Tik Tok",
-        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
+        "name": "Como \u00d1engo (feat. Jota Rosa)",
+        "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
       },
       "artists": [
         {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+          "name": "Club16",
+          "url": "https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Jota Rosa",
+          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
         }
       ],
-      "duration_ms": 257592,
-      "name": "La del Tik Tok",
-      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
+      "duration_ms": 204136,
+      "name": "Como \u00d1engo (feat. Jota Rosa)",
+      "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -911,34 +939,6 @@
       "duration_ms": 173187,
       "name": "Dimelo Ma",
       "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Como \u00d1engo (feat. Jota Rosa)",
-        "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
-      },
-      "artists": [
-        {
-          "name": "Club16",
-          "url": "https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF"
-        },
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Jota Rosa",
-          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
-        }
-      ],
-      "duration_ms": 204136,
-      "name": "Como \u00d1engo (feat. Jota Rosa)",
-      "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 185988,
+      "name": "Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "HOR\u00d3SCOPO",
         "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 248659,
       "name": "HOR\u00d3SCOPO",
       "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 185988,
-      "name": "Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
     },
     {
       "added_at": "2024-03-01 06:00:00",

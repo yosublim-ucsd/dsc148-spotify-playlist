@@ -4,7 +4,7 @@
 
 > a hardcore home for slowcore fans.
 
-134 songs - 12 hr 12 min
+135 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,10 +97,11 @@
 | [New Partner](https://open.spotify.com/track/6N3NBd2vrhbH5m8ZHFO6xI) | [Palace Music](https://open.spotify.com/artist/2l7DkzVuYJW700mR7r43un) | [Viva Last Blues](https://open.spotify.com/album/4janwzxTDaebBxPK4mRcWF) | 3:54 | 2021-06-25 |  |
 | [No Sense](https://open.spotify.com/track/7hqgpJchv39sfIWLTXkMMe) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:50 | 2021-06-25 |  |
 | [Nothing Left to Say](https://open.spotify.com/track/0MZmVxSYtBphmi5mrgTLXp) | [Tram](https://open.spotify.com/artist/5koTBxO31TIzxRzBvsxzwH) | [Heavy Black Frame](https://open.spotify.com/album/4iEJq1LRPTy6q2kNUDKV3o) | 4:31 | 2021-06-25 |  |
+| [On Fire](https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl) | [Idaho](https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY) | [On Fire](https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp) | 3:10 | 2024-04-09 |  |
 | [Options](https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Control \(Remastered\)](https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr) | 3:56 | 2021-06-25 |  |
 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 | 2021-06-25 |  |
 | [Putting The Dog To Sleep](https://open.spotify.com/track/3pUoLeK4j2XHIuuqU8FECt) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Burst Apart](https://open.spotify.com/album/1VQq6vAHE5jKzvrRpizdx2) | 5:47 | 2021-06-25 |  |
-| [Red Right Hand](https://open.spotify.com/track/5acXrmMJ2HFympa3z0Rfrk) | [Giant Sand](https://open.spotify.com/artist/339qxEdD8z8okRAiTp1HKf) | [Cover Magazine \(25th Anniversary Edition\)](https://open.spotify.com/album/3ceqBvEUADRATj8ihPITvq) | 4:40 | 2021-06-25 |  |
+| [Red Right Hand](https://open.spotify.com/track/5acXrmMJ2HFympa3z0Rfrk) | [Giant Sand](https://open.spotify.com/artist/339qxEdD8z8okRAiTp1HKf) | [Cover Magazine \(25th Anniversary Edition\)](https://open.spotify.com/album/3ceqBvEUADRATj8ihPITvq) | 4:40 | 2021-06-25 | 2024-04-10 |
 | [Return From The Ice](https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [1992 \- 2001](https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW) | 5:19 | 2021-06-25 |  |
 | [River Guard](https://open.spotify.com/track/2PEcK1bPg3oeTxkUV25CJk) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/60i9U1oYiGHVmt7wkwzybi) | 6:22 | 2021-06-25 | 2022-07-29 |
 | [River Guard](https://open.spotify.com/track/7CHHKAp6Hi02E3bEoNjvrp) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 6:22 | 2021-06-25 |  |

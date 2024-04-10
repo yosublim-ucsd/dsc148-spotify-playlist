@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rashid
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,584 likes - 74 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,602 likes - 74 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Vim do Gueto](https://open.spotify.com/track/4vHxcRyIUnWwoh2I8QSdBp) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Vim do Gueto](https://open.spotify.com/album/1433g2HwyaQJZyvcOOQLzd) | 2:12 |
 | 74 | [Igrejas e Terreiros](https://open.spotify.com/track/2z5FWmKAZGQVYi0Q6JeduI) | [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [RAFA KABELO](https://open.spotify.com/artist/6dVYz8pdgpTFLxzq0heiPo) | [Deus É Brasileiro](https://open.spotify.com/album/43lX3jomJ4z9s5lLEG8qcC) | 2:53 |
 
-Snapshot ID: `MCxkZjEzODQ4YWQzNzVhMWI4ZTVhOGNkM2YzZDA4MDQ0MDRmZmM0MGM2`
+Snapshot ID: `MCwyZDE0MTc0MWFhYTk0Y2E5ZWM1ZmUxYWI0ZjA0YWRhOTY3ZTE3MzIw`

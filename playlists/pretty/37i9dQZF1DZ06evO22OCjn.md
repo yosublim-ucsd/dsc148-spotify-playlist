@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,916 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,035 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 48 | [JA ARA E](https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:10 |
 | 49 | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \- Remix](https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Jerusalema \(Deluxe\)](https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR) | 5:28 |
 
-Snapshot ID: `MCw5OTdlYmU3N2JiNmYzOTQyODcyNmEwYzVhZTI0YzAxYWU3ZjA1MmFk`
+Snapshot ID: `MCxhZmUyYzEzNTA1OWJjNWIwMzIyNjliOWIxOGRlOTZmMDNkMWVkZmQ0`

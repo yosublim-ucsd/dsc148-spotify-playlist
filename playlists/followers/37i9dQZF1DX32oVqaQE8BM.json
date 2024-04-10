@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 770109,
+  "2024-04-10": 770131,
   "date_first_scraped": "2021-12-21",
   "description": "The ultimate chill out playlist.",
   "name": "Chill Out Music",
@@ -923,6 +923,24 @@
       "duration_ms": 127741,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy"
+    },
+    {
+      "album": {
+        "name": "Blissful Drift",
+        "url": "https://open.spotify.com/album/5QUuc1SEcM5tAx44E0eH85"
+      },
+      "artists": [
+        {
+          "name": "MayDance",
+          "url": "https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126041,
+      "name": "Blissful Drift",
+      "url": "https://open.spotify.com/track/069eAD3fJhtbAnkEEIb72E"
     },
     {
       "album": {
@@ -2760,6 +2778,24 @@
     },
     {
       "album": {
+        "name": "Es Princep",
+        "url": "https://open.spotify.com/album/7Jw7dNAFCFShEU9RqPrV3T"
+      },
+      "artists": [
+        {
+          "name": "Malacca",
+          "url": "https://open.spotify.com/artist/3CefIz6qIlfMy80r0vZJxX"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234510,
+      "name": "Es Princep",
+      "url": "https://open.spotify.com/track/7c9yaTgbbybOhrzmKpaVRa"
+    },
+    {
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/5AoBGsllGk1254c2UqTS2E"
       },
@@ -3785,6 +3821,24 @@
       "duration_ms": 265375,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/6GRpj6J1fpVqtUgnsth0Ea"
+    },
+    {
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/0GcBhx6XomVtvS4C2nD48y"
+      },
+      "artists": [
+        {
+          "name": "Arnos Grove",
+          "url": "https://open.spotify.com/artist/70yqS0ADu1EIsaHcn8ebKf"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129854,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/0eZJfUknR9uigunQEpNyuh"
     },
     {
       "album": {
@@ -10399,6 +10453,24 @@
       "duration_ms": 141606,
       "name": "Zealous",
       "url": "https://open.spotify.com/track/4FIpXfK5Py8emyfmWCTcm1"
+    },
+    {
+      "album": {
+        "name": "Zenith",
+        "url": "https://open.spotify.com/album/3wYX5UP6v3EeVC9KmLqpbq"
+      },
+      "artists": [
+        {
+          "name": "Enjoy Banker",
+          "url": "https://open.spotify.com/artist/5Vr0qKd6KNRHtQCyZn4NR9"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "Zenith",
+      "url": "https://open.spotify.com/track/5SCylXZhv1Av8qluTRmlrB"
     },
     {
       "album": {

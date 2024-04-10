@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,671 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,661 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 57 | [Together In Electric Dreams](https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Together In Electric Dreams](https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy) | 3:21 |
 | 58 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 |
 | 59 | [Make It Home](https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make It Home](https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g) | 2:59 |
-| 60 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3izBQhKOGofHcyILP6iTPs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/5O82nLMtVVvv6Es9dhNChD) | 2:16 |
-| 61 | [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 |
-| 62 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 |
-| 63 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [The Magic Of Boney M\. \(Special Remix Edition\)](https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf) | 4:02 |
+| 60 | [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 |
+| 61 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3izBQhKOGofHcyILP6iTPs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/5O82nLMtVVvv6Es9dhNChD) | 2:16 |
+| 62 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [The Magic Of Boney M\. \(Special Remix Edition\)](https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf) | 4:02 |
+| 63 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 |
 | 64 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 65 | [Walking in The Air](https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Walking in The Air](https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51) | 3:59 |
 | 66 | [A Winter's Tale](https://open.spotify.com/track/2MZg8AD2iw6XR2BsIZqOvf) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [The Whisper](https://open.spotify.com/album/6XCCWmkQ2pSOnZucLKTN1L) | 4:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [2000 Miles](https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [2000 Miles](https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4) | 2:46 |
 | 80 | [This Christmas Day](https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [This Christmas Day](https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS) | 3:45 |
 
-Snapshot ID: `MCxiZDQ4MjNlNWFmNjc0YzIxMzdhM2Y0NWExZTI2MzA3YWU0NmJmOGQ1`
+Snapshot ID: `MCwzNGNmODcyZmNjYWI0YmM1Y2NiZTBjMTQwNmNhMjMwMmUzYTU4ZTAz`

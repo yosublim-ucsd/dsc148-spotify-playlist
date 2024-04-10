@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,821,100 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,821,125 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 64 | [ME PASE \(feat\. Farruko\)](https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [ME PASE \(feat\. Farruko\)](https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ) | 3:01 |
 | 65 | [Ten Cuidado](https://open.spotify.com/track/7HctR6dqgzdU9v3LYfDElj) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Ten Cuidado](https://open.spotify.com/album/23JpPGYxFaXVcuZABPm7JI) | 3:33 |
 
-Snapshot ID: `MCw4MzQ5Y2NlNWJlODAyZmEyZTg3MDk4MWNjODAwMzQ2ZDY0ZWZjNGYz`
+Snapshot ID: `MCwyODNjMjI1MzJhOTk3YTVkYjU5NWUyNDE1MTI5MGZjYzc2Nzk5N2Iz`

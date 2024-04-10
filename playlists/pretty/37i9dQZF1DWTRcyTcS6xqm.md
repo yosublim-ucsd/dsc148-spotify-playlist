@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,383 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,390 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 6 | [Bad Woman Blues](https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [War In My Mind](https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena) | 3:35 |
 | 7 | [Back In A Cadillac](https://open.spotify.com/track/19aE9JrFOAlIgHWPm8ni37) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Can't Look Back](https://open.spotify.com/album/1SvTWXMHWM41KEQ3es4m0r) | 3:28 |
 | 8 | [Mojo Boogie \- Remastered](https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:53 |
-| 9 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
-| 10 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 |
+| 9 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 |
+| 10 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
 | 11 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
 | 12 | [Playin' With My Friends](https://open.spotify.com/track/071l1tdfckojdC5V37NKN6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Blues Summit](https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI) | 5:18 |
 | 13 | [We've Got The Music](https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 1:54 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 39 | [Come On Up](https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI), [Felix Cavaliere](https://open.spotify.com/artist/74wxdlP4utkNZrtAL0mKrQ), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Times Have Changed](https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx) | 3:53 |
 | 40 | [Shakin' Shakin' Shakes](https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:50 |
 | 41 | [Hail Mighty Caesar](https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:16 |
-| 42 | [Sweet Thang](https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Down Home Mojo](https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz) | 4:51 |
-| 43 | [Mr\. Soul](https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 3:44 |
-| 44 | [Soundman](https://open.spotify.com/track/0vDTwKpjbKiWYgkXFVZB7Y) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/457tPPHTx0QG2ZsP7y1pfK) | 3:43 |
+| 42 | [Soundman](https://open.spotify.com/track/0vDTwKpjbKiWYgkXFVZB7Y) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/457tPPHTx0QG2ZsP7y1pfK) | 3:43 |
+| 43 | [Sweet Thang](https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Down Home Mojo](https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz) | 4:51 |
+| 44 | [Mr\. Soul](https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 3:44 |
 | 45 | [Funky Broadway](https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [The Son Of A Bluesman](https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9) | 4:41 |
 | 46 | [Little Juke Joint](https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Show Of Strength](https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3) | 6:00 |
 | 47 | [Big Mama's Soul Food](https://open.spotify.com/track/2QWfbg05cUgoOBKHSZ5MeC) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Spider in My Stew](https://open.spotify.com/album/3ETwjRS1dAVbWVW39gm4ws) | 4:09 |
-| 48 | [Soul Fixin' Man](https://open.spotify.com/track/0nPyxmdZeNTxEkFI5yRyJv) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Alligator Records Years](https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ) | 3:07 |
-| 49 | [Shake For Me](https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Blues Survivor](https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr) | 6:50 |
-| 50 | [Blues Party](https://open.spotify.com/track/5CHMY9NB9xTsPOmvAyCYEj) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 4:48 |
+| 48 | [Blues Party](https://open.spotify.com/track/5CHMY9NB9xTsPOmvAyCYEj) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 4:48 |
+| 49 | [Soul Fixin' Man](https://open.spotify.com/track/0nPyxmdZeNTxEkFI5yRyJv) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Alligator Records Years](https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ) | 3:07 |
+| 50 | [Shake For Me](https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Blues Survivor](https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr) | 6:50 |
 
-Snapshot ID: `MCxiNzEzOWY0OThhNzE3YjU3OWE0ODQ2OTJjZGVjYzAxNDczNDQ5MDc1`
+Snapshot ID: `MCw4MTEzYjQ3NDk4NzhlZmU2OTgyNjAyZjE3YTFjOTgzMjg3NDAyNGFi`

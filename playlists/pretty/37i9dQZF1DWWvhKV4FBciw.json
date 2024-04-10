@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1709046,
+  "num_followers": 1709446,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzUwODQ0ODNiZjY0ODAwNTI2NWNjYTlhZGVhYjc1MTM4ODQzNWZi",
+  "snapshot_id": "MCxhN2E3ZmI5ZWNkMjI3MTk0YmZhNzllZDgwMTI2NjhlZGNkYjhlZDRj",
   "tracks": [
     {
       "added_at": "2024-04-02 11:11:15",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2024-04-02 11:11:15",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 208893,
       "name": "Brick House",
       "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2024-04-02 11:11:15",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
-        "name": "Please Mr. Postman",
-        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 148040,
-      "name": "Please Mr. Postman - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 177226,
       "name": "California Soul",
       "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
+        "name": "Please Mr. Postman",
+        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
     },
     {
       "added_at": "2024-04-02 11:11:15",

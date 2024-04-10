@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 
 > Los grandes éxitos de la década pasada, en México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,621 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,707 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 22 | [Leve](https://open.spotify.com/track/00jpfco62YfQj1BBYCCuKH) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Viejo Marihuano](https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O) | 3:45 |
 | 23 | [Aléjate de Mí](https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:18 |
 | 24 | [Soñé \- En Vivo](https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:46 |
-| 25 | [En Peligro de Extinción](https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:54 |
-| 26 | [Déjenme Llorar](https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:55 |
+| 25 | [Déjenme Llorar](https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:55 |
+| 26 | [En Peligro de Extinción](https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:54 |
 | 27 | [Si Te Vienen a Contar](https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:39 |
 | 28 | [La De La Mala Suerte](https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:11 |
 | 29 | [Amigos Con Derechos](https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:47 |
 | 30 | [En Donde Esta Tu Amor](https://open.spotify.com/track/6qNrqyOQOgnNDozI8eDRsg) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mi Vida Eres Tú](https://open.spotify.com/album/3azaq42L9KN7ivVeETobzt) | 3:37 |
-| 31 | [Nunca Te Pude Alcanzar](https://open.spotify.com/track/7fdGqeuvSLVNMwFb6mDbXp) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Los Niños Grandes No Juegan](https://open.spotify.com/album/2XvDnpebvUFa49NKpPvakc) | 3:17 |
-| 32 | [Compartir](https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm) | 4:17 |
+| 31 | [Compartir](https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm) | 4:17 |
+| 32 | [Nunca Te Pude Alcanzar](https://open.spotify.com/track/7fdGqeuvSLVNMwFb6mDbXp) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Los Niños Grandes No Juegan](https://open.spotify.com/album/2XvDnpebvUFa49NKpPvakc) | 3:17 |
 | 33 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
 | 34 | [Azul](https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Aztlán](https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT) | 3:14 |
 | 35 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 49 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
 | 50 | [Indeciso](https://open.spotify.com/track/59s0s39NFWScuHDbHytI14) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Indeciso](https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P) | 3:37 |
 
-Snapshot ID: `MCxlNGJmMGJjM2RiMWUyNTI5ZTdkNTlhMTRkZWMzYTE2ZGE4YzlhYzdk`
+Snapshot ID: `MCxlY2RhYTRlOGVkZGIzMzFkMzVkMTY5NzFiMjc2ZDY0MTQ5ODg0ZDgz`

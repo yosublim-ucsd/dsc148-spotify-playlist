@@ -4513,6 +4513,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "album": {
         "name": "Eyes Don\u2019t Lie",
         "url": "https://open.spotify.com/album/5oga4aKPFCUavGaIVSCyK6"
       },
@@ -5752,7 +5770,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
@@ -15168,7 +15186,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
@@ -15758,7 +15776,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,762 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,088 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 30 | [Love Yuh Everything](https://open.spotify.com/track/0Bhgvv9rPEAGkh8SA5TAtR) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Love Yuh Everything](https://open.spotify.com/album/32CHNFFfNt5l2bc3vmaPcT) | 2:45 |
 | 31 | [Gimme the Light](https://open.spotify.com/track/5WavgurgGX48eZv1q1E3on) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 3:48 |
 | 32 | [Dude](https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 4:15 |
-| 33 | [Only Man She Want](https://open.spotify.com/track/5tdl56mOgdZeY6RNF5jLwT) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Only Man She Want](https://open.spotify.com/album/0xYKErJkWgfurZHmZo0blf) | 3:25 |
-| 34 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
+| 33 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
+| 34 | [Only Man She Want](https://open.spotify.com/track/5tdl56mOgdZeY6RNF5jLwT) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Only Man She Want](https://open.spotify.com/album/0xYKErJkWgfurZHmZo0blf) | 3:25 |
 | 35 | [I Love My Life](https://open.spotify.com/track/6S0nwCOEAftiihy73YVDnl) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [I Love My Life \- Single](https://open.spotify.com/album/48o7c4uGPRJybVClvbTBde) | 3:30 |
 | 36 | [Cheaters Prayer](https://open.spotify.com/track/0antMnmr4befD0U81xPyG7) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Deal](https://open.spotify.com/album/6asuHZdgBoSxKEdVZ9xQj4) | 3:22 |
 | 37 | [Bicycle](https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Dancehall Hero Raw: Deluxe](https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs) | 2:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [Call Mi A Yardie](https://open.spotify.com/track/4ninC0OKV9UjFLurjw2ASR) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/4Sbct6JwWOmeuItClJ3aw6) | 3:05 |
 | 80 | [Life \(Is What You Make of It\)](https://open.spotify.com/track/1GPr2bSZGp3FY8WLUIz6kD) | [Frighty](https://open.spotify.com/artist/3sJ4PdcDMz8f54s58xsNzt), [Colonel Mite](https://open.spotify.com/artist/3uKvf6v8ivXfxa3UrJx738) | [Life \(Is What You Make of It\)](https://open.spotify.com/album/5PnaOrdPmijULnutsP7DQt) | 3:32 |
 
-Snapshot ID: `MCxlN2U5NTJhZTI0Y2IwZjIzNDQ1ZjQ0NDljNThkM2I0ZjdkMjYxOTYw`
+Snapshot ID: `MCxiNmIwNzk3NTBjMTA5YmIyZTUzNjMyN2RlOGY0YTFmYmFiYzE0ZDQx`

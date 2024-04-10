@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 540716,
+  "num_followers": 540787,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjg3YmZmZmZkOGMzODVhODc0NDE0ZTRlZjk4OGQxOWE5ODJmYzRm",
+  "snapshot_id": "MCw1M2E5YzQyZjcxYmQ0YWE1YjM5ODMzM2ZkM2RjMjM4ZWM5ZGNlYzRl",
   "tracks": [
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
-      },
-      "artists": [
-        {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        }
-      ],
-      "duration_ms": 491666,
-      "name": "Sapana - Avalon Remix",
-      "url": "https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 417391,
       "name": "Elsewhere - Original mix",
       "url": "https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        }
+      ],
+      "duration_ms": 491666,
+      "name": "Sapana - Avalon Remix",
+      "url": "https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13"
     }
   ],
   "unique_name": "Psytrance Supernova",

@@ -1,13 +1,29 @@
 {
   "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. ",
-  "num_followers": 1247381,
+  "num_followers": 1247677,
   "original_name": "This Is Stray Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODM0ZjE0NzkwYWQxZTE1M2FhNGQ4MWQ0OWNmOWQ5Mjk5NTU4YjY2",
+  "snapshot_id": "MCw1YWUzMTA4ODNjNzNhYTAwZTBlNjY1NzU1ODRiNjhkYmEzNDAwZGU2",
   "tracks": [
+    {
+      "added_at": "2024-04-09 09:19:43",
+      "album": {
+        "name": "The Midnight Studio, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/11HLUtaEqoPdgVQFwVdCQA"
+      },
+      "artists": [
+        {
+          "name": "Seungmin",
+          "url": "https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/0eIk5JEHEkVcVrIObqd63v"
+    },
     {
       "added_at": "2024-03-18 02:42:45",
       "album": {

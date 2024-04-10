@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-273 songs - 15 hr 2 min
+274 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Connected \(Bang Chan\)](https://open.spotify.com/track/3vGSv4l4czTve9jZoYeIWk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:51 | 2022-12-21 |  |
 | [Cover Me](https://open.spotify.com/track/5dUjBnP5zrWpWA5RGrr73g) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:11 | 2023-11-10 |  |
 | [Deep end \(Felix\)](https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:28 | 2022-12-21 |  |
+| [Destiny](https://open.spotify.com/track/0eIk5JEHEkVcVrIObqd63v) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [The Midnight Studio, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/11HLUtaEqoPdgVQFwVdCQA) | 4:12 | 2024-04-09 |  |
 | [District 9](https://open.spotify.com/track/430IfeGHWJxnZOkhBYACt9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:33 | 2022-03-18 |  |
 | [District 9](https://open.spotify.com/track/58XXaW1pFAiXZRouc7ulaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:33 | 2022-03-18 | 2022-07-29 |
 | [DLC](https://open.spotify.com/track/6dyXogYZZ45wBgRY1Wq3P1) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:06 | 2023-06-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 7877,
+  "num_followers": 7879,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmIxZGRhNWEwZWJlNDI5YTU2YjNhM2M5YzNmMzgyNjMyZmIwNGIx",
+  "snapshot_id": "MCxhMjRlYjg2YWQ4ZjBiY2U0YjAwMmE3ZGM4OGVhNTk0OTMzZDIwNTgx",
   "tracks": [
     {
       "added_at": null,
@@ -963,22 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morango",
-        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "Morango",
-      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/7vqZdXVpZPA6Jum52y035n"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 144000,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/7wIrCJb8dIHDNU0G76eaQB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morango",
+        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Morango",
+      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
     },
     {
       "added_at": null,
@@ -1199,26 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tifanny",
-        "url": "https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Tlust",
-          "url": "https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6"
-        }
-      ],
-      "duration_ms": 160056,
-      "name": "Tifanny",
-      "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meio Dia",
         "url": "https://open.spotify.com/album/11CDv8nWVPsvCRNuuP5I2y"
       },
@@ -1243,6 +1223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tifanny",
+        "url": "https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Tlust",
+          "url": "https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6"
+        }
+      ],
+      "duration_ms": 160056,
+      "name": "Tifanny",
+      "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patroa",
         "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
       },
@@ -1259,42 +1259,6 @@
       "duration_ms": 181389,
       "name": "Patroa",
       "url": "https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOVEZY",
-        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "L30",
-          "url": "https://open.spotify.com/artist/1BxVqY0zR8ymT4bLg6abA3"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Perfumes e Bal\u00e3o",
-      "url": "https://open.spotify.com/track/5TvI5IBlGIdNA3uvqIV60q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R\u00edmel",
-        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 104750,
-      "name": "Robocop",
-      "url": "https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3"
     },
     {
       "added_at": null,
@@ -1319,6 +1283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R\u00edmel",
+        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 104750,
+      "name": "Robocop",
+      "url": "https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hora do Show",
         "url": "https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 220234,
       "name": "Segue o Baile",
       "url": "https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVEZY",
+        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "L30",
+          "url": "https://open.spotify.com/artist/1BxVqY0zR8ymT4bLg6abA3"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Perfumes e Bal\u00e3o",
+      "url": "https://open.spotify.com/track/5TvI5IBlGIdNA3uvqIV60q"
     },
     {
       "added_at": null,

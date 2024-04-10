@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Walter Esaú en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,366 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,361 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 45 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 | 46 | [Cuánto Tiempo sin Verte](https://open.spotify.com/track/0mGQOqZlkZg5gYvIe1oAW2) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:58 |
 | 47 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
-| 48 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
-| 49 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
+| 48 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
+| 49 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
 | 50 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 |
 | 51 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
 | 52 | [Bonita](https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Bonita](https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT) | 2:54 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 71 | [Que no me encuentre](https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:06 |
 | 72 | [Tabú](https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Tabú](https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx) | 3:30 |
 | 73 | [Bolero Surrealista](https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Surrealista](https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a) | 3:54 |
-| 74 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
-| 75 | [mejor me voy](https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [mejor me voy](https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld) | 3:17 |
+| 74 | [mejor me voy](https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [mejor me voy](https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld) | 3:17 |
+| 75 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
 | 76 | [Dejar Ir](https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Dejar Ir](https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA) | 4:49 |
 | 77 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 |
 | 78 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
 | 79 | [La Lista](https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Boleros que me dictó el gallo](https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX) | 4:15 |
 | 80 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 |
 
-Snapshot ID: `MCwwY2ZhMjU0ZTQ3OWRmZDkzYjg0MThhMGU0Y2EwZjJlN2JhZDc4MGFm`
+Snapshot ID: `MCw4ZjgyNGFmOTYwMGE3NzY0N2I2OGJjNWI5MzY5YmM1ZmNmZjhhMjVm`

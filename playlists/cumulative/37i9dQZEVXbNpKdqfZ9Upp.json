@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168896,
+      "name": "(Entre Par\u00e9ntesis)",
+      "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
+    },
+    {
+      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -914,7 +936,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 145239,
       "name": "Accidente",
       "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
@@ -2724,7 +2746,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -4965,6 +4987,24 @@
     },
     {
       "album": {
+        "name": "Buenota",
+        "url": "https://open.spotify.com/album/2W0eJfDSJg8zyNdahv6fvA"
+      },
+      "artists": [
+        {
+          "name": "Karly B",
+          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187968,
+      "name": "Buenota",
+      "url": "https://open.spotify.com/track/70cz2qgJTe1vKJwPHvEBAR"
+    },
+    {
+      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw"
       },
@@ -6511,6 +6551,32 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
+    },
+    {
+      "album": {
         "name": "Clandestina (JVSTIN Remix)",
         "url": "https://open.spotify.com/album/35ADWQ8p7cIVqFs0h1PVdW"
       },
@@ -7237,6 +7303,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193568,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
         "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
@@ -7870,7 +7954,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
@@ -11628,7 +11712,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
@@ -14759,6 +14843,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "3x3",
         "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
       },
@@ -15238,7 +15340,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 224853,
       "name": "In Case You Didn't Know",
       "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
@@ -15398,7 +15500,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 92400,
       "name": "intro (end of the world)",
       "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
@@ -17205,6 +17307,28 @@
     },
     {
       "album": {
+        "name": "Lady Killers II (Christoph Andersson Remix)",
+        "url": "https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Christoph Andersson",
+          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297794,
+      "name": "Lady Killers II - Christoph Andersson Remix",
+      "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
+    },
+    {
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -17571,6 +17695,32 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
       },
@@ -17882,7 +18032,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 278425,
       "name": "Lola",
       "url": "https://open.spotify.com/track/6x5wWTNpTWuWrFmqxKAmOs"
@@ -18144,7 +18294,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -18460,7 +18610,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 216506,
       "name": "LUCES DE COLORES",
       "url": "https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn"
@@ -18796,6 +18946,24 @@
       "duration_ms": 133942,
       "name": "Mafia Gvng",
       "url": "https://open.spotify.com/track/16dmMelM021uL9GynMmcM9"
+    },
+    {
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
       "album": {
@@ -20803,6 +20971,28 @@
     },
     {
       "album": {
+        "name": "mimos",
+        "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186373,
+      "name": "mimos",
+      "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
+    },
+    {
+      "album": {
         "name": "Mini Mini",
         "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
       },
@@ -20902,7 +21092,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 170124,
       "name": "Modo Avion",
       "url": "https://open.spotify.com/track/0asYfO0lGo7LkiTUFEAz6l"
@@ -23417,6 +23607,24 @@
     },
     {
       "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170541,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
+    },
+    {
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -25838,7 +26046,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
@@ -26550,7 +26758,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 262179,
       "name": "Que Fluya",
       "url": "https://open.spotify.com/track/2edb2SIakC6HADUz6s34hS"
@@ -27206,7 +27414,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 219526,
       "name": "REM",
       "url": "https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h"
@@ -29573,6 +29781,24 @@
     },
     {
       "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
+    },
+    {
+      "album": {
         "name": "Smart (Remixes)",
         "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
       },
@@ -29806,6 +30032,24 @@
       "duration_ms": 229942,
       "name": "Snow On The Beach (feat. More Lana Del Rey)",
       "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
+    },
+    {
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "so american",
+      "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
     },
     {
       "album": {
@@ -30558,6 +30802,36 @@
       "duration_ms": 261213,
       "name": "Suelto",
       "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1os Perdidos (Remix)",
+        "url": "https://open.spotify.com/album/4H0XsgmB5TYrfKdZP0qWNg"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298293,
+      "name": "Sue\u00f1os Perdidos - Remix",
+      "url": "https://open.spotify.com/track/4Vn92wJSxKy1hxalV0FRQK"
     },
     {
       "album": {
@@ -31528,7 +31802,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 191823,
       "name": "Tek It",
       "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
@@ -32793,6 +33067,24 @@
     },
     {
       "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -33397,6 +33689,36 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Type Shit",
+      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "album": {
         "name": "T\u00e1 OK",
         "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
       },
@@ -33518,7 +33840,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 152078,
       "name": "T\u00da NAME",
       "url": "https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR"
@@ -34184,7 +34506,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -34974,7 +35296,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 168178,
       "name": "VVS Switch",
       "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"

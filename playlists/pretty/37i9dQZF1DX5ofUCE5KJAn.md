@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 
 > Un surtido rico de canciones con sabor a México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,500 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,536 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 | 57 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 |
 | 58 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
 | 59 | [La Chona](https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Robaste El Corazon](https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y) | 3:18 |
-| 60 | [Te Amo](https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Amo](https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq) | 3:13 |
-| 61 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 |
+| 60 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 |
+| 61 | [Te Amo](https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Amo](https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq) | 3:13 |
 | 62 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 |
-| 63 | [De Uno y De Todos Los Modos \- Version Bolero](https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Situaciones](https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM) | 3:53 |
-| 64 | [Te Aprovechas](https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 3:07 |
+| 63 | [Te Aprovechas](https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 3:07 |
+| 64 | [De Uno y De Todos Los Modos \- Version Bolero](https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Situaciones](https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM) | 3:53 |
 | 65 | [Si Te Falta Alguien](https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 3:07 |
 | 66 | [Quién De Los Dos Será](https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:33 |
 | 67 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
@@ -116,9 +116,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 | 106 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
 | 107 | [Dos Locos](https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Locos De Amor](https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8) | 3:26 |
 | 108 | [100 Años](https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [100 Años](https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz) | 3:05 |
-| 109 | [Fuiste Mala](https://open.spotify.com/track/6RWa1cOsOnefCnV6mzPprB) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Ricardo Muñoz](https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq) | [Amor, Familia Y Respeto](https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ) | 3:19 |
+| 109 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
 | 110 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
-| 111 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
+| 111 | [Fuiste Mala](https://open.spotify.com/track/6RWa1cOsOnefCnV6mzPprB) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Ricardo Muñoz](https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq) | [Amor, Familia Y Respeto](https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ) | 3:19 |
 | 112 | [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 |
 | 113 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
 | 114 | [Alguien Me Espera en Madrid](https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 2:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 | 124 | [Mujeres Divinas](https://open.spotify.com/track/2PxGGRmj5yunYdNF2Ud2vm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Cuatrero](https://open.spotify.com/album/7La2o9LMM9fFhHpkBAZZxP) | 3:09 |
 | 125 | [Feliz Feliz](https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Éxitos](https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify) | 3:37 |
 
-Snapshot ID: `MCxjYzE3ZDZiNjljZjRmZTY4NzA3MjgxYmEyYjg2MjllNTBmMzM5MWI4`
+Snapshot ID: `MCxmNjQwZWRmMDEzNTgyM2RlMTBiZDY3ZGNlNjdmZGYwMTdkYTE3YzUy`

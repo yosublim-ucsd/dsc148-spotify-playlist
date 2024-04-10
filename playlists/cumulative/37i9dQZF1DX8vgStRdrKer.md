@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn?si=s0FACvsIRauTYAVMvwe3Vw">KIMAH</a>
 
-147 songs - 12 hr 14 min
+148 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 |  |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-03-22 |  |
 | [Holy](https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Imani](https://open.spotify.com/artist/4nxuTuvnkmY0EYLe39Ycsf) | [Holy](https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr) | 3:30 | 2024-02-23 | 2024-04-03 |
-| [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 |  |
+| [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 | 2024-04-10 |
 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 | 2023-11-24 | 2024-01-14 |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-09-15 | 2024-03-16 |
 | [I Surrender \- Live](https://open.spotify.com/track/1urrG04mC0IopJD7vpKiiW) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Cornerstone \(Live\)](https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8) | 5:46 | 2023-09-15 | 2024-03-16 |
@@ -74,6 +74,7 @@
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-12-01 | 2024-03-16 |
 | [Kind](https://open.spotify.com/track/2SLtt8zr8BMh1D2twQ4bcX) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Kind](https://open.spotify.com/album/6lJ9AWcHqRRW7SUTBfSZbZ) | 3:17 | 2023-09-15 | 2023-11-30 |
 | [Koseunti](https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Koseunti](https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z) | 4:23 | 2023-09-15 | 2024-03-16 |
+| [Kukhona Amadlelo](https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Kukhona Amadlelo](https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8) | 8:29 | 2024-03-29 |  |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-09-15 | 2024-03-16 |
 | [Kumama Papa](https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Kumama Papa](https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu) | 2:37 | 2024-02-16 |  |
 | [Let The People Sing \- Live](https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 3:59 | 2023-09-15 | 2024-02-09 |

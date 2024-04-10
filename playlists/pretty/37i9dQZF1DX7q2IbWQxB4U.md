@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 
 > De la cuna pa'l mundo\. Celebrando la cultura y música de Puerto Rico con los sonidos de la Casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,273 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,283 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 | 13 | [PUNTO 40](https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:10 |
 | 14 | [Quien Es Dei V?](https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quien Es Dei V?](https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC) | 2:42 |
 | 15 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 |
-| 16 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 |
-| 17 | [Soltera \(Remix\)](https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 4:26 |
+| 16 | [Soltera \(Remix\)](https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 4:26 |
+| 17 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 |
 | 18 | [ID](https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [ID](https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL) | 3:55 |
 | 19 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 |
 | 20 | [La Vuelta Al Mundo](https://open.spotify.com/track/1jlKdNbOA90rjnt88GJnwO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 | 49 | [Polvo](https://open.spotify.com/track/0T5VcGJw3qFfeVlabdwQfE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:31 |
 | 50 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 |
 
-Snapshot ID: `MCw3NGI4MDVmNmEzM2I3NTAxNzEzNWNmOWE4ZjdiNjIwYjgwZDc2ZjJj`
+Snapshot ID: `MCxkODAyZjUwMzk1NTFmZDgwZWY0OGFlYTg1ZDQxYTE5M2RhOWQ0ZGZh`

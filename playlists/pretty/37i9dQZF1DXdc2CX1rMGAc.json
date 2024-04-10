@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 191434,
+  "num_followers": 191648,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDM5MzYwMjQ3YmQ3N2E0MzNlODBhNTZhYjg5MjZjMTZmMDQ4MGRi",
+  "snapshot_id": "MCw1YzI4ODZjY2VjNTcyMDI4M2U2YmM4MTQxYmUyZjM3MzUyYWJkMzUw",
   "tracks": [
     {
       "added_at": "2024-03-17 23:18:17",
@@ -703,6 +703,30 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "X'CLUSIVO (REMIX)",
+        "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "X'CLUSIVO - REMIX",
+      "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "X'CLUSIVO (REMIX)",
-        "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "X'CLUSIVO - REMIX",
-      "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "Maquillaje",
+        "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
+      },
+      "artists": [
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "duration_ms": 211969,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Caba\u00f1a",
         "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 211879,
       "name": "REINA",
       "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "Maquillaje",
-        "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
-      },
-      "artists": [
-        {
-          "name": "Renn",
-          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
-        },
-        {
-          "name": "Yexel",
-          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
-        }
-      ],
-      "duration_ms": 211969,
-      "name": "Maquillaje",
-      "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1343,26 +1343,38 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "NO SON KLLE",
-        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+        "name": "Si La Mami",
+        "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Brand Randall",
+          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
         }
       ],
-      "duration_ms": 223586,
-      "name": "NO SON KLLE",
-      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+      "duration_ms": 176326,
+      "name": "Si La Mami",
+      "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1387,38 +1399,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+        "name": "NO SON KLLE",
+        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Pa' Que La Pases Bien",
-      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "Si La Mami",
-        "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "Brand Randall",
-          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 176326,
-      "name": "Si La Mami",
-      "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
+      "duration_ms": 223586,
+      "name": "NO SON KLLE",
+      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Triple S",
         "url": "https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4"
       },
@@ -1515,22 +1535,18 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
+        "name": "VVS",
+        "url": "https://open.spotify.com/album/2elH16RB2XdMs5wpP6dedX"
       },
       "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
         {
           "name": "Dei V",
           "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 233333,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+      "duration_ms": 164822,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/1yNa5Sd2tijUuR3hJJ8uvk"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1555,22 +1571,6 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "VVS",
-        "url": "https://open.spotify.com/album/2elH16RB2XdMs5wpP6dedX"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 164822,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/1yNa5Sd2tijUuR3hJJ8uvk"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1647,6 +1647,46 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "Yankee 150",
+        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 242667,
+      "name": "Yankee 150",
+      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Chup\u00f3n",
         "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
       },
@@ -1679,30 +1719,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Yankee 150",
-        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 242667,
-      "name": "Yankee 150",
-      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "R\u00c1PIDO",
         "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 182857,
       "name": "R\u00c1PIDO",
       "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
     },
     {
       "added_at": "2024-03-17 23:18:17",

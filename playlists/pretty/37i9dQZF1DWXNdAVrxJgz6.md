@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,080 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,297 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 99 | [Mazatlán Carnaval](https://open.spotify.com/track/0e9LfWGbRtNazKK7Kmby6A) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 4:04 |
 | 100 | [Era Creyente](https://open.spotify.com/track/5UDspydEAzAkdwC6wLcxTi) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:14 |
 
-Snapshot ID: `MCxkYjFiM2EzZGFjNGRlZjRjYWM5YjY1MzQ4M2U1ZTQ4OGY3NTcwY2M1`
+Snapshot ID: `MCw5MjZiMGJlMmJkYmVjNDNmZjg5NmQ2YWI4MGI0ZWQ0ZWU5NjFjODUy`

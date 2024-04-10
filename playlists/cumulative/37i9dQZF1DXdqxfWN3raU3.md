@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B hecho en español\. LIT killah y Milo J en portada.
 
-344 songs - 18 hr 2 min
+345 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Quizás](https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy) | 4:08 | 2022-11-24 | 2023-07-01 |
 | [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 | 2022-01-28 | 2024-01-13 |
 | [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 | 2023-05-26 | 2024-04-08 |
+| [Quién Pudiera?](https://open.spotify.com/track/3TWAnB0Pok8EnOLimD18ue) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/5uIL8ryzMnjBbgRx7wVCwW) | 3:33 | 2024-03-29 |  |
 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2021-12-13 | 2023-01-14 |
 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 | 2022-02-14 |  |
 | [Quédame](https://open.spotify.com/track/6vLpthP41nttqYeyhyBFNx) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Quédame](https://open.spotify.com/album/2suU0mvs2EMYre0h28MZ14) | 2:49 | 2021-12-13 | 2023-01-27 |
@@ -335,7 +336,7 @@
 | [Un Cuento Sin Sirenas](https://open.spotify.com/track/6ehtxk6vheXDMyefxqX7DO) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd) | [Un Cuento Sin Sirenas](https://open.spotify.com/album/42ejHMVCk6scQjCQFO6Suf) | 2:53 | 2024-02-09 | 2024-03-08 |
 | [Un Nuevo Amanecer](https://open.spotify.com/track/79rgCOpyaHdeVQB5bzrlq1) | [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Un Nuevo Amanecer](https://open.spotify.com/album/5rOIEo6Oms3Hz3z2OdHs5T) | 3:32 | 2023-05-26 | 2023-06-03 |
 | [una pistola](https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb) | 3:22 | 2023-03-17 | 2023-03-25 |
-| [Vamos Pal Espacio](https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:33 | 2023-04-07 |  |
+| [Vamos Pal Espacio](https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:33 | 2023-04-07 | 2024-04-10 |
 | [Vem Por Cima](https://open.spotify.com/track/1VeGot9OEjti5tUbd7VuLi) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 3:12 | 2023-03-24 | 2024-02-10 |
 | [Verte](https://open.spotify.com/track/58eWb1SrncuILvCQgSrQPl) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Verte](https://open.spotify.com/album/0lR6GCdnyfY3kela8SCWdS) | 3:35 | 2021-12-13 | 2022-01-29 |
 | [Vibras](https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Vibras](https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk) | 2:33 | 2023-01-02 | 2024-02-20 |

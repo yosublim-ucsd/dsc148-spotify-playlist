@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 85028,
+  "num_followers": 85050,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmNmNjM1MDc0MWVkOGMwOTRhMzVhN2YxOWE5YWRhMzg3NTQyNGEx",
+  "snapshot_id": "MCxhNjcxZmIwOWFlNmQxMTBmNWFiZjg4NzBhOTc5YmM3Y2Y0YjQyYjNh",
   "tracks": [
     {
       "added_at": "2024-04-05 17:21:38",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 188890,
+      "name": "Supersticiones",
+      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
         "name": "Liit",
         "url": "https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 167449,
       "name": "Liit",
       "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
-        "name": "SUPERSTICIONES",
-        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 188890,
-      "name": "Supersticiones",
-      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 165675,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/7KKd6mLczxaz1Jjnu6ZLBh"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
         "name": "Sue\u00f1o C\u00edtrico",
         "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
       },
@@ -703,6 +687,38 @@
       "duration_ms": 202538,
       "name": "Vencimiento",
       "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 165675,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/7KKd6mLczxaz1Jjnu6ZLBh"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
+        "name": "La isla del sol",
+        "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "La isla del sol",
+      "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "La isla del sol",
-        "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "La isla del sol",
-      "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
         "name": "Algo Tiene Que Cambiar",
         "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
       },
@@ -755,6 +755,26 @@
       "duration_ms": 265473,
       "name": "M\u00e1s Sencillo",
       "url": "https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Esmeralda Escalante",
+          "url": "https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Canci\u00f3n Para Que Vuelvas",
+      "url": "https://open.spotify.com/track/5pv3V5KpSLDcbzP9Q9QvlH"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -779,22 +799,6 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
         "name": "Ya Me Hiciste Mal (Remix)",
         "url": "https://open.spotify.com/album/4z11zYLcNsJZip4UeN9amB"
       },
@@ -815,22 +819,18 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "SUPERSTICIONES",
-        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
       },
       "artists": [
         {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Esmeralda Escalante",
-          "url": "https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 215106,
-      "name": "Canci\u00f3n Para Que Vuelvas",
-      "url": "https://open.spotify.com/track/5pv3V5KpSLDcbzP9Q9QvlH"
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
+        "name": "yen3",
+        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "yen3",
+      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
         "name": "Lo que fuera",
         "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
-        "name": "yen3",
-        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "yen3",
-      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
         "name": "Te Pienso Todo el Tiempo",
         "url": "https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 213993,
       "name": "Te Pienso Todo el Tiempo",
       "url": "https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
         "name": "EME",
         "url": "https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 191213,
       "name": "EME",
       "url": "https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
+        "name": "Madre Padre Marte",
+        "url": "https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 212574,
+      "name": "Aparato",
+      "url": "https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
         "name": "En Vivo en el Gran Rex",
         "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 169604,
       "name": "Acto de Fe",
       "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
-        "name": "Madre Padre Marte",
-        "url": "https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 212574,
-      "name": "Aparato",
-      "url": "https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1523,22 +1523,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "Estamos Bajo el Agua",
-        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
+        "name": "Todo el Universo",
+        "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
       },
       "artists": [
         {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         },
         {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
         }
       ],
-      "duration_ms": 151619,
-      "name": "Estamos Bajo el Agua",
-      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+      "duration_ms": 183296,
+      "name": "Todo el Universo",
+      "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1579,22 +1579,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "Todo el Universo",
-        "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
+        "name": "Estamos Bajo el Agua",
+        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
         },
         {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
         }
       ],
-      "duration_ms": 183296,
-      "name": "Todo el Universo",
-      "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
+      "duration_ms": 151619,
+      "name": "Estamos Bajo el Agua",
+      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "GUARACHA",
-        "url": "https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        }
-      ],
-      "duration_ms": 157688,
-      "name": "GUARACHA",
-      "url": "https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
         "name": "Todo Lamento",
         "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 155675,
       "name": "Todo Lamento",
       "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
+        "name": "GUARACHA",
+        "url": "https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        }
+      ],
+      "duration_ms": 157688,
+      "name": "GUARACHA",
+      "url": "https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm"
     },
     {
       "added_at": "2024-04-05 17:21:38",

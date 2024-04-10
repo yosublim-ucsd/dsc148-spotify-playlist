@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,499 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,593 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 35 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 |
 | 36 | [Legs](https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [My Friend Mica](https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8) | 2:53 |
 | 37 | [Angel](https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f) | 3:56 |
-| 38 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 |
-| 39 | [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 |
+| 38 | [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 |
+| 39 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 |
 | 40 | [religion \(u can lay your hands on me\)](https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze) | 4:07 |
 | 41 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 |
 | 42 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 54 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
 | 55 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 56 | [Jason](https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 3:05 |
-| 57 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 |
-| 58 | [Miami](https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:44 |
+| 57 | [Miami](https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:44 |
+| 58 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 |
 | 59 | [QUEEN BEE](https://open.spotify.com/track/3faVsOc6GJnh01unAc8D7I) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:28 |
 | 60 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 |
 | 61 | [Plastic Envelope](https://open.spotify.com/track/3eiVhoqOuP5iSgnCzLvUU1) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Jonny](https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0) | 3:17 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 68 | [death proof](https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 2:56 |
 | 69 | [Freak Mode](https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Freak Mode](https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W) | 2:37 |
 | 70 | [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 |
-| 71 | [California Girl](https://open.spotify.com/track/2xnQS6llktzVGWKav2otE4) | [Nova Knowles](https://open.spotify.com/artist/1tHiXy97wjFFmrojUDq7qp) | [California Girl](https://open.spotify.com/album/6Z5K0Y4OJRX7YGwmcrQti8) | 3:57 |
-| 72 | [Back](https://open.spotify.com/track/0mytPbo2GAlCTjA0zZ1Z8e) | [Pool Cosby](https://open.spotify.com/artist/7zrfybpJUeRLpyPY9DoDt7), [Soren Bryce](https://open.spotify.com/artist/3EPBoq3UlOpWoABQpdDSCB) | [Day Breaks](https://open.spotify.com/album/6ST0U2V3WOBV8RzFYwBg6F) | 2:55 |
+| 71 | [Back](https://open.spotify.com/track/0mytPbo2GAlCTjA0zZ1Z8e) | [Pool Cosby](https://open.spotify.com/artist/7zrfybpJUeRLpyPY9DoDt7), [Soren Bryce](https://open.spotify.com/artist/3EPBoq3UlOpWoABQpdDSCB) | [Day Breaks](https://open.spotify.com/album/6ST0U2V3WOBV8RzFYwBg6F) | 2:55 |
+| 72 | [California Girl](https://open.spotify.com/track/2xnQS6llktzVGWKav2otE4) | [Nova Knowles](https://open.spotify.com/artist/1tHiXy97wjFFmrojUDq7qp) | [California Girl](https://open.spotify.com/album/6Z5K0Y4OJRX7YGwmcrQti8) | 3:57 |
 | 73 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 | 74 | [Love You So Bad](https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:42 |
 | 75 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 |
 
-Snapshot ID: `MCxhMmY4MGVkNGYwZWFhYzA3NTg3OTkxZTk4NjYyZDUyYThkZmMxYTNi`
+Snapshot ID: `MCwxZDJlMjQ3YjViZGMzNjMyN2U0NDNiY2VlN2M2YzJjZTBjYjBmNzkw`

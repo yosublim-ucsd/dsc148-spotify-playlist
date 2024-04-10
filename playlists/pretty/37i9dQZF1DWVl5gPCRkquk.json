@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 862627,
+  "num_followers": 862660,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGE5YTNiMTRmMTdjN2MxMDEyOWE4OGU4MzQ0NjkwN2M5NmI4ODcw",
+  "snapshot_id": "MCw4MmIyMGQzMTNiMjBhNzA1NGQ3NWU5ODQ5MjQ4ZjUzYTlmNjlkMGZi",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Tearing At The Seams",
         "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 307697,
-      "name": "Should Have Known Better",
-      "url": "https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O"
+      "duration_ms": 187266,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -387,6 +371,22 @@
       "duration_ms": 321662,
       "name": "Como me encanta",
       "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 307697,
+      "name": "Should Have Known Better",
+      "url": "https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 201174,
       "name": "Hiding Out In The Open",
       "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 222341,
-      "name": "Hawkmoon",
-      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Fruit from the Trees",
+        "url": "https://open.spotify.com/album/69Dt5SjS6dSCmlPfqMhWwv"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 296929,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/2YhLF7zIxcitEkobaGAMmU"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Fruit from the Trees",
-        "url": "https://open.spotify.com/album/69Dt5SjS6dSCmlPfqMhWwv"
-      },
-      "artists": [
-        {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
-        }
-      ],
-      "duration_ms": 296929,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/2YhLF7zIxcitEkobaGAMmU"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 250574,
-      "name": "Strawberry Woman",
-      "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/0OPDYF1cEKOYbuY9w9RwXc"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/6qn7IWtDaT6bLeecinhOsO"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 250574,
+      "name": "Strawberry Woman",
+      "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Same Sun EP",
         "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 159010,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 248853,
       "name": "April",
       "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2024-03-08 05:00:00",

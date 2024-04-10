@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,032 likes - 47 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,036 likes - 46 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 37 | [Si Solo Estas Ahí](https://open.spotify.com/track/0pJRIgIzSZq1xFEtGnACG2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:14 |
 | 38 | [Despierten](https://open.spotify.com/track/4bnaFMP9HTgIFVTBXJM0ju) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Despierten](https://open.spotify.com/album/1qWSjGC7gRdMMcJoowJTK7) | 6:14 |
 | 39 | [Dilo por Mí](https://open.spotify.com/track/4T0jO89hVCnA2TNNnBUTUY) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:10 |
-| 40 | [Feliz](https://open.spotify.com/track/0K4sJ6POIZPwbTkYqF4rA8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Feliz](https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX) | 3:07 |
+| 40 | [Magia](https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Magia](https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi) | 3:16 |
 | 41 | [Échale la Culpa al Rock N' Roll](https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:12 |
 | 42 | [María](https://open.spotify.com/track/74S4elvYfwhKdThkB9APUv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [María](https://open.spotify.com/album/1gf3hGi60TRvxyN4dDIJFZ) | 4:04 |
 | 43 | [Salva Mi Mente](https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:21 |
-| 44 | [Magia](https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Magia](https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi) | 3:16 |
+| 44 | [Feliz](https://open.spotify.com/track/0K4sJ6POIZPwbTkYqF4rA8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Feliz](https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX) | 3:07 |
 | 45 | [Yo No Vivo de los Demás](https://open.spotify.com/track/1rGlnEKMpLYM2qVEYXejyv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 2:55 |
 | 46 | [A Nadie Le Importa](https://open.spotify.com/track/3LEYugA9C1pV8MCfw2eLFK) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [A Nadie Le Importa](https://open.spotify.com/album/3fsAoJjDwnkroW6remnUhS) | 3:13 |
-| 47 | [Jam Session](https://open.spotify.com/track/6qmz2Q6Nvg2Q7e2VlphVEM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 0:57 |
 
-Snapshot ID: `MCxhZDI4OGUwNzM4OWJmMWFjNDNlMTAwYWIxNTJlYTdlMjY3YWI3Mzc3`
+Snapshot ID: `MCw4ZmIwNjdhYzc1MzA3NmI1NTQ2ZDJiMDg0MmJjNDVkNGE1MTRhOTM5`

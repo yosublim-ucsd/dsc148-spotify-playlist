@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,256 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,363 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 45 | [Awel Mara Etabelna](https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq) | [Hani Adel](https://open.spotify.com/artist/2mqNN3AwsqhYMAGDlCwjOS), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Awel Mara Etabelna](https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju) | 3:38 |
 | 46 | [بقيس الجمال بيكي](https://open.spotify.com/track/4VriXHfdk3GpTMCKOW70D5) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [بقيس الجمال بيكي](https://open.spotify.com/album/5jIBjSo2wTnNdSdUnbs9eN) | 3:47 |
 | 47 | [Hassa Beek](https://open.spotify.com/track/0aeVtB8skJoQdTzXPrDNSz) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 3:46 |
-| 48 | [مكتوبه ليك](https://open.spotify.com/track/1VLOZmKRWbsZ00VC6YhHxo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [سهرنا يا ليل](https://open.spotify.com/album/0mlx1bedgxvJgBNFWoJbgd) | 5:16 |
-| 49 | [Ala Bali](https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Ala Bali](https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9) | 3:14 |
+| 48 | [Ala Bali](https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Ala Bali](https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9) | 3:14 |
+| 49 | [مكتوبه ليك](https://open.spotify.com/track/1VLOZmKRWbsZ00VC6YhHxo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [سهرنا يا ليل](https://open.spotify.com/album/0mlx1bedgxvJgBNFWoJbgd) | 5:16 |
 | 50 | [اصحى للكلام](https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [اصحى للكلام](https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1) | 3:14 |
 | 51 | [أمانة عليك](https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [أمانة عليك](https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB) | 2:54 |
 | 52 | [برتاح معاك](https://open.spotify.com/track/13fRYCIjPIr5fi9Z3a9lGW) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:35 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 61 | [Ya Gamalak \- Acoustic Version](https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak \(Acoustic Version\)](https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT) | 2:04 |
 | 62 | [Shabah El Sama](https://open.spotify.com/track/4oxKGIYNawlTBHK76Ah3eY) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [Shabah El Sama](https://open.spotify.com/album/5oQiH9mow7LFTk0JFcsUZv) | 3:38 |
 | 63 | [Maktoob Aleina](https://open.spotify.com/track/3RfC9t6UYws4b6EJVuP601) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [Red Bull Sika](https://open.spotify.com/album/0hf5Kd9VvJTl993fEfkLAP) | 2:10 |
-| 64 | [Ma Kefaya](https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Ma Kefaya](https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6) | 3:20 |
-| 65 | [دي حبيبتي](https://open.spotify.com/track/1usEdJo0r9qk2gcnvx7bTr) | [SAMO ZAEN](https://open.spotify.com/artist/4DW2hW7UeUenUJo7MUWEQl) | [دي حبيبتي](https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ) | 3:52 |
-| 66 | [Ya Bakhty Beh](https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ya Bakhty Beh](https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy) | 3:15 |
+| 64 | [دي حبيبتي](https://open.spotify.com/track/1usEdJo0r9qk2gcnvx7bTr) | [SAMO ZAEN](https://open.spotify.com/artist/4DW2hW7UeUenUJo7MUWEQl) | [دي حبيبتي](https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ) | 3:52 |
+| 65 | [Ya Bakhty Beh](https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ya Bakhty Beh](https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy) | 3:15 |
+| 66 | [Ma Kefaya](https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Ma Kefaya](https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6) | 3:20 |
 | 67 | [Kol Sana Wenta Tayeb](https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Kol Sana Wenta Tayeb](https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy) | 4:01 |
 | 68 | [يا مولاتى](https://open.spotify.com/track/4xrBcgF60gKrZX8929NxXD) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا مولاتى](https://open.spotify.com/album/5zO9OLPgY7VLhDxO9jRsZn) | 4:03 |
 | 69 | [قلبى و روحى و عمرى](https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [قلبي وروحي وعمري](https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H) | 4:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 74 | [Tool Mahna Maa Baad \(Coke Studio Egypt 2023\)](https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Tool Mahna Maa Baad \(Coke Studio Egypt 2023\)](https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC) | 3:35 |
 | 75 | [Rawa2any](https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Rawa2any](https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS) | 3:11 |
 
-Snapshot ID: `MCw3Yjk1NDI0M2ZiZTE4NTJhMDNmZjU1OTM1Yzg5NGU1OGIxNDY2Mjkw`
+Snapshot ID: `MCxmYWJmNGM5YTMzMGZkYzI4NDU0Zjk3NWRlYTQyZjk1MzI5MzA5YjUz`

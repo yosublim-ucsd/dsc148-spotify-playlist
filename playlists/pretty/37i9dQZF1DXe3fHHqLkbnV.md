@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 
 > The best easy rock from the 1990s\. Cover: Bryan Adams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,237 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,415 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 34 | [If You Could Only See](https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [Lemon Parade](https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V) | 4:21 |
 | 35 | [I'll Be](https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Misguided Roses](https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319) | 4:26 |
 | 36 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
-| 37 | [A Girl Like You](https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir) | 3:56 |
-| 38 | [She Talks To Angels](https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 5:29 |
+| 37 | [She Talks To Angels](https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 5:29 |
+| 38 | [A Girl Like You](https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir) | 3:56 |
 | 39 | [Jumper \- 1998 Edit](https://open.spotify.com/track/3354J49VpkbZJho7Ztdzpw) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:32 |
 | 40 | [Erase / Rewind](https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:38 |
 | 41 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 79 | [Lucky Man](https://open.spotify.com/track/0bw1li9y32rw40HGodRShs) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 4:53 |
 | 80 | [Laugh 'n' a 1/2 \- 2009 \- Remaster](https://open.spotify.com/track/1mLiW0DfcGvUZqaNZo4jPd) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Riskin' It All \(2009 \- Remastered\)](https://open.spotify.com/album/2Qrw5hEkU1Nl9QU15bPaHs) | 3:32 |
 
-Snapshot ID: `MCw5MWFiOGVkYjAxMjkyNTVhNjVkOTUxNjE3YTk5NDNmZjg2OTUwMDY3`
+Snapshot ID: `MCwzNzdjODZmYzU5MWU5OTc2MTJlM2MyNDAzNjg5N2QxYTkwMzllNGQz`

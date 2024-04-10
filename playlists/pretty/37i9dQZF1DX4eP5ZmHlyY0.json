@@ -1,15 +1,47 @@
 {
-  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: INI",
-  "num_followers": 47391,
+  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: RAMPAGE from EXILE TRIBE",
+  "num_followers": 47393,
   "original_name": "Boys Group Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTk0YTNkNDdhODc3ZTRhYzc1ZWNiZDYwYmNiZjgyYzA3NmEwMDJk",
+  "snapshot_id": "MCwyOGZiMzQ4Zjc3ZmNmZDJkYTU2MWYyNjI3MzBlNjBlMDY1YzMzZDlh",
   "tracks": [
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "CyberHelix",
+        "url": "https://open.spotify.com/album/39LkA12lKbHhlNkv87U9u2"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "CyberHelix",
+      "url": "https://open.spotify.com/track/5U4nj0Gt9A9dIMyBQPAH6Q"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "Test Drive",
+        "url": "https://open.spotify.com/album/5sZ3aPaqUMKyC9ssgHquE9"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Test Drive",
+      "url": "https://open.spotify.com/track/5ARYBmzAgJcxs4wlQJNAuS"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Whatever Happens",
         "url": "https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd"
@@ -25,23 +57,39 @@
       "url": "https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
-        "name": "HAPPY UNBIRTHDAY",
-        "url": "https://open.spotify.com/album/1pvXyLugVj8JLeCh8FraWv"
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
       },
       "artists": [
         {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
         }
       ],
-      "duration_ms": 205493,
-      "name": "HAPPY UNBIRTHDAY",
-      "url": "https://open.spotify.com/track/2o0XgPxLvZKlVsuQjZ0WzO"
+      "duration_ms": 158795,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/074s54XQPsBttINKj02W9T"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Set Sail",
+      "url": "https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "99.9 Psychic Radio",
         "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
@@ -61,71 +109,7 @@
       "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 158795,
-      "name": "GOAT",
-      "url": "https://open.spotify.com/track/074s54XQPsBttINKj02W9T"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "Aqua",
-        "url": "https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Aqua",
-      "url": "https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "Mainstream",
-        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Mainstream",
-      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Set Sail",
-      "url": "https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Parade",
         "url": "https://open.spotify.com/album/43PcyZMcbxwUWOYzE9bg1P"
@@ -145,7 +129,7 @@
       "url": "https://open.spotify.com/track/6zac62mblxAmbgVkqBQKCB"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
@@ -161,7 +145,7 @@
       "url": "https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "PSYCHIC FILE \u2161",
         "url": "https://open.spotify.com/album/7GBguLTdlkJhzecV5KMvzO"
@@ -177,87 +161,7 @@
       "url": "https://open.spotify.com/track/3PSj0h7rMUW4m754rOgZPJ"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "First Howling : NOW",
-        "url": "https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL"
-      },
-      "artists": [
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Dropkick",
-      "url": "https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "Be on Your side",
-        "url": "https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF"
-      },
-      "artists": [
-        {
-          "name": "to HEROes",
-          "url": "https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA"
-        }
-      ],
-      "duration_ms": 219983,
-      "name": "Be on Your side",
-      "url": "https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "T.G.I. Friday Night",
-        "url": "https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT"
-      },
-      "artists": [
-        {
-          "name": "Travis Japan",
-          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
-        }
-      ],
-      "duration_ms": 215233,
-      "name": "T.G.I. Friday Night",
-      "url": "https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "A2Z",
-        "url": "https://open.spotify.com/album/2vKHhkgrdmovL4o0Sfr4lN"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "A2Z",
-      "url": "https://open.spotify.com/track/5LnOxZHrMEhsfFNDRdYm2B"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "THE HEAT",
-        "url": "https://open.spotify.com/album/5YOqB25VvOrskAmamHvwPd"
-      },
-      "artists": [
-        {
-          "name": "PSYCHIC FEVER from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
-        }
-      ],
-      "duration_ms": 176860,
-      "name": "THE HEAT",
-      "url": "https://open.spotify.com/track/3Dvw0juzCUC3ul6Uba3RKR"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Snowin\u2019",
         "url": "https://open.spotify.com/album/7AHmQEtHOwdKGFvcHC9PPM"
@@ -273,7 +177,87 @@
       "url": "https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "Be on Your side",
+        "url": "https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF"
+      },
+      "artists": [
+        {
+          "name": "to HEROes",
+          "url": "https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA"
+        }
+      ],
+      "duration_ms": 219983,
+      "name": "Be on Your side",
+      "url": "https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "T.G.I. Friday Night",
+        "url": "https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "duration_ms": 215233,
+      "name": "T.G.I. Friday Night",
+      "url": "https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "A2Z",
+        "url": "https://open.spotify.com/album/2vKHhkgrdmovL4o0Sfr4lN"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "A2Z",
+      "url": "https://open.spotify.com/track/5LnOxZHrMEhsfFNDRdYm2B"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "First Howling : NOW",
+        "url": "https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Dropkick",
+      "url": "https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "\u65c5\u7acb\u3061\u306e\u9418",
+        "url": "https://open.spotify.com/album/1daK7g4CFGbGURS9fJktDX"
+      },
+      "artists": [
+        {
+          "name": "20th Century",
+          "url": "https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD"
+        }
+      ],
+      "duration_ms": 281146,
+      "name": "\u65c5\u7acb\u3061\u306e\u9418",
+      "url": "https://open.spotify.com/track/6eftqGjcyB4Mfs9MoM0tdw"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/6chK5tRYokqZR6fTN8SDNP"
@@ -289,7 +273,7 @@
       "url": "https://open.spotify.com/track/1ca1fujaysoprH04Pcjnfe"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "P.U!",
         "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
@@ -305,7 +289,7 @@
       "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/75ST1ttxNj07ds4erJcPV2"
@@ -321,23 +305,23 @@
       "url": "https://open.spotify.com/track/6ePcctSJw3azgink6S2QTw"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
-        "name": "CRUISIN'\uff0fIMP.",
-        "url": "https://open.spotify.com/album/7EBmNtFQglJOhcdZmB9rHT"
+        "name": "Aqua",
+        "url": "https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2"
       },
       "artists": [
         {
-          "name": "IMP.",
-          "url": "https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1"
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
         }
       ],
-      "duration_ms": 200898,
-      "name": "Backbeat",
-      "url": "https://open.spotify.com/track/0ZXwytnweKjGxWNmKlR7PW"
+      "duration_ms": 196840,
+      "name": "Aqua",
+      "url": "https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Boom Boom Back",
         "url": "https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd"
@@ -353,7 +337,7 @@
       "url": "https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "LEGIT",
         "url": "https://open.spotify.com/album/5nCj3iJFyQRysLH46vIySh"
@@ -369,7 +353,7 @@
       "url": "https://open.spotify.com/track/4I8UCCTQMhCV1tUo6V2KmW"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Kyoutou feat. RYOKI from BE:FIRST",
         "url": "https://open.spotify.com/album/5xZRKhx7mmHb6SwlY2uPwh"
@@ -389,7 +373,7 @@
       "url": "https://open.spotify.com/track/2IdPiAdM5pUmUMtzS1UBnJ"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "BREMEN",
         "url": "https://open.spotify.com/album/23Pw0GhyG7e5ztxUdfnltQ"
@@ -405,39 +389,39 @@
       "url": "https://open.spotify.com/track/1oLp5er6lRLDBBw6YxAgDm"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
+        "name": "WILD & FREE",
+        "url": "https://open.spotify.com/album/2p7HCvtoxHxQePDIDaDP5C"
       },
       "artists": [
         {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+          "name": "EXILE TAKAHIRO",
+          "url": "https://open.spotify.com/artist/4cW96mgPlmNlWAQyHJNzS4"
         }
       ],
-      "duration_ms": 234110,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8"
+      "duration_ms": 211386,
+      "name": "WILD & FREE",
+      "url": "https://open.spotify.com/track/3XPW6A3czlqpuJmfMYXeQk"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
-        "name": "STARRY LOVE",
-        "url": "https://open.spotify.com/album/27rELiARZxybADb2rbTEli"
+        "name": "ONE DAY",
+        "url": "https://open.spotify.com/album/0n8TRWzkuPoAbKKZXm42wy"
       },
       "artists": [
         {
-          "name": "THE RAMPAGE from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+          "name": "KID PHENOMENON from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV"
         }
       ],
-      "duration_ms": 306466,
-      "name": "STARRY LOVE",
-      "url": "https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq"
+      "duration_ms": 234562,
+      "name": "ONE DAY",
+      "url": "https://open.spotify.com/track/6j9Viekj6TmxbUXVcbf6BJ"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "TALKIN'",
         "url": "https://open.spotify.com/album/6KaE7SAZv0WhVISS6eOaG6"
@@ -453,7 +437,7 @@
       "url": "https://open.spotify.com/track/2BZcMGnMHydT4heylUMrrk"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "TRICKSTER",
         "url": "https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB"
@@ -469,39 +453,55 @@
       "url": "https://open.spotify.com/track/53WRoCbjgRtPdi7es1zGnZ"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
-        "name": "BANG!",
-        "url": "https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB"
+        "name": "CRUISIN'\uff0fIMP.",
+        "url": "https://open.spotify.com/album/7EBmNtFQglJOhcdZmB9rHT"
       },
       "artists": [
         {
-          "name": "TEMPEST",
-          "url": "https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP"
+          "name": "IMP.",
+          "url": "https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1"
         }
       ],
-      "duration_ms": 202920,
-      "name": "BANG!",
-      "url": "https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6"
+      "duration_ms": 200898,
+      "name": "Backbeat",
+      "url": "https://open.spotify.com/track/0ZXwytnweKjGxWNmKlR7PW"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
-        "name": "OCTAVE / Daydream",
-        "url": "https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA"
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
       },
       "artists": [
         {
-          "name": "OCTPATH",
-          "url": "https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7"
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
         }
       ],
-      "duration_ms": 211640,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY"
+      "duration_ms": 207053,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 234110,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "SiX",
         "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
@@ -517,23 +517,7 @@
       "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "Gifted. -Orchestra ver.-",
-        "url": "https://open.spotify.com/album/0k3aV68FkJd7YOMlteL4WD"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Gifted. - Orchestra ver.",
-      "url": "https://open.spotify.com/track/6eVpSSlmikGCpP6gdt0FnH"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Your Key",
         "url": "https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS"
@@ -549,55 +533,39 @@
       "url": "https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
-        "name": "\u5b58\u5728\u8a3c\u660e",
-        "url": "https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF"
+        "name": "OCTAVE / Daydream",
+        "url": "https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA"
       },
       "artists": [
         {
-          "name": "KID PHENOMENON from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV"
+          "name": "OCTPATH",
+          "url": "https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7"
         }
       ],
-      "duration_ms": 184053,
-      "name": "Purple Dawn",
-      "url": "https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop"
+      "duration_ms": 211640,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI"
+        "name": "BANG!",
+        "url": "https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB"
       },
       "artists": [
         {
-          "name": "NEXZ",
-          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+          "name": "TEMPEST",
+          "url": "https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu"
+      "duration_ms": 202920,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "Add Love Song",
-        "url": "https://open.spotify.com/album/02aaaAxq4hIMsoOJb2V4e2"
-      },
-      "artists": [
-        {
-          "name": "CUBERS",
-          "url": "https://open.spotify.com/artist/5b0vNm8SlsmAMchGD7akjQ"
-        }
-      ],
-      "duration_ms": 327468,
-      "name": "Add Love Song",
-      "url": "https://open.spotify.com/track/3Zux43tmJ0IhNonmOGsxqO"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "\u30a2\u30f3\u30b9\u30ed\u30dd\u30b9",
         "url": "https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d"
@@ -613,7 +581,7 @@
       "url": "https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "\u30de\u30eb\u30c1\u30d0\u30fc\u30b9\u30fb\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
         "url": "https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP"
@@ -629,7 +597,7 @@
       "url": "https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "NOT OKAY",
         "url": "https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1"
@@ -645,7 +613,7 @@
       "url": "https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Honey\uff08Selected Edition\uff09",
         "url": "https://open.spotify.com/album/7igGKMIcjTirpS0JSkxN5L"
@@ -661,7 +629,39 @@
       "url": "https://open.spotify.com/track/7AaR3KHGWP4JKe5EgOyPkk"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "Gifted. -Orchestra ver.-",
+        "url": "https://open.spotify.com/album/0k3aV68FkJd7YOMlteL4WD"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Gifted. - Orchestra ver.",
+      "url": "https://open.spotify.com/track/6eVpSSlmikGCpP6gdt0FnH"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "STARRY LOVE",
+        "url": "https://open.spotify.com/album/27rELiARZxybADb2rbTEli"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "STARRY LOVE",
+      "url": "https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Frozen Butterfly",
         "url": "https://open.spotify.com/album/1TUoTEQc8g6masfIq5XR9R"
@@ -677,39 +677,7 @@
       "url": "https://open.spotify.com/track/3JcUsgmUOruUTr7VRnqMa6"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "Rock Out",
-        "url": "https://open.spotify.com/album/5l6YBLJ4myl83evAzFHUDR"
-      },
-      "artists": [
-        {
-          "name": "ZIPANG OPERA",
-          "url": "https://open.spotify.com/artist/4MDWbWU2bmU59KAcRTC72d"
-        }
-      ],
-      "duration_ms": 212895,
-      "name": "Rock Out",
-      "url": "https://open.spotify.com/track/5rZ9iaQdXdUekoOm3CLZ6G"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "THE SOUND",
-        "url": "https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "THE SOUND",
-      "url": "https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "EDEN (Special Edition)",
         "url": "https://open.spotify.com/album/5gANRSC7vTCgWtwM4nCCXm"
@@ -725,7 +693,39 @@
       "url": "https://open.spotify.com/track/6cKw9KNIBTLWYM6mt1VAI3"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "HAPPY UNBIRTHDAY",
+        "url": "https://open.spotify.com/album/1pvXyLugVj8JLeCh8FraWv"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "HAPPY UNBIRTHDAY",
+      "url": "https://open.spotify.com/track/2o0XgPxLvZKlVsuQjZ0WzO"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
+      "album": {
+        "name": "THE SOUND",
+        "url": "https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "THE SOUND",
+      "url": "https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI"
+    },
+    {
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "\u30a4\u30de",
         "url": "https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "CRUISIN'",
         "url": "https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8"
@@ -757,23 +757,7 @@
       "url": "https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 281426,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "WISH",
         "url": "https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay"
@@ -789,7 +773,7 @@
       "url": "https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI"
     },
     {
-      "added_at": "2024-04-02 18:11:31",
+      "added_at": "2024-04-09 15:00:58",
       "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt"
@@ -803,22 +787,6 @@
       "duration_ms": 173200,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT"
-    },
-    {
-      "added_at": "2024-04-02 18:11:31",
-      "album": {
-        "name": "First Howling : WE",
-        "url": "https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC"
-      },
-      "artists": [
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "FIREWORK",
-      "url": "https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2"
     }
   ],
   "unique_name": "Boys Group Japan",

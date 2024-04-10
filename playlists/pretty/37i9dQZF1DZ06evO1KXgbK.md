@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,371 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,411 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 36 | [Silver Threads and Golden Needles](https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:23 |
 | 37 | [\(I Can’t Get No\) Satisfaction](https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 3:53 |
 | 38 | [After the Gold Rush \- 2015 Remaster](https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio II \(2016 Remaster\)](https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7) | 3:31 |
-| 39 | [Baby I'm Burnin'](https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heartbreaker](https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh) | 2:36 |
-| 40 | [Harper Valley PTA](https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [In the Good Old Days \(When Times Were Bad\)](https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl) | 3:12 |
-| 41 | [Bets On Us](https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [One Night in Nashville](https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep) | 3:00 |
+| 39 | [Bets On Us](https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [One Night in Nashville](https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep) | 3:00 |
+| 40 | [Baby I'm Burnin'](https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heartbreaker](https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh) | 2:36 |
+| 41 | [Harper Valley PTA](https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [In the Good Old Days \(When Times Were Bad\)](https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl) | 3:12 |
 | 42 | [9 to 5](https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:00 |
 | 43 | [You Are](https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [New Harvest...First Gathering](https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H) | 5:15 |
 | 44 | [Dumb Blonde](https://open.spotify.com/track/1wgXZFadykcGX9W1olAOmp) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Hello, I'm Dolly](https://open.spotify.com/album/4iHaLUI8kOanVu1r294TzO) | 2:30 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 48 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 |
 | 49 | [The Pain of Loving You \- 2015 Remaster](https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 2:33 |
 | 50 | [It Wasn't God Who Made Honky Tonk Angels](https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:51 |
-| 51 | [The Story](https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Cover Stories: Brandi Carlile Celebrates 10 Years of the Story \(An Album to Benefit War Child\)](https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7) | 4:17 |
+| 51 | [Mule Skinner Blues \(Blue Yodel No\. 8\)](https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:08 |
 
-Snapshot ID: `MCwzMzBmZWYwNmEyNDExOTJkZTBmNDk3NWQzNDNmYmJlOWRkMzRhM2Iw`
+Snapshot ID: `MCxjMjVkNDY4ODQ0YzNjZDhmNmY3MGI0OTdhNTFiNjc3MGIxOTU2ODc5`

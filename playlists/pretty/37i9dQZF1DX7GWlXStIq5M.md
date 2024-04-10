@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Clau
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,828 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,825 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 49 | [Sad Baile](https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Sad Baile](https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w) | 2:50 |
 | 50 | [Cupido Querido](https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:18 |
 | 51 | [Deixe\-me Ir](https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Deixe\-me Ir](https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw) | 3:39 |
-| 52 | [Nem Sei Fingir](https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Nem Sei Fingir](https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh) | 2:56 |
-| 53 | [Arder de Amor \(Sol\)](https://open.spotify.com/track/5e0fW6tGj8vFlwRdW3isaW) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [COSMOS](https://open.spotify.com/album/6e9wu0uLU3dIBYz7GOh8Dv) | 4:14 |
+| 52 | [Arder de Amor \(Sol\)](https://open.spotify.com/track/5e0fW6tGj8vFlwRdW3isaW) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [COSMOS](https://open.spotify.com/album/6e9wu0uLU3dIBYz7GOh8Dv) | 4:14 |
+| 53 | [Nem Sei Fingir](https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Nem Sei Fingir](https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh) | 2:56 |
 | 54 | [Dejavú](https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Groove](https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt) | 2:46 |
 | 55 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 |
 | 56 | [Laço](https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [Laço](https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh) | 2:29 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 68 | [Segredos da Vida](https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Segredos da Vida](https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u) | 2:22 |
 | 69 | [Serena](https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [Serena](https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1) | 2:45 |
 | 70 | [Ai, Que Calor](https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Ai, Que Calor](https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ) | 2:24 |
-| 71 | [7am \(feat\. Vitão\)](https://open.spotify.com/track/4j1ofdMqxZFDXknkrZCdTl) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Summer Groove](https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5) | 2:37 |
-| 72 | [Insônia](https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Insônia](https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0) | 3:26 |
+| 71 | [Insônia](https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Insônia](https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0) | 3:26 |
+| 72 | [7am \(feat\. Vitão\)](https://open.spotify.com/track/4j1ofdMqxZFDXknkrZCdTl) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Summer Groove](https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5) | 2:37 |
 | 73 | [Espetacular](https://open.spotify.com/track/3XWnVWfwfb0IszI3X4CZrG) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Mc Arizinho](https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F), [Mc Junior Pk](https://open.spotify.com/artist/4WRkJpqyrKEdwhrFlCrI4A) | [Piquezin do WC](https://open.spotify.com/album/0NNho9WRvEmkK3GvtzM3QV) | 2:07 |
 | 74 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/0pciCbK80mgjXTYeVxbIru) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Pro Dia Nascer Feliz](https://open.spotify.com/album/5dePvauWlTrFFIwPsA3EHB) | 3:15 |
 | 75 | [Amanhã](https://open.spotify.com/track/5NymnW8GUo8rbcpjnATBM1) | [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Amanhã](https://open.spotify.com/album/4fAOx1ZdilrOoeOl0D0d0l) | 2:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 79 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 |
 | 80 | [Casi Casi](https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:13 |
 
-Snapshot ID: `MCw5NmY1NmM4OTNmZTQ0ZDcxMDA2NzFiZjc0NzM2OTRiNTJjNjY1NTJk`
+Snapshot ID: `MCw0OTEyZjYzNjY1Yzc5NjIzNTQ3ZmI0YjE5YjE4NmQ1NmE1ZWEyYjky`

@@ -4,13 +4,13 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Corazon Serrano, Axel
 
-147 songs - 10 hr 8 min
+148 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Que Volviste Mujer](https://open.spotify.com/track/1LffJoyHmYKiz64RuVPjV2) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Alternativo Music Festival](https://open.spotify.com/album/4n076yJJLl2f8fWsrWGOT2) | 3:24 | 2022-02-11 | 2022-06-01 |
 | [Amor a Primera Vista](https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Jota Benz](https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv) | [Amor a Primera Vista](https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN) | 3:35 | 2022-02-11 | 2023-09-22 |
-| [Amor a Primera Vista \- Versión Cumbia](https://open.spotify.com/track/6cgRWMGvr7PcLGgOp8epSj) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Jota Benz](https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv), [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Amor a Primera Vista \(Versión Cumbia\)](https://open.spotify.com/album/4GV7yLMM1dWoWslw91BTZP) | 3:35 | 2024-02-16 |  |
+| [Amor a Primera Vista \- Versión Cumbia](https://open.spotify.com/track/6cgRWMGvr7PcLGgOp8epSj) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Jota Benz](https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv), [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Amor a Primera Vista \(Versión Cumbia\)](https://open.spotify.com/album/4GV7yLMM1dWoWslw91BTZP) | 3:35 | 2024-02-16 | 2024-04-10 |
 | [Amor Incomparable](https://open.spotify.com/track/2rDl3wOeXZF6upPLD94Ah9) | [Grupo Guinda](https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD) | [Grupo Guinda](https://open.spotify.com/album/7vGzZqzcIjxEvJgF6T53K1) | 3:12 | 2022-02-11 | 2022-07-29 |
 | [Amor Incomparable](https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN) | [Grupo Guinda](https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD) | [Amor Incomparable](https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88) | 3:14 | 2022-02-11 | 2023-04-02 |
 | [Amor Prohibido](https://open.spotify.com/track/2SOWAjUzwv0xbSaMx7j522) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Vol\. 11: Amor Prohibido](https://open.spotify.com/album/39Mr4G9fWujU9CIlMoPlPW) | 3:33 | 2022-02-11 | 2022-07-28 |
@@ -106,6 +106,7 @@
 | [No Te Creas Tan Importante](https://open.spotify.com/track/7jlbNMjcYOF89FWhi5Jqzb) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/2Kd45irIJVHP2F5zrb8c66) | 4:08 | 2022-02-11 | 2022-09-03 |
 | [Pecadora 2020 \- Versión Cumbia](https://open.spotify.com/track/1Y1FQQETtjQ6mGQPNSn4TS) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Johnny Orosco](https://open.spotify.com/artist/4ghTBFu8toXHUUVNtLILX0), [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Pecadora 2020 \(Versión Cumbia\)](https://open.spotify.com/album/7GIrQUCOrL7BKz2StdGcRc) | 3:39 | 2022-02-11 | 2022-07-29 |
 | [Pedacito de Mi Vida](https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX) | [Tommy Portugal](https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i) | [Homenaje a Nuestra Kumbia](https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW) | 3:47 | 2022-02-11 | 2022-07-28 |
+| [Pensando En Ti](https://open.spotify.com/track/0VkhsIr5avrOdOdc2BE34M) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Directo al Corazón, Vol\. 18](https://open.spotify.com/album/7CbNmgY2t9MP2G86u0CnAm) | 3:33 | 2024-02-16 |  |
 | [Pensando en Ti](https://open.spotify.com/track/6ZRWmk8bYmHCcseZqyykWR) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Directo al Corazón, Vol\. 18](https://open.spotify.com/album/7qMhIUFDDzM9uEIlhT5mnE) | 3:33 | 2022-02-11 | 2024-04-04 |
 | [Pensando en ti](https://open.spotify.com/track/6bK5l5leEL9F6Q8Vyf1Id3) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Vol\. 18 Directo al Corazón](https://open.spotify.com/album/7giY5mFhHvfoCzEVLMkqje) | 3:33 | 2022-02-11 | 2022-07-26 |
 | [Por Que un Hombre No Llora](https://open.spotify.com/track/3WXuIhwbCGYvzLEfyvGYOU) | [Los Tigres de la Cumbia](https://open.spotify.com/artist/044y0XSznUpOIzgp61qwT1) | [Porque un Hombre No Llora](https://open.spotify.com/album/5yuZLJjoc41D8Di7y2nlbW) | 4:30 | 2022-02-11 |  |

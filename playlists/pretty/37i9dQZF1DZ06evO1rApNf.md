@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,288 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,295 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 34 | [PAPÁS](https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [PAPÁS](https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA) | 3:13 |
 | 35 | [Faldita](https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Faldita](https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA) | 3:10 |
 | 36 | [Ex \(con La Joaqui\)](https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 3:04 |
-| 37 | [Cariño Mío](https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cariño Mío](https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz) | 3:17 |
-| 38 | [Japonesa](https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 2:35 |
+| 37 | [Japonesa](https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 2:35 |
+| 38 | [Cariño Mío](https://open.spotify.com/track/6Mq4WZPK1hYSVSlNMcdSMe) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cariño Mío](https://open.spotify.com/album/1ji75N7d6k9Btn72mVLWyj) | 3:17 |
 | 39 | [Malo](https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Malo](https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz) | 3:01 |
 | 40 | [Despiértate](https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Despiértate](https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF) | 2:58 |
 | 41 | [La Grosera](https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Grosera](https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 49 | [OUCH](https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:17 |
 | 50 | [No Hace Falta Que Lo Digas](https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [No Hace Falta Que Lo Digas](https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ) | 3:38 |
 
-Snapshot ID: `MCwyNzcyZDI4YzNhOTE2MmJjN2M4MTg2ZmU3ZjBhMGNiNmU1MzFmMmI5`
+Snapshot ID: `MCwzNWNhMjU1MWIwODA5ZTI1YTdiODJlYjgxMjJiNWQ3ODhhMzNiNTRj`

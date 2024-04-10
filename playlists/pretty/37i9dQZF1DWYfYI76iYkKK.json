@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 124889,
+  "num_followers": 124909,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDgzNzhiYmJlMWFkMGY4ODZmZDNlOTg3NGFmNGZmOTBmOTIxZTcx",
+  "snapshot_id": "MCw1NTQ4YmMyMDBhN2MzMTBjOGI0OTZhYWNiODY5MzM2MmFiOTY3MTcx",
   "tracks": [
     {
       "added_at": "2024-04-04 16:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-04-04 16:00:00",
       "album": {
-        "name": "\u7121\u4eba\u77e5\u66c9",
-        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "\u7686\u53ef",
-      "url": "https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR"
-    },
-    {
-      "added_at": "2024-04-04 16:00:00",
-      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 222266,
       "name": "\u7aca\u7b11",
       "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+    },
+    {
+      "added_at": "2024-04-04 16:00:00",
+      "album": {
+        "name": "\u7121\u4eba\u77e5\u66c9",
+        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "\u7686\u53ef",
+      "url": "https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR"
     },
     {
       "added_at": "2024-04-04 16:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-04 16:00:00",
       "album": {
-        "name": "9522",
-        "url": "https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb"
-      },
-      "artists": [
-        {
-          "name": "\u5b89\u6ea5",
-          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
-        }
-      ],
-      "duration_ms": 186780,
-      "name": "Miss missed Love",
-      "url": "https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur"
-    },
-    {
-      "added_at": "2024-04-04 16:00:00",
-      "album": {
         "name": "\u5927\u6d77",
         "url": "https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 211110,
       "name": "\u5927\u6d77",
       "url": "https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z"
+    },
+    {
+      "added_at": "2024-04-04 16:00:00",
+      "album": {
+        "name": "9522",
+        "url": "https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb"
+      },
+      "artists": [
+        {
+          "name": "\u5b89\u6ea5",
+          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
+        }
+      ],
+      "duration_ms": 186780,
+      "name": "Miss missed Love",
+      "url": "https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur"
     },
     {
       "added_at": "2024-04-04 16:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-04-04 16:00:00",
       "album": {
-        "name": "\u6642\u5149\u539a\u79ae",
-        "url": "https://open.spotify.com/album/6beMU56PrsOxkTTF6PPB8f"
-      },
-      "artists": [
-        {
-          "name": "Kelly Chen",
-          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
-        }
-      ],
-      "duration_ms": 231371,
-      "name": "\u6642\u5149\u539a\u79ae",
-      "url": "https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9"
-    },
-    {
-      "added_at": "2024-04-04 16:00:00",
-      "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
         "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 236239,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
       "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
+    },
+    {
+      "added_at": "2024-04-04 16:00:00",
+      "album": {
+        "name": "\u6642\u5149\u539a\u79ae",
+        "url": "https://open.spotify.com/album/6beMU56PrsOxkTTF6PPB8f"
+      },
+      "artists": [
+        {
+          "name": "Kelly Chen",
+          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
+        }
+      ],
+      "duration_ms": 231371,
+      "name": "\u6642\u5149\u539a\u79ae",
+      "url": "https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

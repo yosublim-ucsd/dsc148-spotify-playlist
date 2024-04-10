@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,512 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,511 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 99 | [Groove Dealer](https://open.spotify.com/track/15DbcMMMTNN9RmK50FmnmR) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Groove Dealer EP](https://open.spotify.com/album/51gGEMAk03iyIcxlvrFnmd) | 6:58 |
 | 100 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 
-Snapshot ID: `MCw2ZjMzNzY1ZjliZjNiMmMwN2E5ZDY0NmQxOWE5YzlhODk1ZGNiZjk2`
+Snapshot ID: `MCwyODFiYmQ4ZGNjYTJiMWI5NDhhZTNhYTlmNDY5NWMyZDhiZTA2ODU3`

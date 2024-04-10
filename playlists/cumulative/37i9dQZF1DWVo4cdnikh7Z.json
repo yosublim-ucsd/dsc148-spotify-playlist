@@ -7763,6 +7763,32 @@
     },
     {
       "album": {
+        "name": "Teenz (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25pz5qUNSjQzXvlYqYOUpH"
+      },
+      "artists": [
+        {
+          "name": "Shruti Haasan",
+          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Radhakrishnan Parthiban",
+          "url": "https://open.spotify.com/artist/5TQgCYvAeDLhIASGGUYiDP"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243901,
+      "name": "Hey Nainika",
+      "url": "https://open.spotify.com/track/5VeQNSTFSxZlb7NrPVGh20"
+    },
+    {
+      "album": {
         "name": "Hey Nainika (From \"Teenz\")",
         "url": "https://open.spotify.com/album/5daBqYwMkpE43aS13p8FwV"
       },
@@ -7812,7 +7838,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 243901,
       "name": "Hey Nainika (From \"Teenz\")",
       "url": "https://open.spotify.com/track/6OxZyQ00CncpZv8j4PBhp3"
@@ -13560,6 +13586,32 @@
       "duration_ms": 240000,
       "name": "Madhayaanai Kootam (From \"Parundhaaguthu Oor Kuruvi\")",
       "url": "https://open.spotify.com/track/31lHRZafWHDazAbKFx4JEC"
+    },
+    {
+      "album": {
+        "name": "Madhuramum Idha (From \"The Family Star\")",
+        "url": "https://open.spotify.com/album/6NSv2AzSY1UqwdHlhCbH1L"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/3aQAjkRmPjXvM8Odeg3B99"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332175,
+      "name": "Madhuramum Idha (From \"The Family Star\")",
+      "url": "https://open.spotify.com/track/6rsmlUhCUyZEgsFXaxRhae"
     },
     {
       "album": {
@@ -23662,7 +23714,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 204000,
       "name": "Tappasu Neram",
       "url": "https://open.spotify.com/track/5sBO9sft4twmiwoUZUD6DD"

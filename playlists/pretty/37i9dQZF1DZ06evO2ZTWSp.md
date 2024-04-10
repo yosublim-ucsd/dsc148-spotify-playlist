@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,098 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,081 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 26 | [Better in Color](https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:13 |
 | 27 | [Soulmate](https://open.spotify.com/track/6h2wpo2pshM8QnAvRySEO0) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 |
 | 28 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
-| 29 | [Worship](https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 2:57 |
-| 30 | [Karaoke \(feat\. Lizzo\)](https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [3rd Ward Bounce](https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj) | 3:05 |
+| 29 | [Karaoke \(feat\. Lizzo\)](https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [3rd Ward Bounce](https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj) | 3:05 |
+| 30 | [Worship](https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 2:57 |
 | 31 | [Exactly How I Feel \(feat\. Gucci Mane\)](https://open.spotify.com/track/7BZtzkbV48eu0sGKhHP7R9) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:23 |
 | 32 | [Everybody’s Gay](https://open.spotify.com/track/5uhaFPXTIG06S9Hb2c5tsT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:35 |
 | 33 | [Phone](https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Phone](https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 49 | [Batches & Cookies](https://open.spotify.com/track/1HgwseKCKrBgL7By8ZcU9M) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sophia Eris](https://open.spotify.com/artist/0p6NrdHl8dQQALGIqVcrjt) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:23 |
 | 50 | [En Love](https://open.spotify.com/track/7wHRFO53gnDUJnun8BiAkq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:24 |
 
-Snapshot ID: `MCxjMjkwZGJhYzZmYzIwMDYxMWQ2NDUzY2E3OTcxNjhmYTY0ODRjZDAy`
+Snapshot ID: `MCw2ZDZmZWE2MGU5MGMzZGYzYzIyYzkzYjVjZDk5M2VhODU4ZjEyZmY1`

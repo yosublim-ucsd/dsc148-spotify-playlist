@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Joshwa. 50% techno, 50% house",
-  "num_followers": 615334,
+  "num_followers": 615493,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDUyOTU5YzE4YTJjNTY0OWU3NzQ5YTU0YjVmMGEzOThkYmZhNzU1",
+  "snapshot_id": "MCwyNjA4ZTFiMzJjZTY3MDI1MWU2M2IzYjJhNDViZmVjZDgyNDE5ZWQ5",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1857,6 +1857,26 @@
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Don't Wanna Fall",
+        "url": "https://open.spotify.com/album/5lvZDL4qUTZhOYL0iSxtIW"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Framed Stories",
+          "url": "https://open.spotify.com/artist/0hxIhtwCpZU2Z9bDXc4dCk"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "Don't Wanna Fall",
+      "url": "https://open.spotify.com/track/2h9uC8vTvEdUHLNHJ06Eqb"
+    },
+    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Done",
@@ -1943,26 +1963,6 @@
       "duration_ms": 200000,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Don't Wanna Fall",
-        "url": "https://open.spotify.com/album/5lvZDL4qUTZhOYL0iSxtIW"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Framed Stories",
-          "url": "https://open.spotify.com/artist/0hxIhtwCpZU2Z9bDXc4dCk"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Don't Wanna Fall",
-      "url": "https://open.spotify.com/track/2h9uC8vTvEdUHLNHJ06Eqb"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2061,20 +2061,24 @@
       "url": "https://open.spotify.com/track/4cWja9OGm0MPB5B6sd2SHz"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-02-21 02:09:25",
       "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A"
+        "name": "Vibrate / On The Ground",
+        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
       },
       "artists": [
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
+      "duration_ms": 142982,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/67AHavAU22raZTnVmN1TDR"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2097,24 +2101,36 @@
       "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
     },
     {
-      "added_at": "2024-02-21 02:09:25",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Vibrate / On The Ground",
-        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+        "name": "Freddie's Warmup",
+        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
         }
       ],
-      "duration_ms": 142982,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/67AHavAU22raZTnVmN1TDR"
+      "duration_ms": 120930,
+      "name": "Freddie's Warmup",
+      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2137,22 +2153,6 @@
       "url": "https://open.spotify.com/track/0hi0udQ5ZXTKRcZ9t0e4TF"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Freddie's Warmup",
-        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
-      },
-      "artists": [
-        {
-          "name": "Vlado",
-          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
-        }
-      ],
-      "duration_ms": 120930,
-      "name": "Freddie's Warmup",
-      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Can You Feel It",
@@ -2167,26 +2167,6 @@
       "duration_ms": 146666,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/2iBuBZcnnuDBV9qVcLCRh4"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/42Vw7WPk1amrg9VYWUFqby"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        },
-        {
-          "name": "Teko",
-          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/5ZScfMuHGy2Z8Ryc3B0pXo"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2207,6 +2187,26 @@
       "duration_ms": 211586,
       "name": "Better Recognize",
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/42Vw7WPk1amrg9VYWUFqby"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Teko",
+          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/5ZScfMuHGy2Z8Ryc3B0pXo"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2273,22 +2273,6 @@
       "url": "https://open.spotify.com/track/318Mwtl8JQAZuul9GCHJyD"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "What I'm Sayin",
@@ -2303,6 +2287,22 @@
       "duration_ms": 200343,
       "name": "What I'm Sayin",
       "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2024-02-23 05:00:00",

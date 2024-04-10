@@ -1,12 +1,12 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 59393,
+  "num_followers": 59424,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzY3YzdjNDk2YmJiOTRmOTJhMGMyMjg5Y2YyYTU1MDJhM2UyYWY1",
+  "snapshot_id": "MCxmMGEwYThkMTY1NWMxYjU0NTBkMTliNjhjZGMxNGI4NTk3MWFmOTkx",
   "tracks": [
     {
       "added_at": "2022-06-27 09:54:23",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Complete Works for Solo Piano",
-        "url": "https://open.spotify.com/album/21wDzUkqsx7zfU73K33EsQ"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Menuet sur le nom de Haydn",
-      "url": "https://open.spotify.com/track/3Vcpv8QWJ3IPG9RYKFphoS"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Bolero / Daphnis Et Chloe / Piano Concerto / Ma Mere L'Oye",
         "url": "https://open.spotify.com/album/7roRvkrDXxNkVky7Kj7G2A"
       },
@@ -743,8 +723,8 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+        "name": "Ravel: Complete Works for Solo Piano",
+        "url": "https://open.spotify.com/album/21wDzUkqsx7zfU73K33EsQ"
       },
       "artists": [
         {
@@ -752,13 +732,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
         }
       ],
-      "duration_ms": 450506,
-      "name": "Gaspard de la Nuit, M. 55: 2. Le Gibet",
-      "url": "https://open.spotify.com/track/0QxGL741oduztRFLeNh4Y1"
+      "duration_ms": 106000,
+      "name": "Menuet sur le nom de Haydn",
+      "url": "https://open.spotify.com/track/3Vcpv8QWJ3IPG9RYKFphoS"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -779,6 +759,26 @@
       "duration_ms": 280826,
       "name": "Ravel: String Quartet, M. 35: IV. Vif et agit\u00e9",
       "url": "https://open.spotify.com/track/24woomxv6bct8nFOayjN3F"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "duration_ms": 450506,
+      "name": "Gaspard de la Nuit, M. 55: 2. Le Gibet",
+      "url": "https://open.spotify.com/track/0QxGL741oduztRFLeNh4Y1"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Orchestral Works, Vol. 4",
-        "url": "https://open.spotify.com/album/6S8WhBddmTRxeXgNXLMy2N"
+        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
       },
       "artists": [
         {
@@ -1176,21 +1176,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Spirito",
-          "url": "https://open.spotify.com/artist/6GekRxL3B7gNj2idQBIFo1"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
         }
       ],
-      "duration_ms": 291413,
-      "name": "Daphnis et Chlo\u00e9, M. 57, Pt. 3: Part III: Danse g\u00e9n\u00e9rale",
-      "url": "https://open.spotify.com/track/4kuhQWDvUAvudzykgNiksk"
+      "duration_ms": 611466,
+      "name": "Gaspard de la Nuit, M. 55: 3. Scarbo",
+      "url": "https://open.spotify.com/track/2TWGl3huamXIEmBzHQAszr"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1223,8 +1215,8 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+        "name": "Ravel: Orchestral Works, Vol. 4",
+        "url": "https://open.spotify.com/album/6S8WhBddmTRxeXgNXLMy2N"
       },
       "artists": [
         {
@@ -1232,13 +1224,21 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+          "name": "Spirito",
+          "url": "https://open.spotify.com/artist/6GekRxL3B7gNj2idQBIFo1"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
         }
       ],
-      "duration_ms": 611466,
-      "name": "Gaspard de la Nuit, M. 55: 3. Scarbo",
-      "url": "https://open.spotify.com/track/2TWGl3huamXIEmBzHQAszr"
+      "duration_ms": 291413,
+      "name": "Daphnis et Chlo\u00e9, M. 57, Pt. 3: Part III: Danse g\u00e9n\u00e9rale",
+      "url": "https://open.spotify.com/track/4kuhQWDvUAvudzykgNiksk"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: String Quartet; Violin Sonata; Piano Trio",
-        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Beaux Arts Trio",
-          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Piano Trio in A minor, M. 67: 4. Final (Anim\u00e9)",
-      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Daphnis et Chlo\u00e9",
         "url": "https://open.spotify.com/album/4ofcniYcKBLF6cQY1Dw8Z7"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 266266,
       "name": "Piano trio in a minor: Pantoum (Assez Vif)",
       "url": "https://open.spotify.com/track/7lkXt8wHRkHb4lvwQRZZVx"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: String Quartet; Violin Sonata; Piano Trio",
+        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Beaux Arts Trio",
+          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Piano Trio in A minor, M. 67: 4. Final (Anim\u00e9)",
+      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
     },
     {
       "added_at": "2022-06-27 09:54:23",

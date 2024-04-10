@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:1IppGzPqPv70sKbraW5Q2L">Baby Kia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,037 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,233 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 16 | [Hat](https://open.spotify.com/track/0pQ2Wqzh1ppBbm9Wgzm4ZP) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L), [K Pi$tol](https://open.spotify.com/artist/7jFnItzNtgtr7Joqq0BqKw) | [Hat](https://open.spotify.com/album/15eMlWCxQ4pcqFgZDHPwrd) | 3:01 |
 | 17 | [Freak Girl](https://open.spotify.com/track/7dftI8Q4eCEeUei5sbhRZI) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Freak Girl](https://open.spotify.com/album/3nAHeve2ve8ddwTOuSIkEB) | 2:40 |
 | 18 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
-| 19 | [HIT DIFF \(feat\. KARRAHBOOO, Camo!\)](https://open.spotify.com/track/46ZDsr3xj7wKCokimrhYOc) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Camo](https://open.spotify.com/artist/2o2AdpYle5NrFYEU7AoMOe) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:27 |
+| 19 | [HIT DIFF \(feat\. KARRAHBOOO, Camo!\)](https://open.spotify.com/track/46ZDsr3xj7wKCokimrhYOc) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:27 |
 | 20 | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM) | 3:34 |
 | 21 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 22 | [Water \- Remix](https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Water \(Remix\)](https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z) | 3:20 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 72 | [On Ur Mind](https://open.spotify.com/track/31N2MlwzZHXjJalEEbh5LM) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [On Ur Mind](https://open.spotify.com/album/69Hs1zwAwtY141QiMd5zBB) | 4:06 |
 | 73 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 |
 | 74 | [It's TS](https://open.spotify.com/track/2bj7ZnOPZZCgj3vRHDIVEM) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side](https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp) | 2:44 |
-| 75 | [ON THE RADAR CONCRETE CYPHER \(feat\. Lil Yachty, Camo!, KARRAHBOOO, Dc2trill, Draft Day\)](https://open.spotify.com/track/55VwJauY4a1oV5VbNLJo2p) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo](https://open.spotify.com/artist/2o2AdpYle5NrFYEU7AoMOe), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 5:48 |
+| 75 | [ON THE RADAR CONCRETE CYPHER \(feat\. Lil Yachty, Camo!, KARRAHBOOO, Dc2trill, Draft Day\)](https://open.spotify.com/track/55VwJauY4a1oV5VbNLJo2p) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 5:48 |
 
-Snapshot ID: `MCwxMTZiMjhkOWU0ZDA3ZmViOTk3MTk5MDRhZWUxZjAyODNiM2Y5Zjdh`
+Snapshot ID: `MCw1YmQ4YmIzYzE1MDg4ZmIyOGQzNTQ1MjAzYjAyMTZkOTEyNzJhY2I0`

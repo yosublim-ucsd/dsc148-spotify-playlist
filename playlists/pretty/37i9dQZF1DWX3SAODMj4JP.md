@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,211 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,278 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 15 | [Te Agradeço](https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cânticos I](https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm) | 4:26 |
 | 16 | [comigo](https://open.spotify.com/track/7eAm1mBCgg8iC9UIrxCe1U) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ), [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [comigo](https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn) | 4:53 |
 | 17 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
-| 18 | [O Tempo Não Para](https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [O Tempo Não Para](https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi) | 3:22 |
-| 19 | [Reina](https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Confissões](https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK) | 4:08 |
+| 18 | [Reina](https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Confissões](https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK) | 4:08 |
+| 19 | [O Tempo Não Para](https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [O Tempo Não Para](https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi) | 3:22 |
 | 20 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 |
 | 21 | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 |
 | 22 | [Aonde Está Deus?](https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 4:10 |
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 36 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 |
 | 37 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 |
 | 38 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN) | 2:17 |
-| 39 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
-| 40 | [Sonhadora \(Versão Alternativa\) \- Acústico](https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora \(Acústico\)](https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7) | 3:56 |
-| 41 | [Eu, Poema: Releitura](https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 4:39 |
+| 39 | [Sonhadora \(Versão Alternativa\) \- Acústico](https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora \(Acústico\)](https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7) | 3:56 |
+| 40 | [Eu, Poema: Releitura](https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 4:39 |
+| 41 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
 | 42 | [Incrivelmente](https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS) | [Projeto Norte](https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe) | [Experimente a Jornada](https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0) | 4:27 |
 | 43 | [Raridade \(Releitura\)](https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Raridade \(Releitura\)](https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj) | 4:16 |
 | 44 | [Abençoada](https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Abençoada](https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW) | 3:09 |
-| 45 | [Mais Perto Quero Estar](https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Mais Perto Quero Estar](https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC) | 3:21 |
-| 46 | [Só Penso Em Você \- Acústico](https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Só Penso Em Você \(Acústico\)](https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1) | 6:00 |
+| 45 | [Só Penso Em Você \- Acústico](https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Só Penso Em Você \(Acústico\)](https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1) | 6:00 |
+| 46 | [Mais Perto Quero Estar](https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Mais Perto Quero Estar](https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC) | 3:21 |
 | 47 | [Infinito Amor](https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Infinito Amor](https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv) | 4:03 |
 | 48 | [Estou Com Você \- Ao Vivo](https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Estou Com Você \(Ao Vivo\)](https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB) | 4:31 |
 | 49 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
 | 69 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
 
-Snapshot ID: `MCw2MTkwMzk5NmMxMGUxZDMwNzFhZGU3NjIwNjZlNDljMWRhNzJmYzI5`
+Snapshot ID: `MCwyNjMxMTE4Y2E3OTFhMTMwMzg2YmU5Y2RmY2Q3NjllMWQzNzcxNmUw`

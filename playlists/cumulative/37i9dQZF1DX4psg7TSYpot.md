@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-183 songs - 10 hr 4 min
+184 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/5PacEiW4GT9mLA1d0W95tA) | [Vivid Color](https://open.spotify.com/artist/4qXCADLD9pMWPUkOBCLQ9H) | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/album/4mR4c3Ljm6Ch58uEOiGk1N) | 3:17 | 2022-03-10 |  |
 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 | 2023-08-31 |  |
 | [When I Get There](https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [When I Get There](https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m) | 3:53 | 2023-04-14 |  |
-| [when the party's over](https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g) | 4:38 | 2022-03-10 |  |
+| [when the party's over](https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g) | 4:38 | 2022-03-10 | 2024-04-10 |
+| [when the party's over](https://open.spotify.com/track/2ts98XCUykSTpvZX9luZ0U) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/3kZuzFKagJZSC90CKiczoo) | 4:38 | 2024-03-21 |  |
 | [Wicked Game \- Bossa Nova Version](https://open.spotify.com/track/3kYKtUPRQd4ZO9A3UhmxAX) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Wicked Game \(Bossa Nova Version\)](https://open.spotify.com/album/6YbT952JxSplB2O1e7keyG) | 2:49 | 2022-03-10 |  |
 | [Wish You Were Here](https://open.spotify.com/track/4GKleQApcyCJduauR13QIi) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [Wish You Were Here](https://open.spotify.com/album/5jVI3QPXUpKFqOLTVaS0wn) | 3:18 | 2022-03-10 | 2023-05-24 |
 | [Without Me](https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [Without Me](https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim) | 2:10 | 2022-03-10 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 487069,
+  "2024-04-10": 487243,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - India.",
   "name": "Top 50 - India",
@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 341054,
       "name": "Agar Tum Saath Ho (From \"Tamasha\")",
       "url": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu"
@@ -8581,7 +8581,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 268164,
       "name": "Kesariya",
       "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
@@ -9435,7 +9435,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 184444,
       "name": "Last Peg",
       "url": "https://open.spotify.com/track/7yV2p8CTuzjSPZXmN9b1Tq"
@@ -11071,7 +11071,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 159600,
       "name": "Mannat",
       "url": "https://open.spotify.com/track/26elzgFl8tvajnDfeoY1YF"
@@ -14851,7 +14851,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 171473,
       "name": "Saajan Ve",
       "url": "https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0"
@@ -17919,7 +17919,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 284779,
       "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"

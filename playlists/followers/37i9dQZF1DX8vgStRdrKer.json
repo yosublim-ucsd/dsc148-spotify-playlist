@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 8312,
+  "2024-04-10": 8333,
   "date_first_scraped": "2023-10-19",
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn?si=s0FACvsIRauTYAVMvwe3Vw\">KIMAH</a>",
   "name": "Redeemed",
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 197101,
       "name": "Mess into a Message",
       "url": "https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw"
@@ -2703,6 +2703,24 @@
       "duration_ms": 383320,
       "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,378 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,383 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 14 | [The Answer](https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Earth Music for Aliens](https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3) | 5:02 |
 | 15 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 |
 | 16 | [Spirit](https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:38 |
-| 17 | [Nothing But The Night](https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Lay It On Down](https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR) | 4:53 |
-| 18 | [Threw Me to the Wolves](https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves \(Revisited\)](https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6) | 3:52 |
+| 17 | [Threw Me to the Wolves](https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves \(Revisited\)](https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6) | 3:52 |
+| 18 | [Nothing But The Night](https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Lay It On Down](https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR) | 4:53 |
 | 19 | [Love Ain't My Favorite Word](https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:25 |
-| 20 | [Out Of My Head](https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 3:20 |
-| 21 | [Dirty](https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:27 |
+| 20 | [Dirty](https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:27 |
+| 21 | [Out Of My Head](https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 3:20 |
 | 22 | [Where Did I Go Wrong](https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:20 |
 | 23 | [Rattlin' Change](https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 1:03 |
 | 24 | [I Want You](https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 6:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 49 | [Shufflin' West Coast](https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Albert Lee](https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m), [Tim Pierce](https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4), [Johnny Lee Schell](https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi), [Toshi Yanagi](https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj), [Michael Thompson](https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE), [Brent Mason](https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Shufflin' West Coast](https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0) | 4:22 |
 | 50 | [Clawhammer](https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End](https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx) | 4:30 |
 
-Snapshot ID: `MCwyMzYzMmNmYWZjNzY3Yjk2ZjMxZGU3N2ZiMWZmZGJmMzE2OGE5ZmZi`
+Snapshot ID: `MCw2YzU5YzE3ZmVlMzczYjNiMmI1NmQ3MDE4NzBhMTE3NzEwZDczMDI4`

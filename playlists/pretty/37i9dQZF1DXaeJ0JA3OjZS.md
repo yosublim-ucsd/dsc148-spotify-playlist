@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,084 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,288 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 45 | [El Cadete](https://open.spotify.com/track/0ojuwkgfXGXzqVVRVhHRnN) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Corridos De Caballos](https://open.spotify.com/album/6G5TPg4hZIAodWMQmcP6sl) | 2:59 |
 | 46 | [El Moro de Cumpas](https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [Corridos de Caballos](https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn) | 3:25 |
 | 47 | [One Dashing Eagle](https://open.spotify.com/track/0El8rlVpDcjlWqt6ayrBLU) | [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [One Dashing Eagle](https://open.spotify.com/album/5jLznbo1EblcTlUEkQqAhi) | 3:44 |
-| 48 | [Mi Caballo Pobre](https://open.spotify.com/track/2CzhEXk8qVDbvzF2Czy5wk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 2:45 |
+| 48 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
 | 49 | [El Moro De Cumpas](https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos De Caballos Famosos](https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V) | 4:06 |
-| 50 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
+| 50 | [Mi Caballo Pobre](https://open.spotify.com/track/2CzhEXk8qVDbvzF2Czy5wk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 2:45 |
 | 51 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |
 | 52 | [El Rey De Los Coleaderos](https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [El Rey De Los Coleaderos](https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv) | 3:05 |
 | 53 | [El Dorado](https://open.spotify.com/track/5RhDoarqLwMX9ftRP3oz09) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB) | [Con el Poder del Corrido](https://open.spotify.com/album/1D2hxYcke3d29b1vOkf9Wr) | 3:49 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 65 | [El Demonio](https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 3:06 |
 | 66 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 |
 | 67 | [Caballito De Otate \- En Vivo Desde El Rancho](https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:28 |
-| 68 | [El Nuevo Comandante](https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ) | [Oscar Solis Y Su Banda Magistral](https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8) | [Corridos Finos III](https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc) | 3:42 |
-| 69 | [Caballo R\-15 \- En Vivo](https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 2:44 |
+| 68 | [Caballo R\-15 \- En Vivo](https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 2:44 |
+| 69 | [El Nuevo Comandante](https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ) | [Oscar Solis Y Su Banda Magistral](https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8) | [Corridos Finos III](https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc) | 3:42 |
 | 70 | [El Texano y el Machete](https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 3:19 |
 
-Snapshot ID: `MCw1Mjc0ZTJjYmIyMjdmNzg0ZGIwZDE5ODYyYzMzYWZjYThlOTUyNDE1`
+Snapshot ID: `MCw0ZTc3ODRiZGMwNThiNTEwZjAyOGYwN2UwNDkwY2RiM2M3NzJiOGJk`

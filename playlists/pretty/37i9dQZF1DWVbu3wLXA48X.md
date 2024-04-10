@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Adam Melchor
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,239 likes - 94 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,246 likes - 94 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 93 | [Funeral for Justice](https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38) | 3:08 |
 | 94 | [Electric Blue](https://open.spotify.com/track/3vqMSB50nUqjw5dlVKuYlF) | [Tash Wolf](https://open.spotify.com/artist/10EGVgMvnFkNlI3BF2LhV3) | [Electric Blue](https://open.spotify.com/album/0gZrh2whTmhOttHSoHe7Cz) | 2:16 |
 
-Snapshot ID: `MCxkZDZkMWQyMTk1OGI5YzRiYWNlYTc5N2M0MDc1ZTJhNzVlOWI4YzY2`
+Snapshot ID: `MCw2ZDYyOWNmNmE0NGU5MjFlMzg5YzI0ODdhMDM4Y2UxYzFkNWEyYjc2`

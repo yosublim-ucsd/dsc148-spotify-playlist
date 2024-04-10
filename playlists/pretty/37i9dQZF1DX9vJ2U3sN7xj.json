@@ -1,12 +1,12 @@
 {
   "description": "nos fuimos de fiesta con Sebastian Esquivel, Eugenio Esquivel y Blessd. \ud83c\udf89",
-  "num_followers": 919144,
+  "num_followers": 919141,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWU5NTg5ODE1OTUyMTdiMTlmNjEwYzZmY2UzMjZhODFhM2ViODZl",
+  "snapshot_id": "MCw0MGYyMDdiZWVhNGM2ZjY2MTQwYTU3YWQ4ZTY5MjYwZTZlNmM1ZTI2",
   "tracks": [
     {
       "added_at": "2024-04-05 16:02:49",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2024-04-05 16:02:49",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+      "duration_ms": 231848,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
       "added_at": "2024-04-05 16:02:49",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2024-04-05 16:02:49",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 231848,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2024-04-05 16:02:49",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-04-05 16:02:49",
       "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2024-04-05 16:02:49",
+      "album": {
         "name": "Coraz\u00f3n Roto (Remix)",
         "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 275040,
       "name": "Coraz\u00f3n Roto - Remix",
       "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
-    },
-    {
-      "added_at": "2024-04-05 16:02:49",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2024-04-05 16:02:49",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-04-05 16:02:49",
       "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2024-04-05 16:02:49",
+      "album": {
         "name": "Copa Vac\u00eda",
         "url": "https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 173547,
       "name": "Copa Vac\u00eda",
       "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
-    },
-    {
-      "added_at": "2024-04-05 16:02:49",
-      "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2024-04-05 16:02:49",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-04-05 16:02:49",
       "album": {
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+    },
+    {
+      "added_at": "2024-04-05 16:02:49",
+      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -1811,38 +1827,26 @@
     {
       "added_at": "2024-04-05 16:02:49",
       "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+        "name": "Nost\u00e1lgico",
+        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
-    },
-    {
-      "added_at": "2024-04-05 16:02:49",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+      "duration_ms": 209883,
+      "name": "Nost\u00e1lgico",
+      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
     },
     {
       "added_at": "2024-04-05 16:02:49",
@@ -1879,26 +1883,22 @@
     {
       "added_at": "2024-04-05 16:02:49",
       "album": {
-        "name": "Nost\u00e1lgico",
-        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 209883,
-      "name": "Nost\u00e1lgico",
-      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2024-04-05 16:02:49",
@@ -1975,26 +1975,6 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2024-04-05 16:02:49",
-      "album": {
-        "name": "Arranca (feat. Omega)",
-        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Arranca (feat. Omega)",
-      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2024-04-05 16:02:49",
@@ -2091,6 +2071,26 @@
     {
       "added_at": "2024-04-05 16:02:49",
       "album": {
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2024-04-05 16:02:49",
+      "album": {
         "name": "La Player (Bandolera)",
         "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
@@ -2107,22 +2107,22 @@
     {
       "added_at": "2024-04-05 16:02:49",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+        "name": "Mami Chula",
+        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+      "duration_ms": 220600,
+      "name": "Mami Chula",
+      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
     }
   ],
   "unique_name": "Fiesta",

@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 200889,
+  "num_followers": 200919,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTJhMjQyMTMxOWY1MjdhNmYyOGE1NDEyNTUxYmI2MGExZDM1MDQw",
+  "snapshot_id": "MCxjNjBiYTQ4NTZjMmI4ODJmZGIyM2U4NTIyYTNiMGFjMTM0YTAyYTU1",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 232063,
-      "name": "Worth",
-      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 170397,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 232063,
+      "name": "Worth",
+      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -751,22 +751,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "This Is Freedom (Ain't No Rock) [Live]",
-        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
         }
       ],
-      "duration_ms": 344125,
-      "name": "This Is Freedom (Ain't No Rock) - Live",
-      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
+      "duration_ms": 221909,
+      "name": "Spring Theory",
+      "url": "https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -795,18 +791,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+        "name": "This Is Freedom (Ain't No Rock) [Live]",
+        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
       },
       "artists": [
         {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 221909,
-      "name": "Spring Theory",
-      "url": "https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy"
+      "duration_ms": 344125,
+      "name": "This Is Freedom (Ain't No Rock) - Live",
+      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Broken Is Beautiful",
-        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 250909,
-      "name": "Broken Is Beautiful",
-      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 199680,
       "name": "Alive",
       "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Broken Is Beautiful",
+        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 250909,
+      "name": "Broken Is Beautiful",
+      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Jireh (Reyer Remix)",
         "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
       },
       "artists": [
         {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
         }
       ],
-      "duration_ms": 204613,
-      "name": "Nothing But The Truth",
-      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1019,6 +1003,22 @@
       "duration_ms": 226295,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
+      },
+      "artists": [
+        {
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Nothing But The Truth",
+      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1067,6 +1067,46 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 178587,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Down (Remix)",
+        "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
+      },
+      "artists": [
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        },
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        },
+        {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        }
+      ],
+      "duration_ms": 185510,
+      "name": "Down (Remix)",
+      "url": "https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -1103,62 +1143,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Down (Remix)",
-        "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
-      },
-      "artists": [
-        {
-          "name": "Sajan Nauriyal",
-          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
-        },
-        {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        },
-        {
-          "name": "Chris Howland",
-          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
-        }
-      ],
-      "duration_ms": 185510,
-      "name": "Down (Remix)",
-      "url": "https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
-      },
-      "artists": [
-        {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 178587,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Step Into The Fight (Gregatron Remix)",
         "url": "https://open.spotify.com/album/7CfPzqn1xDzytHi7FBKcxO"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 213868,
       "name": "Step Into The Fight - Gregatron Remix",
       "url": "https://open.spotify.com/track/0yISALkKshn3jPl6M8CNOu"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1207,22 +1207,6 @@
       "duration_ms": 200903,
       "name": "Happy Day - Retain Remix",
       "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1263,42 +1247,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "LOSE CONTROL",
-        "url": "https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 146548,
-      "name": "LOSE CONTROL",
-      "url": "https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Crown The Remixes",
-        "url": "https://open.spotify.com/album/4aAvJ8ueELnFmXJKihDrcP"
-      },
-      "artists": [
-        {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
-        },
-        {
-          "name": "Gregatron",
-          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
-        }
-      ],
-      "duration_ms": 185783,
-      "name": "Crown - (Gregatron Disco Remix)",
-      "url": "https://open.spotify.com/track/4G53DUrMXSHmBEst6qIxKW"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1319,6 +1267,38 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "LOSE CONTROL",
+        "url": "https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 146548,
+      "name": "LOSE CONTROL",
+      "url": "https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "More Than Halfway",
         "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 221453,
       "name": "More Than Halfway",
       "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Crown The Remixes",
+        "url": "https://open.spotify.com/album/4aAvJ8ueELnFmXJKihDrcP"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        },
+        {
+          "name": "Gregatron",
+          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
+        }
+      ],
+      "duration_ms": 185783,
+      "name": "Crown - (Gregatron Disco Remix)",
+      "url": "https://open.spotify.com/track/4G53DUrMXSHmBEst6qIxKW"
     },
     {
       "added_at": "2023-01-13 21:46:56",

@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-320 songs - 14 hr 16 min
+321 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Atmospheric Storm](https://open.spotify.com/track/0iXS67ozXexCqznTYzSQEv) | [Temporale X](https://open.spotify.com/artist/7IATXQ7L0uEHgk99h2dKaf) | [Electricity Storm](https://open.spotify.com/album/4zbJ3PnYeEyNNv6rEN8O8X) | 1:30 | 2021-11-10 | 2023-06-16 |
 | [Atmosphère Nord](https://open.spotify.com/track/12YwouliX4zdxGoI9jArlO) | [Thibaut Lozé](https://open.spotify.com/artist/6xcbQLZPMTSqeZ46TU9ihv) | [Histoires Sur Le Flash](https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33) | 1:50 | 2022-02-15 | 2023-06-16 |
 | [Back Alley Rainstorm](https://open.spotify.com/track/6E9ACxbryalj3PnCDhZxtO) | [Water Effects Center](https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG) | [Rain & Thunder](https://open.spotify.com/album/6R3irvC35SviITh36UxCWr) | 2:51 | 2021-11-10 |  |
-| [Bad Weather \- Storm](https://open.spotify.com/track/0cyCwaLbb1MV1Fc45e9Cwk) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:03 | 2021-11-10 |  |
+| [Bad Weather \- Storm](https://open.spotify.com/track/0cyCwaLbb1MV1Fc45e9Cwk) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:03 | 2021-11-10 | 2024-04-10 |
 | [Bajo Refugio Tormenta](https://open.spotify.com/track/5cZTwGEeGbZhObrDxCWL4y) | [Mia Paleta](https://open.spotify.com/artist/74lAHgwfFrDoZG6IKRmH9I) | [Tormenta de la selva](https://open.spotify.com/album/18u0aMfE6Ubx0Vi4GsYC2u) | 2:19 | 2021-11-10 |  |
 | [Beautiful Storm](https://open.spotify.com/track/1WzjuOh6r9WXVi6dsoLKcB) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:53 | 2021-11-10 |  |
 | [Beyond Storm](https://open.spotify.com/track/4D1voq8tKTsgOloyHpjiaY) | [Salvo](https://open.spotify.com/artist/4PHEKFLzjQUNk5zenIMW9n) | [Beyond Storm](https://open.spotify.com/album/6EGDInl8hOMCJ0NAHaLARk) | 3:28 | 2021-11-10 |  |
@@ -209,6 +209,7 @@
 | [Relaxing Thunder Rain](https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:04 | 2023-02-13 |  |
 | [Relaxing Thunderstorm](https://open.spotify.com/track/3VcUGM9IYstqpptFCokPI4) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Rainy Days](https://open.spotify.com/album/6yxLBvCcUNcqXxugpmv3s8) | 2:09 | 2021-11-10 |  |
 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 | 2023-06-15 |  |
+| [Roaring Sky](https://open.spotify.com/track/5fJVMjXesqcHwP7AZwPLxF) | [Thunder & Lightning Storms](https://open.spotify.com/artist/6gJzciut4jWLuel8irt8JE) | [Roaring Sky](https://open.spotify.com/album/49ZZmmdqTsrLKqKyenqQ3y) | 2:54 | 2024-03-11 |  |
 | [Roaring Thunder](https://open.spotify.com/track/5yBX7tfwoQlRkio1DLVX1z) | [Exotic Thunder & Rain](https://open.spotify.com/artist/6AEnJuV30ZBpEn1UqSLAHF) | [First Edition](https://open.spotify.com/album/1sDvTTk8d0Tl1tJWYhcpfR) | 3:07 | 2021-11-10 | 2022-03-18 |
 | [Rumbling](https://open.spotify.com/track/5aHIVNM8mZbJQgkTCEbHLu) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 | 2021-11-10 |  |
 | [Scandinavian Rain](https://open.spotify.com/track/1ahdB6Gm8DebWJxgTeYzoi) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Scandinavian Rain](https://open.spotify.com/album/1KYpqdkgChN7cRPriZTDFJ) | 3:08 | 2021-11-10 | 2023-02-14 |

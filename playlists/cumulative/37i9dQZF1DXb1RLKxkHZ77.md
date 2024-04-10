@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: De Fam
 
-409 songs - 1 day 1 hr 49 min
+411 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 | 2023-07-12 |  |
 | [HEAT](https://open.spotify.com/track/2luqp05fNA4CbzzgWR9cuS) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [HEAT](https://open.spotify.com/album/21Za9kIL7PUvXUAQy9nV13) | 3:08 | 2023-09-20 | 2023-11-10 |
 | [Hidup Tanpamu](https://open.spotify.com/track/04VEB5LZ6slykz3tXTmYpY) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Hidup Tanpamu](https://open.spotify.com/album/1AR9UN1saEOhIb5MVhM8GN) | 4:19 | 2022-12-14 | 2023-01-26 |
-| [HILANG](https://open.spotify.com/track/0thFZlDnyGgxzBRXBAS6DK) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [HILANG](https://open.spotify.com/album/3L6fgQBNCRTWP41evyX0Xl) | 3:24 | 2024-02-28 |  |
+| [HILANG](https://open.spotify.com/track/0thFZlDnyGgxzBRXBAS6DK) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [HILANG](https://open.spotify.com/album/3L6fgQBNCRTWP41evyX0Xl) | 3:24 | 2024-02-28 | 2024-04-10 |
 | [Hilang](https://open.spotify.com/track/5YJPHN7xlauOtmDqN5YRtX) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Hilang](https://open.spotify.com/album/75edk9IuOsxG4ydh0VloAb) | 3:27 | 2022-09-08 | 2022-10-28 |
 | [Hilang Kendali](https://open.spotify.com/track/6g731vMn1AKOPkVS4V3Wx7) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Hilang Kendali](https://open.spotify.com/album/3EMT08L67J3GL2XiI0LhqO) | 3:58 | 2023-09-06 | 2023-09-21 |
 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 | 2023-02-01 | 2023-11-17 |
@@ -152,7 +152,7 @@
 | [Igauan Malam](https://open.spotify.com/track/68oey8CEp8hOD0ho0VsEqz) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Igauan Malam](https://open.spotify.com/album/4WTIpr7McvDy14UT87FhhJ) | 4:53 | 2022-11-09 | 2023-02-09 |
 | [Iktiraf](https://open.spotify.com/track/26Nwi7bdu86SoIKmIFJY6K) | [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij), [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65) | [Iktiraf](https://open.spotify.com/album/0xMgXeHNNYQFD0MxJ0A8gr) | 2:59 | 2023-04-05 | 2023-05-04 |
 | [Ilusi Keliru](https://open.spotify.com/track/0itY5LK5FZtLXu5LmvRJDU) | [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Ilusi Keliru](https://open.spotify.com/album/59MK6hD6j3Hd2m1t6WXgSV) | 3:47 | 2023-04-05 | 2023-06-01 |
-| [Infiniti Cinta](https://open.spotify.com/track/1jIBXDiZRVoyUBZxwOZgHp) | [Zizan Razak](https://open.spotify.com/artist/2RCzl5Ja47S9izjAcDriUF) | [Infiniti Cinta](https://open.spotify.com/album/04WRPwN4YADh44fnRoF3LF) | 4:03 | 2024-01-24 |  |
+| [Infiniti Cinta](https://open.spotify.com/track/1jIBXDiZRVoyUBZxwOZgHp) | [Zizan Razak](https://open.spotify.com/artist/2RCzl5Ja47S9izjAcDriUF) | [Infiniti Cinta](https://open.spotify.com/album/04WRPwN4YADh44fnRoF3LF) | 4:03 | 2024-01-24 | 2024-04-10 |
 | [Ingin Pulang](https://open.spotify.com/track/5IACVQORTlNI2CEtJJXQpc) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Ingin Pulang](https://open.spotify.com/album/5jrqip2PrkzzDIXMigYaWs) | 3:34 | 2024-03-13 |  |
 | [Ingkar Janji](https://open.spotify.com/track/599gm6M2EdYeGpV4TVpjin) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Ingkar Janji](https://open.spotify.com/album/5uq9r6KWHVzTcrOUCkjxGq) | 3:17 | 2024-03-06 |  |
 | [INI MASA AKU](https://open.spotify.com/track/1F2mblK5PB6KoUd6qfKNBV) | [Deejyn](https://open.spotify.com/artist/2uYpUwuCRkel0KzDdwiyF0), [Reedzwann](https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok) | [INI MASA AKU](https://open.spotify.com/album/4k0mjYfIUk7qckspnMVyDV) | 2:27 | 2023-12-27 | 2024-01-25 |
@@ -323,6 +323,7 @@
 | [Sampai Tua](https://open.spotify.com/track/3926oG7uNxjktzOJvTXQWS) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx) | [Sampai Tua](https://open.spotify.com/album/2Z8pQJ2Y58rYE0u5MlEEy6) | 2:40 | 2023-08-09 | 2023-09-14 |
 | [Sampan Mimpi](https://open.spotify.com/track/6l2IlpC4K8BVXo1mNjg5P3) | [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi) | [Sampan Mimpi](https://open.spotify.com/album/6mPqHZu9FopGGhVSHGVScc) | 3:57 | 2024-01-31 | 2024-02-29 |
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2022-08-31 | 2023-02-23 |
+| [Sang Puteri](https://open.spotify.com/track/0oNcpkUjd4Vek0zTvU6RmC) | [XONE](https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo) | [Sang Puteri](https://open.spotify.com/album/7CrFD0UJGQ361hG01NagpN) | 3:08 | 2024-04-09 |  |
 | [Sangkar Derita](https://open.spotify.com/track/7HLTEqi7Kis9SIsEB8Icyy) | [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Sangkar Derita](https://open.spotify.com/album/16U5ztWQW7Qcy3ZEYlJQbk) | 4:26 | 2024-03-13 |  |
 | [Santai](https://open.spotify.com/track/1M0m0moDfMuFHiTU87sUlB) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Santai](https://open.spotify.com/album/6Kt66JYdEYoIEwLNidoGxO) | 3:14 | 2022-09-28 | 2022-11-17 |
 | [Satu Malam Di Temasek](https://open.spotify.com/track/5nsfVwWz1M1sug2ILCVygq) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Satu Malam Di Temasek](https://open.spotify.com/album/6oMP9SqrAAZqr5QR2gVvWl) | 3:37 | 2022-07-21 | 2023-07-26 |
@@ -363,6 +364,7 @@
 | [Sudah Kahwin Ke Belum?](https://open.spotify.com/track/1X6KhFtqz9medAyHkHpnYq) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Sudah Kahwin Ke Belum?](https://open.spotify.com/album/4KhZgxwB83E1tZDKoFU8K0) | 2:50 | 2023-10-04 | 2023-12-30 |
 | [Sudi](https://open.spotify.com/track/13j1GXauy306qxQmmBPRQm) | [Akwa Arifin](https://open.spotify.com/artist/07brHDNIrWQZPcOrepCicM), [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Sudi](https://open.spotify.com/album/35FywzkPW8jYWX4naV5Xgv) | 3:04 | 2023-02-01 | 2023-04-06 |
 | [Sudi](https://open.spotify.com/track/3LkywtbZCk2EI2FfWb6dRj) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Sudi](https://open.spotify.com/album/0m7fZLOwCN7LHvCaDXNdlN) | 2:41 | 2022-12-14 | 2023-02-16 |
+| [Sujud Aidilfitri](https://open.spotify.com/track/1enlyyDon1CS9d6HFNQ2Qe) | [Search](https://open.spotify.com/artist/4LADVWbGgajvchOHelqZv2) | [Sujud Aidilfitri](https://open.spotify.com/album/4extL1zlzKkjjrF2opuSs4) | 4:31 | 2024-04-09 |  |
 | [SUNYI](https://open.spotify.com/track/1UBbda9fmOcaOCkWgKK7bz) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7) | [SUNYI](https://open.spotify.com/album/4I7hYrZztzVYwj9dNBYYXX) | 3:52 | 2023-04-19 | 2023-06-29 |
 | [SUSTENTO](https://open.spotify.com/track/2N2zdSWXytUAjziN6LJWFw) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh) | [SUSTENTO](https://open.spotify.com/album/0Agoz3tn21HjcaPo6gZmZW) | 3:00 | 2022-05-25 | 2022-07-22 |
 | [SUTERA](https://open.spotify.com/track/3kDvYWOTRzs5dEGKRsCizB) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [SUTERA](https://open.spotify.com/album/2apVqruZkI2V9EQheYcjzp) | 3:18 | 2022-08-03 | 2022-09-22 |

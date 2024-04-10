@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 花澤香菜
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,815 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,865 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 39 | [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 |
 | 40 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
 | 41 | [Chain](https://open.spotify.com/track/0CwTBiqEhkwkBSW6lPOzij) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Chain](https://open.spotify.com/album/1JhsPt7D3qFum6vTWL5LWB) | 4:05 |
-| 42 | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3) | [Kanako Kishi](https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj) | 2:41 |
-| 43 | [Honey Jet Coaster](https://open.spotify.com/track/6EV6ppWIOeRr2qZSpyh5GE) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [Honey Jet Coaster](https://open.spotify.com/album/2E02rdPJI1oCGwkvqsU1ti) | 3:35 |
+| 42 | [Honey Jet Coaster](https://open.spotify.com/track/6EV6ppWIOeRr2qZSpyh5GE) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [Honey Jet Coaster](https://open.spotify.com/album/2E02rdPJI1oCGwkvqsU1ti) | 3:35 |
+| 43 | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3) | [Kanako Kishi](https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj) | 2:41 |
 | 44 | [四角運命](https://open.spotify.com/track/004jQqW1CdYt5d6wZJX3Gn) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [四角運命](https://open.spotify.com/album/4z7WKUveJzhx19jG4G1EWK) | 3:40 |
 | 45 | [know me...](https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [know me...](https://open.spotify.com/album/36lFXBqcHUeZAW9Cij58xE) | 3:30 |
 | 46 | [Flare](https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz) | 3:54 |
 | 47 | [Fixer](https://open.spotify.com/track/1YbKeP9f10A8cDmHHIugwI) | [Yui Ninomiya](https://open.spotify.com/artist/7HCJJr9kZs3qiKJVxjRXsk) | [Fixer](https://open.spotify.com/album/1hlrglBu9F6A3Wai9VeT3m) | 3:36 |
 | 48 | [Itterasshai](https://open.spotify.com/track/5qD2Jt4i2btdL1Fg4XOe20) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 3:57 |
 | 49 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 |
-| 50 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 |
+| 50 | [スイートサイン](https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [スイートサイン](https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw) | 3:25 |
 
-Snapshot ID: `MCxhNzk1MjNmYTMxM2I3MjcyNzBlY2EwOWZkNzY3ZDhjYmM0OWE2NDYx`
+Snapshot ID: `MCxjNDY3NjU2YzVkYTY5Njk5NWU4NzFjODg4NDZlZGE3MTdhZDI3NDE3`

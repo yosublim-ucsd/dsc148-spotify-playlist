@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 345887,
+  "num_followers": 346030,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDM2MjRkMDY5ZWQ3NDI3YzFiMjk4YWIyZmNlOTljZjRlNzE5NDA4",
+  "snapshot_id": "MCw0ZDZiOWU0OGY1N2RmMzUwYzQ2ZDlhY2Q2MzRlMzMxYmMyM2M2YjQ0",
   "tracks": [
     {
       "added_at": "2024-01-05 13:21:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Nada Al\u00e9m da Gra\u00e7a",
-        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
-      },
-      "artists": [
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 271209,
-      "name": "Deus \u00e9 Deus",
-      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 278000,
       "name": "Uma Nova Histo\u0301ria - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Nada Al\u00e9m da Gra\u00e7a",
+        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 271209,
+      "name": "Deus \u00e9 Deus",
+      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
+        "name": "Oceano De Amor",
+        "url": "https://open.spotify.com/album/1KKyYkXP2LiwuHwIhsbxa0"
+      },
+      "artists": [
+        {
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+        }
+      ],
+      "duration_ms": 433400,
+      "name": "Pai Nosso",
+      "url": "https://open.spotify.com/track/0Wqczms3zaolkN1ErZtSVd"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
         "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar (Ao Vivo)",
         "url": "https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Oceano De Amor",
-        "url": "https://open.spotify.com/album/1KKyYkXP2LiwuHwIhsbxa0"
-      },
-      "artists": [
-        {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
-        }
-      ],
-      "duration_ms": 433400,
-      "name": "Pai Nosso",
-      "url": "https://open.spotify.com/track/0Wqczms3zaolkN1ErZtSVd"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
         "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 495026,
       "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
       "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Deus e Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5J8hASVOsKFLqaQin10oab"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Deus e Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Uan5GD1uZ1b6ivgt7ODsp"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1171,22 +1187,6 @@
       "duration_ms": 221976,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/6XFZxwJ5TNZY4TdAfx1v55"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
-        "name": "Deus e Eu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5J8hASVOsKFLqaQin10oab"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Deus e Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Uan5GD1uZ1b6ivgt7ODsp"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
+        "name": "Clamo Jesus",
+        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Marsena",
+          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
+        },
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        }
+      ],
+      "duration_ms": 437426,
+      "name": "Clamo Jesus",
+      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
         "name": "Uma Coisa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
       },
@@ -1291,30 +1315,6 @@
       "duration_ms": 385063,
       "name": "Tudo a Ver Com Ele",
       "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
-        "name": "Clamo Jesus",
-        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Marsena",
-          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
-        },
-        {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
-        }
-      ],
-      "duration_ms": 437426,
-      "name": "Clamo Jesus",
-      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
     },
     {
       "added_at": "2024-01-05 13:21:41",

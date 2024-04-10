@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,056 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,153 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 3 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 |
 | 4 | [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 |
 | 5 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
-| 6 | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO) | 3:19 |
+| 6 | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [You Don't Own Me](https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO) | 3:19 |
 | 7 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 |
 | 8 | [Knocking on Heavens Door](https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE) | [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Knocking On Heavens Door \- EP](https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa) | 4:24 |
 | 9 | [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 39 | [I'll Stand by You](https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [I'll Stand by You](https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE) | 3:24 |
 | 40 | [Diamonds](https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [In Your Prime \- EP](https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX) | 4:07 |
 | 41 | [In My Life](https://open.spotify.com/track/3XE3fDJVA9vMjycWghQQ3W) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Yesterday](https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye) | 2:34 |
-| 42 | [Passionfruit](https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Passionfruit](https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A) | 3:32 |
-| 43 | [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/track/0C0bw3UZM525pEFU6hYfVH) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Jillette Johnson \| OurVinyl Sessions](https://open.spotify.com/album/3EWf23G2C83dLTXmh8Ynzj) | 4:14 |
+| 42 | [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/track/0C0bw3UZM525pEFU6hYfVH) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Jillette Johnson \| OurVinyl Sessions](https://open.spotify.com/album/3EWf23G2C83dLTXmh8Ynzj) | 4:14 |
+| 43 | [Passionfruit](https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Passionfruit](https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A) | 3:32 |
 | 44 | [Creep](https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Creep](https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l) | 2:57 |
 | 45 | [Wouldn't It Be Nice](https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't It Be Nice](https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy) | 2:47 |
 | 46 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Running up That Hill](https://open.spotify.com/track/2xL5yK2xJZ2ZkNwRkmOi1M) | [Hollow Hum](https://open.spotify.com/artist/6NQ43mtSf2OvGJ02QZC8E6), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Running up That Hill](https://open.spotify.com/album/2gKHrg2lOloXI4aPpW2ajq) | 4:00 |
 | 100 | [Soul Meets Body](https://open.spotify.com/track/6PtA1cWsvqeNF464t0USPx) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Soul Meets Body](https://open.spotify.com/album/5dpKosyLb3uD0lnHnZYPax) | 3:38 |
 
-Snapshot ID: `MCxhM2I0ZWQ4Yjk3MTE1YjgyZTg2ZDIzYzVmMmFiMzRkMTI0MmQ5YTY2`
+Snapshot ID: `MCw0MWZlMTAzYWE1ODBmYTA1Mjc4MGU3MjFkMDM2MmI5YzQ5ZThjNmRh`

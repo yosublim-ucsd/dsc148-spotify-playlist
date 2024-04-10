@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 18 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
 | 19 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 |
 | 20 | [Gemini](https://open.spotify.com/track/5pmafQfCSF9y6jVUhiaR7I) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 3:11 |
-| 21 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 |
-| 22 | [Straitjacket](https://open.spotify.com/track/5kqQcwZieOTZKDAg3jSUTf) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Straitjacket](https://open.spotify.com/album/4q8jKuEJMH182MNDuNyNN3) | 2:39 |
+| 21 | [Straitjacket](https://open.spotify.com/track/5kqQcwZieOTZKDAg3jSUTf) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Straitjacket](https://open.spotify.com/album/4q8jKuEJMH182MNDuNyNN3) | 2:39 |
+| 22 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 |
 | 23 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 |
 | 24 | [To The Girl That Gets Him Next](https://open.spotify.com/track/5tfY4sv86EelJYS14Qm8Lj) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [I'd Step On Lego For You.](https://open.spotify.com/album/2AdpJvtbF0pGyrincYRjWG) | 2:33 |
 | 25 | [Better Off](https://open.spotify.com/track/3M2mwvKYNF5yglT3Ob9eYg) | [HAYES](https://open.spotify.com/artist/60Vo6QqGGmDzr6ZiwqNxxP) | [Better Off](https://open.spotify.com/album/3M6Bh0RUOgRy6YtD7abWSV) | 2:38 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 44 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 45 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `Mjg1NDM4MDAsMDAwMDAwMDA1MWFlZDBkYjI4NmNkMDRmNzI1YTgzZmFkMzQyNzg5MQ==`
+Snapshot ID: `Mjg1NDUyNDAsMDAwMDAwMDAyNTI5MmU1YjM3YjVmNGVkMGE0NzQwMmVjYWRjNWUxZQ==`

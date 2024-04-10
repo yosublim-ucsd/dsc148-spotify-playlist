@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 
 > Keep your workout 100 with these Hip\-Hop motivators.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,179 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,215 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 | 35 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 |
 | 36 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 |
 | 37 | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn) | 3:22 |
-| 38 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 |
-| 39 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 |
+| 38 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 |
+| 39 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 |
 | 40 | [Astronaut In The Ocean](https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:12 |
 | 41 | [Mercy](https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mercy](https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv) | 5:29 |
 | 42 | [Lucky You \(feat\. Joyner Lucas\)](https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 | 59 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 |
 | 60 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
 
-Snapshot ID: `MCw0YzA1MWEyYzdkM2Y4Mjk1MTllZTBjZmQwMWVmMmQ2OGRkMDUzZWRh`
+Snapshot ID: `MCw5ZjFkNGU3MWJlYjM2MDc4NTdmNGVmZmQ0NWQwMDc3YTMxZjk3Yzc3`

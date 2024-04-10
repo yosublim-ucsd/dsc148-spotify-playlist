@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,974 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,002 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 42 | [Evidemment](https://open.spotify.com/track/7yaAqQhgUFkcI9ap1qjqEy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Mi Vida \(Edition de Noël\)](https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk) | 3:57 |
 | 43 | [Je t'aime moi non plus](https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Comic Strip](https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG) | 4:28 |
 | 44 | [Pour de vrai](https://open.spotify.com/track/6ixKI6i2vg8mTVtdzsGHYD) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [N'attendons pas](https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y) | 4:01 |
-| 45 | [Je sais pas](https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:33 |
+| 45 | [1,2,3](https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [1,2,3](https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q) | 3:45 |
 | 46 | [Le lac](https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:55 |
-| 47 | [1,2,3](https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [1,2,3](https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q) | 3:45 |
+| 47 | [Je sais pas](https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:33 |
 | 48 | [Caroline](https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Qui sème le vent récolte le tempo](https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH) | 4:43 |
 | 49 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 |
 | 50 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 74 | [Toi mon amour](https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Best Of \- Morceaux d’amour](https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce) | 3:40 |
 | 75 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
 
-Snapshot ID: `MCxlMmIxYTM1MWFhZWNjYjdkYWY0ZTc4NjYxZWNhNmY4NTA2MWI4ZWY0`
+Snapshot ID: `MCwyNWE4NmM2ODg0NTRiZWRhOTU0MTlmNmIyNTVhZWE5Zjg0MGMwZDM5`

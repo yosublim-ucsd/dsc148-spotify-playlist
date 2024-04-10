@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,508 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,590 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 20 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
 | 21 | [Electric Relaxation](https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:46 |
 | 22 | [Hard Knock Life \(Ghetto Anthem\)](https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 3:58 |
-| 23 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |
-| 24 | [Fu\-Gee\-La](https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:20 |
+| 23 | [Fu\-Gee\-La](https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:20 |
+| 24 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |
 | 25 | [Party And Bullshit](https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Whos The Man ? Soundtrack](https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o) | 3:39 |
 | 26 | [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 |
 | 27 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [Definition](https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:26 |
 | 50 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
 
-Snapshot ID: `MCxlZjEyNDk4MzcyM2NkZjI3YjJkMjc4MDkyYWU1OWU4OWM1ZWJiMjJj`
+Snapshot ID: `MCw4ZjMyNjRhMDg0NzA1MGJlODI4NWZiZmYzMmY4NDVkMGJiYzJmZDE0`

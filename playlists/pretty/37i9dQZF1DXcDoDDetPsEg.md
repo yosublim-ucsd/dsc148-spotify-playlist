@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,409 likes - 81 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,404 likes - 81 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 21 | [Been A Minute](https://open.spotify.com/track/6XLhGACqeNj0WR1kCRc2po) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Been A Minute](https://open.spotify.com/album/0OzEJkpwtapBQPuYlPcOvy) | 3:35 |
 | 22 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 |
 | 23 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
-| 24 | [Heaven Or Hell](https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Heaven or Hell](https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP) | 2:31 |
+| 24 | [Heaven or Hell](https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Heaven or Hell](https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP) | 2:31 |
 | 25 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
 | 26 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 |
 | 27 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 80 | [Wrist On Freeze](https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4) | [Stay Flee Get Lizzy](https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Wrist On Freeze](https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK) | 3:07 |
 | 81 | [On Ur Mind](https://open.spotify.com/track/31N2MlwzZHXjJalEEbh5LM) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [On Ur Mind](https://open.spotify.com/album/69Hs1zwAwtY141QiMd5zBB) | 4:06 |
 
-Snapshot ID: `MCxkZjkwMDdkY2RjM2U2ZDNiZTI5Yjc4ZTBhNzgzMWRhNDhmNWUzZjIz`
+Snapshot ID: `MCw0NTM5MzJlNjM4MWM5ZDRhZTc1Nzk4YTVjZGE5ZmEyN2IzM2Y0Mjg2`

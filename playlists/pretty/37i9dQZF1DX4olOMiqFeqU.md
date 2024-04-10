@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 ### [OPM Favorites](https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU)
 
-> 100% Pinoy hits from your favorite artists! Cover: KZ Tandingan
+> 100% Pinoy hits from your favorite artists! Cover: SUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,423,068 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,423,552 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 36 | [Gusto](https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 4:20 |
 | 37 | [Nobela](https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC) | [Join The Club](https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT) | [Nobela](https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV) | 4:51 |
 | 38 | [Sa'yo](https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Monodramatic](https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib) | 4:13 |
-| 39 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
-| 40 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
+| 39 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
+| 40 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
 | 41 | [Sinta](https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Sinta](https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO) | 5:16 |
 | 42 | [Beer](https://open.spotify.com/track/20gchtRYM7bFiOjYKQB8zZ) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Noon Time Show](https://open.spotify.com/album/7jEJsX7LeqOxDF9oIcqE5H) | 6:04 |
 | 43 | [Pauwi Nako](https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Pauwi Nako](https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh) | 5:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
 | 50 | [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 |
 
-Snapshot ID: `MCxlOGI0ZWRkOGQ0NDc4NjQ1MDYwNDUyNjkwYzAxNmU5NTBkMmUxODI4`
+Snapshot ID: `MCxhZTc3ZDQxMjQ4OWNmODcyZTU3NWVjYjJjYmY4ZTBlYWFmNGYyYjQ5`

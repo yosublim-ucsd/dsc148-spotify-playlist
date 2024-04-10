@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 41669,
+  "2024-04-10": 41702,
   "date_first_scraped": "2023-07-30",
   "description": "Las canciones que marcaron una \u00e9poca.",
   "name": "Los 2010 Argentina",
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
@@ -781,6 +781,28 @@
       "duration_ms": 327739,
       "name": "La Noche Eterna",
       "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
+    },
+    {
+      "album": {
+        "name": "El Ruise\u00f1or, el Amor y la Muerte",
+        "url": "https://open.spotify.com/album/5RqHno42QNZ7aZoyYnztbj"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230053,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/56n94C7lJHOI1BbDQ4K9Rg"
     },
     {
       "album": {

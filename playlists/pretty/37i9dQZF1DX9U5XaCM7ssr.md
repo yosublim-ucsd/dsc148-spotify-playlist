@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,497 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,637 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 49 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 |
 | 50 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 |
 
-Snapshot ID: `MCwyYzI4MjZjYzM1YWU4NTVlZGExMDM5MjFkYjM0NzM1YmM5NzI4YmEy`
+Snapshot ID: `MCw1ZDlmNTU1ODRkOTc4OWI4NGU3OWUzN2U5N2Q5MTkzYjlmN2Y3ZmIx`

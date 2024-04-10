@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: A Not So Fairy Tale\(선녀외전\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,605 likes - 115 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,642 likes - 115 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 114 | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5) | 4:20 |
 | 115 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
 
-Snapshot ID: `MCw3ZmQwN2Y3MTdiODBlMWFjOTIwMzNjMWVjMjI1NDgxYWIwNGMzMGRi`
+Snapshot ID: `MCwwZGJhZjcyYWRmNDM2YTE5NmQ5NWJlMzBiOGVmNWNlZTk4ZGRmN2Qz`

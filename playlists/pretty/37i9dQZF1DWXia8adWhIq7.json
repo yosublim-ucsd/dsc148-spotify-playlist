@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 91863,
+  "num_followers": 91898,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWMwODg3NmVkYjlhYWY1YzNhNjRiYTBjNzE1MTVhNWZlNjVjMWZl",
+  "snapshot_id": "MCxkY2I4Yjc5M2Q5ZWJhNzZkNTFhNDc4MGU0ZTU1OThlYzY4YjM3YzFl",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Sonhar",
-        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        },
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Sonhar",
-      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 246680,
       "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions - Ao Vivo",
       "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Sonhar",
+        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Sonhar",
+      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Gra\u00e7a Sobre Gra\u00e7a",
-        "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
+        "name": "Nasce o Sol (Remix)",
+        "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
       },
       "artists": [
         {
-          "name": "Brenda Danese",
-          "url": "https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r"
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         }
       ],
-      "duration_ms": 191530,
-      "name": "Gra\u00e7a Sobre Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
+      "duration_ms": 173400,
+      "name": "Nasce o Sol - Remix",
+      "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Nasce o Sol (Remix)",
-        "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
+        "name": "Gra\u00e7a Sobre Gra\u00e7a",
+        "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
       },
       "artists": [
         {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+          "name": "Brenda Danese",
+          "url": "https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Nasce o Sol - Remix",
-      "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
+      "duration_ms": 191530,
+      "name": "Gra\u00e7a Sobre Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
         "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 279191,
       "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
       "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -935,6 +935,30 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Agora",
+        "url": "https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        },
+        {
+          "name": "Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
+        },
+        {
+          "name": "DD Junior",
+          "url": "https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Agora",
+      "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Sinal de Aviso",
         "url": "https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 230727,
       "name": "A Melhor Hist\u00f3ria",
       "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Agora",
-        "url": "https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        },
-        {
-          "name": "Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
-        },
-        {
-          "name": "DD Junior",
-          "url": "https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Agora",
-      "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vilhena",
-          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
-        },
-        {
-          "name": "Purples",
-          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -1087,18 +1067,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Pense Bem",
-        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
+        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
       "artists": [
         {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+          "name": "Gabriel Vilhena",
+          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
+        },
+        {
+          "name": "Purples",
+          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
+      "duration_ms": 249444,
+      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 194034,
       "name": "Teus Rios",
       "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Pense Bem",
+        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Ele e N\u00f3iz",
-        "url": "https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
       },
       "artists": [
         {
           "name": "Leif Bessa",
           "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 172427,
-      "name": "A Casa Caiu",
-      "url": "https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C"
+      "duration_ms": 199864,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1535,18 +1531,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
+        "name": "Ele e N\u00f3iz",
+        "url": "https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv"
       },
       "artists": [
         {
           "name": "Leif Bessa",
           "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 199864,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
+      "duration_ms": 172427,
+      "name": "A Casa Caiu",
+      "url": "https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C"
     },
     {
       "added_at": "2023-12-22 03:00:00",

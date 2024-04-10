@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 4989,
+  "num_followers": 5019,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTQxYjcyMjkzZGJlY2JhYzRjYWEwOWFjMzczZGJhZGRlYWFhZjA3",
+  "snapshot_id": "MCxiYjNjODY4MDJlMTQ1MWZmMzNiNjU1YWI4MTg3NzgwZGJkNGM5ZDcz",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 154777,
-      "name": "Candleflame",
-      "url": "https://open.spotify.com/track/7lX3MvcB1Rnecn53Z3FTfA"
+      "duration_ms": 207822,
+      "name": "Already Lost",
+      "url": "https://open.spotify.com/track/2BSnnyfltzvOkM1hJrsZfj"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 207822,
-      "name": "Already Lost",
-      "url": "https://open.spotify.com/track/2BSnnyfltzvOkM1hJrsZfj"
+      "duration_ms": 154777,
+      "name": "Candleflame",
+      "url": "https://open.spotify.com/track/7lX3MvcB1Rnecn53Z3FTfA"
     },
     {
       "added_at": null,

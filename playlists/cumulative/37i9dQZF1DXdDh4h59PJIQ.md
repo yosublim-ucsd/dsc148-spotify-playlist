@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits de la electrónica en el 2024!
 
-326 songs - 16 hr 18 min
+327 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-02-22 | 2022-03-12 |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2023-02-13 |  |
 | [Believe](https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Nina Vlu](https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt) | [Believe](https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6) | 2:29 | 2021-10-22 |  |
-| [Believe \- KEES POP & Jon Thomas Remix](https://open.spotify.com/track/0rCXGX0Odn9enfPRRWzo4n) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Nina Vlu](https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt), [KEES POP](https://open.spotify.com/artist/2hyTxsipYZ4IKdiHhTzufD), [Jon Thomas](https://open.spotify.com/artist/3gV5r1iOvrDXAiew86XlKI) | [Believe \(KEES POP & Jon Thomas Remix\)](https://open.spotify.com/album/4vDbUKc4yOATz8np8M9M94) | 2:36 | 2022-08-09 |  |
+| [Believe \- KEES POP & Jon Thomas Remix](https://open.spotify.com/track/0rCXGX0Odn9enfPRRWzo4n) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Nina Vlu](https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt), [KEES POP](https://open.spotify.com/artist/2hyTxsipYZ4IKdiHhTzufD), [Jon Thomas](https://open.spotify.com/artist/3gV5r1iOvrDXAiew86XlKI) | [Believe \(KEES POP & Jon Thomas Remix\)](https://open.spotify.com/album/4vDbUKc4yOATz8np8M9M94) | 2:36 | 2022-08-09 | 2024-04-10 |
+| [Believe \- KEES POP & Jon Thomas Remix](https://open.spotify.com/track/1qWOcRbz31ioZkO980uckS) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Nina Vlu](https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt), [KEES POP](https://open.spotify.com/artist/2hyTxsipYZ4IKdiHhTzufD), [Jon Thomas](https://open.spotify.com/artist/0efkd1z8x7dLb3dplQAXFt) | [Best of Black Lemon Records 2022](https://open.spotify.com/album/1s9IlPUZw3R4SidaBqp1kc) | 2:36 | 2024-01-05 |  |
 | [Believe Me](https://open.spotify.com/track/3O2Y7jUKYl991jpvCvwBXw) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7b8mStF9TObsmL3jKGDZFw) | 3:08 | 2021-10-22 | 2022-02-23 |
 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 | 2021-10-22 |  |
 | [Bella Ciao \- Bruno Martini Remix](https://open.spotify.com/track/6tvHnOzbN9SCAcuuNIUMBa) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Bella Ciao \(Bruno Martini Remix\)](https://open.spotify.com/album/25B1ptbmz30BrYXGI2R8ty) | 2:41 | 2021-10-22 |  |

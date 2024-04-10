@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Jhayco, Bryant Myers, Luar La L
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495,645 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495,695 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 |
 | 100 | [PALABRAS SOBRAN \- REMIX](https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Palabras Sobran \(Remix\)](https://open.spotify.com/album/4sqkoyyQKAmoIgYZypfLn9) | 4:48 |
 
-Snapshot ID: `MCxjZmJiMWRmN2VjMmJiM2UxMDFkOGIwYjhjMGUyMmEyMjc2OThkNWQy`
+Snapshot ID: `MCwwY2U3ZmM0NDQwOGFlNTRlY2ZhNmI0NDhmZjQ3NjdhMzAyZWM0YzMy`

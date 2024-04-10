@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,533 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,538 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 79 | [You Need To Rock](https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 5:51 |
 | 80 | [Gettin' To It](https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:30 |
 | 81 | [Greensleeves](https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Guitar Forms \(Expanded Edition\)](https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc) | 4:11 |
-| 82 | [Willow Weep For Me](https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Lonely One](https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL) | 4:40 |
-| 83 | [Pocket City](https://open.spotify.com/track/1s3h7rpQMB1Sm2SuQDXnIp) | [Art Porter](https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu) | [Pocket City](https://open.spotify.com/album/5ScPG1XIrzq2CoJyVRru7C) | 5:18 |
+| 82 | [Pocket City](https://open.spotify.com/track/1s3h7rpQMB1Sm2SuQDXnIp) | [Art Porter](https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu) | [Pocket City](https://open.spotify.com/album/5ScPG1XIrzq2CoJyVRru7C) | 5:18 |
+| 83 | [Willow Weep For Me](https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Lonely One](https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL) | 4:40 |
 | 84 | [Conversation With A Baby](https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Wholly Earth](https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE) | 6:37 |
 | 85 | ['S Wonderful](https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Buddy DeFranco](https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y) | [Buddy Defranco And Oscar Peterson Play George Gershwin](https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3) | 4:21 |
 | 86 | [Ad Lib Blues](https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 5:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [I Could Write A Book \- Live At Bradshaw's Great American Music Hall, San Francisco/1979](https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Audience With Betty Carter \(Live\)](https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx) | 3:41 |
 | 100 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
 
-Snapshot ID: `MCxhYjE2NDk3MTEzMjU0ZDg1MWFmYTkwMWY5ZTQ2ZmIxMDdiOGIxNWRm`
+Snapshot ID: `MCxkMmJhMDYwNmQ5NjhkYjBjNWRkNzNmNTQwNTRkYTQ5NzY2YWE5YThk`

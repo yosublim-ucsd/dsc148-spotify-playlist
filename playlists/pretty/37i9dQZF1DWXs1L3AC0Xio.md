@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,851 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,020 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 24 | [Liberation](https://open.spotify.com/track/3I0PsB3pr6PPyesjPIXjA9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:06 |
 | 25 | [You \- Live](https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:01 |
 | 26 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 |
-| 27 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 |
-| 28 | [Run Away to Mars](https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:33 |
+| 27 | [Run Away to Mars](https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:33 |
+| 28 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 |
 | 29 | [Blurry](https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/5DLx1IHDoyBHyjF4UggiSe) | 5:04 |
 | 30 | [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/track/5eZVBnHekzKt790vYQeBDH) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/album/2gNks1RYLTStziHLRWewFY) | 3:14 |
 | 31 | [Black Smoke Rising](https://open.spotify.com/track/32BEasyNQgqXQJKoVa0fUw) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 4:19 |
 | 32 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 |
-| 33 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
-| 34 | [Hear Me Now](https://open.spotify.com/track/5bINaNAghUCg4uHIsuDgjG) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 3:39 |
+| 33 | [Hear Me Now](https://open.spotify.com/track/5bINaNAghUCg4uHIsuDgjG) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 3:39 |
+| 34 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
 | 35 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 |
 | 36 | [twin flame](https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:59 |
 | 37 | [Call Me](https://open.spotify.com/track/2nBWxgSZ79w9l6t2rUg6pl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 74 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
 | 75 | [On My Own](https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:43 |
 
-Snapshot ID: `MCxjMTQ1YjA5ODg5NGQwNzhkNGY3YmMzMTk1MzcxNGY5OTk1NTZmN2Zj`
+Snapshot ID: `MCwwMDQ3MjgwYmFhYmYyZjc3OGI4MmQ1NmM1NThiMTlmZGQ5N2VjMTgz`

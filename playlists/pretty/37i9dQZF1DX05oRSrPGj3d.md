@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,289 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,342 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 12 | [Bummin' Cigarettes](https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:06 |
 | 13 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:32 |
 | 14 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 |
-| 15 | [Why](https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:17 |
-| 16 | [Something to Talk About](https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:24 |
+| 15 | [Something to Talk About](https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:24 |
+| 16 | [Why](https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:17 |
 | 17 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
 | 18 | [Stone](https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 5:35 |
 | 19 | [Hippies and Cowboys](https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Less Wise](https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa) | 5:00 |
@@ -81,17 +81,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 71 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
 | 72 | [Austin](https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5) | 4:34 |
 | 73 | [Every Single Kiss](https://open.spotify.com/track/7vw8wZXoY5kVIT30tF6k15) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Vol\. 1\- EP](https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS) | 3:26 |
-| 74 | [Feet Don't Touch the Ground](https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY) | [Stoney LaRue](https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ) | 4:08 |
+| 74 | [Texas Rain](https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k) | [Seven Miles South](https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd) | [Resurrection EP](https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx) | 3:31 |
 | 75 | [Some Things Never Change](https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx) | 3:20 |
-| 76 | [Texas Rain](https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k) | [Seven Miles South](https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd) | [Resurrection EP](https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx) | 3:31 |
+| 76 | [Feet Don't Touch the Ground](https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY) | [Stoney LaRue](https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ) | 4:08 |
 | 77 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
-| 78 | [Choices](https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Cold Hard Truth](https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3) | 3:26 |
-| 79 | [Ringling Road](https://open.spotify.com/track/2YUm7yXaklDbTvbwGwf9c4) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Ringling Road](https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V) | 4:08 |
+| 78 | [Ringling Road](https://open.spotify.com/track/2YUm7yXaklDbTvbwGwf9c4) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Ringling Road](https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V) | 4:08 |
+| 79 | [Choices](https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Cold Hard Truth](https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3) | 3:26 |
 | 80 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 |
 | 81 | [Shine Out](https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA) | 3:53 |
 | 82 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
-| 83 | [Pretty Things](https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning In Dreams](https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS) | 4:28 |
-| 84 | [Don't Tell Me](https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:40 |
+| 83 | [Don't Tell Me](https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:40 |
+| 84 | [Pretty Things](https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning In Dreams](https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS) | 4:28 |
 | 85 | [Who I Am](https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Blue Light Live](https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5) | 4:35 |
 | 86 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
 | 87 | [Boots on a Dance Floor](https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 100 | [Somewhere Down in Texas](https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Pearl Snaps](https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ) | 5:53 |
 
-Snapshot ID: `MCw2Y2NkMDViNjFjZDYzY2Y0MTAzMDI1ZDdkNWZmOTZmNDQzZDhhZGIz`
+Snapshot ID: `MCw4ZDM0YThjMjNmMTk3ZWFkODA0MzE3YTI0MDBlMjI1NDVhZDQ4Nzdj`

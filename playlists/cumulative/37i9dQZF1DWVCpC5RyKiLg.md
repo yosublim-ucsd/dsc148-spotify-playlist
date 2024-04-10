@@ -4,7 +4,7 @@
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-181 songs - 9 hr 53 min
+182 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Culpa É do Coração \- Ao Vivo](https://open.spotify.com/track/1cw2CLeQlhYbJmSbi2lxxD) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Fã de Carteirinha Sunset \(Ao Vivo\)](https://open.spotify.com/album/0QAoo8Zi6hG6dy2Ca58I9K) | 2:52 | 2022-01-27 | 2022-07-21 |
 | [A Pessoa Certa \- Ao Vivo](https://open.spotify.com/track/5wcuXZAk6wgs326KIMzE6T) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Misturadin 2 \(Ao Vivo\)](https://open.spotify.com/album/66bqfoGm8q3oh9xEOeoX7t) | 3:18 | 2022-01-27 | 2022-07-17 |
 | [Ainda Bem \- Ao Vivo](https://open.spotify.com/track/48FcnAViqTZV90DSsZx2UY) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 3:31 | 2022-01-27 | 2022-07-29 |
-| [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 | 2022-01-27 |  |
+| [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 | 2022-01-27 | 2024-04-10 |
 | [Alô Ambev \(Segue Sua Vida\) \- Ao Vivo](https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Por Mais Beijos Ao Vivo](https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT) | 2:49 | 2022-01-27 |  |
 | [Amo Noite E Dia](https://open.spotify.com/track/7wp6CdZePdMmNsfs8kKNwN) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Amo Noite E Dia](https://open.spotify.com/album/0zQlaUmH7s280te2ANkYwM) | 3:10 | 2022-01-27 | 2022-07-29 |
 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 | 2022-01-27 |  |
@@ -107,6 +107,7 @@
 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 | 2022-01-27 |  |
 | [Melhor Eu Ir \- Ao Vivo](https://open.spotify.com/track/2pbmSONpVrMl9OEetkL974) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/0pp1MaNtkBTjbrvmvXVT1w) | 4:03 | 2022-01-27 | 2022-07-28 |
 | [Mentira \- Ao Vivo](https://open.spotify.com/track/146Vb458Y5RbqEa0fYFPzm) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Felipe Araújo In Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/15XApXonewJchLQbLwFuy3) | 3:13 | 2022-01-27 | 2022-07-19 |
+| [Meu Coração Deu PT \- Ao Vivo](https://open.spotify.com/track/4zHavHoLCNqqZQ8JVqPZa6) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Em Casa \(Ao Vivo\)](https://open.spotify.com/album/2NYBzUfyld0Zz9Mt8DGSNg) | 3:02 | 2023-11-17 |  |
 | [Meu Violão E O Nosso Cachorro \- Ao Vivo](https://open.spotify.com/track/2RTkdHBUb5UCg36tcX6C7D) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:34 | 2022-01-27 | 2022-07-27 |
 | [Muito Cedo](https://open.spotify.com/track/7N0Py2msno86enR6JPNlpV) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Todo Seu](https://open.spotify.com/album/2TykZEYbsi1qPgxz3QQ1rK) | 3:23 | 2022-01-27 | 2022-07-05 |
 | [Na Hora Da Raiva \- Ao Vivo](https://open.spotify.com/track/1W3ohWNGNobBwSrOuVSxel) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Novas Histórias \(Ao Vivo\)](https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U) | 2:54 | 2022-06-10 |  |

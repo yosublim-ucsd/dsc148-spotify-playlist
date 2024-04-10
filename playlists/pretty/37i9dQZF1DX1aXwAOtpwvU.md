@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,719 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,730 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Uczucia](https://open.spotify.com/track/1ay25zXov7yoR2D8ZAjxKZ) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT), [ERRBITS](https://open.spotify.com/artist/3R4lfbnS9kvMe9VB99VgDL), [Kacezet](https://open.spotify.com/artist/0UtonDPYQQEx6BFqVQfw4u) | [Uczucia](https://open.spotify.com/album/5OXM3lcdxWN406CT9FZEan) | 2:06 |
+| 1 | [Uczucia](https://open.spotify.com/track/1ay25zXov7yoR2D8ZAjxKZ) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Uczucia](https://open.spotify.com/album/5OXM3lcdxWN406CT9FZEan) | 2:06 |
 | 2 | [znowu sam](https://open.spotify.com/track/3LsWDZo1SpXNAzwQX35gPh) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [znowu sam](https://open.spotify.com/album/5kPIe6YX1PrxG91Axzhmfd) | 2:40 |
 | 3 | [Every Single Person I Know](https://open.spotify.com/track/5uyfnKPivwc9im9rRXEU0u) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Every Single Person I Know](https://open.spotify.com/album/54QwxJC74lJG6A5M4SN6Je) | 2:07 |
 | 4 | [Mam koleżankę](https://open.spotify.com/track/0OM0RY3tiPFLXf3xQvg1Ln) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Mam koleżankę](https://open.spotify.com/album/05PFH0lCFfQf5ugOwjDHL9) | 3:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 | 60 | [Luksus](https://open.spotify.com/track/032wbCjB0T5yY6B1Sp7t5b) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH), [Trill Pem](https://open.spotify.com/artist/0x4xJCGDyTlKr47RF2WXzu) | [Luksus](https://open.spotify.com/album/59qNkAOwe8LEdKRqwocPD6) | 2:44 |
 
-Snapshot ID: `MCw0OTRiMDE2MzI4NWU0MTM0Nzk5NzM4NmRmNzM2ZmExNjBjNjJhYjY3`
+Snapshot ID: `MCwwY2FlOWIxYWFhZWQwZjNmNmJlMDNhMGVjM2VjN2FmOGNjNGU5ZWMy`

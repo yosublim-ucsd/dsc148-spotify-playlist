@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,234 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,236 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 7 | [Fingers Crossed](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:55 |
 | 8 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 |
 | 9 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 |
-| 10 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
-| 11 | [Best Day Of My Life](https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 2:26 |
+| 10 | [Best Day Of My Life](https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 2:26 |
+| 11 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
 | 12 | [Mariposa](https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK) | 3:30 |
 | 13 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
 | 14 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 65 | [We Were Liars](https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG) | [Atticus Blue](https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs) | [We Were Liars](https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl) | 2:50 |
 | 66 | [Midnight](https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Midnight](https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf) | 3:22 |
 | 67 | [Room for Another](https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Room for Another](https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM) | 3:05 |
-| 68 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
-| 69 | [Rest of My Life](https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [When The Light Hits The Room](https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep) | 2:57 |
+| 68 | [Rest of My Life](https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [When The Light Hits The Room](https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep) | 2:57 |
+| 69 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
 | 70 | [Butterfly Wings](https://open.spotify.com/track/6ztyTVTG3R8PPHLaFSA3VR) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Butterfly Wings](https://open.spotify.com/album/6yiwj0mGVdZzzzytu5OUiP) | 3:32 |
 
-Snapshot ID: `MCwxNjE0ZWNhM2JmNmYyZWQ2NDg2NTdjMWFkOTMzMmVlZGQ5ZjlkYWYw`
+Snapshot ID: `MCxmY2NkZDZhN2EzZmQzYTQ2NDUzZjgyODQxMzJlOTdlMDY0YTI2NjY2`

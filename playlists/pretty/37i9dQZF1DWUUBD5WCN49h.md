@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Kojo Blak
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,656 likes - 103 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,671 likes - 103 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 102 | [Afro Bass](https://open.spotify.com/track/57SIbxmrWA7GsMtv5micLJ) | [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [Afro Bass](https://open.spotify.com/album/5OFYLCyFCuhR4hnTlqQtvn) | 2:32 |
 | 103 | [Proverbs 31 Woman](https://open.spotify.com/track/4fi5eKXzsVMDo5lSxqWx6X) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Proverbs 31 Woman](https://open.spotify.com/album/4ZFXhqhJQ01oYZiMk8pC63) | 2:47 |
 
-Snapshot ID: `MCxmOTQyNmI5YWMwYjhiMjM2MzQ1YTZkMDY4YjYyZDllMTQzN2FiMzMw`
+Snapshot ID: `MCxkYjQ4MWYwMTNmZmI2MDU3NDc3ZjlkM2Q1ODc1MmU5MzZiOTc3MGI3`

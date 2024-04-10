@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,323 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,348 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 32 | [Si Supieras](https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 4:11 |
 | 33 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
 | 34 | [siempreestoypati](https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Transiciones](https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf) | 3:26 |
-| 35 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
-| 36 | [Soñar Contigo](https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 2:48 |
+| 35 | [Soñar Contigo](https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 2:48 |
+| 36 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
 | 37 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
 | 38 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 |
 | 39 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [café de las ocho](https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:55 |
 | 80 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 |
 
-Snapshot ID: `MCw3ODc5OTczYmM5YzUxNzk5NmM1ZGIwNGJhZjY3ZmE4ZmZiOTg0NGE5`
+Snapshot ID: `MCxjOTA2ZDdjMjhiYzNkODgzOWI5Yjk3YTQ5ZjcwMTk3MTRjM2RhZWMy`

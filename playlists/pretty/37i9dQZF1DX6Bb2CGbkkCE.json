@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 4978,
+  "num_followers": 4980,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWQ2MzRjZGQwMDYzMmU2ZDI3ODJkZTI4ODdlZDhmN2ZiZDdmMGM1",
+  "snapshot_id": "MCxhNjFlYWE1MGQxYmViODM3OGY5YzM1MGU5Njg5ODMxZDk3NTZmNGFm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -147,22 +147,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 176960,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -183,18 +179,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+      "duration_ms": 176960,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
       "added_at": "2022-10-01 16:00:00",

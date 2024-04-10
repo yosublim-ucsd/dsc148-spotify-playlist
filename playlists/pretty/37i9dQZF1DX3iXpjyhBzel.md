@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Lukas Agustinho, Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,893 likes - 100 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,345 likes - 100 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 7 | [Minha Calmaria](https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Minha Calmaria](https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ) | 3:39 |
 | 8 | [Eu Sou Teu Pai \- Ao Vivo](https://open.spotify.com/track/6VpGzXV2kAxB59UOGGl4yP) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Sou Teu Pai \(Ao Vivo\)](https://open.spotify.com/album/2jAWSHULqC5TTIiPgf0QYV) | 6:16 |
 | 9 | [Deserto \(Ao Vivo\)](https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deserto \(Ao Vivo\)](https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW) | 4:28 |
-| 10 | [Alívio](https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Alívio](https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr) | 4:45 |
-| 11 | [Como Será O Amanhã](https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Como Será O Amanhã](https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B) | 1:49 |
+| 10 | [Como Será O Amanhã](https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Como Será O Amanhã](https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B) | 1:49 |
+| 11 | [Alívio](https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Alívio](https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr) | 4:45 |
 | 12 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Ao Vivo\)](https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U) | 8:23 |
 | 13 | [É Tudo Sobre Você \- Ao Vivo](https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP) | 6:12 |
 | 14 | [Vem Me Buscar \- Ao Vivo](https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [Vem Me Buscar \(Ao Vivo\)](https://open.spotify.com/album/1IKD5Kb7LNGNo4D14yjinQ) | 6:58 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 61 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 |
 | 62 | [Águas Purificadoras/Oceanos \- Ao Vivo](https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [John Dias](https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc) | [Águas Purificadoras/Oceanos \(Ao Vivo\)](https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5) | 6:38 |
 | 63 | [Ele Vem / A Cidade Santa \- Ao Vivo](https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Ele Vem / A Cidade Santa \(Ao Vivo\)](https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ) | 5:29 |
-| 64 | [Maravilhado \- Ao Vivo](https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Maravilhado \(Ao Vivo\)](https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam) | 7:34 |
+| 64 | [Eu Vou Construir](https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu Vou Construir](https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH) | 6:49 |
 | 65 | [Teu Toque \- Ao Vivo](https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Teu Toque \(Ao Vivo\)](https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD) | 7:33 |
 | 66 | [Nem Um Segundo](https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem Um Segundo](https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u) | 5:49 |
 | 67 | [O Melhor De Deus](https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 3](https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7) | 3:25 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 70 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
 | 71 | [Todos Os Meus Dias \- Ao Vivo](https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Gabriel Guedes \(Ao Vivo\)](https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs) | 3:24 |
 | 72 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 |
-| 73 | [Eu Vou Construir](https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu Vou Construir](https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH) | 6:49 |
+| 73 | [Maravilhado \- Ao Vivo](https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Maravilhado \(Ao Vivo\)](https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam) | 7:34 |
 | 74 | [Para Ti Eu Vou \- Ao Vivo](https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Gabriela Maganete](https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Para Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo) | 10:01 |
 | 75 | [Plano Tão Lindo \- Ao Vivo](https://open.spotify.com/track/3FlvLbjVSkwPPsXBjp4Iph) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Plano Tão Lindo \(Ao Vivo\)](https://open.spotify.com/album/51ZlzyLPGLhmp92yEt46YW) | 4:00 |
 | 76 | [Dependente](https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9) | 5:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 100 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 
-Snapshot ID: `MCwzZWZkNTZjNWIwNzU5MDU1NzY1MTdmYjIzM2I2MTBmMmNlY2Q5MGU0`
+Snapshot ID: `MCw5NDFiOGQxMDQxOTIzMGUzNWI2NWJjYTgwZWQzMmEwN2Y2YWEyODIw`

@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 347433,
+  "num_followers": 347427,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWZhZmNlNjRjNThmNDE2OTc3YTgzZTMyNDUyZGJiZWE3Y2M2NGI2",
+  "snapshot_id": "MCwwYWQ0M2M3NjI3OWUyY2U5Y2JlZTMwOWY3MGMyNmYwYjdhYmVjMTQ5",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "La Tortura (feat. Alejandro Sanz)",
+      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Peace Is The Mission",
         "url": "https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "La Tortura (feat. Alejandro Sanz)",
-      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 205906,
       "name": "El Perd\u00f3n (with Enrique Iglesias)",
       "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Hijas del Tomate",
-        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
-      },
-      "artists": [
-        {
-          "name": "Las Ketchup",
-          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
-      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "A Quien Quiera Escuchar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 211680,
       "name": "La Mordidita (feat. Yotuel)",
       "url": "https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Hijas del Tomate",
+        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
+      },
+      "artists": [
+        {
+          "name": "Las Ketchup",
+          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
+      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "M.I.A.M.I.",
-        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "We No Speak Americano",
         "url": "https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 157438,
       "name": "We No Speak Americano (Edit)",
       "url": "https://open.spotify.com/track/37dYAkMa4lzRCH6kDbMT1L"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "M.I.A.M.I.",
+        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Mi gran noche",
-      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Rayos de Sol",
         "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 231562,
       "name": "Rayos de Sol",
       "url": "https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Mi gran noche",
+      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "Sopa de Caracol",
-      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 184693,
       "name": "Ella Elle L A",
       "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Xapomel\u00f6n",
-        "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
-      },
-      "artists": [
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Mari Carmen",
-      "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Buler\u00eda",
         "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 251973,
       "name": "Buleria",
       "url": "https://open.spotify.com/track/2s7WJ9IRON5zalNbfFY1xa"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Xapomel\u00f6n",
+        "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Mari Carmen",
+      "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
     },
     {
       "added_at": "2023-06-09 09:38:51",

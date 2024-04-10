@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,692 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,802 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,24 +47,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 37 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
 | 38 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
 | 39 | [Hasta el Sol de Hoy \(En Vivo\)](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |
-| 40 | [Piropo](https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 3:08 |
-| 41 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
-| 42 | [Tu Mujer En Mi Cama](https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:31 |
+| 40 | [Tu Mujer En Mi Cama](https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:31 |
+| 41 | [Piropo](https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 3:08 |
+| 42 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
 | 43 | [El Chancho Come Caviar](https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h) | 2:35 |
 | 44 | [Dios Me Libre](https://open.spotify.com/track/03d6otdre4G9uC2IOTV5MV) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 4:05 |
 | 45 | [El Hospicio](https://open.spotify.com/track/4I17shszGarI3lEcneeEEK) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
 | 46 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 |
-| 47 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 |
-| 48 | [A Decirme Qué](https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:02 |
-| 49 | [Humíllate](https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [Mi Única Alegría](https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT) | 2:42 |
-| 50 | [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 |
+| 47 | [A Decirme Qué](https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:02 |
+| 48 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 |
+| 49 | [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 |
+| 50 | [Humíllate](https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [Mi Única Alegría](https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT) | 2:42 |
 | 51 | [Loco](https://open.spotify.com/track/1PsM5kAMF5E7EgLfeY3xdA) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK), [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [Loco](https://open.spotify.com/album/5k4mZBSWVZ1984ZwDULZ2L) | 3:42 |
 | 52 | [Ojalá Que No Puedas](https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [La Gorda Me Quiere](https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63) | 3:12 |
 | 53 | [Placer y Olvido](https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Placer y Olvido](https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm) | 3:53 |
 | 54 | [Vuelve Mi Amor](https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:06 |
 | 55 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
-| 56 | [Hasta Allá en el Cielo](https://open.spotify.com/track/1H5UhQ5VnbNpeE7gFcm7pD) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Hasta Allá en el Cielo](https://open.spotify.com/album/2w8OPK4PhtLteKTPj4bDar) | 3:30 |
-| 57 | [Ella Dijo](https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 3:57 |
+| 56 | [Ella Dijo](https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 3:57 |
+| 57 | [Hasta Allá en el Cielo](https://open.spotify.com/track/1H5UhQ5VnbNpeE7gFcm7pD) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Hasta Allá en el Cielo](https://open.spotify.com/album/2w8OPK4PhtLteKTPj4bDar) | 3:30 |
 | 58 | [Enganchados 2 \(Contigo me gusta / No me acostumbro\)](https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4) | [Leo Mattioli y Trinidad](https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:20 |
 | 59 | [Otro Día Más Sin Verte](https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Hay Contra para Rato](https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf) | 4:05 |
 | 60 | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH) | 3:56 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 77 | [Imposible Olvidarte](https://open.spotify.com/track/5XwKOns3tv46E2CmhZFvED) | [Sergio Moran y su Banda](https://open.spotify.com/artist/7hSXBaGwB70P4kBDzqoTT2) | [Como Tú](https://open.spotify.com/album/6GU7qLROD5m1VWF12BD0m2) | 3:20 |
 | 78 | [Que Sorpresa](https://open.spotify.com/track/3GI15ZZCaAp6MdvCMPvwpy) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Que Sorpresa](https://open.spotify.com/album/5C3B2j5vucQ8XlLKNAjXCc) | 2:17 |
 | 79 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 |
-| 80 | [Se Enamoró de Mí la Soledad](https://open.spotify.com/track/589S5fN5qBfJ6DL1R4YZCL) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Se Enamoró de Mí la Soledad](https://open.spotify.com/album/7y7Dw5kdlTFjBvnSkwHvTy) | 2:54 |
+| 80 | [Sufrirás](https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB) | [El Más Parrandero](https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd) | 4:30 |
 
-Snapshot ID: `MCwzMzk3NjMwODAyMjAxMTFkMmRkYzM2YTUzOTQxYjFhNjRlZDQ0NDRi`
+Snapshot ID: `MCwyZjg0YWViOGE4MWExN2NmMDg0YTM1YTM4YTJjZTFlZDgwMGY1OGY0`

@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:OKDAL\(옥상달빛\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Kim Pil Sun\(김필선\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,427 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,463 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Galaxy](https://open.spotify.com/track/5NFLTPYWlGDYAtVGwRiZK6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Natural II](https://open.spotify.com/album/6BZ0Ush9k3SSeUcZTuEgs2) | 4:26 |
+| 1 | [traveler](https://open.spotify.com/track/63QYGp2ZTqDrEhNWGAnURD) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [traveler](https://open.spotify.com/album/3BdDUdLi5aqP4okLiglLfb) | 2:28 |
 | 2 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 |
 | 3 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
 | 4 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 47 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
 | 48 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 |
 | 49 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 |
-| 50 | [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 |
-| 51 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
+| 50 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
+| 51 | [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 |
 | 52 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 
-Snapshot ID: `MCw5MjVmOTJhZDgyMjA5YjYwNDE5ODUwODFmNTQ2NWI2NTUyMzU1YTgy`
+Snapshot ID: `MCwxN2ZjZmI3Y2YzMzk4ZGI4M2NjZWJhZDIwNTZlNGY5OTUwYzVlMWY5`

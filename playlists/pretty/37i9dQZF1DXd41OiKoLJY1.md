@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Chezka\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,690 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,698 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Nariyan Ka](https://open.spotify.com/track/4IvF6qVf4gpD9sjFN6ct6i) | [RENS](https://open.spotify.com/artist/1oySeo9fQMHo2PNtkoCFik) | [Nariyan Ka](https://open.spotify.com/album/4ri8aotsWlPKpg5sPznGwz) | 2:03 |
 | 100 | [1400IYONGMULTO](https://open.spotify.com/track/01A8aC4uMierwosyXHH4de) | [YNGVIE](https://open.spotify.com/artist/2CMdtMF1AW7dbCamPCkwBK) | [1400IYONGMULTO](https://open.spotify.com/album/3PMuAnsAmhGw1mdivk7rW7) | 3:04 |
 
-Snapshot ID: `MCxmMGUwM2FhNmY2NjdlOTFhMzMxNDcyN2NmNjk3YzVkNjJmMWUxMmJh`
+Snapshot ID: `MCw5MTQzOTY1ZjFjOGRmMTg3ODZhYzBlOTE4MGE1OWRjNTRiYWRjOWVj`

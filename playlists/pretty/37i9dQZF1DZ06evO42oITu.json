@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 346406,
+  "num_followers": 346476,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmYyMzEyODIyMDIyNjUzZGJjY2E2M2FmMzZlYzA3ZWE0YmMwZmU0",
+  "snapshot_id": "MCwwNjBhYjI1OTA5NGQzODIwNDUxMGZmOWYzZDhiZmZjNjI0MjQ4MzA5",
   "tracks": [
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Your Love (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 150626,
-      "name": "For Your Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money and Cigarettes (2007 Remaster)",
         "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
       },
@@ -487,6 +467,22 @@
       "duration_ms": 193386,
       "name": "I've Got a Rock 'n' Roll Heart",
       "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 471546,
+      "name": "Old Love - Acoustic Live",
+      "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
     },
     {
       "added_at": null,
@@ -523,22 +519,6 @@
       "duration_ms": 219960,
       "name": "Key to the Highway",
       "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 471546,
-      "name": "Old Love - Acoustic Live",
-      "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
     },
     {
       "added_at": null,
@@ -608,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 239053,
-      "name": "Before You Accuse Me - Acoustic Live",
-      "url": "https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p"
+      "duration_ms": 390893,
+      "name": "Running on Faith - Acoustic Live",
+      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
     },
     {
       "added_at": null,
@@ -659,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Heads in Georgia",
-      "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
         "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
@@ -699,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "Heads in Georgia",
+      "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -708,9 +688,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 390893,
-      "name": "Running on Faith - Acoustic Live",
-      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
+      "duration_ms": 239053,
+      "name": "Before You Accuse Me - Acoustic Live",
+      "url": "https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p"
     },
     {
       "added_at": null,
@@ -731,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "It's Easy",
-      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
         "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
@@ -767,6 +727,26 @@
       "duration_ms": 317320,
       "name": "Sensitive Kind",
       "url": "https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "It's Easy",
+      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
     },
     {
       "added_at": null,
@@ -951,6 +931,22 @@
       "duration_ms": 206466,
       "name": "Please Be With Me",
       "url": "https://open.spotify.com/track/2ZqxxxpB7gIhlq1vxJ87Dd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cream Of Clapton",
+        "url": "https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA"
     },
     {
       "added_at": null,

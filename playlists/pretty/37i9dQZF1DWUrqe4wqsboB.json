@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Ana Macho",
-  "num_followers": 5385,
+  "num_followers": 5396,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDA0MTEzZmE1MWM5MTY2MDY2NmY5N2QwZDZiZjg0NTU0MDM0MjUx",
+  "snapshot_id": "MCw5NmU2ODY2YjdjNDMwYjM3MTU4MTgyYzdmZjJiZmFjZDY3MzEyMTQ4",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "road 2 neverland",
-        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "falco",
-      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Vibra",
         "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 174947,
       "name": "Vibra",
       "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "road 2 neverland",
+        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "falco",
+      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Memes del Futuro",
-        "url": "https://open.spotify.com/album/2BngW4gizvgN5Xzda1ypkW"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 177016,
-      "name": "Hot Pants",
-      "url": "https://open.spotify.com/track/6ru8BeXJfqD2IGYlu4K18N"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Liberado",
         "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 199308,
       "name": "Aguadilla",
       "url": "https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Memes del Futuro",
+        "url": "https://open.spotify.com/album/2BngW4gizvgN5Xzda1ypkW"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 177016,
+      "name": "Hot Pants",
+      "url": "https://open.spotify.com/track/6ru8BeXJfqD2IGYlu4K18N"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Girasoles",
-        "url": "https://open.spotify.com/album/6gmZ7hycaLVJlFBusgpDzo"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 308576,
-      "name": "Girasoles",
-      "url": "https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "El Cuento de Cita",
         "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 194500,
       "name": "Duermo con fr\u00edo",
       "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Girasoles",
+        "url": "https://open.spotify.com/album/6gmZ7hycaLVJlFBusgpDzo"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 308576,
+      "name": "Girasoles",
+      "url": "https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx"
     },
     {
       "added_at": "2024-03-15 04:00:00",

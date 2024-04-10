@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,645 likes - 62 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,701 likes - 62 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 61 | [Take 5](https://open.spotify.com/track/4Ut9HHMszZPbWFrEOX8cso) | [SERGIO](https://open.spotify.com/artist/3594w71yTTwjb1RDEfZ4O4) | [Take 5](https://open.spotify.com/album/6ygG8SCLwe9uylqQfNCyhv) | 2:27 |
 | 62 | [Mayday](https://open.spotify.com/track/2EPPngp2opkcAxHdTczCHI) | [Zafflow](https://open.spotify.com/artist/2NKOUwJW2FXpQv8DJvAWr5), [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Mayday](https://open.spotify.com/album/3MaMtDuw0g2zABT5YuCDFx) | 2:12 |
 
-Snapshot ID: `MCxlNzAxNjJmZWExYjU0Njk1YmExMTg2ODE1NWZkNTViNWIyMTlhNDZh`
+Snapshot ID: `MCxmODY5OGFjODQ1MDdhYjIwZTBhMWE2MzhjMDhkZjc0OTNmMDZkODZi`

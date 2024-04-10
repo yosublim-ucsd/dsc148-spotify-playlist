@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 
 > Horns up for this metal soundtrack for headbangers of all ages!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,997 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,084 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 | 49 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
 | 50 | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH) | 7:18 |
 
-Snapshot ID: `MCxhNWVlNmRmNWQ3MGM0OGQ1NzRjZGQ5ZDY3NTY4MDUxNWZjMzI2N2Zm`
+Snapshot ID: `MCxlYjMyZmNhNjI5NzIyZTRhOGUxZTU1NzU5ZWI0NmNiOWZjNTIzYmFk`

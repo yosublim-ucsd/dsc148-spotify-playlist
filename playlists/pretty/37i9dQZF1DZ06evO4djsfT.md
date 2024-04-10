@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,890 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,899 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 43 | [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 |
 | 44 | [Another Win](https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Another Win](https://open.spotify.com/album/7veYjJEJdSVMaxU9NBIObU) | 3:45 |
 | 45 | [God Speed](https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Belong](https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS) | 2:57 |
-| 46 | [Monster](https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 3:17 |
-| 47 | [Now They Know](https://open.spotify.com/track/1wfY6AQT8zIY9CVyd8Iy79) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Now They Know](https://open.spotify.com/album/6lpJPDD0Z1nY8HtvPBjG2c) | 4:30 |
+| 46 | [Now They Know](https://open.spotify.com/track/1wfY6AQT8zIY9CVyd8Iy79) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Now They Know](https://open.spotify.com/album/6lpJPDD0Z1nY8HtvPBjG2c) | 4:30 |
+| 47 | [Monster](https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 3:17 |
 | 48 | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb) | 3:28 |
 | 49 | [Smoke Free](https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Messenger 4: Independents Day](https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U) | 4:19 |
 
-Snapshot ID: `MCxiN2UxZDJkMzg5YjgyZWYwZmJjOGM2MzNhZjhjYWJiNzE3ZWZmOWQ3`
+Snapshot ID: `MCxkOWNkMTIwNTM1NjJjNmIyYjFmNjI2NGVjNTM1OTBkOGRlYTNkMmIy`

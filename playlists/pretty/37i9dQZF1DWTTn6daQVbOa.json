@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 566199,
+  "num_followers": 566431,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGZkNmMyYWVlZTIzMjcwNjViZmZjMWMyN2U1ZDE3NzY0NTY4NWVm",
+  "snapshot_id": "MCw2ODQxOGZhYTQ5MmQ5ZjY1MjZhYTkzOGQzZjA3ZjI4YTIyODc1MzNm",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 308520,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+      "duration_ms": 308520,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -703,38 +703,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Imagination (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Midnight Train to Georgia",
-      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 293120,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -751,6 +719,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Imagination (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Midnight Train to Georgia",
+      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Player",
         "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 255845,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 293120,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "I Got a Name",
-        "url": "https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "I\u2019ll Have to Say I Love You in a Song",
-      "url": "https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 308853,
       "name": "Take The Long Way Home - 2010 Remastered",
       "url": "https://open.spotify.com/track/0v0XYK0pLgsPiq5u4FKHaw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "I Got a Name",
+        "url": "https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "I\u2019ll Have to Say I Love You in a Song",
+      "url": "https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Now & Then (Reissue)",
         "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
       },
       "artists": [
         {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 170066,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
+      "duration_ms": 168120,
+      "name": "Moonshadow - Remastered 2021",
+      "url": "https://open.spotify.com/track/5p3nvmoaAY03qGmBQApn0w"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Teaser And The Firecat (Remastered 2021)",
-        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
       "artists": [
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 168120,
-      "name": "Moonshadow - Remastered 2021",
-      "url": "https://open.spotify.com/track/5p3nvmoaAY03qGmBQApn0w"
+      "duration_ms": 228133,
+      "name": "Across The Universe - Remastered 2009",
+      "url": "https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1163,22 +1179,6 @@
       "duration_ms": 228933,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Across The Universe - Remastered 2009",
-      "url": "https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "The Long And Winding Road - Remastered 2009",
+      "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
       },
@@ -1263,38 +1279,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "The Long And Winding Road - Remastered 2009",
-      "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 237760,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Warmer",
         "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 241746,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Rockin' Roll Baby",
+        "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 288440,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "The Three Degrees",
         "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Rockin' Roll Baby",
-        "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
       "artists": [
         {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 288440,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
+      "duration_ms": 175400,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Way We Were",
-        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "The Way We Were",
-      "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Where There's Smoke...",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 266733,
       "name": "Kiss and Say Goodbye",
       "url": "https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Way We Were",
+        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "The Way We Were",
+      "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Trafalgar",
-        "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "How Can You Mend A Broken Heart",
-      "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Closeup",
         "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
       },
@@ -1759,22 +1743,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Sunshine On My Shoulders",
-      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Harvest (2009 Remaster)",
         "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
       },
@@ -1787,6 +1755,38 @@
       "duration_ms": 187013,
       "name": "Heart of Gold - 2009 Remaster",
       "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Trafalgar",
+        "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "How Can You Mend A Broken Heart",
+      "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Sunshine On My Shoulders",
+      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Doctor Hook",
-        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Sylvia's Mother",
-      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 345240,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Doctor Hook",
+        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Sylvia's Mother",
+      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
     },
     {
       "added_at": "2023-03-13 08:18:56",
@@ -2183,6 +2183,38 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "I Robot",
+        "url": "https://open.spotify.com/album/2vtMi0d0613jhp85klO9eb"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "I Wouldn't Want to Be Like You",
+      "url": "https://open.spotify.com/track/4sCCZW0ezEPAexAidFsoVm"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Shadow Dancing",
+        "url": "https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "(Our Love) Don't Throw It All Away",
+      "url": "https://open.spotify.com/track/1RsxUuB1Q5OdseLpHMBkEN"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Blue Lights in the Basement",
         "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
       },
@@ -2215,38 +2247,6 @@
       "duration_ms": 248586,
       "name": "Streets of London",
       "url": "https://open.spotify.com/track/2zwH1NlxBEpzVlvzXNHQso"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Shadow Dancing",
-        "url": "https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8"
-      },
-      "artists": [
-        {
-          "name": "Andy Gibb",
-          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "(Our Love) Don't Throw It All Away",
-      "url": "https://open.spotify.com/track/1RsxUuB1Q5OdseLpHMBkEN"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "I Robot",
-        "url": "https://open.spotify.com/album/2vtMi0d0613jhp85klO9eb"
-      },
-      "artists": [
-        {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "I Wouldn't Want to Be Like You",
-      "url": "https://open.spotify.com/track/4sCCZW0ezEPAexAidFsoVm"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "September Morn",
-        "url": "https://open.spotify.com/album/6TGyHFvMMeLaKWPYTcRQU4"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "September Morn",
-      "url": "https://open.spotify.com/track/2CXkN6UAb3jAFwz4VbsDq0"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Main Course",
         "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 243560,
       "name": "Fanny (Be Tender With My Love)",
       "url": "https://open.spotify.com/track/7KUHpRlZQR91SLflhsQCg9"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "September Morn",
+        "url": "https://open.spotify.com/album/6TGyHFvMMeLaKWPYTcRQU4"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "September Morn",
+      "url": "https://open.spotify.com/track/2CXkN6UAb3jAFwz4VbsDq0"
     },
     {
       "added_at": "2022-09-23 05:26:33",

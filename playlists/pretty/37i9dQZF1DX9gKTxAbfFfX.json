@@ -1,12 +1,12 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Myke Towers",
-  "num_followers": 721300,
+  "num_followers": 721251,
   "original_name": "Verano 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDE4YzlhY2RjMDNjNjE0YWZlNzJlOTNmNDc5NjY1MzUwZWNjZWM3",
+  "snapshot_id": "MCxiNDc4OTllYjU5YmNhMjBjN2JmZGNkYjhlZmRiZWYxM2IxNTc2Zjcw",
   "tracks": [
     {
       "added_at": "2023-08-21 12:18:42",
@@ -223,22 +223,18 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -267,18 +263,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
+        "name": "Jerusalema",
+        "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
       },
       "artists": [
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
         }
       ],
-      "duration_ms": 190909,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
+      "duration_ms": 342612,
+      "name": "Jerusalema (feat. Nomcebo Zikode)",
+      "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1331,22 +1335,18 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Jerusalema",
-        "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
       },
       "artists": [
         {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 342612,
-      "name": "Jerusalema (feat. Nomcebo Zikode)",
-      "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
+      "duration_ms": 190909,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "CAIRO",
         "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 154551,
-      "name": "TUYA",
-      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "Musica Tropical Para Bailar",
+        "url": "https://open.spotify.com/album/47l8vVWxhdk85fSx65LN2e"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Pobre Diabla",
+      "url": "https://open.spotify.com/track/7gxVgMixTYh4NXiNMao4s2"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "mariposas",
         "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 154000,
       "name": "mariposas",
       "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "Musica Tropical Para Bailar",
-        "url": "https://open.spotify.com/album/47l8vVWxhdk85fSx65LN2e"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Pobre Diabla",
-      "url": "https://open.spotify.com/track/7gxVgMixTYh4NXiNMao4s2"
     },
     {
       "added_at": "2023-08-21 12:18:42",

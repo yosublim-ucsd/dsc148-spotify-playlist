@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,664 likes - 158 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,728 likes - 158 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 112 | [The Horizon \- Sphontik Mix](https://open.spotify.com/track/3fqNfyRgCE2O16iDIqmSIQ) | [Sinner DC](https://open.spotify.com/artist/5p2pns1DJ2vLnXidUv7y1E), [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [Ambient Mixes](https://open.spotify.com/album/2QWN34iKAqrq7QSUTESSgN) | 4:35 |
 | 113 | [Her After Bath](https://open.spotify.com/track/65MUBBKx73ZZkDVTPaThnN) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossloads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 3:10 |
 | 114 | [Firing](https://open.spotify.com/track/6zbYuGYwr34odkFt5KeJmv) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO), [Shimatani Shoryu Kobo](https://open.spotify.com/artist/35TkW5XHiRnfHTbw5O0o6R) | [VAGUE](https://open.spotify.com/album/3wwGYCEB35E5K5MAKjALtS) | 6:01 |
-| 115 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 |
+| 115 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 |
 | 116 | [Grass Harp](https://open.spotify.com/track/5oy0BoXi4o83XaAkZ9lMrG) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/3VlSsznQDQhW1hIi8FrZXn) | 5:57 |
 | 117 | [birefringence](https://open.spotify.com/track/3cxBheYCzfiIHcyNdwXMEa) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [prism](https://open.spotify.com/album/6PhqghpzBPmBEfpC0hb4tZ) | 4:23 |
 | 118 | [The Spider's Thread](https://open.spotify.com/track/45okZJHya7HLzEi0zvRaDI) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [A Halo of Light One Day](https://open.spotify.com/album/2erifYmBD16kWNRjYipk1x) | 5:29 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 157 | [Körper](https://open.spotify.com/track/5LoatYCsraVXB08X6bhpzO) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/1CPBp6tHWeEUM87bEBCpxS) | 5:55 |
 | 158 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 |
 
-Snapshot ID: `MCw3YTM0ZWZiMWQ1NmQ5NmI4NTI0NGQ3ZjBjODkwY2M2YWM0ZTFiZmVl`
+Snapshot ID: `MCw4MjAyNWI2Mzc1MDk3MDEzYmYyNzIyNjkxYTU4YTFlMjVhOTIyYzRk`

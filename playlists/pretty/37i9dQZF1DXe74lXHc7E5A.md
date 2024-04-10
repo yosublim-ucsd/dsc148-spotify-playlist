@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: J Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,836 likes - 59 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,877 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 26 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 |
 | 27 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 |
 | 28 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 |
-| 29 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |
-| 30 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |
-| 31 | [Rich Spirit](https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:22 |
+| 29 | [Rich Spirit](https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:22 |
+| 30 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |
+| 31 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |
 | 32 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
 | 33 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 |
 | 34 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 36 | [Yeah Glo!](https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo! \(Alternate Versions\)](https://open.spotify.com/album/71b560lfhaeBlp4URJHAzx) | 2:22 |
 | 37 | [Pressure](https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Pressure](https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1) | 2:44 |
 | 38 | [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 |
-| 39 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
+| 39 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
 | 40 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 |
-| 41 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
+| 41 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
 | 42 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 43 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
 | 44 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 58 | [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 |
 | 59 | [DOG EAT DOG II \(feat\. Cruel Santino and Bella Shmurda\)](https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 4:00 |
 
-Snapshot ID: `MCw5MDY2ZjI5MDc4MTQyNmE4ZGVkZTdiODBiNzdiNjY4YWMzMTg5OGQ5`
+Snapshot ID: `MCxkNDlkMTJkODNhMTI2Yjc3NzU3YWQ3OTdjMjcwMDgwNGNmYTViNDhh`

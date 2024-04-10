@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-306 songs - 17 hr 23 min
+307 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Kasam Se](https://open.spotify.com/track/53XRfIgocnwDCIkpCEyqbU) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Kasam Se](https://open.spotify.com/album/6HnM6hiRAbIahYlLkguthy) | 3:05 | 2023-09-01 | 2023-10-18 |
 | [Kashtiyaan](https://open.spotify.com/track/54xTcmfvjb1qzQgcIJRHVp) | [Chirag](https://open.spotify.com/artist/2MPyD5qsOPAr2t6FDjPgIq), [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Kashtiyaan](https://open.spotify.com/album/0YZFayv6b8bsJov07LjkVf) | 3:14 | 2024-02-13 | 2024-03-23 |
 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 | 2023-05-17 |  |
+| [Keh Do Na](https://open.spotify.com/track/6c3LR94yDATEjWBJQCaYs3) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Lafz](https://open.spotify.com/album/4LAHU5zvi4sU5wBApjHa4E) | 3:42 | 2024-04-09 |  |
 | [Kehedo Sanam](https://open.spotify.com/track/5oJgaEPgb8n6oG6E7rlL5T) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Kehedo Sanam](https://open.spotify.com/album/36vvhudUd2zaFouRIIaltH) | 4:49 | 2023-07-24 | 2023-08-31 |
 | [Kehna Hai](https://open.spotify.com/track/4TJyhWQVAMIgFc7nVwQ9sa) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Kehna Hai](https://open.spotify.com/album/1NgK5XjpuciKO1OPh0BTwM) | 2:31 | 2024-02-09 |  |
 | [Khaali Panne](https://open.spotify.com/track/5JlDiKV0LaWXl82lKji0oq) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Khaali Panne](https://open.spotify.com/album/3W61toZhkU8TffnOtZlmBa) | 3:46 | 2023-06-06 | 2023-07-15 |
@@ -248,7 +249,7 @@
 | [Sang Tere](https://open.spotify.com/track/5NsEfpHGCMmBS4sANtp5qo) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Rupin Suchak](https://open.spotify.com/artist/1VKnLalQQJZajLYjTyyYnl) | [Sang Tere](https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me) | 2:55 | 2023-11-29 | 2024-02-21 |
 | [Sapno Mein](https://open.spotify.com/track/1kdcrxXB0QuPBmaOakxwwk) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Sapno Mein](https://open.spotify.com/album/3SxMEnLGUUg75HrpR31pQW) | 2:58 | 2023-10-26 | 2023-11-25 |
 | [Shaam O Seher](https://open.spotify.com/track/2oDcHokGFyUid59aiw36DT) | [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Shaam O Seher](https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA) | 3:03 | 2024-03-05 |  |
-| [Shamiyana](https://open.spotify.com/track/3QC6onisBo4QROKE7Wr6W9) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Shamiyana](https://open.spotify.com/album/7IzYRwQO5uLovjokWp81C2) | 5:24 | 2024-02-14 |  |
+| [Shamiyana](https://open.spotify.com/track/3QC6onisBo4QROKE7Wr6W9) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Shamiyana](https://open.spotify.com/album/7IzYRwQO5uLovjokWp81C2) | 5:24 | 2024-02-14 | 2024-04-10 |
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 | 2024-03-01 |
 | [Sochu](https://open.spotify.com/track/651OglmdGFaRT2W47hx696) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Sochu](https://open.spotify.com/album/4fhXeH4ZHxUrOsndsziT1f) | 3:22 | 2024-02-20 |  |
 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-26 |  |

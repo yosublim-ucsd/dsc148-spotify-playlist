@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWI5MTIzZjNlMDFkYmFiZWEzZTBiNGU5ZjJmMDQ1YzcyNjdkNjY5",
+  "snapshot_id": "MCw0M2I2YmYwYmNlMDc2YmZlYzA1MDY1ODk1Mzc2MDMyOGIzN2MzNTcw",
   "tracks": [
     {
       "added_at": "2024-02-22 17:25:15",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Eu Nunca Fui Embora",
-        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
-      },
-      "artists": [
-        {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        }
-      ],
-      "duration_ms": 185337,
-      "name": "Eu Nunca Fui Embora",
-      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Eu Nunca Fui Embora",
+        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "duration_ms": 185337,
+      "name": "Eu Nunca Fui Embora",
+      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "31",
-        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        }
-      ],
-      "duration_ms": 251611,
-      "name": "31",
-      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Fiz 18",
         "url": "https://open.spotify.com/album/3B803upCKgO5My70u4J7sK"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 194693,
       "name": "Fiz 18",
       "url": "https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        }
+      ],
+      "duration_ms": 251611,
+      "name": "31",
+      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Caso Perdido",
-        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 199401,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Dona da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "n\u00e3o me importo mais",
+        "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "n\u00e3o me importo mais",
+      "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "o maior ot\u00e1rio da cidade",
         "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "n\u00e3o me importo mais",
-        "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
+        "name": "Caso Perdido",
+        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
       },
       "artists": [
         {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 156306,
-      "name": "n\u00e3o me importo mais",
-      "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
+      "duration_ms": 199401,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "T\u00c1 TODO MUNDO MAL",
-        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "T\u00c1 TODO MUNDO MAL",
-      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "INTENSAMENTE",
         "url": "https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 218161,
       "name": "Obscuro",
       "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "T\u00c1 TODO MUNDO MAL",
+        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "T\u00c1 TODO MUNDO MAL",
+      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
-        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 207070,
-      "name": "CORPO FECHADO",
-      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Emocionado",
         "url": "https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Conto de Falhas",
+        "url": "https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 156705,
+      "name": "Conto de Falhas",
+      "url": "https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "ponto de vista",
         "url": "https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U"
       },
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Conto de Falhas",
-        "url": "https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl"
+        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
+        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
       },
       "artists": [
         {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
         }
       ],
-      "duration_ms": 156705,
-      "name": "Conto de Falhas",
-      "url": "https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy"
+      "duration_ms": 207070,
+      "name": "CORPO FECHADO",
+      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "PODERIA SER (bem) PIOR",
-        "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
+        "name": "vc n gosta de garotas",
+        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
       },
       "artists": [
         {
-          "name": "Number Teddie",
-          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
         }
       ],
-      "duration_ms": 171861,
-      "name": "Amigo de Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
+      "duration_ms": 132413,
+      "name": "vc n gosta de garotas",
+      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "PODERIA SER (bem) PIOR",
+        "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
+      },
+      "artists": [
+        {
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
+        }
+      ],
+      "duration_ms": 171861,
+      "name": "Amigo de Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "Depois das Seis",
         "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 180488,
       "name": "Depois Das Seis",
       "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "vc n gosta de garotas",
-        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
-      },
-      "artists": [
-        {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "vc n gosta de garotas",
-      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Tonto, Mole, Trouxa (e meio devagar)",
-        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 131986,
-      "name": "Tonto, Mole, Trouxa (e meio devagar)",
-      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Lugar no Espa\u00e7o",
         "url": "https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 224043,
       "name": "Lugar no Espa\u00e7o",
       "url": "https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Tonto, Mole, Trouxa (e meio devagar)",
+        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 131986,
+      "name": "Tonto, Mole, Trouxa (e meio devagar)",
+      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
     },
     {
       "added_at": "2024-02-22 17:25:15",

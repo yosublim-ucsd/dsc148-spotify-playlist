@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 
 > Que comience la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,527 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,566 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 18 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
 | 19 | [Como Un Trueno](https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:06 |
 | 20 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
-| 21 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
+| 21 | [Una Vez Mas](https://open.spotify.com/track/73VnoqUKBpD14SAiMS81se) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Mas](https://open.spotify.com/album/6zf45S8HREA47QE5xBqpRS) | 3:50 |
 | 22 | [Me Enamoro de Ella](https://open.spotify.com/track/7jizO2haWuR6oc0i9tprIb) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mientras Más Lo Pienso…Tú](https://open.spotify.com/album/2NjuELUKBF6Uu0vIZX26Cg) | 4:17 |
 | 23 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
 | 24 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 |
-| 25 | [Una Vez Mas](https://open.spotify.com/track/73VnoqUKBpD14SAiMS81se) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Mas](https://open.spotify.com/album/6zf45S8HREA47QE5xBqpRS) | 3:50 |
+| 25 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
 | 26 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
 | 27 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 |
-| 28 | [El Baile del Sua Sua](https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Vida](https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9) | 4:53 |
-| 29 | [La Loba](https://open.spotify.com/track/0T0UiFcWu7Up3jjtcZwQ5p) | [Miriam y Las Chicas](https://open.spotify.com/artist/4Y4lp6GSau5wrFp5otreG9) | [Nueva Vida](https://open.spotify.com/album/2l9A7QT8GhT6VxF1y8OsMn) | 4:20 |
-| 30 | [El Jardinero](https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:26 |
+| 28 | [La Loba](https://open.spotify.com/track/0T0UiFcWu7Up3jjtcZwQ5p) | [Miriam y Las Chicas](https://open.spotify.com/artist/4Y4lp6GSau5wrFp5otreG9) | [Nueva Vida](https://open.spotify.com/album/2l9A7QT8GhT6VxF1y8OsMn) | 4:20 |
+| 29 | [El Jardinero](https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:26 |
+| 30 | [El Baile del Sua Sua](https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Vida](https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9) | 4:53 |
 | 31 | [Mi Forma de Ser](https://open.spotify.com/track/4v5L6UOxIaj6f5fwgP3MNc) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [On Fire](https://open.spotify.com/album/6YNKw4ToWPZYy1AFzaCIBP) | 3:09 |
 | 32 | [Ojalá Que Llueva Café](https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 4:13 |
 | 33 | [La Morena](https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 49 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
 | 50 | [El Alacrán](https://open.spotify.com/track/0rI6R1Bf2q6e2SwSc2KdhD) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:02 |
 
-Snapshot ID: `MCw0ZTdjYmVhMWNmMGYwN2QyODNiYTE5YzUyYjZlNzRlZGEyYmViZDAx`
+Snapshot ID: `MCw5Mzg1ZWNkYWIyMzQ4OTI4NjI4NjBhODM5MDMyMjlhNjAwYzhjNTgy`

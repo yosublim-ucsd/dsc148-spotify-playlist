@@ -4,7 +4,7 @@
 
 > New folk & americana driving the current, every week\. Cover: Kara Jackson
 
-134 songs - 8 hr 0 min
+136 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,13 +77,14 @@
 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 | 2022-06-17 |  |
 | [Millennial](https://open.spotify.com/track/10JRIlS2NWwUlEePtwaUhX) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4ZjJMYZSIk0mbZ6iXkwgvM) | 2:53 | 2021-10-22 | 2022-07-29 |
 | [Mountain Top](https://open.spotify.com/track/7rJNvxjt9dXQkRYNrQfjOV) | [Toshi Reagon](https://open.spotify.com/artist/1WUAzIurvlhaWxB7fpcuOM) | [Toshi](https://open.spotify.com/album/127jq1AGPCb3ImjhRJ5K0g) | 5:27 | 2021-10-22 |  |
+| [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 | 2024-04-09 |  |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2021-12-01 |  |
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-10-22 |  |
 | [New Colossus](https://open.spotify.com/track/462nbWwasi5npUIeT79CIx) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Grenades](https://open.spotify.com/album/6Nqb3BPmH4xpzjqJs14W8a) | 4:26 | 2021-10-22 |  |
 | [New Day](https://open.spotify.com/track/1MgS5QaPUOd0vJK6DWwraw) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [New Day](https://open.spotify.com/album/1Hu8TUT4WPpryik4S307sI) | 3:21 | 2023-01-25 |  |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-10-22 |  |
 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 | 2023-01-25 | 2024-02-02 |
-| [one more](https://open.spotify.com/track/6ls5CB8bM1iXIwsOVjwYwN) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [one more](https://open.spotify.com/album/4PmUFaFkjEDpnxJBFca7ua) | 3:43 | 2024-02-01 |  |
+| [one more](https://open.spotify.com/track/6ls5CB8bM1iXIwsOVjwYwN) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [one more](https://open.spotify.com/album/4PmUFaFkjEDpnxJBFca7ua) | 3:43 | 2024-02-01 | 2024-04-10 |
 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 | 2022-06-03 |  |
 | [People Need People](https://open.spotify.com/track/6KiWFNyMCXE7dvuj1eU5u0) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:24 | 2022-06-03 |  |
 | [Perfect Wife](https://open.spotify.com/track/2fYXieYGhGKFYUH5wbBnVp) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:38 | 2021-12-01 |  |
@@ -94,6 +95,7 @@
 | [Seeds](https://open.spotify.com/track/1NijLAZEVZAvJGHE1RO9if) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Revival](https://open.spotify.com/album/3ZeYPc2wcoSjM43wc9gdRO) | 3:08 | 2021-10-22 | 2023-07-22 |
 | [Short and Sweet](https://open.spotify.com/track/1fDrmqH34hJ5Lx1w3ketXU) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:44 | 2022-06-17 |  |
 | [Short and Sweet](https://open.spotify.com/track/2Qtk2DM442dGv6n9Fmbs5s) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:44 | 2021-10-22 | 2022-07-29 |
+| [Solo](https://open.spotify.com/track/0zcCGdrTZqUVfWOOgPYLLB) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 3:19 | 2024-04-09 |  |
 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-05-12 | 2024-02-02 |
 | [Song for a Dark Girl](https://open.spotify.com/track/46Q2hZCTU4UkD0JKavnR5m) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Song for a Dark Girl](https://open.spotify.com/album/41lCuj8wpb12V8NuO05yGz) | 2:49 | 2021-10-22 | 2022-06-04 |
 | [sorry isn't good enough](https://open.spotify.com/track/52EPUO8FCJKXrvH6oPs4Nz) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [sorry isn't good enough](https://open.spotify.com/album/4ND9o4X7nbwLjNGyAtslXE) | 3:07 | 2021-10-22 | 2022-02-05 |

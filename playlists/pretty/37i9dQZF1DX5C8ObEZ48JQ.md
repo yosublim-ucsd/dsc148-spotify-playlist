@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA?si=AQ0HJi\-XQFi92sXnksyuZQ">Taves</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm?si=vvqyQnbnQmWXYTyH7pBFHg">tg.blk</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,207 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,243 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 |
-| 2 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 |
-| 3 | [NYDFRYSTL](https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [NYDFRYSTL](https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I) | 1:48 |
+| 1 | [NYDFRYSTL](https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [NYDFRYSTL](https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I) | 1:48 |
+| 2 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 |
+| 3 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 |
 | 4 | [HOME](https://open.spotify.com/track/4MKnbbcCLbuTMWo8JBk8ej) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Karabo](https://open.spotify.com/artist/2nPtQTbG4YCBrkSftUoiG3) | [FOR YOU, FOREVER](https://open.spotify.com/album/6q8rLOzjZMAGt2M1f4syHl) | 3:22 |
 | 5 | [Another Episode](https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Another Episode](https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8) | 3:14 |
 | 6 | [BEBE](https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [BEBE/CINNAMON](https://open.spotify.com/album/1xNUH2MsviQz6p4firxKHR) | 2:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 59 | [No Lymyt](https://open.spotify.com/track/6iyVmsDyy81510Hs9LP6b1) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [No Lymyt](https://open.spotify.com/album/0vXzKg4qs3SQ9fsHIyOIIH) | 4:06 |
 | 60 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 |
 
-Snapshot ID: `MCw2N2MzODllZjI3MjAxMWJhZjU0NTQwZTE4M2UwYjgxMDNiN2U1MWFj`
+Snapshot ID: `MCxmMjc4ZjE2MjZhZjhiYTNjY2Q1ZTY1YWE1OGRlMmNhZWVmNTU0N2Nm`

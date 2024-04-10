@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Eva Shaw, Haviah Mighty, Friyie
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,233 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,264 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Coming Back Now](https://open.spotify.com/track/0iVleE93Ri2uTUntiAJR4e) | [Swisha T](https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Coming Back Now](https://open.spotify.com/album/2vDp6OYV6bJ0ChZK37hQIX) | 3:10 |
 | 100 | [Repeat](https://open.spotify.com/track/5tcC7bQ4fQ6WkvWxT73ZsI) | [Derin Falana](https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG) | [Repeat](https://open.spotify.com/album/3km7QoPe665Vk3e4tEu9Jt) | 3:20 |
 
-Snapshot ID: `MCxjYzdjMTY3MWQ3MWZlNTgxMjNjNmQ2ZjBlZjhjYzcwYTE3ZTExNWU1`
+Snapshot ID: `MCw1Zjk4MjEyN2ZkMDlhNTY5Y2JiMmViNTE2ZTM3YmYwMGJmMjZiNGEz`

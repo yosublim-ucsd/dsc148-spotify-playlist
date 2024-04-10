@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 42838,
+  "num_followers": 42846,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjBjNTFiM2QwZWEyMDUwNWEzYTk0NjI4YTZhZjZhMDM1YTI5MTE2",
+  "snapshot_id": "MCxhNTY5MzM1NjliY2Q0OWE4NjFjMTU4ZDk2YjdlMGI0N2EwMGIwNGRl",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 166693,
-      "name": "I Was Here",
-      "url": "https://open.spotify.com/track/6N8syRCLSHedst5P0HS6Tu"
+      "duration_ms": 191546,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 191546,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
+      "duration_ms": 166693,
+      "name": "I Was Here",
+      "url": "https://open.spotify.com/track/6N8syRCLSHedst5P0HS6Tu"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 210240,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Star Sign",
         "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 207971,
       "name": "Speeding Car",
       "url": "https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Manhattan in the Rain",
-      "url": "https://open.spotify.com/track/5lpgGcXkWbjqBkWaazSk4N"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Manhattan in the Rain",
+      "url": "https://open.spotify.com/track/5lpgGcXkWbjqBkWaazSk4N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 226036,
       "name": "Amy",
       "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Never Run",
-      "url": "https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Never Run",
+      "url": "https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock N Roll",
         "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 238333,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 139360,
-      "name": "Sword and Stone",
-      "url": "https://open.spotify.com/track/4qCho7COvxkDzUktMmLEBF"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 139360,
+      "name": "Sword and Stone",
+      "url": "https://open.spotify.com/track/4qCho7COvxkDzUktMmLEBF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 162306,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Blizzard in the Room",
-      "url": "https://open.spotify.com/track/6KRklFhhniHx1FOSqGl3lZ"
     },
     {
       "added_at": null,
@@ -731,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
@@ -763,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
       },
       "artists": [
         {
@@ -772,9 +740,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
+      "duration_ms": 205693,
+      "name": "Blizzard in the Room",
+      "url": "https://open.spotify.com/track/6KRklFhhniHx1FOSqGl3lZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 221173,
       "name": "So Lost",
       "url": "https://open.spotify.com/track/3onoAfOvc9c2FrmvWb9shy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
     },
     {
       "added_at": null,

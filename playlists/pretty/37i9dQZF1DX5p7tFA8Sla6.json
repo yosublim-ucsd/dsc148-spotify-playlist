@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 55988,
+  "num_followers": 56009,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDUwOWNkN2JjMzkzM2U2NDBiZTI5NzUyMDJjOTQzMzA2ZjcxOTNl",
+  "snapshot_id": "MCw2ZTdjODUyMzJkNWZkZDhjNjNlMjgxNjY2NzA0ZWU4Y2VhOTNmYjAw",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Afterlife Vol. 2 - EP",
-        "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Mister Man",
-      "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Shake Your Money",
         "url": "https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 200190,
       "name": "Shake Your Money",
       "url": "https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Afterlife Vol. 2 - EP",
+        "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Mister Man",
+      "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Life In The City",
-        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Superstatic",
-      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Vs.",
         "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 233491,
       "name": "Do It with Soul",
       "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Life In The City",
+        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Superstatic",
+      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Chasing Gold",
-        "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wilson",
-          "url": "https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk"
-        }
-      ],
-      "duration_ms": 274237,
-      "name": "Word Is Out",
-      "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Gnomes and Badgers",
         "url": "https://open.spotify.com/album/4qPlarTcn0hM0nSFZQJIrG"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 216800,
       "name": "I'm Your Biggest Fan",
       "url": "https://open.spotify.com/track/17i912AtjvTamKg5Oriyw9"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Chasing Gold",
+        "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wilson",
+          "url": "https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk"
+        }
+      ],
+      "duration_ms": 274237,
+      "name": "Word Is Out",
+      "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
     },
     {
       "added_at": "2019-08-22 14:26:16",

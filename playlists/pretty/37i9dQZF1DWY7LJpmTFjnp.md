@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Babasónicos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,937 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,044 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 4 | [Putita](https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:45 |
 | 5 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
 | 6 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
-| 7 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 |
+| 7 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
 | 8 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
-| 9 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
+| 9 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 |
 | 10 | [Es lo que hay](https://open.spotify.com/track/4sYiGhu0HEL0ZlkbHesfYC) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Baile Infinito](https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR) | 3:18 |
 | 11 | [Soñé \- En Vivo](https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:46 |
 | 12 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 70 | [No Olvidamos](https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [No Olvidamos](https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76) | 4:34 |
 | 71 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 72 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 |
-| 73 | [Don´t Give Up](https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [BOSS REGGAE FROM MEXICO \- REGGAE GORDO](https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT) | 2:50 |
-| 74 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
+| 73 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
+| 74 | [Don´t Give Up](https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [BOSS REGGAE FROM MEXICO \- REGGAE GORDO](https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT) | 2:50 |
 | 75 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
 | 76 | [Tenochtitlán](https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tenochtitlán](https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf) | 4:13 |
 | 77 | [Frances Limon](https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Amores Lejanos](https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC) | 5:17 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 93 | [Te entiendo](https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Te entiendo](https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII) | 4:00 |
 | 94 | [El sombrerero loco](https://open.spotify.com/track/5W6B8o2GIICi43uDMNIFHT) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [El sombrerero loco](https://open.spotify.com/album/64KmxosC8CmHppBI2leRdl) | 4:30 |
 | 95 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 |
-| 96 | [Las Batallas/Rarotonga \- MTV Unplugged](https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:26 |
+| 96 | [Lamento Boliviano](https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Lamento Boliviano](https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR) | 4:03 |
 | 97 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE) | 3:18 |
-| 98 | [Lamento Boliviano](https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Lamento Boliviano](https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR) | 4:03 |
+| 98 | [Las Batallas/Rarotonga \- MTV Unplugged](https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:26 |
 | 99 | [Estoy Perdiendo La Razón](https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Estoy Perdiendo La Razón](https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK) | 3:22 |
 | 100 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
 
-Snapshot ID: `MCw0MmY0MTdlNmY4YTZiODA2MDkwODU4MjUxZGJiZjRlYTc2MDJhNjE1`
+Snapshot ID: `MCw3OTNjMjRhNTFiODkzYmNlZTg1YjU3YzA3ODAyODU3OTg1NDM3ZWQ1`

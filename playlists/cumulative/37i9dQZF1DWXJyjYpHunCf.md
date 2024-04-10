@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Mark Ambor
 
-391 songs - 22 hr 20 min
+392 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [Powder Blue](https://open.spotify.com/track/0Ba3AAdXs6teCiYHveUgbS) | [HARBRS](https://open.spotify.com/artist/0UYyS6FwvxLy8dw1W9SB6T) | [Powder Blue](https://open.spotify.com/album/2lJVt9WuO7TgCGO7ww9ZS6) | 3:36 | 2022-02-21 | 2022-07-29 |
 | [Pure Desire](https://open.spotify.com/track/7aYYqWsMiZaKOlvIj3KxY8) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Pure Desire / Loosen Up](https://open.spotify.com/album/3J95vIMwdAUouqR2vekhJ0) | 3:26 | 2021-11-12 | 2022-07-28 |
 | [Puzzle Peace](https://open.spotify.com/track/6RNx2PvcKDBJSvFMW6SqES) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Puzzle Peace](https://open.spotify.com/album/7vKsNksBLfF9WRExodr9DF) | 3:54 | 2021-11-12 | 2022-07-29 |
-| [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 |  |
+| [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 | 2024-04-10 |
+| [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 | 2024-03-29 |  |
 | [Renegade](https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:14 | 2022-03-12 |  |
 | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/album/4kD0pFwhEjEiF9pwUwkpNo) | 4:14 | 2021-11-12 | 2022-07-29 |
 | [Revival](https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:05 | 2024-02-09 | 2024-03-30 |

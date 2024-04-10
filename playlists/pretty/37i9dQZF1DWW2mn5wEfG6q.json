@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 75334,
+  "num_followers": 75365,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDAxZjZjNzM3Y2RhMDFlZTFkYThjZGUzNDA3ZWNlMjVkYzdlMzUz",
+  "snapshot_id": "MCwzZTE4Yjk2NDMzNTkxMWRiNzE2ODE0ZTk4MzdkYzUzNjQ5Y2ViMTgy",
   "tracks": [
     {
       "added_at": "2023-03-29 13:55:12",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Heza",
-        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Put a Light On",
-      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "2.0",
         "url": "https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 280426,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/2PeKCn8NSGQXAHONaCh3wB"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Put a Light On",
+      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 431746,
-      "name": "An Ocean In Between The Waves",
-      "url": "https://open.spotify.com/track/78uf7QYfexQ1sggf2fsKzg"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Harlequin Dream",
         "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 281133,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 431746,
+      "name": "An Ocean In Between The Waves",
+      "url": "https://open.spotify.com/track/78uf7QYfexQ1sggf2fsKzg"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 292546,
-      "name": "Inhaler",
-      "url": "https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "All This Bad Blood",
         "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 212613,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 292546,
+      "name": "Inhaler",
+      "url": "https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw"
     },
     {
       "added_at": "2021-09-02 08:24:19",

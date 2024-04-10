@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,891 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,892 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [HOME](https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:54 |
 | 50 | [Fact Check](https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 |
 
-Snapshot ID: `MCw1MzI5Y2JkNGRjYWQ0ZDU3ODk0ZDNlNTYyYzg0Zjk3ZDI4YTdiN2Yz`
+Snapshot ID: `MCxhMDIwMDBjYTUzOTA4YWM3ZTJiNTlkMzI5OTVkN2UxN2ZmNzUxMDNi`

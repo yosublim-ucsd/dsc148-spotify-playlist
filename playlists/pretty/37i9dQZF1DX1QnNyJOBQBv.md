@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Latin pop tracks you need to hear, featuring Morat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,829,214 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,829,260 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 |
-| 2 | [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 |
-| 3 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
+| 1 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
+| 2 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 |
+| 3 | [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 |
 | 4 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
 | 5 | [Me Arriesgo Contigo](https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Me Arriesgo Contigo](https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET) | 2:45 |
 | 6 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 |
 | 50 | [Salitre](https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Salitre](https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8) | 3:40 |
 
-Snapshot ID: `MCwxMDc0YWVkMDE4Nzk3ZDUwM2I1Mzg0ZDVkNWNmOGUxNjI0YTNkNzY2`
+Snapshot ID: `MCxlYWI0MjAwMmQ3MTcxMTE0MTgwNDYyNTliYmM4YzZhYWJiNDkyNWE5`

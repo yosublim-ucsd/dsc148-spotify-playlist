@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 153584,
+  "num_followers": 153598,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODhmMzRhZjU0MGQwMzI0ODU2OTRiNDFlYTlmZTg5NTk4OTI4MTg5",
+  "snapshot_id": "MCw5NDQyMmM5Y2VmMjRjN2Q0ZWM1MTYwOWZiZmRlMGY1YzI0MTYwYmNl",
   "tracks": [
     {
       "added_at": "2023-09-29 07:24:02",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Dijeron Que No La Iba Lograr",
+        "url": "https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 113019,
+      "name": "Dijeron Que No La Iba Lograr",
+      "url": "https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Un Suspir\u00f3",
         "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 125818,
       "name": "El B\u00e9lico",
       "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Dijeron Que No La Iba Lograr",
-        "url": "https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 113019,
-      "name": "Dijeron Que No La Iba Lograr",
-      "url": "https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 168425,
-      "name": "En El Camino",
-      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
         "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 190575,
       "name": "Vamos Aclarando Muchas Cosas - En Vivo",
       "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 168425,
+      "name": "En El Camino",
+      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Soy Buen Amigo",
-        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153967,
-      "name": "Soy Buen Amigo",
-      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 176208,
       "name": "El Vago De Los Nike",
       "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Soy Buen Amigo",
+        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 153967,
+      "name": "Soy Buen Amigo",
+      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Seguimos Dejando Marca (En Vivo)",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 147781,
-      "name": "Gente Corriente - En Vivo",
-      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "El G\u00fcero (Feat. Marca MP)",
         "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
       },
@@ -1395,22 +1379,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Hoy Todo Cambio",
-        "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 203885,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
         "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
       },
@@ -1427,6 +1395,38 @@
       "duration_ms": 180946,
       "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
       "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Hoy Todo Cambio",
+        "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 203885,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 147781,
+      "name": "Gente Corriente - En Vivo",
+      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1459,6 +1459,22 @@
       "duration_ms": 181524,
       "name": "El 701",
       "url": "https://open.spotify.com/track/4gK27JZrNyJ46T9iGXUXPF"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1503,22 +1519,6 @@
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 203068,
-      "name": "DEL Negociante",
-      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
+      "duration_ms": 162624,
+      "name": "Mi Momento",
+      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 203068,
+      "name": "DEL Negociante",
+      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 209920,
       "name": "Backpack",
       "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. 3",
-        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Mi Momento",
-      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Don Ismael",
         "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "El Buho",
-        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1983,26 +1983,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Los Inadaptados",
-        "url": "https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Los Inadaptados",
-      "url": "https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "Uno Mas Uno Igual A Zero",
         "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
       },
@@ -2019,6 +1999,26 @@
       "duration_ms": 159683,
       "name": "Uno mas Uno Igual a Zero",
       "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Los Inadaptados",
+        "url": "https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Los Inadaptados",
+      "url": "https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2107,8 +2107,8 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Corridos De Alto Calibre",
-        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
       "artists": [
         {
@@ -2116,9 +2116,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Javier El De Los Llanos",
-      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
+      "duration_ms": 140880,
+      "name": "Chalito",
+      "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Seguimos Irremediables",
+        "url": "https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO"
+      },
+      "artists": [
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "Por Clave el 13",
+      "url": "https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Los Mejores Corridos De",
         "url": "https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 211706,
       "name": "La Hummer Y El Camaro",
       "url": "https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Seguimos Irremediables",
-        "url": "https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO"
-      },
-      "artists": [
-        {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Por Clave el 13",
-      "url": "https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2291,8 +2291,8 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
       },
       "artists": [
         {
@@ -2300,9 +2300,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 140880,
-      "name": "Chalito",
-      "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
+      "duration_ms": 201600,
+      "name": "Javier El De Los Llanos",
+      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
-        "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 173417,
-      "name": "La Captura III",
-      "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 164257,
       "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
       "url": "https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
+        "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 173417,
+      "name": "La Captura III",
+      "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
     },
     {
       "added_at": "2023-09-29 07:24:02",

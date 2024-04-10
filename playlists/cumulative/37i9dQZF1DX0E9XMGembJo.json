@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 234215,
       "name": "3005",
       "url": "https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16"
@@ -4300,6 +4300,24 @@
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
+    },
+    {
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "album": {

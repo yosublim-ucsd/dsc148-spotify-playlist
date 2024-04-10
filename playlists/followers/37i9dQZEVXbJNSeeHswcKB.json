@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 266652,
+  "2024-04-10": 266666,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Belgium.",
   "name": "Top 50 - Belgium",
@@ -6480,6 +6480,24 @@
     },
     {
       "album": {
+        "name": "Deli Biri",
+        "url": "https://open.spotify.com/album/5Kt2EksLBtkBVyPGOajahZ"
+      },
+      "artists": [
+        {
+          "name": "rosse17",
+          "url": "https://open.spotify.com/artist/4i7oeJlCv0KiCps2hRVFjX"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Deli Biri",
+      "url": "https://open.spotify.com/track/0qCOkHC1oAU8380gTXgH5A"
+    },
+    {
+      "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
       },
@@ -10889,7 +10907,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 153358,
       "name": "Hou Mij Vast",
       "url": "https://open.spotify.com/track/2DgtPHgQeLFRAMHKIBNN4W"

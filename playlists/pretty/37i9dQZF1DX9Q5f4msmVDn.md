@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,675 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,697 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 49 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
 | 50 | [Happy Feelin's](https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Greatest Slow Jams](https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG) | 7:11 |
 
-Snapshot ID: `MCxlMTYzOGZkNjRlZjU5YjhmNTk4Y2VjOWI3MzI2NmU5MjcxYTYwZGE2`
+Snapshot ID: `MCwxMjJiY2YyMTczYTFkOWJlYzMyOWU5ZWQwOWU0ODUyYzA3MDJmOTg3`

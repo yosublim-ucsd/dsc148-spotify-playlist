@@ -1,12 +1,12 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3371073,
+  "num_followers": 3371349,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmQ1N2UxYmQ1MDQ3NGIyMzUwNjE1ZWUyNDFjOTcwNTEwMTg0MmU5",
+  "snapshot_id": "MCwwZWY4NmUyNDIyY2M0YWE1OGYxYjJiYzQ0NGNmYjlmODFmODYwZGQx",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -435,8 +435,8 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
+      "duration_ms": 183160,
+      "name": "She Got the Best of Me",
+      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -547,8 +547,8 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 183160,
-      "name": "She Got the Best of Me",
-      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
+      "duration_ms": 222533,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Brett Young",
-        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 224853,
-      "name": "In Case You Didn't Know",
-      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Kane Brown",
         "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 188253,
       "name": "What Ifs (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Brett Young",
+        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 224853,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "That's My Kind Of Night",
+      "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Rearview Town",
         "url": "https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+        "name": "Tyler Hubbard",
+        "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 190186,
-      "name": "That's My Kind Of Night",
-      "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
+      "duration_ms": 179640,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -955,26 +971,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -991,18 +987,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Tyler Hubbard",
-        "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 179640,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "Toes",
+      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Blacktop",
         "url": "https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 229400,
       "name": "Dirt Road Anthem",
       "url": "https://open.spotify.com/track/5ZVGvay4xwgXMnQWffNYeU"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 262773,
-      "name": "Toes",
-      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Haywire",
-        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Why Don't We Just Dance",
-      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Outskirts",
         "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 182706,
       "name": "Outskirts",
       "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Haywire",
+        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Why Don't We Just Dance",
+      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Mr. Misunderstood",
-        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Record Year",
-      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Take A Back Road",
         "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 209426,
       "name": "Take A Back Road",
       "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Record Year",
+      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Somethin' 'Bout A Truck",
-      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Somethin' 'Bout A Truck",
+      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "JEKYLL + HYDE",
-        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
+      "duration_ms": 166035,
+      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+        "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 166035,
-      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
-      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
+      "duration_ms": 205000,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
     },
     {
       "added_at": "2024-03-22 04:01:00",

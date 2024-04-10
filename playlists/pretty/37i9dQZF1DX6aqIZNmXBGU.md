@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,362 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,361 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 34 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 |
 | 35 | [Remember Me](https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Sundown Syndrome / Remember Me](https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe) | 4:21 |
 | 36 | [Medication](https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 1:54 |
-| 37 | [Leash \- Remastered](https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:08 |
-| 38 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
+| 37 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
+| 38 | [Leash \- Remastered](https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:08 |
 | 39 | [Sick Shit](https://open.spotify.com/track/14q1CWouLEjFT6zu5re8hR) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 4:06 |
 | 40 | [No Waves](https://open.spotify.com/track/1IqHrcsmlkHR8k1jzqH4Ki) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/5JMfv67IC3DqCIAbWS0muC) | 2:14 |
 | 41 | [Toe Cutter \- Thumb Buster](https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Tall Man Skinny Lady](https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa) | 4:02 |
 | 60 | [Glazin'](https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [Glazin'](https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69) | 3:23 |
 
-Snapshot ID: `MCw1Mjg3Njg4ZTE0YjlhMjYzMGEwMzExZThmMDAyNmEzZDQ3NmZhOGZm`
+Snapshot ID: `MCw2YzQyNjZmZGJlODA4OGMyM2JmZDRmZDNmN2NiZTdmOTk1MDU3YmQw`

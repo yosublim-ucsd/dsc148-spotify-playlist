@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: OlivetheBoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,816 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,878 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
 | 50 | [4LYFE](https://open.spotify.com/track/3E82zcjEqhMyr65katLaBN) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/28H5B4xD6bqVuaftoI4Vur) | 2:47 |
 
-Snapshot ID: `MCwyZjUyNjA0OWY5NzRhZmNmNTNhOGUyNDc0MGNiOTIyM2VlOTdlNmQ1`
+Snapshot ID: `MCwwNjliOGFhODdjNjU5NWNiNTE2NWZlODRmN2U3NWU3MTdkZTYyYjQ1`

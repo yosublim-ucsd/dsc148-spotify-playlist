@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 237867,
+  "2024-04-10": 237911,
   "date_first_scraped": "2022-01-17",
   "description": "Ride the bassline. Cover: Don Diablo & Major Lazer",
   "name": "Bangers",
@@ -3399,7 +3399,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 151384,
       "name": "DUST",
       "url": "https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4"
@@ -12801,6 +12801,24 @@
       "duration_ms": 277298,
       "name": "The Veldt Cinema - BYNX Edit",
       "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
+    },
+    {
+      "album": {
+        "name": "The Weekend / Control the Media",
+        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178921,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
       "album": {

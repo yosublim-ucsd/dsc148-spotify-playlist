@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain without the S
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,397 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,521 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,17 +55,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 45 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 |
 | 46 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 |
 | 47 | [Kiwi](https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 2:56 |
-| 48 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
-| 49 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 |
-| 50 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 |
-| 51 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
+| 48 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 |
+| 49 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
+| 50 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
+| 51 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 |
 | 52 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 53 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
 | 54 | [The Downfall Of Us All](https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:29 |
-| 55 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
-| 56 | [Animal](https://open.spotify.com/track/2RZWiishrE4Tygv9R7zuZe) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR) | 2:40 |
-| 57 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
-| 58 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
+| 55 | [Animal](https://open.spotify.com/track/2RZWiishrE4Tygv9R7zuZe) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR) | 2:40 |
+| 56 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
+| 57 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
+| 58 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 59 | [Partners in Crime \(feat\. Ash Costello\)](https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [Ash Costello](https://open.spotify.com/artist/0PlJKkYgy1TSV15E2cHefn) | [Cinematics \(Expanded Edition\)](https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6) | 3:31 |
 | 60 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
 | 61 | [Twin Size Mattress](https://open.spotify.com/track/4LKp7Whi6HvHCsBlftJr9m) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/0PDvD9PL4X7KSczUKmdV8x) | 4:24 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 95 | [Bad Day](https://open.spotify.com/track/5IzJBDURDhsfIWXE2kGvWb) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:33 |
 | 96 | [Turbulent](https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:42 |
 | 97 | [Be My Escape](https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:00 |
-| 98 | [Right Now](https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Now You See Inside](https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z) | 2:47 |
-| 99 | [Drama Queen](https://open.spotify.com/track/0zpED2T1oWwb76RbPA8qiT) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Drama Queen](https://open.spotify.com/album/572GaXZzA7xBEnZQxci4FE) | 2:29 |
+| 98 | [Drama Queen](https://open.spotify.com/track/0zpED2T1oWwb76RbPA8qiT) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Drama Queen](https://open.spotify.com/album/572GaXZzA7xBEnZQxci4FE) | 2:29 |
+| 99 | [Right Now](https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Now You See Inside](https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z) | 2:47 |
 | 100 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2FnrUcdLWId0F13GT32ugT) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0f4hb7W851uRRZ1GJDlGGN) | 3:35 |
 
-Snapshot ID: `MCwyM2M0YjJiOWEwMzQwZWQ0OGM5Nzg0N2ExNDlmYjIzODA0ZjgzYWZh`
+Snapshot ID: `MCxjOGZiZTBjY2JmODQ0YWFlYzcwNWQwMDA3ZTQ3NTU2ZGU3YzFkOGY3`

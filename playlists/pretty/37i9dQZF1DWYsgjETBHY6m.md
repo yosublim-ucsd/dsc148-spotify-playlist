@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 
 > 유저별 맞춤으로 추천되는 힙한 노래들을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,161 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,335 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 24 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
 | 25 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 |
 | 26 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
-| 27 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 |
-| 28 | [Aye \(feat\. Travis Scott\)](https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:27 |
+| 27 | [Aye \(feat\. Travis Scott\)](https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:27 |
+| 28 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 |
 | 29 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 |
 | 30 | [bigger thën everything](https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [bigger thën everything](https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9) | 3:38 |
-| 31 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 |
-| 32 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
+| 31 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
+| 32 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 |
 | 33 | [back to the moon](https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:13 |
 | 34 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
 | 35 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 49 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 | 50 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 
-Snapshot ID: `MCw2YmQ2MjQ4YWRiZGQzOGIzMTJkNWU5N2I0MmVkMWJmMDlhZWJiYWQ1`
+Snapshot ID: `MCw1OGZkMzZmM2Y5MzYzMjU1ZWM1MjQ1ZDI2MjJjMGRlNjJiZjY1ODcy`

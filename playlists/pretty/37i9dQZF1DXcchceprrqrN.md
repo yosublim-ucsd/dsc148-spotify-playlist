@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,352 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,398 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 19 | [Falling Apart](https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:46 |
 | 20 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 21 | [Walking Into A Wall](https://open.spotify.com/track/2XaTuY33rg6nbeDS9wzx6P) | [Eva Haze](https://open.spotify.com/artist/0L0GAoyR21K6Kf5cKVdh8g) | [Under The Tin Sky](https://open.spotify.com/album/21hTKaDybZTrIiC48zDsZA) | 4:23 |
-| 22 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
+| 22 | [Cop Car](https://open.spotify.com/track/76uPM2ijcGSNinnRQmWMJF) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC) | 3:08 |
 | 23 | [Once then we'll be free](https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Once then we'll be free](https://open.spotify.com/album/4vIM3lUezeQRsuevPU1h4N) | 3:23 |
-| 24 | [Cop Car](https://open.spotify.com/track/76uPM2ijcGSNinnRQmWMJF) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC) | 3:08 |
+| 24 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
 | 25 | [Blood In The Cut](https://open.spotify.com/track/4q604hQba5940BbOoaenmz) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz) | 3:08 |
 | 26 | [Slowing Down](https://open.spotify.com/track/3or0KxkxTuUBMyH46BnxyH) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Slowing Down](https://open.spotify.com/album/4hWbG5v0oFSoltH6EEYLcV) | 1:55 |
 | 27 | [bird](https://open.spotify.com/track/6aC2oJJirBozj0cT6E2g1t) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [return](https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss) | 1:42 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 54 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
 | 55 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
 | 56 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 |
-| 57 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
-| 58 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
+| 57 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
+| 58 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
 | 59 | [Kill Me](https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:20 |
 | 60 | [GOOD GRIEF](https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BUMMER](https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz) | 2:58 |
 | 61 | [Crust Bucket](https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [The Frights](https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0) | 4:19 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 71 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
 | 72 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 |
 | 73 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 |
-| 74 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
-| 75 | [X\-RAY](https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["DESTRUCTION FOR DUMMIES", PT\. 2 JEAN DAWSON AS "NIGHTMARE"](https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO) | 3:09 |
+| 74 | [The Same](https://open.spotify.com/track/7tcmxexcz66H462fzWsAsA) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ) | 2:31 |
+| 75 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
 
-Snapshot ID: `MCw4NjFmZTNkNjFhM2Y2ZThmMTMwYTEyNDRmMGYzNDZhZGI0OTBjYmU4`
+Snapshot ID: `MCxmYTU4OTMwZDZjMTI3NzRiYjc1OWFjOGJiMDk3ZjAzZGM3NTU4MTQ4`

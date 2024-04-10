@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,913,069 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,913,254 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 64 | [I Just Need \(with Lyrah\)](https://open.spotify.com/track/6JbeNVHHrvRGY9BjB8hmkR) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [I Just Need \(with Lyrah\)](https://open.spotify.com/album/5UhCTYiNNiL26OSebdWUck) | 2:26 |
 | 65 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 |
 | 66 | [Black Ice](https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Black Ice](https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME) | 4:20 |
-| 67 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
+| 67 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
 | 68 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
 | 69 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 |
 | 70 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 |
 | 75 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 |
 
-Snapshot ID: `MCwzZWM1MzYyM2M2ZDIwZmQ5Y2U0MWUwZDc4MmVmYzQ0YjJmOTMzNGZk`
+Snapshot ID: `MCwzNjdhMTI0MWRkZDA5NDQxNzkzNDhiN2ZmZjllN2NlYTE1ODU1YmZm`

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Avenoir
 
-1,140 songs - 2 day 12 hr 26 min
+1,141 songs - 2 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [All Masks \[Feat\. Masego\]](https://open.spotify.com/track/7BaROUi0CXU9OA641Tf5en) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [All Masks](https://open.spotify.com/album/55VodNSNlKHakwsAErxaQx) | 4:30 | 2022-07-29 | 2022-09-24 |
 | [all on me](https://open.spotify.com/track/7Bqk3RPCq9QJDWF8WR0vXP) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [all on me](https://open.spotify.com/album/0lNXXDUQyEWrpnQJXWuO8S) | 2:47 | 2022-08-19 | 2022-09-10 |
 | [ALL THAT U WANT](https://open.spotify.com/track/1jHq0Xqbb49WLRUq0kMFzz) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [ALL THAT U WANT](https://open.spotify.com/album/3BGrYo5OCTJgm8VN01wos7) | 2:20 | 2023-11-10 | 2024-01-27 |
-| [All the Noise](https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [All the Noise](https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D) | 4:09 | 2023-10-13 |  |
+| [All the Noise](https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [All the Noise](https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D) | 4:09 | 2023-10-13 | 2024-04-10 |
 | [All The Same](https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [All The Same](https://open.spotify.com/album/647eOV9vqw5QiTbbfYw5i5) | 3:28 | 2023-04-07 | 2023-08-15 |
 | [All They Wanna Do](https://open.spotify.com/track/1z3GRT22Vm8FWwadTqoxuq) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [All They Wanna Do](https://open.spotify.com/album/10R0owBaqbjtUM5A8XeSYN) | 2:38 | 2022-06-10 | 2022-07-22 |
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2021-03-25 | 2022-06-28 |
@@ -211,6 +211,7 @@
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-01-28 | 2022-07-29 |
 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 | 2021-03-19 | 2022-07-05 |
 | [circles](https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [circles](https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc) | 2:28 | 2024-03-08 | 2024-03-24 |
+| [circles](https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:28 | 2024-03-08 |  |
 | [City of Angels](https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [City of Angels](https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q) | 2:10 | 2022-08-12 | 2022-10-10 |
 | [Clear My Mind](https://open.spotify.com/track/47zF41JzRRdJEJQPXlDQvz) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Clear My Mind](https://open.spotify.com/album/7DWz3qJP7YjXwhoEknFpz0) | 2:35 | 2022-04-01 | 2022-04-16 |
 | [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 | 2024-03-16 |

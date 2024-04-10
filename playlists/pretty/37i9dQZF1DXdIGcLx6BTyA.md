@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,949 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,952 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 36 | [Losing Side of Twenty Five](https://open.spotify.com/track/2PXumYrwMjU2lF5yxFVYhs) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Wolves](https://open.spotify.com/album/37qnyTNIEoahRSVaNzcKMK) | 3:34 |
 | 37 | [Whitehouse Road](https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 4:40 |
 | 38 | [Hippie Radio](https://open.spotify.com/track/5cspm8JbU1gr3URl9EOzBM) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Desperate Man](https://open.spotify.com/album/5TjDN2hfsgNWVtP8Ew56Xx) | 2:54 |
-| 39 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
+| 39 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 |
 | 40 | [Hope the High Road](https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:03 |
 | 41 | [Breakers Roar](https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:32 |
-| 42 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 |
+| 42 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
 | 43 | [Rodeo Clown](https://open.spotify.com/track/0rbXbCiZAocA7bYP8JbQx2) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 2](https://open.spotify.com/album/4UvP4sa5O6YQP1xr7Yb1xK) | 3:13 |
 | 44 | [Jingle and Go](https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:52 |
 | 45 | [Ain't A Road Too Long](https://open.spotify.com/track/61KyJ3aQJYu4tpJEmQOHdw) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Providence Canyon](https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj) | 3:41 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 51 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 4:40 |
 | 52 | [Colder Than You](https://open.spotify.com/track/3AW4xZ2oFND8DUA35poagQ) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [High Country Sound](https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za) | 3:21 |
 | 53 | [Best Years of My Life](https://open.spotify.com/track/6mTSw3gE4k9U7CK8pzX9c0) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 3:42 |
-| 54 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 |
-| 55 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 |
+| 54 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 |
+| 55 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 |
 | 56 | [Small Town Hypocrite](https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Small Town Hypocrite](https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ) | 4:02 |
 | 57 | [Hang In There Girl](https://open.spotify.com/track/1z0HE4db7hwjjnyL4O0nbC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:49 |
 | 58 | [Time to Move On](https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Asunder](https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8) | 3:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 79 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 |
 | 80 | [Lotta Fun](https://open.spotify.com/track/4Qpm33fWxkNNV4wJ0rTLYE) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 2:57 |
 
-Snapshot ID: `MCxkNzhjYTJlNDEwNmQ0NDI2ZGVlYWZlZmZjOTQ4NDlhODE4N2QzM2Yx`
+Snapshot ID: `MCxhY2EwMWQxYjI2Nzk4NDRkMjJmYzIxY2YyY2I3YTMyZWRmY2YwYjQ1`

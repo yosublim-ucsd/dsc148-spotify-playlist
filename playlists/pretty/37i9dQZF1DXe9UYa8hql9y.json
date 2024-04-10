@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Fiesta y m\u00e1s fiesta hasta que sala el sol!",
-  "num_followers": 72411,
+  "num_followers": 72397,
   "original_name": "AFERRAFTER ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGUxNWFiYmE1ZDU4Yjk3NDdkM2IwNDRmMDAzNTIxN2RiNDEzZGNm",
+  "snapshot_id": "MCxkZDIxYjM5Y2E1NDY4MjRiYWM3YjYzZjAyZWVlZTI4MWJmMjIwMDE4",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 152500,
       "name": "SI SABE FERXXO",
       "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "MONEY EDITION",
         "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 158841,
       "name": "MONEY EDITION",
       "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1639,22 +1639,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 160897,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -1715,18 +1695,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1743,6 +1727,22 @@
       "duration_ms": 233064,
       "name": "Tocame",
       "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2024-03-29 06:00:00",

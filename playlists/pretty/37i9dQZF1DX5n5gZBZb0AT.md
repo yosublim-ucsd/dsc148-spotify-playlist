@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,563 likes - 40 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,572 likes - 40 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 |
 | 40 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
 
-Snapshot ID: `MCxhZjBkZGM4MDIzOTQ3Y2MzYjNlM2M3MTUzNWE0MmFlMWI4ZWVkYzgz`
+Snapshot ID: `MCwxNzQ1MjA0MDEwNmMyZjUzNmI4ZDI0Yjg4ZTg2NDFjNjAxODcwYTFj`

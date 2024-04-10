@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Kamasi Washington
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,976 likes - 100 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,125 likes - 100 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 17 | [Zeuhl Energy Drink \- Triangle Cut](https://open.spotify.com/track/6LAQjoDwjnTvrHknb8PcLa) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Zeuhl Energy Drink \(Triangle Cut\)](https://open.spotify.com/album/5SByvhFmXRp8pAISDMzieu) | 2:53 |
 | 18 | [All Black Everything](https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [All Black Everything](https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng) | 5:06 |
 | 19 | [Exoplanet](https://open.spotify.com/track/6j1ChNSkJNqz8xgbXCS2xW) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Bubby Lewis](https://open.spotify.com/artist/2foDHsfpet3NNYdYhfK8Fc), [Ian Roller](https://open.spotify.com/artist/2U1QLrd5GARYpZtPbHbAAn) | [Natural Resolve](https://open.spotify.com/album/3Cx9pTCk3Mif9TGYCXM1k2) | 2:16 |
-| 20 | [De Quebrada](https://open.spotify.com/track/0emWo87AFkcP1kSif4uK5g) | [Jogo Duro](https://open.spotify.com/artist/3kvrluYG46ZHWoRP79XOmx), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Jogo Duro](https://open.spotify.com/album/4QMewZ45VWxChlrUeO5DbG) | 5:40 |
+| 20 | [De Quebrada](https://open.spotify.com/track/0emWo87AFkcP1kSif4uK5g) | [Jogo Duro](https://open.spotify.com/artist/3kvrluYG46ZHWoRP79XOmx), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Zé Nigro](https://open.spotify.com/artist/2gPKUWOiCVJK5v1yJUHTpj), [Guizado](https://open.spotify.com/artist/4NPJKSHs1jS8WnNluRkwia), [Samuel Fraga](https://open.spotify.com/artist/2mpAj2D2BoMz4ra17HOt7V), [Chicao](https://open.spotify.com/artist/1kkb0jK0tfP38dHvdgPCEi), [Tony Gordin](https://open.spotify.com/artist/038cgR3JY9LjfO5Uaas1Rf) | [Jogo Duro](https://open.spotify.com/album/4QMewZ45VWxChlrUeO5DbG) | 5:40 |
 | 21 | [Outer Sea](https://open.spotify.com/track/1XIgbKMs3Jf9n5QCuT7QTf) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Uniri](https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA), [Amané Suganami](https://open.spotify.com/artist/6oUpfsBBLUsGlpMZng9QbT), [Al MacSween](https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu), [Luke Wynter](https://open.spotify.com/artist/2n5NBtzyUBpq0LuWXyknFk) | [Infinite Reflections](https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0) | 4:17 |
 | 22 | [Save My Soul](https://open.spotify.com/track/2MZAwZ12Dl642ZuOeZljXM) | [Rachel Z](https://open.spotify.com/artist/6pUSMIMkWhKJFSK6YwmB0P), [Omar Hakim](https://open.spotify.com/artist/6jJcdCcI6czvcCnM1D1lWg) | [Save My Soul](https://open.spotify.com/album/19AEtL2nAaWK9pkph4nvmq) | 6:02 |
 | 23 | [Moving Through](https://open.spotify.com/track/7HzgszlXmrnOMa4cL41DKu) | [Claudio Suriano](https://open.spotify.com/artist/0De3Dvr1ay9ZwNeIbpX0c8), [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb), [Johannes Bohn](https://open.spotify.com/artist/15T9XvfSxGG4PLCOzbw3XL) | [Moving Through](https://open.spotify.com/album/2kRKKSj5Ro3bP8jNDjNLDH) | 5:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Fortify](https://open.spotify.com/track/0oD4SYLAvCK5PI38bUK2jc) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Fortify](https://open.spotify.com/album/74mZzqkL5nvDDyBGbyMX0g) | 5:49 |
 | 100 | [early](https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 3:56 |
 
-Snapshot ID: `MCw5ZTdkNWU1OTVkNjczMWM1NGIwZjdhM2Q5MzM5NjIwYTZjZGM1OTNm`
+Snapshot ID: `MCw5MTJkYzljNTI3N2NlMWUyMmY1ZjYyM2Q0MmMzZGQ3YTlhNjhkZDY2`

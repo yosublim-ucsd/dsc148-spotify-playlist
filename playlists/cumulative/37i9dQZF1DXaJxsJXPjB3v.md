@@ -4,7 +4,7 @@
 
 > Revisit the best Kwaito songs ever released\. Cover: Bongo Maffin
 
-88 songs - 7 hr 49 min
+90 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 | 2022-05-08 |  |
 | [Fohloza](https://open.spotify.com/track/3DKfxpqCVoWmqObaLbkWLy) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Mapantsula](https://open.spotify.com/album/3sc7RKWeBiYxA1uRe7xghs) | 7:03 | 2022-04-25 | 2023-04-05 |
 | [Fohloza](https://open.spotify.com/track/3bJ1H9XkqkKjXEeidp9Qm4) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Mapantsula](https://open.spotify.com/album/14x1u7Nyu6nlhKFxeAUcyc) | 7:03 | 2022-04-25 |  |
-| [Ghets Ghetsa](https://open.spotify.com/track/11Uc9JBy59hJNB99TyC9pJ) | [Doc Shebeleza](https://open.spotify.com/artist/4FdeMdW9yGUe580u1pK0DB) | [S'kumfete](https://open.spotify.com/album/1GgqdXa6jVVVGj9Hui743C) | 5:47 | 2022-04-25 |  |
+| [Ghets Ghetsa](https://open.spotify.com/track/11Uc9JBy59hJNB99TyC9pJ) | [Doc Shebeleza](https://open.spotify.com/artist/4FdeMdW9yGUe580u1pK0DB) | [S'kumfete](https://open.spotify.com/album/1GgqdXa6jVVVGj9Hui743C) | 5:47 | 2022-04-25 | 2024-04-10 |
+| [Ghets Ghetsa](https://open.spotify.com/track/60V8AB9b0yzGeQBpDliW5s) | [Doc Shebeleza](https://open.spotify.com/artist/4FdeMdW9yGUe580u1pK0DB) | [S'kumfete](https://open.spotify.com/album/0GxgWwGLlul7YXxelBlkWM) | 5:47 | 2024-02-16 |  |
 | [Ghetto Scandalous](https://open.spotify.com/track/1L8CvSH5HDLo0dpW8zlmUM) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Mdlwembe](https://open.spotify.com/album/6p14EmutdSfbNqBSQzRJK2) | 4:47 | 2022-04-25 |  |
 | [Ghetto Scandalous](https://open.spotify.com/track/1wavXriWVmKWLtifITmxRW) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Umdlwembe](https://open.spotify.com/album/2dNSDmz3RuSlZyrub1plco) | 4:47 | 2022-04-25 | 2023-01-29 |
 | [Girls \- House Mix](https://open.spotify.com/track/643NMYHAgwj8EUm60lAdBy) | [Aba Shante](https://open.spotify.com/artist/1QzbZCzJIHfCrUZCkhfn0n) | [Girls](https://open.spotify.com/album/5yuAUEG0eeQeW3uMUHnKTd) | 5:56 | 2022-05-08 |  |
@@ -41,7 +42,8 @@
 | [Klaimar](https://open.spotify.com/track/7yd9B48OQSRTUG2oKEoPXr) | [Chiskop](https://open.spotify.com/artist/7wTsm3OFBk9W6BwPponZYt) | [Bash Mix 2](https://open.spotify.com/album/3jXFnAfB1GglFH95qcl1vA) | 4:03 | 2022-04-25 |  |
 | [Kleva](https://open.spotify.com/track/5RTDTOmZNe16758vrx6qnX) | [Mapaputsi](https://open.spotify.com/artist/22IsfJqYsmzkvuOdUZjBld) | [Kleva](https://open.spotify.com/album/6HGVwDKHwADl1R8b7VfnJD) | 5:03 | 2022-04-25 | 2023-10-26 |
 | [Kleva](https://open.spotify.com/track/5VX9a7wZnmUxz9GYitUUnL) | [Mapaputsi](https://open.spotify.com/artist/22IsfJqYsmzkvuOdUZjBld) | [Kleva](https://open.spotify.com/album/0HebnpUN8kWRNzbzELXqpm) | 5:03 | 2022-04-25 |  |
-| [Kortes \(Kasi Luv\)](https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws) | [Mshoza](https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44) | [BullDawgz First Lady](https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g) | 5:01 | 2022-04-25 |  |
+| [Kortes \(Kasi Luv\)](https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws) | [Mshoza](https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44) | [BullDawgz First Lady](https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g) | 5:01 | 2022-04-25 | 2024-04-10 |
+| [Kortes \(Kasi Luv\)](https://open.spotify.com/track/6fsfp8i7LQPtLhKUf0OSFr) | [Mshoza](https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44) | [BullDawgz First Lady](https://open.spotify.com/album/36oAuFI8ArWu6F9qNgXzbl) | 5:01 | 2024-02-16 |  |
 | [Lost 'N Found](https://open.spotify.com/track/5bi5ot0tC37XOORKfehoRy) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Lost 'N Found](https://open.spotify.com/album/7FuyJJkcr7HPaCDZUUv8ys) | 5:03 | 2022-04-25 |  |
 | [M'du Or Die \(U Leave Once\)](https://open.spotify.com/track/3HeRoFFma480WyN7hHgm91) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:53 | 2022-04-25 | 2024-02-17 |
 | [Ma Bankbook](https://open.spotify.com/track/4ru4VcAOmoA8aYdEKVIa73) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Always Da Case](https://open.spotify.com/album/5ZL4Mf3do60ZcBtyzlVonT) | 7:04 | 2022-04-25 |  |

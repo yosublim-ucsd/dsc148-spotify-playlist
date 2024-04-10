@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "closer",
+        "url": "https://open.spotify.com/album/44ZRGnsdTom76RKEsCHSkN"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176198,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/36J08RU5mlBaKPcNdkxLoa"
+    },
+    {
+      "album": {
         "name": "Cloudberry Fields",
         "url": "https://open.spotify.com/album/7wCDMTG9yVQhGY8Vb6FyS4"
       },

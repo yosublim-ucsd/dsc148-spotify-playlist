@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs hits Pop du Maghreb sont ici\. Cover: Zouhair Bahaoui
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,500 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,527 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 59 | [La Grinta](https://open.spotify.com/track/0GZ5TN2SnpfUyx4nkaXT0o) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [La Grinta](https://open.spotify.com/album/10wrdFXjPKazGA8wnjPujS) | 2:40 |
 | 60 | [Malak](https://open.spotify.com/track/3Xj2v1c3y5rm9L7CjmSCrA) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Malak](https://open.spotify.com/album/4FGAjuNQNKJDpkw2ufs6B0) | 3:04 |
 
-Snapshot ID: `MCxkZGI0NGVjZTM3ZWY0YjVlOTM5Yzk5YWZkNDQ0YmE3YzI0ZmYyOGE5`
+Snapshot ID: `MCw0MmQ1NDNhYWVhYzEwMDUwMWE4NWE3Mzg0OTQ0NmZmZTlkNWFjNDgx`

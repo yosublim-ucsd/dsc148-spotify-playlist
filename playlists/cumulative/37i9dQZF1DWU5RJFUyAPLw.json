@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 202826,
       "name": "desde que estas en mi vida",
       "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
@@ -1408,6 +1408,36 @@
       "duration_ms": 228162,
       "name": "Quiero Quedarme",
       "url": "https://open.spotify.com/track/62NQL85GaZA7FE1ejQQgkE"
+    },
+    {
+      "album": {
+        "name": "Saudade (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6xDivDPrVwD7W7VymeNFQS"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        },
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        },
+        {
+          "name": "Los Hermanos Naturales",
+          "url": "https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296671,
+      "name": "Saudade - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2BKj0Pf4phfcBRtoglzINN"
     },
     {
       "album": {

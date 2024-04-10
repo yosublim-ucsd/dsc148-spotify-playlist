@@ -1,12 +1,12 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2132721,
+  "num_followers": 2133007,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTFlMTczOTY0ODU3NDM3ODI2MTcyYjFlZGFhZjYyODQ1N2RjYmQ1",
+  "snapshot_id": "MCxlMzJjZWU3ZDQ2MmMxMDA3Yzk2YmZjMzdiOTk1MDMxZGU1YzIzZTdh",
   "tracks": [
     {
       "added_at": "2024-04-05 20:27:41",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 229331,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
-    },
-    {
-      "added_at": "2024-04-05 20:27:41",
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
+    },
+    {
+      "added_at": "2024-04-05 20:27:41",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -815,38 +815,6 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
-    },
-    {
-      "added_at": "2024-04-05 20:27:41",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
-    },
-    {
-      "added_at": "2024-04-05 20:27:41",
-      "album": {
         "name": "\u00bfC\u00f3mo Pas\u00f3?",
         "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
       },
@@ -863,6 +831,22 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
+    },
+    {
+      "added_at": "2024-04-05 20:27:41",
+      "album": {
         "name": "something to remember",
         "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 162224,
       "name": "something to remember",
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
+    },
+    {
+      "added_at": "2024-04-05 20:27:41",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -1019,26 +1019,18 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 172268,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -1063,6 +1055,30 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
+    },
+    {
+      "added_at": "2024-04-05 20:27:41",
+      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2024-04-05 20:27:41",
-      "album": {
-        "name": "curita",
-        "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "curita",
-      "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
-        "name": "Tell Ur Girlfriend",
-        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+        "name": "curita",
+        "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
       },
       "artists": [
         {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 124444,
-      "name": "Tell Ur Girlfriend",
-      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+      "duration_ms": 145000,
+      "name": "curita",
+      "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
+        "name": "Love U Like That",
+        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Love U Like That",
+      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
+    },
+    {
+      "added_at": "2024-04-05 20:27:41",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
-    },
-    {
-      "added_at": "2024-04-05 20:27:41",
-      "album": {
-        "name": "Love U Like That",
-        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Love U Like That",
-      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 260120,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
+    },
+    {
+      "added_at": "2024-04-05 20:27:41",
+      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 158133,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
-    },
-    {
-      "added_at": "2024-04-05 20:27:41",
-      "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
-    },
-    {
-      "added_at": "2024-04-05 20:27:41",
-      "album": {
         "name": "Sugar Sweet",
         "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 169839,
       "name": "Sugar Sweet",
       "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
+    },
+    {
+      "added_at": "2024-04-05 20:27:41",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     },
     {
       "added_at": "2024-04-05 20:27:41",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-04-05 20:27:41",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+        "name": "Empires On Fire",
+        "url": "https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
         }
       ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+      "duration_ms": 219800,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
     }
   ],
   "unique_name": "Daily Lift",

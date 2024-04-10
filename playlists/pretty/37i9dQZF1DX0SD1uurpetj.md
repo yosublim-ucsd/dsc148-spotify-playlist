@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 
 > Take a bite out of the official playlist for Vampire Academy, streaming Thursdays on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,107 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,112 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 | 66 | [Walking On Fire](https://open.spotify.com/track/5OqHkOKpkNb5YeVS8NCP1X) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS) | [Walking On Fire](https://open.spotify.com/album/00eOzgNWZx6MZPUQJMZP3d) | 3:29 |
 | 67 | [Ride of Your Life](https://open.spotify.com/track/4yL1td9LfwBEILSqBDfTk5) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie) | [Ride of Your Life](https://open.spotify.com/album/5mud1u4a94wr9izYkfTtxR) | 2:28 |
 
-Snapshot ID: `MCw0ZDllOGI5ZTZkM2U4ZDA5OWVkM2FhZTlmODZkMjI0OWM2Yjc1ZWYx`
+Snapshot ID: `MCwwN2U4Yzk5NWJiNzZhMDg2NTM5M2JjMjEyM2I3MjQwMTExNTBhODcz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Spyro
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,497 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,562 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 49 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
 | 50 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 |
 | 51 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
-| 52 | [Oscroh \(Pepperline\)](https://open.spotify.com/track/5Trqt6aqWnhqAcWS4Zto7v) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Oscroh \(Pepperline\)](https://open.spotify.com/album/3t6Awr5SrYlepeBSzC83sg) | 2:44 |
-| 53 | [Off The Planet \(OTP\)](https://open.spotify.com/track/6d7Y7oakb02D3Ijq8Emgeu) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [Off The Planet](https://open.spotify.com/album/39Tw8URr2qPFwbQctMDWUb) | 2:37 |
+| 52 | [Off The Planet \(OTP\)](https://open.spotify.com/track/6d7Y7oakb02D3Ijq8Emgeu) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [Off The Planet](https://open.spotify.com/album/39Tw8URr2qPFwbQctMDWUb) | 2:37 |
+| 53 | [Oscroh \(Pepperline\)](https://open.spotify.com/track/5Trqt6aqWnhqAcWS4Zto7v) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Oscroh \(Pepperline\)](https://open.spotify.com/album/3t6Awr5SrYlepeBSzC83sg) | 2:44 |
 | 54 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 55 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 |
-| 56 | [Metro](https://open.spotify.com/track/3ncCdwV4rnFY9YNzsh4KGo) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Yo X](https://open.spotify.com/artist/5Dv0JAo4jUBcrG1rHzCzcV) | [Metro](https://open.spotify.com/album/3SIBRVHyi8IkfXig7nFhiq) | 2:10 |
-| 57 | [Don Perignon](https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:09 |
+| 56 | [Don Perignon](https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:09 |
+| 57 | [Metro](https://open.spotify.com/track/3ncCdwV4rnFY9YNzsh4KGo) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Yo X](https://open.spotify.com/artist/5Dv0JAo4jUBcrG1rHzCzcV) | [Metro](https://open.spotify.com/album/3SIBRVHyi8IkfXig7nFhiq) | 2:10 |
 | 58 | [Tiff](https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Tiff](https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO) | 2:12 |
-| 59 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
-| 60 | [Wire](https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
+| 59 | [P.P.P \(Puff Puff Pass\)](https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [BOYAHNAH](https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9) | 2:04 |
+| 60 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
 
-Snapshot ID: `MCxjYTE3OTk2YmRiZTRjOTY2NDI2YWFlMjQ0ZWQzZGM5OWIwNTE5MTBj`
+Snapshot ID: `MCwzMGQ4NTI3ZGRlMzk0MmE1ZTIwODdiMGE0YWNkMjM5MWE3YzQ3NGRl`

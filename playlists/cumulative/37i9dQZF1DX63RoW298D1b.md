@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-165 songs - 6 hr 56 min
+167 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Libélula](https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Libélula](https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT) | 2:45 | 2023-05-09 |  |
 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 | 2023-07-04 |  |
 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-05-09 |  |
+| [Little Things](https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Things](https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn) | 2:10 | 2024-04-09 |  |
 | [Longing](https://open.spotify.com/track/7jL00x2jA5kyTuaqqf8PYq) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI) | [Echoes of Home](https://open.spotify.com/album/7yCqK5TU8KBZM4MeyHqydu) | 2:22 | 2023-12-12 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2023-05-09 |  |
 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 | 2023-05-09 |  |
@@ -131,6 +132,7 @@
 | [Sailing Across the Sky](https://open.spotify.com/track/4jeijuya1Z2WR8JWVFmov1) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Sailing Across the Sky](https://open.spotify.com/album/34d8QFg1z5fqLFUZ7W8Nsm) | 3:04 | 2023-05-09 |  |
 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 | 2023-11-13 |  |
 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 | 2023-05-09 |  |
+| [Seceda](https://open.spotify.com/track/0bhgyVhN8V0GH26HgQisqE) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Seceda](https://open.spotify.com/album/2nVTO8rEyqhORMFRrlYUGt) | 2:59 | 2024-04-09 |  |
 | [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 | 2023-10-16 |  |
 | [Serenity](https://open.spotify.com/track/5ul8fmKLEXPOoxI2UB03Cl) | [Peighton](https://open.spotify.com/artist/1YUB5ogOMQkiMfYvaPIEPY) | [Serenity](https://open.spotify.com/album/3H4nRo9aqyV0W0CK0MyaRo) | 2:38 | 2023-05-09 |  |
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2023-05-09 |  |

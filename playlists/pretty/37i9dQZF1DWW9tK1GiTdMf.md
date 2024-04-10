@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ LA SAD in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,267 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,270 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 74 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 |
 | 75 | [paura fottuta](https://open.spotify.com/track/77zlroHqI96ZKLdrOi8ngP) | [zorah](https://open.spotify.com/artist/0bQwlyGwzbEUqB0p3m2YM6) | [paura fottuta](https://open.spotify.com/album/0VmFqITJ9nvF7edEfiwEGt) | 2:46 |
 
-Snapshot ID: `MCwwZjk1OGQyODk5OGVjY2FmN2VkZGMxNjZhOWZmMmNlNmRkNzlhNWYx`
+Snapshot ID: `MCxjZDk5ZjI3YTcxNjVjMDYzMDBhYmUxNDNkNGU1M2RiNjk3ZTE2ZmNi`

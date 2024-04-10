@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: WIINSTON
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,731 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,778 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [sugarcoat](https://open.spotify.com/track/1eOxQrohc4LaExjM64hYpJ) | [WIINSTON WORLD](https://open.spotify.com/artist/1Rw0l3EzSalgT8aM3p8dGB) | [sugarcoat](https://open.spotify.com/album/0fUNxwzyslKxKzVfw96hss) | 3:11 |
+| 1 | [sugarcoat](https://open.spotify.com/track/1eOxQrohc4LaExjM64hYpJ) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [sugarcoat](https://open.spotify.com/album/0fUNxwzyslKxKzVfw96hss) | 3:11 |
 | 2 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
 | 3 | [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 |
 | 4 | [Did It Make You Feel Like a Man](https://open.spotify.com/track/5cnkGhztZtEiAzZQcQ6lBy) | [bby ivy](https://open.spotify.com/artist/17aZjZK0Dqx0xGd05Ooo0R) | [Did It Make You Feel Like a Man](https://open.spotify.com/album/21QhudCvLFPqldoMRY7uP1) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Mysterious World](https://open.spotify.com/track/4yJtj2FogrwPGHDN6m55To) | [Mr\. Castle](https://open.spotify.com/artist/1fv1tv4Mz0L1OTQRyjeV4R) | [Mysterious World](https://open.spotify.com/album/1VJ2WFOmoH0TbKnMfwaQ1z) | 3:21 |
 | 100 | [Breathe In, Breathe Out](https://open.spotify.com/track/2tf69mAQzbEupQygqyO0a2) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Breathe In, Breathe Out](https://open.spotify.com/album/4bTmFYuvM6UeFiyT12aSww) | 4:26 |
 
-Snapshot ID: `MCxjNjJmMTdiN2E1M2VlNzk0N2Q3YjNiYTFmODljOTk2ZGNjZjY2NDE0`
+Snapshot ID: `MCw1N2U3Y2IxMGY4OWE2NTE1MGYzM2VkMWFhYzMxOGUyZmY3NTQ2OGQ2`

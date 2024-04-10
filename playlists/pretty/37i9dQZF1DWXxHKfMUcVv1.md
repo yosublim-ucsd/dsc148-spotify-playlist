@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,525 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,557 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 40 | [En Un Solo Dia](https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6) | [Negros](https://open.spotify.com/artist/3eA9KcIgfIe4siS6dByAb4), [Alina Vargas](https://open.spotify.com/artist/7uG4YWxqyeeSaZMnv7ekzV) | [Armadura De Rosas](https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF) | 3:09 |
 | 41 | [Amarte a la antigua](https://open.spotify.com/track/5aHoyryz0I6llzRyhPyEQR) | [Banda Santa Fe](https://open.spotify.com/artist/1qBjaneNSXBteutRVWFsgG) | [Banda Santa Fe, con más estilo...](https://open.spotify.com/album/2wcBjXnBHcj9aEpiXI9XNT) | 3:53 |
 | 42 | [Me Liberé](https://open.spotify.com/track/32qhajow0UHHPmNudtmfKK) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [Me Liberé](https://open.spotify.com/album/251i0oXvNIWZW05XMycMZQ) | 3:37 |
-| 43 | [Loquita](https://open.spotify.com/track/3Aws1K6BcnUjAwnfuGg3A1) | [Los Meketrefes](https://open.spotify.com/artist/62ZEevKR6rUJUm47unC5Jj) | [Los Meketrefes grandes exitos](https://open.spotify.com/album/72NwFvWV9HckI9kd5PFN8e) | 3:00 |
+| 43 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |
 | 44 | [Que Loco Amor](https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C) | [Cumbia Juan](https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:23 |
 | 45 | [Nena Buena](https://open.spotify.com/track/6mVv3xXy1P398JJcJwaFTq) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Nena Buena](https://open.spotify.com/album/68GJuJAXjGNo1XXa726aUR) | 2:33 |
-| 46 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |
+| 46 | [Loquita](https://open.spotify.com/track/3Aws1K6BcnUjAwnfuGg3A1) | [Los Meketrefes](https://open.spotify.com/artist/62ZEevKR6rUJUm47unC5Jj) | [Los Meketrefes grandes exitos](https://open.spotify.com/album/72NwFvWV9HckI9kd5PFN8e) | 3:00 |
 | 47 | [El Último Beso](https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz) | [Los Roller's](https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt) | [El Último Beso](https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4) | 2:32 |
 | 48 | [En La Luna Y En Marte](https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ) | [Rumberos](https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn) | [Rumbo a Tu Corazon](https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ) | 3:39 |
 | 49 | [Todo va a estar mejor](https://open.spotify.com/track/7dho4N5H5etH68vQkROikt) | [Bohemia Urbana](https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV) | [Macumba y Payé](https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg) | 2:39 |
 | 50 | [Una Cerveza](https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89) | [El Monchi Papa](https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB) | [Bailalo Como Quieras, Que Esto Cumbia Villera](https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV) | 3:35 |
 
-Snapshot ID: `MCwyNTUxNmY1OTA4ZjZkMTE1ZmM5OGJkOTkxY2E1OTg5OGU5YzAyYjcz`
+Snapshot ID: `MCxjNWZjOTA3NGNhODRmNGI2ZTk3OWZhOWRkNjU4NmYwMzU5MjJmZTAw`

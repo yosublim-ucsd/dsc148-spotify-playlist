@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDM2NDVhYmM4ZGZkODhkMWUxMWI1MGEzM2E3MGQ5Y2VkNDllNDcy",
+  "snapshot_id": "MCwyM2I0Y2RlZWExYWMwZmI4MDFjNmU4MzQ2ODI4ODM0NjhmM2JjN2Fl",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+        "name": "Only You Say It",
+        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 208480,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
+      "duration_ms": 200932,
+      "name": "Only You Say It",
+      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only You Say It",
-        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 200932,
-      "name": "Only You Say It",
-      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
+      "duration_ms": 208480,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
     },
     {
       "added_at": null,

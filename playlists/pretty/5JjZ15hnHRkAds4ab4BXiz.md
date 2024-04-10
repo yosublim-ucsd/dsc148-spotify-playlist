@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 156 songs - 10 hr 10 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 169 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,5 +164,18 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 154 | [American Gigolo](https://open.spotify.com/track/4dV49dm1XBRvsm2EUZQad4) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:42 |
 | 155 | [Dope Nose](https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:17 |
 | 156 | [Keep Fishin'](https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:52 |
+| 157 | [Between Love & Hate](https://open.spotify.com/track/5OmumaYiHYXUsYZPGLFTYJ) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:16 |
+| 158 | [Meet Me in the Bathroom](https://open.spotify.com/track/08l9WKDuRyGeStQ9ojTlFh) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:56 |
+| 159 | [Under Control](https://open.spotify.com/track/3kKb3U3a8jmUJQB9ypE1Jl) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:07 |
+| 160 | [The Way It Is](https://open.spotify.com/track/5MZBOcqI3Vpvp2PZy6ddyD) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:21 |
+| 161 | [The End Has No End](https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:05 |
+| 162 | [I Can't Win](https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:42 |
+| 163 | [Modern Girls & Old Fashion Men](https://open.spotify.com/track/4yVixayMpxm2MUGOePA192) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Modern Girls & Old Fashion Men](https://open.spotify.com/album/1JS6yTcVopsE6ROReK30ik) | 3:41 |
+| 164 | [Take Control](https://open.spotify.com/track/0UVtdmhl5Ds91x2nnjuzmi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 3:04 |
+| 165 | [Death And Destruction](https://open.spotify.com/track/6E6rY8reP0d4HU0xDiC264) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:38 |
+| 166 | [Slob](https://open.spotify.com/track/5dK5UBnOnmdf68I7qinfD9) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 3:08 |
+| 167 | [Slave](https://open.spotify.com/track/2puGRTU4wKLn6sPF5eUzmR) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:53 |
+| 168 | [Possibilities](https://open.spotify.com/track/4lYzgVFaTWuhiG3vBhRBk5) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 1:59 |
+| 169 | [Love Explosion](https://open.spotify.com/track/1nrStYl6bxZHP8nVXy4IlO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:34 |
 
-Snapshot ID: `MjE2LDYyNjY1YzZiNGQwNzNjYjc5NjM0YmY5ZmQ3NjRkOWFlYmI0MDdkNDg=`
+Snapshot ID: `MjI5LGMzNjA1ZjQ4YWNjNmZmZTk2ZTMyNjg5MDM4ZGY1YzZjMGFmZWZjMjc=`

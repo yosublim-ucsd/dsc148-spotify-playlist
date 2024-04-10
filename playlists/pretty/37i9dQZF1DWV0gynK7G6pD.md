@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Víkingur Ólafsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,649 likes - 89 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,782 likes - 89 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 49 | [A Sparrow Alighted Upon Our Shoulder](https://open.spotify.com/track/3ET6UT5DmWLFtRnjq4GHjN) | [Francesca Guccione](https://open.spotify.com/artist/1DH9QaxJXwzct8bPwiWZBa) | [A Sparrow Alighted Upon Our Shoulder](https://open.spotify.com/album/2QrpMN5z1nmfYwJCbq6TH9) | 2:27 |
 | 50 | [Pacifica](https://open.spotify.com/track/55VGEGacfrhX3o5sseRUCC) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Chapter II: How Dark It Is Before Dawn](https://open.spotify.com/album/3PtdHn0NDmOUPRNmRsuPfN) | 3:40 |
 | 51 | [Charlotte \(Renaissance Version\)](https://open.spotify.com/track/120LcosShhgkVj2PtRUrpw) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Charlotte \(Renaissance Version\)](https://open.spotify.com/album/6GiLTenU1pnLVyeY4qqUE2) | 3:48 |
-| 52 | [Joseph and his Brethren HWV 59, Symphony: I\. Andante](https://open.spotify.com/track/03S6ywOkR0LXZyncmhtHAK) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [La Sfera Armoniosa](https://open.spotify.com/artist/2fGQBWTNxCxLBNi0w9kZgh), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Oratorio Arias](https://open.spotify.com/album/297vd4bavGTq89qgNXIxTl) | 1:19 |
+| 52 | [Joseph and his Brethren HWV 59, Symphony: I\. Andante](https://open.spotify.com/track/03S6ywOkR0LXZyncmhtHAK) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [La Sfera Armoniosa](https://open.spotify.com/artist/2fGQBWTNxCxLBNi0w9kZgh), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Freedom \- Oratorio Arias](https://open.spotify.com/album/297vd4bavGTq89qgNXIxTl) | 1:19 |
 | 53 | [6\. Aria: Ein Gebet um neue Stärke](https://open.spotify.com/track/3KsFtu5HccvCMJVlh7PU1M) | [Georg Anton Kreusser](https://open.spotify.com/artist/73rYGLCz7QM44M5MBTg7BY), [Julia Sophie Wagner](https://open.spotify.com/artist/4GPRAoJ0ar7ppLylp5bWVW), [Karsten Storck](https://open.spotify.com/artist/759Eyz713eb8qfGK0Y3AA7), [Mainzer Domorchester](https://open.spotify.com/artist/5bLIWSvPl8f6xxXBu80hFy) | [Georg Anton Kreusser: Der Tod Jesu: 6\. Aria: Ein Gebet um neue Stärke](https://open.spotify.com/album/61POVarxBgdYaTo5ZHATjX) | 4:16 |
 | 54 | [Veer](https://open.spotify.com/track/26Wuzl0zgAbUiEq3C5HQ9A) | [Clemens Christian Poetzsch](https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc), [Reentko Dirks](https://open.spotify.com/artist/0qqEsIbTVd9xRQM66uu2H8) | [Veer](https://open.spotify.com/album/0IvLziAFvHnQrIqIzHkd7Y) | 3:45 |
 | 55 | [Ich sehe dich in tausend Bildern, Op.105, No\. 1](https://open.spotify.com/track/3NEHsnlsDJLgf0E4Qfdny0) | [Max Reger](https://open.spotify.com/artist/2qpchAUtJNY45rG7auwQgz), [Huelgas Ensemble](https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM), [Paul Van Nevel](https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1), [Jos Van Immerseel](https://open.spotify.com/artist/1FWDcayB8TeqDhiuP9A2o5) | [Ich sehe dich in tausend Bildern, Op.105, No\. 1](https://open.spotify.com/album/5AyTGpbHEmr8sXxUqhPQzh) | 2:26 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 88 | [Assaggio per violino solo in G Minor, BeRI 320: III.](https://open.spotify.com/track/2UFwMZxbVLOe0oKqcGpNDE) | [Johan Helmich Roman](https://open.spotify.com/artist/7fmuw46A73YYDDI1AV6KZd), [Fabio Biondi](https://open.spotify.com/artist/3r1dphXjVBOwbUAYrrkEkQ) | [Johan Helmich Roman: Assaggio per violino solo in G Minor, BeRI 320: III.](https://open.spotify.com/album/20pPbls4W2Bcjs5ndYa2mL) | 1:32 |
 | 89 | [Enstantaneler: 1, Fishermen pulling the Nets](https://open.spotify.com/track/6mY5d60WuosFzzZxGHkMMB) | [Cemal Reşit Rey](https://open.spotify.com/artist/495NIslNdqYhDuveHFO6H8), [Howard Griffiths](https://open.spotify.com/artist/6htlEU4z5WGJCDAkOFGGDq), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY) | [Cemal Reşit Rey: Enstantaneler \- Fishermen pulling the Nets](https://open.spotify.com/album/3zvlY60cLyROohr9Yg1K2e) | 2:22 |
 
-Snapshot ID: `MCwxMjU2MmQ0MzQwNjA4MzQ4MTQ0M2Y0NzQ0OGRiNDcxZTkyY2MxNjAy`
+Snapshot ID: `MCwxMDJiOGY3YThmOTI1ZmU5MzIxNTQzYTI1ZGVjNWQwMjIzNGFkZWRm`

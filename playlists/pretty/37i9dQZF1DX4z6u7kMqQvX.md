@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,929 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,945 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,21 +82,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 72 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 |
 | 73 | [Máquinas de hacer todo al mismo tiempo](https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [NUNCA DA IGUAL](https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu) | 3:39 |
 | 74 | [Pedazo de Cielo](https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:29 |
-| 75 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 |
-| 76 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 |
+| 75 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 |
+| 76 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 |
 | 77 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
 | 78 | [Que te hizo ir](https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Que te hizo ir](https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb) | 3:41 |
 | 79 | [Juntos](https://open.spotify.com/track/574OhLjdADffJIg7wZojF6) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Juntos](https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3) | 3:01 |
 | 80 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 |
 | 81 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 |
-| 82 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
-| 83 | [Polvo de estrellas](https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3), [Gerardo Nieto](https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2) | [Los Abrazos son Instantes Decisivos Vol\. II](https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL) | 3:44 |
-| 84 | [Astigmatismo y Miopía](https://open.spotify.com/track/1188pTebmHUwpwkQvjVu2C) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [Cursi Corazón](https://open.spotify.com/album/2hb5mHsPvEyj7ZvBKSD6Vo) | 3:36 |
-| 85 | [Cósmica](https://open.spotify.com/track/3MKzvyraWq24E1uiFyQo8T) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cósmica](https://open.spotify.com/album/41YRCMyuzGGavf2NqGpeVH) | 3:36 |
+| 82 | [Cósmica](https://open.spotify.com/track/3MKzvyraWq24E1uiFyQo8T) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cósmica](https://open.spotify.com/album/41YRCMyuzGGavf2NqGpeVH) | 3:36 |
+| 83 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
+| 84 | [Polvo de estrellas](https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3), [Gerardo Nieto](https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2) | [Los Abrazos son Instantes Decisivos Vol\. II](https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL) | 3:44 |
+| 85 | [Astigmatismo y Miopía](https://open.spotify.com/track/1188pTebmHUwpwkQvjVu2C) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [Cursi Corazón](https://open.spotify.com/album/2hb5mHsPvEyj7ZvBKSD6Vo) | 3:36 |
 | 86 | [Matemática sentimental](https://open.spotify.com/track/71OHXDiAw5B3Y9yPs9JuEg) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Matemática sentimental](https://open.spotify.com/album/6TLIjWfvqznXw1p54hPlKE) | 2:58 |
 | 87 | [Ligera Love](https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [ReconoceR](https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu) | 2:27 |
-| 88 | [Tarde](https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Tarde](https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD) | 3:58 |
-| 89 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
+| 88 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
+| 89 | [Tarde](https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Tarde](https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD) | 3:58 |
 | 90 | [Luna en piscis](https://open.spotify.com/track/3P8D05qoxBptnhxx1TG2kn) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:26 |
 | 91 | [Domingo](https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [MIXTO](https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR) | 4:03 |
 | 92 | [El Chiste](https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0) | [Tarsitano](https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Chiste](https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 |
 | 100 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
 
-Snapshot ID: `MCxlMGZmY2JhZGRiMjJmNzUzODZlZmUwZjk2NDEzNjM5YjViOTUzNzNi`
+Snapshot ID: `MCxkMGNiZTg1NzVkMjNiNGZmMzMyMjcxY2NlYjNiMDg0NWViYTUxZDUw`

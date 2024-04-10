@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Gesaffelstein
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 104,716 likes - 158 songs - 8 hr 2 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 104,714 likes - 158 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 2 | [New Madonna](https://open.spotify.com/track/456QkXYfOSZrxBjZzfp3dk) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [New Madonna](https://open.spotify.com/album/5r6GBoCOCrhSOGFfjDxPmr) | 2:55 |
 | 3 | [Different Worlds](https://open.spotify.com/track/0gn9MeXvXeCW9XjaUoRPO9) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Different Worlds](https://open.spotify.com/album/68X6n6zNWQtHzJfSmMb64k) | 3:35 |
 | 4 | [Thinking About You](https://open.spotify.com/track/1plwk3UFlq3P4SW5PVAFKh) | [WAVES](https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ) | [Thinking About You](https://open.spotify.com/album/1rf3GUpNhGp9cLq2BvKg0J) | 2:45 |
-| 5 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
+| 5 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
 | 6 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 |
 | 7 | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok) | 3:17 |
 | 8 | [Take My Chance](https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/3xaAySZDsBeu2k12tDaLsZ) | 3:18 |

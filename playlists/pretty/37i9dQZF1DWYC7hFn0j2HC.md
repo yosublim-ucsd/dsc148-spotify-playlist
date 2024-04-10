@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,156 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110,940 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 64 | [Tu enamorado](https://open.spotify.com/track/0s9KS4SRdpSuDBulhroP9V) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:09 |
 | 65 | [Payaso](https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 3:01 |
 | 66 | [Las Rejas No Matan](https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 3:08 |
-| 67 | [La cama de piedra](https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [35 Exitos](https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim) | 2:05 |
-| 68 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
+| 67 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
+| 68 | [La cama de piedra](https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [35 Exitos](https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim) | 2:05 |
 | 69 | [Amigo Organillero](https://open.spotify.com/track/0wAvcx3s0npmQdQRkBnUso) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Amigo Organillero](https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ) | 3:09 |
 | 70 | [Sombras Nada Más](https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:56 |
 
-Snapshot ID: `MCwxNTU0MGUxZDc2ZTJmY2Q5Y2M1ZDZiN2Q2ZjVkYTBhYmI0NDAwNzQx`
+Snapshot ID: `MCxiZTVmZGVjYzIyZDFhOTIyZjVlMTg2OWYzZTUyNzNhYTFiNTEwYzE0`

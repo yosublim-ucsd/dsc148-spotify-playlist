@@ -1,12 +1,12 @@
 {
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: Cocteau Twins",
-  "num_followers": 1267769,
+  "num_followers": 1267993,
   "original_name": "Alternative 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODcyYTY5ZDBjNDMyZWNhMzRlMmQ1ZDdhMGY0NmQzOWE3YWI5MjQ4",
+  "snapshot_id": "MCw4MTcyYTA2Zjc3ZGQxMzEwZDEzNGIzNjllMWI4MTk3OWU0OGM4Zjcx",
   "tracks": [
     {
       "added_at": "2024-03-18 22:29:53",
@@ -187,7 +187,7 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Surfer Rosa",
+        "name": "Surfer Rosa (2007 Remaster)",
         "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
       },
       "artists": [
@@ -197,7 +197,7 @@
         }
       ],
       "duration_ms": 234973,
-      "name": "Where Is My Mind? - Remastered",
+      "name": "Where Is My Mind? - 2007 Remaster",
       "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
       },
       "artists": [
         {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
         }
       ],
-      "duration_ms": 225786,
-      "name": "Shiny Happy People",
-      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 230040,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/5bVOX6eyHsML2sB4aMlZEi"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 298466,
       "name": "Sexy Boy",
       "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 230040,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/5bVOX6eyHsML2sB4aMlZEi"
     },
     {
       "added_at": "2024-03-18 22:29:53",

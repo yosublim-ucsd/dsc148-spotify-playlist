@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,021 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,022 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 47 | [All Night](https://open.spotify.com/track/5V3fw7a3vubB9PzMNhGoPL) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:30 |
 | 48 | [No Mar \- Ao Vivo](https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:27 |
 | 49 | [Walk, Don't Run \- Stereo](https://open.spotify.com/track/7B2pUwzvlbNG9D855r9ugf) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run](https://open.spotify.com/album/63nMHrHgu1xVuaWMT9eEap) | 2:02 |
-| 50 | [In Your Eyes](https://open.spotify.com/track/3QbMBn1cm37oUtWYwmccqc) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Never Stop Fighting](https://open.spotify.com/album/0ltj09wROERvSflQiyzt2v) | 3:09 |
-| 51 | [Lake Michigan](https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Asleep At Heaven's Gate \(Remastered And Expanded Edition\)](https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F) | 3:48 |
+| 50 | [Lake Michigan](https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Asleep At Heaven's Gate \(Remastered And Expanded Edition\)](https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F) | 3:48 |
+| 51 | [In Your Eyes](https://open.spotify.com/track/3QbMBn1cm37oUtWYwmccqc) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Never Stop Fighting](https://open.spotify.com/album/0ltj09wROERvSflQiyzt2v) | 3:09 |
 | 52 | [Family Tree](https://open.spotify.com/track/7FB4AMETSW8jALAPNRKw7Y) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:50 |
 | 53 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
 | 54 | [California](https://open.spotify.com/track/4h2qaSvNfb9d4SoEaMu7Rf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
 | 75 | [Light On](https://open.spotify.com/track/1mAqeDjQMfKhjT6nLyQBZQ) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Light On](https://open.spotify.com/album/5zbsXC9sAXCkpNjso1U3au) | 3:25 |
 
-Snapshot ID: `MCxiMjUyNDBkNWVkMDc1NjNlYjIxYmM1MThlNzUxZTlkOWY1YTJmZjgx`
+Snapshot ID: `MCxiNGJlMGQyYmU2NDhmOWJmMzUwZmM4OGRhMzBiY2MyNDRmNjc5ZWZj`

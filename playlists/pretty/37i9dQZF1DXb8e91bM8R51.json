@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 50716,
+  "num_followers": 50717,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzg1NmY5YjU1NTk0ZmY1MTIyZTU1NDE2NmIwMjQ2MTBlNWYxNDNj",
+  "snapshot_id": "MCwyNzQxN2JlMjlhNGFhN2IxMDViZWJjOGQxZDBmNjA1ZmVlZTBlZDAy",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 177553,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3sjtQ07ptlPzw2N4YmGW3S"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 215000,
       "name": "Tell The Vision (feat. Kanye West & Pusha T)",
       "url": "https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "From a Birds Eye View",
-        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 177553,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/3sjtQ07ptlPzw2N4YmGW3S"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "[BUMP] Pick Me Up",
+        "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 204434,
+      "name": "[The Jackie] (with J. Cole & Lil Tjay)",
+      "url": "https://open.spotify.com/track/2cny5OSTr2976U3o018GoV"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "LONDON (feat. J. Cole)",
         "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
       },
@@ -1199,30 +1223,6 @@
       "duration_ms": 153466,
       "name": "BLIND (feat. Young Thug)",
       "url": "https://open.spotify.com/track/2T5NBwKRySiCR78vVk08vr"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "[BUMP] Pick Me Up",
-        "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 204434,
-      "name": "[The Jackie] (with J. Cole & Lil Tjay)",
-      "url": "https://open.spotify.com/track/2cny5OSTr2976U3o018GoV"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1311,30 +1311,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 325733,
-      "name": "Young G's (feat. The Notorious B.I.G. & Jay-Z)",
-      "url": "https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
         "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
       },
@@ -1363,6 +1339,30 @@
       "duration_ms": 227234,
       "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
       "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 325733,
+      "name": "Young G's (feat. The Notorious B.I.G. & Jay-Z)",
+      "url": "https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -2167,30 +2167,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "De La Soul is Dead",
-        "url": "https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
-          "name": "Vinia Mojica",
-          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
-        }
-      ],
-      "duration_ms": 242006,
-      "name": "A Roller Skating Jam Named \"Saturdays\"",
-      "url": "https://open.spotify.com/track/1ihXWWbKNIrb7S7ERA6Qcb"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "SOUTHEND LEGEND",
         "url": "https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A"
       },
@@ -2211,6 +2187,30 @@
       "duration_ms": 241582,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/5KSffXZ5exiUZabwpXwrj7"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "De La Soul is Dead",
+        "url": "https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Vinia Mojica",
+          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+        }
+      ],
+      "duration_ms": 242006,
+      "name": "A Roller Skating Jam Named \"Saturdays\"",
+      "url": "https://open.spotify.com/track/1ihXWWbKNIrb7S7ERA6Qcb"
     },
     {
       "added_at": "2024-03-29 03:01:00",

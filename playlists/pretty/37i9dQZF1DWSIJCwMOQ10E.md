@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Gusi
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,651 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,653 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 36 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 37 | [Bella \- Remix](https://open.spotify.com/track/78nLeZtgvDeKygduWsgeUk) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Bella \(Remix\)](https://open.spotify.com/album/4cEUisPsjbps3zDPV3pcnm) | 3:38 |
 | 38 | [La Ventanita](https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Coleccion de Oro](https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u) | 4:46 |
-| 39 | [Amarte Mas No Pude](https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Orgullosa](https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB) | 4:49 |
-| 40 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 |
+| 39 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 |
+| 40 | [Amarte Mas No Pude](https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Orgullosa](https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB) | 4:49 |
 | 41 | [Vivo en el limbo](https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH), [Andres Herrera](https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU) | [La Hora de la Verdad](https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA) | 6:16 |
 | 42 | [Soledad](https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 4:45 |
 | 43 | [Amantes](https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 49 | [Cachondea](https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Descarga Espectacular](https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP) | 4:57 |
 | 50 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
 
-Snapshot ID: `MCw2OWIwNTE3NTQzYmYzYzcxNmE2ODAwZThmNjA5MGY5N2VjNDg1MjMw`
+Snapshot ID: `MCw0ODNiMzQ2YzRiZmJhNzJlNTEwNzg4MjgzZTgzMGE3ODY4Y2Q0ZDk2`

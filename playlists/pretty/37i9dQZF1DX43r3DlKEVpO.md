@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 60 | [Baby](https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:32 |
 | 61 | [Do fundo do nosso quintal \- Ao vivo](https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Ao vivo](https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA) | 5:23 |
 | 62 | [Bicycle Race \- Remastered 2011](https://open.spotify.com/track/3lUx27TOwV2nAiKwnYYXxe) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:00 |
-| 63 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
-| 64 | [Clube Da Esquina Nº2 \- Acústico](https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Nada Será Como Antes \(Acústico\)](https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc) | 4:30 |
+| 63 | [Clube Da Esquina Nº2 \- Acústico](https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Nada Será Como Antes \(Acústico\)](https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc) | 4:30 |
+| 64 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
 | 65 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
 | 66 | [It's Now or Never](https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 3:14 |
 | 67 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 99 | [Aquarela](https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 4:16 |
 | 100 | [Gita](https://open.spotify.com/track/4mdIZdlpZ8ilKNPDoWEpSK) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | ['Gîtâ'](https://open.spotify.com/album/5oOsBQphe8sbvZULbepg7U) | 4:47 |
 
-Snapshot ID: `MCxiN2ZmZWNkMmE4OTY2ZDljMDljZGU2NGFlNTE4NzQ5ZWQwNzllNDlh`
+Snapshot ID: `MCxiNTgzZWYzZjA1ZWY1MmViMGM0OWVjMzU5YjZmZTJkMmEwMjUzYzg1`

@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 191908,
+  "2024-04-10": 191953,
   "date_first_scraped": "2021-12-28",
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
   "name": "Creative Focus",
@@ -4232,6 +4232,36 @@
     },
     {
       "album": {
+        "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
+        "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ivan Podyomov",
+          "url": "https://open.spotify.com/artist/4zuOEDpzkD6u19mCxQ2LzL"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        },
+        {
+          "name": "Maxim Emelyanychev",
+          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425466,
+      "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
+      "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
+    },
+    {
+      "album": {
         "name": "Odyssey: The Chamber Music Society in Greece",
         "url": "https://open.spotify.com/album/2192DPOgnWEhRyEoCYVyl7"
       },
@@ -4793,7 +4823,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 361493,
       "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
       "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"

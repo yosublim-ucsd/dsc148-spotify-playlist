@@ -4,7 +4,7 @@
 
 > 2024年5月18日\(土\), 19日\(日\)に幕張メッセで開催！国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のラインナップをチェック。
 
-351 songs - 19 hr 11 min
+352 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [大金持ちのあなたと貧乏な私](https://open.spotify.com/track/5DSI2QfYMfkSWl980jX8Yo) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [King Of Everything](https://open.spotify.com/album/6STIGUizJUhGprqXZBJL04) | 4:02 | 2023-06-07 | 2024-01-25 |
 | [左利きのBenz](https://open.spotify.com/track/6anFKyFEPUShDAIwJHQ5wq) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [four](https://open.spotify.com/album/2JcohoDUq5JPoIh2Zh3epv) | 2:06 | 2024-01-24 |  |
 | [心](https://open.spotify.com/track/4gPnGHTxsWl4Y3ki5syQR7) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d) | [MAKTUB](https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr) | 3:46 | 2023-06-07 | 2024-02-08 |
+| [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 | 2024-04-09 |  |
 | [波の歌](https://open.spotify.com/track/1XLSWfDhPngH1gqTn0C1Fl) | [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d) | [波の歌](https://open.spotify.com/album/4V8KF9z498nmR02c6C2Jsl) | 4:35 | 2023-06-07 | 2024-01-25 |
 | [洗脳 \(feat\. DOGMA & 鎮座DOPENESS\)](https://open.spotify.com/track/5U3cw41HA9bABafevfgwOU) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [DOGMA](https://open.spotify.com/artist/05h7GRDnd4aXm0u6OB5VdV), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [孔雀](https://open.spotify.com/album/4A9MCW9aZ5ps7uGHhXGFPY) | 3:58 | 2023-06-07 | 2024-01-25 |
 | [現実 Feelin' on my mind](https://open.spotify.com/track/35u32EfTjUI4Ldesf1qDPv) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [VVORLD](https://open.spotify.com/album/4tSX98POr4ux2fFKh47YDm) | 3:36 | 2023-06-07 | 2024-01-25 |

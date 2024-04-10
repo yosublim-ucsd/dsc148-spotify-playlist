@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 17183399,
+  "2024-04-10": 17184582,
   "date_first_scraped": "2020-10-10",
   "description": "Your daily update of the most played tracks right now - Global.",
   "name": "Top 50 - Global",
@@ -467,7 +467,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 212213,
       "name": "7 Minute Drill",
       "url": "https://open.spotify.com/track/2mhdhTWqT8RhkTlN2yWZZi"
@@ -3721,6 +3721,24 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
       "album": {
@@ -17463,7 +17481,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -24155,7 +24173,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -24765,7 +24783,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
@@ -24791,7 +24809,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
@@ -26843,7 +26861,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
@@ -34073,7 +34091,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

@@ -1,12 +1,12 @@
 {
   "description": "All 10s, all ballads. Cover: Adele",
-  "num_followers": 76111,
+  "num_followers": 76171,
   "original_name": "10s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjQzY2I4OTA4YzkwYmFkNTIwNTQ0ZmQzYTJhOGY0ZTI0MDcyZmFi",
+  "snapshot_id": "MCxjYTUxZjU0YTQ3ODI1NWZkODYwNDI1OGI5NDM4NzMxOGZkYjA0ZmZk",
   "tracks": [
     {
       "added_at": "2022-05-10 20:46:04",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
         "name": "reputation Stadium Tour Surprise Song Playlist",
         "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "added_at": "2022-05-10 20:46:04",
@@ -707,26 +707,6 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 229400,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
     },
     {
       "added_at": "2022-05-10 20:46:04",

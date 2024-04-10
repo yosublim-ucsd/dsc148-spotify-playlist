@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,495 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,509 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 60 | [Severed](https://open.spotify.com/track/38psZM2gA6UWA7rqqgOjGL) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [I'll Be Your Girl](https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6) | 4:03 |
 | 61 | [Talking Straight](https://open.spotify.com/track/0pAe3wp6qI0q3BrpQo6nFa) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Hope Downs](https://open.spotify.com/album/0zL1ncgS3vbeh8iQ2qywwY) | 3:44 |
 | 62 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Hugo Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
-| 63 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
-| 64 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 |
+| 63 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 |
+| 64 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
 | 65 | [Veronica Mars](https://open.spotify.com/track/4QLqCFAGqvHnjOWCtHTsQL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 1:57 |
 | 66 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |
 | 67 | [Can't Cool Me Down](https://open.spotify.com/track/4WdVHE3fPUyu5McHAhM3RV) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Making a Door Less Open](https://open.spotify.com/album/0p6P42zHY2W8Zd7BKBcKQg) | 5:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 74 | [Flags](https://open.spotify.com/track/3mRViwFBCegDxjCsvOf5gO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Flags](https://open.spotify.com/album/3Vr2VwZd7MHd1Sf0V7uYAz) | 3:29 |
 | 75 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 
-Snapshot ID: `MCw5MDAzMjNlMjhmMjA1OGQyNmUxY2ZmYzIwN2MyMGM4N2EwOWNjNzQ2`
+Snapshot ID: `MCwxYTAwY2EyYTBjOTdiZGU1ZWJiZTExMjliMjA4NmFiMGQzZDQ3Y2Vj`

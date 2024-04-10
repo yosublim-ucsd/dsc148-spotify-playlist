@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Doja Cat\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,389 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,391 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [cOoL WATeR foR thE nIGHT](https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:54 |
 | 100 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
 
-Snapshot ID: `MCw3MmY4OGRlMTI0MTNiNzJkYTEyYWJjNzhjNGNhMzJjODgwMGNhMDVm`
+Snapshot ID: `MCxlMDEwM2I2MGY4NGYyNjg0MDM4ZDQyMWRjMmM5OWNmNDFkNDc5ZjBk`

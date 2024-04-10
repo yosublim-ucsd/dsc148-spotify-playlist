@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 103041,
+  "num_followers": 103032,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmFlZmY1ZjkxMzkwYmIwMTUxZTZhNzA5MTk1ZTkwYWVlN2QzOWE4",
+  "snapshot_id": "MCwxZWJiZWZlNjI4NjMyZDVhNjQ5MzJhZTEzYmIyMTZmZTc2Mzk3ZDg5",
   "tracks": [
     {
       "added_at": "2024-02-22 21:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Nokta",
-        "url": "https://open.spotify.com/album/2qiz3wVTobD9VE9djqe9bw"
-      },
-      "artists": [
-        {
-          "name": "Ersay \u00dcner",
-          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
-        }
-      ],
-      "duration_ms": 265994,
-      "name": "Selam",
-      "url": "https://open.spotify.com/track/01j2lFIDDvoLWzRk1ohxuN"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "Med Cezir",
         "url": "https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 292884,
       "name": "Dedikodu",
       "url": "https://open.spotify.com/track/4JVVy6F29ms0u0MBDQsfRN"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Nokta",
+        "url": "https://open.spotify.com/album/2qiz3wVTobD9VE9djqe9bw"
+      },
+      "artists": [
+        {
+          "name": "Ersay \u00dcner",
+          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
+        }
+      ],
+      "duration_ms": 265994,
+      "name": "Selam",
+      "url": "https://open.spotify.com/track/01j2lFIDDvoLWzRk1ohxuN"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Sen Istersin",
-        "url": "https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5"
+        "name": "Her Dem Yeni (Yirmi Se\u00e7ilmi\u015f \u015eark\u0131)",
+        "url": "https://open.spotify.com/album/3lReGFhnQrP7bqnVTRjEfX"
       },
       "artists": [
         {
-          "name": "Sedef Seb\u00fcktekin",
-          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
-        },
-        {
-          "name": "Canozan",
-          "url": "https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC"
+          "name": "Yeni T\u00fcrk\u00fc",
+          "url": "https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Sen Istersin",
-      "url": "https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6"
+      "duration_ms": 169093,
+      "name": "A\u015fk Yeniden",
+      "url": "https://open.spotify.com/track/7lQpqtDVqsl6go3XrmfQBR"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -703,6 +699,26 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
+        "name": "Sen Istersin",
+        "url": "https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5"
+      },
+      "artists": [
+        {
+          "name": "Sedef Seb\u00fcktekin",
+          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
+        },
+        {
+          "name": "Canozan",
+          "url": "https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Sen Istersin",
+      "url": "https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
         "name": "Hissettin mi",
         "url": "https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 212608,
       "name": "Hissettin mi",
       "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "Her Dem Yeni (Yirmi Se\u00e7ilmi\u015f \u015eark\u0131)",
-        "url": "https://open.spotify.com/album/3lReGFhnQrP7bqnVTRjEfX"
-      },
-      "artists": [
-        {
-          "name": "Yeni T\u00fcrk\u00fc",
-          "url": "https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3"
-        }
-      ],
-      "duration_ms": 169093,
-      "name": "A\u015fk Yeniden",
-      "url": "https://open.spotify.com/track/7lQpqtDVqsl6go3XrmfQBR"
     },
     {
       "added_at": "2024-02-22 21:00:00",

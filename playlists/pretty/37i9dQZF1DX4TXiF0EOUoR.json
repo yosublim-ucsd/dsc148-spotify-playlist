@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 181589,
+  "num_followers": 181719,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDYyYWQzNjIxODFlZmM3M2RlYmZiMDI4Njk5MDMzOTI3MDI3MGE1",
+  "snapshot_id": "MCwyNDE4YTM1YzQ3NTIxMDQzZGU5MDg1MWY1NjE5NGU3Mzc4MmEyMTMz",
   "tracks": [
     {
       "added_at": "2024-03-19 20:01:44",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Escuela De Rancho",
-        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 139186,
-      "name": "El Mech\u00f3n",
-      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 219280,
       "name": "No Pares",
       "url": "https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Escuela De Rancho",
+        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 139186,
+      "name": "El Mech\u00f3n",
+      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Cahuates, Pistaches",
-        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
         }
       ],
-      "duration_ms": 177053,
-      "name": "Cahuates, Pistaches",
-      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+      "duration_ms": 216013,
+      "name": "El Baile del Sacadito",
+      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
       },
       "artists": [
         {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 216013,
-      "name": "El Baile del Sacadito",
-      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Con Sangre Ranchera",
-        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 136752,
-      "name": "A Qui\u00e9n No Le Gusta Eso",
-      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Con Sangre Ranchera",
+        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 136752,
+      "name": "A Qui\u00e9n No Le Gusta Eso",
+      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 260160,
-      "name": "Popurr\u00ed Cumbias: La Yaquecita / La Cumbia Bonita / El Aparatito",
-      "url": "https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "Era Cab - El Viejo",
         "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
+        "name": "Homenaje a un Grande",
+        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
+      },
+      "artists": [
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
         "name": "El Son Del Tlacololero",
         "url": "https://open.spotify.com/album/4kCpFVESyvACBa2tQdGm4B"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 219500,
       "name": "El Son Del Tlacololero",
       "url": "https://open.spotify.com/track/1NYzgJlrTeZspmrCEoAHjf"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 260160,
+      "name": "Popurr\u00ed Cumbias: La Yaquecita / La Cumbia Bonita / El Aparatito",
+      "url": "https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Homenaje a un Grande",
-        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
-      },
-      "artists": [
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "El Guapo",
         "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
-        "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "El Son de los Ocampo",
-      "url": "https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 159480,
       "name": "El Rezado",
       "url": "https://open.spotify.com/track/2pqi3MdJJ1FhkAv5QfKdfJ"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
+        "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "El Son de los Ocampo",
+      "url": "https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
-        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
-      },
-      "artists": [
-        {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Los Mayeles - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "Puras Carnavaleras, Vol. 2",
         "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 216163,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
+        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
+      },
+      "artists": [
+        {
+          "name": "Banda Monarca de Morelia",
+          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "Los Mayeles - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Popurri Sones: Maria Chuchena / Ya Llegu\u00e9 ya Estoy Aqu\u00ed / Era de Madrugada / Juan Colorado",
-      "url": "https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "El Toro Meko (Serie Titanium)",
         "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 187680,
       "name": "El Huitzuque\u00f1o",
       "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Popurri Sones: Maria Chuchena / Ya Llegu\u00e9 ya Estoy Aqu\u00ed / Era de Madrugada / Juan Colorado",
+      "url": "https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH"
     },
     {
       "added_at": "2024-03-19 20:01:44",

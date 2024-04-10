@@ -4,7 +4,7 @@
 
 > Is "indie sleaze" in the room with us? ft\. The Strokes
 
-206 songs - 12 hr 59 min
+207 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Holy Shit, We're Gonna Put Matt And Kim Out Of Business](https://open.spotify.com/track/57zRfh6R8r2e3tvPFMsr1X) | [The Dallas Cowboys](https://open.spotify.com/artist/6WgBEhg2Pn2pY9SmSmKypa) | [Holy Shit, We're Gonna Put Matt And Kim Out Of Business](https://open.spotify.com/album/693mdxzSLQfJGmQvcP8f6w) | 1:23 | 2023-04-14 | 2023-04-27 |
 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2022-11-10 | 2023-08-18 |
 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 | 2023-08-02 |  |
-| [I Can Change](https://open.spotify.com/track/4yhslVvynysGhexambPGcy) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [I Can Change](https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT) | 5:31 | 2023-09-05 |  |
+| [I Can Change](https://open.spotify.com/track/4yhslVvynysGhexambPGcy) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [I Can Change](https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT) | 5:31 | 2023-09-05 | 2024-04-10 |
 | [I Do Coke](https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [OCCULT CLASSIC](https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw) | 3:46 | 2023-04-14 | 2023-04-27 |
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 | 2022-11-10 |  |
 | [I Found Out](https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Wait for Me](https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3) | 2:07 | 2022-11-10 | 2024-02-22 |
@@ -103,6 +103,7 @@
 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 | 2022-11-10 |  |
 | [Islands](https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:40 | 2022-11-10 |  |
 | [It's A Dream \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:31 | 2023-05-17 | 2023-07-25 |
+| [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 | 2023-11-17 |  |
 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2023-06-27 |  |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2022-11-10 |  |
 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 | 2022-11-10 |  |

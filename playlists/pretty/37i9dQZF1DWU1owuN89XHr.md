@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,120 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,157 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 15 | [Entre Pairos y Derivas](https://open.spotify.com/track/4LJbG3BeyCXfFReENFdgq6) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Entre Pairos y Derivas](https://open.spotify.com/album/69ahm7UJ1KeryMY2yqhVGR) | 4:15 |
 | 16 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
 | 17 | [Lo Niego Todo](https://open.spotify.com/track/6oV8HazS5rJB3jU3oPhYep) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp) | 4:41 |
-| 18 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
+| 18 | [Una Palabra](https://open.spotify.com/track/4SzeAxQemtMGRIiQc7gNYq) | [Carlos Varela](https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy) | [Nubes](https://open.spotify.com/album/1NgiBYC45f7FnOCoAFV19o) | 2:27 |
 | 19 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 |
-| 20 | [Una Palabra](https://open.spotify.com/track/4SzeAxQemtMGRIiQc7gNYq) | [Carlos Varela](https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy) | [Nubes](https://open.spotify.com/album/1NgiBYC45f7FnOCoAFV19o) | 2:27 |
+| 20 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
 | 21 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 |
 | 22 | [Me Hice Una Promesa](https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd) | [Fato](https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq) | [Mis Otros Yo](https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j) | 3:59 |
 | 23 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 | 24 | [Divina Tú](https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [El Cartero](https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW) | 4:23 |
 | 25 | [Kilómetros de Cielo](https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [De Carne y Hueso](https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8) | 4:21 |
-| 26 | [Mujer Que Camina](https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Mujer Que Camina](https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK) | 5:22 |
-| 27 | [Y Sin Embargo \- En Directo](https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 6:02 |
+| 26 | [Y Sin Embargo \- En Directo](https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 6:02 |
+| 27 | [Mujer Que Camina](https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Mujer Que Camina](https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK) | 5:22 |
 | 28 | [Alevosía](https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Alevosia](https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe) | 4:38 |
 | 29 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
 | 30 | [Causa y Efecto](https://open.spotify.com/track/0AnYxf8QJBHahyMdltizf5) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Metamorfosis](https://open.spotify.com/album/3g67KVzMF8xAhy8ZuzZqJ6) | 4:56 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 68 | [Coincidir](https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P) | [Alberto Escobar](https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM) | [Coincidir](https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf) | 4:06 |
 | 69 | [De Vez en Cuando \- Acústica](https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Pavel Nuñez](https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN) | [De Vez en Cuando](https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc) | 4:13 |
 | 70 | [Hasta Donde tu vayas](https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI) | [Tres de Copas](https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY) | [Tres De Copas](https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i) | 4:14 |
-| 71 | [Ojalá](https://open.spotify.com/track/2PptHH46AdfiLRh4964cch) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Ojalá](https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw) | 3:21 |
+| 71 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 |
 | 72 | [A mi lado \(feat\. Francisco Cespedes\)](https://open.spotify.com/track/5eubGbNorchqAX1NOFgglU) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:59 |
-| 73 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 |
+| 73 | [Ojalá](https://open.spotify.com/track/2PptHH46AdfiLRh4964cch) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Ojalá](https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw) | 3:21 |
 | 74 | [Todo El Año](https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 4:00 |
 | 75 | [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 |
 | 76 | [Como la Nube Se Impone al Sol \(feat\. Pablo Milanés\)](https://open.spotify.com/track/3o3C8LS7yWWnsAzaUam15K) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Vamos a Bailar un Son \(Special Edition\)](https://open.spotify.com/album/7HLQ5ZFtSAReHF5veBMO6d) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 99 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 100 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MCw5NTEyNWMzZjMyZGQ5ZDk2NTdlZmY5MTJlOTFkMDk2Mzg5YThjNTU1`
+Snapshot ID: `MCxhZDQ0YTllNzdjM2RkNGM0NjVjYjc2NzFiOTgyMTgwNmM2MTc1N2Q1`

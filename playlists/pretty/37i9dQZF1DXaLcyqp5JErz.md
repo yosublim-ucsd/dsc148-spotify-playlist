@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,761 likes - 70 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,939 likes - 70 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 17 | [Deus de Promessas](https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Deus de Promessas](https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G) | 5:39 |
 | 18 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 |
 | 19 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Gospel Collection Ao Vivo](https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx) | 3:59 |
-| 20 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 |
-| 21 | [No Silêncio](https://open.spotify.com/track/3BolY0shO32lLUW1qX8oPO) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Primeiro Passo](https://open.spotify.com/album/3lJ1BI6U6HNDjeG57HIPau) | 4:47 |
+| 20 | [No Silêncio](https://open.spotify.com/track/3BolY0shO32lLUW1qX8oPO) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Primeiro Passo](https://open.spotify.com/album/3lJ1BI6U6HNDjeG57HIPau) | 4:47 |
+| 21 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 |
 | 22 | [Os Sonhos de Deus](https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX) | 6:05 |
 | 23 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
 | 24 | [Deus Proverá](https://open.spotify.com/track/7nR5GkbEHay6T6zuZOkYge) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Proverá](https://open.spotify.com/album/2VIRRMWFHQ2sfHBqIn0FDb) | 6:09 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 48 | [Quer Vitória \- Ao Vivo](https://open.spotify.com/track/3gXDmMNei3ZZacsIRGhHOs) | [Mattos Nascimento](https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk) | [Ao Vivo](https://open.spotify.com/album/7Jwn9McsZwU3pW49BXa2SH) | 4:38 |
 | 49 | [Não Há Barreiras \- Ao Vivo](https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT) | [Memórias 2 \(Ao Vivo\)](https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO) | 4:24 |
 | 50 | [Identidade](https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm) | 4:35 |
-| 51 | [Vai Valer a Pena \- Ao Vivo](https://open.spotify.com/track/6FOZMPsV4o3dMj7juFrXMT) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia \(ao Vivo\)](https://open.spotify.com/album/0xXNfRTcKA1nhuls2DC7Tj) | 4:57 |
-| 52 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
+| 51 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
+| 52 | [Vai Valer a Pena \- Ao Vivo](https://open.spotify.com/track/6FOZMPsV4o3dMj7juFrXMT) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia \(ao Vivo\)](https://open.spotify.com/album/0xXNfRTcKA1nhuls2DC7Tj) | 4:57 |
 | 53 | [Tempo de Vencer](https://open.spotify.com/track/4JJOLKyNrVeJhyDZt0MOSj) | [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Seleção De Ouro](https://open.spotify.com/album/3RKYWZSPtLvwFzYb35dqaZ) | 4:00 |
 | 54 | [A Ele A Glória \- Ao Vivo](https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Exaltado \- Diante do Trono 2 \(Ao Vivo\)](https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew) | 9:53 |
 | 55 | [Abraça\-Me \- Ao Vivo em BH](https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Abraça\-Me \(Paixão Fogo e Glória\) \[Ao Vivo em BH\]](https://open.spotify.com/album/3gSpJkm2v3lIaLh4i7jRJX) | 14:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Me Rendo](https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY) | [Hillsong Global Project](https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Global Project Português](https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv) | 6:10 |
 | 70 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 
-Snapshot ID: `MCxkZDI2ZmZmNjU2OWRjM2MwYTM0ZTgwMWU0NjJjZGJlZDIzMjUxODQw`
+Snapshot ID: `MCwyN2RlOTQ5Yjg3NzU4NGIzMDQzMGNjNGE2ZmIxOGY3MmU2NWYxY2M5`

@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8484456,
+  "num_followers": 8486366,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGU2OWE4YTE1ZjhiOGQyYTZkZjhhZThlZjUwYTI5NWQ2OWEwMTc4",
+  "snapshot_id": "MCwwNTM4MTBlNTExOGNkY2YyNDA5NDU4ZGM1YTk2MTk5YzQ3YjllNjJi",
   "tracks": [
     {
       "added_at": "2024-03-07 12:06:08",
@@ -119,6 +119,26 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Big Syke",
+          "url": "https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv"
+        }
+      ],
+      "duration_ms": 307773,
+      "name": "All Eyez On Me (ft. Big Syke)",
+      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -139,26 +159,6 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Big Syke",
-          "url": "https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv"
-        }
-      ],
-      "duration_ms": 307773,
-      "name": "All Eyez On Me (ft. Big Syke)",
-      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 278386,
-      "name": "Ambitionz Az A Ridah",
-      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 302760,
       "name": "Juicy - 2005 Remaster",
       "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "Ambitionz Az A Ridah",
+      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -403,18 +403,26 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "R U Still Down? [Remember Me]",
-        "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
       "artists": [
         {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         }
       ],
-      "duration_ms": 281600,
-      "name": "Do For Love",
-      "url": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq"
+      "duration_ms": 257399,
+      "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -479,42 +487,18 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+        "name": "R U Still Down? [Remember Me]",
+        "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 257399,
-      "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
-      "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+      "duration_ms": 281600,
+      "name": "Do For Love",
+      "url": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -531,6 +515,22 @@
       "duration_ms": 281773,
       "name": "Thuggish Ruggish Bone",
       "url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
+        "name": "93 'til Infinity",
+        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Mischief",
+          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "93 'Til Infinity",
+      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
         "name": "Bootlegs And B-Sides",
         "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 273106,
       "name": "Check Yo Self - Remix",
       "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
-        "name": "93 'til Infinity",
-        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
-      },
-      "artists": [
-        {
-          "name": "Souls Of Mischief",
-          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "93 'Til Infinity",
-      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
-      },
-      "artists": [
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Shimmy Shimmy Ya",
-      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 260066,
       "name": "Fu-Gee-La",
       "url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Shimmy Shimmy Ya",
+      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
+        "name": "It's On (Dr. Dre) 187um Killa",
+        "url": "https://open.spotify.com/album/1SZNTl621XOcjFwOKtVy56"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "duration_ms": 332626,
+      "name": "Real Muthaphuckkin G's",
+      "url": "https://open.spotify.com/track/7q6lr1W6cmGWijl5kCv5RG"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
         "name": "Nigga Please",
         "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 239546,
       "name": "Got Your Money (feat. Kelis)",
       "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
-        "name": "It's On (Dr. Dre) 187um Killa",
-        "url": "https://open.spotify.com/album/1SZNTl621XOcjFwOKtVy56"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 332626,
-      "name": "Real Muthaphuckkin G's",
-      "url": "https://open.spotify.com/track/7q6lr1W6cmGWijl5kCv5RG"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
         "name": "Internal Affairs",
         "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 173373,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        },
-        {
-          "name": "Trugoy The Dove",
-          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Award Tour (feat. Trugoy The Dove)",
-      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
         "name": "The Slim Shady LP",
         "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 199333,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/6da04YB906XonC6IQNC44u"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        {
+          "name": "Trugoy The Dove",
+          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Award Tour (feat. Trugoy The Dove)",
+      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
+        "name": "Naughty By Nature",
+        "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 271066,
+      "name": "O.P.P",
+      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
-        "name": "Naughty By Nature",
-        "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 271066,
-      "name": "O.P.P",
-      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 261265,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 194293,
       "name": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
       "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 261265,
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+        "name": "Extinction Level Event: The Final World Front",
+        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 333906,
-      "name": "Lost Ones",
-      "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
+      "duration_ms": 158466,
+      "name": "Gimme Some More",
+      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,988 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,008 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 34 | [Frühling, ich hab dich entdeckt!](https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:58 |
 | 35 | [A, B, C, das Häschen sitzt im Klee](https://open.spotify.com/track/1oFKQ9dnl9tgAXok64HZ4E) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 2:17 |
 | 36 | [Wenn es Frühling wird im Hasenland](https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Hasengeschichte \- Die Lieder](https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt) | 2:37 |
-| 37 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
+| 37 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 |
 | 38 | [Kuckuck, kuckuck ruft's aus dem Wald](https://open.spotify.com/track/7LRcMwbgLyt3YBguwZcKNw) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder 3](https://open.spotify.com/album/2Z1IZ5uLBTXFTrW4E38fsU) | 2:26 |
-| 39 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 |
+| 39 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
 | 40 | [Bunte Blumen auf der Wiese](https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Frühlingsspaß und Osterhas](https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ) | 2:26 |
 | 41 | [Kunterbunte Jahreszeiten](https://open.spotify.com/track/3f1o3xCeuyP7WDnfOlprgQ) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kunterbunte Jahreszeiten](https://open.spotify.com/album/5fmCT5pOmaEcdWuAvvnS8a) | 3:10 |
 | 42 | [Der Frühling hat sich eingestellt](https://open.spotify.com/track/6CtgiSvOrfxfNc76pY7RgI) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [So bunt ist die Frühlingszeit](https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n) | [Martin Göth](https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i) | [Der Frühling ist da \- 25 kunterbunte Kinderlieder im Frühling](https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK) | 1:47 |
 | 50 | [Die Biene maja](https://open.spotify.com/track/37Ya452sNHfucQVaKPM522) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Karel](https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR) | 2:39 |
 
-Snapshot ID: `MCxiOWU4NWEyODljZWZmYWFkZTI0MzRmYmQ0YzdkOWY3ZDg3ZjQ1Yjhh`
+Snapshot ID: `MCw5OTExZTExMmUyMDhhMWMyNmRkZDg1ZmZjZmQ3ZTdkODhhZDYzMDgx`

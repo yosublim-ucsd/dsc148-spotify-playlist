@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658 likes - 28 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 680 likes - 29 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 | 15 | [Final Girl](https://open.spotify.com/track/3mNo6Wh3QfKh8yBymGumBA) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/0GZZCnHOMUx134tHJqocIm) | 3:30 |
 | 16 | [Junior Sweet](https://open.spotify.com/track/0iSpQPgX7orFgBZ3atrqZA) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Junior Sweet](https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG) | 6:27 |
 | 17 | [アンビバレント](https://open.spotify.com/track/5WDKR3hzbHiXWgbMPyOcLk) | [Keyakizaka46](https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil) | [アンビバレント \(Special Edition\)](https://open.spotify.com/album/1zY5V7Y2Y0n0tbN3qSBPet) | 4:33 |
-| 18 | [STARLIGHT](https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:08 |
-| 19 | [ひとりの夜を抜け](https://open.spotify.com/track/0jKFkKHQWNCvjoBUG751Oq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [HUG](https://open.spotify.com/album/76DxOsTwHzuGyD27vEYWKJ) | 3:01 |
-| 20 | [modify Youth](https://open.spotify.com/track/3BcceWQDoclXyOmOH5eZ8I) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [evergreen/modify Youth](https://open.spotify.com/album/3rfcMKe4vOugZxhJxYv6lf) | 3:11 |
-| 21 | [Night Flight](https://open.spotify.com/track/39YZ1EwwNaMqblHgADpfM5) | [Multidimensional Control Mechanism YODAKA](https://open.spotify.com/artist/2QzSCrLHW000QqZshAnNWV) | [Night Flight](https://open.spotify.com/album/0udVdJFqOQjfUYimXyPyxd) | 4:00 |
-| 22 | [Rondo](https://open.spotify.com/track/4El6KySj1S0mkEc0FA5lZC) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [20,Stop it.](https://open.spotify.com/album/7xrqq730qyI2KI8wZIhtU3) | 2:21 |
-| 23 | [Showtime](https://open.spotify.com/track/5oRsF5BicGgALJBYYnAIq6) | [DATS](https://open.spotify.com/artist/7o1cIignks0pUFY0Pe87oz) | [School](https://open.spotify.com/album/2rAxqAo85FUQwKKLotnqJw) | 4:16 |
-| 24 | [teenage club](https://open.spotify.com/track/4ExheCEfCm9TNBbgGYQFz3) | [gato](https://open.spotify.com/artist/4BFHLUOkM2GdeJXy0K0WiN) | [U+H](https://open.spotify.com/album/3o2UEIU10zoYfNmwFCnaD7) | 2:50 |
-| 25 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 |
-| 26 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
-| 27 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
-| 28 | [Native Dancer](https://open.spotify.com/track/3wr3GLLHcgsQseC6f5KSV5) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/48BTQAAjPa3bOZOL9QZrms) | 5:58 |
+| 18 | [Aqua](https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Aqua](https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2) | 3:16 |
+| 19 | [STARLIGHT](https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:08 |
+| 20 | [ひとりの夜を抜け](https://open.spotify.com/track/0jKFkKHQWNCvjoBUG751Oq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [HUG](https://open.spotify.com/album/76DxOsTwHzuGyD27vEYWKJ) | 3:01 |
+| 21 | [modify Youth](https://open.spotify.com/track/3BcceWQDoclXyOmOH5eZ8I) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [evergreen/modify Youth](https://open.spotify.com/album/3rfcMKe4vOugZxhJxYv6lf) | 3:11 |
+| 22 | [Night Flight](https://open.spotify.com/track/39YZ1EwwNaMqblHgADpfM5) | [Multidimensional Control Mechanism YODAKA](https://open.spotify.com/artist/2QzSCrLHW000QqZshAnNWV) | [Night Flight](https://open.spotify.com/album/0udVdJFqOQjfUYimXyPyxd) | 4:00 |
+| 23 | [Rondo](https://open.spotify.com/track/4El6KySj1S0mkEc0FA5lZC) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [20,Stop it.](https://open.spotify.com/album/7xrqq730qyI2KI8wZIhtU3) | 2:21 |
+| 24 | [Showtime](https://open.spotify.com/track/5oRsF5BicGgALJBYYnAIq6) | [DATS](https://open.spotify.com/artist/7o1cIignks0pUFY0Pe87oz) | [School](https://open.spotify.com/album/2rAxqAo85FUQwKKLotnqJw) | 4:16 |
+| 25 | [teenage club](https://open.spotify.com/track/4ExheCEfCm9TNBbgGYQFz3) | [gato](https://open.spotify.com/artist/4BFHLUOkM2GdeJXy0K0WiN) | [U+H](https://open.spotify.com/album/3o2UEIU10zoYfNmwFCnaD7) | 2:50 |
+| 26 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 |
+| 27 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
+| 28 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
+| 29 | [Native Dancer](https://open.spotify.com/track/3wr3GLLHcgsQseC6f5KSV5) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/48BTQAAjPa3bOZOL9QZrms) | 5:58 |
 
-Snapshot ID: `MCwxNmRlYzBmMTM4MmI2MWFmZWMzYmI1OGYzOWJlY2E2YTQ2ZTI1NGZl`
+Snapshot ID: `MCw3MTY2OWQ0MmQzNDRjYjEzOWZmZGM0OWU5YWY4OTI2ZDhmYTk1MWQy`

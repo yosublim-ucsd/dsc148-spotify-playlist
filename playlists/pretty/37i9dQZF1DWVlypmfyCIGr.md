@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Empty old City
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,146 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,186 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 62 | [JUST IN TIME \- XL Middleton Remix](https://open.spotify.com/track/7mEInMyJTFKpfZpgZ2Rqq4) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [JUST IN TIME \(XL Middleton Remix\)](https://open.spotify.com/album/5Wiw1s5Wci0KyrrxqTKKFL) | 3:31 |
 | 63 | [LOST](https://open.spotify.com/track/2TnpFwqoYrIq7XHykY0A7I) | [MANATSU](https://open.spotify.com/artist/68Pbo7DgC0crukN3DGe1HN), [LETY](https://open.spotify.com/artist/15TSRy01DYEofoA48Fz1n9) | [LOST](https://open.spotify.com/album/6s9Ei8dARBIttxry0yFnyZ) | 2:35 |
 | 64 | [欠ける海、増殖する海](https://open.spotify.com/track/6tsLoyI2fqG9M2qgyO0z6d) | [amaitopina](https://open.spotify.com/artist/4hr58TD2JVNEw4RiqVT9Af) | [余韻電影](https://open.spotify.com/album/64fKaieEbk6DzidJ7q2EqJ) | 1:30 |
-| 65 | [Karada ga shibireru, Atama ga yorokobu \(MEITEI Remix\)](https://open.spotify.com/track/5RvCLFEPvMnh5ARSjlC5Fz) | [Ruka](https://open.spotify.com/artist/2OD2zTogCgSfg6S3uc3DUs), [MEITEI](https://open.spotify.com/artist/7cHzSzrzaIPidesH1Meaua) | [Karada ga shibireru, Atama ga yorokobu \(MEITEI Remix\)](https://open.spotify.com/album/4gQZhFhLXuNwhesSA5gO3R) | 5:17 |
+| 65 | [Karada ga shibireru, Atama ga yorokobu \(MEITEI Remix\)](https://open.spotify.com/track/5RvCLFEPvMnh5ARSjlC5Fz) | [Ruka](https://open.spotify.com/artist/2OD2zTogCgSfg6S3uc3DUs), [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Karada ga shibireru, Atama ga yorokobu \(MEITEI Remix\)](https://open.spotify.com/album/4gQZhFhLXuNwhesSA5gO3R) | 5:17 |
 | 66 | [Songwriter](https://open.spotify.com/track/1R8djC5P2NoPpKSvklhUKJ) | [Sori Sawada](https://open.spotify.com/artist/2DVBuwrrWkKGMcohF3wVnF) | [Songwriter](https://open.spotify.com/album/6fltr3YwrvBh0HsCCJvxnX) | 3:32 |
 | 67 | [Stellar Stellar](https://open.spotify.com/track/49eoYE7NEePlYRgooGOF23) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX), [渋谷凛 \(CV: 福原綾香\)](https://open.spotify.com/artist/2FuEXQtrlWJrLI07EgpMey) | [Stellar Stellar](https://open.spotify.com/album/0LA0Myvma3HyIOEl02hCz5) | 5:01 |
 | 68 | [GAME](https://open.spotify.com/track/4yW4xDZJLJUUdDNC0gdsNU) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [GAME](https://open.spotify.com/album/4VJRULO2JnD5QtPsXGivEx) | 2:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 |
 | 80 | [夢の、終わりの、そのあとで](https://open.spotify.com/track/4imeWjvdbVsUeULefLpEbQ) | [壊れかけのテープレコーダーズ](https://open.spotify.com/artist/3gEw0yolvefXA523tJwFyu) | [楽園から遠く離れて](https://open.spotify.com/album/6yaxgMIDVH9CYbNcxZT6HL) | 7:53 |
 
-Snapshot ID: `MCxhMzQxMTRkOWFhNTQ4OTE5ZTcwOTkwZTI5ZTg4OTI2YTU1YTliZjAz`
+Snapshot ID: `MCw1MzQyNmI1OTAxZjE4YjQ3ZjE4Y2JjOWNkNGIyY2RiYWI5ZmY3NDE0`

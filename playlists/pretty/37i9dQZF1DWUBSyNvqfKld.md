@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,607 likes - 27 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,615 likes - 27 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,6 +34,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 | 24 | [Flash](https://open.spotify.com/track/3JRyCCHuf4UEjgoXC4qaOf) | [Arjun Vagale](https://open.spotify.com/artist/5VL3jFaGca1I18S1a9N6cs) | [Function 88](https://open.spotify.com/album/5KLs6luZVlBzsBWAbcELis) | 4:37 |
 | 25 | [Some Weird Drum Shit \- Hardspace Mix](https://open.spotify.com/track/35c3ZpY3Z2rPsuZcbSm8At) | [Viers](https://open.spotify.com/artist/3vOu5BmXfs5rwPh9cE95i1), [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz) | [Hardspace, Vol\. 1](https://open.spotify.com/album/1BwicBcXkbBL1BSkZaSX2e) | 4:51 |
 | 26 | [Ghouse](https://open.spotify.com/track/5UqSSOTe2a5yDN2PucVvkZ) | [CRAVO](https://open.spotify.com/artist/0h3LDqJWxHfdM76kVnfGcY) | [Hits](https://open.spotify.com/album/6fp8mAN5ElaVB8e4BPsWCK) | 6:18 |
-| 27 | [AF 97](https://open.spotify.com/track/4QXZWqTqFFTxCucmUNep5f) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [AF 97](https://open.spotify.com/album/0rc1NsAYfw6THSPAxGQLbM) | 6:09 |
+| 27 | [AF 97](https://open.spotify.com/track/3NCTe6dLVEfn5PW23isz4b) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [Klockworks 38](https://open.spotify.com/album/2QaDKEWEunZVwWwEqVKdtV) | 6:09 |
 
-Snapshot ID: `MCw5MTNlYzNiMjQxYWMxNGZkNDQ0YzczZmM1M2MwOWZkNWM3ZWE5NDA1`
+Snapshot ID: `MCxkZTcyZjQ2NzkyNzRkNzUyNmY5OWU5NTU0NjBkZTcxMmYyZmFkODYy`

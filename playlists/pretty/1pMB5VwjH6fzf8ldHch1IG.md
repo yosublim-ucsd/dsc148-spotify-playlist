@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,120 likes - 60 songs - 3 hr 1 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,117 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 18 | [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 |
 | 19 | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/track/5vrUXAD0UfFIVCrBkJ8Kq7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/album/1X75jBTdqVxa8tOs15yPoi) | 3:20 |
 | 20 | [No Angels](https://open.spotify.com/track/3Llg6UrxeStZxQJNjEQrlM) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 3:28 |
-| 21 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
+| 21 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
 | 22 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 |
 | 23 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
 | 24 | [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 |

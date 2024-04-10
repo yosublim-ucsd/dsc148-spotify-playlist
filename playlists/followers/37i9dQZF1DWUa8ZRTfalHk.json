@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 3185486,
+  "2024-04-10": 3185614,
   "date_first_scraped": "2020-10-13",
   "description": "Who's now and next in pop. Cover: Good Neighbours",
   "name": "Pop Rising",
@@ -9827,7 +9827,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 168742,
       "name": "Don't Let Me Down (feat. JVKE)",
       "url": "https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4"
@@ -14238,6 +14238,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
         "name": "Good Ones",
         "url": "https://open.spotify.com/album/6Z0w6c5y1hX7dYbdBe4XKt"
       },
@@ -15099,7 +15117,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 156329,
       "name": "HATE YOUR GUTS",
       "url": "https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz"
@@ -17227,6 +17245,28 @@
       "duration_ms": 195190,
       "name": "I Don't Wanna Talk (I Just Wanna Dance)",
       "url": "https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "album": {
@@ -33929,7 +33969,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
@@ -36345,6 +36385,24 @@
       "duration_ms": 205296,
       "name": "THICK (feat. Megan Thee Stallion) - Remix",
       "url": "https://open.spotify.com/track/52ySvuxscDGsXUVsci1Kpa"
+    },
+    {
+      "album": {
+        "name": "TORI.",
+        "url": "https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245472,
+      "name": "thing u do",
+      "url": "https://open.spotify.com/track/5lib0mrfrKl6yqxKTSP2Gc"
     },
     {
       "album": {

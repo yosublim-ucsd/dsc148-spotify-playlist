@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 173611,
+  "num_followers": 173695,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWY4ZmNiM2M2NzlhOGI2NDAxNDRjM2Q2ZTU0YWExYzA1YWZhNjc0",
+  "snapshot_id": "MCxhNGVlMzZmNWYzNDMwMDdlNWY1OTc4OGE0NmI5OWNjZGVmMzYyZWI4",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "I Be Trying",
         "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Everything I Need",
+        "url": "https://open.spotify.com/album/457tPPHTx0QG2ZsP7y1pfK"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 420386,
+      "name": "Need Her so Bad",
+      "url": "https://open.spotify.com/track/2fizsCfngbjfArn0y8MlfJ"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
         "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
       },
@@ -807,6 +823,22 @@
       "duration_ms": 276986,
       "name": "Down Home Blues",
       "url": "https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "A Savage Life",
+        "url": "https://open.spotify.com/album/3KjdYYN3zxrVuSquE3T2Jc"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 167330,
+      "name": "Blues On The Bay",
+      "url": "https://open.spotify.com/track/2riYO95LRNi3opTP534pwK"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -859,22 +891,6 @@
       "duration_ms": 625293,
       "name": "Blues In \"A\"",
       "url": "https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "A Savage Life",
-        "url": "https://open.spotify.com/album/3KjdYYN3zxrVuSquE3T2Jc"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 167330,
-      "name": "Blues On The Bay",
-      "url": "https://open.spotify.com/track/2riYO95LRNi3opTP534pwK"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -971,22 +987,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Everything I Need",
-        "url": "https://open.spotify.com/album/457tPPHTx0QG2ZsP7y1pfK"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 420386,
-      "name": "Need Her so Bad",
-      "url": "https://open.spotify.com/track/2fizsCfngbjfArn0y8MlfJ"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 319466,
-      "name": "I Put My Trust In You",
-      "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 333989,
       "name": "Whole World's Got The Blues",
       "url": "https://open.spotify.com/track/025MO5zsytvjgjZiuokOyS"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 319466,
+      "name": "I Put My Trust In You",
+      "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Heavy Load Blues (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "You Know My Love",
-      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 187447,
       "name": "Something With Feel",
       "url": "https://open.spotify.com/track/4KGC0qfSTXLVU2ZYCRUHKq"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Heavy Load Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "You Know My Love",
+      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Your Lies",
-        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
-      },
-      "artists": [
-        {
-          "name": "The Cinelli Brothers",
-          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
-        }
-      ],
-      "duration_ms": 193130,
-      "name": "Your Lies",
-      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "One Scotch, One Bourbon, One Beer",
         "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 192121,
       "name": "One Scotch, One Bourbon, One Beer",
       "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Your Lies",
+        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
+      },
+      "artists": [
+        {
+          "name": "The Cinelli Brothers",
+          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+        }
+      ],
+      "duration_ms": 193130,
+      "name": "Your Lies",
+      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1203,6 +1203,22 @@
       "duration_ms": 354573,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Thanks, But No Thanks",
+      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1235,22 +1251,6 @@
       "duration_ms": 296506,
       "name": "I Need You So Bad",
       "url": "https://open.spotify.com/track/5Afi4JrAnQtUsSYpYwbYAj"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "Thanks, But No Thanks",
-      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Two Sides to the Story",
-        "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Ray",
-          "url": "https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s"
-        }
-      ],
-      "duration_ms": 365909,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Midnight in Mississippi '22",
         "url": "https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 238034,
       "name": "Midnight in Mississippi '22",
       "url": "https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Two Sides to the Story",
+        "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Ray",
+          "url": "https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s"
+        }
+      ],
+      "duration_ms": 365909,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
     },
     {
       "added_at": "2023-10-05 13:18:26",

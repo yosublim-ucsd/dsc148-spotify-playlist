@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 
 > Turn up with the biggest party tracks of yesteryear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,652,388 likes - 93 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,652,680 likes - 93 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 13 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
 | 14 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 15 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
-| 16 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
-| 17 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 |
+| 16 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 |
+| 17 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 | 18 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
 | 19 | [Candy Shop](https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:29 |
 | 20 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 75 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 |
 | 76 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 |
 | 77 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
-| 78 | [I'm Sprung](https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:51 |
-| 79 | [I Know What You Want \(feat\. Flipmode Squad\)](https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Flipmode Squad](https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl) | [It Ain't Safe No More\. \. .](https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8) | 5:24 |
+| 78 | [I Know What You Want \(feat\. Flipmode Squad\)](https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Flipmode Squad](https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl) | [It Ain't Safe No More\. \. .](https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8) | 5:24 |
+| 79 | [I'm Sprung](https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:51 |
 | 80 | [Straight Outta Compton](https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 4:18 |
 | 81 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
 | 82 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 89 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
 | 90 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 |
 | 91 | [If I Ruled the World \(Imagine That\) \(feat\. Lauryn Hill\)](https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 4:42 |
-| 92 | [Mrs\. Officer](https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Kidd Kidd](https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:46 |
-| 93 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 |
+| 92 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 |
+| 93 | [Mrs\. Officer](https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Kidd Kidd](https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:46 |
 
-Snapshot ID: `MCxjYWQwZWYwNWI0ZjEzZDc2NGY0M2M1ZjBhMjRjN2ZjNmNmNDFkOTcw`
+Snapshot ID: `MCxlMmYzN2RkNmNjNjU1NDRkZTU2OGUwMWJmNDMyOTdlNDlkY2M0MDY1`

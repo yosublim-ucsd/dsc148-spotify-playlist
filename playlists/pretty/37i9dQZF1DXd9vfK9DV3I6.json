@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 311455,
+  "num_followers": 311625,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDExYjk2MmRlMjllNzMzMTE1ZTBmZGIxZDA5ZDgyN2UyYmRmNzQ2",
+  "snapshot_id": "MCwzODU2OWZjNTczZTZmN2E2YTA4NjE0OWE3YzM2NDY0ZWYwMzAyMjQw",
   "tracks": [
     {
       "added_at": "2024-03-13 08:19:05",
@@ -311,26 +311,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Orient Spirit",
-        "url": "https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m"
-      },
-      "artists": [
-        {
-          "name": "Drinche",
-          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
-        },
-        {
-          "name": "Doan",
-          "url": "https://open.spotify.com/artist/0gENmAfzCZPPRrL6zoIPZC"
-        }
-      ],
-      "duration_ms": 147976,
-      "name": "Orient Spirit",
-      "url": "https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 200950,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Orient Spirit",
+        "url": "https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m"
+      },
+      "artists": [
+        {
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+        },
+        {
+          "name": "Doan",
+          "url": "https://open.spotify.com/artist/0gENmAfzCZPPRrL6zoIPZC"
+        }
+      ],
+      "duration_ms": 147976,
+      "name": "Orient Spirit",
+      "url": "https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -935,30 +935,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        },
-        {
-          "name": "Dj Iljano",
-          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
-        },
-        {
-          "name": "Kristian Gusho",
-          "url": "https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Dj Iljano",
+          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
+        },
+        {
+          "name": "Kristian Gusho",
+          "url": "https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH"
+      },
+      "artists": [
+        {
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 152555,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH"
-      },
-      "artists": [
-        {
-          "name": "Berat Oz",
-          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Sakaratou Achiqin",
         "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 139415,
       "name": "Sakaratou Achiqin",
       "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Sireli",
-        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
-      },
-      "artists": [
-        {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
-        }
-      ],
-      "duration_ms": 381818,
-      "name": "Souq",
-      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Love of You (The Violin Song)",
         "url": "https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ"
       },
@@ -1423,26 +1407,18 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+        "name": "Sireli",
+        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
       },
       "artists": [
         {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
         }
       ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+      "duration_ms": 381818,
+      "name": "Souq",
+      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1475,18 +1451,26 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
       },
       "artists": [
         {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1503,6 +1487,22 @@
       "duration_ms": 270015,
       "name": "La rose \u00e9ternelle",
       "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
     },
     {
       "added_at": "2024-03-13 08:19:05",

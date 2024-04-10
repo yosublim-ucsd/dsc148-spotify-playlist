@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,986 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,996 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 16 | [21](https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:27 |
 | 17 | [woo ah](https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Interlude](https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK) | 3:41 |
 | 18 | [Black Rose](https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:39 |
-| 19 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 |
-| 20 | [Infrared Camera](https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:25 |
+| 19 | [Infrared Camera](https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:25 |
+| 20 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 |
 | 21 | [Dank](https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:18 |
 | 22 | [Habit](https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 3:04 |
 | 23 | [I Love It](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:36 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 48 | [Point \(feat\. Loopy\)](https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:13 |
 | 49 | [Future Love](https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:00 |
 | 50 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 |
-| 51 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
-| 52 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 |
+| 51 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 |
+| 52 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
 | 53 | [kiss my lips](https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [kiss my lips](https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3) | 3:15 |
 | 54 | [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 |
 | 55 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
 | 60 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
 
-Snapshot ID: `MCxiYzQwZmQ3M2UzY2M0Mzk2NmE4NzNmMTQ3MDFhN2JjNzZlYjhiMzgy`
+Snapshot ID: `MCxjYTU4OWY3YjVmMmE0OGI2NDk5OTdjN2I3ZmRlNjA3OGFlYjczNTA4`

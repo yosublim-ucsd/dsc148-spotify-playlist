@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-163 songs - 8 hr 22 min
+166 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2024-02-01 |  |
 | [5 Estrellas](https://open.spotify.com/track/0Sh3aaIM6aQgdWBRFOsr1T) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas \(Official Video\)](https://open.spotify.com/album/7cKyxCWeAxtul23xrUoC6o) | 3:12 | 2024-01-29 | 2024-02-02 |
 | [Al Lau](https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Al Lau](https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st) | 2:44 | 2024-01-29 |  |
+| [Amigos \(with Becky G\)](https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Amigos \(with Becky G\)](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) | 2:31 | 2024-04-09 |  |
 | [Another day in America \(with Ozuna\)](https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Another day in America \(with Ozuna\)](https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW) | 2:47 | 2024-01-29 |  |
 | [Arranca](https://open.spotify.com/track/3WPqtAxAA8znGqNnxBDOvh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(Official Video\)](https://open.spotify.com/album/6VznFbGxdBaHzK54yApLEd) | 2:44 | 2024-01-31 | 2024-02-02 |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2024-01-29 |  |
@@ -108,6 +109,7 @@
 | [My Man](https://open.spotify.com/track/5XywStajT8EUnJefYwZP6C) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [My Man \(Official Video\)](https://open.spotify.com/album/6OeqW2pvP4fBQOWlrusH8i) | 3:02 | 2024-01-29 | 2024-01-31 |
 | [Na De Ti](https://open.spotify.com/track/2T13YgcHIyk9SiQkafcjeV) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:37 | 2024-01-29 |  |
 | [Nada Malo](https://open.spotify.com/track/4I1qopX9knBHznBLKZpAUi) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:23 | 2024-01-29 |  |
+| [NADA QUE DECIR](https://open.spotify.com/track/3s517OY43flGYhwMVRXU2F) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 1:57 | 2024-04-09 |  |
 | [Ni De Aquí, Ni De Allá](https://open.spotify.com/track/0ER7nWOV88M9EiNhItsvVA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:46 | 2024-02-14 |  |
 | [No Drama](https://open.spotify.com/track/5Jq958VQwRyQFujau4TMKD) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [No Drama](https://open.spotify.com/album/3LzwUe8NBJtLco5uK6bbGO) | 3:24 | 2024-01-29 |  |
 | [No Drama \- Cumbia Version](https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [No Drama \(Cumbia Version\)](https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW) | 3:02 | 2024-01-29 |  |
@@ -159,6 +161,7 @@
 | [Te Va Bien \(feat\. Darell\)](https://open.spotify.com/track/6Fm1HlUcIPN1ZZoVN5rTOa) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Cotidiano](https://open.spotify.com/album/3elvb3StY287PFlnP9wypM) | 4:41 | 2024-01-29 |  |
 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1) | 2:56 | 2024-03-30 |  |
 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 | 2024-03-28 | 2024-03-31 |
+| [Tiempo Sin Verte](https://open.spotify.com/track/6c8jkAgbVk44B8SwRi8vQs) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:16 | 2024-04-09 |  |
 | [Tokio](https://open.spotify.com/track/6fE7XcLoadUog7a85tVjne) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:32 | 2024-01-29 |  |
 | [TRÍO](https://open.spotify.com/track/6wCKKXJAfzP0BwPmLJKzrY) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:06 | 2024-01-29 |  |
 | [Tu Canción](https://open.spotify.com/track/7luRwvd1VnAkqzA9cNQ0ad) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 2:50 | 2024-01-29 |  |

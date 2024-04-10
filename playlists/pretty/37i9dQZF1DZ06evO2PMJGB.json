@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 223239,
+  "num_followers": 223349,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDk4M2VkZjk3NGEwYTAyYTViN2ZiMTliMDAxMGNlNDk0MjdmZTA3",
+  "snapshot_id": "MCw0NmY4YTFiNWZhZTU2MDFkNjAxYmIyMmFhZGFhZTk3MWJmZWJjMDBm",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
+        "name": "Virado No Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 167122,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
+      "duration_ms": 180755,
+      "name": "Mem\u00f3rias - Ao Vivo",
+      "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
     },
     {
       "added_at": null,
@@ -491,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 167122,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mari Fernandez Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/4GBXBjWiyAfZiKph3ThZTZ"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 201856,
       "name": "Deixa Eu Viver - Ao Vivo",
       "url": "https://open.spotify.com/track/0P0k5KoLcxi0kf1jik4v8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virado No Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 180755,
-      "name": "Mem\u00f3rias - Ao Vivo",
-      "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 
 > Bask in the sound of soul, old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,763 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,756 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 60 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
 | 61 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 | 62 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
-| 63 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 |
-| 64 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
-| 65 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
+| 63 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
+| 64 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 |
+| 65 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
 | 66 | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN) | 4:03 |
 | 67 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
 | 68 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 79 | [June's Cry](https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 3:56 |
 | 80 | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM) | 2:47 |
 
-Snapshot ID: `MCxjMjYyMGViYzAzMDgzOWMyMzEwM2QwMTQ1OWZkYmFkNDBjNWU3Mjcy`
+Snapshot ID: `MCwzOWRhZTk2OWU0OGQxNjMxMWNjMjE1YTUzYWY3OTRhY2U1ODFjMWM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,264 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,301 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 25 | [Trust In God \(feat\. Chris Brown\)](https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Trust In God / More Than Able](https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj) | 7:22 |
 | 26 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 |
 | 27 | [Graves Into Gardens](https://open.spotify.com/track/4rnoCR7AOaa6RWdyh7JgP0) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:43 |
-| 28 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
+| 28 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
 | 29 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 |
 | 30 | [Fall On Me \(Maverick City Music Version\)](https://open.spotify.com/track/3u17j60STzpuF3nBptem3b) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Fall On Me \(Maverick City Music Version\)](https://open.spotify.com/album/5AXnIJzI8jSbXecVXwJdMP) | 4:26 |
 | 31 | [Be Okay](https://open.spotify.com/track/717CKNCKUdDL17beOjQQEi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:28 |
 | 32 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 |
-| 33 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
+| 33 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 | 34 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 |
 | 35 | [COUNT 'EM](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 |
 | 36 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Way Too Good](https://open.spotify.com/track/0dNgklMI9uv554WTCQTBQf) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Way Too Good](https://open.spotify.com/album/2liUsHwyNSDXNO1YPT6SXO) | 2:41 |
 | 50 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 |
 
-Snapshot ID: `MCw1ODYxYTk0MDAxOTc1NzNiMzEwMDNlOWY3ZWRjZDk4MjUzYzkzMWIw`
+Snapshot ID: `MCwyMjJmOTg2YjU5ZmVhMGQ1MWVmNDBlYTJkNzM1MGQ5N2NkZjYxZmUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,945 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,947 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 45 | [Mediakåt feat\. Timbuktu](https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Marknadens soldat](https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t) | 4:11 |
 | 46 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
 | 47 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
-| 48 | [Så nice](https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Så nice](https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y) | 2:49 |
+| 48 | [Twin Flame](https://open.spotify.com/track/1px6WAnyrXvXUx33U9KfIg) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [ANITYA](https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4) | 3:07 |
 | 49 | [Dunya](https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Reggaestrerad](https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG) | 3:43 |
 | 50 | [No Winners](https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 4:05 |
 
-Snapshot ID: `MCw2ODI5NmIxMTM0YmMzNmE4NDQ3N2E5ZWZjNTAzZTU2NTUzOGFjZmEw`
+Snapshot ID: `MCwzZDdkMzc2YzczZjljZjY4MDdhZmI3MWVhZjM4ZTU0ZWY2NDM5ZGQ1`

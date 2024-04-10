@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,224 likes - 130 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,258 likes - 130 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 126 | [I Promise](https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe) | [Ragawerk](https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1) | [I Promise](https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ) | 5:44 |
 | 127 | [Bismillah Bebop](https://open.spotify.com/track/10QbQoe99MuYC23CZIFbhs) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Bismillah Bebop](https://open.spotify.com/album/5egX3imy3hgSB4k4FyGDfo) | 2:26 |
 | 128 | [Fuel City](https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:52 |
-| 129 | [\#7](https://open.spotify.com/track/65dEGtv5Yb6WjxBIGdNEXg) | [Volkan Öktem](https://open.spotify.com/artist/2CKKVhnXg0a9sw0DOXmwLK) | [\#7](https://open.spotify.com/album/5g6wIyqWZk0c2YJ4NpHd1a) | 6:15 |
+| 129 | [\#7](https://open.spotify.com/track/03NPPRkxiX4KSkrgaRorbb) | [Volkan Öktem](https://open.spotify.com/artist/2CKKVhnXg0a9sw0DOXmwLK), [Ercüment Orkut](https://open.spotify.com/artist/6vRiEPlpxXPMYI4oRVmSe0), [Sarp Maden](https://open.spotify.com/artist/0WdjHXkPRTdmtpjfVUXKIY), [Can Sengun](https://open.spotify.com/artist/2g9wBMxofwKZupnI2rN6IE), [Serhat Şensesli](https://open.spotify.com/artist/28keHa70PpLRL1ARGGhT0s), [Mehmet Akatay](https://open.spotify.com/artist/2UUx1KCfgJe7q0J27CQHt2) | [\#7](https://open.spotify.com/album/0VmWX2I0M7MdED8BosZXan) | 6:15 |
 | 130 | [VHS Fireplace Love \- Live](https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [SmokeFace](https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf), [Gabe Jones](https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP) | [VHS Fireplace Love \(Live\)](https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy) | 2:44 |
 
-Snapshot ID: `MCxkMDRiM2ZiNWUzYzZlZWNmY2Y4MTI3YmJiN2IzNGQxN2VlMDkxOTZk`
+Snapshot ID: `MCw4YzU3NTllZTM2NWExNzNhYjlhYTI0YTY3NDVhOGI0MWMwNTUxMThj`

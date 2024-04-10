@@ -1,12 +1,12 @@
 {
   "description": "C\u00e1rgate de energia con el eclipse solar ",
-  "num_followers": 24504,
+  "num_followers": 25027,
   "original_name": "Eclipse Solar ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzVhM2JiMjQ4MDUyMTQ5OGMyYWRhNWEyZjFiM2FiMjVkYzg4Zjli",
+  "snapshot_id": "MCwzNTQ4NmM4Njg5ZmJlZTRkZGNjMWE2ZDBhZTMzYzcyODE1MWNlZThm",
   "tracks": [
     {
       "added_at": "2024-03-27 21:09:50",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-03-27 21:09:50",
       "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+    },
+    {
+      "added_at": "2024-03-27 21:09:50",
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -231,18 +247,18 @@
     {
       "added_at": "2024-03-27 21:09:50",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
       "artists": [
         {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2024-03-27 21:09:50",
@@ -259,22 +275,6 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
-    },
-    {
-      "added_at": "2024-03-27 21:09:50",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2024-03-27 21:09:50",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-03-27 21:09:50",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
       },
       "artists": [
         {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Lobo-hombre en Par\u00eds",
-      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
+      "duration_ms": 283872,
+      "name": "The Great Gig in the Sky",
+      "url": "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"
     },
     {
       "added_at": "2024-03-27 21:09:50",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-03-27 21:09:50",
       "album": {
-        "name": "The Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
       },
       "artists": [
         {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
         }
       ],
-      "duration_ms": 283872,
-      "name": "The Great Gig in the Sky",
-      "url": "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"
+      "duration_ms": 233266,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
     },
     {
       "added_at": "2024-03-27 21:09:50",
@@ -523,38 +523,6 @@
     {
       "added_at": "2024-03-27 21:09:50",
       "album": {
-        "name": "The Mike Oldfield Collection",
-        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "Moonlight Shadow",
-      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
-    },
-    {
-      "added_at": "2024-03-27 21:09:50",
-      "album": {
-        "name": "SINO",
-        "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Quiero Ver",
-      "url": "https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM"
-    },
-    {
-      "added_at": "2024-03-27 21:09:50",
-      "album": {
         "name": "The Dark Side of the Moon",
         "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
       },
@@ -583,6 +551,38 @@
       "duration_ms": 303213,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
+    },
+    {
+      "added_at": "2024-03-27 21:09:50",
+      "album": {
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
+    },
+    {
+      "added_at": "2024-03-27 21:09:50",
+      "album": {
+        "name": "SINO",
+        "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Quiero Ver",
+      "url": "https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM"
     },
     {
       "added_at": "2024-03-27 21:09:50",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-03-27 21:09:50",
       "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 130427,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
+    },
+    {
+      "added_at": "2024-03-27 21:09:50",
+      "album": {
         "name": "Fuego de Noche, Nieve de D\u00eda",
         "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 282565,
       "name": "Fuego de Noche, Nieve de D\u00eda",
       "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
-    },
-    {
-      "added_at": "2024-03-27 21:09:50",
-      "album": {
-        "name": "The Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 130427,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
     },
     {
       "added_at": "2024-03-27 21:09:50",

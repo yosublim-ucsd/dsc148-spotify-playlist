@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,094 likes - 159 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,136 likes - 159 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 | 158 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 |
 | 159 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 |
 
-Snapshot ID: `MCwwMDcwOTRiNDVlZDNiZTZmNzJjOWYwMGIyZjE5YjJjNWY4ZmY2YmU3`
+Snapshot ID: `MCwzN2U1NGRmMWZkZTJiNWU2OTYyMDU5ZTIyNjM5NzIzNjkxYjlhMDVh`

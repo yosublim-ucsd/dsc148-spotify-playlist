@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,267 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,278 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 22 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 23 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
 | 24 | [House Fire \(feat\. The Travelin' McCourys\)](https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Spotify Singles](https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD) | 3:34 |
-| 25 | [Tougher Than The Rest \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:52 |
-| 26 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
+| 25 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
+| 26 | [Tougher Than The Rest \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:52 |
 | 27 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 |
 | 28 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 |
 | 29 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 54 | [Everywhere I'm Goin' \(featuring Avenue Beat\)](https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 3:27 |
 | 55 | [Unforgettable \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 2:38 |
 | 56 | [Better Place \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:15 |
-| 57 | [Green Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:38 |
-| 58 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 |
+| 57 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 |
+| 58 | [Green Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:38 |
 | 59 | [Best Shot \(Spotify Singles\)](https://open.spotify.com/track/2WfVAdZp1iQ0OqwnNyKzlU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h) | 4:10 |
 | 60 | [Never Comin Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:21 |
 | 61 | [Burn Out \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 69 | [Reasons \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/track/0p0zVDWG6vS77NKDy9EiWL) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB) | 3:05 |
 | 70 | [Dear God \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/78GAT649ad19quwcuiuMQs) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:02 |
 
-Snapshot ID: `MCw4ODI0ZTM3NWNmZTNiNGQxOGZkZDUxMzM0MDY4MzkxZDAxYTllZGIz`
+Snapshot ID: `MCw1YWI5Y2YwNzg4NmY5YjNkMjNiOTNlMWUzYzI0YjUzOTJhYzk5YzBj`

@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 564098,
+  "num_followers": 564129,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODZjNGU2MjNkMWNhZGJhY2E5NWE5YTAzNzk0MjZjZWM3N2ZiY2Vk",
+  "snapshot_id": "MCw2YzQ5NTExOTY4MDkwZDRhZmVhZmU5NzI2OGZhYzQ1OWQ3MzI5ZGQ1",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+        "name": "ARETHA",
+        "url": "https://open.spotify.com/album/0RemO3TlI1NdaeWqdE4E9H"
       },
       "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
         {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 324666,
-      "name": "Fastlove, Pt. 1",
-      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+      "duration_ms": 240120,
+      "name": "I Knew You Were Waiting (For Me)",
+      "url": "https://open.spotify.com/track/2gJDyiRxxIglLXp545SPVL"
     },
     {
       "added_at": null,
@@ -111,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ARETHA",
-        "url": "https://open.spotify.com/album/0RemO3TlI1NdaeWqdE4E9H"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 240120,
-      "name": "I Knew You Were Waiting (For Me)",
-      "url": "https://open.spotify.com/track/2gJDyiRxxIglLXp545SPVL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -140,9 +124,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 411146,
-      "name": "Jesus to a Child",
-      "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
+      "duration_ms": 324666,
+      "name": "Fastlove, Pt. 1",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
     },
     {
       "added_at": null,
@@ -159,6 +143,22 @@
       "duration_ms": 265826,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 350666,
+      "name": "One More Try - Remastered",
+      "url": "https://open.spotify.com/track/5932kbyNt445gDTT2chRUS"
     },
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 350666,
-      "name": "One More Try - Remastered",
-      "url": "https://open.spotify.com/track/5932kbyNt445gDTT2chRUS"
+      "duration_ms": 411146,
+      "name": "Jesus to a Child",
+      "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
     },
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 280973,
-      "name": "Praying for Time - Remastered",
-      "url": "https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK"
+      "duration_ms": 280720,
+      "name": "Kissing a Fool - Remastered",
+      "url": "https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Listen Without Prejudice (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 280720,
-      "name": "Kissing a Fool - Remastered",
-      "url": "https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy"
+      "duration_ms": 280973,
+      "name": "Praying for Time - Remastered",
+      "url": "https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 289986,
-      "name": "Waiting for That Day - Remastered",
-      "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
+      "duration_ms": 230893,
+      "name": "Too Funky - Single Edit",
+      "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+        "name": "Listen Without Prejudice (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 230893,
-      "name": "Too Funky - Single Edit",
-      "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
+      "duration_ms": 289986,
+      "name": "Waiting for That Day - Remastered",
+      "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
     },
     {
       "added_at": null,

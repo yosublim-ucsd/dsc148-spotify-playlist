@@ -4,7 +4,7 @@
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-97 songs - 5 hr 33 min
+98 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-07-28 |  |
 | [Curita](https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Curita](https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF) | 3:26 | 2023-02-17 |  |
 | [De mí, de mí, de mí](https://open.spotify.com/track/71O4eV3KvxjJ2mycKTBvwr) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:37 | 2023-02-17 |  |
-| [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-02-17 |  |
+| [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-02-17 | 2024-04-10 |
 | [Despierta](https://open.spotify.com/track/2bPr8EZng6sAPnjp2qoPEV) | [Esotérica Tropical](https://open.spotify.com/artist/6XMptgUrnAltqp1lXz7vCs) | [Despierta](https://open.spotify.com/album/5XT45gWLliUZ1HjnQaZfS3) | 3:00 | 2023-04-18 |  |
 | [En Otra Vida](https://open.spotify.com/track/6jxwnoSEnnhmPWqCylbyEH) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [En Otra Vida](https://open.spotify.com/album/6krx2ErzaeocE6TXn7JglP) | 3:06 | 2023-02-17 |  |
 | [En Tu Mar](https://open.spotify.com/track/4a7wgmHW4wn7NEeAetauZD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 5:29 | 2023-02-17 |  |
@@ -81,6 +81,7 @@
 | [Quando Quando Quando \(Cuando Cuando Cuando\) \- Versión Bilingue](https://open.spotify.com/track/79Qy6fHoCuoOs5a8MypfAk) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Quando Quando Quando \(Cuando Cuando Cuando\) \(Versión Bilingue\)](https://open.spotify.com/album/717UtqPfKr75QEg6Q1CvSI) | 3:20 | 2023-02-17 |  |
 | [Quiero Enamorarte](https://open.spotify.com/track/1piCERW239XDrsdsyXxXwd) | [Grecia Vallejo](https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI) | [Quiero Enamorarte](https://open.spotify.com/album/0szu8Z1zY73sybd8CCyZdA) | 3:08 | 2023-07-28 |  |
 | [Quiero Quedarme](https://open.spotify.com/track/62NQL85GaZA7FE1ejQQgkE) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Quiero Quedarme](https://open.spotify.com/album/7JMcgEmmRUXb7cunOvi0In) | 3:48 | 2023-07-28 |  |
+| [Saudade \- Acústica](https://open.spotify.com/track/2BKj0Pf4phfcBRtoglzINN) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx) | [Saudade \(Acústica\)](https://open.spotify.com/album/6xDivDPrVwD7W7VymeNFQS) | 4:56 | 2024-03-01 |  |
 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 | 2023-02-17 | 2024-04-06 |
 | [Serenatas Frente al Mar](https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Serenatas Frente al Mar](https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie) | 3:17 | 2023-02-17 |  |
 | [Si Tu No Bailas Conmigo](https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 2:42 | 2023-02-17 |  |

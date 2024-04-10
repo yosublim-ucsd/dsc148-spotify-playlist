@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,605 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,654 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 32 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 |
 | 33 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 |
 | 34 | [Menina](https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:17 |
-| 35 | [Contigo](https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Contigo](https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH) | 3:08 |
-| 36 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
+| 35 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
+| 36 | [Contigo](https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Contigo](https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH) | 3:08 |
 | 37 | [Aroeira](https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s) | [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU), [Casa Amarela](https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs) | [Aroeira](https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb) | 2:53 |
 | 38 | [Em Outro Lugar](https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa) | 3:37 |
 | 39 | [coração tambor](https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 2:44 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 68 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
 | 69 | [Moradia](https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD) | [A Banca 021](https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9) | [Lírios São Deusas](https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss) | 3:08 |
 | 70 | [Baiana](https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:53 |
-| 71 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
-| 72 | [Com Certeza](https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Com Certeza](https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7) | 3:32 |
+| 71 | [Com Certeza](https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Com Certeza](https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7) | 3:32 |
+| 72 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
 | 73 | [Minha Preta](https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2) | [Bistro](https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx) | [Minha Preta](https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu) | 2:55 |
 | 74 | [Pode Acreditar](https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0) | [Pode Acreditar](https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf) | 3:39 |
 | 75 | [Dendê](https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [Tiné](https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz) | [Dendê](https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH) | 4:46 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 84 | [Vem de Lá](https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Pra Gente Acordar](https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI) | 3:00 |
 | 85 | [Sorriso De Agogô](https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Sorriso De Agogô](https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9) | 3:16 |
 
-Snapshot ID: `MCwwOWUzYWUyNWI0ZWE4NGU2NWFlY2M2ZGNiN2MzOTJlZmQ2NGRhZDFj`
+Snapshot ID: `MCwwYzJhMjdiMGI4NGE3NDgzNzkxOThjNzQ0OTkyM2Y3MDBmNGU0N2Y3`

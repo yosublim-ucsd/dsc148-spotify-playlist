@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,578 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,610 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 96 | [Young Lies](https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Young Lies](https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z) | 3:50 |
 | 97 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 |
 | 98 | [Hold Up](https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Hold Up](https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio) | 2:04 |
-| 99 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
-| 100 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
+| 99 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
+| 100 | [XTASIS CARNAL](https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i) | [SITA](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI), [Cardopusher](https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr) | [XTASIS CARNAL](https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID) | 3:51 |
 
-Snapshot ID: `MCw3MmRkOWMxYTY3ZjRiYmU4NjhkZmU2YTI1MDUwZWU0OWMyNjFlNjA3`
+Snapshot ID: `MCxiNzMwZmQ4YzhlYjk5YTViYmEwNGYzNTkxYmI2M2IzNmZkN2ZlNjk4`

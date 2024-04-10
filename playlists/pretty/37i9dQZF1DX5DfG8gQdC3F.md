@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Benson Boone, J\. Cole, ODIE, Lizzy McAlpine, Bryson Tiller, AP Dhillon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,207 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,201 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Nausia](https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0) | [Delachute](https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX) | [Nausia](https://open.spotify.com/album/7H1NAUGAZQxEjWfIvgfXAB) | 1:52 |
 | 100 | [PRESSURE](https://open.spotify.com/track/47M8dvlkQQcSV7IbjvK31V) | [TARiiiQ](https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g) | [PRESSURE](https://open.spotify.com/album/2T1Fegtgpa1rrve60p4s1Y) | 3:28 |
 
-Snapshot ID: `MCw3YjRlZjg5NTFiNTYxZDE5YmEyMDAxZWY4N2VhYzA0ZjE5NDc0NTc2`
+Snapshot ID: `MCw5OTFiMDhmNTk4YmIyN2U0ODhmNTdmNzg0ODFkODEyMzY3ZmFiOTBj`

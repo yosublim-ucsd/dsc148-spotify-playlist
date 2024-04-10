@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 303323,
+  "num_followers": 303389,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmNkZGNiNDBiMTcyYzEwYzk1ZDgwY2JhZjk3NTNmZTNkMTU2ZjZl",
+  "snapshot_id": "MCwwZmFkMThhMzZjY2FiNmJiMjMxZjgzNDFhYjc0Mjg1MmVhMzU5MTk2",
   "tracks": [
     {
       "added_at": "2024-04-05 05:00:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-04-05 05:00:00",
       "album": {
-        "name": "Crooked Teeth",
-        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        },
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 227749,
-      "name": "Sunrise Trailer Park",
-      "url": "https://open.spotify.com/track/0QoF2FmE6FtmxRneMb6Z7Y"
-    },
-    {
-      "added_at": "2024-04-05 05:00:00",
-      "album": {
         "name": "Game On (feat. Good Charlotte) [from \"Pixels - The Movie\"]",
         "url": "https://open.spotify.com/album/45qTcdlqFuZfj25pnYxeVL"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 227080,
       "name": "Game On (feat. Good Charlotte) - From \"Pixels - The Movie\"",
       "url": "https://open.spotify.com/track/2qUTxCqJW2Irez1eYZcGNx"
+    },
+    {
+      "added_at": "2024-04-05 05:00:00",
+      "album": {
+        "name": "Crooked Teeth",
+        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 227749,
+      "name": "Sunrise Trailer Park",
+      "url": "https://open.spotify.com/track/0QoF2FmE6FtmxRneMb6Z7Y"
     },
     {
       "added_at": "2024-04-05 05:00:00",
@@ -1136,7 +1136,7 @@
       "added_at": "2024-04-05 05:00:00",
       "album": {
         "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+        "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
       },
       "artists": [
         {
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
         }
       ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+      "duration_ms": 250213,
+      "name": "Unfuck The World",
+      "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
     },
     {
       "added_at": "2024-04-05 05:00:00",

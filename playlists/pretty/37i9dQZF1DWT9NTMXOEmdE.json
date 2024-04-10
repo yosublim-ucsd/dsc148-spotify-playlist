@@ -1,12 +1,12 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 491391,
+  "num_followers": 491434,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2U4OGY2YThmOGEwYzQ1YjMxZDY5OTExMWQ5NmFmZDk3Y2JlOGY3",
+  "snapshot_id": "MCwzMjY2YjUzNzVmYWE3NzZiZGMxYjIwOTY4MTVhOTNhNmNmMGYzZWEw",
   "tracks": [
     {
       "added_at": "2024-01-29 03:28:07",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-01-29 03:28:07",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
-    },
-    {
-      "added_at": "2024-01-29 03:28:07",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+    },
+    {
+      "added_at": "2024-01-29 03:28:07",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
     },
     {
       "added_at": "2024-01-29 03:28:07",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-29 03:28:07",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4VQH4VluDUOsOuDxccTeyN"
-    },
-    {
-      "added_at": "2024-01-29 03:28:07",
-      "album": {
         "name": "Welcome To The Madhouse (Deluxe)",
         "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "added_at": "2024-01-29 03:28:07",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4VQH4VluDUOsOuDxccTeyN"
     },
     {
       "added_at": "2024-01-29 03:28:07",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-01-29 03:28:07",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
-    },
-    {
-      "added_at": "2024-01-29 03:28:07",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2024-01-29 03:28:07",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 201660,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2024-01-29 03:28:07",
@@ -859,6 +843,22 @@
       "duration_ms": 164640,
       "name": "Magic In The Hamptons (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
+    },
+    {
+      "added_at": "2024-01-29 03:28:07",
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 201660,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
     },
     {
       "added_at": "2024-01-29 03:28:07",

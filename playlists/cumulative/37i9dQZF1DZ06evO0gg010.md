@@ -4,7 +4,7 @@
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 51 min
+79 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 | 2023-08-08 | 2024-04-04 |
 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 | 2023-08-08 |  |
 | [Desvelado](https://open.spotify.com/track/3YmjSVBCe6jXOUT0DQxy34) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Desvelado](https://open.spotify.com/album/3mAEZ4e27b2iFwnjY8enqt) | 3:30 | 2023-08-08 |  |
-| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2023-08-08 |  |
+| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN) | 1:53 | 2024-04-10 |  |
+| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2023-08-08 | 2024-04-10 |
 | [Don Chon \(En Vivo\)](https://open.spotify.com/track/0OeX94j6rMIBHX7DGlOGzB) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Don Chon \(En Vivo\)](https://open.spotify.com/album/1cBOY27IgwTFe342hIpGpX) | 3:46 | 2023-08-08 |  |
 | [El Deportivo](https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Deportivo](https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg) | 3:12 | 2023-08-08 |  |
 | [El Dinero Los Cambio](https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Dinero Los Cambio](https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4) | 3:04 | 2023-08-08 |  |

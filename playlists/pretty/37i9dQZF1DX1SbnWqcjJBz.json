@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 106172,
+  "num_followers": 106263,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzBmZWI1MmI1MmNkZjc0MGQ4MzczOTVkMzA4NzA3MWZlODFjNWQx",
+  "snapshot_id": "MCw2YjhhMjY1NDBmZDdkNTk3NGJiZTZkZGI3Yjg5MGM0MGRkNzVhNzk4",
   "tracks": [
     {
       "added_at": "2024-04-01 19:53:33",
@@ -215,18 +215,18 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 207506,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
       "added_at": "2024-04-01 19:53:33",
@@ -279,18 +279,18 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
         }
       ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+      "duration_ms": 207506,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
     },
     {
       "added_at": "2024-04-01 19:53:33",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
-        "name": "JoJo",
-        "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
-      },
-      "artists": [
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Leave (Get Out)",
-      "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
-    },
-    {
-      "added_at": "2024-04-01 19:53:33",
-      "album": {
         "name": "Dance Love Pop (The Love Love Love Edition)",
         "url": "https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 256213,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
+    },
+    {
+      "added_at": "2024-04-01 19:53:33",
+      "album": {
+        "name": "JoJo",
+        "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Leave (Get Out)",
+      "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
     },
     {
       "added_at": "2024-04-01 19:53:33",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2024-04-01 19:53:33",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 231846,
       "name": "Dance To This (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/2NjO87HyT80fsgejd3PLYW"
-    },
-    {
-      "added_at": "2024-04-01 19:53:33",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2024-04-01 19:53:33",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
-        "name": "I'm Not Dead",
-        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 214386,
-      "name": "U + Ur Hand",
-      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
-    },
-    {
-      "added_at": "2024-04-01 19:53:33",
-      "album": {
         "name": "Glory Days (Expanded Edition)",
         "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 213306,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP"
+    },
+    {
+      "added_at": "2024-04-01 19:53:33",
+      "album": {
+        "name": "I'm Not Dead",
+        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "U + Ur Hand",
+      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
     },
     {
       "added_at": "2024-04-01 19:53:33",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
-        "name": "Heart to Break",
-        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 225972,
-      "name": "Heart to Break",
-      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
-    },
-    {
-      "added_at": "2024-04-01 19:53:33",
-      "album": {
         "name": "Cherry (feat. Hayley Kiyoko)",
         "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 152511,
       "name": "Cherry (feat. Hayley Kiyoko)",
       "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
+    },
+    {
+      "added_at": "2024-04-01 19:53:33",
+      "album": {
+        "name": "Heart to Break",
+        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 225972,
+      "name": "Heart to Break",
+      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
     },
     {
       "added_at": "2024-04-01 19:53:33",
@@ -1432,8 +1432,8 @@
       },
       "artists": [
         {
-          "name": "That Poppy",
-          "url": "https://open.spotify.com/artist/5LtL2B9LC31DesMx7ihMFc"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
       "duration_ms": 205693,
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "Call Your Girlfriend",
-      "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
-    },
-    {
-      "added_at": "2024-04-01 19:53:33",
-      "album": {
         "name": "With The Music I Die (Deluxe)",
         "url": "https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 197586,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS"
+    },
+    {
+      "added_at": "2024-04-01 19:53:33",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Call Your Girlfriend",
+      "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
     },
     {
       "added_at": "2024-04-01 19:53:33",

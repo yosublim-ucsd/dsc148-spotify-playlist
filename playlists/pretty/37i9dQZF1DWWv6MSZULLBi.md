@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Jessica Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,996 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,009 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 77 | [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 |
 | 78 | [Modern Drugs](https://open.spotify.com/track/3mNM1ejXe4UD7wgQXfjYII) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [Oleander](https://open.spotify.com/album/7yDJmf44waRbeOx9pkdsZN) | 5:13 |
 | 79 | [Think About You](https://open.spotify.com/track/5sMNeg0MEPWlpbjwCg2gRH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Think About You](https://open.spotify.com/album/4L8dQDEmy0CCN0ZonRAthg) | 3:21 |
-| 80 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 |
+| 80 | [Looking For](https://open.spotify.com/track/2BFAQKgIqQSPNXuDw08C83) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:06 |
 | 81 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
 | 82 | [I Promise](https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [I Promise](https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs) | 3:41 |
 | 83 | [Wrong Side of Town](https://open.spotify.com/track/54CmSi5umQrbrTm3pujvT3) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Wrong Side of Town](https://open.spotify.com/album/60Bi9l5ek9Dytz2pEDxPCh) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Sometimes the Darts Hit the Wall](https://open.spotify.com/track/2NOIMtgcRNmQ2n93ZbyukF) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Nothing Lasts Forever \(B\-Sides\)](https://open.spotify.com/album/3RtPgB29r2QpPfK5L6H00j) | 3:43 |
 | 100 | [What You Don’t Know](https://open.spotify.com/track/6tp9ZObhuYqZb1lNPyMXxf) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [What You Don't Know](https://open.spotify.com/album/1fKYAXIj2jDoT5amgBVbSc) | 2:59 |
 
-Snapshot ID: `MCw4ZDQxNmNjZWMxMGNiN2E0Mzg4NTlhY2MwYTI5NzJlYWZkMzllZTM1`
+Snapshot ID: `MCxmMjVmYzU1NmFhZjJmNjg4N2RlOGYyOThkZjAxYWE1YTY2OGQyNzZk`

@@ -1,12 +1,12 @@
 {
   "description": "Crank it up. Cover: Brantley Gilbert",
-  "num_followers": 146981,
+  "num_followers": 146988,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWQxMTEzZDQ3YjIxZmQ3NThkNzE3M2YwYWI5ODk4MmMwMDliMmFl",
+  "snapshot_id": "MCw3OGIwOWY2ZDA5ZDU4NWNkYzA1Y2Y2MzhhNDhiZWUwMTcwZWQxMTM0",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
+      },
+      "artists": [
+        {
+          "name": "J. Hartley",
+          "url": "https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT"
+        }
+      ],
+      "duration_ms": 158685,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "The Grind",
         "url": "https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 186261,
       "name": "Duramax (feat. Young Gunner)",
       "url": "https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
-      },
-      "artists": [
-        {
-          "name": "J. Hartley",
-          "url": "https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT"
-        }
-      ],
-      "duration_ms": 158685,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Southern Son",
+        "url": "https://open.spotify.com/album/0HKbTKNK8B3Am937gbxRv0"
+      },
+      "artists": [
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Dam",
+      "url": "https://open.spotify.com/track/0YJRsd068DzbWWMMUiY5EJ"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Shawty In The Truck",
         "url": "https://open.spotify.com/album/09UnavWkODv3pS1HoYCNpp"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 273501,
       "name": "Shawty In The Truck",
       "url": "https://open.spotify.com/track/0XWiP7iQC1uOOW0gVCKDwY"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Southern Son",
-        "url": "https://open.spotify.com/album/0HKbTKNK8B3Am937gbxRv0"
-      },
-      "artists": [
-        {
-          "name": "Demun Jones",
-          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Dam",
-      "url": "https://open.spotify.com/track/0YJRsd068DzbWWMMUiY5EJ"
     },
     {
       "added_at": "2024-03-08 05:00:00",

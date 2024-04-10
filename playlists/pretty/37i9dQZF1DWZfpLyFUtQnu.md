@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,683 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,730 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 57 | [À nos souvenirs \- Pop Remix Radio Edit](https://open.spotify.com/track/0K61sOINxMC8p8yFC2qU30) | [Trois Cafés Gourmands](https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO) | [Un air de rien](https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE) | 3:12 |
 | 58 | [Quand tu danses](https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [En passant](https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs) | 4:25 |
 | 59 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
-| 60 | [Elle, tu l'aimes](https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 5:05 |
-| 61 | [En attendant](https://open.spotify.com/track/5mOU0uqJsqx2XVTvcGgMfD) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [n°9](https://open.spotify.com/album/4uBYBjrLksYgMtkUqSO10g) | 4:40 |
+| 60 | [En attendant](https://open.spotify.com/track/5mOU0uqJsqx2XVTvcGgMfD) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [n°9](https://open.spotify.com/album/4uBYBjrLksYgMtkUqSO10g) | 4:40 |
+| 61 | [Elle, tu l'aimes](https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 5:05 |
 | 62 | [Aimer à perdre la raison](https://open.spotify.com/track/2qGeC6tm9qwjQw0dNDMCzP) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Je ne chante pas pour passer le temps](https://open.spotify.com/album/7N1p95delnJ0Rqn7vndbjD) | 2:21 |
 | 63 | [Quelques mots d'amour](https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Sanson comme ils l'imaginent](https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU) | 3:50 |
 | 64 | [Manque d'Amour](https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Petite Amie \(Edition Délice\)](https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 |
 | 75 | [Pas toi \- au New Morning 1994 \(concert acoustique\)](https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN) | [Carole Fredericks](https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Fredericks, Goldman, Jones : Du New Morning au Zénith \(Live\)](https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S) | 5:23 |
 
-Snapshot ID: `MCw1OGE3MGVkYzY0ZTIxOTViNTFjY2NjMDkyOGE1MzQwNWMwMDI3OGZi`
+Snapshot ID: `MCxkYzgzYWFhYWU1MmM4MDdlZjcwYTNmYzFiMjRkNWZkZTExYThjOTcx`

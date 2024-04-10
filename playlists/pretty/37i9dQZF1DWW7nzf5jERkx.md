@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 
 > me acuerdo del día que del dinero yo me enamoré 💸💰💸 con Eladio Carrion en la portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,932 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,982 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 | 25 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 |
 | 26 | [Qué Más Pues?](https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:37 |
 | 27 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
-| 28 | [Pégate](https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Pégate](https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g) | 3:06 |
-| 29 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 |
+| 28 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 |
+| 29 | [Pégate](https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Pégate](https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g) | 3:06 |
 | 30 | [Fantasias](https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias](https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL) | 3:19 |
 | 31 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 |
 | 32 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 | 69 | [Tussi Code Mari](https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Crismj](https://open.spotify.com/artist/73085QUq0HermcHl8fg65T) | [Tussi Code Mari](https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K) | 2:52 |
 | 70 | [Imposible](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Imposible](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
 
-Snapshot ID: `MCxkZTVhNTcyOWU5Y2JiYTJjMjVkYTAyY2YyY2RjYjlmOTA5MThlYzNi`
+Snapshot ID: `MCxjYzVmMGJkZTdhNTliYTc4N2U3YWZiODIzZTM3NDY2Njk4MTk4NjM0`

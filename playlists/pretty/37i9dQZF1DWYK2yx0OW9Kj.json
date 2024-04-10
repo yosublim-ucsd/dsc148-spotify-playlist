@@ -1,12 +1,12 @@
 {
   "description": "Ritmo latino!",
-  "num_followers": 289616,
+  "num_followers": 289917,
   "original_name": "Workout Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjBkZmZhZmU3YzA3NWFjNThkMTI4NDYyNDI4NTZlZTYzMWI5MWIw",
+  "snapshot_id": "MCxhZGMwNWU4ZGExM2JiOWFmM2Q0ZjkzMTQ3MzBmNzU3N2UyZjdiMzQ5",
   "tracks": [
     {
       "added_at": "2024-03-21 13:19:49",
@@ -783,18 +783,22 @@
     {
       "added_at": "2024-03-21 13:19:49",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+      "duration_ms": 231848,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
       "added_at": "2024-03-21 13:19:49",
@@ -815,22 +819,18 @@
     {
       "added_at": "2024-03-21 13:19:49",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 231848,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2024-03-21 13:19:49",
@@ -891,30 +891,6 @@
     {
       "added_at": "2024-03-21 13:19:49",
       "album": {
-        "name": "MERCHO",
-        "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
-      },
-      "artists": [
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 161451,
-      "name": "MERCHO",
-      "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
-    },
-    {
-      "added_at": "2024-03-21 13:19:49",
-      "album": {
         "name": "Adicto (with Anuel AA & Ozuna)",
         "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 270740,
       "name": "Adicto (with Anuel AA & Ozuna)",
       "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
+    },
+    {
+      "added_at": "2024-03-21 13:19:49",
+      "album": {
+        "name": "MERCHO",
+        "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
+      },
+      "artists": [
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 161451,
+      "name": "MERCHO",
+      "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
     },
     {
       "added_at": "2024-03-21 13:19:49",
@@ -979,30 +979,6 @@
     {
       "added_at": "2024-03-21 13:19:49",
       "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Medallo",
-      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2024-03-21 13:19:49",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -1031,6 +1007,54 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2024-03-21 13:19:49",
+      "album": {
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2024-03-21 13:19:49",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 185194,
+      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
+      "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
     },
     {
       "added_at": "2024-03-21 13:19:49",
@@ -1067,50 +1091,6 @@
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
-    },
-    {
-      "added_at": "2024-03-21 13:19:49",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
-      "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
-    },
-    {
-      "added_at": "2024-03-21 13:19:49",
-      "album": {
-        "name": "Copa Vac\u00eda",
-        "url": "https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 173547,
-      "name": "Copa Vac\u00eda",
-      "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
     },
     {
       "added_at": "2024-03-21 13:19:49",
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2024-03-21 13:19:49",
       "album": {
+        "name": "Copa Vac\u00eda",
+        "url": "https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "Copa Vac\u00eda",
+      "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
+    },
+    {
+      "added_at": "2024-03-21 13:19:49",
+      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -1191,6 +1191,26 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2024-03-21 13:19:49",
+      "album": {
+        "name": "GAT\u00daBELA",
+        "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "GAT\u00daBELA",
+      "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
     },
     {
       "added_at": "2024-03-21 13:19:49",
@@ -1243,26 +1263,6 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
-    },
-    {
-      "added_at": "2024-03-21 13:19:49",
-      "album": {
-        "name": "GAT\u00daBELA",
-        "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "GAT\u00daBELA",
-      "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
     },
     {
       "added_at": "2024-03-21 13:19:49",

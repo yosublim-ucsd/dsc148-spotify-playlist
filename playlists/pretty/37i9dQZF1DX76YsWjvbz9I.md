@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,370 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,474 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 29 | [Fly Me To The Moon](https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [If I Ruled The World: Songs For The Jet Set](https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX) | 4:09 |
 | 30 | [I Only Have Eyes For You](https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:53 |
 | 31 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 |
-| 32 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 |
-| 33 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
+| 32 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
+| 33 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 |
 | 34 | [The Very Thought Of You](https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:48 |
 | 35 | [Hallelujah, I Love Him So](https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 2:30 |
 | 36 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 44 | [You Do Something To Me](https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 2:22 |
 | 45 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [John Rarig](https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 2:41 |
 | 46 | [What a Difference a Day Makes](https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Winners](https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr) | 3:36 |
-| 47 | [It's Magic](https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:41 |
-| 48 | [The Way You Look Tonight](https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 2:54 |
+| 47 | [The Way You Look Tonight](https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 2:54 |
+| 48 | [It's Magic](https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:41 |
 | 49 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 |
 | 50 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:02 |
 | 51 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 82 | [Sunny](https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Jeff Rach](https://open.spotify.com/artist/6YAlFgtCMJB9VKgKncFlTN) | [Lush Life](https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2) | 3:59 |
 | 83 | [I'm Glad There Is You](https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:30 |
 | 84 | [You Leave Me Breathless](https://open.spotify.com/track/61G1SRmkZ99bVo9LbwQ4Tk) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé: It's a Blue World](https://open.spotify.com/album/5IOuMdNEEdJjJY7n7yad4H) | 3:23 |
-| 85 | [Isn't It Romantic](https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:21 |
-| 86 | [The Song Is You](https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:12 |
+| 85 | [The Song Is You](https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:12 |
+| 86 | [Isn't It Romantic](https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:21 |
 | 87 | [I've Got You Under My Skin](https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Sings The Music Of Cole Porter](https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak) | 3:52 |
 | 88 | [Long Ago and Far Away](https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:49 |
 | 89 | [Let's Call The Whole Thing Off](https://open.spotify.com/track/0K4EFVqPaD9cpx7h42YycE) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [Then I'll Be Tired Of You](https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:19 |
 | 100 | [Have You Met Miss Jones](https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [You Are Free](https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7) | 2:05 |
 
-Snapshot ID: `MCw1ODNjZDVkZWFlZGNjOTAwMWQxZWY5YjhhOWFmYTU3MTU3MmZkM2E4`
+Snapshot ID: `MCxiMTFiYTdhZDcxMjdiMzI2N2QzNWY1ODNjMGE2NmYzMjQ1ZDRiYTdj`

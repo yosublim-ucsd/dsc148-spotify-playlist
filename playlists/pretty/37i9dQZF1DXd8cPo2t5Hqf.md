@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,425 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,558 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 39 | [結んで開いて羅刹と骸 \- ORIGINAL](https://open.spotify.com/track/78CLS3KSLe3oYvJQ7qCEqj) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:25 |
 | 40 | [Amazing Dolce](https://open.spotify.com/track/7JucHvsSRuhHMIPvLEbfil) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [VersuS](https://open.spotify.com/album/2DWNJqjSMxk1CJbXPOppkw) | 3:57 |
 | 41 | [メルト \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/6nWONiqCJwFxKKfAJSKaev) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 4:44 |
-| 42 | [Teo](https://open.spotify.com/track/0avbIGWVb4n7CcbomSEogt) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [The First Waltz](https://open.spotify.com/album/5pZ8vurC6h4uSCwkjCHnHz) | 3:30 |
-| 43 | [Common World Domination](https://open.spotify.com/track/1A0k6cjkrCxH3Hx7Awb2G2) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Obscure Questions](https://open.spotify.com/album/2xvhRorWCrTSC5Uv44ARa6) | 3:20 |
+| 42 | [Common World Domination](https://open.spotify.com/track/1A0k6cjkrCxH3Hx7Awb2G2) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Obscure Questions](https://open.spotify.com/album/2xvhRorWCrTSC5Uv44ARa6) | 3:20 |
+| 43 | [Teo](https://open.spotify.com/track/0avbIGWVb4n7CcbomSEogt) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [The First Waltz](https://open.spotify.com/album/5pZ8vurC6h4uSCwkjCHnHz) | 3:30 |
 | 44 | [リンちゃんなう!](https://open.spotify.com/track/6SbEHBJnDWhzCEBbRUNnVz) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス\\\(^o^\)/](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:47 |
 | 45 | [Hand in Hand](https://open.spotify.com/track/7kgTu64wW8N6s4GTk0ksNO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hand in Hand](https://open.spotify.com/album/6Cu3utCV4ysD3RjaeIWE6d) | 5:12 |
 | 46 | [ワールズエンド・ダンスホール \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/3mMurBEHetvgoEOJRa3biN) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 3:43 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 48 | [サンドリヨン](https://open.spotify.com/track/3nmWtDD1yyHR4EEBUSmUK0) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [SIGNALOID BOX](https://open.spotify.com/album/0IBUFc6zEx7Hl8UkoDofX2) | 4:37 |
 | 49 | [秘密警察](https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP) | [Buriru](https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv) | [秘密警察](https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe) | 3:30 |
 | 50 | [ココロ](https://open.spotify.com/track/6gsd0653qu7ePqE2gXA2ET) | [Toraboruta](https://open.spotify.com/artist/3SF34yWtPytpoOfEz4GuW4) | [トラボティック・チューン](https://open.spotify.com/album/7ARxgUQPhcLdsGau2yblFB) | 4:42 |
-| 51 | [SLoWMoTIoN](https://open.spotify.com/track/5moGDgg9undWOE9Uyz0kAO) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 5:13 |
-| 52 | [Kunoichi Demo Koi ga Shitai](https://open.spotify.com/track/5lU6C6UZ0uJUTQtFNQKHJp) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Boku wa Hatsue Miku to Kiss wo Shita](https://open.spotify.com/album/57Nadno9S8RWypTTdCs9eZ) | 4:15 |
+| 51 | [Kunoichi Demo Koi ga Shitai](https://open.spotify.com/track/5lU6C6UZ0uJUTQtFNQKHJp) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Boku wa Hatsue Miku to Kiss wo Shita](https://open.spotify.com/album/57Nadno9S8RWypTTdCs9eZ) | 4:15 |
+| 52 | [SLoWMoTIoN](https://open.spotify.com/track/5moGDgg9undWOE9Uyz0kAO) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 5:13 |
 | 53 | [Blackjack](https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy) | [yuchaP](https://open.spotify.com/artist/1qAJAdT5gGxHdBQDcD13qT) | [Trump](https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ) | 2:38 |
 | 54 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
 | 55 | [アゲアゲアゲイン](https://open.spotify.com/track/27Jj60JmDXAqheRZ1XRBeG) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [グレイテスト・アイドル](https://open.spotify.com/album/0Pj2RT0PsvryvBrC8B0tS4) | 3:42 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 95 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
 | 96 | [アカツキアライヴァル](https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1) | [Last Note.](https://open.spotify.com/artist/2LMMds4dvScJB1JGwY42SJ) | [アカツキアライヴァル](https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU) | 4:42 |
 | 97 | [Lol \(Lots of Laugh\)](https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj) | [Mikumix](https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH) | [Lots of Love \(feat\. 初音ミク\)](https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn) | 3:35 |
-| 98 | [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 |
+| 98 | [1/6 \-out of the gravity\- \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/7aO5JsjJXsmVbmCqrrPZgS) | [vocaliod\-P\(noa\)](https://open.spotify.com/artist/7sSRpSgATx1LST4S5zy7Ca) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:20 |
 | 99 | [片想いサンバ](https://open.spotify.com/track/0Eg4oaHuQY9GGn7YMjIvpu) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス\\\(^o^\)/](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:58 |
-| 100 | [1/6 \-out of the gravity\- \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/7aO5JsjJXsmVbmCqrrPZgS) | [vocaliod\-P\(noa\)](https://open.spotify.com/artist/7sSRpSgATx1LST4S5zy7Ca) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:20 |
+| 100 | [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 |
 
-Snapshot ID: `MCxiNmQ2YTFkMjM4Njg0M2FiN2YwOTQ4MmQwNmM5ZjM2ZGRmOGE2MzE3`
+Snapshot ID: `MCw0NTI3Y2NlZjZlNzAxNjAwYWU5ODI0NDZjZDUzNmNmYzMxOTZjZDQ2`

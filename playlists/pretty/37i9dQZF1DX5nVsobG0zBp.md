@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: T\-Rex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,779 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,836 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 32 | [Tou Bem \(feat\. Lhast\)](https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 3:11 |
 | 33 | [Voodoo](https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR) | 4:50 |
 | 34 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
-| 35 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 |
+| 35 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
 | 36 | [Perseus](https://open.spotify.com/track/2QXQFSyhpnisPQnNd76Fh7) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 3:34 |
 | 37 | [Lisabona](https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Lisabona](https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN) | 3:12 |
-| 38 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
+| 38 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 |
 | 39 | [Nada a Esconder](https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3) | 3:38 |
 | 40 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
 | 41 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
 | 80 | [Incondicional](https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Incondicional](https://open.spotify.com/album/2P0qrKBUGVHvzvZLcParmC) | 3:25 |
 
-Snapshot ID: `MCwwZGViNDU4OTBmZTcxYjdiMjU2NjVlNzhjMDA5MGM4MWY1MDgzMzMz`
+Snapshot ID: `MCxhZWM3MzhmNTJlNDBkNGE3ZDMyMmFkNmM2MTRkNjY4ZGNiNzE3MGMz`

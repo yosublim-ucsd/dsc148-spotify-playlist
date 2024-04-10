@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2034684,
+  "num_followers": 2034748,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQ2MDAsZmRmZDQxODE0MDJjZTY0OGM1NWNkOTkzMDgzNWZmOWZmZTkxMTg0OQ==",
+  "snapshot_id": "MTQ2MDQsMTg0MGY5MDUyNWYyNzRjMTE3NmFhYWY1NzZhOTM4MTQ1OWJkYThhMA==",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -505,6 +505,30 @@
       "url": "https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem"
     },
     {
+      "added_at": "2024-04-09 01:22:30",
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/3KBVXBO7pwOt1ipbsXzFqY"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "SlidV",
+          "url": "https://open.spotify.com/artist/6UYUBOw0pUtH0cBNBYWubY"
+        }
+      ],
+      "duration_ms": 120114,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/5WO7yqMKakL5DBE7TR0xLL"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "obsessed",
@@ -739,6 +763,26 @@
       "duration_ms": 224000,
       "name": "Stay - Afinity Remix",
       "url": "https://open.spotify.com/track/4ua1RUmrzlORhk0TDfrTK6"
+    },
+    {
+      "added_at": "2024-04-09 18:13:50",
+      "album": {
+        "name": "x64",
+        "url": "https://open.spotify.com/album/06MKtPow9XGQ90Cdeu01t1"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Brothel",
+          "url": "https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0"
+        }
+      ],
+      "duration_ms": 85090,
+      "name": "x64",
+      "url": "https://open.spotify.com/track/7ctc71EmaCvC4fP6524f4T"
     },
     {
       "added_at": "2024-01-29 22:53:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,128 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,131 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 22 | [More Than Words](https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp) | 3:34 |
 | 23 | [Argumento \(Spotify Singles\)](https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \(Spotify Singles\)](https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG) | 3:23 |
 | 24 | [bad guy \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66wi6NRfwsula1n68bJEod) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 2:47 |
-| 25 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 |
-| 26 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
+| 25 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
+| 26 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 |
 | 27 | [NO CHÃO NOVINHA \(feat\. Anitta\) \- Spotify Singles](https://open.spotify.com/track/4qqKYtFZmduS5mP6w3vRCV) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Dj Méury](https://open.spotify.com/artist/40ksVxRxRIP4ayr9kGB813), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [NO CHÃO NOVINHA \(feat\. Anitta\) \- Spotify Singles](https://open.spotify.com/album/1eINGKV81kCl8F4sfhSEbO) | 2:01 |
 | 28 | [Hasta la Noche \(Ilegal\)](https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8) | 5:07 |
 | 29 | [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 69 | [Bestia Pequeña \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 3:01 |
 | 70 | [Alemania \- Spotify Singles \(Blackpaw Remix\)](https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [BLACKPAW](https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 4:10 |
 
-Snapshot ID: `MCwwOTNmNzljMjA4MWNiYmI3NTBmODUwZDEyMTBkNGExOGExM2IyYWUz`
+Snapshot ID: `MCw0YTRiMzZiZjYxZWZlODA0ZjI1YTUwMDJiYTA5YTllYTgwMjAyODMw`

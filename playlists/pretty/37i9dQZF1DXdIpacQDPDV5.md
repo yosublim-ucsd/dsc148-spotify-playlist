@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: David Guetta and OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,086 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,093 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 29 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
 | 30 | [Only the Good Die Young](https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [SpaceMan Zack](https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK) | [Genesis](https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL) | 2:56 |
 | 31 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 |
-| 32 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
+| 32 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
 | 33 | [I Go Dance](https://open.spotify.com/track/5YdMBvsr5rLpgi5euODejU) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [I Go Dance](https://open.spotify.com/album/455CmcER7FNeMwmpN4ND4n) | 2:56 |
 | 34 | [Settle For Less](https://open.spotify.com/track/2JnF9w6ONUVFN1JqhgZYSn) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Settle For Less](https://open.spotify.com/album/2sp2DmqYC3CKn8XwInSqYU) | 4:04 |
 | 35 | [Hello Shadow](https://open.spotify.com/track/1CKcs7j0jxdGDCWrntDQil) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Dani Doucette](https://open.spotify.com/artist/2alhJ7s3IXafk9N2mGHYF2) | [Hello Shadow](https://open.spotify.com/album/10POjyRzJ6sOOTfnxrIfzA) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [You Know](https://open.spotify.com/track/60xgrlVs9s2PVnnde7MzKy) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ) | [You Know](https://open.spotify.com/album/0j7nNDOyfkzumsr9EJ9SHx) | 3:09 |
 | 70 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 
-Snapshot ID: `MCxmNWQ0MGJlYWMwYWQzYWI3Y2JhZTRlNjFhMjgyZDQzZjViNTFlZTE0`
+Snapshot ID: `MCwyNDlkNmZkOTAxMmE3Zjg0ZjFjMzZkOTUwNWJjZWM4MTJjY2I3NjNk`

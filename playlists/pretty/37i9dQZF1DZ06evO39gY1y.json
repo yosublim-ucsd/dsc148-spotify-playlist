@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 220790,
+  "num_followers": 220855,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDkzZDc3ODIyYzgwMmNhNmU0MWYyMGJjOWMzYTMwMmEwZjFjZDE1",
+  "snapshot_id": "MCw2ZjQ5OGZmODcwZmEzZjQ4OGFhOGJiYWM0YmE1NjMyODRjYzQyOWFl",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "P\u00e9talos",
+      "url": "https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta Que la Muerte Nos Separe",
         "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
       },
@@ -511,18 +527,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+        "name": "Buen Pez",
+        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
       "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 221600,
-      "name": "P\u00e9talos",
-      "url": "https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU"
+      "duration_ms": 256799,
+      "name": "Naranja a Morado",
+      "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
     },
     {
       "added_at": null,
@@ -563,30 +587,6 @@
       "duration_ms": 279014,
       "name": "Hace Tanto Tiempo",
       "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buen Pez",
-        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Naranja a Morado",
-      "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
     },
     {
       "added_at": null,

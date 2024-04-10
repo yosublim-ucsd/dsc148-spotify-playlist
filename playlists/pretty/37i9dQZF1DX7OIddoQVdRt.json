@@ -1,33 +1,13 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 628079,
+  "num_followers": 628137,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2NjNGQ2NTc4MWRmYzhiOTdhYjI3NWJmODJiNDBiOTk0MjRlMjg1",
+  "snapshot_id": "MCw2OGNmM2RjMDQ0NTQ4MGI1Njc4NGNkYTZhZGY1NzI3YjgzMWQxMjYw",
   "tracks": [
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
@@ -55,6 +35,26 @@
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/3zcJQVAiPUCcOcUcIg62lY"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 583624,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/2jStgsgQWFNIKdloTLJd6F"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Trust In God / More Than Able",
         "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 598622,
       "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/0Mqrd6fg80trlHLn4BcYBO"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/3zcJQVAiPUCcOcUcIg62lY"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 583624,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/2jStgsgQWFNIKdloTLJd6F"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 275726,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "I Got Out",
         "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 297653,
       "name": "I Got Out",
       "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 275726,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "I Am (Radio Edit)",
-        "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
-      },
-      "artists": [
-        {
-          "name": "Jason Nelson",
-          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
-        }
-      ],
-      "duration_ms": 287674,
-      "name": "I Am - Radio Edit",
-      "url": "https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Think About These Things",
         "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 153853,
       "name": "Winning",
       "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "I Am (Radio Edit)",
+        "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        }
+      ],
+      "duration_ms": 287674,
+      "name": "I Am - Radio Edit",
+      "url": "https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Speak Your Name",
         "url": "https://open.spotify.com/album/2cidAYdXd5N47PfrCKmMTe"
       },
@@ -1215,22 +1199,18 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
-        "url": "https://open.spotify.com/album/3nR5pUJkbh6Jm42JPjuZxL"
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        },
-        {
-          "name": "The Boys Choir Of Harlem",
-          "url": "https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11"
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
         }
       ],
-      "duration_ms": 250107,
-      "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
-      "url": "https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd"
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1251,6 +1231,26 @@
       "duration_ms": 331223,
       "name": "See The Goodness (feat. Donnie McClurkin)",
       "url": "https://open.spotify.com/track/61XwybzaaNHNp3wsD9x87Q"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
+        "url": "https://open.spotify.com/album/3nR5pUJkbh6Jm42JPjuZxL"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "The Boys Choir Of Harlem",
+          "url": "https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11"
+        }
+      ],
+      "duration_ms": 250107,
+      "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
+      "url": "https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1307,6 +1307,22 @@
       "duration_ms": 224136,
       "name": "Transitions",
       "url": "https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "duration_ms": 254069,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1379,22 +1395,6 @@
       "duration_ms": 346096,
       "name": "Come Together (feat. Tim Bowman Jr., Joy Enriquez, Kirk Franklin, Kelontae Gavin, Fred Hammond, Heavenly Joy, Le'Andria Johnson, Lecrae, Mary Mary, Jac Ross, Marvin Sapp, Karen Clark Sheard, Kierra Sheard & Shelby 5)",
       "url": "https://open.spotify.com/track/7DpfOkks38EfsrVcG9Zmhw"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        }
-      ],
-      "duration_ms": 254069,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
     },
     {
       "added_at": "2024-02-02 06:37:59",

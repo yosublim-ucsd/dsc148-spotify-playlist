@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,802 likes - 198 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,890 likes - 198 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 197 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 |
 | 198 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 |
 
-Snapshot ID: `MCw2ODYyMWY4ZTUwYjBlOGY5YmIzMmZkMDNiNTdiMjA0NTg5MGFlNmQ0`
+Snapshot ID: `MCxlY2Y3ZDQwZDcxNzBhMjZjN2RiYjJmN2I3NmM3MDJiMDRkMWJjYTRi`

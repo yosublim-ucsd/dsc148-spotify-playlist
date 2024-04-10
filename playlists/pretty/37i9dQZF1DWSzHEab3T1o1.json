@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7521,
+  "num_followers": 7518,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDg1MTNjN2RkZmZhMDU1MzcxZGUyOGU4YjY1Y2Q3NWY5ZGFmMGYz",
+  "snapshot_id": "MCw3MmM4MTVhOTI2YmFmMjMwYTNkYWY0Y2I0NzM3ZDBjMGI4MDRiN2Qw",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -791,6 +791,30 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "B\u00e9same (I Need You) (with TINI & Reik)",
+        "url": "https://open.spotify.com/album/6F3AXexyqa3xH9VZPB7VrA"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 136200,
+      "name": "B\u00e9same (I Need You) (with TINI & Reik)",
+      "url": "https://open.spotify.com/track/25c15KvAiyM8DNmDoFqwzm"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Pa' La Cultura",
         "url": "https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu"
       },
@@ -839,30 +863,6 @@
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "B\u00e9same (I Need You) (with TINI & Reik)",
-        "url": "https://open.spotify.com/album/6F3AXexyqa3xH9VZPB7VrA"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 136200,
-      "name": "B\u00e9same (I Need You) (with TINI & Reik)",
-      "url": "https://open.spotify.com/track/25c15KvAiyM8DNmDoFqwzm"
     },
     {
       "added_at": "2021-12-31 04:31:13",

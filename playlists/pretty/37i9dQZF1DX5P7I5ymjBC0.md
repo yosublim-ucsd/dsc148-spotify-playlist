@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,138 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,155 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 31 | [Dil Mein Ab](https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Paniya](https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW) | 3:10 |
 | 32 | [Naina Morey \- Redefined](https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f) | [Umashankar Kathak](https://open.spotify.com/artist/0gn4c6YbczAGbmASu6EAor), [Jayesh Kathak](https://open.spotify.com/artist/1fyiw6fCA8sUoUQkainmWB), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Naina Morey \(Redefined\)](https://open.spotify.com/album/0uli1eOLGrt76V11eFtity) | 3:22 |
 | 33 | [Seekho Na](https://open.spotify.com/track/0hFEqnYMbPJab6KjdKETkx) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Ab Ke Sawan](https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv) | 5:55 |
-| 34 | [Making Music](https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Making Music](https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB) | 12:29 |
-| 35 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 |
+| 34 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 |
+| 35 | [Making Music](https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Making Music](https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB) | 12:29 |
 | 36 | [Samjhe Na](https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Ruchika Chauhan](https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1) | [Samjhe Na](https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq) | 3:17 |
 | 37 | [Jaa Kaga](https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jaa Kaga](https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1) | 5:10 |
 | 38 | [Yariyaan](https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Yariyaan \- Single](https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV) | 5:11 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 44 | [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 |
 | 45 | [Rasiya](https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:08 |
 | 46 | [Coming Home \(feat\. Akanksha Grover\)](https://open.spotify.com/track/04NnuTb5FhhGcbnFqsMMMf) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Akanksha Grover](https://open.spotify.com/artist/5d78XABQ0O7YUJu7uI65Tj) | [In Other Words](https://open.spotify.com/album/0KruLNQDR6hriRFxMTFCwq) | 4:54 |
-| 47 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 |
-| 48 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 |
+| 47 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 |
+| 48 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 |
 | 49 | [Albela](https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Rishabh Shankar](https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g) | [Albela](https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ) | 2:15 |
 | 50 | [Barsan Lagi](https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Barsan Lagi](https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4) | 3:39 |
 
-Snapshot ID: `MCwyNDg5NGU0MmNjOWYyN2M0MDJkYmRmNjRkY2Y3OTdlZDI3YThmMGE5`
+Snapshot ID: `MCw3ZWMxY2RiYTlmYmNjMGVlNzc0NmVlOGVhZTQwMWJiMzMwNWU5Mjdl`

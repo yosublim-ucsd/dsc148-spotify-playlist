@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2003\. Photo : Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,217 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,221 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 57 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 |
 | 58 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
 | 59 | [Addictive](https://open.spotify.com/track/36jSIOSE72neBbKntCthqw) | [Truth Hurts](https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Truthfully Speaking](https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0) | 3:46 |
-| 60 | [Put That Woman First](https://open.spotify.com/track/3OQu3z3okKVmWxSXTTHak5) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Still Ghetto](https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa) | 4:05 |
+| 60 | [DJ](https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Brut de femme](https://open.spotify.com/album/36WsF1tlYfQtOSiU3Tozb7) | 4:30 |
 
-Snapshot ID: `MCxlNTBlNzhhZmYwY2JkYjI2NTc5MTBlYzZlYWVhMGU3ODZhMGJmY2Ew`
+Snapshot ID: `MCwzZTY4NDBiNTNmNGE1ODg1OWZiODM0YzE3OGU4NDI0ZDRhZjI1ODg4`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. Cover: Bananarama",
-  "num_followers": 748395,
+  "num_followers": 749130,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjRiNjJhNWNjZTNkNWZiMDZiYWY1YWMzZDg4ZmVjNGQ2YTYzMTEw",
+  "snapshot_id": "MCw3OTg2YmYyMjNkZWFiNjdmZGMyYmU0ZTJmODI0YTA2NDVjOWU3OGU2",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/4wswaG5vmNINMZcVBsAyBP"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Speak and Spell (Deluxe)",
@@ -883,6 +867,22 @@
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
     },
     {
-      "added_at": "2021-03-22 14:12:29",
-      "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
@@ -1059,6 +1043,22 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2021-03-22 14:12:29",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Cosmic Thing",
@@ -1175,6 +1159,22 @@
       "duration_ms": 320680,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Branigan",
-        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 289853,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Tell It to My Heart (Expanded Edition)",
@@ -1319,6 +1303,22 @@
       "duration_ms": 220880,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Branigan",
+        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 289853,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Hot, Cool & Vicious",
-        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Points On The Curve",
@@ -1531,6 +1515,22 @@
       "duration_ms": 240800,
       "name": "Dance Hall Days",
       "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 285253,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
         "name": "Live Is Life",
         "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
       },
@@ -1633,24 +1653,20 @@
       "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Stompin' At The Savoy",
-        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
       },
       "artists": [
         {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 285253,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1699,22 +1699,6 @@
       "duration_ms": 180517,
       "name": "Need You Tonight",
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1735,6 +1719,22 @@
       "duration_ms": 235693,
       "name": "Say Say Say - Remastered 2015",
       "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "A Flock Of Seagulls",
         "url": "https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 308933,
       "name": "I Ran (So Far Away)",
       "url": "https://open.spotify.com/track/4OdhffpvG3HxDJMxYOKh97"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "A View to a Kill",
-      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "In the Heat of the Night",
         "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 387866,
       "name": "Just an Illusion",
       "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
       "added_at": "2021-09-08 13:09:25",

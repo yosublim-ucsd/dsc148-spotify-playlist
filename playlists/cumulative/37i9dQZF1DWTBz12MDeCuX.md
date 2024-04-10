@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Artemas
 
-1,784 songs - 3 day 12 hr 20 min
+1,786 songs - 3 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1131,6 +1131,7 @@
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-13 | 2022-11-22 |
 | [Ode an den Bass](https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Ode an den Bass](https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD) | 3:20 | 2024-01-18 |  |
 | [OFFLINE](https://open.spotify.com/track/1DLVP4YYfmSey1gBcELyJg) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [OFFLINE](https://open.spotify.com/album/0DQBs1u62ihgJjlsISodTb) | 2:18 | 2023-04-27 | 2023-06-23 |
+| [Oft gefragt](https://open.spotify.com/track/6J07Aeq7fOW5Xx9mFtwyoH) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Wird schon irgendwie gehen](https://open.spotify.com/album/6rPH0earhgbVZgLqbuW5Ky) | 2:58 | 2024-04-09 |  |
 | [Oh Babe!](https://open.spotify.com/track/5aNUDH2XjGidP1MTlDnzru) | [Pink Katana](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Oh Babe!](https://open.spotify.com/album/6NtQF9MfErIx60RNd4GPeo) | 2:42 | 2022-07-07 | 2022-07-29 |
 | [Oh Mein Gott](https://open.spotify.com/track/0gwfltCPKwcIRcRNBxbb4W) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [overshiaat](https://open.spotify.com/artist/6qex612ghzehNlkz3etsJV) | [Oh Mein Gott](https://open.spotify.com/album/4gg8YmpvpmSEdgWjt3msU2) | 4:34 | 2023-01-06 | 2023-02-03 |
 | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY) | 2:27 | 2022-06-09 | 2022-06-24 |
@@ -1323,7 +1324,7 @@
 | [Schreien! \- Turbo Remix](https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Schreien! \(Turbo Remix\)](https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE) | 2:45 | 2023-06-01 | 2023-07-18 |
 | [Schwarz](https://open.spotify.com/track/1rZl80jlCeG9DoidzEVd78) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Schwarz](https://open.spotify.com/album/2Nyyn1Z361DRqf21A81JAf) | 2:18 | 2023-01-19 | 2023-03-03 |
 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 | 2023-09-21 | 2023-12-05 |
-| [schwarzer toyota](https://open.spotify.com/track/6zV5WGrUYlR2i4AiaKfrKN) | [skrt cobain](https://open.spotify.com/artist/7rlplvcY6ubrKGdhRJUvuV), [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [schwarzer toyota](https://open.spotify.com/album/3jqLPA1NJbCGkZIBLNaW1k) | 1:56 | 2024-02-08 |  |
+| [schwarzer toyota](https://open.spotify.com/track/6zV5WGrUYlR2i4AiaKfrKN) | [skrt cobain](https://open.spotify.com/artist/7rlplvcY6ubrKGdhRJUvuV), [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [schwarzer toyota](https://open.spotify.com/album/3jqLPA1NJbCGkZIBLNaW1k) | 1:56 | 2024-02-08 | 2024-04-10 |
 | [Schweinegeld](https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Schweinegeld](https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby) | 2:08 | 2023-12-21 | 2023-12-30 |
 | [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 | 2023-02-16 | 2023-03-28 |
 | [SchwippSchwapp](https://open.spotify.com/track/2BfeKcPnZaqA1KRR0kgejS) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [SchwippSchwapp](https://open.spotify.com/album/63vum5eeRhs9EDkyVEH9kg) | 3:10 | 2023-06-08 | 2023-08-04 |
@@ -1546,6 +1547,7 @@
 | [TOKYO DRIFT](https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [TOKYO DRIFT](https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi) | 2:04 | 2022-06-09 | 2022-07-05 |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-08 | 2024-02-16 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-19 | 2023-11-03 |
+| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-04-09 |  |
 | [Tour de Berlin](https://open.spotify.com/track/28eqTE31oIjrlSMK4y1VwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Tour de Berlin](https://open.spotify.com/album/7kOiXbB7O03HTlsu0qsBod) | 2:31 | 2022-11-03 | 2023-02-24 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |

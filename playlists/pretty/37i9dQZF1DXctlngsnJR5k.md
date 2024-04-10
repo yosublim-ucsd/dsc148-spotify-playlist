@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctlngsnJR5k.md) - [plain]
 
 > Los mejores éxitos de hoy en Ecuador\. Foto: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,306 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,353 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctlngsnJR5k.md) - [plain]
 | 49 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
 | 50 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 |
 
-Snapshot ID: `MCxhNWE3N2M2OWE4NGJmMGViYWVkMzAxZGQ2NGI5OGM4YmJmM2ViZmU2`
+Snapshot ID: `MCwxZTM1NDI1NTYzMmFkYzM2MTUyMjcyMjkwYmJlZDk1MzQyMTc5ZmQy`

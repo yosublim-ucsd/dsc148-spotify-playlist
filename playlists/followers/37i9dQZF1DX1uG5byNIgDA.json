@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 218891,
+  "2024-04-10": 218892,
   "date_first_scraped": "2021-12-21",
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
   "name": "Morning K-Pop!",
@@ -1793,6 +1793,24 @@
       "duration_ms": 179835,
       "name": "Eyes & Lips",
       "url": "https://open.spotify.com/track/0uROxYvulGWKBRMrss7HUR"
+    },
+    {
+      "album": {
+        "name": "Fact Check - The 5th Album",
+        "url": "https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Fact Check",
+      "url": "https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv"
     },
     {
       "album": {
@@ -5133,7 +5151,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 181680,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"

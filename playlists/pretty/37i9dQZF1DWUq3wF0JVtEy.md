@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,937 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,999 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 66 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 |
 | 67 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 |
 | 68 | [Backseat](https://open.spotify.com/track/1TeG6xwHJG8Y6fiw7PebSl) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 2:49 |
-| 69 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 |
-| 70 | [Smack That](https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [CJ.](https://open.spotify.com/artist/1EUvNOgSHmGTn7sAkKGopj) | [Smack That](https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ) | 2:40 |
+| 69 | [Smack That](https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [CJ.](https://open.spotify.com/artist/1EUvNOgSHmGTn7sAkKGopj) | [Smack That](https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ) | 2:40 |
+| 70 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 |
 | 71 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 |
 | 72 | [We Don’t Need](https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE) | 3:08 |
 | 73 | [Repeating](https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Repeating](https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 |
 | 100 | [Free My Mind](https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/1W09O51MifKfx4XAl851q9) | 2:51 |
 
-Snapshot ID: `MCwyMDc5MGMwYjQ5ZTk1NjNiNjE5NWQwMTg0NzNhMTdjNDU2MGZiNGFj`
+Snapshot ID: `MCxkYmMxNzMzNjlhOWQwOTE2NDFlMzg5ZTkwNTI0NWNjOWI5ZDk3Yzcz`

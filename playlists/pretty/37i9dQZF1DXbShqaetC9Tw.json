@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 97193,
+  "num_followers": 97201,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTU5NmQ3M2JhMzdjZmQ3Y2FkNWMwNjdiNWZmMGNjNjEwYjM5YWMx",
+  "snapshot_id": "MCwyMzQ3YWM1MzM3YTE3OGUwMGQ2MjU1Y2JjM2Q5YmVmYmMyNTQ1M2Vh",
   "tracks": [
     {
       "added_at": "2024-03-08 06:17:14",
@@ -63,30 +63,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "boy.",
         "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
@@ -107,6 +83,30 @@
       "duration_ms": 241765,
       "name": "Cigarette (Feat. Tablo, MISO)",
       "url": "https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -251,18 +267,22 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
       },
       "artists": [
         {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
         }
       ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+      "duration_ms": 227353,
+      "name": "CALL ME BACK",
+      "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -283,26 +303,6 @@
       "duration_ms": 219428,
       "name": "Let off steam",
       "url": "https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
-      },
-      "artists": [
-        {
-          "name": "Rad Museum",
-          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 227353,
-      "name": "CALL ME BACK",
-      "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -343,38 +343,18 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "THINKING Part.2",
-        "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
+        "name": "bath",
+        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 218813,
-      "name": "Being left (Feat. Dvwn)",
-      "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "A Song Nobody Knows",
-      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
+      "duration_ms": 261705,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -391,6 +371,26 @@
       "duration_ms": 172013,
       "name": "Lights",
       "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "THINKING Part.2",
+        "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Being left (Feat. Dvwn)",
+      "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "A Song Nobody Knows",
+      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 199578,
       "name": "U",
       "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 261705,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -463,6 +463,22 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -547,22 +563,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "wandering (feat. george)",
         "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 198698,
       "name": "Will spring come?",
       "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -719,22 +735,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "Dry Flower",
         "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 145613,
       "name": "Rain Drop",
       "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "BRB",
-      "url": "https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
         "name": "idealism",
         "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/0rTwhxZVCiYqRkckGvUlvw"
       },
       "artists": [
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
         }
       ],
-      "duration_ms": 159386,
-      "name": "Black & White Film (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+      "duration_ms": 171333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/5I9T77pGZ9rikjJ9f8Cdrt"
     },
     {
       "added_at": "2024-03-08 06:17:14",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "Mondegreen",
-        "url": "https://open.spotify.com/album/2Ae2tMRKZsu376uIJx7MRP"
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
       "artists": [
         {
-          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
-          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Blanche",
-      "url": "https://open.spotify.com/track/7sZLNlcmE9fDPC8Mx4GzOX"
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

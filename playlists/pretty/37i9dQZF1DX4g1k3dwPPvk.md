@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 
 > The Latin soundtrack of the 90s! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,612 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,647 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 54 | [Si Tú Supieras](https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:06 |
 | 55 | [I Could Fall In Love](https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:41 |
 | 56 | [Me haces tanto bien](https://open.spotify.com/track/5PM8SxOW02F9ChM0BLjALX) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Ultima Tentación](https://open.spotify.com/album/4zgAUvHWJU5TsT7eoBM9Vq) | 3:55 |
-| 57 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
-| 58 | [Estrechez De Corazón](https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 6:23 |
+| 57 | [Estrechez De Corazón](https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 6:23 |
+| 58 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
 | 59 | [Cara de Niño](https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:56 |
 | 60 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
 | 61 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
@@ -73,24 +73,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 63 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
 | 64 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 |
 | 65 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/3j5BMF5Pco451TqCo3YuCJ) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 5:06 |
-| 66 | [La Tierra del Olvido](https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 4:25 |
-| 67 | [María](https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:22 |
+| 66 | [María](https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:22 |
+| 67 | [La Tierra del Olvido](https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 4:25 |
 | 68 | [De Música Ligera](https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:32 |
 | 69 | [Amor A La Mexicana](https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Amor A La Mexicana](https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD) | 4:25 |
 | 70 | [No Llores por Mi](https://open.spotify.com/track/1qZPQqoomnPzHKGjvn136r) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:11 |
 | 71 | [Angel](https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 4:35 |
 | 72 | [Casi un Hechizo](https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cuenta Conmigo](https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh) | 4:34 |
-| 73 | [No Puedo Olvidarme Ti](https://open.spotify.com/track/6uX7rP2i6yXwc0gPLKW05j) | [MDO](https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp) | [Mdo](https://open.spotify.com/album/1p9H3b7e01jdlsW3ffG9na) | 3:30 |
-| 74 | [You Sang To Me](https://open.spotify.com/track/2dwhMQsFeHr2S787WxqAqW) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony](https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d) | 5:47 |
+| 73 | [You Sang To Me](https://open.spotify.com/track/2dwhMQsFeHr2S787WxqAqW) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony](https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d) | 5:47 |
+| 74 | [No Puedo Olvidarme Ti](https://open.spotify.com/track/6uX7rP2i6yXwc0gPLKW05j) | [MDO](https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp) | [Mdo](https://open.spotify.com/album/1p9H3b7e01jdlsW3ffG9na) | 3:30 |
 | 75 | [Muévelo](https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Originales](https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ) | 4:04 |
-| 76 | [Vida](https://open.spotify.com/track/6i8KuACD15eZ84THZaG19i) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:26 |
-| 77 | [La Copa de la Vida \(La Cancion Oficial de la Copa Mundial, Francia '98\) \- Spanglish Radio Edit](https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:37 |
+| 76 | [La Copa de la Vida \(La Cancion Oficial de la Copa Mundial, Francia '98\) \- Spanglish Radio Edit](https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:37 |
+| 77 | [Vida](https://open.spotify.com/track/6i8KuACD15eZ84THZaG19i) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:26 |
 | 78 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 79 | [Bailamos](https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:34 |
-| 80 | [El Matador](https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Lo Esencial](https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio) | 4:34 |
-| 81 | [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 |
-| 82 | [La Bomba](https://open.spotify.com/track/2IAtnd4UG52HQP9Rwart5h) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 4:34 |
-| 83 | [I Need to Know](https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony](https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d) | 3:47 |
+| 80 | [I Need to Know](https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony](https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d) | 3:47 |
+| 81 | [El Matador](https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Lo Esencial](https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio) | 4:34 |
+| 82 | [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 |
+| 83 | [La Bomba](https://open.spotify.com/track/2IAtnd4UG52HQP9Rwart5h) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 4:34 |
 | 84 | [El Circo](https://open.spotify.com/track/0b4NG6vOqNdqzuJauiQkwE) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 2:47 |
 | 85 | [Ya Me Voy para Siempre \- En Vivo](https://open.spotify.com/track/4316Ntihofu3zTa7b5OeGT) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [En Concierto, Vol\. 2](https://open.spotify.com/album/3LPGevFYVZeBWHbcik2qgu) | 4:13 |
 | 86 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Serie 2000](https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 99 | [Maria La Del Barrio](https://open.spotify.com/track/2Faj2un6rwrQYYKP5kK7ee) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 3:55 |
 | 100 | [Rico Suave](https://open.spotify.com/track/6FfdQJ9HJcJAvsPVIyoGZ5) | [Gerardo](https://open.spotify.com/artist/1dqCEoBppk9X0WmOTJe993) | [Mo' Ritmo](https://open.spotify.com/album/1XtHtO1xVuCH53X1Vp3Fgc) | 4:51 |
 
-Snapshot ID: `MCw5OWNjNGI0ZjBhNGY0MWUwZGFjYTdmNjhjNWEzMGZkOGVmMDQ2OTFi`
+Snapshot ID: `MCw1OGNkMjkxOThmODg5ZGU0MzVjMTI2NzAyYjE1MzMzODI5MTY5NGZi`

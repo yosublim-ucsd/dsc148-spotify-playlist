@@ -4,11 +4,12 @@
 
 > De mooiste muziek: Americana \| Country
 
-125 songs - 7 hr 33 min
+126 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2023-02-23 |  |
+| [Anybody Else But Me](https://open.spotify.com/track/6bO44ywoBjbe2XeI1lgTm5) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Anybody Else But Me](https://open.spotify.com/album/4rWkiDyXhDqN2Lm1Zg08sv) | 3:31 | 2024-03-07 |  |
 | [Aphrodite](https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ) | [Donna Blue](https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd) | [Aphrodite](https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ) | 3:18 | 2024-02-01 |  |
 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 | 2023-02-23 |  |
 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 | 2023-02-23 |  |
@@ -51,7 +52,7 @@
 | [Gravel Road](https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Wandering Soul](https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv) | 2:32 | 2023-06-01 | 2023-11-02 |
 | [Harmony From Dissonance](https://open.spotify.com/track/4YVG7WaFjdLHIiy5dByavP) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [Harmony From Dissonance](https://open.spotify.com/album/5KHzBUPSOLXAxBJ8GuOBvI) | 3:25 | 2024-03-07 |  |
 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 | 2023-02-23 |  |
-| [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 | 2023-08-29 |  |
+| [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 | 2023-08-29 | 2024-04-10 |
 | [High Heels](https://open.spotify.com/track/4M3uKxjhfTLfQidMDgEEgC) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 3:22 | 2023-02-23 | 2023-04-28 |
 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 | 2024-03-07 |  |
 | [Holding On](https://open.spotify.com/track/4Q5KEZORwgsmQfP9H4Z2M6) | [Mick Stender](https://open.spotify.com/artist/4iRkCYOHNpZ4QKzRQ1GahA) | [Holding On](https://open.spotify.com/album/3m9FmFnqFgKJ1XWgZSHUBE) | 3:06 | 2023-05-31 | 2023-08-03 |

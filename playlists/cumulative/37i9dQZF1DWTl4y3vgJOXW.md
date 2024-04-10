@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Bree Hall and Dawn Staley of the South Carolina Gamecocks
+> Fourth quarter, two minutes left .\. get locked in\. Cover: The UConn Huskies
 
 585 songs - 1 day 5 hr 44 min
 

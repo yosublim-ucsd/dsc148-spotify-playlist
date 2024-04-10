@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 134010,
+  "num_followers": 134025,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjdhNWEyYjc4YWI1OGNiMDliYjYxYjhhNDQ4ZmI2MjUwYThiMjY0",
+  "snapshot_id": "MCw3MjU0MDRlYTNjOTUwMGEzMmRlODRlNzJhZjUwMmJlOWY4Mjk0Mzll",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+        "name": "Can't Fake What You Feel",
+        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         }
       ],
-      "duration_ms": 255401,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
+      "duration_ms": 171052,
+      "name": "Can't Fake What You Feel",
+      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Can't Fake What You Feel",
-        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
       "artists": [
         {
-          "name": "Jordan Hawkins",
-          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         }
       ],
-      "duration_ms": 171052,
-      "name": "Can't Fake What You Feel",
-      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+      "duration_ms": 255401,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "All Along (Kaytranada Remix)",
-        "url": "https://open.spotify.com/album/1SFh4fpWMEThFiNnSAXLsg"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 284606,
-      "name": "All Along - Kaytranada Remix",
-      "url": "https://open.spotify.com/track/7wFcrixaohlV2kn5iDGORv"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 216339,
       "name": "FIND YOUR WAY BACK - MELO-X Remix",
       "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "All Along (Kaytranada Remix)",
+        "url": "https://open.spotify.com/album/1SFh4fpWMEThFiNnSAXLsg"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 284606,
+      "name": "All Along - Kaytranada Remix",
+      "url": "https://open.spotify.com/track/7wFcrixaohlV2kn5iDGORv"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "TITO'S",
+      "url": "https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
         "url": "https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 245041,
       "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
       "url": "https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "TITO'S",
-      "url": "https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Am\u00e9n (The Nomad\u2019s Dream)",
-        "url": "https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "WOW!",
-      "url": "https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 142624,
       "name": "PLAY",
       "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Am\u00e9n (The Nomad\u2019s Dream)",
+        "url": "https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "WOW!",
+      "url": "https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Can't Shut Us Down",
+        "url": "https://open.spotify.com/album/19VPME5BsYWcAkyxz17rj9"
+      },
+      "artists": [
+        {
+          "name": "Kitty Ca$h",
+          "url": "https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Can't Shut Us Down",
+      "url": "https://open.spotify.com/track/3JWNZPc8fsMmaMx3N4voQZ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
@@ -1595,30 +1615,6 @@
       "duration_ms": 237929,
       "name": "Already",
       "url": "https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib"
-    },
-    {
-      "added_at": "2024-02-09 19:57:50",
-      "album": {
-        "name": "Pyjamas feat. Remi Wolf (CHAMOS Remix)",
-        "url": "https://open.spotify.com/album/4JdXtGRZYOPNVUowcYnZDw"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        },
-        {
-          "name": "CHAMOS",
-          "url": "https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 223087,
-      "name": "Pyjamas feat. Remi Wolf (Chamos Remix)",
-      "url": "https://open.spotify.com/track/2pKYIlPZXCbhvxL4uUDIUb"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1653,24 +1649,28 @@
       "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
+      "added_at": "2024-02-09 19:57:50",
       "album": {
-        "name": "Can't Shut Us Down",
-        "url": "https://open.spotify.com/album/19VPME5BsYWcAkyxz17rj9"
+        "name": "Pyjamas feat. Remi Wolf (CHAMOS Remix)",
+        "url": "https://open.spotify.com/album/4JdXtGRZYOPNVUowcYnZDw"
       },
       "artists": [
         {
-          "name": "Kitty Ca$h",
-          "url": "https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         },
         {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+          "name": "CHAMOS",
+          "url": "https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 192283,
-      "name": "Can't Shut Us Down",
-      "url": "https://open.spotify.com/track/3JWNZPc8fsMmaMx3N4voQZ"
+      "duration_ms": 223087,
+      "name": "Pyjamas feat. Remi Wolf (Chamos Remix)",
+      "url": "https://open.spotify.com/track/2pKYIlPZXCbhvxL4uUDIUb"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 184914,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Chrome Bull DLX",
         "url": "https://open.spotify.com/album/5u8lkrEjY9W9yUevdcueWm"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 200361,
       "name": "Feel the Feels",
       "url": "https://open.spotify.com/track/7qnaukVhNsfUCNX8Pd5uXv"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 184914,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Strawberry Perfume",
+        "url": "https://open.spotify.com/album/73fdLbhr35YUOF7IW8R6ZN"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        },
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 162724,
+      "name": "Strawberry Perfume (feat. Essosa)",
+      "url": "https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Treat U Good",
         "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 217791,
       "name": "Treat U Good",
       "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Strawberry Perfume",
-        "url": "https://open.spotify.com/album/73fdLbhr35YUOF7IW8R6ZN"
-      },
-      "artists": [
-        {
-          "name": "Chenayder",
-          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
-        },
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 162724,
-      "name": "Strawberry Perfume (feat. Essosa)",
-      "url": "https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT"
     },
     {
       "added_at": "2023-12-08 05:00:00",

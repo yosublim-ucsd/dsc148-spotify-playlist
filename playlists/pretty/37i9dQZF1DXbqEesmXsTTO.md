@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 
 > 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 김주리\(juri kim\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,328 likes - 64 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,336 likes - 64 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 | 63 | [Feminication](https://open.spotify.com/track/204RjWbsftUZGoZ0Igl0kK) | [Soohyun Moon](https://open.spotify.com/artist/0Ds31z3SLBmoYAh6xE9NVA) | [Feminication](https://open.spotify.com/album/42zRChEq7NwqjDoF21p4FT) | 8:29 |
 | 64 | [Wal Wal](https://open.spotify.com/track/2HB0ITiQEhBlxFBHURNzER) | [dunggi doobop project](https://open.spotify.com/artist/7ePNAdFlZK4TwRZhRfDVOh) | [dunggi doobop project](https://open.spotify.com/album/5ZanfdcvUYTrOFYZS5fpYl) | 3:17 |
 
-Snapshot ID: `MCw4MTFmMDQwMzU2MmE4Y2YwZjJlNDllMzIwZDZiODA5ZTE0N2VhNzJj`
+Snapshot ID: `MCxjYzIxYzBjZDYxMGRhOTYwNmQ1YmQwYTMzZTBmYzA5YjNlYTY1MDJl`

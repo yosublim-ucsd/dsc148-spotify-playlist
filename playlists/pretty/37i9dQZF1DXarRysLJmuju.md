@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest pop hits in one playlist\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,749 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,712 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Disco At The Strip Club](https://open.spotify.com/track/4oYg5UXcChaG5XpTc77RpL) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return](https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz) | 3:07 |
 | 100 | [Over You](https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Over You](https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth) | 2:29 |
 
-Snapshot ID: `MCwwMzJhYThmNWMxNWUwMjQ0NTIxY2Y1YzZiNGE3YjY5ZDU0NjJlZDQ4`
+Snapshot ID: `MCxmNTUwYjljOGEyZjQ4MzFjNmZlMTI3NWYzYmU1N2YyMzYxMDkxNjM4`

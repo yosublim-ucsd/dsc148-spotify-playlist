@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Big Special
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,618 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,629 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BLACK DOG / WHITE HORSE \- bd/wh](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 |
+| 1 | [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 |
 | 2 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 3 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 | 4 | [Night Of The Hunter](https://open.spotify.com/track/0ytE5aUxuTyXXrUiQMyHUq) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Night Of The Hunter](https://open.spotify.com/album/4kRBqUuM4kKOgBqUG9usud) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Underneath](https://open.spotify.com/track/0QGFzGvqGnwb0mujqRtqL4) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Underneath](https://open.spotify.com/album/0ybov11Nf73XbQSjiiGG0M) | 4:29 |
 | 50 | [Favourite Songs](https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Favourite Songs](https://open.spotify.com/album/32ha5xa9acLnslj6OpYcJ9) | 3:34 |
 
-Snapshot ID: `MCwxZDFjNGU4ZjdhOGQ3NDk0YWM4ODg1MDVjYzgzNWUzZmRkNjMyYjli`
+Snapshot ID: `MCw5NDU1MTM2N2NmZDY0M2Y0OTk0ZjFjNzE1ZjIzZGFiOGFkMTM2NWEy`

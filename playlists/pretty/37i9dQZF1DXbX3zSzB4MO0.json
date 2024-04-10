@@ -1,12 +1,12 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 8439,
+  "num_followers": 3340,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmM3NGFjZTJhYWU1NjkwZDk1ZGRkOTVkNWZlOTg5MmQ1MjNhOGFj",
+  "snapshot_id": "MCw5ZTFhMzdmY2M2ZmU3ZWY5NGIwYWEzYmU0OTE3MmMxZmNhYjM3M2Rh",
   "tracks": [
     {
       "added_at": "2024-02-07 08:57:42",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/1tiC5qMa7iI5dES19tVAYH"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 175200,
       "name": "You & I",
       "url": "https://open.spotify.com/track/7k0kq03bs3micRAVvYgzg8"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Bel Mercy",
-        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 169606,
-      "name": "Bel Mercy",
-      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "Macarena",
         "url": "https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau"
       },
@@ -1159,22 +1143,18 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Dip It Low",
-        "url": "https://open.spotify.com/album/6NSuHHPPZZ8d4849ndMqIv"
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Fabich",
-          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
         }
       ],
-      "duration_ms": 135656,
-      "name": "Dip It Low",
-      "url": "https://open.spotify.com/track/1JM6JF5IUWmggaC1rYDAiH"
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1203,26 +1183,42 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Guddi Riddim",
-        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
+        "name": "Dip It Low",
+        "url": "https://open.spotify.com/album/6NSuHHPPZZ8d4849ndMqIv"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
         },
         {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        },
-        {
-          "name": "Nooran Sisters",
-          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Guddi Riddim",
-      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
+      "duration_ms": 135656,
+      "name": "Dip It Low",
+      "url": "https://open.spotify.com/track/1JM6JF5IUWmggaC1rYDAiH"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
+        "url": "https://open.spotify.com/album/0IPAqCfLfsDauO2huFSnGt"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 211347,
+      "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/3dLAuJrWEQQaXyh12BeQG5"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1251,22 +1247,26 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
-        "url": "https://open.spotify.com/album/0IPAqCfLfsDauO2huFSnGt"
+        "name": "Guddi Riddim",
+        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
       },
       "artists": [
         {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
         }
       ],
-      "duration_ms": 211347,
-      "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
-      "url": "https://open.spotify.com/track/3dLAuJrWEQQaXyh12BeQG5"
+      "duration_ms": 210000,
+      "name": "Guddi Riddim",
+      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "UNTZ UNTZ",
-        "url": "https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 146736,
-      "name": "UNTZ UNTZ",
-      "url": "https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 145920,
       "name": "One By One",
       "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "UNTZ UNTZ",
+        "url": "https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 146736,
+      "name": "UNTZ UNTZ",
+      "url": "https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "Schwer",
+        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        }
+      ],
+      "duration_ms": 214895,
+      "name": "Schwer",
+      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 202204,
       "name": "Cocoon - Martin Garrix & Space Ducks Remix",
       "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "Schwer",
-        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 214895,
-      "name": "Schwer",
-      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
     }
   ],
   "unique_name": "Club Beats",

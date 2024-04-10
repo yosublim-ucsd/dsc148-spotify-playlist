@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,469 likes - 303 songs - 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,470 likes - 303 songs - 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 60 | [Happiness](https://open.spotify.com/track/4efdhHdTAS3sYJnI0mjHDc) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:17 |
 | 61 | [No](https://open.spotify.com/track/0ONFGnOEErh2tL0HY39F3V) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Experience\)](https://open.spotify.com/album/2gX0nMFSbHtcCY6F2GGgU4) | 3:03 |
 | 62 | [Told You So](https://open.spotify.com/track/3Mvd9KPeMf2YQa1MiQGKmV) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:12 |
-| 63 | [Love \(Sweet Love\)](https://open.spotify.com/track/6Y9Sk7mKkNndGQBIwQ52Il) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:40 |
-| 64 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 |
+| 63 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 |
+| 64 | [Love \(Sweet Love\)](https://open.spotify.com/track/6Y9Sk7mKkNndGQBIwQ52Il) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:40 |
 | 65 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 |
 | 66 | [Good Luck \(with Jax Jones & Galantis\)](https://open.spotify.com/track/2BfJX65Te5q84Pku7osGRH) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:55 |
 | 67 | [Between Us](https://open.spotify.com/track/1UxRk7ySL6EpSA0fuByeg0) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:55 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 76 | [Don’t You Feel It](https://open.spotify.com/track/1kW0EhrR7VdrXRexVIDIiB) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Don't You Feel It](https://open.spotify.com/album/0RkIZtap4bsBP2rEb3tJUQ) | 3:27 |
 | 77 | [GIRLS LIKE US](https://open.spotify.com/track/4M0eE7cZ9lx4ygXSSbfAtp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:38 |
 | 78 | [Who You Are](https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:25 |
-| 79 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 |
-| 80 | [DNA](https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 2:57 |
+| 79 | [DNA](https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 2:57 |
+| 80 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 |
 | 81 | [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 |
 | 82 | [Dream On Me](https://open.spotify.com/track/1dCpERd2GVVFbKuOpJjgPm) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:02 |
 | 83 | [Feelings \(Wifey\) \[feat\. Yungen\]](https://open.spotify.com/track/5CuMr1KC8oMHIBbyduLqI5) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Feelings \(Wifey\) \[feat\. Yungen\]](https://open.spotify.com/album/3cTOYq7PwnToTmevhPJ67K) | 2:48 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 302 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 303 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `Mjg1NDM4MTAsMDAwMDAwMDA4YmQ4YjU1YjBhMDQyNDk4MTI5MDI0OTBhMmJiNjAxMQ==`
+Snapshot ID: `Mjg1NDUyNjAsMDAwMDAwMDBkOWZkMDgxYTEwMzQ4ZmQ2ZWUxOTYyNmZkZjcyMTc5Yg==`

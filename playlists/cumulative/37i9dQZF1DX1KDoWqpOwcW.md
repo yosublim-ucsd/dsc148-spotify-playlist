@@ -4,7 +4,7 @@
 
 > La bola se va, se va, se va y se fue\. ¡Home run! ⚾️🏟🧢
 
-177 songs - 10 hr 17 min
+178 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 | 2022-09-07 |  |
 | [El Ki Ki Ki](https://open.spotify.com/track/7xSF9MUJboslefs58TO6SB) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [El Baile Pegao](https://open.spotify.com/album/2INomV2WHXbqK89I6GMVHC) | 3:19 | 2024-03-11 |  |
 | [El Pasito Perrón](https://open.spotify.com/track/5R5ue1RaZEVnMpHYkvNkfR) | [Grupo Dinastia Mendoza](https://open.spotify.com/artist/3hbIVCzwNov0hskmZTeV8l) | [El Pasito Perrón](https://open.spotify.com/album/5aiLSgtlZ3Q7lM5rOxNOZE) | 3:37 | 2022-09-07 |  |
-| [El Serrucho](https://open.spotify.com/track/2ZR50pvQ1lpMWyQAMO4Y5b) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [El Presidente de la Champeta](https://open.spotify.com/album/5jLW2hl3FsoXtVqWl6bDLc) | 3:23 | 2022-09-07 |  |
+| [El Serrucho](https://open.spotify.com/track/2ZR50pvQ1lpMWyQAMO4Y5b) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [El Presidente de la Champeta](https://open.spotify.com/album/5jLW2hl3FsoXtVqWl6bDLc) | 3:23 | 2022-09-07 | 2024-04-10 |
+| [El Serrucho](https://open.spotify.com/track/7uv8kwqs2bBxuWrRVPxee6) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [El Presidente de la Champeta](https://open.spotify.com/album/4ofvyT0wkp1ATxVVheatmz) | 3:23 | 2024-03-11 |  |
 | [El Toro Mambo](https://open.spotify.com/track/22QnPXq4oafjo6HjqU24bv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [El Toro Mambo](https://open.spotify.com/album/6L33zQtRzlkEbqNTs6zZpS) | 3:23 | 2022-09-07 |  |
 | [El Toro Viejo \- Huapango](https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:52 | 2022-09-07 |  |
 | [El Venao](https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:52 | 2022-09-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 99526,
+  "num_followers": 99600,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjA4Y2Y4MjUzMGQ3MDVjMjNhN2JhMWRlN2E5NDIzYTQ0ZDllYWI5",
+  "snapshot_id": "MCwxZDM3MzZkNmQ1NWQ5MDZkNmE3MzU0ZmM5ODU3ZjAxMTU5MWQ0NDEx",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 257920,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "After 7",
-        "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
-      },
-      "artists": [
-        {
-          "name": "After 7",
-          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
-        }
-      ],
-      "duration_ms": 275826,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Pride Classics",
         "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "80s Jazz Hits",
-        "url": "https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS"
+        "name": "After 7",
+        "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
       },
       "artists": [
         {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
         }
       ],
-      "duration_ms": 300706,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY"
+      "duration_ms": 275826,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -971,6 +955,22 @@
       "duration_ms": 204720,
       "name": "Who Can I Run To",
       "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "80s Jazz Hits",
+        "url": "https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 300706,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 357333,
-      "name": "It's Time for Love",
-      "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 254453,
       "name": "You Are My Heaven (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 357333,
+      "name": "It's Time for Love",
+      "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
     },
     {
       "added_at": "2023-09-14 19:15:58",

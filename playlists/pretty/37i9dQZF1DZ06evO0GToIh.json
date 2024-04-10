@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 106879,
+  "num_followers": 107045,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2FlZWFhZDk2NWQ1ZmFmNGQzMGRjNDgzMzYxNTk4ZjNkNGFhYzdj",
+  "snapshot_id": "MCw4YWY1NjhjYTIwZjk2MDhlNmM5OTQxNDliYTc2ZDFkMDYwZGQ3ZDFm",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Avent\u00e9",
-        "url": "https://open.spotify.com/album/2FdUhksLRgWdkZoYKokHuf"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Me Avent\u00e9",
-      "url": "https://open.spotify.com/track/6DpHzl57bEwsmVa4sbwb1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 212071,
       "name": "Sue\u00f1o G\u00fcajiro",
       "url": "https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Avent\u00e9",
+        "url": "https://open.spotify.com/album/2FdUhksLRgWdkZoYKokHuf"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Me Avent\u00e9",
+      "url": "https://open.spotify.com/track/6DpHzl57bEwsmVa4sbwb1m"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 204967,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/56NULn2XHpZwU2YJQ6OAbm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Noche En Culiac\u00e1n",
         "url": "https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 173125,
       "name": "Una Noche En Culiac\u00e1n",
       "url": "https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 204967,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/56NULn2XHpZwU2YJQ6OAbm"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Volviendo a Nacer",
-        "url": "https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 166992,
-      "name": "Ni Volviendo a Nacer",
-      "url": "https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
         "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 244125,
       "name": "Soy De La Calle - En Vivo",
       "url": "https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Volviendo a Nacer",
+        "url": "https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 166992,
+      "name": "Ni Volviendo a Nacer",
+      "url": "https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5"
     },
     {
       "added_at": null,

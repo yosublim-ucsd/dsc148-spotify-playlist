@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,185 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,212 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 19 | [Cerca del Mar](https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:55 |
 | 20 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 |
 | 21 | [Cerezo Rosa](https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:02 |
-| 22 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
-| 23 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 |
+| 22 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 |
+| 23 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
 | 24 | [Aquellos Ojos Verdes](https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI) | 4:54 |
 | 25 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 26 | [Dos Gardenias](https://open.spotify.com/track/4faOsdm3wPyhqSgkM9jZ9D) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Éxitos](https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs) | 3:03 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 70 | [Cancionero](https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:06 |
 | 71 | [Mira Que Eres Linda](https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A) | [Roberto Ledesma](https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY) | [El Estilo de Roberto Ledesma](https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM) | 2:54 |
 | 72 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
-| 73 | [Donde Encontraras](https://open.spotify.com/track/1dMK5yoypaN0cr3aW5xJqz) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [La Serenata de los Enamorados](https://open.spotify.com/album/0ccaSPcFOccacjj9EVgJNx) | 3:22 |
-| 74 | [Siempre en Mi Corazón \(2019 \- Remaster\)](https://open.spotify.com/track/1kFRo0Pi2hPaxCxBme55Sl) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\) \(2019 Remaster\)](https://open.spotify.com/album/2u9pOUyXvLInVwya0I4hcJ) | 3:39 |
+| 73 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/1RfB1vZYB2mi6RSSwgMU6c) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS), [La Rondalla Venezolano](https://open.spotify.com/artist/11GKNHRvLhiNRKFGf8Rvk9) | [Eternamente](https://open.spotify.com/album/5DyJdvitTIEd4ncxUL0XHQ) | 3:03 |
+| 74 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
 | 75 | [En Mi Viejo San Juan](https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:08 |
 
-Snapshot ID: `MCwwMTE4YjhjZDI1NWE5ODc1MmVmNGM1ZTA1M2E1ZWNlOTc1MGNlNDQ0`
+Snapshot ID: `MCxkMTM2YjVkNjFhMTgxZTBlYmNlNWIzMDViMWI5NTY1ODkzNWMyM2U0`

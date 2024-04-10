@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,703 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,106 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 43 | [Choir Of Spirits](https://open.spotify.com/track/6BqmhyqTFbAXD5M8WnqhIM) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/2lC45D73TicbOMEI1a8Fk7) | 6:45 |
 | 44 | [Gravity](https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/0C24gM4unxLDwJNa0ax8LP) | 6:05 |
 | 45 | [Don't Look Back](https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj) | 3:51 |
-| 46 | [Dark Room](https://open.spotify.com/track/3JcUf6mSuB4FMUvjyhCMRP) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Dark Room](https://open.spotify.com/album/6fDBWo1qT0GlL9myaWu9fi) | 4:03 |
-| 47 | [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 |
+| 46 | [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 |
+| 47 | [Dark Room](https://open.spotify.com/track/3JcUf6mSuB4FMUvjyhCMRP) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Dark Room](https://open.spotify.com/album/6fDBWo1qT0GlL9myaWu9fi) | 4:03 |
 | 48 | [Twisted](https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Twisted](https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp) | 3:04 |
 | 49 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
 | 50 | [Asura](https://open.spotify.com/track/0VuuObMpLGGCMGtPNgG1rp) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/5mVxJJjUM7BKyZG7S2GDKc) | 7:49 |
 
-Snapshot ID: `MCxjMWFkYTMzMDdjMTg3MWQyZTdkOTg5ZDM4YzBlNDdjZTc4NGQ0ZjIx`
+Snapshot ID: `MCw0ZWNjODlmZDZlNjQ3Mjg0MTJhN2E2YTJhYTA3MzE0Nzc4MWU4NTJl`

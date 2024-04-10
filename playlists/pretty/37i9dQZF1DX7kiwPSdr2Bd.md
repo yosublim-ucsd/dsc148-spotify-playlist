@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Mari Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,604 likes - 80 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,727 likes - 80 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 40 | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi) | 5:12 |
 | 41 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
 | 42 | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC) | 4:29 |
-| 43 | [Dependente](https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Dependente](https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI) | 5:01 |
-| 44 | [Deus dos Bastidores](https://open.spotify.com/track/5QLGQkK2rfw68Bk0Q1siy9) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Deus dos Bastidores](https://open.spotify.com/album/0E4HV1PsIP1fNFWhV8rbPW) | 5:32 |
+| 43 | [Deus dos Bastidores](https://open.spotify.com/track/5QLGQkK2rfw68Bk0Q1siy9) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Deus dos Bastidores](https://open.spotify.com/album/0E4HV1PsIP1fNFWhV8rbPW) | 5:32 |
+| 44 | [Dependente](https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Dependente](https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI) | 5:01 |
 | 45 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 |
 | 46 | [Recompensa \(Ao Vivo\)](https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Recompensa \(Ao Vivo\)](https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx) | 3:51 |
 | 47 | [Tá Chorando Por Quê?](https://open.spotify.com/track/2jHJlzo6TYxqmMufgMDWBl) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Tá Chorando Por Quê?](https://open.spotify.com/album/6skA7SfyH0VWa78KOFwNGU) | 4:08 |
 | 48 | [Era Eu](https://open.spotify.com/track/06w4jnIoML6PFpouQXRfZN) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol\. 2\)](https://open.spotify.com/album/4JcaJ35kjjVoOb3vmlLb3S) | 5:37 |
 | 49 | [Na Unção de Deus \- Ao Vivo](https://open.spotify.com/track/0eAEn4Haj90B5KLNc7bJSx) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Na Unção de Deus \(Ao Vivo\)](https://open.spotify.com/album/7y08pBnk5D0K4SdGgVJLM6) | 5:38 |
 | 50 | [Santo para Sempre \- Ao Vivo](https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Santo pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr) | 5:27 |
-| 51 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
-| 52 | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE) | 5:25 |
+| 51 | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE) | 5:25 |
+| 52 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
 | 53 | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d) | 5:20 |
 | 54 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
 | 55 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 80 | [Me Atraiu \(Reimagined\)](https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Reimagined\)](https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR) | 4:24 |
 
-Snapshot ID: `MCw5YzBmZDUyY2Q5YTJkOTRhYzBkYzUxNThmYjA0MWFlOWNjYmVjMzZj`
+Snapshot ID: `MCw3ZDczMGU4YjNjMDhiYmFlOGExZWFmN2U3NjdlODk5NjZiOTNiMjg4`

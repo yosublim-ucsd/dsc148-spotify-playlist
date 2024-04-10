@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 204884,
       "name": "HILANG",
       "url": "https://open.spotify.com/track/0thFZlDnyGgxzBRXBAS6DK"
@@ -2884,7 +2884,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 243217,
       "name": "Infiniti Cinta",
       "url": "https://open.spotify.com/track/1jIBXDiZRVoyUBZxwOZgHp"
@@ -6199,6 +6199,24 @@
     },
     {
       "album": {
+        "name": "Sang Puteri",
+        "url": "https://open.spotify.com/album/7CrFD0UJGQ361hG01NagpN"
+      },
+      "artists": [
+        {
+          "name": "XONE",
+          "url": "https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188982,
+      "name": "Sang Puteri",
+      "url": "https://open.spotify.com/track/0oNcpkUjd4Vek0zTvU6RmC"
+    },
+    {
+      "album": {
         "name": "Sangkar Derita",
         "url": "https://open.spotify.com/album/16U5ztWQW7Qcy3ZEYlJQbk"
       },
@@ -6964,6 +6982,24 @@
       "duration_ms": 161229,
       "name": "Sudi",
       "url": "https://open.spotify.com/track/3LkywtbZCk2EI2FfWb6dRj"
+    },
+    {
+      "album": {
+        "name": "Sujud Aidilfitri",
+        "url": "https://open.spotify.com/album/4extL1zlzKkjjrF2opuSs4"
+      },
+      "artists": [
+        {
+          "name": "Search",
+          "url": "https://open.spotify.com/artist/4LADVWbGgajvchOHelqZv2"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271145,
+      "name": "Sujud Aidilfitri",
+      "url": "https://open.spotify.com/track/1enlyyDon1CS9d6HFNQ2Qe"
     },
     {
       "album": {

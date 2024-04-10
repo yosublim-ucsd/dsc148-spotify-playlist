@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,561 likes - 52 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,596 likes - 52 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 51 | [Inquilino](https://open.spotify.com/track/7u6pvcAQeZm9HrSqN4v1kY) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Inquilino](https://open.spotify.com/album/6mFrChBhjGQXCgBaXMdtfK) | 2:38 |
 | 52 | [4K \- Ao Vivo](https://open.spotify.com/track/5A2y5UOgdzXLRtJBW25vRi) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Guias e Ondas \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/6WYmfXGrDk2qWsJwTXkq84) | 4:02 |
 
-Snapshot ID: `MCxjMzFhNGI5MGI0YzNkMzZkMWQ2MjJhNDE1MGIyMjc2ZThhMWRlZjg3`
+Snapshot ID: `MCxmOWUyZmYzOWY1MWJhZTRmYjFlM2QyZDUxOGQxYzNkOTc0ODI1YTBl`

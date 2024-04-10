@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,373 likes - 80 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,556 likes - 80 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 12 | [9Pm \(Till I Come\)](https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:13 |
 | 13 | [Adagio For Strings \- Radio Edit](https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magikal Journey \-The Hits Collection 1998 \- 2008](https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3) | 3:25 |
 | 14 | [Saltwater](https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:22 |
-| 15 | [Satisfaction \- Isak Original Extended](https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER) | 4:45 |
-| 16 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
+| 15 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
+| 16 | [Satisfaction \- Isak Original Extended](https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER) | 4:45 |
 | 17 | [Body Language](https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW) | [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Body Language](https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8) | 7:18 |
 | 18 | [Deep Inside](https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Hardrive](https://open.spotify.com/album/58gDcsComtrCGQGzSuD031) | 6:32 |
 | 19 | [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 4:50 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 21 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
 | 22 | [Sweet Harmony](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Conscience](https://open.spotify.com/album/1KFxJU4UBv1RWwrrwbn9xY) | 5:01 |
 | 23 | [Out of Space](https://open.spotify.com/track/5D6mTwP8jlAaLPbuHSZadz) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded](https://open.spotify.com/album/4Ch1rT1sIURz12ZVKH0a4p) | 5:02 |
-| 24 | [Superstylin'](https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:00 |
-| 25 | [It Just Won't Do \- Radio Edit](https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9) | [Tim Deluxe](https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0), [Sam Obernik](https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ) | [It Just Won't Do](https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd) | 3:18 |
+| 24 | [It Just Won't Do \- Radio Edit](https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9) | [Tim Deluxe](https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0), [Sam Obernik](https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ) | [It Just Won't Do](https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd) | 3:18 |
+| 25 | [Superstylin'](https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:00 |
 | 26 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 |
 | 27 | [Pasilda \- Knee Deep Mix](https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Pasilda](https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc) | 3:29 |
 | 28 | [Horny \- '98 Radio Edit](https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Hot 'N' Juicy](https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr) | [Horny \(Radio Edit's\)](https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 79 | [A Dream's A Dream](https://open.spotify.com/track/6SGOR8yLKOxa6sB9p7mQPr) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Volume II \- 1990 A New Decade](https://open.spotify.com/album/24zCSTLxBLjzz3yenDjqFF) | 5:38 |
 | 80 | [E Samba \- Club Mix](https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 7:13 |
 
-Snapshot ID: `MCw0NGNjNzQ3OGM2YmFhOTYzZjNlNDYwMzNjMTgwZmZiYTk3OGQzMmU0`
+Snapshot ID: `MCxkYjA3MDM4YjZkMGY3OGFiMGYyNmYxM2E0ODM3NDVmZWYwMDg4ZTFm`

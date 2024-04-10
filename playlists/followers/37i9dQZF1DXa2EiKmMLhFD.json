@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 2325029,
+  "2024-04-10": 2325665,
   "date_first_scraped": "2023-03-26",
   "description": "Hits terpanas dari Tiara Andini, Arsy Widianto, Ariana Grande, serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
   "name": "Hot Hits Indonesia",
@@ -79,6 +79,24 @@
       "duration_ms": 196897,
       "name": "Aduh",
       "url": "https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo"
+    },
+    {
+      "album": {
+        "name": "Penyendiri",
+        "url": "https://open.spotify.com/album/70JRb7Z5FHl8lcyUXmNFHc"
+      },
+      "artists": [
+        {
+          "name": "Misellia",
+          "url": "https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183218,
+      "name": "Akhir Tak Bahagia",
+      "url": "https://open.spotify.com/track/304FEq5eVvrxur9KdHhC5I"
     },
     {
       "album": {
@@ -2971,6 +2989,24 @@
       "duration_ms": 275900,
       "name": "Tega",
       "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"
+    },
+    {
+      "album": {
+        "name": "Berdamai",
+        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220010,
+      "name": "Teramini",
+      "url": "https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk"
     },
     {
       "album": {

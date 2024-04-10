@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best easy rock from the 2010s\. Cover: Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,275 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,313 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Country Song](https://open.spotify.com/track/0XY9YAtkp5GXMuFdkZk8Xp) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 1:49 |
 | 70 | [Killing Me](https://open.spotify.com/track/3lcYh4YFzkeZf1ebWy8wPx) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 3:25 |
 
-Snapshot ID: `MCw5Yzg4N2NiNGFjN2ZmMjM0NDgyNWMyNGU2N2IzMDMyYjYzN2VlMDNj`
+Snapshot ID: `MCxlYTczY2FiZDhkM2I0YmZjYTQ0ODMyZmVhZGMzYThjNzExZmE5MWMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: London Grammar
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,955 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,019 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 8 | [MOMENT](https://open.spotify.com/track/343aNgdgt5aAPa2cfaZt4C) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [MOMENT](https://open.spotify.com/album/4Ufp8bp3X5MZpqmrZ7YSkP) | 4:08 |
 | 9 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 |
 | 10 | [New World \(Flow\)](https://open.spotify.com/track/3EYkvUWZoysixyAYDDxsbA) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [New World \(Flow\)](https://open.spotify.com/album/7mqb47mEFEIcVYJmiZUlKk) | 5:23 |
-| 11 | [Funky And You Know It \- Myd Remix](https://open.spotify.com/track/3GXNESAx5m5wtE2bWjzmN2) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Funky And You Know It \(Myd Remix\)](https://open.spotify.com/album/4K7C30OeoJKquckkILimMd) | 3:03 |
+| 11 | [Funky And You Know It \- Myd Remix](https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Funky And You Know It \(Myd Remix\)](https://open.spotify.com/album/2vtx99PYX49EtS6WPu9kxX) | 3:03 |
 | 12 | [Corridor Of Dreams](https://open.spotify.com/track/61PTczPAI8LDLTj9YOUbQ8) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Sísý Ey](https://open.spotify.com/artist/2BSzMvV61Z1V6ZmGBcnCZT), [Systur](https://open.spotify.com/artist/2ZcBLLXgX6mpYvUciCT89i), [Oilly Wallace](https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F) | [Puzzles](https://open.spotify.com/album/7zt1IVvV0GFNeDOKPDKsKI) | 4:07 |
 | 13 | [Before Me](https://open.spotify.com/track/6DdAVeZFL7bsuL37B40nQR) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Before Me](https://open.spotify.com/album/7oFKLQrShF4RIBYvrwMFlR) | 2:53 |
 | 14 | [Crush](https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Crush](https://open.spotify.com/album/7GFnomhPOTcD3hexX6GNRn) | 4:59 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 21 | [Did I \- Peaches Remix](https://open.spotify.com/track/4AW85nhkcAkTVBPDkmGnMq) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Did I \(Peaches Remix\)](https://open.spotify.com/album/3BqnPyBlh9nYZDwtJ0EMel) | 3:34 |
 | 22 | [Nowhere To Go \(feat\. Brian Molko\)](https://open.spotify.com/track/6pWspjFl1IMggzIT70M6fm) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Brian Molko](https://open.spotify.com/artist/6stFJpRU2haAAmJjSZEuVW) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 5:19 |
 | 23 | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv) | 3:14 |
-| 24 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
+| 24 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
 | 25 | [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 |
 | 26 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 |
 | 27 | [Stranger](https://open.spotify.com/track/4Q5SsnyPrmuZNTY446rrED) | [Kaleida](https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX) | [Stranger](https://open.spotify.com/album/2QSLgJSggpcGg4p7Q2fIjL) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Create\-A\-Dance](https://open.spotify.com/track/5UDaXmAjlI7d3DpYeDA4Gf) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Create\-A\-Dance](https://open.spotify.com/album/02L5fOvPVQcqe59P0vvXz2) | 6:00 |
 | 75 | [Space](https://open.spotify.com/track/5eRN2ORFEvPgb8J8Wda0xH) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Fuzzy Fantasy](https://open.spotify.com/album/0LQI2wqRCB9riCZV0UYvBH) | 5:01 |
 
-Snapshot ID: `MCw5YjBhODc3YjMzNjg5NjJjZGVlMDBlYmM0OWUxNjM4Mzk0NDdkMjA2`
+Snapshot ID: `MCxlOWRhNjgyNGQwY2Y2NWM5YmM1YmEyMjYxZWEwZDRkZmE1ZGQ5NDE2`

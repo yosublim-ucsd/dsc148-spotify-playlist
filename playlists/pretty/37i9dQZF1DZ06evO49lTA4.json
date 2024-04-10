@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 765506,
+  "num_followers": 765774,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjZhZjE3Mjc3ZjFjZDkwZGUzN2IyNzM1Y2YyYjE0NmE2NWY3Y2E1",
+  "snapshot_id": "MCxkNDljNThkYWUwYzQ2M2QwNWMwMGEyYzJhNTRjNmE5MjQxYzk5MDU1",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
@@ -43,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Growin' Up",
-        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "The Kind of Love We Make",
-      "url": "https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 219573,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 240760,
-      "name": "When It Rains It Pours",
-      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
+      "duration_ms": 183160,
+      "name": "She Got the Best of Me",
+      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
     },
     {
       "added_at": null,
@@ -116,9 +116,41 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 177266,
-      "name": "Going, Going, Gone",
-      "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
+      "duration_ms": 224426,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "One Number Away",
+      "url": "https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
     },
     {
       "added_at": null,
@@ -139,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "Going, Going, Gone",
+      "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
@@ -151,22 +199,6 @@
       "duration_ms": 211053,
       "name": "5 Leaf Clover",
       "url": "https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "One Number Away",
-      "url": "https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4"
     },
     {
       "added_at": null,
@@ -207,42 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Love You Anyway",
-      "url": "https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "1, 2 Many",
-      "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Goes On (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
       },
@@ -263,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Love You Anyway",
+      "url": "https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way She Rides",
         "url": "https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ"
       },
@@ -275,22 +287,6 @@
       "duration_ms": 184746,
       "name": "I Know She Ain't Ready",
       "url": "https://open.spotify.com/track/0TQ9Hf5DwI9crGZSIlq445"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Growin' Up and Gettin' Old",
-      "url": "https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj"
     },
     {
       "added_at": null,
@@ -320,9 +316,25 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 198880,
-      "name": "Must've Never Met You",
-      "url": "https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4"
+      "duration_ms": 191986,
+      "name": "Houston, We Got a Problem",
+      "url": "https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Growin' Up and Gettin' Old",
+      "url": "https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj"
     },
     {
       "added_at": null,
@@ -343,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "You Found Yours",
-      "url": "https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -371,22 +367,6 @@
       "duration_ms": 194866,
       "name": "Lovin' On You",
       "url": "https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "Houston, We Got a Problem",
-      "url": "https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF"
     },
     {
       "added_at": null,
@@ -407,6 +387,22 @@
       "duration_ms": 191053,
       "name": "Brand New Man - with Luke Combs",
       "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "You Found Yours",
+      "url": "https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI"
     },
     {
       "added_at": null,
@@ -643,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Used to You",
-        "url": "https://open.spotify.com/album/6FsIVrMeaJPxJIxfx9tBZs"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Used to You",
-      "url": "https://open.spotify.com/track/2HR9wF4WR2sCJP4r6l9WVF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
       },
@@ -671,6 +651,22 @@
       "duration_ms": 193920,
       "name": "Any Given Friday Night",
       "url": "https://open.spotify.com/track/3jowVO7LtaViPc19EcAJKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Used to You",
+        "url": "https://open.spotify.com/album/6FsIVrMeaJPxJIxfx9tBZs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Used to You",
+      "url": "https://open.spotify.com/track/2HR9wF4WR2sCJP4r6l9WVF"
     },
     {
       "added_at": null,

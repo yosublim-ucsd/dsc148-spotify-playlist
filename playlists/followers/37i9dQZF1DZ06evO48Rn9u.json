@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 135664,
+  "2024-04-10": 135737,
   "date_first_scraped": "2024-03-10",
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
   "name": "This Is Kacey Musgraves",
@@ -183,7 +183,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 191413,
       "name": "Cardinal",
       "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 191413,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"

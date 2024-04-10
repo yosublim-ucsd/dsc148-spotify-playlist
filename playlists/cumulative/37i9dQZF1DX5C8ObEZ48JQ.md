@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA?si=AQ0HJi\-XQFi92sXnksyuZQ">Taves</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm?si=vvqyQnbnQmWXYTyH7pBFHg">tg.blk</a>\. Artwork: Isu Kim.
 
 787 songs - 1 day 15 hr 45 min
 

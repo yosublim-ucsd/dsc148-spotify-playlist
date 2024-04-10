@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 807263,
+  "2024-04-10": 807470,
   "date_first_scraped": "2020-10-13",
   "description": "Future K-Pop hits! Cover: BABYMONSTER",
   "name": "K-Pop Rising",
@@ -11747,6 +11747,40 @@
       "duration_ms": 181373,
       "name": "NO THANKS",
       "url": "https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37FotBNUfhWIHHX0BVCYw7"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "lobonabeat!",
+          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
+        },
+        {
+          "name": "Shyboiitobii",
+          "url": "https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "SMUGGLERS",
+          "url": "https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "No Tomorrow - Spotify Singles",
+      "url": "https://open.spotify.com/track/5eC84hN3UbRhSfnJLdUNLv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,218 likes - 156 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,220 likes - 156 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 49 | [White Mercedes](https://open.spotify.com/track/7fOFeVSyL18q7RiU6cnhiM) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:23 |
 | 50 | [Red Balloon \- Bonus Track](https://open.spotify.com/track/1v1sLPvoolEgdbYe2PeV2g) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:28 |
 | 51 | [GIRLS LIKE US](https://open.spotify.com/track/4M0eE7cZ9lx4ygXSSbfAtp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:38 |
-| 52 | [Focus](https://open.spotify.com/track/56mCGN7S1druROilPGNe3R) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:22 |
-| 53 | [Crash](https://open.spotify.com/track/6WKDtdVILJvcfqpvSQgwAQ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:09 |
+| 52 | [Crash](https://open.spotify.com/track/6WKDtdVILJvcfqpvSQgwAQ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:09 |
+| 53 | [Focus](https://open.spotify.com/track/56mCGN7S1druROilPGNe3R) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:22 |
 | 54 | [I Got It \(feat\. Brooke Candy, CupcakKe and Pabllo Vittar\)](https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:51 |
 | 55 | [Say Fuck It](https://open.spotify.com/track/3ZwrK4djNjJCNOZknEFtmc) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Fuck](https://open.spotify.com/album/5oLagKsSFuOUTBTXVfmlYV) | 2:55 |
 | 56 | [Cross You Out \(feat\. Sky Ferreira\)](https://open.spotify.com/track/15IgHEkeO9gSqrKilaEh8b) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:28 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 155 | [Lost in Space](https://open.spotify.com/track/6xEuFZLg0OK5b94n8ZJy25) | [Starkey](https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Space Traitor, Vol\. 2](https://open.spotify.com/album/03sCimdfQYiG02SZDyAyGQ) | 4:46 |
 | 156 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `Mjg1NDM4MjAsMDAwMDAwMDBkNjI4MzgzYTljOTNiYTU5MTQ2YjVkZmEwYjNkYmQ1NQ==`
+Snapshot ID: `Mjg1NDUyNjAsMDAwMDAwMDAzNDNlNThiNWQ1M2U4NjFmYjA0MjZhMzI2ZGU4YTYxMw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > songs that we love <3 medium build on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,214 likes - 104 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,274 likes - 104 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 53 | [Lonely Island](https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Lonely Island](https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8) | 3:58 |
 | 54 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 |
 | 55 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
-| 56 | [Rearview](https://open.spotify.com/track/3RyPOX98HHEYQholV0RBYF) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 3:51 |
+| 56 | [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 |
 | 57 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
 | 58 | [Your Town](https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Your Town](https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb) | 5:06 |
 | 59 | [Rotting Fruit](https://open.spotify.com/track/0deJ2a71D181hZ6g0x0Rsq) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Rotting Fruit](https://open.spotify.com/album/3xLm8dLpODMvSij3KZngfc) | 3:50 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 103 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
 | 104 | [Summer](https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc) | 3:56 |
 
-Snapshot ID: `MCxiMjM4MzA1ZmFkZjIwMzIwZjZjYzQ1YTllNDk2OTdkYzRiZmVhMWNj`
+Snapshot ID: `MCxiYzIzMTMxY2VmNzg4MTVmZDgyMjcwZmFjMzAxOGM4NzkyOGYwOGYz`

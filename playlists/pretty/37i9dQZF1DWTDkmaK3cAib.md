@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 
 > let's get it on
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,230 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,247 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 50 | [Medio friends](https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Medio Friends](https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX) | 2:29 |
 | 51 | [Para Estar](https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 4:56 |
 | 52 | [atravesao](https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:20 |
-| 53 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
-| 54 | [DVD](https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:18 |
-| 55 | [Close friends ☆](https://open.spotify.com/track/0GIdaVAY3go0PhjNFmAyfA) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 2:06 |
-| 56 | [Nagano](https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:03 |
-| 57 | [No Me Sueltes Más](https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 3:27 |
-| 58 | [Ukiyo](https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Ukiyo](https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP) | 2:29 |
-| 59 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 |
-| 60 | [Malibú](https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Malibú](https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz) | 3:40 |
-| 61 | [NO HAY QUE PREGUNTAR](https://open.spotify.com/track/4NhicasWolYAelOoWgeCrI) | [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NO HAY QUE PREGUNTAR](https://open.spotify.com/album/0vXcwRCCcIDgdVpaIReZFC) | 3:22 |
+| 53 | [NO HAY QUE PREGUNTAR](https://open.spotify.com/track/4NhicasWolYAelOoWgeCrI) | [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NO HAY QUE PREGUNTAR](https://open.spotify.com/album/0vXcwRCCcIDgdVpaIReZFC) | 3:22 |
+| 54 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
+| 55 | [DVD](https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:18 |
+| 56 | [Close friends ☆](https://open.spotify.com/track/0GIdaVAY3go0PhjNFmAyfA) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 2:06 |
+| 57 | [Nagano](https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:03 |
+| 58 | [No Me Sueltes Más](https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 3:27 |
+| 59 | [Ukiyo](https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Ukiyo](https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP) | 2:29 |
+| 60 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 |
+| 61 | [Malibú](https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Malibú](https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz) | 3:40 |
 | 62 | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/track/6t6VYuRaisYZLynvLhizsF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/album/1zZxxzuPxKHMiQypEx54yx) | 4:13 |
 | 63 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 |
 | 64 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 74 | [Commitment](https://open.spotify.com/track/66wc0nPLPztqdyjEdWzPRP) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/6VgqpgAkaud6KjgkXiKPMY) | 4:07 |
 | 75 | [Religiosa](https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:40 |
 
-Snapshot ID: `MCw0YWEwNDU1NWMwMGY2ZGJmNGViYzBhMWRlY2M5ODU4NDQ1NjkyNTEz`
+Snapshot ID: `MCw1MmZjZjJkZTkwNjYwNDQ4NTIwZDU4ZjJlMTk4MjIxMzJmZTU3YWNk`

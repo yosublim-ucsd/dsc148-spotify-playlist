@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,862 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,205 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 4 | [ARABI](https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [ARABI](https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P) | 2:47 |
 | 5 | [Sabran](https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Sabran](https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X) | 3:22 |
 | 6 | [Woseltelha](https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Woseltelha](https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB) | 4:08 |
-| 7 | [اليوم الحلو ده](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اليوم الحلو ده](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 |
-| 8 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 |
+| 7 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 |
+| 8 | [اليوم الحلو ده](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اليوم الحلو ده](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 |
 | 9 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 |
 | 10 | [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 |
 | 11 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 |
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 22 | [هنغني كمان وكمان](https://open.spotify.com/track/1bVHiY8JtZGhXcrmYVd2QC) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [صاحبة رأي](https://open.spotify.com/album/4PxfvkleMJtcPnDFtKvQ9W) | 3:46 |
 | 23 | [Yalla](https://open.spotify.com/track/6rhd40DNmApnDOGsd4SPQG) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Yalla](https://open.spotify.com/album/0L9JuitPjP5cGRcyiQ17fx) | 3:02 |
 | 24 | [Nadl Wa Ayouta](https://open.spotify.com/track/3bAXyTXlTRVQb6phnvqoLe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Nadl Wa Ayouta](https://open.spotify.com/album/5m9EAV3iDupQ90jeGYRQRM) | 2:36 |
-| 25 | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/track/5hztYzxeTKZgmq5krcKGFx) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/album/2ntWWRrrjnhW43sw74bnTP) | 2:30 |
-| 26 | [Ya Leilet El Eid](https://open.spotify.com/track/4jFZQhbP8ZDm5eZMdYCPdp) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 21 \- Aghany Film Dananer](https://open.spotify.com/album/2Dci4y4GeSEKWSC9bv1dPi) | 4:55 |
-| 27 | [El Aid Farha](https://open.spotify.com/track/5yxyWoggDlBpifR2DfypC5) | [Safaa Abu El Saod](https://open.spotify.com/artist/1GFCDy4U5mu7Uv39llPL0U) | [El Aid Farha](https://open.spotify.com/album/2eRXLokn0P5UvA9ilaruSD) | 3:35 |
+| 25 | [Ya Leilet El Eid](https://open.spotify.com/track/4jFZQhbP8ZDm5eZMdYCPdp) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 21 \- Aghany Film Dananer](https://open.spotify.com/album/2Dci4y4GeSEKWSC9bv1dPi) | 4:55 |
+| 26 | [El Aid Farha](https://open.spotify.com/track/5yxyWoggDlBpifR2DfypC5) | [Safaa Abu El Saod](https://open.spotify.com/artist/1GFCDy4U5mu7Uv39llPL0U) | [El Aid Farha](https://open.spotify.com/album/2eRXLokn0P5UvA9ilaruSD) | 3:35 |
+| 27 | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/track/5hztYzxeTKZgmq5krcKGFx) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/album/2ntWWRrrjnhW43sw74bnTP) | 2:30 |
 | 28 | [صباح العيد](https://open.spotify.com/track/5xACYeEFIdoB8K1in6iTeg) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [صباح العيد](https://open.spotify.com/album/4srluIRBROtYIfaWCzcEH6) | 5:42 |
 | 29 | [Al Eid Gaa](https://open.spotify.com/track/2MjIicyL4V6KB1IqnJiQlj) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/6tBj3VQ01bZvoneHa9i3z9) | 1:49 |
 | 30 | [الليله عيد](https://open.spotify.com/track/1zT7oSKe1kSNaBfMECfw6H) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [الليله عيد](https://open.spotify.com/album/33PqsLe5vDO5hK19lcGNHj) | 3:59 |
 
-Snapshot ID: `MCwzZjAzM2IxZmUzNzU5NDU5MmVkYjM5MTNkODFkYmQ3NTMxNDUwMTI0`
+Snapshot ID: `MCw5NTMyOGJlMTk4ZTM3YWM3YTYzM2VlYzkwOWRiYTkyZGFmMmUzYjFi`

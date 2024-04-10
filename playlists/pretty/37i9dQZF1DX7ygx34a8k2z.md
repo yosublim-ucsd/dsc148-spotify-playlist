@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,957 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,149 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 74 | [Nearly Lost You](https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Sweet Oblivion](https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY) | 4:07 |
 | 75 | [Girl from Mars](https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 3:30 |
 | 76 | [Brick](https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 4:31 |
-| 77 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
-| 78 | [Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Ladies and gentlemen we are floating in space](https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun) | 3:54 |
+| 77 | [Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Ladies and gentlemen we are floating in space](https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun) | 3:54 |
+| 78 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
 | 79 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |
 | 80 | [Go Man Go](https://open.spotify.com/track/4gC9PZqUSZbfzm8LEygxZD) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Go Man Go](https://open.spotify.com/album/0NIscR0RzlDtKmHFR3ya1s) | 2:16 |
 | 81 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 86 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 |
 | 87 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
 | 88 | [Gold Soundz](https://open.spotify.com/track/3QVtDnXU5zqGWxWDFBMiDj) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 2:39 |
-| 89 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 |
-| 90 | [Piano Fire](https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 2:43 |
+| 89 | [Piano Fire](https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 2:43 |
+| 90 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 |
 | 91 | [I Don't Know \- Remastered 2009](https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:00 |
 | 92 | [Roadrunner \(Alternative Version\)](https://open.spotify.com/track/0qRSrdDK4xj1doRViNPYwM) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/7ro1W6lc4tuTaRyA8rnVm1) | 4:55 |
 | 93 | [Heroin Girl](https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 99 | [Galileo](https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Rites Of Passage \(Expanded Edition\)](https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po) | 4:12 |
 | 100 | [Moving](https://open.spotify.com/track/5lkCsbgamJJF2APdUVf27A) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/3XNEqXHHt9KIT2vOPfwx5m) | 4:26 |
 
-Snapshot ID: `MCxkMGVmNmE0NTEzMzg5OTNjOWFlNDUyMjE2OWI3YjZhM2FiZTZmMGU4`
+Snapshot ID: `MCxiYmYyOTRlY2I2YzBhMjU2YTc2ZTU1MjY4ZGE1NGI4MGZiNTAwYWM5`

@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-381 songs - 19 hr 40 min
+382 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-01-27 | 2023-06-17 |
 | [Abracadabra](https://open.spotify.com/track/5VcTNeY4BX9zw5SaYPP6jj) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Big Time](https://open.spotify.com/album/1Xx9FuRYRHnop8tqo9Xm7b) | 3:02 | 2023-12-22 |  |
 | [Abracadabra](https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Abracadabra](https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY) | 3:02 | 2022-10-07 | 2023-10-24 |
+| [Abracadabra \(feat\. Wizkid\) \- Remix](https://open.spotify.com/track/4U5WkBkmsSJmpqpybXvMGZ) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Big Time](https://open.spotify.com/album/1Xx9FuRYRHnop8tqo9Xm7b) | 2:52 | 2024-04-05 |  |
 | [Abracadabra \- Remix](https://open.spotify.com/track/7CDmOoIXrtknQN5zcpHRBr) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Abracadabra \(Remix\)](https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3) | 2:52 | 2023-02-23 | 2024-03-14 |
 | [Account Balance](https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:33 | 2023-09-14 | 2023-09-28 |
 | [African Barbie](https://open.spotify.com/track/0WRP2IqQuc331kcHmzbA7A) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [African Barbie](https://open.spotify.com/album/4KS8qey7WwIbSVrWu2Dhp7) | 3:23 | 2023-11-17 | 2023-12-08 |
@@ -31,7 +32,7 @@
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-03-11 | 2022-12-18 |
 | [Apotheke](https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 4:34 | 2023-04-27 | 2023-11-03 |
 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 | 2023-04-28 |  |
-| [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 |  |
+| [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 | 2024-04-10 |
 | [As I Wake Up](https://open.spotify.com/track/2j6L2Mqm0HWLQWuw5Vythm) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [As I Wake Up](https://open.spotify.com/album/5T8xA88j50McKpbcK7RRP3) | 3:27 | 2023-08-03 | 2023-08-08 |
 | [Aso](https://open.spotify.com/track/5wHk6dHg0L0wf969TA1p9b) | [Skrilla Ghad](https://open.spotify.com/artist/0WkzfB1NFXWyYF2rDbtJ93) | [Aso](https://open.spotify.com/album/2lnTdMbJf9eNCzFrPL2web) | 1:46 | 2022-06-16 | 2022-07-25 |
 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 | 2022-11-25 |  |

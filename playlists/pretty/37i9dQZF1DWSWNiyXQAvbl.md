@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,384 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,415 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 18 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
 | 19 | [Take Me Home, Country Roads \- Original Version](https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 3:10 |
 | 20 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
-| 21 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
-| 22 | [My Sweet Lord \(2014 Remaster\)](https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 4:41 |
+| 21 | [My Sweet Lord \(2014 Remaster\)](https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 4:41 |
+| 22 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 | 23 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
 | 24 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 25 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 70 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
 | 71 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
 | 72 | [Yellow River](https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few) | [Christie](https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn) | [Christie](https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR) | 2:45 |
-| 73 | [Don't Play That Song](https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 3:02 |
-| 74 | [Arms of Mary](https://open.spotify.com/track/6287Wj4s5fDLLxZPQFCwZq) | [The Sutherland Brothers](https://open.spotify.com/artist/1Zc7TYayqzpDtjvXfNvPrL), [Quiver](https://open.spotify.com/artist/0vVxoKTyF3nIdUr2W84uIn), [Ron Albert](https://open.spotify.com/artist/1QoYcmEu5DiUAmmsFYNYBG), [Howle Albert](https://open.spotify.com/artist/7GNO2xlmnh1VmZAxkI8Mdl) | [REACH FOR THE SKY](https://open.spotify.com/album/250pi4BXKaHZKZg7Q4nnAo) | 2:37 |
+| 73 | [Arms of Mary](https://open.spotify.com/track/6287Wj4s5fDLLxZPQFCwZq) | [The Sutherland Brothers](https://open.spotify.com/artist/1Zc7TYayqzpDtjvXfNvPrL), [Quiver](https://open.spotify.com/artist/0vVxoKTyF3nIdUr2W84uIn), [Ron Albert](https://open.spotify.com/artist/1QoYcmEu5DiUAmmsFYNYBG), [Howle Albert](https://open.spotify.com/artist/7GNO2xlmnh1VmZAxkI8Mdl) | [REACH FOR THE SKY](https://open.spotify.com/album/250pi4BXKaHZKZg7Q4nnAo) | 2:37 |
+| 74 | [Don't Play That Song](https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 3:02 |
 | 75 | [Lean on Me](https://open.spotify.com/track/20kN7bu0HMO8rIVY6tEytW) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:17 |
 | 76 | [Dancing in the City](https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc) | [Marshall Hain](https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb) | [Free Ride](https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe) | 3:49 |
 | 77 | [Everybody Plays the Fool](https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0) | [The Main Ingredient](https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm) | [Everybody Plays The Fool: The Best Of The Main Ingredient](https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 79 | [Feel The Need In Me](https://open.spotify.com/track/2AhrNgJ3HqE2FhYJwdGUye) | [The Detroit Emeralds](https://open.spotify.com/artist/51hRQLOySCpDBsBL6C03IZ) | [The Best Of The Detroit Emeralds](https://open.spotify.com/album/42LyGoiUfeE5WfwjjuKriU) | 3:22 |
 | 80 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/6hFAaTvtzYDkng1T5K4XLB) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [On the Rocks](https://open.spotify.com/album/2AFiOvkMzT32Q0wL0UZW8i) | 2:47 |
 
-Snapshot ID: `MCwwMGRmNjM0NDdmMjdiNGVlNzQ0MTVmNzQ1YWFjMDU4ZTdkYzE4OTkw`
+Snapshot ID: `MCw0MTgwY2JiZDA1M2U5OTNhMDExZGRhNDEzYzFjZDMyNTVkMGVmYjc3`

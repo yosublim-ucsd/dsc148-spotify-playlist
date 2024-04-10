@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 8250,
+  "2024-04-10": 8249,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -18461,7 +18461,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 216506,
       "name": "LUCES DE COLORES",
       "url": "https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn"
@@ -27294,7 +27294,7 @@
     },
     {
       "album": {
-        "name": "Ride Or Die",
+        "name": "Ride Or Die (with Villano Antillano)",
         "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
       },
       "artists": [
@@ -27309,9 +27309,9 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 184510,
-      "name": "Ride Or Die",
+      "name": "Ride Or Die (with Villano Antillano)",
       "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
     },
     {
@@ -29821,7 +29821,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
@@ -35775,7 +35775,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 172925,
       "name": "Winnie Pooh",
       "url": "https://open.spotify.com/track/6syifuZ5Q2DrTNp68Mprt2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,455 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,469 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 48 | [MAGENTA CA$H](https://open.spotify.com/track/0BhhGctvTjfNbfDiqjZPGL) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:38 |
 | 49 | [Oops!…I Did It Again](https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Oops!...I did it again](https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv) | 2:18 |
 
-Snapshot ID: `MCxkM2JmNThlZDY2NDY1YjI0MzIzZGFjYzY1ZmI2OTM1YjhlNjBkOWJj`
+Snapshot ID: `MCxlZGMyNjY1MmRkMjY1YjBkYzNjMTRmMDE0NzQ3NzdiNjJhMjhmYmJm`

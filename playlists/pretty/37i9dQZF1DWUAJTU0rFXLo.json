@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Daf\u00e9",
-  "num_followers": 30335,
+  "num_followers": 30360,
   "original_name": "Baile Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTU1MzdmYWE3ZTE2ZTkzYmY3MjIzZmFkYzJjNjczZjY2YTdiZTRh",
+  "snapshot_id": "MCxhZWJlZDkwYWY3YTYwOTBiMTc4M2IxZDI3ODZkNzExZTFmYWY3MGMx",
   "tracks": [
     {
       "added_at": "2024-02-23 03:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Tim Maia 1970",
-        "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 131625,
-      "name": "Coron\u00e9 Antonio Bento",
-      "url": "https://open.spotify.com/track/5GzX9ZgX16D1F2her7bEsv"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "Masterjam",
         "url": "https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 269306,
       "name": "Do You Love What You Feel",
       "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
+        "name": "Tim Maia 1970",
+        "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 131625,
+      "name": "Coron\u00e9 Antonio Bento",
+      "url": "https://open.spotify.com/track/5GzX9ZgX16D1F2her7bEsv"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Brasilian Fiesta",
-        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Sossego",
-      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "Open Our Eyes",
         "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 290186,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
+        "name": "Brasilian Fiesta",
+        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Sossego",
+      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
     },
     {
       "added_at": "2024-02-23 03:01:00",

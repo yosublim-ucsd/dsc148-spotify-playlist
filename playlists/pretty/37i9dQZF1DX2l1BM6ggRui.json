@@ -1,12 +1,12 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6536,
+  "num_followers": 6537,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzBiMTcxMmU4ZmU2ZGY5MTA1NzM1ZGQzMzUzODQ5MjFmN2VkMzdm",
+  "snapshot_id": "MCwzZmVjMTc1NmU0NTNjNmFjYTJhZWNkMjVlZjA2ZjJmMzU4NjU0NGQz",
   "tracks": [
     {
       "added_at": "2024-03-27 05:51:44",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 189809,
+      "name": "Lovin' Me",
+      "url": "https://open.spotify.com/track/2CcdmXIMEObTJM5CCPXfma"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
         "name": "Can you stay (From Semantic Error)",
         "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Room Vol.1",
-        "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "Reference",
-      "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Some Day in the 21century",
         "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 235320,
       "name": "Some Day in the 21century",
       "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Room Vol.1",
+        "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "Reference",
+      "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -403,22 +419,6 @@
       "duration_ms": 232960,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 189809,
-      "name": "Lovin' Me",
-      "url": "https://open.spotify.com/track/2CcdmXIMEObTJM5CCPXfma"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "He Loves Me (With Windy)",
-        "url": "https://open.spotify.com/album/56WFA9DY6elZw9uPt2xGcL"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 239151,
-      "name": "He Loves Me (With Windy)",
-      "url": "https://open.spotify.com/track/5zcqzLiXvZc68HAPJaE8LL"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Seoul Check-in OST Part 10",
         "url": "https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
+        "name": "He Loves Me (With Windy)",
+        "url": "https://open.spotify.com/album/56WFA9DY6elZw9uPt2xGcL"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 239151,
+      "name": "He Loves Me (With Windy)",
+      "url": "https://open.spotify.com/track/5zcqzLiXvZc68HAPJaE8LL"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
         "name": "LOVE or TAKE",
         "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 170906,
       "name": "Sing-a-song",
       "url": "https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM"
-      },
-      "artists": [
-        {
-          "name": "LAS",
-          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -983,6 +967,38 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 214906,
       "name": "You and I in this hard day",
       "url": "https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
-        "name": "flowerain",
-        "url": "https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ"
-      },
-      "artists": [
-        {
-          "name": "Yunsae",
-          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
-        }
-      ],
-      "duration_ms": 177936,
-      "name": "flowerain",
-      "url": "https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

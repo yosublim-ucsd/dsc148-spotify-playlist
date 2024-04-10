@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 85527,
+  "num_followers": 85572,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTlmNGNkNDFlYWUyODZiY2YwNmViYmI1MDRmYmIxMzEwNGQ2NjEy",
+  "snapshot_id": "MCxiNmE0ZGFiNmI2NmEyZTFlMGJmYzViODM2NzdlYTc2MjU0ZGZkNDU2",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "See Wat I\u2019m Sayin",
+        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 146732,
+      "name": "See Wat I\u2019m Sayin",
+      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PTPOM 2.0",
         "url": "https://open.spotify.com/album/6Cb1ZozVRmOw4HlD4UY92u"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 162168,
       "name": "PTPOM 2.0",
       "url": "https://open.spotify.com/track/5sRNp1lJG6LBS1mQgDZOAb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "See Wat I\u2019m Sayin",
-        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 146732,
-      "name": "See Wat I\u2019m Sayin",
-      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
     },
     {
       "added_at": null,
@@ -967,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "All Dere (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CODE (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1"
       },
@@ -1003,22 +1023,6 @@
       "duration_ms": 163760,
       "name": "Ain't See It Coming (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Served",
-        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 142049,
-      "name": "Speak 4 Em",
-      "url": "https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

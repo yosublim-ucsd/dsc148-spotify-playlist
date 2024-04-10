@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 74 | [Powered Up](https://open.spotify.com/track/35YuZV3Fyffqu9fOO2wXtm) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Powered Up](https://open.spotify.com/album/0vwA08n7McS173xbrwYS1N) | 3:03 |
 | 75 | [Kick Us Out](https://open.spotify.com/track/3h8cs808NAb6YZHtqZW7IR) | [Hyper Crush](https://open.spotify.com/artist/2OHNfsJ6k7pJI3eRxv2dSF) | [Kick Us Out](https://open.spotify.com/album/18n4EfWfNiwhJeQInmEN38) | 3:29 |
 | 76 | [There Will Be Tears](https://open.spotify.com/track/6QbRxKNUQyDyPTwlihggXR) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 3:13 |
-| 77 | [Easy](https://open.spotify.com/track/0HueVzDTD7sTvE7w4S4DZ1) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 3:51 |
-| 78 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 77 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 78 | [Easy](https://open.spotify.com/track/0HueVzDTD7sTvE7w4S4DZ1) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 3:51 |
 | 79 | [California Winter](https://open.spotify.com/track/2akuQ9Xn81ItF0WmkdH1TJ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [California Winter](https://open.spotify.com/album/4DJNjsg51k5nCZN4vQNfOV) | 4:05 |
 | 80 | [Thorns \- Le Youth Remix](https://open.spotify.com/track/4HjsqdrnECxrXpbn4Zh0SD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Thorns \(Le Youth Remix\)](https://open.spotify.com/album/1fqUEBjfJ12J4lZqWrSyxo) | 3:55 |
 | 81 | [Guyliner, Pt\. 2](https://open.spotify.com/track/2kALtFWOzG7iHhm8EQmLmD) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant \(Deluxe\)](https://open.spotify.com/album/1NcvdqVDbyvZFaZW0cptZe) | 2:45 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 121 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
 | 122 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `Mjg1NDM4MTAsMDAwMDAwMDA3YmVkMzdjZWIwM2Y1NDg1Y2I1YzBkODdjMDQxMTliMw==`
+Snapshot ID: `Mjg1NDUyMjAsMDAwMDAwMDAyM2M4MmNlYzQyNTg1ZmRhMzE1Yjc1ZGY1YThhZWY0Zg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,557 likes - 106 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,678 likes - 106 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 75 | [If Blue Could Be Happiness](https://open.spotify.com/track/7vyUxfyXy90lx5Yppudtrb) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87) | 5:07 |
 | 76 | [A Hopeful Ending](https://open.spotify.com/track/6G3Rl9I1mqrok2EyPeQ0PX) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [A Hopeful Ending](https://open.spotify.com/album/6AO2WCT8r2bYtdralBbzsq) | 3:22 |
 | 77 | [Entertainment](https://open.spotify.com/track/3fzvBbbXUdkqNca8NJe8bb) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Hell](https://open.spotify.com/album/5JBsSxsPoJgyccGXQTPja3) | 3:58 |
-| 78 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
+| 78 | [Where Is My Mind? \- 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
 | 79 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
 | 80 | [Bleed](https://open.spotify.com/track/6rv9youaC5GcRiag510DL7) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Bleed](https://open.spotify.com/album/7hWtfF7nCMZsMwwKoQOMdv) | 2:57 |
 | 81 | [Yellow](https://open.spotify.com/track/36Owb6DDJbBFXi86x3X61z) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Healing Process](https://open.spotify.com/album/7k3PdFJ8APzpSCwptwI9cT) | 2:14 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 105 | [tattletale](https://open.spotify.com/track/1oG97U59L8fVYrVByMCtNI) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \- EP](https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71) | 3:19 |
 | 106 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
 
-Snapshot ID: `MCw5MzJlMjIxMjU4MjI0M2I5NDA0OWRjM2Q3Nzc5OGIwYzg0OGVmYmQw`
+Snapshot ID: `MCxmMGQ1NzFkMGNkZjI5MmIwNDNjMTg2YTEwNjg4ZWYzNTdjZjEyYjhl`

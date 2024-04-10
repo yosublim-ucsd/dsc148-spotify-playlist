@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 96465,
+  "num_followers": 96631,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDA2YmQzNGI5MWU5ZDc5ODlhOWVkOGYxYjNmMTkzMWI2MDM4ZjYy",
+  "snapshot_id": "MCw0ZTJlNzFhNGRiODM5YjY5YWYyYmZjZjUzMzhhNTg1NjJhOTgwNWQ3",
   "tracks": [
     {
       "added_at": "2024-03-20 08:35:16",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Something Cool (1955 Version)",
-        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Something Cool - Mono",
-      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Easy Does It",
         "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 164066,
       "name": "Show Me The Way To Go Home",
       "url": "https://open.spotify.com/track/6BDZ7gY8WT9BaVQAljmuWM"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Something Cool (1955 Version)",
+        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 258893,
+      "name": "Something Cool - Mono",
+      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 222880,
-      "name": "Something To Remember You By",
-      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Something To Remember You By",
+      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
         "name": "I Just Dropped By To Say Hello",
         "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 250813,
       "name": "Don't You Know I Care",
       "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Amoureusement V\u00f4tre",
+        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
+      },
+      "artists": [
+        {
+          "name": "Don Byas",
+          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -735,38 +751,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Amoureusement V\u00f4tre",
-        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
-      },
-      "artists": [
-        {
-          "name": "Don Byas",
-          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
-        "name": "Candy (Remastered)",
-        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 447173,
-      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
-      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Recital",
         "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
       },
@@ -779,26 +763,6 @@
       "duration_ms": 179853,
       "name": "How Deep Is The Ocean?",
       "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
-        "name": "Ben And \"Sweets\"",
-        "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Harry \"Sweets\" Edison",
-          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -819,6 +783,42 @@
       "duration_ms": 207413,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 447173,
+      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Ben And \"Sweets\"",
+        "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -875,38 +875,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Blossom Dearie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Lover Man (Oh Where Can You Be)",
-      "url": "https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 270266,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -919,6 +887,22 @@
       "duration_ms": 276133,
       "name": "Things Ain't What They Used To Be",
       "url": "https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Lover Man (Oh Where Can You Be)",
+      "url": "https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 270266,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
         "name": "Reunion With Chet Baker",
         "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Jazz 'Round Midnight: Ballads",
         "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
       },
@@ -1039,6 +1023,42 @@
       "duration_ms": 222666,
       "name": "I'm Through With Love",
       "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -1075,42 +1095,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 331213,
-      "name": "Prelude To A Kiss",
-      "url": "https://open.spotify.com/track/2qnDE0I8n5rKOLfG9fIdqR"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "The Wonderful World Of Jazz",
         "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 210973,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 331213,
+      "name": "Prelude To A Kiss",
+      "url": "https://open.spotify.com/track/2qnDE0I8n5rKOLfG9fIdqR"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Comin' On",
-        "url": "https://open.spotify.com/album/1yo5FNFDHGBy8xs4cTy10t"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
-        }
-      ],
-      "duration_ms": 377933,
-      "name": "The Things We Did Last Summer",
-      "url": "https://open.spotify.com/track/2o0WYH1Ir6XKIlKXzPgVMN"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Waiter, Make Mine The Blues",
         "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 200960,
       "name": "Waiter, Make Mine Blues",
       "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Comin' On",
+        "url": "https://open.spotify.com/album/1yo5FNFDHGBy8xs4cTy10t"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+        }
+      ],
+      "duration_ms": 377933,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/2o0WYH1Ir6XKIlKXzPgVMN"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "When Day Is Done",
-      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Steamin' [Rudy Van Gelder edition]",
         "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 467626,
       "name": "Diane",
       "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "When Day Is Done",
+      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 371960,
-      "name": "Where Or When",
-      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "The Total - Vol. 1",
         "url": "https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 192506,
       "name": "Oh Look At Me Now - Studio",
       "url": "https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 371960,
+      "name": "Where Or When",
+      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
     },
     {
       "added_at": "2024-03-20 08:35:16",

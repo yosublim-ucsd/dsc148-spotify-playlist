@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 54 | [Body 2 Body](https://open.spotify.com/track/41LZqyZDQB9lhLLxZPmWko) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Royal Blues](https://open.spotify.com/album/6WXYxY8j90eFTorBfVRfCs) | 3:17 |
 | 55 | [Eyes On You](https://open.spotify.com/track/0T3lAx5TMBRO9CkYDO1A2L) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Find Myself](https://open.spotify.com/album/22VKkGoe1Hjza2kTIM3sR7) | 3:53 |
 | 56 | [Lies You Tell](https://open.spotify.com/track/0GMnklO2k6jGFsNxnBs49p) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 3:22 |
-| 57 | [silverlight](https://open.spotify.com/track/7mnpmmtKKHxoZBV7HSqJOa) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:38 |
-| 58 | [Antidote](https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:49 |
+| 57 | [Antidote](https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:49 |
+| 58 | [silverlight](https://open.spotify.com/track/7mnpmmtKKHxoZBV7HSqJOa) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:38 |
 | 59 | [Healer](https://open.spotify.com/track/0NzNTTdkSvXw9aIrXcXAmk) | [Moxie Raia](https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [931 Reloaded](https://open.spotify.com/album/6uwfQz4ZsOX5VZ2cj8KmfX) | 3:40 |
 | 60 | [Easy On Yourself](https://open.spotify.com/track/5LVmJesDOJD1ntudqD51Ms) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 |
 | 61 | [No Strings](https://open.spotify.com/track/3tPvpGO4yTqpDuJIKnPRYv) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:00 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 97 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 98 | [Like the Ocean](https://open.spotify.com/track/60QQcUiVLsyYEHqNnDyZdX) | [Matt Palmer](https://open.spotify.com/artist/1lElMtQBM7yiErMxrNCRK3) | [Manhattan Records Presents "The Hits" \[Vol.2 \(mixed by DJ TAKU\)\]](https://open.spotify.com/album/00oKx39MIe4ioCBDFur4aD) | 2:12 |
 
-Snapshot ID: `Mjg1NDM4MTAsMDAwMDAwMDBkM2E4MzVlZTZmZWY0YWUxOTdhYTc1NWI5N2VlMmVlZA==`
+Snapshot ID: `Mjg1NDUyNTAsMDAwMDAwMDBiMTJlYTA2YTJiM2IwNmJhOGNkZmQ3NTZkNWVkNDU5Yw==`

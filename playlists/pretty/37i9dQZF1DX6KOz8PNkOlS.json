@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 449652,
+  "num_followers": 449870,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQ1NTZiMDZjY2VlMTQ4MjJkNTQwY2U2YjkwOGYyZDNlYmM4OTEx",
+  "snapshot_id": "MCxlMTI1YmYzYmQ5ZjNiNGUxZTdiZTczOWQ4YjIyYzU1YmEyMDVlNTU1",
   "tracks": [
     {
       "added_at": "2023-09-25 02:25:33",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Where Do You Go",
-        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
-    },
-    {
       "added_at": "2022-09-09 13:33:50",
       "album": {
         "name": "Look To Him",
@@ -979,6 +963,22 @@
       "duration_ms": 251533,
       "name": "Look To Him",
       "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Where Do You Go",
+        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT"
     },
     {
-      "added_at": "2023-06-02 01:45:44",
-      "album": {
-        "name": "Trouble / In My Head",
-        "url": "https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 186528,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "As Long As You Are",
@@ -1063,6 +1047,22 @@
       "duration_ms": 260174,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n"
+    },
+    {
+      "added_at": "2023-06-02 01:45:44",
+      "album": {
+        "name": "Trouble / In My Head",
+        "url": "https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 186528,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Spotlight - Single Edit",
-      "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
-    },
-    {
       "added_at": "2023-02-21 02:56:05",
       "album": {
         "name": "Phosphorescent",
@@ -1175,6 +1159,22 @@
       "duration_ms": 240449,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Spotlight - Single Edit",
+      "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
     },
     {
       "added_at": "2023-12-20 03:34:06",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Something Like A War",
         "url": "https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 194946,
       "name": "The Warning",
       "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2022-12-07 04:04:10",
@@ -1701,6 +1701,22 @@
       "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
     },
     {
+      "added_at": "2023-05-31 21:00:26",
+      "album": {
+        "name": "BEAUTIFUL",
+        "url": "https://open.spotify.com/album/2cTswe7OpYEeefFd2yLwZu"
+      },
+      "artists": [
+        {
+          "name": "Pecas",
+          "url": "https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "BEAUTIFUL",
+      "url": "https://open.spotify.com/track/1OvVUJCil4YjMH1iSSxbrj"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Under Darkening Skies",
@@ -1715,22 +1731,6 @@
       "duration_ms": 277608,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Apollonia",
-        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
-      },
-      "artists": [
-        {
-          "name": "Garden City Movement",
-          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
-        }
-      ],
-      "duration_ms": 158314,
-      "name": "Foreign Affair",
-      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
     }
   ],
   "unique_name": "Soft Office",

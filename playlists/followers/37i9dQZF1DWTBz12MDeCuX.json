@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 462607,
+  "2024-04-10": 462780,
   "date_first_scraped": "2022-06-10",
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Artemas",
   "name": "me right now",
@@ -3463,6 +3463,36 @@
       "duration_ms": 208000,
       "name": "Bathroom",
       "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
+    },
+    {
+      "album": {
+        "name": "Bauchnabelpiercing",
+        "url": "https://open.spotify.com/album/6T2WbFc7mmkAtRuHjsoqfd"
+      },
+      "artists": [
+        {
+          "name": "$ONO$ CLIQ",
+          "url": "https://open.spotify.com/artist/2p0GGGDaJg2xsfwSFBfxWI"
+        },
+        {
+          "name": "Drunken Masters",
+          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
+        },
+        {
+          "name": "Jonko2x",
+          "url": "https://open.spotify.com/artist/6chEDyQBsFDKtHLRLIU4Ke"
+        },
+        {
+          "name": "Radrik Gee",
+          "url": "https://open.spotify.com/artist/4L8VUCcp2bL2swKEBigiaF"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131228,
+      "name": "Bauchnabelpiercing",
+      "url": "https://open.spotify.com/track/6IMyz7eNbGhmDrgdelmqgB"
     },
     {
       "album": {
@@ -8287,7 +8317,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 141965,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2lbOVJ2oLUV6e2OvF3JbeH"
@@ -9932,6 +9962,24 @@
     },
     {
       "album": {
+        "name": "favorite",
+        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "favorite",
+      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -10687,7 +10735,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 128623,
       "name": "FUSSBALLM\u00c4NNER",
       "url": "https://open.spotify.com/track/6U5aqDss5uxfK2OONL7ZhS"
@@ -11239,7 +11287,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
@@ -12759,7 +12807,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 162478,
       "name": "HEARTBREAK SONG",
       "url": "https://open.spotify.com/track/1wxUsUBinl2ZkIBPRoyl5z"
@@ -14118,6 +14166,28 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me (remixes)",
+        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137986,
+      "name": "i like the way you kiss me - southstar remix",
+      "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -14289,7 +14359,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 200059,
       "name": "I Wouldn't Mind",
       "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
@@ -15491,7 +15561,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 162253,
       "name": "It's not fair",
       "url": "https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc"
@@ -18790,6 +18860,24 @@
     },
     {
       "album": {
+        "name": "Fehler im System (2023 Remaster)",
+        "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
+      },
+      "artists": [
+        {
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303903,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
+      "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
+    },
+    {
+      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -20616,6 +20704,28 @@
     },
     {
       "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+    },
+    {
+      "album": {
         "name": "My All",
         "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
       },
@@ -21137,7 +21247,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 102453,
       "name": "Nagel",
       "url": "https://open.spotify.com/track/2QIKyERwcoI9M5oEcRlVEA"
@@ -23732,6 +23842,32 @@
     },
     {
       "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
@@ -24901,7 +25037,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 158980,
       "name": "Ravergirl",
       "url": "https://open.spotify.com/track/2qRvOQSjhmussrIPBe8SRC"
@@ -25647,7 +25783,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 202657,
       "name": "sag was",
       "url": "https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr"
@@ -26793,7 +26929,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 243962,
       "name": "She Calls Me Back (with Kacey Musgraves)",
       "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
@@ -30031,6 +30167,24 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "album": {

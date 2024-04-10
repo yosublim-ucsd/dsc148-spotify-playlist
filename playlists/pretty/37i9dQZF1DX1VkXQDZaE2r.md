@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 
 > Be welcome to the secret society of the midnight movie\-dwellers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 14 | [Méditation des enfants](https://open.spotify.com/track/3wRs0OVDfZU0Hs4Jw7A2xh) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 1:33 |
 | 15 | [Daughters Of Darkness Opening](https://open.spotify.com/track/4RA7WT3dZqYUjru1lTqJXY) | [François de Roubaix](https://open.spotify.com/artist/5oyNl4KxsjkVfyvnwcl8ex) | [Les Lèvres Rouges](https://open.spotify.com/album/1w2quOcigZI2naZVONWiqr) | 1:08 |
 | 16 | [Necronomania](https://open.spotify.com/track/3cbiqfq1YOGhFYlOPZxEw5) | [Vampire Sound Inc.](https://open.spotify.com/artist/13MnV7biLgN0jfwmU62VFV), [Sigi Schwab](https://open.spotify.com/artist/76t372Lv5f0NBtyWrIw52n), [Manfred Hübler](https://open.spotify.com/artist/1tdyiPK4e8BraSSMMZCQPx) | [Vampyros Lesbos \(Sexadelic Dance Party\)](https://open.spotify.com/album/5MCpUmrzVGvsVcYHyGV2Cy) | 2:12 |
-| 17 | [Madame Arcati](https://open.spotify.com/track/6vY0R1nmvSk58Ftvj163PQ) | [Jacques Lasry](https://open.spotify.com/artist/6Hp8cEcn12Y6rFXybqm1pe) | [A Very English Murder](https://open.spotify.com/album/7DomG6u2OwPjl0W56PWqd8) | 2:09 |
-| 18 | [Dark World \(from "Inner Space"\)](https://open.spotify.com/track/3upYNAXYSxGZhnXUBFOGHx) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Inner Space: The Lost Film Music of Sven Libaek](https://open.spotify.com/album/5HF5en6DJ1Z9xhvRJKwkCq) | 4:32 |
+| 17 | [Dark World \(from "Inner Space"\)](https://open.spotify.com/track/3upYNAXYSxGZhnXUBFOGHx) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Inner Space: The Lost Film Music of Sven Libaek](https://open.spotify.com/album/5HF5en6DJ1Z9xhvRJKwkCq) | 4:32 |
+| 18 | [Madame Arcati](https://open.spotify.com/track/6vY0R1nmvSk58Ftvj163PQ) | [Jacques Lasry](https://open.spotify.com/artist/6Hp8cEcn12Y6rFXybqm1pe) | [A Very English Murder](https://open.spotify.com/album/7DomG6u2OwPjl0W56PWqd8) | 2:09 |
 | 19 | [The Legend](https://open.spotify.com/track/0zTLnXTdtDVJXwGm0yN4UM) | [Alessandro Alessandroni, Giulia de Mutiis](https://open.spotify.com/artist/7Ar0P16Mj2HodfpseBCePl) | [Spaghetti Western Story](https://open.spotify.com/album/6PyxF1vjI4JM5r6fntHyfk) | 2:06 |
 | 20 | [Déshominisation \(I\)](https://open.spotify.com/track/4bEA2S0bsm3L0n8WkjvjjG) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 3:50 |
 | 21 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 46 | [The Letter \- Alternate Version](https://open.spotify.com/track/1QBdSz2Z7xhpuPu8oe66PR) | [Luboš Fišer](https://open.spotify.com/artist/4z6WcbsP0ZAw7UCEBuU6fk) | [Valerie and Her Week of Wonders](https://open.spotify.com/album/7kMA3RbOjYLJ2igWgihhPY) | 1:26 |
 | 47 | [Tema di Andromeda \- Titoli](https://open.spotify.com/track/1sARq97rsSZCMnuO8oEOdd) | [Mario Migliardi](https://open.spotify.com/artist/4PQN5vllMoMffSTEjfvzpQ), [Edda Dell'Orso](https://open.spotify.com/artist/44oCA91Zsi73fzubIX6Sqh) | [A come Andromeda \(Original Television Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3oCi1gzY2X4UdvI3LrEOp1) | 3:41 |
 | 48 | [The Weakness of Rosalinda](https://open.spotify.com/track/4mAtx9BVRcwavz2Y8nGRE6) | [Jean\-Bernard Raiteux](https://open.spotify.com/artist/6uGnNovOj1Zm7gK3knalle) | [Les Demons](https://open.spotify.com/album/1h2odfHhZqFdLIxBva1VH7) | 4:11 |
-| 49 | [Ambroseli](https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Zoo folle \(Original Television Soundtrack\)](https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi) | 6:49 |
-| 50 | [The Innocents Suite: I\. O Willow Waly \- Main Titles](https://open.spotify.com/track/04cdIzF30V7Yb5Q5r0MUkG) | [Georges Auric](https://open.spotify.com/artist/1OWxt3WxCvMwyOwfdQ20RK), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy), [BBC Philharmonic Orchestra](https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK) | [The Film Music of Georges Auric](https://open.spotify.com/album/3u5Q5iuOy5BWTK8xA1B7zg) | 3:23 |
+| 49 | [The Innocents Suite: I\. O Willow Waly \- Main Titles](https://open.spotify.com/track/04cdIzF30V7Yb5Q5r0MUkG) | [Georges Auric](https://open.spotify.com/artist/1OWxt3WxCvMwyOwfdQ20RK), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy), [BBC Philharmonic Orchestra](https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK) | [The Film Music of Georges Auric](https://open.spotify.com/album/3u5Q5iuOy5BWTK8xA1B7zg) | 3:23 |
+| 50 | [Ambroseli](https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Zoo folle \(Original Television Soundtrack\)](https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi) | 6:49 |
 
-Snapshot ID: `MCw4YzJkZmRjZjNjNmQwNDJmMjI1ZWE0N2U5Mjg1MTBkNWI5Y2FiNjc0`
+Snapshot ID: `MCw2YTg0YWExZDBkNThhZTY4NjBhZjZlMjcxODY1MTY3OWY2ZjNmMGFk`

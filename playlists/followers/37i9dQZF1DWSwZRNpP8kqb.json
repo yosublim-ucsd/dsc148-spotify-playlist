@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 24062,
+  "2024-04-10": 24073,
   "date_first_scraped": "2022-01-21",
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
   "name": "Mujeres del Folklore",
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 190093,
       "name": "Guitarra, D\u00edmelo T\u00fa",
       "url": "https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9"
@@ -2381,7 +2381,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 208540,
       "name": "Secretos",
       "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
@@ -2627,7 +2627,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210333,
-      "name": "Tren Del Cielo",
+      "name": "Tren Del Cielo (with Natalia Pastorutti)",
       "url": "https://open.spotify.com/track/7nQYmGq7BKQmmHuX5BWauX"
     },
     {

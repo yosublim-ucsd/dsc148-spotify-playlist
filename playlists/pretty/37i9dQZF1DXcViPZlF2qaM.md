@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,196 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,233 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 26 | [Canción de Bañar la Luna](https://open.spotify.com/track/1U2ujdCwNNj6zfduzVq7bQ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Uno](https://open.spotify.com/album/4r0LbUWqLQIfzBrttfixON) | 2:53 |
 | 27 | [Spanish Flea](https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:06 |
 | 28 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
-| 29 | [Alegria](https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W) | 4:03 |
+| 29 | [Fried Neck Bones And Some Home Fries](https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Uno Dos Tres 1\-2\-3](https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k) | 3:03 |
 | 30 | [Siente el Corazón](https://open.spotify.com/track/2mknKLq6guQHbtOu2b8ClK) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Satia](https://open.spotify.com/artist/3SQE53weeDWPLpN79wUrwy) | [Siente el Corazón](https://open.spotify.com/album/1OJPadSvU1rtEzrYnZO9sP) | 4:06 |
-| 31 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 |
+| 31 | [Alegria](https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W) | 4:03 |
 | 32 | [Aguila Latina](https://open.spotify.com/track/1oVz5EhIzwhViwB9PADdaT) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Aguila Latina](https://open.spotify.com/album/0geRBvwih5IrnjKaU8tzCs) | 4:39 |
-| 33 | [Fried Neck Bones And Some Home Fries](https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Uno Dos Tres 1\-2\-3](https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k) | 3:03 |
+| 33 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 |
 | 34 | [Duda Morena](https://open.spotify.com/track/77DfJYwlIxQFbcNoZcVjuh) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/1n7pvXzyXqEDCrCaR7SJbc) | 4:53 |
 | 35 | [Márcame](https://open.spotify.com/track/6I0PMHpGM4RBatsYuZ8n6T) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN) | [Márcame](https://open.spotify.com/album/4dLm6zAn7b79biOFkO8dOW) | 3:37 |
 | 36 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 47 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 |
 | 48 | [Tú Ve](https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4) | 3:58 |
 | 49 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
-| 50 | [Be True to Me \- Sabor a Mi \- Versión Bilingüe](https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Be True to Me \- Sabor a Mi \(Versión Bilingüe\)](https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx) | 3:09 |
-| 51 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 |
+| 50 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 |
+| 51 | [Be True to Me \- Sabor a Mi \- Versión Bilingüe](https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Be True to Me \- Sabor a Mi \(Versión Bilingüe\)](https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx) | 3:09 |
 | 52 | [Danza de Gardenias \(feat\. Los Macorinos\)](https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:23 |
 | 53 | [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 |
 | 54 | [La Cumbia Del Cafe Martinez](https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 3:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 59 | [Silencio](https://open.spotify.com/track/7fEJ3BTR7OsNVeTylr3NsL) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI) | 4:38 |
 | 60 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
 
-Snapshot ID: `MCxkYmZkNDU2YjU1NWYzZDk0MWRiMjZiMzkzOGQyYmExNTJmYzE1NWU4`
+Snapshot ID: `MCw5MTFmMTE1OTI4ZWM0NmNhZjkzOGZhZDBkOTMxY2FiMDZlZjY0OTk2`

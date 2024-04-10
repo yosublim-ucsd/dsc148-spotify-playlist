@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,021 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,077 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 70 | [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 |
 | 71 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 |
 | 72 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
-| 73 | [My First Love](https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [My Thoughts](https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf) | 4:28 |
-| 74 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
-| 75 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 |
-| 76 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 |
-| 77 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
-| 78 | [Out Of Love](https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Eddie](https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN) | 4:50 |
-| 79 | [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 |
-| 80 | ['Cause I Love You](https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45) | [Lenny Williams](https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN) | [Spark Of Love \(Expanded Edition\)](https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo) | 7:09 |
+| 73 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
+| 74 | [My First Love](https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [My Thoughts](https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf) | 4:28 |
+| 75 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
+| 76 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 |
+| 77 | [Out Of Love](https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Eddie](https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN) | 4:50 |
+| 78 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 |
+| 79 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
+| 80 | [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 |
 
-Snapshot ID: `MCxiNjhjYzgwM2RlYjViZmRkYjQ4MTgxMGY2NDBjNDk5Y2M0NWJkYjU1`
+Snapshot ID: `MCxkNWQyODUxMzRmNjU5NjE0ZGJiNzg4ODUwNjNiMjUxN2M1MmI4NjEw`

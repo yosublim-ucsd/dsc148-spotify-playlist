@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 11826,
+  "num_followers": 11835,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDg3NDUwMDFlYTZhYTk3NjJhODFlZDE3ODIyOGNmNzg3YjU0MzFm",
+  "snapshot_id": "MCxmMDUzNjFmM2NlMmMzMDY4MzE1YTcyN2I1OGNlODYyNzU2OTg5ZjFl",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "For\u00eat & Oiseaux",
-        "url": "https://open.spotify.com/album/4tVQpImvgsJdHIPkOT9lJe"
-      },
-      "artists": [
-        {
-          "name": "Lisette Kenzo",
-          "url": "https://open.spotify.com/artist/2KflAxYsFtGVfxxbxmQblY"
-        }
-      ],
-      "duration_ms": 151579,
-      "name": "For\u00eat & Oiseaux",
-      "url": "https://open.spotify.com/track/5RzgY7bYZLAAozNYUpeyi3"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Nature",
         "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 189130,
       "name": "Natural Ambiences",
       "url": "https://open.spotify.com/track/5ssDGpsPZ59nQhfqL1vKhb"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "For\u00eat & Oiseaux",
+        "url": "https://open.spotify.com/album/4tVQpImvgsJdHIPkOT9lJe"
+      },
+      "artists": [
+        {
+          "name": "Lisette Kenzo",
+          "url": "https://open.spotify.com/artist/2KflAxYsFtGVfxxbxmQblY"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "For\u00eat & Oiseaux",
+      "url": "https://open.spotify.com/track/5RzgY7bYZLAAozNYUpeyi3"
     },
     {
       "added_at": "2023-06-19 12:57:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,052 likes - 54 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,156 likes - 54 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 22 | [Music](https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 3:45 |
 | 23 | [Ray of Light](https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:22 |
 | 24 | [Open Your Heart](https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 |
-| 25 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
-| 26 | [Jump](https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 3:58 |
+| 25 | [Jump](https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 3:58 |
+| 26 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
 | 27 | [American Pie](https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:33 |
 | 28 | [Borderline](https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:58 |
 | 29 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 38 | [I'll Remember \(Theme from the Motion Picture With Honors\)](https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:23 |
 | 39 | [Rain](https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:24 |
 | 40 | [Don't Cry for Me Argentina](https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 5:35 |
-| 41 | [BREAK MY SOUL \- THE QUEENS REMIX](https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [BREAK MY SOUL \(THE QUEENS REMIX\)](https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J) | 5:56 |
+| 41 | [Get Together](https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:15 |
 | 42 | [You'll See](https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:38 |
-| 43 | [Get Together](https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:15 |
+| 43 | [BREAK MY SOUL \- THE QUEENS REMIX](https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [BREAK MY SOUL \(THE QUEENS REMIX\)](https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J) | 5:56 |
 | 44 | [Bitch I'm Madonna](https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:47 |
 | 45 | [Die Another Day](https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:39 |
 | 46 | [This Used to Be My Playground](https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 5:10 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 53 | [Angel](https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:56 |
 | 54 | [Human Nature](https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 4:53 |
 
-Snapshot ID: `MCxjYjhkZjFmMWNkZGQ0NTc2OWRlZDI3ZWNkNjI3OGI1ZGU2NzMwYjRh`
+Snapshot ID: `MCw4YTc1YTJiNGVkYzU5N2U4NTNiOGVlMzVhMDY5OGRlNWYyYTgxNDY3`

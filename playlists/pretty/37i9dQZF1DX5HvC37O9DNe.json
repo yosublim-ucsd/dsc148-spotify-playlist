@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 103065,
+  "num_followers": 103094,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTI2NmRlOTJlZTVjZjhlNjZjZTliMjk5MDU3MTM1ZGQ0YjY4N2Rk",
+  "snapshot_id": "MCxkNTdjZjAyYWE5ODQyOTNiODgwNjM5YzcwNWY3OWE0Yjc2MDJhYmQz",
   "tracks": [
     {
       "added_at": "2024-02-02 11:22:44",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-02-02 11:22:44",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Prisoner (feat. Dua Lipa)",
-      "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
-    },
-    {
-      "added_at": "2024-02-02 11:22:44",
-      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2024-02-02 11:22:44",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Prisoner (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
     },
     {
       "added_at": "2024-02-02 11:22:44",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-02-02 11:22:44",
       "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "i'm so tired...",
-      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
-    },
-    {
-      "added_at": "2024-02-02 11:22:44",
-      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "added_at": "2024-02-02 11:22:44",
+      "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "i'm so tired...",
+      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
     },
     {
       "added_at": "2024-02-02 11:22:44",

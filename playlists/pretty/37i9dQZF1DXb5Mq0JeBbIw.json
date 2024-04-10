@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 9491,
+  "num_followers": 9505,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDQ4MjY5YWY5Y2NkOTcxMGU3OTZlNzU0ZjI1ODJkNmJjYzMxZTI2",
+  "snapshot_id": "MCxjYjE3ODZlNThmOGE1YjA2ZjYzZjNlMGUyZmQ4NDhkMDQ0ZjI1ODY1",
   "tracks": [
     {
       "added_at": "2023-10-10 12:23:51",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
     },
     {
-      "added_at": "2023-11-08 15:46:49",
-      "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Spotify Sessions",
@@ -107,6 +91,22 @@
       "duration_ms": 174360,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "added_at": "2023-11-08 15:46:49",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -381,54 +381,6 @@
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "#Acoustic",
-        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Naked (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Naked - Acoustic Version",
-      "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
-    },
-    {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Mean It",
-        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 171138,
-      "name": "Mean It",
-      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
-    },
-    {
       "added_at": "2023-10-10 12:23:51",
       "album": {
         "name": "I Was Born To Love You",
@@ -447,6 +399,54 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "#Acoustic",
+        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 171138,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Naked (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Naked - Acoustic Version",
+      "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/0fKvusBkfI3ObQrICo9TwN"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "The One I Love",
-      "url": "https://open.spotify.com/track/7nCkMU8PCIACMpMgvp82JJ"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Mama (Acoustic)",
         "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/0fKvusBkfI3ObQrICo9TwN"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/7nCkMU8PCIACMpMgvp82JJ"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Wait & See",
         "url": "https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 213855,
       "name": "Little Love",
       "url": "https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Deny Me",
-        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
-      },
-      "artists": [
-        {
-          "name": "Grace Gardner",
-          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
-        }
-      ],
-      "duration_ms": 307620,
-      "name": "Deny Me",
-      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Chasing After the Moon",
         "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 238994,
       "name": "Chasing After the Moon",
       "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Deny Me",
+        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "duration_ms": 307620,
+      "name": "Deny Me",
+      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Leap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 199375,
-      "name": "One Life - Acoustic",
-      "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Hold On To Happiness",
         "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 217306,
       "name": "Hold On To Happiness",
       "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Leap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 199375,
+      "name": "One Life - Acoustic",
+      "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1531,6 +1531,22 @@
       "duration_ms": 213658,
       "name": "I'm Not The Only One - Acoustic Version",
       "url": "https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Better Than Today",
+      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1635,22 +1651,6 @@
       "duration_ms": 154732,
       "name": "When the Party's Over",
       "url": "https://open.spotify.com/track/2q4t8aNC8tSQyViXrTwOFJ"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Better Than Today",
-      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
     },
     {
       "added_at": "2023-02-10 06:37:00",

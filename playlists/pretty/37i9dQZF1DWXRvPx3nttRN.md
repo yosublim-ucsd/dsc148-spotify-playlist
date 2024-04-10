@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,991 likes - 120 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,080 likes - 120 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 43 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 |
 | 44 | [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 |
 | 45 | [Slow Hands \- Acoustic](https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp) | 2:40 |
-| 46 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's \(Acoustic Tracks and Demo Versions\)](https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ) | 3:31 |
-| 47 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
+| 46 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
+| 47 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's \(Acoustic Tracks and Demo Versions\)](https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ) | 3:31 |
 | 48 | [Us \- Acoustic](https://open.spotify.com/track/0GTPn99cNZRVl2Kv0bcwNI) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Us \(Acoustic\)](https://open.spotify.com/album/6HLfpr2l9bN38FkeeQAoCo) | 3:01 |
 | 49 | [Good To Be \(Acoustic\)](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 |
 | 50 | [Eastside \(with Halsey & Khalid\) \- Acoustic](https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\) \[Acoustic\]](https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk) | 2:53 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 66 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:20 |
 | 67 | [I Kissed a Girl](https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Derivatives](https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4) | 3:12 |
 | 68 | [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 |
-| 69 | [Behind the Light](https://open.spotify.com/track/5N5FHrP1J3qusicukPFcTQ) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Ash & Stone](https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA) | 2:51 |
-| 70 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 |
+| 69 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 |
+| 70 | [Behind the Light](https://open.spotify.com/track/5N5FHrP1J3qusicukPFcTQ) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Ash & Stone](https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA) | 2:51 |
 | 71 | [Youngblood \- Acoustic](https://open.spotify.com/track/5EqlEvrylr3DNy3R11Kmrz) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Acoustic\)](https://open.spotify.com/album/4rFgtc0nwqxIJibvDW6eJr) | 3:40 |
 | 72 | [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 |
 | 73 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 119 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
 | 120 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 |
 
-Snapshot ID: `MCw0ODlmZjcwY2QzNDY1NzY3YjBhOGNkM2I1ODMzNGYwODFlODc4MDY1`
+Snapshot ID: `MCwyNjUxODI3N2E5Y2U2NTc2ZmE2ZmIwOWI0MTA5ZGIxMjk5OTBiYTNm`

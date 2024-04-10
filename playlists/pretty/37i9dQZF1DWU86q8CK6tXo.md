@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Maren Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,596 likes - 41 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,603 likes - 41 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 25 | [Secrets](https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:11 |
 | 26 | [Lorelei](https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 |
 | 27 | [DIRT](https://open.spotify.com/track/4yecHdRmT62mztymihKxYK) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [DIRT](https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD) | 2:15 |
-| 28 | [All Girls Go to Heaven](https://open.spotify.com/track/4DARCDYP7uNc0tp7ABx154) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [All Girls Go to Heaven](https://open.spotify.com/album/4APWqD1zWFke34VGBzgroW) | 2:44 |
-| 29 | [Disappearing \(feat\. Magdalena Bay\)](https://open.spotify.com/track/0nxPeolI7FlljJ3SnNYDmj) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All I Ever Want Is Everything](https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR) | 3:20 |
+| 28 | [Disappearing \(feat\. Magdalena Bay\)](https://open.spotify.com/track/0nxPeolI7FlljJ3SnNYDmj) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All I Ever Want Is Everything](https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR) | 3:20 |
+| 29 | [All Girls Go to Heaven](https://open.spotify.com/track/4DARCDYP7uNc0tp7ABx154) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [All Girls Go to Heaven](https://open.spotify.com/album/4APWqD1zWFke34VGBzgroW) | 2:44 |
 | 30 | [Parking Lot](https://open.spotify.com/track/39AbyPpPnVDAHzUmYxVsEx) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:03 |
 | 31 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
 | 32 | [If the World Was a House](https://open.spotify.com/track/3bF8MgnGuQoDPwPUE8Hmk7) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Mind, Man, Medicine](https://open.spotify.com/album/7u6SrRvhJLkIc3TIhjgHRy) | 4:26 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 40 | [Champagne & Sushi](https://open.spotify.com/track/6l3JgDi2o2FGI9lOkULJFB) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Champagne & Sushi](https://open.spotify.com/album/54Dpx01lo22InjzBeIEpPU) | 3:25 |
 | 41 | [World's Hardest Game](https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [World's Hardest Game](https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB) | 3:28 |
 
-Snapshot ID: `MCw1NWRjZTEzZGVmYTE4MDRlNTdiZmYyYTZmZGE4Mzg2YmNlNzU3MGYy`
+Snapshot ID: `MCwzMDdjZmI1MzdkODJiZmQ5ODM4MmQ2MTRhYmMxY2E0MjRjZGI3NTgz`

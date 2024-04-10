@@ -2673,7 +2673,7 @@
     },
     {
       "album": {
-        "name": "GAMMA",
+        "name": "Gamma",
         "url": "https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO"
       },
       "artists": [
@@ -2686,7 +2686,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 114333,
-      "name": "Digital slaves",
+      "name": "Digital Slaves",
       "url": "https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT"
     },
     {
@@ -4466,10 +4466,36 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 183093,
       "name": "Funky And You Know It - Myd Remix",
       "url": "https://open.spotify.com/track/3GXNESAx5m5wtE2bWjzmN2"
+    },
+    {
+      "album": {
+        "name": "Funky And You Know It (Myd Remix)",
+        "url": "https://open.spotify.com/album/2vtx99PYX49EtS6WPu9kxX"
+      },
+      "artists": [
+        {
+          "name": "Shakedown",
+          "url": "https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Funky And You Know It - Myd Remix",
+      "url": "https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE"
     },
     {
       "album": {

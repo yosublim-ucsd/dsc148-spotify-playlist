@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-93 songs - 5 hr 5 min
+94 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aww](https://open.spotify.com/track/2ScqDQj39xCVINvUwT5oqk) | [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe) | [Aww](https://open.spotify.com/album/5a4Vx9H8AezpyQxqs2Gywr) | 2:40 | 2024-02-27 |  |
 | [Bad Guy](https://open.spotify.com/track/34LbYwWS8Vxr6dsdZ64OXd) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Starting Over](https://open.spotify.com/album/1ZWlheyrmKAaNoaa1dsq5T) | 3:33 | 2024-02-27 |  |
 | [Bad One](https://open.spotify.com/track/5yvjSEYLx7wwPmnhPIIqBr) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 2:28 | 2024-02-27 |  |
+| [Better Judgement](https://open.spotify.com/track/0CjGCpqs4qBqZi7ibYyZLi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:49 | 2024-04-09 |  |
 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 | 2024-02-27 |  |
 | [Birthday](https://open.spotify.com/track/5hff5RQeE84pznOt8WEWeO) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Birthday](https://open.spotify.com/album/2KLNA0H5XiiMLPAWSb8sUu) | 3:01 | 2024-02-27 |  |
 | [Black Coffee](https://open.spotify.com/track/6bACnnQ39JxdU7DmvlayZR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:46 | 2024-02-27 |  |

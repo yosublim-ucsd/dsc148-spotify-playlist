@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Salsa, Bachata, Dembow, Reggaetón..\. Lleve su nueva rolita favorita con Chencho Corleone y Peso Pluma en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,301 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,486 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 13 | [Entre las de 20](https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Entre las de 20](https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6) | 2:48 |
 | 14 | [Koenigsegg](https://open.spotify.com/track/3jZ24Jd8i5FNpePjYQy4ck) | [Brian Santin](https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Koenigsegg](https://open.spotify.com/album/2BCfKhmwimc5a0lhdRZN65) | 3:06 |
 | 15 | [Te Caigo En 10](https://open.spotify.com/track/6gOIcZMJGJmfky9YnLHiRZ) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Me Brinqué La Fila](https://open.spotify.com/album/32wxGBycvjlXpakneIrTSQ) | 2:38 |
-| 16 | [Bandido de Amores](https://open.spotify.com/track/7gHoeow1Cxlb2l7m4klYjM) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/2ttpwARIej8YdDGj6Z9I1P) | 3:03 |
+| 16 | [Bandido de Amores](https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:03 |
 | 17 | [posta](https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [posta](https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z) | 2:01 |
 | 18 | [Ahora](https://open.spotify.com/track/7pVitP3DTRfjOaL1xhuDFl) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Ahora](https://open.spotify.com/album/3hq6g14B0rYvxzpmGZJIWn) | 3:52 |
 | 19 | [Luis Miguel](https://open.spotify.com/track/1DGI8N7EJRegRvFN6V7u8j) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Luis Miguel](https://open.spotify.com/album/22AGeMVdDQdfAPSNJEJIqt) | 3:32 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 50 | [Bajo Perfil](https://open.spotify.com/track/6hevYQpMZDWxCJPc8KykFH) | [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Bajo Perfil](https://open.spotify.com/album/57S0CyZgefwdHTUs3PAzYh) | 2:41 |
 | 51 | [De Verdad \- Versión Acústica](https://open.spotify.com/track/6W9UqX0GbQm78CCwaJtDn3) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Versiones Para El Tiempo Y La Distancia, Vol\. 2](https://open.spotify.com/album/3nuFz3EVPwX5eyUYKezjIS) | 3:23 |
 
-Snapshot ID: `MCwyODU4MDU4MDlkOTAwN2E1OWI2MmJhMzZjOTk1ZjdmNmIzMTRiYWY1`
+Snapshot ID: `MCxkOGIwYTg5NmIyYWE0M2Y1NGNmNWI0ZDIxMDU3ZDI1ZGQ5Zjk4ODUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,714 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,102 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Waging War](https://open.spotify.com/track/2WPzVbrJIM6oOUAvF9q64Q) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Waging War](https://open.spotify.com/album/74Syb2oEmqiXOuh1u8gRcd) | 4:01 |
 | 100 | [funny girl](https://open.spotify.com/track/50WEeFyytDmU2RhcsUNkrv) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [funny girl](https://open.spotify.com/album/7wl5M6KO2zF0g06Il8xmi3) | 3:18 |
 
-Snapshot ID: `MCxmM2U1MzU0MDVjNGY4OGMwZTE0NzVhNThiM2ZhMjlkOGM3Y2RkZmUw`
+Snapshot ID: `MCw3ZDc0MTI5YjE0NjRkZDRlMDhjN2M4YWRmYTJiOTY3ZmQ4MTg2MjQ5`

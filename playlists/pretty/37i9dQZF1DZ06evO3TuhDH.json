@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 15807,
+  "num_followers": 15817,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWE0MzA5OTUyNzkwNmRmYWYwMGQ4ZmMyNzA2NTc2ZTlhZTk1M2Ni",
+  "snapshot_id": "MCw4ZDI5NTg0YzY2NTAzNzJlYTEyMWRiZTQwODMyODRhZjBmMThkZWJh",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Sleep? (Deluxe)",
         "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 119715,
       "name": "2055",
       "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1738 (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 230293,
       "name": "1738 (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
     },
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Man's World (with James Brown)",
+      "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "They Got Amnesia",
         "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 185477,
       "name": "Push Start (with Coi Leray feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Man's World (with James Brown)",
-      "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Sh!t",
-        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Fly Sh!t",
-      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 150413,
       "name": "No Angels (with Lola Brooke)",
       "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fly Sh!t",
+        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Fly Sh!t",
+      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
     },
     {
       "added_at": null,
@@ -987,22 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW"
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
         },
         {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 149862,
-      "name": "Better Days (feat. Fetty Wap)",
-      "url": "https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf"
+      "duration_ms": 152186,
+      "name": "Sex So Good (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/40mQXYRIZl7c8Of0mfnRBC"
     }
   ],
   "unique_name": "This Is Coi Leray",

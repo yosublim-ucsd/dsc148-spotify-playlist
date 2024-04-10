@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: F\u00e1rmacos",
-  "num_followers": 124343,
+  "num_followers": 124347,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDM0ZjExNjA3MDU2ODg1YmIxYTgzZGYwZGM1NDIxZThmYTJjZTgy",
+  "snapshot_id": "MCxiNmJmOGJjZDdkY2M1ZTE4OTUwMzg1MzM2Y2UwNTNkYzI3OTRiZTJk",
   "tracks": [
     {
       "added_at": "2024-04-05 03:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Estado Vegetal",
-        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
+        "name": "Oler A Ti",
+        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
       },
       "artists": [
         {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 196173,
-      "name": "Estado Vegetal",
-      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
+      "duration_ms": 225013,
+      "name": "Oler A Ti",
+      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Oler A Ti",
-        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
+        "name": "Estado Vegetal",
+        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
       },
       "artists": [
         {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
         }
       ],
-      "duration_ms": 225013,
-      "name": "Oler A Ti",
-      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
+      "duration_ms": 196173,
+      "name": "Estado Vegetal",
+      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -431,6 +431,22 @@
       "duration_ms": 230400,
       "name": "Te lo pido por favor",
       "url": "https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "Que Nunca Pare",
+        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Que Nunca Pare",
+      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Palabritas y Palabrotas",
-        "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Para la Patada y el Combo",
-      "url": "https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
         "name": "Cuatro",
         "url": "https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS"
       },
@@ -523,34 +523,18 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Sudam\u00e9rica Suda",
-        "url": "https://open.spotify.com/album/55arWmrulZn7MFfD4eDa4o"
+        "name": "Palabritas y Palabrotas",
+        "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
       },
       "artists": [
         {
-          "name": "Seba Alfaro",
-          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Sudam\u00e9rica Suda",
-      "url": "https://open.spotify.com/track/3nf731XsSR9Nnhw0nOylo9"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "Que Nunca Pare",
-        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Que Nunca Pare",
-      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
+      "duration_ms": 186760,
+      "name": "Para la Patada y el Combo",
+      "url": "https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -571,6 +555,22 @@
       "duration_ms": 208723,
       "name": "Instintos",
       "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "Sudam\u00e9rica Suda",
+        "url": "https://open.spotify.com/album/55arWmrulZn7MFfD4eDa4o"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Sudam\u00e9rica Suda",
+      "url": "https://open.spotify.com/track/3nf731XsSR9Nnhw0nOylo9"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -611,6 +611,22 @@
       "duration_ms": 265351,
       "name": "Pelusita al ojo",
       "url": "https://open.spotify.com/track/30H1oGEvLbHaZPOCiG0efP"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -659,22 +675,6 @@
       "duration_ms": 140428,
       "name": "Piedad",
       "url": "https://open.spotify.com/track/4vYFrN4yxgUF3mzccFYAIs"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "Tu Olor",
+        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 186459,
+      "name": "Tu Olor",
+      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "Rapapapaum",
         "url": "https://open.spotify.com/album/2rXJTy0So75AGP4XV1mAxw"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 170057,
       "name": "Rapapapaum",
       "url": "https://open.spotify.com/track/3dvjfnYJUh6ZWKX4ZAxsgT"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "Tu Olor",
-        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 186459,
-      "name": "Tu Olor",
-      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -1155,22 +1155,18 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "no hace falta saber",
-        "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
         }
       ],
-      "duration_ms": 168026,
-      "name": "no hace falta saber",
-      "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
+      "duration_ms": 247351,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -1195,54 +1191,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
+        "name": "no hace falta saber",
+        "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
       "artists": [
         {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 247351,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "Nada Es Eterno",
-        "url": "https://open.spotify.com/album/4wNdkxUeKcI8kdMu7LzBoY"
-      },
-      "artists": [
-        {
-          "name": "Charly Benavente",
-          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "Nada Es Eterno",
-      "url": "https://open.spotify.com/track/0xfLYdNUxIaT5fopOXh3ls"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "CASI P\u00daRPURA",
-        "url": "https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ"
-      },
-      "artists": [
-        {
-          "name": "Makoli",
-          "url": "https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY"
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
         },
         {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 168152,
-      "name": "Magnetismo",
-      "url": "https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I"
+      "duration_ms": 168026,
+      "name": "no hace falta saber",
+      "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -1291,6 +1255,42 @@
       "duration_ms": 200245,
       "name": "NI\u00d1A",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "Nada Es Eterno",
+        "url": "https://open.spotify.com/album/4wNdkxUeKcI8kdMu7LzBoY"
+      },
+      "artists": [
+        {
+          "name": "Charly Benavente",
+          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "Nada Es Eterno",
+      "url": "https://open.spotify.com/track/0xfLYdNUxIaT5fopOXh3ls"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "CASI P\u00daRPURA",
+        "url": "https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ"
+      },
+      "artists": [
+        {
+          "name": "Makoli",
+          "url": "https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 168152,
+      "name": "Magnetismo",
+      "url": "https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Puro Espejo",
-        "url": "https://open.spotify.com/album/42rkkwtIKgnsHVvvUYD8rW"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 187124,
-      "name": "G\u00e1rgolas",
-      "url": "https://open.spotify.com/track/5zMc1pCaX0cSsff5sQZV0Q"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
         "name": "Bailar en la Cuerda Floja",
         "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 221620,
       "name": "Bailar en la Cuerda Floja",
       "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "Puro Espejo",
+        "url": "https://open.spotify.com/album/42rkkwtIKgnsHVvvUYD8rW"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 187124,
+      "name": "G\u00e1rgolas",
+      "url": "https://open.spotify.com/track/5zMc1pCaX0cSsff5sQZV0Q"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Lo Que No Hablas",
-        "url": "https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 208441,
-      "name": "Lo Que No Hablas",
-      "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
         "name": "Te puedes ir, amor",
         "url": "https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 189625,
       "name": "Te puedes ir, amor",
       "url": "https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "Lo Que No Hablas",
+        "url": "https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 208441,
+      "name": "Lo Que No Hablas",
+      "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 209579,
+      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "como antes :(",
         "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 237888,
       "name": "como antes :(",
       "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 209579,
-      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
     }
   ],
   "unique_name": "Indie Chile",

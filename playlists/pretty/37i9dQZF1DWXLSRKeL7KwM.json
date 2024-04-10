@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 400038,
+  "num_followers": 400219,
   "original_name": "Energy Booster: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmQ2YjYyYjliYjkwZmRhNDdkOGU4ZWU0NzViZTYzYzMxNDJhOWVj",
+  "snapshot_id": "MCw4ODg0Zjc1ZjBmNTM5ZDM3ZmIwN2ViZDllM2JhMGNjNDM4NTg4YWJk",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+      "duration_ms": 183733,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 183733,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 193773,
       "name": "Runnin' Outta Moonlight",
       "url": "https://open.spotify.com/track/4vlJejZrcujj0nSCqIBeWn"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
       },
@@ -1027,38 +1043,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+        "name": "747",
+        "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 169586,
-      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
-      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
+      "duration_ms": 198266,
+      "name": "Bartender",
+      "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1095,18 +1091,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "747",
-        "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 198266,
-      "name": "Bartender",
-      "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
+      "duration_ms": 169586,
+      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
+      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "My Kinda Party",
+      "url": "https://open.spotify.com/track/7yZ93UxLRiF6eaiBrYkWfr"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "One Too Many",
         "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "My Kinda Party",
-      "url": "https://open.spotify.com/track/7yZ93UxLRiF6eaiBrYkWfr"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Craving You",
+      "url": "https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Pawn Shop",
         "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
@@ -1243,22 +1263,6 @@
       "duration_ms": 335480,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1327,22 +1331,34 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "No Such Thing as a Broken Heart",
+      "url": "https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
       "artists": [
         {
           "name": "Thomas Rhett",
           "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 223626,
-      "name": "Craving You",
-      "url": "https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ"
+      "duration_ms": 190733,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1359,22 +1375,6 @@
       "duration_ms": 222653,
       "name": "Midnight Train To Memphis",
       "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "No Such Thing as a Broken Heart",
-      "url": "https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "The Country And The Coast Side A",
-        "url": "https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R"
+        "name": "Found It In You",
+        "url": "https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI"
       },
       "artists": [
         {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
         }
       ],
-      "duration_ms": 162973,
-      "name": "Love Is Real",
-      "url": "https://open.spotify.com/track/73gI9hHi8wKYyNvoHFmH9C"
+      "duration_ms": 183444,
+      "name": "Found It In You",
+      "url": "https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2359,18 +2359,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Found It In You",
-        "url": "https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI"
+        "name": "The Country And The Coast Side A",
+        "url": "https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R"
       },
       "artists": [
         {
-          "name": "Tiera Kennedy",
-          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
         }
       ],
-      "duration_ms": 183444,
-      "name": "Found It In You",
-      "url": "https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt"
+      "duration_ms": 162973,
+      "name": "Love Is Real",
+      "url": "https://open.spotify.com/track/73gI9hHi8wKYyNvoHFmH9C"
     },
     {
       "added_at": "2024-01-05 05:00:00",

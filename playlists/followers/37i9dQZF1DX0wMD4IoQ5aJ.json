@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 225250,
+  "2024-04-10": 225298,
   "date_first_scraped": "2022-04-20",
   "description": "Work and study to the sound of soft electronic music.",
   "name": "Electronic Focus",
@@ -348,6 +348,24 @@
     },
     {
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/1CE7KlBOYQAlJRVQgCzCzS"
+      },
+      "artists": [
+        {
+          "name": "Paon Bleu",
+          "url": "https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176590,
+      "name": "Apricity",
+      "url": "https://open.spotify.com/track/35jQ4X9SMzSmIY0u0SLuIA"
+    },
+    {
+      "album": {
         "name": "Ap\u00e9ritif",
         "url": "https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN"
       },
@@ -619,6 +637,24 @@
     {
       "album": {
         "name": "Bloom",
+        "url": "https://open.spotify.com/album/4dw1SPqeHhhYXbIQEfPoEE"
+      },
+      "artists": [
+        {
+          "name": "Petronella Dice",
+          "url": "https://open.spotify.com/artist/2Fc8FaMao0KyaeOsIT8Ve7"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161415,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6pEOQbxwG0PdJQm13y8cBj"
+    },
+    {
+      "album": {
+        "name": "Bloom",
         "url": "https://open.spotify.com/album/2OtEMRK0aS7xrnrrLtr44T"
       },
       "artists": [
@@ -849,6 +885,24 @@
       "duration_ms": 159271,
       "name": "Burrata",
       "url": "https://open.spotify.com/track/1wsjU5AYe7xxt7SCa2f6G4"
+    },
+    {
+      "album": {
+        "name": "butter.",
+        "url": "https://open.spotify.com/album/3duAoAVJnmTxHdHhR6qzn5"
+      },
+      "artists": [
+        {
+          "name": "Vinewood Square",
+          "url": "https://open.spotify.com/artist/3uT8IqHNiQOtfXSihhNsRf"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "butter.",
+      "url": "https://open.spotify.com/track/0GZv1vf6qrrHJ32sTebX9C"
     },
     {
       "album": {
@@ -1803,6 +1857,24 @@
       "duration_ms": 140540,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/1FcUfCutL1B7b9sOtU7t86"
+    },
+    {
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/2NmHyH7YC9ONvbZng9o1rY"
+      },
+      "artists": [
+        {
+          "name": "Ali Neroli",
+          "url": "https://open.spotify.com/artist/5peHVLddUJr3XzqnlypxZR"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128869,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/5gENF7x1MgvHgSwKUcdtEH"
     },
     {
       "album": {
@@ -5873,6 +5945,24 @@
       "duration_ms": 232336,
       "name": "Why Is This Bird So Jealous?",
       "url": "https://open.spotify.com/track/05iKKQ1NqXQ3HXW6tPWsAo"
+    },
+    {
+      "album": {
+        "name": "You Name It",
+        "url": "https://open.spotify.com/album/2lorb74Vp13J3WBm7Kgsuo"
+      },
+      "artists": [
+        {
+          "name": "PeachPuff",
+          "url": "https://open.spotify.com/artist/5GSiEiqF4H8J4yr33wNbM6"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160374,
+      "name": "You Name It",
+      "url": "https://open.spotify.com/track/7nZvvpkKGAOaVtURxr0eMd"
     },
     {
       "album": {

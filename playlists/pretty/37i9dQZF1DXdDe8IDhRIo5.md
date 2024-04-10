@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,524 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,556 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 47 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 |
 | 48 | [Blue Bossa](https://open.spotify.com/track/34x5AhvVgbLhebznYRBrSO) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn) | [Trio](https://open.spotify.com/album/7BMdSO57gHOuHihr4o95Bg) | 3:38 |
 | 49 | [Je suis en amour](https://open.spotify.com/track/6AHft4gweShwU086omcQTE) | [Steeve Laffont](https://open.spotify.com/artist/0redyV7MGTS7VmhcgfEBTX) | [Enamoromaï](https://open.spotify.com/album/6ZujwfBhiTxkIkDGZi2yvq) | 2:58 |
-| 50 | [Manha de Carnaval](https://open.spotify.com/track/06jmkrbrUZ7HEh2eEzPJZh) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu), [Mozes](https://open.spotify.com/artist/4uRpFQ2D51xyz2O4V9pqon), [Johnny Rosenberg](https://open.spotify.com/artist/4Vmy9w1GyZZ0qId7ZKmkB6) | [La Familia](https://open.spotify.com/album/6ZUxCJngtDjEGevpeyHuTd) | 5:11 |
+| 50 | [Manha de Carnaval](https://open.spotify.com/track/06jmkrbrUZ7HEh2eEzPJZh) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu), [Mozes](https://open.spotify.com/artist/1D187K99XZwJY1ZsbXLb3p), [Johnny Rosenberg](https://open.spotify.com/artist/4Vmy9w1GyZZ0qId7ZKmkB6) | [La Familia](https://open.spotify.com/album/6ZUxCJngtDjEGevpeyHuTd) | 5:11 |
 | 51 | [So What](https://open.spotify.com/track/2Cf9AjgU72jcQdb1xQAksE) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Summertime](https://open.spotify.com/album/6ZVuKtdf4KZ5E7y4bEHHgS) | 4:07 |
 | 52 | [Bell Island](https://open.spotify.com/track/2iXRqsbI6Dbrj8o9hwn0g8) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Raindrops](https://open.spotify.com/album/2rVYD2MHeWZ7qwQ7hIVyrW) | 2:50 |
 | 53 | [Jeannine](https://open.spotify.com/track/5NPbHD1vhzh9uFk7qnbGIK) | [Pearl Django](https://open.spotify.com/artist/530l1HsYHzQuOYFBDUOHHo) | [Eleven](https://open.spotify.com/album/30HHrcOOI391zT2vFMTJlS) | 4:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 74 | [Hungaria](https://open.spotify.com/track/3bS7AcjV8Dn2ulBF9XdZCo) | [Biréli Lagrène Gipsy Project](https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra) | [Move](https://open.spotify.com/album/7tY1AorZ64PmB6tCp9OLfl) | 2:51 |
 | 75 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 |
 
-Snapshot ID: `MCxlNzliMDU1NzA0MzE2MTJkNjlkMDA3ZWYwOWZjNTkzZDQ2ZGQ4ZDYz`
+Snapshot ID: `MCxhZjBlZTVkMGUwNDIxZWI1ZTIyZWNmMTIxNGU4NmZkNWQyZjljYzNi`

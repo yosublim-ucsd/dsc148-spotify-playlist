@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,900 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,929 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 31 | [Que Se Sepa](https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 3:16 |
 | 32 | [Mala](https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Mala](https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY) | 3:48 |
 | 33 | [Esta Vida \(Salsa Version\)](https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Marlon](https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ) | [Esta Vida \(Salsa Version\)](https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY) | 3:43 |
-| 34 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 |
-| 35 | [Fuego A La Jicotea](https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Serie Sensacional: Marvin Santiago](https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN) | 3:21 |
-| 36 | [Mi Ritmo Es Bueno](https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:46 |
-| 37 | [Monedita](https://open.spotify.com/track/19OGn2xyLjXy0bS2YHX5vr) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Monedita](https://open.spotify.com/album/5Y3WVzzLA0II8bmccD6wcT) | 2:40 |
+| 34 | [Monedita](https://open.spotify.com/track/19OGn2xyLjXy0bS2YHX5vr) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Monedita](https://open.spotify.com/album/5Y3WVzzLA0II8bmccD6wcT) | 2:40 |
+| 35 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 |
+| 36 | [Fuego A La Jicotea](https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Serie Sensacional: Marvin Santiago](https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN) | 3:21 |
+| 37 | [Mi Ritmo Es Bueno](https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:46 |
 | 38 | [Lo Mio Es Amor \- En Vivo](https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:00 |
 | 39 | [No Tires La Primera Piedra](https://open.spotify.com/track/0OFAo20H6VUQB78GyLoJQJ) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:56 |
 | 40 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
 | 41 | [Loco Pero Feliz](https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 6:23 |
-| 42 | [La Esencia Del Guaguancó](https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Anthology](https://open.spotify.com/album/15w229yWe9GblGtWjJC753) | 4:06 |
-| 43 | [Arroz Con Habichuela](https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Arroz Con Habichuela](https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda) | 5:56 |
-| 44 | [Víctimas las Dos](https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Víctimas las Dos](https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH) | 4:17 |
+| 42 | [Víctimas las Dos](https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Víctimas las Dos](https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH) | 4:17 |
+| 43 | [La Esencia Del Guaguancó](https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Anthology](https://open.spotify.com/album/15w229yWe9GblGtWjJC753) | 4:06 |
+| 44 | [Arroz Con Habichuela](https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Arroz Con Habichuela](https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda) | 5:56 |
 | 45 | [Como Lo Hacen](https://open.spotify.com/track/1Al2zfA4VYeecacFsWPIaq) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Feliz Navidad Con Salsa](https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP) | 5:09 |
 | 46 | [Payaso](https://open.spotify.com/track/0EvqtUYBpFOtAGrfWI2DtL) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 4:40 |
 | 47 | [25 Rosas](https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 4:39 |
 | 48 | [El Apartamento](https://open.spotify.com/track/2ZyTUDRlkjxFRtKntSVacO) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Back To The Future](https://open.spotify.com/album/0CNxlDVsAay8Nsbpd9mKXd) | 4:18 |
-| 49 | [Aroma](https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Yo](https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY) | 3:24 |
-| 50 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
+| 49 | [Salsa Pa' Olvidar las Penas \(feat\. Gilberto Santa Rosa\)](https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [25/7](https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG) | 4:58 |
+| 50 | [Aroma](https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Yo](https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY) | 3:24 |
 
-Snapshot ID: `MCxhZTVmZDY1ODg1MjZjMzkxMDdmNjgzY2NlN2MwMWFlNzA1OWI2ZWFk`
+Snapshot ID: `MCwyZDUxYmRkM2I2M2Q1MjMzMjYyYzE5Yzg0MjMyNDFhYjdkMWNiOWQy`

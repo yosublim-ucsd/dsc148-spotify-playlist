@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,716 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,741 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 27 | [Poemas Que Colori](https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco](https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr) | 3:30 |
 | 28 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 |
 | 29 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
-| 30 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 |
-| 31 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
+| 30 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
+| 31 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 |
 | 32 | [Maria, Maria](https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Por Ela](https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE) | 2:44 |
 | 33 | [Amor Meu Grande Amor](https://open.spotify.com/track/5eEfFfQq3ruywWA5uw7nhj) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Angela Roro](https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd) | 3:15 |
 | 34 | [Beijinho no Ombro](https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI) | [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [Beijinho no Ombro](https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE) | 2:44 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 39 | [Para Pensa e Volta \(feat\. Marília Mendonça\) \- Ao Vivo](https://open.spotify.com/track/2rRA0VNb8RcaUMAmgWFoCL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo](https://open.spotify.com/album/4Izu6KXDCXGOjSEFUjBvYq) | 2:54 |
 | 40 | [Seja Gentil](https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [O Velho E Bom Novo \(Lado A\)](https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV) | 3:50 |
 | 41 | [Asa Morena](https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp) | [Zizi Possi](https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL) | [Asa Morena](https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e) | 4:04 |
-| 42 | [Uma Noite E 1/2](https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol), [Renato Rocketh](https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63) | [Virgem](https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco) | 4:44 |
-| 43 | [Diaba](https://open.spotify.com/track/4Zhxtm6x56wEiRtSMAl28n) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/01o2odeolV6Ke76Q2QTVyS) | 2:45 |
+| 42 | [Diaba](https://open.spotify.com/track/4Zhxtm6x56wEiRtSMAl28n) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/01o2odeolV6Ke76Q2QTVyS) | 2:45 |
+| 43 | [Uma Noite E 1/2](https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol), [Renato Rocketh](https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63) | [Virgem](https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco) | 4:44 |
 | 44 | [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 |
-| 45 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
-| 46 | [X](https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:46 |
+| 45 | [X](https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:46 |
+| 46 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
 | 47 | [As Mais Braba](https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 4:40 |
 | 48 | [Eu](https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Eu](https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH) | 5:01 |
 | 49 | [Frevo Mulher](https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS) | [Amelinha](https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv) | [Frevo Mulher](https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Menina, Amanhã de Manhã](https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Iaiá](https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA) | 5:29 |
 | 100 | [Rosa amarela](https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Rosa Amarela](https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX) | 3:18 |
 
-Snapshot ID: `MCw3YWFmMzFiM2EyODRiMTU3YWE3ZGVkMjkzZGU4NmZjZWJmZDlkODM0`
+Snapshot ID: `MCw0ZDU1ZmQ5NDcwY2JlYzkzMjA5YzMyNTZkZGU3N2U3NjgwNDVhMjlh`

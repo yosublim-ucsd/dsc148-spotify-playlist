@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,133 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,162 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 9 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Mis Favoritas](https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj) | 2:55 |
 | 10 | [La Hiedra Venenosa](https://open.spotify.com/track/3krsFPf7DL0DxweDyAz2WJ) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Homenaje a Johnny Laboriel Con los Rebeldes del Rock](https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR) | 2:39 |
 | 11 | [El Remedio](https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez](https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m) | 2:23 |
-| 12 | [De Mil Maneras](https://open.spotify.com/track/23SdQDuoyHarQwRC95Xo6c) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Gran Colección del 60 Aniversario CBS \- Sonora Santanera](https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4) | 2:43 |
+| 12 | [El Ladrón](https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 |
 | 13 | [Escándalo](https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Coleccion Original](https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC) | 2:32 |
 | 14 | [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 |
 | 15 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
 | 16 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 |
 | 17 | [Siluetas](https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Homenaje a Johnny Laboriel Con los Rebeldes del Rock](https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR) | 2:58 |
-| 18 | [El Ladrón](https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 |
+| 18 | [De Mil Maneras](https://open.spotify.com/track/23SdQDuoyHarQwRC95Xo6c) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Gran Colección del 60 Aniversario CBS \- Sonora Santanera](https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4) | 2:43 |
 | 19 | [Vas a Llorar](https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 3:00 |
 | 20 | [Suspenso Infernal](https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:52 |
 | 21 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 34 | [Monólogo](https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 2:56 |
 | 35 | [El Nido](https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:59 |
 | 36 | [Cuando Calienta el Sol](https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:57 |
-| 37 | [Chica Alborotada](https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 2:06 |
-| 38 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
+| 37 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
+| 38 | [Chica Alborotada](https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 2:06 |
 | 39 | [Cuando Era un Jovencito](https://open.spotify.com/track/180C5oUJrNqxlcqmlvAZYW) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Rock de los 60's](https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J) | 2:41 |
 | 40 | [Ya No Llores](https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Superexitos \(Idolos Norteños y Texanos\)](https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi) | 2:05 |
 | 41 | [Felicidad](https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Más Allá](https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Trios de Oro, Vol\. 1](https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR) | 2:37 |
 | 50 | [Oye Mi Consejo](https://open.spotify.com/track/7dLU5U9ikHDXucBcTp0jcr) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 2:48 |
 
-Snapshot ID: `MCwxMWM0ZTcyOGVmYjkzNDU5ZTcxM2U3ZDhjMmM3NjMyZmUxYmJiNjMw`
+Snapshot ID: `MCw4OWFiNTJjOTY0YjAxNmI4YWVlNjFiYWZlYWY3Y2IxMjRiYTA4MDFh`

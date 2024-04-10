@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa?si=381ae84152fa4474">Amaranthe</a> takes over our epic and melodic metal playlist, celebrating the release of "The Catalyst."
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,059 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,107 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 41 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
 | 42 | [Opus of the Night \(Ghost Requiem\) \(feat\. Tina Guo\)](https://open.spotify.com/track/08yNiukGEc21at2TakEvQT) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 5:47 |
 | 43 | [Axes](https://open.spotify.com/track/5cMNQ2LmvEBTUL0ZKdxtPl) | [Týr](https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa) | [Axes](https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv) | 3:32 |
-| 44 | [Secrets Of The American Gods \- Single Edit](https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Secrets Of The American Gods](https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2) | 6:37 |
-| 45 | [Eternal Rains](https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter III \- Downfall](https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st) | 3:54 |
+| 44 | [Eternal Rains](https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter III \- Downfall](https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st) | 3:54 |
+| 45 | [Secrets Of The American Gods \- Single Edit](https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Secrets Of The American Gods](https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2) | 6:37 |
 | 46 | [Reborn](https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [The Wonders Still Awaiting](https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc) | 5:12 |
 | 47 | [Beneath \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Dark Waters](https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs) | 4:59 |
 | 48 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 |
-| 49 | [We'll Be Free](https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ) | 4:02 |
-| 50 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
+| 49 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
+| 50 | [We'll Be Free](https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ) | 4:02 |
 | 51 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 |
 | 52 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
 | 53 | [Fight the Tide](https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE) | [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Colm R\. McGuinness](https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Fight the Tide](https://open.spotify.com/album/46PoeCkqWmFFVstUUxZ77h) | 3:26 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 61 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
 | 62 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 |
 | 63 | [Winter Is Coming](https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Winter Is Coming](https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN) | 4:37 |
-| 64 | [1066](https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [1066](https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe) | 4:32 |
-| 65 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
+| 64 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
+| 65 | [1066](https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [1066](https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe) | 4:32 |
 | 66 | [Fire](https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Fire](https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX) | 3:28 |
 | 67 | [Dismantled](https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Kylee Brielle](https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI) | [Nekonomicon](https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ) | 3:57 |
 | 68 | [Oblivion](https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4) | 5:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |
 | 80 | [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 |
 
-Snapshot ID: `MCwwMTVjNjUwZTY3YmM0OWMyNGQ3MDUxOTAwZDgxY2U0OTIwMWUxNTll`
+Snapshot ID: `MCwzNzExMzRiYjlhNWNhOTcwNzFmMjZkZWYzM2FjN2Q1YjVlM2RlZGVl`

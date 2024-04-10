@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-833 songs - 2 day 8 hr 56 min
+834 songs - 2 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [Pygmalion](https://open.spotify.com/track/6HwZ9m97h1DL2gdEkWXp6K) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Pygmalion](https://open.spotify.com/album/3DSd1PFlurhYcpcjfFD3vB) | 2:30 | 2022-07-27 | 2022-09-15 |
 | [Pájaros en Verano](https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaros en Verano](https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS) | 3:16 | 2022-08-04 | 2022-09-29 |
 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 | 2023-04-12 | 2023-05-18 |
+| [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-09 |  |
 | [Rain](https://open.spotify.com/track/3mSr9nqAbo6Ai9NXtjuT9S) | [Meadow Meadow](https://open.spotify.com/artist/4E931YbK4MBdiTzf0UHazk) | [Rain](https://open.spotify.com/album/4j8HoW5XeClKESKAhNHHmZ) | 4:12 | 2023-08-30 | 2023-10-13 |
 | [Rainbows and Dreams](https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Rainbows and Dreams](https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr) | 4:41 | 2022-07-27 | 2022-09-15 |
 | [Rare](https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Rare](https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1) | 3:41 | 2024-01-24 | 2024-03-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,739 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,745 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 28 | [Where Ya Been?](https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Luke Bell](https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj) | 3:29 |
 | 29 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
 | 30 | [Los Chicos Tristes](https://open.spotify.com/track/1ty2x08emLE57NrhHIw1gS) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:49 |
-| 31 | [The Dead Don't Die](https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Dead Don't Die](https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ) | 3:51 |
-| 32 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
+| 31 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
+| 32 | [The Dead Don't Die](https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Dead Don't Die](https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ) | 3:51 |
 | 33 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
 | 34 | [All Your'n](https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [All Your'n](https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL) | 3:38 |
 | 35 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 |
 | 36 | [Valley](https://open.spotify.com/track/4MoCLZnuRqgdEKaz0wL5h4) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 4:04 |
 | 37 | [Hot Burrito \#1](https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Gilded Palace Of Sin](https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU) | 3:37 |
 | 38 | [U.F.O.](https://open.spotify.com/track/6tHOHkapttrP6FEfXouCJ5) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:49 |
-| 39 | [No Glory in the West](https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [No Glory in the West](https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL) | 4:13 |
-| 40 | [She \- 2002 Remaster](https://open.spotify.com/track/7DK9shWJm361lm1ks32axt) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [GP](https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf) | 5:01 |
-| 41 | [Aw Heck](https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 2:20 |
+| 39 | [She \- 2002 Remaster](https://open.spotify.com/track/7DK9shWJm361lm1ks32axt) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [GP](https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf) | 5:01 |
+| 40 | [Aw Heck](https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 2:20 |
+| 41 | [No Glory in the West](https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [No Glory in the West](https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL) | 4:13 |
 | 42 | [Ride Out In The Country](https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:15 |
 | 43 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 5:15 |
 | 44 | [Southern Star](https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d) | 3:06 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 51 | [Cocaine Country Dancing](https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Cocaine Country Dancing](https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL) | 4:16 |
 | 52 | [We Shouldn’t Talk About It \(feat\. Emily Gimble\)](https://open.spotify.com/track/1BODUrT21FF2DTkmhmXYxG) | [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2), [Emily Gimble](https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK) | [Plus de Sauce](https://open.spotify.com/album/2ZYhoJFzpk9sRktKsFC942) | 2:26 |
 | 53 | [Miller's Cave](https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/1ijz3Aok4jyARLKu6Eaph9) | 2:48 |
-| 54 | [America](https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:00 |
-| 55 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
+| 54 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
+| 55 | [America](https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:00 |
 | 56 | [Murmur of Yearning](https://open.spotify.com/track/2JaOVb7WJCcpAe1JRRLTl3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Murmur of Yearning](https://open.spotify.com/album/6VveikqNVl4KGt9UEKTa8L) | 3:50 |
 | 57 | [Letting Go](https://open.spotify.com/track/0g6wylEFEz28As6I6iVmhh) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 3:24 |
 | 58 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 74 | [Toshiba Sky](https://open.spotify.com/track/72LxGUlBbiJIAnUGXBPNAv) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/1mpy274fg96Cu5cvhNStzh) | 3:16 |
 | 75 | [Happy Birthday, Baby](https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:45 |
 
-Snapshot ID: `MCxhMGE3OGUwYTM1MzlhZGI3MWVmOTdiNzNlMzU2NGM1ZjliYzcwNGE1`
+Snapshot ID: `MCwxM2JlNjk4NWNhYjEyYzk0N2FiMTcyNzYwODYwMWQwZmViYWRjYzRm`

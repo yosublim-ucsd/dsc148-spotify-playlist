@@ -4,7 +4,7 @@
 
 > Breeze through your commute with these pop favorites\. Cover: Sabrina Carpenter
 
-457 songs - 1 day 0 hr 1 min
+458 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-04-05 |  |
 | [alive if i die](https://open.spotify.com/track/24qUDiph2ajBkfSuaIsX1C) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:34 | 2023-09-01 | 2023-09-30 |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-05-20 | 2022-08-27 |
-| [All Girls Go to Heaven](https://open.spotify.com/track/4DARCDYP7uNc0tp7ABx154) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [All Girls Go to Heaven](https://open.spotify.com/album/4APWqD1zWFke34VGBzgroW) | 2:44 | 2024-03-22 |  |
+| [All Girls Go to Heaven](https://open.spotify.com/track/4DARCDYP7uNc0tp7ABx154) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [All Girls Go to Heaven](https://open.spotify.com/album/4APWqD1zWFke34VGBzgroW) | 2:44 | 2024-03-22 | 2024-04-10 |
 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-03-01 | 2024-03-23 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-21 |  |
 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-07-21 |  |
@@ -357,6 +357,7 @@
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-05-20 | 2023-03-11 |
 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 | 2022-04-29 | 2022-08-27 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-22 |  |
+| [Small Town Scandal](https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Small Town Scandal](https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s) | 3:30 | 2024-04-05 |  |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-08-26 |  |
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-17 | 2023-01-29 |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-23 |  |

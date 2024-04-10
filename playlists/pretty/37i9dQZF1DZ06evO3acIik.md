@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,946 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,972 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 22 | [Every Night](https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 2:28 |
 | 23 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 24 | [6:16am](https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 1:59 |
-| 25 | [Eyes Only for You](https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC) | [Eyes Only for You](https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH) | 3:32 |
-| 26 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
+| 25 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
+| 26 | [Eyes Only for You](https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC) | [Eyes Only for You](https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH) | 3:32 |
 | 27 | [Yes, You Love Me.](https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 1:58 |
 | 28 | [Show the Signs.](https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Show the Signs.](https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl) | 3:01 |
 | 29 | [All I Need](https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 |
 | 50 | [Break of Dawn](https://open.spotify.com/track/3gNLSsQTbAhihMPqWAX2Bk) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Light Will Find You](https://open.spotify.com/album/3v5s77G4gqRKHNV6iG7wv7) | 3:47 |
 
-Snapshot ID: `MCw3ZjIzNjYwMWI0NTUxNWMzOWE1NzNkZTI5NTMzMWU0NTg5ZDg3MzVl`
+Snapshot ID: `MCwxNGFhNmM0MGFhNmZjYzE5M2I0NzU2OTRhNjVhMWQ1OGY3NjEzNWIw`

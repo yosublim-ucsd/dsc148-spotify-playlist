@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 63697,
+  "2024-04-10": 63748,
   "date_first_scraped": "2022-09-17",
   "description": "2015 highlights from the home of indie music.",
   "name": "Best of Indie 2015",
@@ -897,7 +897,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 329169,
       "name": "Huarache Lights",
       "url": "https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn"
@@ -1891,7 +1891,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 191640,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/7tKnaB8gsXxyPScxEwzQ9N"

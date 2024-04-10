@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. \nEme Malafe, Lefty SM en portada.",
-  "num_followers": 164539,
+  "num_followers": 164601,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTRkZTAwMzliMzk4YTVkNDlmMDQxMTQ5YmE3NDNhYWMxYmFhYjBi",
+  "snapshot_id": "MCxhZGQzN2IwOTNkYTQwMDRlMWM4ZGE4NDFhNjI2OTM4MmFhYTFjNDFi",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -479,30 +479,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Tacata (Remix)",
-        "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
-      },
-      "artists": [
-        {
-          "name": "Tiagz",
-          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 156716,
-      "name": "Tacata (Remix)",
-      "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Skin de Bandida",
         "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 176134,
       "name": "Skin de Bandida",
       "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Tacata (Remix)",
+        "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
+      },
+      "artists": [
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 156716,
+      "name": "Tacata (Remix)",
+      "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Anda Bien el Nene",
+        "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 177023,
+      "name": "Anda Bien el Nene",
+      "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
       },
@@ -599,22 +619,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 211352,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
@@ -631,22 +635,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Anda Bien el Nene",
-        "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 177023,
-      "name": "Anda Bien el Nene",
-      "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
+      "duration_ms": 211352,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 168210,
-      "name": "YW&F - Versi\u00f3n Reggaeton",
-      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Otro D\u00eda, Otra Aventura",
         "url": "https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 200859,
       "name": "Otro D\u00eda, Otra Aventura",
       "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 168210,
+      "name": "YW&F - Versi\u00f3n Reggaeton",
+      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1195,26 +1195,50 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O"
+        "name": "EL AFERRAFTER",
+        "url": "https://open.spotify.com/album/5kCcwHW51rJXQbhBIBsXqU"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         },
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Los Parna",
+          "url": "https://open.spotify.com/artist/25zjlPvogNayIBsBulQ2nM"
         },
         {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
+          "name": "Mc Window",
+          "url": "https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU"
+        },
+        {
+          "name": "El Ca$h",
+          "url": "https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5"
         }
       ],
-      "duration_ms": 179080,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd"
+      "duration_ms": 207807,
+      "name": "EL AFERRAFTER",
+      "url": "https://open.spotify.com/track/5goJAJjtJ0gR9MW5vSg3hy"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Don Ismael",
+        "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158938,
+      "name": "Don Ismael",
+      "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1239,22 +1263,46 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Don Ismael",
-        "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O"
       },
       "artists": [
         {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         },
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
         }
       ],
-      "duration_ms": 158938,
-      "name": "Don Ismael",
-      "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
+      "duration_ms": 179080,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 127343,
+      "name": "F*CK",
+      "url": "https://open.spotify.com/track/3UTNyW14rwM6rJHjliuJSP"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1287,26 +1335,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 127343,
-      "name": "F*CK",
-      "url": "https://open.spotify.com/track/3UTNyW14rwM6rJHjliuJSP"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "El Blue",
         "url": "https://open.spotify.com/album/6SigYKAQEFmXhnlc9aSy4c"
       },
@@ -1323,30 +1351,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "EL AFERRAFTER",
-        "url": "https://open.spotify.com/album/5kCcwHW51rJXQbhBIBsXqU"
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
       "artists": [
         {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        },
-        {
-          "name": "Los Parna",
-          "url": "https://open.spotify.com/artist/25zjlPvogNayIBsBulQ2nM"
-        },
-        {
-          "name": "Mc Window",
-          "url": "https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU"
-        },
-        {
-          "name": "El Ca$h",
-          "url": "https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5"
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
         }
       ],
-      "duration_ms": 207807,
-      "name": "EL AFERRAFTER",
-      "url": "https://open.spotify.com/track/5goJAJjtJ0gR9MW5vSg3hy"
+      "duration_ms": 243466,
+      "name": "No Hay Manera",
+      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1371,18 +1387,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
+        "name": "TIRANDOLES",
+        "url": "https://open.spotify.com/album/7nz6tBkUFJLZ4WoMRvA4ob"
       },
       "artists": [
         {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        },
+        {
+          "name": "Los Parna",
+          "url": "https://open.spotify.com/artist/5ZziXEi0Wu9SqZoqE8Ho7k"
         }
       ],
-      "duration_ms": 243466,
-      "name": "No Hay Manera",
-      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
+      "duration_ms": 180877,
+      "name": "TIRANDOLES",
+      "url": "https://open.spotify.com/track/1YqFeOQF5ghHiImMkyPKOq"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1515,26 +1535,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "TIRANDOLES",
-        "url": "https://open.spotify.com/album/7nz6tBkUFJLZ4WoMRvA4ob"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        },
-        {
-          "name": "Los Parna",
-          "url": "https://open.spotify.com/artist/5ZziXEi0Wu9SqZoqE8Ho7k"
-        }
-      ],
-      "duration_ms": 180877,
-      "name": "TIRANDOLES",
-      "url": "https://open.spotify.com/track/1YqFeOQF5ghHiImMkyPKOq"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "La Baliniza",
+        "url": "https://open.spotify.com/album/41P1oKDYfOHh5SaD9hPEmZ"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 106033,
+      "name": "La Baliniza",
+      "url": "https://open.spotify.com/track/1ZkytXaGzi4od3VnwEO8FA"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 224770,
       "name": "CIUDAD DEL SOL",
       "url": "https://open.spotify.com/track/6n8Cw2zuSUtfa9RsaQB8Wt"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "La Baliniza",
-        "url": "https://open.spotify.com/album/41P1oKDYfOHh5SaD9hPEmZ"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 106033,
-      "name": "La Baliniza",
-      "url": "https://open.spotify.com/track/1ZkytXaGzi4od3VnwEO8FA"
     },
     {
       "added_at": "2024-03-15 06:00:00",

@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Cover: CYRIL
 
-546 songs - 1 day 1 hr 10 min
+547 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Easy On My Heart](https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Easy On My Heart](https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab) | 2:58 | 2023-09-06 | 2023-12-07 |
 | [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 | 2024-03-27 |  |
 | [Ella Elle L'a](https://open.spotify.com/track/7oCqUBYVTqWbN0M6aYD7O3) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Ella Elle L'a](https://open.spotify.com/album/4RN7tJXpxyE5LaSIiiFueX) | 2:30 | 2024-01-03 |  |
-| [Erinner mich](https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Erinner mich](https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl) | 2:31 | 2024-01-17 |  |
+| [Erinner mich](https://open.spotify.com/track/2jE1slTsgQePkYP5ekrG5h) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Mega Hits Deutschland 2024](https://open.spotify.com/album/2YjOGKzfAKHtqk4nXjQR8E) | 2:31 | 2024-04-03 |  |
+| [Erinner mich](https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Erinner mich](https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl) | 2:31 | 2024-01-17 | 2024-04-10 |
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-04-19 | 2023-10-05 |
 | [Eternity](https://open.spotify.com/track/0G9Ldtv1cf41Kv6JGu2GSS) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Eternity](https://open.spotify.com/album/1XuhyO1v0R4ylQFQ7Vw1jD) | 2:17 | 2023-03-29 | 2023-05-24 |
 | [Eternity](https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Eternity](https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY) | 2:15 | 2023-08-16 | 2023-11-23 |

@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn?si=NjDnbRXMSPSoKNz9iWVChg">Henry Ate</a>
 
-699 songs - 1 day 15 hr 57 min
+701 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bad Boy](https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Bad Boy](https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV) | 2:55 | 2023-06-01 | 2023-07-29 |
 | [Bad For My Health](https://open.spotify.com/track/5b7Fs1ejAcHoD02OyDIqYB) | [SunMan](https://open.spotify.com/artist/764M3FNYq1z8yMJfIDi3x1) | [Bad For My Health](https://open.spotify.com/album/45mHDL2ssD8mlsWGLe0mCw) | 2:57 | 2023-03-02 | 2023-04-22 |
 | [bad for you](https://open.spotify.com/track/1ZDT1Iz7AmTAeLEzVjlXzc) | [Ananya](https://open.spotify.com/artist/2Q32KkhT2YnVgCpAvrnhen) | [bad for you](https://open.spotify.com/album/1Zl3wokhmALoXoukyQDbJj) | 3:06 | 2023-08-17 | 2023-09-02 |
-| [Bad Time for Loving](https://open.spotify.com/track/4YbM2h9tS3XtKZOLNy3gPj) | [Georgetown](https://open.spotify.com/artist/0msJcbfycOFyNl9WPmsLQJ) | [Wrong Key Baby, Right Keyhole](https://open.spotify.com/album/6wX4Xlwk7eewKPQyJEezXG) | 3:47 | 2024-03-15 |  |
+| [Bad Time for Loving](https://open.spotify.com/track/4YbM2h9tS3XtKZOLNy3gPj) | [Georgetown](https://open.spotify.com/artist/0msJcbfycOFyNl9WPmsLQJ) | [Wrong Key Baby, Right Keyhole](https://open.spotify.com/album/6wX4Xlwk7eewKPQyJEezXG) | 3:47 | 2024-03-15 | 2024-04-10 |
 | [Bait](https://open.spotify.com/track/54Fs529fifiDt3qDBWaIjl) | [Chloe Theron](https://open.spotify.com/artist/4gt7EExnJtmS8Ed59AbAHa) | [Bait](https://open.spotify.com/album/2YsmbxnxeMuOAjhF0UKk0E) | 3:48 | 2023-03-02 | 2023-05-06 |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 | 2023-06-08 | 2023-06-22 |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2023-06-08 | 2023-07-07 |
@@ -268,6 +268,7 @@
 | [Hold On](https://open.spotify.com/track/4EwRv7Q0XyJhysfvECpQpo) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [Hold On](https://open.spotify.com/album/6ft539JcvK2JnTzd8zp2as) | 3:42 | 2022-09-22 | 2022-11-01 |
 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 | 2024-02-29 |  |
 | [Holiday](https://open.spotify.com/track/47FQ1T5hp4JdF9Kp18dBy4) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [This Wasteland](https://open.spotify.com/album/1aI37UoJ0bqeUyG42Vhl3u) | 2:31 | 2023-07-06 | 2023-08-05 |
+| [Holy Water](https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [Holy Water](https://open.spotify.com/album/2D0GdNMz5bFn9aYM1YzLDE) | 2:47 | 2024-04-05 |  |
 | [HOME](https://open.spotify.com/track/73wKP5eAiTwpB1cjNXUaph) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [HOME](https://open.spotify.com/album/0iHU2P0uBhtUtAEbOE4wNv) | 3:17 | 2022-11-03 | 2023-01-27 |
 | [Home](https://open.spotify.com/track/1yQO5Dt6SZkXBPHAsRC80M) | [Just Mia](https://open.spotify.com/artist/69yCMdp9f50YlB42gYrC3H) | [Home](https://open.spotify.com/album/6pwaBv6eLgpCy61j1X18MI) | 3:28 | 2023-04-14 | 2023-06-23 |
 | [Home Grown Flowers](https://open.spotify.com/track/2W7JDgHdqoH32MMOxCzLYu) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Home Grown Flowers](https://open.spotify.com/album/7kzhGEkq46mfCiGXaTe6Sg) | 3:39 | 2022-08-25 | 2022-12-02 |
@@ -430,7 +431,7 @@
 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 | 2023-06-15 | 2023-07-14 |
 | [oh, him](https://open.spotify.com/track/1kGfsJh77SYUEU5UuE0NvW) | [Wishpig](https://open.spotify.com/artist/68ybmAQpXyAzHXOkexjYj3) | [oh, him](https://open.spotify.com/album/37kTqKCc62bTQo2SExnljj) | 3:55 | 2023-05-18 | 2023-07-07 |
 | [Old Man](https://open.spotify.com/track/77krcHfId85O4se7W5HpTY) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54) | [Meet me in the middle](https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq) | 3:06 | 2023-03-16 | 2023-05-19 |
-| [Oliver's Garden](https://open.spotify.com/track/6M9tSXVU3XmVXACv7D1tnk) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Oliver's Garden](https://open.spotify.com/album/2GS2hWDDmPb6GxT8aFx2qv) | 3:39 | 2024-02-29 |  |
+| [Oliver's Garden](https://open.spotify.com/track/6M9tSXVU3XmVXACv7D1tnk) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Oliver's Garden](https://open.spotify.com/album/2GS2hWDDmPb6GxT8aFx2qv) | 3:39 | 2024-02-29 | 2024-04-10 |
 | [On & On](https://open.spotify.com/track/4PWLnVy6lGzIinWqbEAAVd) | [Kristen](https://open.spotify.com/artist/6j0N2lhmdDYlPhGRQLCsIG) | [On & On](https://open.spotify.com/album/61iQKAPGhwpcgMa4lK0XWs) | 4:39 | 2022-11-03 | 2023-01-13 |
 | [On my own again](https://open.spotify.com/track/4keHHKTtwrmrsgyItSYyZR) | [Just Passing Through](https://open.spotify.com/artist/5RQczrs9bNSuwSgwACYNm6) | [On my own again](https://open.spotify.com/album/3DJs4iFFJz3bqTTpuEopA0) | 3:25 | 2023-11-24 | 2024-01-12 |
 | [On This River](https://open.spotify.com/track/6DeOKZo1GMhaYxchZBf4R2) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [On This River](https://open.spotify.com/album/6Zwafg0KBZf8QUflKcXRgC) | 3:31 | 2024-01-11 | 2024-01-19 |
@@ -609,6 +610,7 @@
 | [The Things We Dare Not Tell](https://open.spotify.com/track/1bIXMzlYYkaIBMRH7vG1Lu) | [Elsmore Carey](https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu) | [The Things We Dare Not Tell](https://open.spotify.com/album/2obV1R1hywZW5riJG3Ys5U) | 4:21 | 2023-03-30 | 2023-06-09 |
 | [The Train](https://open.spotify.com/track/4t8hILaGVsYgJ6lwCkqwaX) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [The Lost Tapes EP](https://open.spotify.com/album/2aKK6YKpfkJ9JeLhVU0OX8) | 5:26 | 2023-08-24 | 2023-11-18 |
 | [THE TRUTH WITHIN](https://open.spotify.com/track/4EoBdt9knik0dVJGqSjUro) | [Qobi](https://open.spotify.com/artist/5WfAvkaliCjjzV7MQX6vDq) | [UNTIL NEXT.....](https://open.spotify.com/album/2z1yWUL05RcZZgR3E4osVq) | 2:26 | 2023-05-11 | 2023-07-07 |
+| [The Whale Song](https://open.spotify.com/track/2Yzc8jxNWflSY0j1mehJUo) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [The Whale Song](https://open.spotify.com/album/5Ebb9ayKPt4Lw7UO3w5WcW) | 2:46 | 2024-04-05 |  |
 | [The Widow](https://open.spotify.com/track/48TnwBY4pYURvhJ5LIRtHe) | [Damien](https://open.spotify.com/artist/6cUDV8d4fLXOYrAfBghF3a) | [The Widow](https://open.spotify.com/album/4rDuMolrVPma2RtBtLtBOB) | 5:27 | 2023-06-01 | 2023-07-14 |
 | [The Woods](https://open.spotify.com/track/2sS8cVwz9TmUsREMLBzLcq) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Fire](https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf) | 3:34 | 2024-01-11 | 2024-02-02 |
 | [These Four Walls](https://open.spotify.com/track/7B9HQGF0JH49JYhFZClEM9) | [Alexx ONell](https://open.spotify.com/artist/4nUGqAzV4AQgwmIbD499xV) | [These Four Walls](https://open.spotify.com/album/6RqWWFYizLsT3eGEHUvyKy) | 3:12 | 2023-07-13 | 2023-08-25 |

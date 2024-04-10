@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 180315,
+  "num_followers": 180379,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjY5M2NmYzE1ZThlYTNjNmE4NWI5YmFlOTJmNDcyNDJhNzdiMGYx",
+  "snapshot_id": "MCw3MGNiYTQwN2IwZWI3YjlhOTJhNjFiZTk3NWY2Nzc5MzZlZmQ3NjNi",
   "tracks": [
     {
       "added_at": "2024-03-20 19:29:48",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
-      "album": {
-        "name": "Evening Mood",
-        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 384589,
-      "name": "Evening Mood",
-      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
-    },
-    {
       "added_at": "2023-05-26 18:09:55",
       "album": {
         "name": "Sus Dog",
@@ -259,6 +243,22 @@
       "duration_ms": 311562,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
+    },
+    {
+      "added_at": "2024-03-05 06:00:54",
+      "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
     },
     {
       "added_at": "2024-02-02 05:28:10",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
-      "added_at": "2022-08-02 14:49:54",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 215296,
-      "name": "No tiempo",
-      "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
-    },
-    {
       "added_at": "2024-01-29 16:23:09",
       "album": {
         "name": "Ki moun ou ye",
@@ -483,6 +467,22 @@
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
+    },
+    {
+      "added_at": "2022-08-02 14:49:54",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 215296,
+      "name": "No tiempo",
+      "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
     },
     {
       "added_at": "2023-10-13 15:35:55",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
-    },
-    {
       "added_at": "2023-03-31 19:12:14",
       "album": {
         "name": "Follow the Cyborg",
@@ -743,6 +727,22 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
     },
     {
       "added_at": "2023-12-20 04:44:18",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/67WuAkWNUHZqV8FOgDrz7R"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Life, and Another",
-        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
-      },
-      "artists": [
-        {
-          "name": "Mega Bog",
-          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
-        }
-      ],
-      "duration_ms": 265815,
-      "name": "Station to Station",
-      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
-    },
-    {
       "added_at": "2023-08-24 03:26:17",
       "album": {
         "name": "RPG",
@@ -907,6 +891,22 @@
       "duration_ms": 227120,
       "name": "Heat!",
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Life, and Another",
+        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
+      },
+      "artists": [
+        {
+          "name": "Mega Bog",
+          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
+        }
+      ],
+      "duration_ms": 265815,
+      "name": "Station to Station",
+      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
       "added_at": "2023-06-02 00:24:20",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
-      "added_at": "2024-01-30 05:23:45",
-      "album": {
-        "name": "Fix Me",
-        "url": "https://open.spotify.com/album/5PFGLj8Y6EoBePtUmWMAuI"
-      },
-      "artists": [
-        {
-          "name": "Mary Jane Dunphe",
-          "url": "https://open.spotify.com/artist/3nHn9XdKWpfNmG7JWm1ous"
-        }
-      ],
-      "duration_ms": 241644,
-      "name": "Fix Me",
-      "url": "https://open.spotify.com/track/350Zs0oV6JzBYOg2ZpVpwy"
-    },
-    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -1031,6 +1015,22 @@
       "duration_ms": 213159,
       "name": "Crime Seed",
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
+    },
+    {
+      "added_at": "2024-01-30 05:23:45",
+      "album": {
+        "name": "Fix Me",
+        "url": "https://open.spotify.com/album/5PFGLj8Y6EoBePtUmWMAuI"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane Dunphe",
+          "url": "https://open.spotify.com/artist/3nHn9XdKWpfNmG7JWm1ous"
+        }
+      ],
+      "duration_ms": 241644,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/350Zs0oV6JzBYOg2ZpVpwy"
     },
     {
       "added_at": "2023-10-25 14:03:48",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Centre",
-        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
-      },
-      "artists": [
-        {
-          "name": "Mt. Mountain",
-          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
-        }
-      ],
-      "duration_ms": 280404,
-      "name": "Aplomb",
-      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Rivers That You Cannot See",
         "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Centre",
+        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
+      },
+      "artists": [
+        {
+          "name": "Mt. Mountain",
+          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
+        }
+      ],
+      "duration_ms": 280404,
+      "name": "Aplomb",
+      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
     },
     {
-      "added_at": "2024-01-03 18:37:44",
-      "album": {
-        "name": "Dog's Life",
-        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
-      },
-      "artists": [
-        {
-          "name": "plantoid",
-          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
-        }
-      ],
-      "duration_ms": 237702,
-      "name": "Dog's Life",
-      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
-    },
-    {
       "added_at": "2023-09-25 01:38:39",
       "album": {
         "name": "The Path",
@@ -1279,6 +1263,22 @@
       "duration_ms": 228809,
       "name": "Tintagel",
       "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
+    },
+    {
+      "added_at": "2024-01-03 18:37:44",
+      "album": {
+        "name": "Dog's Life",
+        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
+      },
+      "artists": [
+        {
+          "name": "plantoid",
+          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+        }
+      ],
+      "duration_ms": 237702,
+      "name": "Dog's Life",
+      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
     },
     {
       "added_at": "2023-10-23 19:41:11",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2024-01-23 00:56:54",
-      "album": {
-        "name": "Come To Dust",
-        "url": "https://open.spotify.com/album/6bBQ4W88N4yiuPtRP1njZz"
-      },
-      "artists": [
-        {
-          "name": "Amatorski",
-          "url": "https://open.spotify.com/artist/2EhKugPFLPLqUSXDfTffEm"
-        }
-      ],
-      "duration_ms": 141628,
-      "name": "Come To Dust",
-      "url": "https://open.spotify.com/track/6CLOfeukPfYDcogzThOc7E"
-    },
-    {
       "added_at": "2023-06-05 20:56:02",
       "album": {
         "name": "Crispy Moon",
@@ -1349,20 +1333,20 @@
       "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
-      "added_at": "2024-02-02 05:28:10",
+      "added_at": "2024-01-23 00:56:54",
       "album": {
-        "name": "Songs To Whistle When Strolling Along The Abyss",
-        "url": "https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle"
+        "name": "Come To Dust",
+        "url": "https://open.spotify.com/album/6bBQ4W88N4yiuPtRP1njZz"
       },
       "artists": [
         {
-          "name": "Mayuko",
-          "url": "https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe"
+          "name": "Amatorski",
+          "url": "https://open.spotify.com/artist/2EhKugPFLPLqUSXDfTffEm"
         }
       ],
-      "duration_ms": 252557,
-      "name": "Cholericly Yours",
-      "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
+      "duration_ms": 141628,
+      "name": "Come To Dust",
+      "url": "https://open.spotify.com/track/6CLOfeukPfYDcogzThOc7E"
     },
     {
       "added_at": "2022-08-13 01:40:58",
@@ -1379,6 +1363,22 @@
       "duration_ms": 293706,
       "name": "NIGHT CRAWLING",
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
+    {
+      "added_at": "2024-02-02 05:28:10",
+      "album": {
+        "name": "Songs To Whistle When Strolling Along The Abyss",
+        "url": "https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle"
+      },
+      "artists": [
+        {
+          "name": "Mayuko",
+          "url": "https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe"
+        }
+      ],
+      "duration_ms": 252557,
+      "name": "Cholericly Yours",
+      "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
     },
     {
       "added_at": "2023-01-03 23:48:36",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
-      "added_at": "2023-06-07 04:10:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
-    },
-    {
       "added_at": "2023-06-26 14:24:59",
       "album": {
         "name": "Island Family (Deluxe Edition)",
@@ -1483,6 +1467,42 @@
       "duration_ms": 269399,
       "name": "Island Family - uh Remix",
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
+    },
+    {
+      "added_at": "2023-06-07 04:10:00",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Al Sur",
+        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
+      },
+      "artists": [
+        {
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        },
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Al Sur",
+      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1505,24 +1525,20 @@
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-01-21 20:15:30",
       "album": {
-        "name": "Al Sur",
-        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
+        "name": "Songs For Vienna",
+        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
       },
       "artists": [
         {
-          "name": "The Notwist",
-          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
-        },
-        {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
         }
       ],
-      "duration_ms": 198773,
-      "name": "Al Sur",
-      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
+      "duration_ms": 188873,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1547,22 +1563,6 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
-    },
-    {
-      "added_at": "2022-01-21 20:15:30",
-      "album": {
-        "name": "Songs For Vienna",
-        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "Feedback Loop",
-      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
       "added_at": "2021-10-06 20:23:10",

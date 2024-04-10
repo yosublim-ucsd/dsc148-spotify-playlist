@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,031 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,127 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Perfectionist](https://open.spotify.com/track/1vPvogmqsSQLUx0Kpha08X) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:47 |
 | 100 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 |
 
-Snapshot ID: `MCxkY2I2ZmU2NGFmODZhYTE1NTMyYzBhNjQzM2FhNGNiNDVhMTUwMGMw`
+Snapshot ID: `MCw4ZjcyNGY4YThjYmY1YTFlMTBiYjI3M2FlZjhlMmZhZGRkNTBiNTZm`

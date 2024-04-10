@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,009,387 likes - 49 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,009,635 likes - 48 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 4 | [Roots, Rock, Reggae](https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 3:38 |
 | 5 | [Redemption Song](https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:53 |
 | 6 | [Jamming](https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:31 |
-| 7 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
-| 8 | [Stir It Up \- Jamaican Version](https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:37 |
+| 7 | [Stir It Up \- Jamaican Version](https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:37 |
+| 8 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
 | 9 | [Pimper's Paradise](https://open.spotify.com/track/5JqCmd41S3PZ2AS6GuHqcR) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:27 |
 | 10 | [One Love / People Get Ready](https://open.spotify.com/track/7oNgPClUYdscWWHa5PF1gT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 2:52 |
 | 11 | [One Drop](https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 35 | [Stiff Necked Fools](https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:25 |
 | 36 | [Positive Vibration](https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu) | 3:33 |
 | 37 | [Ambush In The Night](https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:12 |
-| 38 | [Kaya](https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:15 |
-| 39 | [Time Will Tell](https://open.spotify.com/track/5AMy058KlCyQfHK6Mim42N) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv) | 3:25 |
+| 38 | [Time Will Tell](https://open.spotify.com/track/5AMy058KlCyQfHK6Mim42N) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv) | 3:25 |
+| 39 | [Kaya](https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:15 |
 | 40 | [Them Belly Full \(But We Hungry\)](https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 3:13 |
 | 41 | [War/No More Trouble \- From "Bob Marley: One Love" Soundtrack](https://open.spotify.com/track/060wim4wCw76nHhHr6fDjm) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [One Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj) | 4:57 |
 | 42 | [Turn Your Lights Down Low](https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7) | 5:46 |
@@ -56,6 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 46 | [Concrete Jungle](https://open.spotify.com/track/5M77yXWuKPqaUzdxn4cVnV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 4:13 |
 | 47 | [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 |
 | 48 | [Hold Ya Head \(feat\. Bob Marley\)](https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 2:45 |
-| 49 | [Kinky Reggae \- Jamaican Version](https://open.spotify.com/track/3nVveBWPxK3A65Wj6caJ1W) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:42 |
 
-Snapshot ID: `MCwzYzRjMDBlNmI3OWY5ZmNlMjA4ZDc2NTM2OWFjMjVmMTc5ZjEwNzJj`
+Snapshot ID: `MCxlOTQ2YjlkYzEwMTUwMjEwMjFlMTgwYmRjMmYwNWRiZjFkNTVjZmQ3`

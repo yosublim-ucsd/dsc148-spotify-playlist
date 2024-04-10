@@ -4,7 +4,7 @@
 
 > songs that we love <3 medium build on the cover
 
-231 songs - 13 hr 31 min
+232 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Rattlesnake](https://open.spotify.com/track/2YhLF7zIxcitEkobaGAMmU) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/69Dt5SjS6dSCmlPfqMhWwv) | 4:56 | 2024-02-16 |  |
 | [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 | 2023-10-06 | 2024-03-23 |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-12-01 |  |
-| [Rearview](https://open.spotify.com/track/3RyPOX98HHEYQholV0RBYF) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 3:51 | 2023-10-06 |  |
+| [Rearview](https://open.spotify.com/track/3RyPOX98HHEYQholV0RBYF) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 3:51 | 2023-10-06 | 2024-04-10 |
+| [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 | 2024-02-16 |  |
 | [resentme2](https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE) | [Brett Seper](https://open.spotify.com/artist/0ha3FIe7oUSx86k9krBSKE) | [toxic ties & troubled minds](https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP) | 2:48 | 2023-10-06 |  |
 | [Rotting Fruit](https://open.spotify.com/track/0deJ2a71D181hZ6g0x0Rsq) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Rotting Fruit](https://open.spotify.com/album/3xLm8dLpODMvSij3KZngfc) | 3:50 | 2024-01-19 |  |
 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 | 2023-12-05 | 2024-03-16 |

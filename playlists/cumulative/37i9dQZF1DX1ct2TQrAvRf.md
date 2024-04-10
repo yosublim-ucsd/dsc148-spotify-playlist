@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- BADSHAH
 
-151 songs - 8 hr 26 min
+152 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2023-03-27 |  |
 | [BAD GUY \(DG\)](https://open.spotify.com/track/6iPSbGsGwUToj0yjAg0Flz) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 1:51 | 2023-06-08 | 2023-07-18 |
 | [BAD\-DUA](https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [YAS the Underdog](https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ) | [BAD\-DUA](https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4) | 4:16 | 2024-04-08 |  |
-| [Bajenge](https://open.spotify.com/track/4I2txOHJ5QRpJvG0nQpBKL) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:40 | 2024-03-22 |  |
+| [Bajenge](https://open.spotify.com/track/4I2txOHJ5QRpJvG0nQpBKL) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:40 | 2024-03-22 | 2024-04-10 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-27 |  |
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-27 | 2023-07-18 |
 | [Basti Ka Hasti](https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:15 | 2023-03-27 |  |
@@ -149,6 +149,7 @@
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-04-19 |  |
 | [Tu Hai Kaun](https://open.spotify.com/track/4gJwX0QLUXwjwmQG77ihLS) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Tu Hai Kaun](https://open.spotify.com/album/4YrdmA8BUodffcJGjJnks9) | 3:24 | 2023-03-27 | 2023-04-20 |
 | [Up To U](https://open.spotify.com/track/5pkOSmSeVo8RfC8555LRHT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/75E8pKR9gdgdv3xxRyT1o8) | 3:08 | 2024-04-01 |  |
+| [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2024-04-09 |  |
 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 | 2023-11-17 |  |
 | [W](https://open.spotify.com/track/6nmg26X5nPg6CnznIX1UsT) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [W](https://open.spotify.com/album/4iqzfM6Evs8MZLUvXw0ixk) | 2:23 | 2024-01-02 | 2024-02-16 |
 | [Warning](https://open.spotify.com/track/5FwpiBGOwbqO8tFyC8Sjtu) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 4:59 | 2023-12-09 | 2024-01-19 |

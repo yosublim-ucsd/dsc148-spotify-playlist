@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 330360,
+  "num_followers": 330455,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjM3YWEzY2M0NTRjOGVmNTI4YWNhN2Y3NjkxMGZmYTc2OGE3OGRi",
+  "snapshot_id": "MCxkN2U4OTgyY2JkODNmZGQ3NzVmOTJiYmI1ZjI5YmY3OWI4NDgxNTk1",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Datskat",
+      "url": "https://open.spotify.com/track/0Fn75FpPmRi6WN7utBJHct"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Afro-Funk",
         "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 262893,
       "name": "It's A Vanity",
       "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Datskat",
-      "url": "https://open.spotify.com/track/0Fn75FpPmRi6WN7utBJHct"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1195,46 +1195,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Nuyorican Soul",
-        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
-      },
-      "artists": [
-        {
-          "name": "Nuyorican Soul",
-          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 319733,
-      "name": "I Am The Black Gold Of The Sun",
-      "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Pushin' On",
-        "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        },
-        {
-          "name": "Alice Russell",
-          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "Pushin' On",
-      "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "I'll Be With You",
         "url": "https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q"
       },
@@ -1263,6 +1223,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Nuyorican Soul",
+        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
+      },
+      "artists": [
+        {
+          "name": "Nuyorican Soul",
+          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 319733,
+      "name": "I Am The Black Gold Of The Sun",
+      "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Southern Comfort",
         "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
       },
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Brass Construction",
-        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
+        "name": "Pushin' On",
+        "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
       },
       "artists": [
         {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        },
+        {
+          "name": "Alice Russell",
+          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
         }
       ],
-      "duration_ms": 494960,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
+      "duration_ms": 199560,
+      "name": "Pushin' On",
+      "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Brass Construction",
+        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 494960,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Stoned Woman",
         "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "In Pursuit Of The 13th Note",
-        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 286600,
-      "name": "Nothing Has Changed",
-      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "I-Level",
         "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 241539,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "In Pursuit Of The 13th Note",
+        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 286600,
+      "name": "Nothing Has Changed",
+      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
     },
     {
-      "added_at": "2024-03-26 13:55:21",
-      "album": {
-        "name": "Sleazeball",
-        "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
-      },
-      "artists": [
-        {
-          "name": "Night Trains",
-          "url": "https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Azymuth: Outubro",
@@ -1423,6 +1407,22 @@
       "duration_ms": 274600,
       "name": "Dear Limmertz",
       "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
+    },
+    {
+      "added_at": "2024-03-26 13:55:21",
+      "album": {
+        "name": "Sleazeball",
+        "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
+      },
+      "artists": [
+        {
+          "name": "Night Trains",
+          "url": "https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
     },
     {
       "added_at": "2022-07-14 19:24:43",

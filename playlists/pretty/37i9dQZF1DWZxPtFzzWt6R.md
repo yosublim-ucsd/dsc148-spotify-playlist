@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,171 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,215 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 43 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 |
 | 44 | [Quem Procura Acha](https://open.spotify.com/track/0t34g5rLBbVubjIzQdgCKn) | [Joy Camargo](https://open.spotify.com/artist/6fRHIW5YdnSr2eJorBBECK) | [Quem Procura Acha](https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn) | 3:02 |
 | 45 | [Assim Como Deus Quer](https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Assim Como Deus Quer](https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD) | 2:43 |
-| 46 | [Oliveira Verdadeira](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Louvor Raíz](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
-| 47 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
+| 46 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
+| 47 | [Oliveira Verdadeira](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Louvor Raíz](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
 | 48 | [Deus É Fiel \- Ao Vivo](https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Deus É Fiel \(Ao Vivo\)](https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48) | 4:29 |
 | 49 | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Carlos Henrique](https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r) | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73) | 3:35 |
 | 50 | [Aquele Que Morreu na Cruz](https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Rayssa Peres](https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA) | [Aquele Que Morreu na Cruz](https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV) | 3:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Quem Foi Que Me Tocou](https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Quem Foi Que Me Tocou](https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX) | 4:41 |
 | 60 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 
-Snapshot ID: `MCwwZjYzMzBkOWRiMDVlZjFhMjExM2VmNjlmYzU2NDUxNjBmZWNjY2Rj`
+Snapshot ID: `MCwxMWY5ZWQ4MWQ3NWFmZDliMmVkOWEyYzQyODcyYjA0YTJhMWIzZjQ5`

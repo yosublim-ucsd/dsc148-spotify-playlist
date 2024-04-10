@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Asal
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,603 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,649 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 35 | [In Montreal](https://open.spotify.com/track/3Gwqsw9RQu216w13DvByYL) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [In Montreal](https://open.spotify.com/album/6vt5EJjKiIymCZYBjXFGtc) | 3:33 |
 | 36 | [Control](https://open.spotify.com/track/4zdONINrUEuRIGNBJFhA6e) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [Faces](https://open.spotify.com/album/1ymWtxJyW1kPxPtXN79KWp) | 1:36 |
 | 37 | [S T A R](https://open.spotify.com/track/667WXZTbxfMio6VJBoNupr) | [Tara Lord](https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ) | [S T A R](https://open.spotify.com/album/6ZleLQFnC4bdAo6tvu2JqW) | 2:12 |
-| 38 | [Faisla](https://open.spotify.com/track/5bcNqcd5D0D5fVVhXIck6J) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Faisla](https://open.spotify.com/album/6lJQFO2UGZmjOYRs29cA1p) | 3:04 |
+| 38 | [Faisla](https://open.spotify.com/track/5bcNqcd5D0D5fVVhXIck6J) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV), [Bawa Raikoti](https://open.spotify.com/artist/4y2TvmnvGlb6j404mW3tLM) | [Faisla](https://open.spotify.com/album/6lJQFO2UGZmjOYRs29cA1p) | 3:04 |
 | 39 | [Lost My Mind](https://open.spotify.com/track/4ol1eAIlmVpt6KRwdy2Bzm) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Lost My Mind](https://open.spotify.com/album/4khz6CgbiUS9TmeYv8gHhR) | 3:39 |
 | 40 | [my grave](https://open.spotify.com/track/59wfjBgzshi7Uk8Kx346bH) | [Mylie Taylor](https://open.spotify.com/artist/3JR3JUiQX97T6lm85kCNVL) | [my grave](https://open.spotify.com/album/1IcOgEvrflh7lzSTfix4V1) | 3:02 |
 | 41 | [Accros au danger](https://open.spotify.com/track/3lND2zJZoRWVMGf64mlXVQ) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Accros au danger](https://open.spotify.com/album/5gJTHu8d1TKftds8XTuVMg) | 2:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Jeje](https://open.spotify.com/track/3J6yVWwtgHvYazpP0E8evl) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Jeje](https://open.spotify.com/album/3kOBu4Rnj58f6W3LvwvFYD) | 2:49 |
 | 80 | [In My Mind](https://open.spotify.com/track/5vV2z9EwVzZ4EPeV8e2YXd) | [DJ Rosegold](https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [In My Mind](https://open.spotify.com/album/2TiAVPNgib6tF38a5uNz0H) | 2:53 |
 
-Snapshot ID: `MCxmYTYwNjgzZTg1Y2ViMjcwNTNmNWExNWUwNjcxODk5MmM2MWM2YWE3`
+Snapshot ID: `MCwyMjQxNmZkNTIyNDQ3N2JkMWU4OWM3NWE1NzA4NjNhYjMzMWMxNzRm`

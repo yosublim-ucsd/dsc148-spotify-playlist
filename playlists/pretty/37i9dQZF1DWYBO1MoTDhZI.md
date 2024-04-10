@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 
 > Just good vibes all day long
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,324,194 likes - 82 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,325,018 likes - 82 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 | 81 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 |
 | 82 | [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 |
 
-Snapshot ID: `MCxjMzg3YzMzYjQ4Y2I1Y2YwZDMzYTRhNjg3ODJiNzgxYjgyOWNkYTJh`
+Snapshot ID: `MCxlMmIyZDQyNDhhNDYyMDUzMjAyMDM5Y2E0ZjQzZjgwMTE3YTEzOGFj`

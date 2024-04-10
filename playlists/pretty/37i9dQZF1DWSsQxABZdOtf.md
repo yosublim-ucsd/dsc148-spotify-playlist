@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,851 likes - 69 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,855 likes - 69 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 68 | [Eternal Crush \- Morgan Hislop Remix](https://open.spotify.com/track/3wP2CTRgQ6lKEvJfUQ9CYy) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [Morgan Hislop](https://open.spotify.com/artist/1M1AEVIsxhvm4lAkuC2LyC) | [Eternal Crush \(Morgan Hislop Remix\)](https://open.spotify.com/album/57jPDfbFr30Uw3jZgV7oLP) | 2:44 |
 | 69 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
 
-Snapshot ID: `MCxkZTg5MTZlMDRjN2QzYzAyYTA3ZDljYTM5MDEzYzk4YmUxNWE2ZjUz`
+Snapshot ID: `MCwyZGRhYjFkZWM2OTE3NTZiMWM2MGFjMGQzODg3NDYwZDgzMTE1ODBk`

@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 608999,
+  "2024-04-10": 609120,
   "date_first_scraped": "2022-01-13",
   "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia.",
   "name": "Made in Colombia",
@@ -1088,6 +1088,28 @@
     },
     {
       "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172506,
+      "name": "CUAL ES ESA",
+      "url": "https://open.spotify.com/track/05sO6FK8E9l2cfwnEUTjHq"
+    },
+    {
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -1423,7 +1445,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 175456,
       "name": "Dulce Pecado",
       "url": "https://open.spotify.com/track/6dESHIzqYPl9TXwjNvpWY7"
@@ -2102,6 +2124,28 @@
     },
     {
       "album": {
+        "name": "Ganas (Remix)",
+        "url": "https://open.spotify.com/album/606mo5NTK2yjOAE1JUiYEF"
+      },
+      "artists": [
+        {
+          "name": "El Clooy",
+          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208816,
+      "name": "Ganas - Remix",
+      "url": "https://open.spotify.com/track/2gozgdGrgeKxV5ssjzokPo"
+    },
+    {
+      "album": {
         "name": "Ghetto Star",
         "url": "https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4"
       },
@@ -2427,7 +2471,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 217567,
       "name": "La Cantina - Remix",
       "url": "https://open.spotify.com/track/1BLceHxSV6Wx1MRC4gkt3f"

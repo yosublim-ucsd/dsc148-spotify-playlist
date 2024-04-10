@@ -1,13 +1,29 @@
 {
   "description": "Saca la estrella que llevas dentro.",
-  "num_followers": 719930,
+  "num_followers": 719983,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzAwODRkMzEyMTE2OGM0Y2FlZjAzMTRhNDc4ZWQ4MGM2Y2ZhMThi",
+  "snapshot_id": "MCxjNmY4MjYwY2UyZmI3MjU4ZTNmN2U4Y2MyNWVmMzU3Y2FkMGFjZmZj",
   "tracks": [
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+    },
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
@@ -31,18 +47,18 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 154374,
-      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
-      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -67,22 +83,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
-        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 222226,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 216752,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -183,18 +167,18 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+      "duration_ms": 216752,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -211,6 +195,22 @@
       "duration_ms": 193826,
       "name": "Todo Cambi\u00f3",
       "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -439,22 +439,6 @@
       "duration_ms": 174946,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -571,38 +571,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -619,6 +587,22 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Destino Paraiso - 25th Anniversary Edition (Remastered)",
         "url": "https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 308880,
       "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
       "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "200 COPAS",
+      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -731,22 +747,6 @@
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "200 COPAS",
-      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Color Esperanza",
-      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Color Esperanza",
+      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1611,8 +1611,8 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
       "artists": [
         {
@@ -1620,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 161800,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
+      "duration_ms": 268600,
+      "name": "Mi Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Na Na Na (Dulce Ni\u00f1a)",
+      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Vicentico",
         "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 150027,
       "name": "MALAMENTE - Cap.1: Augurio",
       "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Na Na Na (Dulce Ni\u00f1a)",
-      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1771,8 +1771,8 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
       "artists": [
         {
@@ -1780,9 +1780,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 268600,
-      "name": "Mi Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
+      "duration_ms": 161800,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Te Atrapar\u00e9 Bandido",
+        "url": "https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 179773,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
         "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 244933,
       "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Te Atrapar\u00e9 Bandido",
-        "url": "https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2391,26 +2391,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Amor (Spanish Edition / Remastered)",
-        "url": "https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA"
-      },
-      "artists": [
-        {
-          "name": "Consuelo Vel\u00e1zquez",
-          "url": "https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 241232,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/5WHnE8MsLFHqSUwecrs7WO"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -2427,6 +2407,26 @@
       "duration_ms": 295280,
       "name": "Querida",
       "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Amor (Spanish Edition / Remastered)",
+        "url": "https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA"
+      },
+      "artists": [
+        {
+          "name": "Consuelo Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 241232,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/5WHnE8MsLFHqSUwecrs7WO"
     },
     {
       "added_at": "2023-10-06 22:33:17",

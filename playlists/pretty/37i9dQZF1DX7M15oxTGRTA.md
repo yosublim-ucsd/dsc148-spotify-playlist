@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,526 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,600 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 5 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 6 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [20/20](https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW) | 4:02 |
 | 7 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
-| 8 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
-| 9 | [Hero](https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:17 |
+| 8 | [Hero](https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:17 |
+| 9 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
 | 10 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
 | 11 | [Let's Get It On](https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | 4:51 |
 | 12 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 53 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
 | 54 | [Always](https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [All In The Name Of Love](https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15) | 4:46 |
 | 55 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
-| 56 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
-| 57 | [Never Knew Love Like This Before](https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Pride Classics](https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc) | 5:26 |
-| 58 | [Angel](https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80s Jazz Hits](https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS) | 5:00 |
-| 59 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
+| 56 | [Never Knew Love Like This Before](https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Pride Classics](https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc) | 5:26 |
+| 57 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
+| 58 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
+| 59 | [Angel](https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80s Jazz Hits](https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS) | 5:00 |
 | 60 | [Ebony Eyes](https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Cold Blooded \(Expanded Edition\)](https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B) | 5:07 |
 | 61 | [Please Don't Go Girl](https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:23 |
 | 62 | [Very Special](https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG) | [Debra Laws](https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34) | [Very Special](https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4) | 4:28 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 83 | [Anticipation](https://open.spotify.com/track/46ABOH3c3OmH5waNodL3FZ) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Propositions](https://open.spotify.com/album/79OFHrcTLjudoKPtFs29tn) | 5:46 |
 | 84 | [Cada Um, Cada Um](https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse) | [Claudio Zoli](https://open.spotify.com/artist/4nlkuVUlkYrNMORAQ42fav) | [Cláudio Zoli](https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ) | 4:48 |
 | 85 | [Playing Your Game, Baby \- Single Version](https://open.spotify.com/track/5gMPyXsnILxJJn59G2cxpN) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [All\-Time Greatest Hits](https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j) | 3:39 |
-| 86 | [It's Time for Love](https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 5:57 |
-| 87 | [You Are My Heaven \(feat\. Donny Hathaway\)](https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:14 |
+| 86 | [You Are My Heaven \(feat\. Donny Hathaway\)](https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:14 |
+| 87 | [It's Time for Love](https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 5:57 |
 | 88 | [Is This the End](https://open.spotify.com/track/3aUvAn5WkN1s1nWTbdQp3S) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Vows Of Love](https://open.spotify.com/album/5CxM6SVKWudQD9C2LEkJkD) | 4:14 |
 | 89 | [Pensando Nela](https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:36 |
 | 90 | [Dream Lover](https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg) | [Liz Hogue](https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm) | [Vicious & Fresh](https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft) | 5:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 99 | [Um dia de domingo](https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 5:00 |
 | 100 | [Me dê motivos](https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 4:51 |
 
-Snapshot ID: `MCw3YjA4Y2Y4MjUzMGQ3MDVjMjNhN2JhMWRlN2E5NDIzYTQ0ZDllYWI5`
+Snapshot ID: `MCwxZDM3MzZkNmQ1NWQ5MDZkNmE3MzU0ZmM5ODU3ZjAxMTU5MWQ0NDEx`

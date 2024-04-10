@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 951032,
+  "num_followers": 951216,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjQ4M2RlZWFkYzBlOGZlNWM3YzE2MTFjMDRmZjljMDNmYmYxMGI0",
+  "snapshot_id": "MCw5Y2E0NzI2MmMxMTJlNjI3ZDllM2YzNjM5MTczOGZmNTBhNDAzZDdh",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dile a Tu Orgullo (En Vivo)",
-        "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Dile a Tu Orgullo (En Vivo)",
-      "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suspiros (En Vivo)",
         "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 185642,
       "name": "Suspiros (En Vivo)",
       "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dile a Tu Orgullo (En Vivo)",
+        "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Dile a Tu Orgullo (En Vivo)",
+      "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias (En Vivo)",
-        "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 235221,
-      "name": "Gracias - En Vivo",
-      "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Estar\u00e9 Esperando (En Vivo)",
         "url": "https://open.spotify.com/album/6glSiYSioOzvLo6cnv1hgZ"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 221079,
       "name": "Te Estar\u00e9 Esperando (En Vivo)",
       "url": "https://open.spotify.com/track/7v8pBPQxKtloKMp7kkSkb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias (En Vivo)",
+        "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 235221,
+      "name": "Gracias - En Vivo",
+      "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Patrocinador",
-        "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "El Patrocinador",
-      "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Servicio (En Vivo)",
         "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 206506,
       "name": "Fuera de Servicio - En Vivo",
       "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Patrocinador",
+        "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "El Patrocinador",
+      "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
     },
     {
       "added_at": null,
@@ -763,42 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Cancela La Depre (En Vivo)",
-        "url": "https://open.spotify.com/album/07tgEwwKVe516EcidYUrUd"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 232842,
-      "name": "Se Cancela La Depre (En Vivo)",
-      "url": "https://open.spotify.com/track/4NJAXc8SambFCaVoWOkUyw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XL",
-        "url": "https://open.spotify.com/album/42gWMcRX1GVhRvUAb1jUcw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "XL",
-      "url": "https://open.spotify.com/track/2WbciITogHwrgtxtkhmdPj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
         "url": "https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R"
       },
@@ -819,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Cancela La Depre (En Vivo)",
+        "url": "https://open.spotify.com/album/07tgEwwKVe516EcidYUrUd"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 232842,
+      "name": "Se Cancela La Depre (En Vivo)",
+      "url": "https://open.spotify.com/track/4NJAXc8SambFCaVoWOkUyw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Soporta",
         "url": "https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 164186,
       "name": "Y Soporta",
       "url": "https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XL",
+        "url": "https://open.spotify.com/album/42gWMcRX1GVhRvUAb1jUcw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 147597,
+      "name": "XL",
+      "url": "https://open.spotify.com/track/2WbciITogHwrgtxtkhmdPj"
     },
     {
       "added_at": null,

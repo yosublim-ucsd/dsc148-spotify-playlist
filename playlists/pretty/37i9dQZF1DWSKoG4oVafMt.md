@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,972 likes - 76 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,101 likes - 76 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 16 | [Rang Chadheya](https://open.spotify.com/track/0pHVpjpyZg3rI6e2AWYQFm) | [Apurva Krishna](https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch), [Tajinder Singh](https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG) | [Rang Chadheya](https://open.spotify.com/album/4s2WLUhDysiCe9JWcmmEnR) | 3:35 |
 | 17 | [Tu Te Main](https://open.spotify.com/track/7KxdPXIVFd3duEorQHYLHi) | [Gursanj](https://open.spotify.com/artist/6BJ2cExwgsqjBf6QfJvg6H) | [Tu Te Main](https://open.spotify.com/album/4jJmqUDEfmn6EiuyNWOg1B) | 2:58 |
 | 18 | [Tere Piche Soniye](https://open.spotify.com/track/5OY3gJ2eckEmm9ANsQ3WMb) | [Apoorav](https://open.spotify.com/artist/2K2ToeghcuRJIA51gwegDT) | [Tere Piche Soniye](https://open.spotify.com/album/4r2Ij40fNsPaiuT2btQHAL) | 3:07 |
-| 19 | [Pyaar Ch Haan \(From "Furteela"\)](https://open.spotify.com/track/7n2WdcXkndxEHi2nE3issW) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Raj Fatehpur](https://open.spotify.com/artist/4c93VO4EasGejF0BHid3wi) | [Pyaar Ch Haan \(From "Furteela"\)](https://open.spotify.com/album/5bMEqJu0UDcxMzNEiHcS32) | 3:35 |
+| 19 | [Pyaar Ch Haan \(From "Furteela"\)](https://open.spotify.com/track/2fm01WsPLIJBBa53HAhHoQ) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Raj Fatehpur](https://open.spotify.com/artist/4c93VO4EasGejF0BHid3wi) | [Pyaar Ch Haan \(From "Furteela"\)](https://open.spotify.com/album/3j0ql4oT53ulH7zCYilgo3) | 3:35 |
 | 20 | [Teri Maa](https://open.spotify.com/track/057455SFTBD3YjrzQtsF4p) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Teri Maa](https://open.spotify.com/album/6xJV3TQrVAX3mrtoLlS1rr) | 3:13 |
 | 21 | [Ishq Mohobbat](https://open.spotify.com/track/32ubUB7dKjWQ3lWdOtE2mk) | [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Ishq Mohobbat](https://open.spotify.com/album/2bd82pzDZ9Vb8bLF6bpMoK) | 2:36 |
 | 22 | [ROLL WITH ME](https://open.spotify.com/track/2OpVASAdLg3TP46OSKsYVH) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:17 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 75 | [Sab Kuchh \(From "Moh"\)](https://open.spotify.com/track/1ENluBXCI1RnMiGcZ74mzM) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Sab Kuchh \(From "Moh"\)](https://open.spotify.com/album/5XOobJnN5HgmNUcn9S455q) | 4:20 |
 | 76 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 
-Snapshot ID: `MCw1MGRiMzQzNTQxNDkzMzYwZGZhNzcxNTI0ODNjZjhjZTI4NWNkMWIw`
+Snapshot ID: `MCxjODhmYzY0YTgzM2MzN2I0NWM3MmFmYzM5ZTk4ZDY4MDYzY2FlZTI1`

@@ -4121,6 +4121,28 @@
     },
     {
       "album": {
+        "name": "Die Trying",
+        "url": "https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "Die Trying",
+      "url": "https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS"
+    },
+    {
+      "album": {
         "name": "HORN",
         "url": "https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM"
       },
@@ -6204,7 +6226,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 178253,
       "name": "Girls of the Year",
       "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
@@ -7686,6 +7708,50 @@
       "duration_ms": 180988,
       "name": "In Bloom - Japanese ver.",
       "url": "https://open.spotify.com/track/32A0F3zsYBiKAUPRtcNWE2"
+    },
+    {
+      "album": {
+        "name": "Doctor Slump (Original Television Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/1QPcuxHhaeIhTt7PyWyTIv"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "In my memory",
+      "url": "https://open.spotify.com/track/0f1dv8Dp9wZGkiYgkjIJnj"
+    },
+    {
+      "album": {
+        "name": "Into the Fire",
+        "url": "https://open.spotify.com/album/1RYTxkxZisCvw2cEDe57V6"
+      },
+      "artists": [
+        {
+          "name": "CHANSUNG",
+          "url": "https://open.spotify.com/artist/0Xysc1acrmF3w8vMvmSUPW"
+        },
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        },
+        {
+          "name": "Changmin Lee",
+          "url": "https://open.spotify.com/artist/4nccw03u1XLPVaMMAysdv9"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223226,
+      "name": "Into the Fire",
+      "url": "https://open.spotify.com/track/7MtC5CHn69OJYTzmA9fmQC"
     },
     {
       "album": {
@@ -14308,7 +14374,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 193586,
       "name": "Super (Workout Remix)",
       "url": "https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk"
@@ -16888,7 +16954,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 185533,
       "name": "WISH - Japanese Ver.",
       "url": "https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI"

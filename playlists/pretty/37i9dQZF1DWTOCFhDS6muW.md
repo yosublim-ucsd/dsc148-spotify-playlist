@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,696 likes - 38 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,711 likes - 38 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 15 | [Puntas Garifunas Criollas 2](https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW) | 7:24 |
 | 16 | [La Yuca](https://open.spotify.com/track/04DMd80zGUt5W21LDDQTI8) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 4:38 |
 | 17 | [Banana](https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 6:41 |
-| 18 | [Laluda Bellu](https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 3:33 |
-| 19 | [Quemala](https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA), [KD La Caracola](https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy), [Jessy Rose](https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD), [Big Nango](https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH) | [Quemala](https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg) | 2:25 |
+| 18 | [Quemala](https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA), [KD La Caracola](https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy), [Jessy Rose](https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD), [Big Nango](https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH) | [Quemala](https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg) | 2:25 |
+| 19 | [Laluda Bellu](https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 3:33 |
 | 20 | [Balabaa](https://open.spotify.com/track/2R5RYvwBKgNubDJf6gQ59S) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 2:40 |
 | 21 | [Kazzabe Si Sabe](https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 8](https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX) | 5:25 |
 | 22 | [Pedazo De Mujer](https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 4:00 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Banana](https://open.spotify.com/track/6jceTQXwTqbj4BJGJdlbvg) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 3:16 |
 | 38 | [Tik Tok Punta](https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg) | [El Profeta Hn](https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU) | [Tik Tok Punta](https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y) | 4:03 |
 
-Snapshot ID: `MCwyNDQyMWQ3MGQ3M2ZjM2Y3Yjg4OGQ2ZTE5MmY4ZWExOGY0YWVjNDhj`
+Snapshot ID: `MCxmOWZiYzk0MTIyNjdhNWQyZmI0NzJjMTIyZjljMzE0M2E2MjFlYzFj`

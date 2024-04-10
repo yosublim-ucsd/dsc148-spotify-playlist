@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Contrav\u00eda",
+        "url": "https://open.spotify.com/album/21IAal1ql6WvdscCoi3cmx"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Aguirre",
+          "url": "https://open.spotify.com/artist/0m4SQNU6NyIJxjsSQRGfpB"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Contrav\u00eda",
+      "url": "https://open.spotify.com/track/0RF0vTHsseW7qa0hO4Nlac"
+    },
+    {
+      "album": {
         "name": "Cora Fr\u00edo",
         "url": "https://open.spotify.com/album/5NfVkHKItmD5GfGmTSwy9e"
       },

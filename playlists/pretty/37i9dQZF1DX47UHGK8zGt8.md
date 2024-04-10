@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,957 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,206 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 31 | [É Você \- 2004 Digital Remaster](https://open.spotify.com/track/1yUm0iWD3rDf8dViBRpSkt) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 2:51 |
 | 32 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 |
 | 33 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
-| 34 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 |
-| 35 | [Quando Amanhecer](https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Lado de Cá](https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d) | 2:51 |
+| 34 | [Quando Amanhecer](https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Lado de Cá](https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d) | 2:51 |
+| 35 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 |
 | 36 | [Sorte \- Ao Vivo](https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Silva & Liniker \(Ao Vivo\)](https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG) | 3:50 |
 | 37 | [Ainda Lembro](https://open.spotify.com/track/6lNJX51MnEY2BB9EHBL3XP) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 4:10 |
 | 38 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Coisas Que Eu Sei](https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Releituras](https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM) | 2:58 |
 | 50 | [Outono](https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:24 |
 
-Snapshot ID: `MCwzNjdkYjIxYTEzMTIxYjdhOGIzZjZlMGExZmI2NWFkMTE2Nzk4OGEy`
+Snapshot ID: `MCw4NTFkYTE1NDE5OTU3ZWRjZDE0NDZmYzdhNzczNjNjMTU4MDAzNmZj`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-845 songs - 2 day 1 hr 41 min
+846 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [20GB](https://open.spotify.com/track/7rdj6TWqy9HOLS0suvco5R) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:57 | 2021-09-01 | 2021-09-02 |
 | [2nd Favourite 第二最愛](https://open.spotify.com/track/1Pt5syTlJvn3FOqAET84WF) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [2nd Favourite 第二最愛](https://open.spotify.com/album/3y88HyXt2fDHhs00Hr4cFD) | 3:10 | 2022-12-16 | 2023-03-07 |
 | [3D \(Alternate Ver.\)](https://open.spotify.com/track/2pLZ6tUBapqlngc9lnYz4M) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 2:42 | 2023-09-30 | 2023-10-04 |
-| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 |  |
+| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 | 2024-04-10 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-30 | 2023-10-04 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2022-12-26 | 2023-12-30 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-06 | 2022-04-19 |
@@ -307,6 +307,7 @@
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2023-12-25 | 2023-12-30 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone](https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa) | 3:40 | 2021-12-26 | 2021-12-27 |
 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/6WY4wvlmgccWapnIg14Vy0) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [1996](https://open.spotify.com/album/2GVHciB5rx3gCQgIqHdJ4G) | 4:46 | 2023-04-04 | 2023-04-06 |
+| [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-09 |  |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 | 2022-11-13 |
 | [Mine \(Taylor's Version\)](https://open.spotify.com/track/7G0gBu6nLdhFDPRLc0HdDG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 3:51 | 2023-07-08 | 2023-07-10 |

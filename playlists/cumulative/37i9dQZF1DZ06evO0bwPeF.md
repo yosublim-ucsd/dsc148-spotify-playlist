@@ -4,7 +4,7 @@
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 27 min
+81 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Crashing Foreign Cars](https://open.spotify.com/track/5aAr5Y5wXiUMHVEtvaCXkt) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 2:31 | 2022-11-17 |  |
 | [Dead to the World](https://open.spotify.com/track/2D9Qj4JZEetH1mzALdz6pV) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 3:32 | 2023-11-10 | 2023-12-14 |
 | [Disagreeable](https://open.spotify.com/track/3kfYNMUlAhfrpOv2BexhB5) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Unsung: The Best Of Helmet 1991\-1997](https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO) | 3:44 | 2022-11-17 | 2023-04-29 |
-| [Dislocated](https://open.spotify.com/track/2rPj6HNnYlc8FTHxAn6Qcd) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 3:19 | 2024-04-09 |  |
+| [Dislocated](https://open.spotify.com/track/2rPj6HNnYlc8FTHxAn6Qcd) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 3:19 | 2024-04-09 | 2024-04-10 |
 | [Dislocated](https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:19 | 2023-12-29 | 2024-03-05 |
 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 | 2022-11-17 |  |
 | [Drug Lord](https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:23 | 2022-11-17 |  |
@@ -61,6 +61,7 @@
 | [NYC Tough Guy](https://open.spotify.com/track/12nKYUkNsMWduwCLYhotLa) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 2:34 | 2024-03-06 |  |
 | [NYC Tough Guy](https://open.spotify.com/track/69hbQdjcPhITOxVBuIApkL) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:34 | 2023-12-13 | 2024-03-07 |
 | [Powder Puff](https://open.spotify.com/track/2o1sbJtl8qV6a9FGpOAQ6g) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:41 | 2023-12-23 | 2024-04-04 |
+| [Powder Puff](https://open.spotify.com/track/4tCQ5q0H1waTbXQ73dET2v) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 3:41 | 2024-04-10 |  |
 | [Primitive](https://open.spotify.com/track/4rD9TawMBbDEGY90A9MfUX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 3:58 | 2023-03-12 | 2023-12-14 |
 | [Pure](https://open.spotify.com/track/2IbXarUn4rwPepcPIS9sfm) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 3:33 | 2022-11-17 |  |
 | [Red Scare](https://open.spotify.com/track/5khIBhLlizgeyCrMtaaEFl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 3:19 | 2022-11-17 | 2023-12-14 |

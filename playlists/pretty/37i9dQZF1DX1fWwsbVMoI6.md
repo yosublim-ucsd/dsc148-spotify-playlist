@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Corazon Serrano, Axel
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,955 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,995 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 47 | [Por Que un Hombre No Llora](https://open.spotify.com/track/3WXuIhwbCGYvzLEfyvGYOU) | [Los Tigres de la Cumbia](https://open.spotify.com/artist/044y0XSznUpOIzgp61qwT1) | [Porque un Hombre No Llora](https://open.spotify.com/album/5yuZLJjoc41D8Di7y2nlbW) | 4:30 |
 | 48 | [Tres Cruces](https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Amos del Ritmo Caliente, Vol\. 2](https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md) | 3:51 |
 | 49 | [Dolor y Lagrimas](https://open.spotify.com/track/5iu23EuTrwZtZdJt7DWUlS) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Desierto](https://open.spotify.com/album/17kNwp6zAftLn7MzlqT8hz) | 4:48 |
-| 50 | [Amor a Primera Vista \- Versión Cumbia](https://open.spotify.com/track/6cgRWMGvr7PcLGgOp8epSj) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Jota Benz](https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv), [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Amor a Primera Vista \(Versión Cumbia\)](https://open.spotify.com/album/4GV7yLMM1dWoWslw91BTZP) | 3:35 |
+| 50 | [Pensando En Ti](https://open.spotify.com/track/0VkhsIr5avrOdOdc2BE34M) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Directo al Corazón, Vol\. 18](https://open.spotify.com/album/7CbNmgY2t9MP2G86u0CnAm) | 3:33 |
 
-Snapshot ID: `MCxmMGFlYzdkNTRhMWJmOGY3OTMwNDRjYjRkM2YwNWZjOThkNzdmMzI4`
+Snapshot ID: `MCxjMWM1MzNhMDQ4MWJhNTkzMmI0NGU3NjhhODg4MDk1OGM5NDFjNWY5`

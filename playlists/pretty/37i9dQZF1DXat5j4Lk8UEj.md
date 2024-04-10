@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,053 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,054 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 34 | [Guiding Light](https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:37 |
 | 35 | [Electric Indigo](https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [twelvefour](https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t) | 3:43 |
 | 36 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
-| 37 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
-| 38 | [reason to live](https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [reason to live](https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP) | 2:30 |
+| 37 | [reason to live](https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [reason to live](https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP) | 2:30 |
+| 38 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
 | 39 | [Sanctuary](https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 4:26 |
 | 40 | [Dreams \(feat\. Judah & The Lion\)](https://open.spotify.com/track/6upqycHdFZkd1JzVeqjnGo) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:09 |
 | 41 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 |
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 54 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 55 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
 | 56 | [Puppy and a Truck](https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:11 |
-| 57 | [The Balcony](https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Pet Parade](https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ) | 4:08 |
-| 58 | [It Ain’t Easy](https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What Is There](https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz) | 3:20 |
+| 57 | [It Ain’t Easy](https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What Is There](https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz) | 3:20 |
+| 58 | [The Balcony](https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Pet Parade](https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ) | 4:08 |
 | 59 | [Go Outside](https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO) | 2:49 |
-| 60 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 |
-| 61 | [Lottery](https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:33 |
-| 62 | [Waste of Time](https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Waste of Time](https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6) | 3:03 |
+| 60 | [Waste of Time](https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Waste of Time](https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6) | 3:03 |
+| 61 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 |
+| 62 | [Lottery](https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:33 |
 | 63 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 |
 | 64 | [Suffering](https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Suffering](https://open.spotify.com/album/14eVN7m47S442flao2wtFa) | 3:20 |
 | 65 | [It's Been a While](https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [It's Been a While](https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf) | 4:06 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 79 | [Absolute Loser](https://open.spotify.com/track/45wGhAr9756RWGrSs35r56) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:51 |
 | 80 | [Jazz on the Autobahn](https://open.spotify.com/track/5IObx9f9zVxTGfzyRQWYSe) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [From Dreams to Dust](https://open.spotify.com/album/4Dv3k5qKbTAOM777tJKo1s) | 4:32 |
 | 81 | [How Come My Body](https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Inwards & Onwards](https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO) | 2:18 |
-| 82 | [Shattered & Hollow](https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 4:04 |
-| 83 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
-| 84 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 |
+| 82 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 |
+| 83 | [Shattered & Hollow](https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 4:04 |
+| 84 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
 | 85 | [Hardlytown](https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 3:17 |
 | 86 | [Alone but Not Alone](https://open.spotify.com/track/3A19z3kNfPtKvXU5NuAs2J) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [The Waves, The Wake](https://open.spotify.com/album/4Bj3F7hjjfJm5XW2LY1wXi) | 3:17 |
 | 87 | [Get Down](https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Get Down](https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 99 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
 | 100 | [Gamble for a Rose](https://open.spotify.com/track/2zqSMjsmbqtm80YwQaPgmY) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Gamble for a Rose](https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA) | 4:30 |
 
-Snapshot ID: `MCxhNGQ1ODkxODVlMTc5ZDU5MzdjZjgxMzc2ZTI2N2VmYzhhOTBmNTFk`
+Snapshot ID: `MCw2MTc1YzUyMDRhNjc5MGI5OGM4ZmExZWZiZGJmMzk0Nzg0NWYxMTAw`

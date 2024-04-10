@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,342 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,440 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 18 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 |
 | 19 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 |
 | 20 | [Motion Picture Soundtrack](https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Motion Picture Soundtrack](https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh) | 4:59 |
-| 21 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:45 |
-| 22 | [The Girl From Ipanema](https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:20 |
+| 21 | [The Girl From Ipanema](https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:20 |
+| 22 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:45 |
 | 23 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
 | 24 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
 | 25 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 31 | [Jimmy](https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1) | [Moriarty](https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa) | [Gee Whiz But This Is a Lonesome Town](https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK) | 4:24 |
 | 32 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
 | 33 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 |
-| 34 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 |
-| 35 | [But I Do](https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [Street Bangerz Volume 6: Playhouse](https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz) | 4:00 |
+| 34 | [But I Do](https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [Street Bangerz Volume 6: Playhouse](https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz) | 4:00 |
+| 35 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 |
 | 36 | [Misread](https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:08 |
 | 37 | [In a Manner of Speaking](https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY) | 3:58 |
 | 38 | [Jardin d'hiver](https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La Biographie de Luka Philipsen](https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip) | 2:58 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 65 | [Sunny Road](https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq) | 3:04 |
 | 66 | [Le coeur nous anime](https://open.spotify.com/track/2ZoTMDhc30xptF6GntTLnC) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Paradis](https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL) | 2:44 |
 | 67 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 |
-| 68 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 |
-| 69 | [Grace](https://open.spotify.com/track/08w1hnWW4GhVm61DoVojsY) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:31 |
+| 68 | [Grace](https://open.spotify.com/track/08w1hnWW4GhVm61DoVojsY) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:31 |
+| 69 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 |
 | 70 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 |
 | 71 | [Chariot](https://open.spotify.com/track/6GRx9KtB1BhKDelUtsxzvT) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Chariot](https://open.spotify.com/album/4IQcmXCLlNwsEyT8sWK17I) | 3:36 |
 | 72 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 90 | [Let You Go](https://open.spotify.com/track/2pK3jFRZt9Yqpl1mAEwcEr) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Moon](https://open.spotify.com/album/5IOq1HOpMp9raDkcl4Mjsh) | 3:52 |
 | 91 | [Et Bam \- Acoustic Version](https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ) | 3:35 |
 | 92 | [Love That Girl](https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 3:04 |
-| 93 | [Le temps passe](https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe etc.](https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g) | 3:12 |
-| 94 | [Sonatine](https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Sonatine](https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb) | 3:53 |
+| 93 | [Sonatine](https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Sonatine](https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb) | 3:53 |
+| 94 | [Le temps passe](https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe etc.](https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g) | 3:12 |
 | 95 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 |
 | 96 | [Imagining My Man](https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 5:51 |
 | 97 | [Elle laisse \- Radio Edit](https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Elle laisse \(Radio Edit\)](https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [A Step You Can’t Take Back](https://open.spotify.com/track/6LLUiWmVoiPm27QNzBNc3j) | [Keira Knightley](https://open.spotify.com/artist/2MG46ekjBSFwPgzoIZvHFU) | [Begin Again \- Music From And Inspired By The Original Motion Picture](https://open.spotify.com/album/2fKvStJ1UkXMkf5kzBp3DQ) | 3:21 |
 | 100 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 |
 
-Snapshot ID: `MCw5OWU4MGVhOGE2YmMxNWQyNTZhNTYwZTkxNmUwMjVkN2M0NzAwNGUw`
+Snapshot ID: `MCw5ZmZmN2YwNjBlMjRiODIxYTAzODc3NjM0ZGVhM2Y5YTdiYmIyMDg4`

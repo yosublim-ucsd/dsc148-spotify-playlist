@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 19895,
+  "num_followers": 19914,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjU4Yjc4YzVhMzg4OWQ1MmE5NjBhY2JkOWU2MzcxOTg4YTdhZmUy",
+  "snapshot_id": "MCxiMGQwZWNmMzRkMDY1YmRlMGY5YmNmZjhiZjdhODM1ZjY4NDIwYTMz",
   "tracks": [
     {
       "added_at": "2024-04-05 05:40:14",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "Get Close",
-        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+        "name": "put yo gun 2 use ontheradar freestyle",
+        "url": "https://open.spotify.com/album/3Q24WaPqlNQVBI0aM7g0n3"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
         }
       ],
-      "duration_ms": 171218,
-      "name": "Get Close",
-      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
+      "duration_ms": 121602,
+      "name": "put yo gun 2 use ontheradar freestyle",
+      "url": "https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "put yo gun 2 use ontheradar freestyle",
-        "url": "https://open.spotify.com/album/3Q24WaPqlNQVBI0aM7g0n3"
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
       },
       "artists": [
         {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 121602,
-      "name": "put yo gun 2 use ontheradar freestyle",
-      "url": "https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh"
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
+        "name": "KOKA",
+        "url": "https://open.spotify.com/album/42lOLtoRnq3ox0Ghz7DJht"
+      },
+      "artists": [
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        },
+        {
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+        }
+      ],
+      "duration_ms": 157647,
+      "name": "KOKA",
+      "url": "https://open.spotify.com/track/4y0NPlpdWSE2YcRtSOVNhW"
+    },
+    {
+      "added_at": "2024-04-05 05:40:14",
+      "album": {
         "name": "Undress You",
         "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
-    },
-    {
-      "added_at": "2024-04-05 05:40:14",
-      "album": {
-        "name": "KOKA",
-        "url": "https://open.spotify.com/album/42lOLtoRnq3ox0Ghz7DJht"
-      },
-      "artists": [
-        {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
-        },
-        {
-          "name": "Ria Sean",
-          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
-        }
-      ],
-      "duration_ms": 157647,
-      "name": "KOKA",
-      "url": "https://open.spotify.com/track/4y0NPlpdWSE2YcRtSOVNhW"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -1023,6 +1023,42 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
+        "name": "Medea",
+        "url": "https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R"
+    },
+    {
+      "added_at": "2024-04-05 05:40:14",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7"
+    },
+    {
+      "added_at": "2024-04-05 05:40:14",
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu"
       },
@@ -1087,42 +1123,6 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7"
-    },
-    {
-      "added_at": "2024-04-05 05:40:14",
-      "album": {
-        "name": "Wild Ride - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 162313,
-      "name": "Wild Ride - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
-    },
-    {
-      "added_at": "2024-04-05 05:40:14",
-      "album": {
         "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
         "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "Medea",
-        "url": "https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM"
+        "name": "Wild Ride - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R"
+      "duration_ms": 162313,
+      "name": "Wild Ride - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "Put It Down",
-        "url": "https://open.spotify.com/album/7ig0qv5ZtpaX7NPAe4nok0"
+        "name": "Line Of Fire",
+        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
       "artists": [
         {
-          "name": "Adanna Duru",
-          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 165340,
-      "name": "Put It Down",
-      "url": "https://open.spotify.com/track/62eaGs2P7yf3R5z14KIcNl"
+      "duration_ms": 255000,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
     }
   ],
   "unique_name": "Cocoa Butter ",

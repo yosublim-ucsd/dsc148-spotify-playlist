@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Rascal Flatts",
-  "num_followers": 805213,
+  "num_followers": 805684,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzMwYmZlOTVmMDY0ZDVhYWZiOWJkYWI3ZWI0OTEzMjBkYTE5MWZh",
+  "snapshot_id": "MCxkMzIxZTc5NWE0MzU5NDdlZmU4NzRjOTQ0NjZmZjI5YzEyNDI0MWJj",
   "tracks": [
     {
       "added_at": "2024-02-01 22:20:44",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "My Kind Of Livin'",
         "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 230373,
       "name": "Redneck Yacht Club",
       "url": "https://open.spotify.com/track/19TKY0KksXTyTGhAImxwQ1"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Three Wooden Crosses",
-      "url": "https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Jason Aldean",
         "url": "https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 306026,
       "name": "Hicktown",
       "url": "https://open.spotify.com/track/74o7KPar10g6ourPTKfHzU"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Three Wooden Crosses",
+      "url": "https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Playlist: The Very Best Of Lonestar",
-        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "My Front Porch Looking In",
-      "url": "https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Phil Vassar",
         "url": "https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 233880,
       "name": "Just Another Day In Paradise",
       "url": "https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Playlist: The Very Best Of Lonestar",
+        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "My Front Porch Looking In",
+      "url": "https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1967,22 +1967,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo"
+        "name": "Dangerous Man",
+        "url": "https://open.spotify.com/album/2ZdBjpNzKeluVjBdZ4x12j"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        },
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
         }
       ],
-      "duration_ms": 248800,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
+      "duration_ms": 240093,
+      "name": "Honky Tonk Badonkadonk",
+      "url": "https://open.spotify.com/track/1VdHooAMVaGXPSty8pifv9"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -2003,18 +1999,22 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Dangerous Man",
-        "url": "https://open.spotify.com/album/2ZdBjpNzKeluVjBdZ4x12j"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo"
       },
       "artists": [
         {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 240093,
-      "name": "Honky Tonk Badonkadonk",
-      "url": "https://open.spotify.com/track/1VdHooAMVaGXPSty8pifv9"
+      "duration_ms": 248800,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
     },
     {
       "added_at": "2024-02-01 22:20:44",

@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MzgxNjAsMDAwMDAwMDA0MTIzNjA2YmIxNjJiZmE1ZmM2ZWRkYmQ5NDkzMmMxOA==",
+  "snapshot_id": "Mjg1MzgxNjAsMDAwMDAwMDA3Zjg5OWE5NDk4NjQ3MTFkMGM0NDBhM2EyYjljNWE5Nw==",
   "tracks": [
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Born of Fire (Live)",
-        "url": "https://open.spotify.com/album/4IbhjwBe3BkFY8w5FMr6aF"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 332930,
-      "name": "Don't Talk to Strangers - Live 1983",
-      "url": "https://open.spotify.com/track/6EjZBavlpEOTnqVSyT9vUN"
-    },
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
@@ -51,6 +35,38 @@
       "duration_ms": 172983,
       "name": "Karma",
       "url": "https://open.spotify.com/track/0kegL4mrbdvkbzJemHuZa4"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Born of Fire (Live)",
+        "url": "https://open.spotify.com/album/4IbhjwBe3BkFY8w5FMr6aF"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "duration_ms": 286275,
+      "name": "Rainbow In The Dark - Live 1983",
+      "url": "https://open.spotify.com/track/4s8vlzOMtA3adRMB0GVnci"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Under My Umbrella",
+        "url": "https://open.spotify.com/album/4ZF7L3zqI5zHSUcxZ5fkxy"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 220973,
+      "name": "Under My Umbrella",
+      "url": "https://open.spotify.com/track/1rCGgMWxlCsgpuu17ufTdX"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -91,18 +107,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Under My Umbrella",
-        "url": "https://open.spotify.com/album/4ZF7L3zqI5zHSUcxZ5fkxy"
+        "name": "Dancing star",
+        "url": "https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Under My Umbrella",
-      "url": "https://open.spotify.com/track/1rCGgMWxlCsgpuu17ufTdX"
+      "duration_ms": 181959,
+      "name": "Dancing star",
+      "url": "https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -139,22 +155,6 @@
       "duration_ms": 167264,
       "name": "This Is The Way (feat. DMX)",
       "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Dancing star",
-        "url": "https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 181959,
-      "name": "Dancing star",
-      "url": "https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Gone (Reimagined)",
+        "url": "https://open.spotify.com/album/1iM4OJKM6V2v6g8hI1Lzm8"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 233047,
+      "name": "Gone - Reimagined",
+      "url": "https://open.spotify.com/track/13EWbYhcihoM9wt6iPIzTF"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Southern Hostility",
         "url": "https://open.spotify.com/album/5q24cunZhuYVqbCLp1F01Q"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 194775,
       "name": "Play Dead",
       "url": "https://open.spotify.com/track/11CCwCjixBQpz4I1pFBjfP"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Gone (Reimagined)",
-        "url": "https://open.spotify.com/album/1iM4OJKM6V2v6g8hI1Lzm8"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 233047,
-      "name": "Gone - Reimagined",
-      "url": "https://open.spotify.com/track/13EWbYhcihoM9wt6iPIzTF"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Prayer of a Child",
+        "url": "https://open.spotify.com/album/178WnPfId9ExhG95JDEg1j"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Prayer of a Child",
+      "url": "https://open.spotify.com/track/4MKDPj4JBiB53xdT4m5jRa"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/3LX2JhMQanwcOe4Bu81gl0"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 194375,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/1UU3Rz7R3htJ1W636jxzKd"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Prayer of a Child",
-        "url": "https://open.spotify.com/album/178WnPfId9ExhG95JDEg1j"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Prayer of a Child",
-      "url": "https://open.spotify.com/track/4MKDPj4JBiB53xdT4m5jRa"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "B Sides and C Sides",
-        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 116893,
-      "name": "Just A Feeling",
-      "url": "https://open.spotify.com/track/1T0l7luhYfoOoGRKDD4X5P"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Save Me (Feat. Sanne Mieloo & Charlotte Wessels)",
         "url": "https://open.spotify.com/album/6fSrFALcpi6N6kvhebSKaA"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 232603,
       "name": "Save Me (Feat. Sanne Mieloo & Charlotte Wessels)",
       "url": "https://open.spotify.com/track/2jU82yk8trZmHit4jn4zK1"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 116893,
+      "name": "Just A Feeling",
+      "url": "https://open.spotify.com/track/1T0l7luhYfoOoGRKDD4X5P"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Zig Zag",
-        "url": "https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 254285,
-      "name": "Zig Zag",
-      "url": "https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "S\u2019old (Acoustic)",
         "url": "https://open.spotify.com/album/4fO8xivU0iLXNWAeDoqcuk"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 159142,
       "name": "S\u2019old (Acoustic)",
       "url": "https://open.spotify.com/track/3K3piObEj9QrcJq1kFuhgY"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Zig Zag",
+        "url": "https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 254285,
+      "name": "Zig Zag",
+      "url": "https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "LIES WE TELL OURSELVES",
+        "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "LIES WE TELL OURSELVES",
+      "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Armada",
         "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "LIES WE TELL OURSELVES",
-        "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "LIES WE TELL OURSELVES",
-      "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Myths of Fate",
         "url": "https://open.spotify.com/album/7BJ121ekSfZ0vPECFGPV7G"
       },
@@ -715,6 +715,26 @@
       "duration_ms": 274994,
       "name": "Hammer of the Gods",
       "url": "https://open.spotify.com/track/78qlA1fC79giLrL0Luzttd"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Akoma",
+        "url": "https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE"
+      },
+      "artists": [
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 246053,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -763,26 +783,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Akoma",
-        "url": "https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE"
-      },
-      "artists": [
-        {
-          "name": "Jlin",
-          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 246053,
-      "name": "Borealis",
-      "url": "https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Freefall",
         "url": "https://open.spotify.com/album/1KvZxJl5SCOf7Yqc2qo7c7"
       },
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "What About The Children",
-        "url": "https://open.spotify.com/album/3GRDspM8YHRS8P5ci5n2nx"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 279359,
-      "name": "What About The Children",
-      "url": "https://open.spotify.com/track/1H3ZNotB3Z6kQBcMovZwPX"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Faster Than the Speed of Night (Live in Berlin)",
         "url": "https://open.spotify.com/album/3dUdYL5bZQNo8caR8UmQwR"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 202142,
       "name": "Estandarte",
       "url": "https://open.spotify.com/track/4Yw3jtrOKEXOkzIusWyDaa"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "What About The Children",
+        "url": "https://open.spotify.com/album/3GRDspM8YHRS8P5ci5n2nx"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 279359,
+      "name": "What About The Children",
+      "url": "https://open.spotify.com/track/1H3ZNotB3Z6kQBcMovZwPX"
     },
     {
       "added_at": "2024-04-05 04:00:00",

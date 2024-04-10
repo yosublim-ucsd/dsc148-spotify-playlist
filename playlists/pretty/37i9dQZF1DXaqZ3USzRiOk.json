@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 177965,
+  "num_followers": 178063,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzlmNmEyMDdiMmYzNWEyZTNjZTcyOWU1MTU0ZTdiNGU4YTIzMTk5",
+  "snapshot_id": "MCwxODZhMTgyMGY2Mjk3ZThhMjEyNTQ4NjAyNDhjNTczOWRiZDA1Y2Rk",
   "tracks": [
     {
       "added_at": "2023-06-16 16:57:29",
@@ -99,18 +99,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+        "name": "Joan Sebastian Con Mariachi",
+        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 198200,
-      "name": "El Palomito",
-      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
+      "duration_ms": 211255,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Joan Sebastian Con Mariachi",
-        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 211255,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+      "duration_ms": 198200,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 167514,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Me Bebi Tu Recuerdo",
-        "url": "https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Me Beb\u00ed Tu Recuerdo",
-      "url": "https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Lo Mejor De Nosotros",
         "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 260829,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Me Bebi Tu Recuerdo",
+        "url": "https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Me Beb\u00ed Tu Recuerdo",
+      "url": "https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Boleros-Boleros-Bole",
-        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 131626,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
         "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 188773,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/12ef6MwgP0rOkJMWCgj9hR"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Boleros-Boleros-Bole",
+        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 131626,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "El Adolorido",
-      "url": "https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Besos Y Caricias",
         "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 210026,
       "name": "Que Me Lleve El Diablo",
       "url": "https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "El Adolorido",
+      "url": "https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Casas De Madera (Remasterizado)",
-        "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Casas De Madera",
-      "url": "https://open.spotify.com/track/2iKtCnQnLVuYyrqhhz15Uz"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -1771,22 +1755,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Un Hombre Derecho",
-        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Serie De Coleccion 15 Autenticos",
         "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
       },
@@ -1799,6 +1767,38 @@
       "duration_ms": 131066,
       "name": "Cama de Piedra",
       "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Casas De Madera (Remasterizado)",
+        "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 264373,
+      "name": "Casas De Madera",
+      "url": "https://open.spotify.com/track/2iKtCnQnLVuYyrqhhz15Uz"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Un Hombre Derecho",
+        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
-        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
-      },
-      "artists": [
-        {
-          "name": "Dueto America",
-          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Ojitos So\u00f1adores",
-      "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Era Cab - El Viejo",
         "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 153093,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Penas, Desenga\u00f1os... y Amores",
+        "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Yo Se Que Te Acordaras",
+      "url": "https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2123,18 +2123,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Penas, Desenga\u00f1os... y Amores",
-        "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Dueto America",
+          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
         }
       ],
-      "duration_ms": 203240,
-      "name": "Yo Se Que Te Acordaras",
-      "url": "https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx"
+      "duration_ms": 173733,
+      "name": "Ojitos So\u00f1adores",
+      "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
     },
     {
       "added_at": "2023-06-16 16:57:29",

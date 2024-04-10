@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Glass Animals
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,977 likes - 125 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,082 likes - 125 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Don't Call Me](https://open.spotify.com/track/6TmdQKyH6D50cTnXVnfLFn) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Don't Call Me](https://open.spotify.com/album/27RLYalOrcL90bq5Y13mZ1) | 2:48 |
 | 125 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
 
-Snapshot ID: `MCw5ZGY5NzlmMjMwODg2YmVjYWNjZDA0YjcwNDcwZjkzNjExODRjNTVi`
+Snapshot ID: `MCwyMWI5ODE4NTg3NTQ3ZmMzMDIzMDAyNGQ4Y2VlNGU5MGVjMWZlYzU1`

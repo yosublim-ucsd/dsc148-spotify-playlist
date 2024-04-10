@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 432631,
+  "num_followers": 432627,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGJhNGYyYjc2NzQzNTlmNmQ3OTdhZWIzOGU2Y2ZiMmU0MDgyOWEx",
+  "snapshot_id": "MCxjMThhODE0OWFjNDc5MDBkZWI5ZjM3MWExZDM0MDhkNTBkYzk3MjFi",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
         "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -355,6 +355,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "She Calls Me Back (with Kacey Musgraves)",
+        "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 243962,
+      "name": "She Calls Me Back (with Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 289560,
       "name": "Rosyln",
       "url": "https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "She Calls Me Back (with Kacey Musgraves)",
-        "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 243962,
-      "name": "She Calls Me Back (with Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 194416,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -563,8 +579,8 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "Cape Elizabeth",
+        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 194416,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0"
+      "duration_ms": 232618,
+      "name": "Maine",
+      "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -643,54 +659,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Cape Elizabeth",
-        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 232618,
-      "name": "Maine",
-      "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "When I Woke",
-        "url": "https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf"
-      },
-      "artists": [
-        {
-          "name": "Rusted Root",
-          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "Send Me On My Way",
-      "url": "https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
@@ -707,18 +675,34 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "4runner",
-        "url": "https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
       "artists": [
         {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 265453,
-      "name": "4runner",
-      "url": "https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv"
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "When I Woke",
+        "url": "https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf"
+      },
+      "artists": [
+        {
+          "name": "Rusted Root",
+          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "Send Me On My Way",
+      "url": "https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1023,22 +1007,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Dark in the City",
         "url": "https://open.spotify.com/album/3GpYjmjSigXrSRG4aLjyg4"
       },
@@ -1055,6 +1023,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "The Woods (Acoustic)",
         "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
       },
@@ -1067,26 +1051,6 @@
       "duration_ms": 239960,
       "name": "The Woods - Acoustic",
       "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        }
-      ],
-      "duration_ms": 189247,
-      "name": "reckless driving",
-      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1119,6 +1083,26 @@
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "duration_ms": 189247,
+      "name": "reckless driving",
+      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "To the Mountains",
-      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -1219,6 +1187,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "London's Song",
+        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
+      },
+      "artists": [
+        {
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "London's Song",
+      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "And It\u2019s Still Alright",
         "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 235746,
       "name": "And It's Still Alright",
       "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "London's Song",
-        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
+        "name": "Overtime (feat. Kacey Musgraves)",
+        "url": "https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue"
       },
       "artists": [
         {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 178573,
-      "name": "London's Song",
-      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+      "duration_ms": 173610,
+      "name": "Overtime (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1299,26 +1303,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Overtime (feat. Kacey Musgraves)",
-        "url": "https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 173610,
-      "name": "Overtime (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Sierra Vista",
         "url": "https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr"
       },
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Without a Light",
-        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Without a Light",
-      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 213933,
       "name": "look up",
       "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Without a Light",
+        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "Without a Light",
+      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1403,22 +1387,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Touch the Sky (Welcome Home) - EP",
-        "url": "https://open.spotify.com/album/6g442PMBkFk6xu5kOsFm36"
-      },
-      "artists": [
-        {
-          "name": "Radical Face",
-          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
-        }
-      ],
-      "duration_ms": 287393,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/1oofwLaSk4kDIWAYT5ZGK7"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m"
       },
@@ -1431,6 +1399,22 @@
       "duration_ms": 206373,
       "name": "The King",
       "url": "https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Touch the Sky (Welcome Home) - EP",
+        "url": "https://open.spotify.com/album/6g442PMBkFk6xu5kOsFm36"
+      },
+      "artists": [
+        {
+          "name": "Radical Face",
+          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+        }
+      ],
+      "duration_ms": 287393,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/1oofwLaSk4kDIWAYT5ZGK7"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1467,22 +1451,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 59026,
-      "name": "Flight Risk",
-      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
       },
@@ -1495,6 +1463,22 @@
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 59026,
+      "name": "Flight Risk",
+      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 199118,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "The Way Back Home",
         "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Smoke On the Highway",
+      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "The Summer Isles",
         "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 192920,
       "name": "I Just Love You",
       "url": "https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 199118,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1807,22 +1807,6 @@
       "duration_ms": 185250,
       "name": "Tongue Tied - Acoustic",
       "url": "https://open.spotify.com/track/3yeZlcYkmkevkPR8mDmG8E"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Smoke On the Highway",
-      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1971,22 +1955,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Artifacts",
         "url": "https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK"
       },
@@ -1999,6 +1967,22 @@
       "duration_ms": 164773,
       "name": "Fisher Island Sound",
       "url": "https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2035,6 +2019,22 @@
       "duration_ms": 208649,
       "name": "A Mermaid in Lisbon",
       "url": "https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Fruit from the Trees",
+        "url": "https://open.spotify.com/album/69Dt5SjS6dSCmlPfqMhWwv"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 296929,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/2YhLF7zIxcitEkobaGAMmU"
     },
     {
       "added_at": "2024-04-05 04:00:00",

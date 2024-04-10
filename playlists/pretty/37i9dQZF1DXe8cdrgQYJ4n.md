@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,099 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,096 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 56 | [Fashion Hoarder](https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [Fashion Hoarder](https://open.spotify.com/album/54raPqsVO70w92rOVD1plB) | 3:07 |
 | 57 | [GOOD](https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [GOOD](https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT) | 3:00 |
 | 58 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
-| 59 | [Freaky \(Prod\. GroovyRoom\)](https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Freaky](https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp) | 2:53 |
-| 60 | [Do Not Want To Do It](https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95) | 3:52 |
+| 59 | [SOLO DAY](https://open.spotify.com/track/1XgWjeQVnmClfRroOqTP1H) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5kw2bbCEsZtQkCxfRLMiyD) | 3:19 |
+| 60 | [Freaky \(Prod\. GroovyRoom\)](https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Freaky](https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp) | 2:53 |
 
-Snapshot ID: `MCwyZDlmODY5Mzc2MTJhYzQ0MjYxM2JhYTdlYWFiNDgyODJhYWNiOTEx`
+Snapshot ID: `MCxjNzgzMWU0ZjYyOTVlZmU5MWFlNDM2ZDk4YTgzZjM4ZWMwZTcxMTdh`

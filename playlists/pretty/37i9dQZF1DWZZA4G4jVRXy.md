@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,529 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,550 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 53 | [Hawaiian Wedding Song](https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w) | [The Surfmen](https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV) | [Chill Out Hawaiian Music](https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ) | 1:43 |
 | 54 | [Slow And Easy](https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Days Of Wine And Roses](https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx) | 3:05 |
 | 55 | [Ke Kali Nei Au \- The Hawaiian Wedding Song](https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb) | [Hawaii Calls Orchestra](https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79) | [Hawaii's Favorite Music Vol\. II \- Instrumentals](https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx) | 3:10 |
-| 56 | [Loads of Love](https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:46 |
-| 57 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 |
+| 56 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 |
+| 57 | [Loads of Love](https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:46 |
 | 58 | [Lust](https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:59 |
 | 59 | [Jivaro](https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Legend Of The Jivaro](https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7) | 2:54 |
 | 60 | [My Three Sons \- Remastered](https://open.spotify.com/track/67OLtDm3jaMdhywCIxZNgP) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ultra\-Lounge / Tiki Sampler](https://open.spotify.com/album/1M1KRm2CzwxzwJvQ3ZqzlU) | 2:22 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 75 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 76 | [Lust](https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [The Passions](https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L) | 2:59 |
 
-Snapshot ID: `MCwzOWM4ODM2ZTU5ZDFkYzc0ZjFkZWNlOTAxNDE3ODM4ZGQxYmQ1OGU5`
+Snapshot ID: `MCwwMTRkZjEwNGRhMzUxZTllNGMyZTFiYmZlNjk0ZDJhOGFlY2IyYTMz`

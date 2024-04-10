@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,445 songs - 3 day 3 hr 11 min
+1,446 songs - 3 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [After van de After](https://open.spotify.com/track/2spa45WfQMrdEGLM9ZjDR4) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [After van de After](https://open.spotify.com/album/1yGqOW3uDceAK1J6BUuUFS) | 2:36 | 2023-09-23 | 2023-09-25 |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-03-27\* | 2021-04-21 |
 | [Afterparty](https://open.spotify.com/track/3xmsNjYU4cFVdKdLzL3Ot2) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Afterparty](https://open.spotify.com/album/5PwTR8avz3RxYiUemWvnM1) | 3:15 | 2021-09-19 | 2021-09-28 |
-| [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2024-04-08 |  |
+| [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2024-04-08 | 2024-04-10 |
 | [Airmax BW](https://open.spotify.com/track/2UhWINPqByHkdf0nsQnjJO) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Airmax BW](https://open.spotify.com/album/6kHnS11DBPW35wUJ6EuARe) | 3:03 | 2022-06-04 | 2022-06-27 |
 | [Al Die Dagen](https://open.spotify.com/track/5n68xr1csCewpCX1WC3lLI) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Luxeprobleem](https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy) | 2:30 | 2023-02-18 | 2023-03-04 |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-30 | 2022-08-01 |
@@ -696,6 +696,7 @@
 | [Jongens Van Plein](https://open.spotify.com/track/50xUHMCmsbBOp6aaihNYyg) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 2:24 | 2022-01-29 | 2022-03-14 |
 | [Jongens, Heb Je 't Al Vernomen](https://open.spotify.com/track/6HlytDgbNe2xJREe9XjKru) | [Alles Kids](https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd), [Sinterklaasliedjes Alles Kids](https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i) | [Sinterklaasliedjes om mee te zingen](https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd) | 1:28 | 2022-12-05 | 2023-12-08 |
 | [Jou Om Me Heen](https://open.spotify.com/track/4t3lYPJLLVDsijIvq6pkJS) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Jou Om Me Heen](https://open.spotify.com/album/29fIcsBMFkJiY9viuiJQmA) | 2:46 | 2022-10-12 | 2022-10-25 |
+| [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-04-09 |  |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2023-10-10 | 2024-02-13 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-02 |
 | [K\-POP](https://open.spotify.com/track/1RlcvK95g0XfRpDvFbGLUO) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP \(Chopped & Screwed\)](https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl) | 3:05 | 2023-07-25 | 2023-07-28 |

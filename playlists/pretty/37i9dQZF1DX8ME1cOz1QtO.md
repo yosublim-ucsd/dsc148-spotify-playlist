@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,785 likes - 100 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,818 likes - 100 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 74 | [Garden Of Paradise \- 2006 Digital Remaster](https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz) | 23:14 |
 | 75 | [Zen Garden of the Soul Part I](https://open.spotify.com/track/09s4W3bYDmwotLUgozutls) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 2:21 |
 | 76 | [Sunrise](https://open.spotify.com/track/3Z6b4JCIyosla3EbSHffCE) | [Klaus Schønning](https://open.spotify.com/artist/1Kjz8hvlaTQiYdTvO53bPM) | [Lydglimt](https://open.spotify.com/album/37ixvLulBM547iKlOYXna0) | 3:09 |
-| 77 | [Metropolis](https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Ages](https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX) | 11:12 |
-| 78 | [Seventh Chakra Keynote B \(Violet\)](https://open.spotify.com/track/72hgOcPkoWeQbt8GkbK1iJ) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 3:40 |
-| 79 | [To the Other Side of the Sky](https://open.spotify.com/track/3hH4PPHWAtkbzD9UKpkQl0) | [Michael Garrison](https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI) | 4:34 |
+| 77 | [Seventh Chakra Keynote B \(Violet\)](https://open.spotify.com/track/72hgOcPkoWeQbt8GkbK1iJ) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 3:40 |
+| 78 | [To the Other Side of the Sky](https://open.spotify.com/track/3hH4PPHWAtkbzD9UKpkQl0) | [Michael Garrison](https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI) | 4:34 |
+| 79 | [Metropolis](https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Ages](https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX) | 11:12 |
 | 80 | [Timeless Love](https://open.spotify.com/track/3QyirqEICgWcawoOTLF6nC) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh) | 4:01 |
 | 81 | [Ancient Stars](https://open.spotify.com/track/7IzQZHK9TWH9YCE1HY87cX) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [Galaxies](https://open.spotify.com/album/1RD4b4SZU8Zu3dWaP406AJ) | 6:22 |
 | 82 | [Forest Spirit](https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8) | [Joel Vandroogenbroeck](https://open.spotify.com/artist/6RAwMfx5Bxyfg50pzLAnrS), [Carole Muriel](https://open.spotify.com/artist/36Rm9QDv8917PvW0eosGLt) | [Images of Flutes in Nature](https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa) | 3:21 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 87 | [Arrival \- Remastered](https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 5:48 |
 | 88 | [Processional: Root Chakra](https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 5:23 |
 | 89 | [In the Beginning](https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI) | 8:01 |
-| 90 | [Be\-Muse\-Ment](https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite 45th Anniversary Collector's Edition](https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21) | 4:33 |
-| 91 | [Carmel Valley Sunset](https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr) | [David Casper](https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI) | [Hear and Be Yonder](https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0) | 7:45 |
+| 90 | [Carmel Valley Sunset](https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr) | [David Casper](https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI) | [Hear and Be Yonder](https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0) | 7:45 |
+| 91 | [Be\-Muse\-Ment](https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite 45th Anniversary Collector's Edition](https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21) | 4:33 |
 | 92 | [Glide III](https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Glide/Star Gazer](https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K) | 8:25 |
 | 93 | [Procession](https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 7:27 |
 | 94 | [Seraphic Borealis](https://open.spotify.com/track/0QGgY7KrzfTcIZRy7D8fGQ) | [Joel Andrews](https://open.spotify.com/artist/0Wowmx0w1IqFPCGYYhLaNT) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 12:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Elysian E](https://open.spotify.com/track/0ZO2xe48ituknhCWgzftnY) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/4ACAUURTiEs4lsnHL3em0x) | 9:13 |
 | 100 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
 
-Snapshot ID: `MCxlMzc0MTI2NTJhMDYyMjVmNzA5ZDVjNjhkM2IxYWZmM2RjY2M1MDZm`
+Snapshot ID: `MCxiN2ZmMDU5YjljOGNmYzc5YmI0YzgxM2VhNDljNWJiMTM5YzU2NWFh`

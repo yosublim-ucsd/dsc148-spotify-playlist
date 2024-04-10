@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,407 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,703 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 38 | [Comme s'il en pleuvait](https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 3:42 |
 | 39 | [Le Temps Qui Passe](https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Rendez Vous](https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y) | 3:37 |
 | 40 | [Samba Saravah](https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 2:50 |
-| 41 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
-| 42 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 |
-| 43 | [Mon fantôme](https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Miossec](https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW) | [Song, Song, Song](https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd) | 4:21 |
-| 44 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
+| 41 | [Mon fantôme](https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Miossec](https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW) | [Song, Song, Song](https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd) | 4:21 |
+| 42 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
+| 43 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 |
+| 44 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |
 | 45 | [Les mots d'amour](https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Lovely Difficult](https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB) | 3:47 |
-| 46 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |
+| 46 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
 | 47 | [M'envoyer des fleurs](https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8) | [Sandrine Kiberlain](https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l) | [Manquait Plus Qu'Ca](https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf) | 2:35 |
 | 48 | [Que rest\-t\-il de nos amours?](https://open.spotify.com/track/6QZ2OZGes6LAku3d5rIAeX) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 2:57 |
 | 49 | [Le chien d'avant garde](https://open.spotify.com/track/3xNsHKqsBYt4aV90Bp4l5Y) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La disparition](https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd) | 3:58 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 72 | [Brigitte dit vrai](https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Dans la peau](https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG) | 2:12 |
 | 73 | [Saint\-tropez blues](https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Balade à Saint\-Germain, vol 6\. Rue Saint Benoit: Nouvelle Vague](https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS) | 2:19 |
 | 74 | [Nuages \- Studio recording](https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM) | [Raquel Bitton](https://open.spotify.com/artist/55wEoppLSr86yUwGGTVv0X) | [Paris Blues](https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY) | 3:42 |
-| 75 | [C'est le printemps](https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 5:02 |
-| 76 | [Mon Amie La Rose](https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [Mon Amie La Rose](https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf) | 2:03 |
+| 75 | [Mon Amie La Rose](https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [Mon Amie La Rose](https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf) | 2:03 |
+| 76 | [C'est le printemps](https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 5:02 |
 | 77 | [Les voyages](https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Jeanne Chante Jeanne](https://open.spotify.com/album/7uzZRu1T0i14kICtviB9x7) | 3:01 |
 | 78 | [Le soleil](https://open.spotify.com/track/2eGGZSSdnady1oqoV2JGVP) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [The Best Of Bardot](https://open.spotify.com/album/7zBRw7aeKzugZ5bkFtcSID) | 3:15 |
 | 79 | [Quand j'serai K.O](https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Souchon dans l'air \(Vol\. 1\)](https://open.spotify.com/album/5IGv8URch14ZFVg4xmWGsR) | 3:34 |
 | 80 | [La noyée](https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 4:02 |
 
-Snapshot ID: `MCw3ZWJmNjVlNmMyYWEzOTNjODFkZmU2NTNiMGJhNzc0Yjk1ODUwYjNj`
+Snapshot ID: `MCwyN2YwYThjYWE2MDVmNzVhZTkxYzA0ZDBjYzMwYTU3OGU3OGY3NDgw`

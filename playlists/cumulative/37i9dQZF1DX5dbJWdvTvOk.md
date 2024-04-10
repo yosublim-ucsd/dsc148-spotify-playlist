@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-679 songs - 1 day 4 hr 52 min
+680 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2023-04-21 |  |
 | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/track/2PygGi8gu5WfiT8zKQrC89) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/album/1sEV06R2RJBrTNOmt5LHuM) | 3:11 | 2023-04-21 | 2023-10-30 |
 | [Night in Sevilla](https://open.spotify.com/track/3MeoEsS5PQ2Jh6ppvYOI9g) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Night in Sevilla](https://open.spotify.com/album/779NwwOLuonCzVO6gQ7uNi) | 2:43 | 2023-04-21 |  |
-| [Night Sky](https://open.spotify.com/track/2FOxa2wEutyDKFd5uGz7ZD) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Night Sky](https://open.spotify.com/album/2rcCBSP6wwWYfcBqTeHj6V) | 2:13 | 2023-04-21 |  |
+| [Night Sky](https://open.spotify.com/track/2FOxa2wEutyDKFd5uGz7ZD) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Night Sky](https://open.spotify.com/album/2rcCBSP6wwWYfcBqTeHj6V) | 2:13 | 2023-04-21 | 2024-04-10 |
 | [Night Swim](https://open.spotify.com/track/2jPVTEbM04iucPvHAVRENU) | [Paul Turner](https://open.spotify.com/artist/7i4VoTrDKrU8S5722Zpm0V) | [Night Swim](https://open.spotify.com/album/0gaimSRqZlpxeCgfQGkhZR) | 1:20 | 2023-04-21 | 2023-05-13 |
 | [No Puedo Evitarlo](https://open.spotify.com/track/1NxCJMENnTIPWQYNx1AdVu) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [No Puedo Evitarlo](https://open.spotify.com/album/1i0nstc0LWCSvMCNczk1e6) | 2:37 | 2024-03-08 |  |
 | [Nobody But You](https://open.spotify.com/track/5LcwDax86a6ymfLDNEYN2T) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Nobody But You](https://open.spotify.com/album/1avmuhOQpHOmm4ItRvg3Re) | 2:25 | 2023-06-02 |  |
@@ -669,6 +669,7 @@
 | [Whispering Layers](https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Whispering Layers](https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT) | 2:34 | 2022-07-22 | 2022-11-18 |
 | [Whispers At Dawn](https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers At Dawn](https://open.spotify.com/album/2Mbd5VHwehYOKADGeuRFqU) | 1:50 | 2022-07-15 | 2023-04-22 |
 | [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 | 2023-04-21 | 2024-04-07 |
+| [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 | 2024-04-05 |  |
 | [Window](https://open.spotify.com/track/7Avxe9ZBaBQ8yWk1fpYM8Y) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Window](https://open.spotify.com/album/1Qa7H30jLp6XDAxCv7M769) | 2:02 | 2023-10-27 |  |
 | [Wing It](https://open.spotify.com/track/3kxF9scsDgLlF3UP2vPTvZ) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Wing It](https://open.spotify.com/album/3YwKDFW3Soe7PC8cm0cfWa) | 1:50 | 2023-04-21 | 2023-08-26 |
 | [Winter Dreamin'](https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Winter Dreamin'](https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th) | 3:39 | 2024-02-23 |  |

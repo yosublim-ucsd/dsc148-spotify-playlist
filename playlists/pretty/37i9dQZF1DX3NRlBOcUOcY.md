@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,822 likes - 120 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,826 likes - 120 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 57 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 |
 | 58 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 |
 | 59 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
-| 60 | [Mayor Que Usted](https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Usted](https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W) | 3:53 |
-| 61 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
+| 60 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
+| 61 | [Mayor Que Usted](https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Usted](https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W) | 3:53 |
 | 62 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 |
 | 63 | [MOTEL CALIFORNIA](https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [MOTEL CALIFORNIA](https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO) | 3:33 |
 | 64 | [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 79 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 |
 | 80 | [Ánimo](https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Ánimo](https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC) | 2:37 |
 | 81 | [Fuego](https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Fuego](https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3) | 3:19 |
-| 82 | [Me Gusta Tu Flow](https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Me Gusta Tu Flow](https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W) | 2:57 |
-| 83 | [CHAO BEBE](https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [CHAO BEBE](https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5) | 3:26 |
-| 84 | [WOW BB](https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [WOW BB](https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR) | 3:11 |
+| 82 | [CHAO BEBE](https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [CHAO BEBE](https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5) | 3:26 |
+| 83 | [WOW BB](https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [WOW BB](https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR) | 3:11 |
+| 84 | [Me Gusta Tu Flow](https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Me Gusta Tu Flow](https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W) | 2:57 |
 | 85 | [Amor Pasajero](https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Amor Pasajero](https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls) | 2:32 |
 | 86 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
 | 87 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 119 | [TOCA MADERA](https://open.spotify.com/track/5rWvIlXByapQ0pLx8IpWLY) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [TOCA MADERA](https://open.spotify.com/album/72TMXfg056YF1DQIulzB57) | 2:20 |
 | 120 | [Michelada](https://open.spotify.com/track/5B30BvpxWapuepoVA0yRB6) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Michelada](https://open.spotify.com/album/3c03dbml6ykc5shqtuMq49) | 3:03 |
 
-Snapshot ID: `MCw0MDlmNTY0ZWVhNmVlMWEwMGYxZjcxNTM1NTU4OGJiYjNmZmI3ODg2`
+Snapshot ID: `MCw1ZGZjNmNkMWZmZWExNGE4ZGRmZGQ1M2ZhOTEzZmVmMmUxNzIzMDY4`

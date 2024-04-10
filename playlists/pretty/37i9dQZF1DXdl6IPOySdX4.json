@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1740587,
+  "num_followers": 1741439,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjc5MWQ4MTFkNGNhNGUwMGZiZTQyYmNhODdiNzNhNmUwYzZlOGUx",
+  "snapshot_id": "MCwyZjI4ZWQwNjBkOTI1MzdhNWFiYjFkYTliMzZlYzJmZmVlYjgxMjg0",
   "tracks": [
     {
       "added_at": "2024-03-29 04:20:25",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Love On The Brain",
-      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Love On The Brain",
+      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Chase Atlantic",
-        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
       "artists": [
         {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 228786,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
+      "duration_ms": 91869,
+      "name": "Formula",
+      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 91869,
-      "name": "Formula",
-      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -903,18 +903,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 174512,
-      "name": "Superpowers",
-      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
+      "duration_ms": 276960,
+      "name": "Sativa",
+      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -935,22 +939,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 276960,
-      "name": "Sativa",
-      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+      "duration_ms": 174512,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Destined 2 Win",
-        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 205458,
-      "name": "Calling My Phone",
-      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Chase Atlantic",
         "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 267920,
       "name": "Consume (feat. Goon Des Garcons)",
       "url": "https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 205458,
+      "name": "Calling My Phone",
+      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 260776,
-      "name": "Like I Want You",
-      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 260776,
+      "name": "Like I Want You",
+      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Sky Walker (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 231497,
       "name": "No Love (with SZA)",
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Sky Walker (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Lo-Fis",
-        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 90708,
-      "name": "Uuuu",
-      "url": "https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "pretty",
         "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 146216,
       "name": "cross my heart",
       "url": "https://open.spotify.com/track/1GnTBbaFtxNkHEjUsWEdNu"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "The Lo-Fis",
+        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 90708,
+      "name": "Uuuu",
+      "url": "https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94"
     },
     {
       "added_at": "2024-01-26 05:00:00",

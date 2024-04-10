@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=5o83aVOURSKr1KHKQczERA">Marizu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,615 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,696 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 79 | [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 |
 | 80 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 |
 
-Snapshot ID: `MCxmNGNlZDVjZDM4OGJiN2Y1ZjZlYzM0NzRiMGY0YzFhNWRhZWRkZWFj`
+Snapshot ID: `MCw2MjJiYTgzNzA5MzRkZTFiNjljMjk2Nzc5MzM1ZDc1OTZiNzYzYzE2`

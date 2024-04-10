@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: LIU KOI
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,111 likes - 33 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,113 likes - 33 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 32 | [Crush On](https://open.spotify.com/track/4LSPhOVHew694KG2IAA6Ap) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 3:01 |
 | 33 | [The Way](https://open.spotify.com/track/7BsxnZQIlqEUL7h2haDK9z) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [The Way](https://open.spotify.com/album/3wA7xdtKNtpWqDGDnx4u6N) | 1:40 |
 
-Snapshot ID: `MCw4ODlmZjI2NGE2NjlkOThjMjgxNWQwZDQwMzExZWNlOWMyNmFkZDdl`
+Snapshot ID: `MCxiNTI5YTgyZWI1YmE0MWY3MjIxNDYyMGY2ZjUzMjZkOGUxNmI5YzUx`

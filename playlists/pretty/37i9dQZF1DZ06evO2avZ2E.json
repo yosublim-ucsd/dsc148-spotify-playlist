@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2539,
+  "num_followers": 2543,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGZkOTlkZTgxNGI5N2RkOTc3MjkzNDZmMTgxYWJlYzRhYjE0NDMy",
+  "snapshot_id": "MCwyNWM2YWRhZDk1MDdjMGNiMWQ1ODk3MTFhNGRmNzY5Mjk0MTRmYmY4",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUAN PABLO VEGA",
-        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
+        "name": "El Mundo Puede Esperar",
+        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
       },
       "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 222598,
-      "name": "Dejarnos Ir",
-      "url": "https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt"
+      "duration_ms": 161142,
+      "name": "El Mundo Puede Esperar",
+      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
     },
     {
       "added_at": null,
@@ -239,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo Puede Esperar",
-        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
+        "name": "JUAN PABLO VEGA",
+        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
       },
       "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 161142,
-      "name": "El Mundo Puede Esperar",
-      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
+      "duration_ms": 222598,
+      "name": "Dejarnos Ir",
+      "url": "https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt"
     },
     {
       "added_at": null,

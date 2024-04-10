@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s fresas de la era del rocanrol para bailar \"de cachetito\".",
-  "num_followers": 115756,
+  "num_followers": 115781,
   "original_name": "Romance Rocanrol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzlmN2E3NWRhYTFkMDA4YTk1NTg4NThlM2UzZmFjYzFlMjg4YjNj",
+  "snapshot_id": "MCxiZmJlZDBhMmE1NjQ3YzUxYmE5OTFjOWNmOWYzNjIxMTU1ZTBmYWE5",
   "tracks": [
     {
       "added_at": "2018-12-05 03:36:52",
@@ -95,22 +95,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
-      },
-      "artists": [
-        {
-          "name": "Mario Quintero",
-          "url": "https://open.spotify.com/artist/1em8XoX89lrjj8DLdiPswM"
-        }
-      ],
-      "duration_ms": 177815,
-      "name": "Nomas Contigo",
-      "url": "https://open.spotify.com/track/0iBQqqoq2Qa8EeM4NgNBP0"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Los \u00c9xitos de Mayte Gaos",
         "url": "https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 173560,
       "name": "Vete Con Ella (Chappel of Love)",
       "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
+      },
+      "artists": [
+        {
+          "name": "Mario Quintero",
+          "url": "https://open.spotify.com/artist/1em8XoX89lrjj8DLdiPswM"
+        }
+      ],
+      "duration_ms": 177815,
+      "name": "Nomas Contigo",
+      "url": "https://open.spotify.com/track/0iBQqqoq2Qa8EeM4NgNBP0"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -255,18 +255,18 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+        "name": "Como Lo Bailaron Tus Padres, Vol. 1",
+        "url": "https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu"
       },
       "artists": [
         {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/0wNONSo9o0XALusso60qwC"
         }
       ],
-      "duration_ms": 155533,
-      "name": "Corina, Corina",
-      "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
+      "duration_ms": 137376,
+      "name": "Anoche Me Enamore",
+      "url": "https://open.spotify.com/track/25bJytfRuK37ria60Tbnio"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -307,18 +307,18 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Como Lo Bailaron Tus Padres, Vol. 1",
-        "url": "https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu"
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
       },
       "artists": [
         {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/0wNONSo9o0XALusso60qwC"
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
         }
       ],
-      "duration_ms": 137376,
-      "name": "Anoche Me Enamore",
-      "url": "https://open.spotify.com/track/25bJytfRuK37ria60Tbnio"
+      "duration_ms": 155533,
+      "name": "Corina, Corina",
+      "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
     },
     {
       "added_at": "2018-12-05 03:36:52",

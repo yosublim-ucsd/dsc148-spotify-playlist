@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 458643,
+  "num_followers": 458711,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmIwNWY3NTVkMTdkMjA2MWY0ZjdiNGZkMmI4ZTliNWYzOGVjYmU3",
+  "snapshot_id": "MCw4NjNiM2E1MDkzMjIxNjhlZGE0OWU2NDgwZDVkYmJlNTc5ZDVmYTMz",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -487,18 +487,26 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+        "name": "Pero Qu\u00e9 Necesidad",
+        "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+      "duration_ms": 188394,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -535,26 +543,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Pero Qu\u00e9 Necesidad",
-        "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 188394,
-      "name": "Pero Qu\u00e9 Necesidad",
-      "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "Que Corran",
+      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -627,26 +643,6 @@
       "duration_ms": 183480,
       "name": "Mi Vida es un Tango",
       "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
-      },
-      "artists": [
-        {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 176747,
-      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -667,18 +663,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
         }
       ],
-      "duration_ms": 179720,
-      "name": "Que Corran",
-      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+      "duration_ms": 176747,
+      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "El T\u00fanel Del Amor",
-        "url": "https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 222514,
-      "name": "El T\u00fanel Del Amor",
-      "url": "https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "ADN (Cap\u00edtulo N)",
         "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 182233,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "El T\u00fanel Del Amor",
+        "url": "https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 222514,
+      "name": "El T\u00fanel Del Amor",
+      "url": "https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
-        "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "\"Sax\" Maldita Vecindad",
-          "url": "https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq"
-        }
-      ],
-      "duration_ms": 236930,
-      "name": "Pachuco - En Vivo en el Foro Sol - 17.11.17",
-      "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "El \u00c1tico",
         "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 205120,
       "name": "Se\u00f1orita a Mi Me Gusta Su Style",
       "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
+        "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "\"Sax\" Maldita Vecindad",
+          "url": "https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq"
+        }
+      ],
+      "duration_ms": 236930,
+      "name": "Pachuco - En Vivo en el Foro Sol - 17.11.17",
+      "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "No Volver\u00e1n",
-        "url": "https://open.spotify.com/album/1qMQAsGWkqhGfU2LTCIq6N"
-      },
-      "artists": [
-        {
-          "name": "Juantxo Skalari & La Rude Band",
-          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
-        }
-      ],
-      "duration_ms": 224528,
-      "name": "No Volver\u00e1n",
-      "url": "https://open.spotify.com/track/2jIHWczYdtSj28CIcs3e8v"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Chamuyo",
         "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
       },
@@ -1455,22 +1439,6 @@
       "duration_ms": 190580,
       "name": "Caras y Caretas",
       "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Que Se Joda el Amor",
-        "url": "https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Que Se Joda el Amor",
-      "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1491,18 +1459,34 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "5 A\u00f1os Con Sabor a 20",
-        "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
+        "name": "Que Se Joda el Amor",
+        "url": "https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt"
       },
       "artists": [
         {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
         }
       ],
-      "duration_ms": 137000,
-      "name": "La Ca\u00edda y la Gloria",
-      "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
+      "duration_ms": 151500,
+      "name": "Que Se Joda el Amor",
+      "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "No Volver\u00e1n",
+        "url": "https://open.spotify.com/album/1qMQAsGWkqhGfU2LTCIq6N"
+      },
+      "artists": [
+        {
+          "name": "Juantxo Skalari & La Rude Band",
+          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+        }
+      ],
+      "duration_ms": 224528,
+      "name": "No Volver\u00e1n",
+      "url": "https://open.spotify.com/track/2jIHWczYdtSj28CIcs3e8v"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 172811,
       "name": "A partir de ah\u00ed",
       "url": "https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "5 A\u00f1os Con Sabor a 20",
+        "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
+      },
+      "artists": [
+        {
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "La Ca\u00edda y la Gloria",
+      "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Mugre",
-        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Como es que no gozas",
         "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 169384,
       "name": "Como es que no gozas",
       "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Mugre",
+        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Pinche Amor",
-        "url": "https://open.spotify.com/album/2wDx2AxnZrQgPKqMjmj1h9"
-      },
-      "artists": [
-        {
-          "name": "Avenida La Cumbia",
-          "url": "https://open.spotify.com/artist/48KLh2tXyDosgG8hi18blg"
-        }
-      ],
-      "duration_ms": 176823,
-      "name": "Pinche Amor",
-      "url": "https://open.spotify.com/track/2jbwRjFEWL13nkoXx8oJBy"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Que Empiece Ya!",
         "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Pinche Amor",
+        "url": "https://open.spotify.com/album/2wDx2AxnZrQgPKqMjmj1h9"
+      },
+      "artists": [
+        {
+          "name": "Avenida La Cumbia",
+          "url": "https://open.spotify.com/artist/48KLh2tXyDosgG8hi18blg"
+        }
+      ],
+      "duration_ms": 176823,
+      "name": "Pinche Amor",
+      "url": "https://open.spotify.com/track/2jbwRjFEWL13nkoXx8oJBy"
     }
   ],
   "unique_name": "Ska Latino ",

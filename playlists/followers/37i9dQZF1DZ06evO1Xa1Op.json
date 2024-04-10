@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 19585,
+  "2024-04-10": 19587,
   "date_first_scraped": "2021-12-29",
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
   "name": "This Is Ali Farka Tour\u00e9",
@@ -933,6 +933,24 @@
       "duration_ms": 308213,
       "name": "Inchana Massina (feat. Nitin Sawhney) - 2017 Remastered Version",
       "url": "https://open.spotify.com/track/3wvU3SK6KD2m4y5eOEAGjR"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253226,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
     },
     {
       "album": {

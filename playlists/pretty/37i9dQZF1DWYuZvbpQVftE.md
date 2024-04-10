@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,789 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,814 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 32 | [Blue Steel](https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf) | [Shelly Manne and His Men](https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF) | [Son Of Gunn!!](https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq) | 4:49 |
 | 33 | [Isn't It Romantic](https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr) | [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Jimmy Raney Featuring Bob Brookmeyer](https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp) | 4:06 |
 | 34 | [Patti Cake](https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Nothing But The Blues](https://open.spotify.com/album/3looSg4zNUFzKAyyos640A) | 6:01 |
-| 35 | [Moon Over Cuba](https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Afro\-Cuban Influence](https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5) | 4:17 |
-| 36 | [We'll Be Together Again](https://open.spotify.com/track/137fcdXuWZk7xZcSZJvxsP) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/010vqUMlBInvb6mlI6OXUA) | 8:43 |
-| 37 | [The Wind](https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Chico Hamilton Quintet In Hi\-Fi](https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg) | 3:39 |
+| 35 | [The Wind](https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Chico Hamilton Quintet In Hi\-Fi](https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg) | 3:39 |
+| 36 | [Moon Over Cuba](https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Afro\-Cuban Influence](https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5) | 4:17 |
+| 37 | [We'll Be Together Again](https://open.spotify.com/track/137fcdXuWZk7xZcSZJvxsP) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/010vqUMlBInvb6mlI6OXUA) | 8:43 |
 | 38 | [Custard Puff](https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [The Poll Winners Ride Again!](https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT) | 4:49 |
 | 39 | [Easy Living](https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z) | [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Coop! The Music Of Bob Cooper](https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5) | 4:21 |
 | 40 | [The Quiet Time](https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 5:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 49 | [Resonant Emotions](https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA) | [Chet Baker and Art Pepper](https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU) | [Playboys](https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo) | 5:44 |
 | 50 | [Walkin' With Wally \- live](https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Monterey Concerts](https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t) | 10:05 |
 
-Snapshot ID: `MCw3ZjUzMjRmMTk4ZDUxZWQ5MzVkOWQ0Y2M0ZWNiYzQ5YWE3Y2RjODll`
+Snapshot ID: `MCw3MTcyMmIyMDEwNGU2NGYzYWJkZjA1Yzg0MDA3NmRmZDRlMmM3ZmY0`

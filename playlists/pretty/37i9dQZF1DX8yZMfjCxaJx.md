@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Los Plebes del Rancho, Juanpa Salazar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,141 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,211 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 58 | [El Mago](https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:57 |
 | 59 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/0js27m6Zy7oJDWfJ4f2hJ5) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/0xlaInOYofb0OkPiW9zDuJ) | 4:16 |
 | 60 | [Los Dos de Guerrero](https://open.spotify.com/track/3nWOT3lpdDpzNwA9nqY01v) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Los Dos de Guerrero](https://open.spotify.com/album/334ZGuyUYVu3bNXB2h6xAS) | 3:27 |
-| 61 | [El Ranchero](https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Ranchero](https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn) | 3:55 |
-| 62 | [De la Estancia a Cosala](https://open.spotify.com/track/510JTUuO196PonOM82hyLo) | [La Revancha RC](https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De la Estancia a Cosala](https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2) | 2:19 |
+| 61 | [De la Estancia a Cosala](https://open.spotify.com/track/510JTUuO196PonOM82hyLo) | [La Revancha RC](https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De la Estancia a Cosala](https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2) | 2:19 |
+| 62 | [El Ranchero](https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Ranchero](https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn) | 3:55 |
 | 63 | [En la Meza una Flor](https://open.spotify.com/track/6HNWy3KVc067j2aLqt3wp3) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [En la Meza una Flor](https://open.spotify.com/album/0zXKdGgyDm6gSdZiUPgagr) | 3:44 |
 | 64 | [Serafín](https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 3:09 |
 | 65 | [El Fulano](https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [El Fulano](https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 74 | [Táctico](https://open.spotify.com/track/6XIEuULRblmE0OINgI5dNC) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Táctico](https://open.spotify.com/album/0FvfpAJbIcL6nGve8NSd3m) | 3:13 |
 | 75 | [Jerry](https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Chica La Bola](https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ) | 3:02 |
 
-Snapshot ID: `MCw2ZDkzM2VjMzBhZmU4MjYxMzQ2YWMxMzZlY2Y2YjA4MjU0YzdlOGZk`
+Snapshot ID: `MCxhN2M3NjA4ODQ3NTM3YWU5OWNhNDk1NzkyMWVmZGViYzA1MDZkYzc4`

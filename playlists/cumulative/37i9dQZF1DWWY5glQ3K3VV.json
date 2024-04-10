@@ -2535,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
+    },
+    {
+      "album": {
         "name": "I Find It Hard",
         "url": "https://open.spotify.com/album/4qzkCfIM5aVj23w3BzKYC8"
       },
@@ -4616,7 +4634,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 172800,
       "name": "SPLASH (feat. Enzo Dong)",
       "url": "https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx"

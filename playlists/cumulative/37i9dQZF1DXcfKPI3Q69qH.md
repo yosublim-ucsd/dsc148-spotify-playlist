@@ -4,7 +4,7 @@
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-90 songs - 6 hr 8 min
+91 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Grrrl Like](https://open.spotify.com/track/3vq0YrXFXMGqyqiKwD4dAD) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [Kipo And The Age Of Wonderbeasts \(Season 1 Mixtape\)](https://open.spotify.com/album/6oQ3rNYTyUSh9xsPmPt0jE) | 2:53 | 2022-11-29 |  |
 | [Hamba](https://open.spotify.com/track/5a96cmxcwI9tdhLx7aWdsH) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Power](https://open.spotify.com/album/6dDz2SDdhnaeKTLoe0BRhH) | 4:24 | 2020-05-20 |  |
 | [Haney](https://open.spotify.com/track/3jh13yrfc1RttViUWOGSgY) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Myzol8r](https://open.spotify.com/artist/4aFzv5EhrQxP6E7itOY6Wv) | [C.T.T\. Presents: Volume 1](https://open.spotify.com/album/4zC2cHZLhduLwnJhy8vpBO) | 2:40 | 2022-11-29 |  |
-| [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 | 2022-11-29 |  |
+| [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1nfnagD6ai7JafEQHbK52G) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Torn Tapestries](https://open.spotify.com/album/0KVFqgwm8m7Ipt3TulyGjt) | 2:42 | 2022-11-29 |  |
+| [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 | 2022-11-29 | 2024-04-10 |
 | [Hennessy](https://open.spotify.com/track/3gM6ImMKFRITabN3qWbxQH) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [El Pantera \(The Return Of The Catalog\)](https://open.spotify.com/album/0MhroyACt0jTBhMZrsaRco) | 4:34 | 2020-05-20 |  |
 | [Hey Now](https://open.spotify.com/track/4dmNVUNfMvOCRjjAcEXrBF) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Manana](https://open.spotify.com/album/6hNY3e8hiNpWMdfTOBiJ9X) | 4:10 | 2020-05-20 |  |
 | [Home](https://open.spotify.com/track/2T5XjYmCcRNH91fS0Xjra7) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [Home](https://open.spotify.com/album/0MmOXXCQ141mITZfq9MC1R) | 3:38 | 2022-11-29 |  |

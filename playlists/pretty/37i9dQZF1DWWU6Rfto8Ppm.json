@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 3361891,
+  "num_followers": 3364616,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2YwMWI1MjBiZDc2NDQ3NTEwOTcyNTQ4ZDFmMTlmMDM4OGM4NTEw",
+  "snapshot_id": "MCwyZDVhZjMwYTJiMjgwNDlhZmJlZGJhZjdhMjMyMzI0YTYwNWMzMTk3",
   "tracks": [
     {
       "added_at": "2023-12-21 15:37:03",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Rompe La Discoteca",
-        "url": "https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R"
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
         }
       ],
-      "duration_ms": 206493,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E"
+      "duration_ms": 195573,
+      "name": "5 Letras",
+      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
+        "name": "Rompe La Discoteca",
+        "url": "https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R"
       },
       "artists": [
         {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 195573,
-      "name": "5 Letras",
-      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
+      "duration_ms": 206493,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
         "name": "Los Vaqueros Wild Wild Mixes",
         "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 234880,
       "name": "Me Pones en Tensi\u00f3n",
       "url": "https://open.spotify.com/track/5WVZfMIrS6hbvwG8hpRHCR"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
+        "name": "Reggaeton Viejo",
+        "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
+      },
+      "artists": [
+        {
+          "name": "La Secta",
+          "url": "https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW"
+        },
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
+        }
+      ],
+      "duration_ms": 245346,
+      "name": "La Locura Autom\u00e1tica - Reggaeton",
+      "url": "https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 242573,
       "name": "M\u00e9tele Saz\u00f3n",
       "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
-        "name": "Reggaeton Viejo",
-        "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
-      },
-      "artists": [
-        {
-          "name": "La Secta",
-          "url": "https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW"
-        },
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        }
-      ],
-      "duration_ms": 245346,
-      "name": "La Locura Autom\u00e1tica - Reggaeton",
-      "url": "https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
+        "name": "The King Of Dance",
+        "url": "https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Bailando por Ahi",
+      "url": "https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 219080,
       "name": "Culo",
       "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
-        "name": "The King Of Dance",
-        "url": "https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Bailando por Ahi",
-      "url": "https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
+        "name": "Los Benjamins - La Continuacion",
+        "url": "https://open.spotify.com/album/5IsjHngPrl7LI1001ZUjTM"
+      },
+      "artists": [
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "Welcome To My Crib",
+      "url": "https://open.spotify.com/track/3taCy6SW79HbVJotZc03gB"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 167026,
       "name": "Te la Tiro Pa Que Bailes",
       "url": "https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
-        "name": "Los Benjamins - La Continuacion",
-        "url": "https://open.spotify.com/album/5IsjHngPrl7LI1001ZUjTM"
-      },
-      "artists": [
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "Welcome To My Crib",
-      "url": "https://open.spotify.com/track/3taCy6SW79HbVJotZc03gB"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Te He Querido, Te He Llorado",
-      "url": "https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
         "name": "Los Superheroes",
         "url": "https://open.spotify.com/album/0TfHpRj8cscMuY7UM0eINm"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 237160,
       "name": "Cu\u00e1ndo, Cu\u00e1ndo Es?",
       "url": "https://open.spotify.com/track/4tjCNQ7aCL2Ou2rJlmrTpj"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Te He Querido, Te He Llorado",
+      "url": "https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
+        "name": "In Business",
+        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
         "name": "Los Mackieavelikos 2055",
         "url": "https://open.spotify.com/album/2nwNSk7AzHGh1Pul74uLD0"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 244507,
       "name": "Nada Va Pasar",
       "url": "https://open.spotify.com/track/33Idge1vAbeLUtpSJRPUXU"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
-        "name": "In Business",
-        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -3055,18 +3055,22 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Chica 10",
-        "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
+        "name": "Voltio",
+        "url": "https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ"
       },
       "artists": [
         {
-          "name": "Fusion Perreo",
-          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 229015,
-      "name": "Chica 10",
-      "url": "https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh"
+      "duration_ms": 204333,
+      "name": "Julito Mara\u00f1a",
+      "url": "https://open.spotify.com/track/7EgF5XXa4TZQT1HTpMRHNj"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -3087,22 +3091,18 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Voltio",
-        "url": "https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ"
+        "name": "Chica 10",
+        "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
       },
       "artists": [
         {
-          "name": "Voltio",
-          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Fusion Perreo",
+          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
         }
       ],
-      "duration_ms": 204333,
-      "name": "Julito Mara\u00f1a",
-      "url": "https://open.spotify.com/track/7EgF5XXa4TZQT1HTpMRHNj"
+      "duration_ms": 229015,
+      "name": "Chica 10",
+      "url": "https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -3179,22 +3179,6 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Sigue Bailando Mi Amor",
-        "url": "https://open.spotify.com/album/2MqCJi6VjXC2mYtnD219gr"
-      },
-      "artists": [
-        {
-          "name": "El Roockie",
-          "url": "https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Sigue Bailando Mi Amor",
-      "url": "https://open.spotify.com/track/0Ueebi9UrB6jtIcGYal2uM"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
         "name": "Ninfomana (feat. Nengo Flow)",
         "url": "https://open.spotify.com/album/6cwifuomODOBurapF0F4Jj"
       },
@@ -3211,6 +3195,22 @@
       "duration_ms": 197133,
       "name": "Ninfomana",
       "url": "https://open.spotify.com/track/7w48rYDSvkzSo3f56PMOPi"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "Sigue Bailando Mi Amor",
+        "url": "https://open.spotify.com/album/2MqCJi6VjXC2mYtnD219gr"
+      },
+      "artists": [
+        {
+          "name": "El Roockie",
+          "url": "https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Sigue Bailando Mi Amor",
+      "url": "https://open.spotify.com/track/0Ueebi9UrB6jtIcGYal2uM"
     },
     {
       "added_at": "2023-12-21 15:37:03",

@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169786,
+      "name": "Better Judgement",
+      "url": "https://open.spotify.com/track/0CjGCpqs4qBqZi7ibYyZLi"
+    },
+    {
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A"
       },

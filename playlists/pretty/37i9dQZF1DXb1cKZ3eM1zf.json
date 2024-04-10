@@ -1,12 +1,12 @@
 {
   "description": "Het beste van Pinkpop en een greep uit de line-up van 2024",
-  "num_followers": 49871,
+  "num_followers": 49872,
   "original_name": "Pinkpop Best of - 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODYzYzI5YWNmMzgyYmM1NTA4ZWIyMzNlNWNkMTEwN2NkMWJlOWI5",
+  "snapshot_id": "MCxkODgzNDRkYzcxZmJmOGNjNjNlOTc1Mjc4NjcxNjhjMWEwMDBkMjRm",
   "tracks": [
     {
       "added_at": "2024-02-12 13:45:08",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -899,34 +899,18 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -943,6 +927,22 @@
       "duration_ms": 232693,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Cage The Elephant (Expanded Edition)",
         "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 175493,
       "name": "Ain't No Rest for the Wicked",
       "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
+        "name": "Welcome To The Madhouse (Deluxe)",
+        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 331560,
       "name": "Enter Sandman (Remastered)",
       "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
-        "name": "Welcome To The Madhouse (Deluxe)",
-        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Welcome Interstate Managers",
         "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 197986,
       "name": "Stacy's Mom",
       "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Without You I'm Nothing",
-        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Every You Every Me",
-      "url": "https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "You Gotta Go There To Come Back",
         "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 272946,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Without You I'm Nothing",
+        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Every You Every Me",
+      "url": "https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 289453,
-      "name": "Alive And Kicking",
-      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Von hier an blind",
         "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
       },
@@ -2351,18 +2335,18 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
       "artists": [
         {
-          "name": "The Presidents Of The United States Of America",
-          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
         }
       ],
-      "duration_ms": 171693,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1"
+      "duration_ms": 289453,
+      "name": "Alive And Kicking",
+      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -2383,18 +2367,18 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
         }
       ],
-      "duration_ms": 298920,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
+      "duration_ms": 171693,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -2431,6 +2415,22 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
         "name": "Comfort Eagle",
         "url": "https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj"
       },
@@ -2463,18 +2463,18 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
+        "name": "Angel Dust (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
         }
       ],
-      "duration_ms": 290493,
-      "name": "Hey Boy Hey Girl",
-      "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
     }
   ],
   "unique_name": "Pinkpop Best of - 2024",

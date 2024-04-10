@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,459 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,472 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 44 | [Someway Somehow](https://open.spotify.com/track/480qefaDykyATTF4NGPtFb) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Someway Somehow](https://open.spotify.com/album/4GKSES7C3yzMLHiI1ETfSl) | 3:32 |
 | 45 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 |
 | 46 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 |
-| 47 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
-| 48 | [Inconsequente](https://open.spotify.com/track/0SYzDDMpHG1rqlzccSo6gH) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [Espelho](https://open.spotify.com/album/0mr29hP4Qls88f2ImXd3s6) | 3:22 |
+| 47 | [Inconsequente](https://open.spotify.com/track/0SYzDDMpHG1rqlzccSo6gH) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [Espelho](https://open.spotify.com/album/0mr29hP4Qls88f2ImXd3s6) | 3:22 |
+| 48 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
 | 49 | [Playlist Transante](https://open.spotify.com/track/2qCps28vIziXwOKmici1g7) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Playlist Transante](https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS) | 3:17 |
 | 50 | [Noite de Verão](https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Noite de Verão](https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd) | 4:13 |
 | 51 | [Luzes Apagadas](https://open.spotify.com/track/2mhI8Js7ZkMVwsQif3R5wZ) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Baficca](https://open.spotify.com/artist/589OLUilByLppoNWT0Xrvy) | [Luzes Apagadas](https://open.spotify.com/album/4wFOxzqJLIlt6x6P1zNaSH) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 59 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 |
 | 60 | [Apelação](https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Chibatinha](https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt) | [Apelação](https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v) | 2:17 |
 
-Snapshot ID: `MCw4MzdhNjI5YWU1MTQxNGJlOGY0OTcyMWNhNzdjYzZhM2FjMGZkOTkz`
+Snapshot ID: `MCw0ZjA0Zjk2ZWFkOGVkY2U1NTE1OTE0MjZmYWViYmZmMmQ0Yjg5MmJi`

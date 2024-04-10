@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,515 likes - 82 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,665 likes - 82 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 43 | [Pretend](https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 2:44 |
 | 44 | [Chances Are \(with Ray Conniff & His Orchestra\)](https://open.spotify.com/track/6sAcECONsANle5n0rnP2at) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Johnny's Greatest Hits](https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1) | 3:02 |
 | 45 | [A Teenager's Romance](https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:20 |
-| 46 | [Tennessee Waltz](https://open.spotify.com/track/4W0sbtVR0pqOo2d7qAHhGr) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Tennessee Waltz](https://open.spotify.com/album/6CNDRQpQTv47XJR9CMXdOb) | 3:01 |
-| 47 | [Why Do I Love You So](https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:07 |
+| 46 | [Why Do I Love You So](https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:07 |
+| 47 | [Tennessee Waltz](https://open.spotify.com/track/4W0sbtVR0pqOo2d7qAHhGr) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Tennessee Waltz](https://open.spotify.com/album/6CNDRQpQTv47XJR9CMXdOb) | 3:01 |
 | 48 | [Just Walkin' in the Rain](https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:37 |
 | 49 | [Mr\. Blue](https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:25 |
 | 50 | [Goodnight, Sweetheart, Goodnight](https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Presenting the Spaniels](https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2) | 2:40 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 81 | [Red Sails In The Sunset](https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:17 |
 | 82 | [Prisoner Of Love](https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 3:04 |
 
-Snapshot ID: `MCwxNjgwODkxMmM0YzUxOWZiMTkyNTkzMjIwMzc3MDVhMDg3NjM2OGE4`
+Snapshot ID: `MCxiM2Y2YTg3YThmZmIwMTYyOTFmNDZjYTZmYjlhN2EzMDhiYTU5MDVm`

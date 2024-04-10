@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 11383,
+  "2024-04-10": 11390,
   "date_first_scraped": "2022-05-30",
   "description": "Party blues tunes. Cover: Joe Louis Walker",
   "name": "Blues Party",
@@ -159,6 +159,24 @@
       "duration_ms": 288282,
       "name": "Blues Party",
       "url": "https://open.spotify.com/track/3o6j1UHNrch5Xigvyn3jZA"
+    },
+    {
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288282,
+      "name": "Blues Party",
+      "url": "https://open.spotify.com/track/5CHMY9NB9xTsPOmvAyCYEj"
     },
     {
       "album": {
@@ -507,7 +525,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 275226,
       "name": "Let The Good Time Party Begin",
       "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"

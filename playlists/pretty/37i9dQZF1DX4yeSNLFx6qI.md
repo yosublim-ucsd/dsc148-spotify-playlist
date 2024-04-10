@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,702,962 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703,029 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 49 | [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 |
 | 50 | [Primer Avión](https://open.spotify.com/track/7uQ9KzntzNaenXNb7JCrwH) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:03 |
 | 51 | [Yo No Merezco Volver](https://open.spotify.com/track/1uFl33ahAD59XrccuSxpkz) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:40 |
-| 52 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 |
-| 53 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 |
+| 52 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 |
+| 53 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 |
 | 54 | [Falta Amor](https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Falta Amor](https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m) | 3:23 |
 | 55 | [Inalcanzable](https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Empezar Desde Cero](https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ) | 4:14 |
 | 56 | [Te Hubieras Ido Antes](https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 3:19 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 74 | [Recuerdo](https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [PAUSA](https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R) | 3:52 |
 | 75 | [Devuélveme El Corazón](https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Devuélveme El Corazón](https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d) | 4:04 |
 | 76 | [¿Qué Vas a Hacer?](https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:44 |
-| 77 | [Me Enseñaste](https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:41 |
-| 78 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 |
-| 79 | [Negar](https://open.spotify.com/track/0iCjrGqW2akkM2c8zimBaF) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 3:19 |
+| 77 | [Negar](https://open.spotify.com/track/0iCjrGqW2akkM2c8zimBaF) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 3:19 |
+| 78 | [Me Enseñaste](https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:41 |
+| 79 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 |
 | 80 | [Te echo de menos](https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te echo de menos](https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj) | 3:14 |
 | 81 | [Si hubieras querido](https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si hubieras querido](https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt) | 3:41 |
 | 82 | [Extraños de Nuevo](https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Extraños de Nuevo](https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Devuelveme la Vida \(with Antonio Orozco\)](https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Otra Piel](https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ) | 4:06 |
 | 100 | [Aún me amas](https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Aún me amas](https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw) | 3:40 |
 
-Snapshot ID: `MCw5MDhmNGI3MWIzNjcxZDkyYTliMjAxMDE5NzdkZjU4Nzg3NWNmNWMz`
+Snapshot ID: `MCxkNDU1N2M3ZTQzYjdjMjBlNTQ3OWQ1NjAxMmUxZDExZDZkYmExODVk`

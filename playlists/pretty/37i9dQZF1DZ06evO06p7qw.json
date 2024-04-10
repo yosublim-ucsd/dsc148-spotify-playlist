@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 141887,
+  "num_followers": 141981,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjNkNDY0MGQ3YTQ1N2QzZWI4YWI4NjM4NjRiMDk3NGIzNDEzZGQ3",
+  "snapshot_id": "MCwyNzRiN2U0NjM4Nzg2ZDNmYzk4ZjBhZTY3YzNmNDM5MzViY2UwOGUw",
   "tracks": [
     {
       "added_at": null,
@@ -135,18 +135,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
+        "name": "Munay",
+        "url": "https://open.spotify.com/album/0FgVN5QSvcQFhPtaAMVDpG"
       },
       "artists": [
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 195970,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
+      "duration_ms": 235611,
+      "name": "Complicidad (feat. Manuel Medrano)",
+      "url": "https://open.spotify.com/track/6lah9kMrDgQDcPLgmJfRdG"
     },
     {
       "added_at": null,
@@ -167,22 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Munay",
-        "url": "https://open.spotify.com/album/0FgVN5QSvcQFhPtaAMVDpG"
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
       },
       "artists": [
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
-        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 235611,
-      "name": "Complicidad (feat. Manuel Medrano)",
-      "url": "https://open.spotify.com/track/6lah9kMrDgQDcPLgmJfRdG"
+      "duration_ms": 195970,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
     },
     {
       "added_at": null,

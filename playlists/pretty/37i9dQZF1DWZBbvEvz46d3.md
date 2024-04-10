@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,896 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,915 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
 | 75 | [Absolutnie, absolutnie](https://open.spotify.com/track/1iB862flnPp3q65orvSfkK) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Miłość](https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ) | 3:59 |
 
-Snapshot ID: `MCwxZGExOTM0YzlkYmZhMGMwNDhkZjM2ZWNhMTEwMzhhNzEzZWNhYzkz`
+Snapshot ID: `MCw3OGJmZWU2YjFjNTQ5ZDEyZWI1YjE3MWU0N2MyNzMwYmQyNjA0MGE2`

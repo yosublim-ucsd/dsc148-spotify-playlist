@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Empress Of
 
-1,814 songs - 3 day 23 hr 36 min
+1,817 songs - 3 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [California](https://open.spotify.com/track/3bwmdeu8SFFPyvyZ7ekshz) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [California](https://open.spotify.com/album/2S7UGA5rk8XmxqKMBQgup2) | 3:18 | 2020-10-20 | 2020-10-21 |
 | [California](https://open.spotify.com/track/2nBKc6tiMagmwJR8P6bXqs) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0QVGIcTbPFeiArrgwRKKtG) | 4:08 | 2021-10-10 | 2021-10-12 |
 | [Californian Soil](https://open.spotify.com/track/5hR2CzTCqkuKRWFkphBS9M) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/6zhcaCk0zcQ7I5jpIg7nYg) | 3:41 | 2020-10-13\* | 2021-05-27 |
+| [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-04-09 |  |
 | [Call You Right Now](https://open.spotify.com/track/1im6o9QxFA9raDV5D1RUV6) | [JWestern](https://open.spotify.com/artist/3Hj7VnvhMqphE4MF9oBzkG) | [Call You Right Now](https://open.spotify.com/album/13W6NZY00onLgaDrDYiI56) | 3:03 | 2020-10-13\* | 2021-10-14 |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-04-05 |  |
 | [Calls](https://open.spotify.com/track/5RzEyrxL09e1D80CXHmFAx) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Calls](https://open.spotify.com/album/2LNjaaGyhhMomXZOzqGgTw) | 2:51 | 2021-05-10 | 2021-06-02 |
@@ -489,6 +490,7 @@
 | [DUI](https://open.spotify.com/track/585BK4XWLggY2wCeO6dG1U) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [DUI](https://open.spotify.com/album/0s9urnWu1OkCcYEDpV03ig) | 2:58 | 2021-03-01 | 2021-05-26 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-08-27 | 2022-01-21 |
 | [Dumb Girl](https://open.spotify.com/track/1ncVpMTDUXN0kaJWncRg7t) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [Dumb Girl](https://open.spotify.com/album/4Pv5X3rCv3ymnyIgKKwzmo) | 3:01 | 2021-05-13 | 2021-10-16 |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 |  |
 | [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 | 2024-03-02 |
 | [ease your mind](https://open.spotify.com/track/4VA9yqBTQjjAZL4fQhlK9M) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [ease your mind](https://open.spotify.com/album/4wYxQMGyGCQn4L9i9MjxCR) | 2:52 | 2020-10-20 | 2020-10-21 |
 | [Easier To Lie](https://open.spotify.com/track/2oTYHOVAq3HcHvwb3a9L1j) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Easier To Lie](https://open.spotify.com/album/7fJTu9UzXo6UqAeZw8NIHP) | 2:38 | 2021-01-25 | 2021-10-09 |
@@ -624,7 +626,7 @@
 | [Girls \- Single Edit](https://open.spotify.com/track/2LwNOv9B1vItliaWMctLTV) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Girls](https://open.spotify.com/album/78WCWfiENQYykDoDGNoeJQ) | 3:20 | 2022-04-08 | 2022-04-21 |
 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 | 2024-01-12 | 2024-03-27 |
 | [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 | 2023-03-31 | 2024-01-13 |
-| [Give It Up For Love](https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 2:55 | 2024-03-22 |  |
+| [Give It Up For Love](https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 2:55 | 2024-03-22 | 2024-04-10 |
 | [Give Mama A Hug](https://open.spotify.com/track/7IT55sjogSasYp8PVcS4n3) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Give Mama A Hug](https://open.spotify.com/album/0Got69C44jINtFiu9cNvBy) | 2:53 | 2024-02-09 | 2024-02-17 |
 | [Glass Ceiling](https://open.spotify.com/track/74KhpMF3TuwzanrFXwfsZj) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Sonder](https://open.spotify.com/album/0s99qJjgAT5jyqpFQnFLMh) | 3:04 | 2021-09-24 | 2022-04-20 |
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2021-02-13 | 2022-08-27 |
@@ -1351,7 +1353,7 @@
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2023-01-24 |
 | [Rumors](https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5) | [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Rumors](https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt) | 3:22 | 2023-11-06 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-08 |  |
-| [Running](https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Running](https://open.spotify.com/album/2Z9njMZGVcXYxjmKDEujzW) | 3:09 | 2024-02-27 |  |
+| [Running](https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Running](https://open.spotify.com/album/2Z9njMZGVcXYxjmKDEujzW) | 3:09 | 2024-02-27 | 2024-04-10 |
 | [Running](https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Running](https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b) | 3:37 | 2024-02-09 | 2024-02-29 |
 | [Running Around](https://open.spotify.com/track/6Tc9wBnQxETvqUCUZzCf6k) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Running Around](https://open.spotify.com/album/4fRGzIYX6Oeagpi13HKagP) | 3:16 | 2020-10-16 | 2020-10-23 |
 | [running back](https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe) | 1:52 | 2022-01-28 | 2022-07-02 |
@@ -1570,7 +1572,7 @@
 | [Surreal](https://open.spotify.com/track/6RRlA5SD0HgVVFtzaEIu7k) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/0OiP7DFcv3L9ERkVz4HyeF) | 3:06 | 2020-10-13\* | 2020-10-16 |
 | [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 | 2023-01-23 | 2023-03-12 |
 | [Sweatshirt](https://open.spotify.com/track/7G8r6LUWl9JVvQjlFyg1gq) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Sweatshirt](https://open.spotify.com/album/4Hpz6r8vf6XBZesSWG20A2) | 3:16 | 2020-10-20 | 2020-10-21 |
-| [Sweet N Low](https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Sweet N Low](https://open.spotify.com/album/7e0ZCDgmeakv4Fqz1tIq1G) | 2:59 | 2024-01-12 |  |
+| [Sweet N Low](https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Sweet N Low](https://open.spotify.com/album/7e0ZCDgmeakv4Fqz1tIq1G) | 2:59 | 2024-01-12 | 2024-04-10 |
 | [sweeter than drugs](https://open.spotify.com/track/6hPIwV7Cs1zVNaWVJZCWoH) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [sweeter than drugs](https://open.spotify.com/album/4farqEcbjG87qRN7WIg5Iw) | 2:48 | 2024-01-12 | 2024-02-03 |
 | [Swing of Things](https://open.spotify.com/track/3RdeNliZsyeL5oph6uvULC) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Swing of Things](https://open.spotify.com/album/33F6zJv4F7A4WfvxmyDdnN) | 2:58 | 2021-06-02 | 2022-04-16 |
 | [Switch](https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Switch](https://open.spotify.com/album/0izNh5tYrA859V9FzAEgvI) | 2:21 | 2021-02-24 | 2021-02-25 |
@@ -1697,6 +1699,7 @@
 | [UNITED GIRLS ROCK'N'ROLL CLUB](https://open.spotify.com/track/7oVDQPi77CXAlWpHxrsnPb) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [UNITED GIRLS ROCK'N'ROLL CLUB](https://open.spotify.com/album/65zPNLrqrf0G0wrItBaYKR) | 2:56 | 2020-11-05 | 2021-05-25 |
 | [Ur Ex From College](https://open.spotify.com/track/2kuijEYY7xfw8TlQOQfe9u) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [Ur Ex From College](https://open.spotify.com/album/2YiB8Ph7rwsg0z87tNgQA5) | 2:46 | 2021-01-15 | 2021-02-27 |
 | [USMO](https://open.spotify.com/track/1hblRUhOt2Yi618eAJGGiK) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [USMO](https://open.spotify.com/album/0dM6Nusk6TGd5X8DbHBQuF) | 2:33 | 2021-02-09 | 2021-06-03 |
+| [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 | 2024-04-05 |  |
 | [Valleyheart](https://open.spotify.com/track/3ebeGj7ac0mMlO5PhFK80L) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Valleyheart](https://open.spotify.com/album/42sitHkcawmZVLe2Kt45xK) | 2:28 | 2021-03-07 | 2021-08-11 |
 | [victim of nostalgia](https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [victim of nostalgia](https://open.spotify.com/album/1q368d6nMTceCEkSYdIqHl) | 2:36 | 2022-04-29 | 2022-05-21 |
 | [Victoria](https://open.spotify.com/track/4X8JkeMSFFiVpWqIpS6ajC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Victoria](https://open.spotify.com/album/36YM5gHJmJ415NomqukOME) | 3:18 | 2022-03-18 | 2022-04-20 |

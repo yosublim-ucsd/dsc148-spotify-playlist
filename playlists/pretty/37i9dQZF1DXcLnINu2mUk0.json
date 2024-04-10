@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego e Loony Johnson.",
-  "num_followers": 44943,
+  "num_followers": 44963,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTIyOWRlNzgzNDcwNDMyOTNkOGY1Y2FjYWZkMjk4NTA5MzljYmY0",
+  "snapshot_id": "MCw1NWY5YzQ1NTU0YzJiYjgwZThiNzA0OTBhY2E2NmEwOTkxNTRlMTVj",
   "tracks": [
     {
       "added_at": "2024-04-05 00:00:00",
@@ -167,22 +167,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Solteiros",
-        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
       },
       "artists": [
         {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 179023,
-      "name": "Solteiros",
-      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -275,18 +271,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
+        "name": "Solteiros",
+        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
       },
       "artists": [
         {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
+      "duration_ms": 179023,
+      "name": "Solteiros",
+      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Juro",
+        "url": "https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP"
+      },
+      "artists": [
+        {
+          "name": "Neko\u2019Rs",
+          "url": "https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee"
+        }
+      ],
+      "duration_ms": 211324,
+      "name": "Juro",
+      "url": "https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Filme",
         "url": "https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 198857,
       "name": "Filme",
       "url": "https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Juro",
-        "url": "https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP"
-      },
-      "artists": [
-        {
-          "name": "Neko\u2019Rs",
-          "url": "https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee"
-        }
-      ],
-      "duration_ms": 211324,
-      "name": "Juro",
-      "url": "https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1087,58 +1087,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Vistas",
-        "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
-      },
-      "artists": [
-        {
-          "name": "Ary Rafeiro",
-          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
-        },
-        {
-          "name": "Murta",
-          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Vistas",
-      "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "love fora de stock",
-        "url": "https://open.spotify.com/album/3NW26Phdu93L9Jo4oWeClv"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 180762,
-      "name": "love fora de stock",
-      "url": "https://open.spotify.com/track/6Z1kJFolqUG6pVksvXl8jc"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW"
-      },
-      "artists": [
-        {
-          "name": "BCKappa",
-          "url": "https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi"
-        }
-      ],
-      "duration_ms": 160957,
-      "name": "N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Orgulho",
         "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
       },
@@ -1159,6 +1107,58 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "love fora de stock",
+        "url": "https://open.spotify.com/album/3NW26Phdu93L9Jo4oWeClv"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "duration_ms": 180762,
+      "name": "love fora de stock",
+      "url": "https://open.spotify.com/track/6Z1kJFolqUG6pVksvXl8jc"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Vistas",
+        "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
+      },
+      "artists": [
+        {
+          "name": "Ary Rafeiro",
+          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
+        },
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Vistas",
+      "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW"
+      },
+      "artists": [
+        {
+          "name": "BCKappa",
+          "url": "https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi"
+        }
+      ],
+      "duration_ms": 160957,
+      "name": "N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Neblina",
         "url": "https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "CINTIA",
-        "url": "https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl"
-      },
-      "artists": [
-        {
-          "name": "Cozzy 2x",
-          "url": "https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM"
-        }
-      ],
-      "duration_ms": 169376,
-      "name": "CINTIA",
-      "url": "https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "osciLAR",
         "url": "https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 245083,
       "name": "osciLAR",
       "url": "https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "CINTIA",
+        "url": "https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl"
+      },
+      "artists": [
+        {
+          "name": "Cozzy 2x",
+          "url": "https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM"
+        }
+      ],
+      "duration_ms": 169376,
+      "name": "CINTIA",
+      "url": "https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Encandeia",
+        "url": "https://open.spotify.com/album/07OqndgTNxflsvwnZFoPV8"
+      },
+      "artists": [
+        {
+          "name": "INFANTE",
+          "url": "https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv"
+        }
+      ],
+      "duration_ms": 226363,
+      "name": "Encandeia",
+      "url": "https://open.spotify.com/track/5QXceEFUvXtjPiUDTudvii"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Tou Leve",
         "url": "https://open.spotify.com/album/7ADO9SCOdrefjh2EB2f8od"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 182437,
       "name": "Tou Leve",
       "url": "https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "louCura",
-        "url": "https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev"
-      },
-      "artists": [
-        {
-          "name": "CHEWIE",
-          "url": "https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR"
-        }
-      ],
-      "duration_ms": 206553,
-      "name": "Cores",
-      "url": "https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Encandeia",
-        "url": "https://open.spotify.com/album/07OqndgTNxflsvwnZFoPV8"
+        "name": "louCura",
+        "url": "https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev"
       },
       "artists": [
         {
-          "name": "INFANTE",
-          "url": "https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv"
+          "name": "CHEWIE",
+          "url": "https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR"
         }
       ],
-      "duration_ms": 226363,
-      "name": "Encandeia",
-      "url": "https://open.spotify.com/track/5QXceEFUvXtjPiUDTudvii"
+      "duration_ms": 206553,
+      "name": "Cores",
+      "url": "https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr"
     }
   ],
   "unique_name": "Seda",

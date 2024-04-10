@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover:  Gyakie
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,824 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,059 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 50 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 51 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 |
 | 52 | [Jonzing Boy](https://open.spotify.com/track/5ksKJ5a1iawwfoCxWtImP9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 3:05 |
-| 53 | [Oh My](https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Oh My](https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1) | 3:02 |
-| 54 | [Lowkey!](https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Lowkey!](https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA) | 3:33 |
+| 53 | [Lowkey!](https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Lowkey!](https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA) | 3:33 |
+| 54 | [Oh My](https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Oh My](https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1) | 3:02 |
 | 55 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
 | 56 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 |
 | 57 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 69 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
 | 70 | [Down](https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Down](https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY) | 2:42 |
 
-Snapshot ID: `MCw4MGNjMDQxZjBkYzRkMTBiYTFkNDE2NzM5MTEwODlhYWZkMDY3MzNk`
+Snapshot ID: `MCwyMTViMDEwOTAyMjU0MzJmYmYyZGRjZGEyYjYyMzJjMTMzNjk1NThm`

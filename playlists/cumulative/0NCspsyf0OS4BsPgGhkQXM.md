@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,047 songs - 2 day 6 hr 41 min
+1,049 songs - 2 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Hurricane](https://open.spotify.com/track/5LQKxgiin9UDvg8GUaRXXu) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Talia Rose](https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T) | [Hurricane](https://open.spotify.com/album/7nlCJDlqUxqV8opm2WNfbx) | 3:12 | 2023-05-12 | 2023-10-28 |
 | [Hurt](https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Misdom](https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt) | [Hurt](https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7) | 4:15 | 2022-09-28 | 2023-02-22 |
 | [Hush](https://open.spotify.com/track/0BsBMY4J2gpCNzBz2Djd4O) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [L3ss](https://open.spotify.com/artist/47UvONhA4idcz08XOh16q1), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Hush](https://open.spotify.com/album/5KwrQ9rZC4LDkqwtT8d9MJ) | 2:28 | 2023-10-13 | 2023-11-10 |
+| [Hypnotized](https://open.spotify.com/track/5WO7yqMKakL5DBE7TR0xLL) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [SlidV](https://open.spotify.com/artist/6UYUBOw0pUtH0cBNBYWubY) | [Hypnotized](https://open.spotify.com/album/3KBVXBO7pwOt1ipbsXzFqY) | 2:00 | 2024-04-09 |  |
 | [Hysteria](https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Hysteria](https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE) | 3:49 | 2022-02-03 | 2022-09-15 |
 | [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 | 2023-12-01 |  |
 | [I Believed](https://open.spotify.com/track/7MzJbnZMmgiQh2TqcBP4MQ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Nina Sung](https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 3:44 | 2022-06-24 | 2022-07-29 |
@@ -1035,6 +1036,7 @@
 | [Worth It \- if found Remix](https://open.spotify.com/track/1BXqJQ8A3RylGQFuR4nR9L) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Pieces \(Remixes\)](https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9) | 4:12 | 2022-07-01 | 2022-09-15 |
 | [Would U](https://open.spotify.com/track/7o1ulcm2H97iqMMZo8gYY0) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Would U](https://open.spotify.com/album/1HF7ZHo81mkE9mah9y19xl) | 2:35 | 2022-03-25 | 2022-09-15 |
 | [WRAITHS](https://open.spotify.com/track/1UE4tesz9vNWaX5Y0NsmZY) | [sapphyre](https://open.spotify.com/artist/5nqa17OYrgbn9JX5ra4EgS) | [WRAITHS](https://open.spotify.com/album/3fqOT4Wm7yECHTzPEvKtN3) | 2:35 | 2023-10-27 | 2023-12-09 |
+| [x64](https://open.spotify.com/track/7ctc71EmaCvC4fP6524f4T) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0) | [x64](https://open.spotify.com/album/06MKtPow9XGQ90Cdeu01t1) | 1:25 | 2024-04-09 |  |
 | [Xenogenesis](https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Xenogenesis](https://open.spotify.com/album/07ej3OfHDl0ppyUrK7bTUF) | 3:53 | 2022-08-23 |  |
 | [XO Tour Llif3](https://open.spotify.com/track/7mBXbW1sDFjhAgvDcSp0MD) | [Dyzphoria](https://open.spotify.com/artist/6SehYBqIfg08SBrc7Ydreg) | [XO Tour Llif3](https://open.spotify.com/album/28dINuwG3JE6RPxTkbZ2Q7) | 3:07 | 2022-09-09 | 2022-10-08 |
 | [Yeah!](https://open.spotify.com/track/1L9Ap8KcIC7oiwVISVW4If) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Tommy Rage](https://open.spotify.com/artist/4o5B573iIdWZIcoObwx11j), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Yeah!](https://open.spotify.com/album/016KUKMAlAj8UifThxO0aK) | 3:10 | 2022-03-25 | 2022-04-30 |

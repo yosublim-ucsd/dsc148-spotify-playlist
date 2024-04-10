@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 350274,
       "name": "A Boa Parte - Ao Vivo",
       "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 156150,
       "name": "Amor Na Praia",
       "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
@@ -10194,7 +10194,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
@@ -11715,6 +11715,36 @@
     },
     {
       "album": {
+        "name": "Todo Mundo Odeia o IG",
+        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Deus, Por favor",
+      "url": "https://open.spotify.com/track/2329XxRFYoAPdQSb4DmjXQ"
+    },
+    {
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -12454,7 +12484,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 189440,
       "name": "Dois Tristes - Ao Vivo",
       "url": "https://open.spotify.com/track/6cFW2FPaUL4YRJfS9zFJaV"
@@ -12610,6 +12640,32 @@
       "duration_ms": 214613,
       "name": "Dos Oruguitas",
       "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+    },
+    {
+      "album": {
+        "name": "Double Team",
+        "url": "https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231628,
+      "name": "Double Team",
+      "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
     },
     {
       "album": {
@@ -13562,7 +13618,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 146666,
       "name": "ELAS GOSTAM DE BAILE DE MARGINAL",
       "url": "https://open.spotify.com/track/65aZGVuDSF6nNIgltEflqj"
@@ -19659,6 +19715,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "3x3",
         "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
       },
@@ -21057,6 +21131,24 @@
     },
     {
       "album": {
+        "name": "Juro Que Eu N\u00e3o Gosto De Chorar",
+        "url": "https://open.spotify.com/album/06bwVf2Xtqe9sbSMViSJUy"
+      },
+      "artists": [
+        {
+          "name": "Oruam99",
+          "url": "https://open.spotify.com/artist/4mKXXatT00xIhrXzNKcgpx"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160171,
+      "name": "Juro Que Eu N\u00e3o Gosto De Chorar",
+      "url": "https://open.spotify.com/track/6UfJyzZObbo8bREe1mS6z4"
+    },
+    {
+      "album": {
         "name": "Just H-eaven",
         "url": "https://open.spotify.com/album/2MA9bD8EoPjl2SqT3Q8V3W"
       },
@@ -21674,7 +21766,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 297794,
       "name": "Lady Killers II - Christoph Andersson Remix",
       "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
@@ -22389,6 +22481,32 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
@@ -22652,7 +22770,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -23452,7 +23570,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
@@ -23500,6 +23618,24 @@
       "duration_ms": 237818,
       "name": "MADRUGADA MALDITA",
       "url": "https://open.spotify.com/track/1MMnxMeoOQLN8HcQMxv2AD"
+    },
+    {
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
       "album": {
@@ -25079,6 +25215,24 @@
     },
     {
       "album": {
+        "name": "Medley 1000% - Interestelar/Bom Dia Princesa",
+        "url": "https://open.spotify.com/album/3iDeIDkhmnm7WjnMQ0zoEZ"
+      },
+      "artists": [
+        {
+          "name": "Canal Do Hit",
+          "url": "https://open.spotify.com/artist/3H6OH7RAewpltqfllptffV"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181704,
+      "name": "Medley 1000% - Interestelar/Bom Dia Princesa",
+      "url": "https://open.spotify.com/track/09U8Jt11cAUuINFp8AxpdO"
+    },
+    {
+      "album": {
         "name": "MEDLEY EM CIMA DA LAJE N\u00d3S MONITORA",
         "url": "https://open.spotify.com/album/7tGo3g5FG9NRtcDwiUyKtU"
       },
@@ -25868,6 +26022,44 @@
       "duration_ms": 229326,
       "name": "Melhor S\u00f3",
       "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
+    },
+    {
+      "album": {
+        "name": "Melhor Vibe",
+        "url": "https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341408,
+      "name": "Melhor Vibe",
+      "url": "https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj"
     },
     {
       "album": {
@@ -30747,6 +30939,24 @@
     },
     {
       "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170541,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
+    },
+    {
+      "album": {
         "name": "Oh Lula Eu Vou Votar em Tu",
         "url": "https://open.spotify.com/album/7LDbGwAgJnhcb34UB1SAPZ"
       },
@@ -31776,7 +31986,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 722305,
       "name": "Pagodeiro, Pt. 2",
       "url": "https://open.spotify.com/track/6lVO4RRaF6PZCo9ClhXy0A"
@@ -35084,7 +35294,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 153429,
       "name": "Qual \u00e9 seu desejo?",
       "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
@@ -37519,6 +37729,24 @@
     },
     {
       "album": {
+        "name": "Se Hoje Me Toca (Live Session)",
+        "url": "https://open.spotify.com/album/5JvtP8XhW2bLGPNxc8aku3"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jr",
+          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 557055,
+      "name": "Se Hoje Me Toca - Session",
+      "url": "https://open.spotify.com/track/3Ms2cDKey3c9lBanb6eF3s"
+    },
+    {
+      "album": {
         "name": "Forr\u00f3 Popular Brasileiro",
         "url": "https://open.spotify.com/album/6MsffZF2mH6grwwBvGpQmE"
       },
@@ -39260,7 +39488,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -39456,6 +39684,24 @@
       "duration_ms": 135902,
       "name": "SNAP - High and Fast",
       "url": "https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC"
+    },
+    {
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "so american",
+      "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
     },
     {
       "album": {
@@ -42981,6 +43227,24 @@
     },
     {
       "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
         "name": "Torre Eiffel (Ao Vivo)",
         "url": "https://open.spotify.com/album/0bqJ8OprnMh9bSwEWmrvh4"
       },
@@ -44480,7 +44744,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -44502,7 +44766,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 136968,
       "name": "UP!",
       "url": "https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"
@@ -47710,6 +47974,36 @@
       "duration_ms": 271158,
       "name": "\u00c9 Isso Ai BB Ta Certa",
       "url": "https://open.spotify.com/track/5FuE8tczAZcN17KsHqa8rU"
+    },
+    {
+      "album": {
+        "name": "Todo Mundo Odeia o IG",
+        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271058,
+      "name": "\u00c9 Isso Beb\u00ea, T\u00e1 Certa!",
+      "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"
     },
     {
       "album": {

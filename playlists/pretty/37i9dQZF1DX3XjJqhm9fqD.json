@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 86489,
+  "num_followers": 86529,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzU4MmI2MWRkZDg3ZDUxZTk2YzY2NTI4NzI3MWYyZmJmZDIwY2Qx",
+  "snapshot_id": "MCwyZTBjMWJhMmZiMTIxNDU4NjlhNDA2ZWUxNTFkNmRiZTBhOGE3OTk0",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Ti Kabrit",
+        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 161717,
+      "name": "Ti Kabrit",
+      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Law of Automata: Valid",
         "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 200000,
       "name": "3 Words (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Ti Kabrit",
-        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 161717,
-      "name": "Ti Kabrit",
-      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Bizou",
-        "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
       },
       "artists": [
         {
-          "name": "AndyBeatz",
-          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 176363,
-      "name": "Bizou",
-      "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
+      "duration_ms": 188250,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1095,6 +1095,22 @@
       "duration_ms": 177748,
       "name": "Teke Fren",
       "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Bizou",
+        "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
+      },
+      "artists": [
+        {
+          "name": "AndyBeatz",
+          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Bizou",
+      "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Thug Love",
-        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Thug Love",
-      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Kelly Krow",
         "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Bwa Kale",
         "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
       },
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
-      },
-      "artists": [
-        {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
-        }
-      ],
-      "duration_ms": 286840,
-      "name": "Flanm",
-      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
       },
@@ -1263,6 +1231,38 @@
       "duration_ms": 215026,
       "name": "Kote'w Te Ye",
       "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
       "artists": [
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
         }
       ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+      "duration_ms": 286840,
+      "name": "Flanm",
+      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Bal Tout",
         "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 191067,
       "name": "Bal Tout",
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Down With the Gouyad (Remix)",
         "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Sote",
+        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sote",
+      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Trip Tropikal",
         "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
       },
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Sote",
-        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
       },
       "artists": [
         {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Sote",
-      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1803,22 +1819,6 @@
       "duration_ms": 229998,
       "name": "Regr\u00e8",
       "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2024-02-23 05:00:00",

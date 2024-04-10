@@ -1,12 +1,12 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 92452,
+  "num_followers": 92604,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTJiMWY0NjAzMDVmODAyZGRmZWYyNzE1MGY5YTZmOTJhN2FlNDNi",
+  "snapshot_id": "MCxmNzU0YjE0NzUyMmFmZjQ5NjVhMDk3MTAxNTI3ZDlmYmFkNTEwZGM0",
   "tracks": [
     {
       "added_at": "2024-02-26 22:44:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+      "duration_ms": 179013,
+      "name": "Y LLORO",
+      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 179013,
-      "name": "Y LLORO",
-      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
-    },
-    {
-      "added_at": "2024-02-26 22:44:00",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
+    },
+    {
+      "added_at": "2024-02-26 22:44:00",
+      "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Antologia",
-      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
-    },
-    {
-      "added_at": "2024-02-26 22:44:00",
-      "album": {
         "name": "Prometo",
         "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 253760,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
+    },
+    {
+      "added_at": "2024-02-26 22:44:00",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Antologia",
+      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 329160,
+      "name": "All Too Well (Taylor's Version)",
+      "url": "https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu"
+    },
+    {
+      "added_at": "2024-02-26 22:44:00",
+      "album": {
         "name": "Alma Vac\u00eda",
         "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 221887,
       "name": "Dias Nublados",
       "url": "https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8"
-    },
-    {
-      "added_at": "2024-02-26 22:44:00",
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 329160,
-      "name": "All Too Well (Taylor's Version)",
-      "url": "https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Te Mata",
-      "url": "https://open.spotify.com/track/1NEBuFp0BJMikgXJI9VVab"
-    },
-    {
-      "added_at": "2024-02-26 22:44:00",
-      "album": {
         "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
         "url": "https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 186549,
       "name": "Lo Hice, Te Dej\u00e9",
       "url": "https://open.spotify.com/track/3PKhRDUCDckxRypmC5RhO6"
+    },
+    {
+      "added_at": "2024-02-26 22:44:00",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/1NEBuFp0BJMikgXJI9VVab"
     },
     {
       "added_at": "2024-02-26 22:44:00",

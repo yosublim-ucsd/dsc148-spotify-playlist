@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,633 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,698 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 12 | [New Direction](https://open.spotify.com/track/7CdGO6KJg20UAAXl7CW8q6) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:29 |
 | 13 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
 | 14 | [New York City](https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 2:01 |
-| 15 | [Hail Destroyer](https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/4zR3343ue909iFnr6odhK3) | 3:16 |
-| 16 | [Firestorm](https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Forever True \(1991\-2001\)](https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh) | 3:51 |
+| 15 | [Firestorm](https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Forever True \(1991\-2001\)](https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh) | 3:51 |
+| 16 | [Hail Destroyer](https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/4zR3343ue909iFnr6odhK3) | 3:16 |
 | 17 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/3jxtdFRy3VX71AbEPEjKgq) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/0d1R6Y3apuX2qB5MOP61F6) | 2:01 |
 | 18 | [Living to Die](https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [From Bliss To Devestation](https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC) | 4:06 |
 | 19 | [Voice of Rebellion](https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y) | [Pro\-Pain](https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8) | [Voice of Rebellion](https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Break Through It All](https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Count Me In](https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv) | 3:01 |
 | 50 | [Mailer, Meet Jim](https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a) | [Western Addiction](https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA) | [Cognicide](https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH) | 1:37 |
 
-Snapshot ID: `MCxiNTIwN2VlMjdiYmFlODk2ZTg1ODIwMDYzNjBlZWI1ODA2OGQ3Njk3`
+Snapshot ID: `MCxmYzc5NThjMTgyMjM4M2UyM2JmYjI1NGJmZTM3NGI1ZDE5ZDJkZTQx`

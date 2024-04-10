@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. La Receta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,583 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,772 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 79 | [La escuela de mi apá](https://open.spotify.com/track/1deKB5A7FtWcD6PHGYHu6e) | [Vena De Rey](https://open.spotify.com/artist/4jsKRYQ2PjDJiMV1NjHEhl), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [La escuela de mi apá](https://open.spotify.com/album/6imeC5sxh8Bg3IcMgvnglW) | 2:50 |
 | 80 | [Por Matamoros](https://open.spotify.com/track/2OG8usH0UK8tffxquRL9R2) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Por Matamoros](https://open.spotify.com/album/1rcelQu6CJqIABJn1DUhE6) | 3:31 |
 
-Snapshot ID: `MCwzNGFhZmExNTA3YjZjYWJlNjk0ZWZmMzc2ZGFiOGFlNzE2MDgzNWI4`
+Snapshot ID: `MCxlMWFjNzA4ZDY2ZjNhNTlmNTVkMGUyZWFjZGI0NzJmZjhhYTVmOTU1`

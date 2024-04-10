@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,079 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,110 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 49 | [Intro](https://open.spotify.com/track/1TTg8aTqkCxmBuLZrLpRYX) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 2:43 |
 | 50 | [Stava Bene](https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 3:44 |
 
-Snapshot ID: `MCw5ZDBhZWVmMjczNTIxNzA0OGEzMWE0NmE3YjUxOTE5Mzg2OGZlMzUx`
+Snapshot ID: `MCxkNzI3NGEyNDQzNzhjYTY2NTBjNzNjYmZiYWU1ZjJlYTRlOTVhNDc5`

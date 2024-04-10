@@ -246,7 +246,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 241304,
       "name": "Bhaag D.K. Bose, Aandhi Aayi",
       "url": "https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu"
@@ -1300,10 +1300,40 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 226200,
       "name": "Main Ladega Anthem (From \"Main Ladega\")",
       "url": "https://open.spotify.com/track/4npgHx2tbLa8qwPDwkiyDj"
+    },
+    {
+      "album": {
+        "name": "Main Ladega Anthem (From \"Main Ladega\")",
+        "url": "https://open.spotify.com/album/7AzqgbqtZWv1xRnQbWtJh4"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Mukund Suryawanshi",
+          "url": "https://open.spotify.com/artist/2hrppdWsJvHkX3y1yLjUTa"
+        },
+        {
+          "name": "Akshay Dhawan",
+          "url": "https://open.spotify.com/artist/060V6XrsKsxsUfPBbwEcG1"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226200,
+      "name": "Main Ladega Anthem (From \"Main Ladega\")",
+      "url": "https://open.spotify.com/track/6FRoc2Ki10eRxjd5XRFLx0"
     },
     {
       "album": {
@@ -1434,7 +1464,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 229947,
       "name": "Munda Sona Hoon Main (From \"Shehzada\")",
       "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE"

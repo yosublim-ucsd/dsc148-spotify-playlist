@@ -4,7 +4,7 @@
 
 > recent trending tracks in rock/alt/metal/punk \| Cover: Deftones
 
-85 songs - 5 hr 5 min
+86 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2024-04-05 |  |
 | [Look At The Time](https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [Look At The Time](https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1) | 4:20 | 2024-04-05 |  |
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-11-30 | 2024-04-06 |
+| [Maneater](https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 4:33 | 2024-04-09 |  |
 | [Mary On A Cross](https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [\[MESSAGE FROM THE CLERGY\]](https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom) | 4:04 | 2022-11-30 | 2024-04-06 |
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-11-30 | 2024-04-06 |
 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 | 2022-11-30 | 2024-04-06 |

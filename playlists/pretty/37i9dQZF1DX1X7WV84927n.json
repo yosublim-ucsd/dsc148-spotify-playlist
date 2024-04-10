@@ -1,12 +1,12 @@
 {
   "description": "For full-volume lovers, new and recent favorites. Cover: Five Finger Death Punch",
-  "num_followers": 356241,
+  "num_followers": 356376,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTdiZmZhYTBhNDE2ODBjOTkzNDkzYWE3YjRhYTEyMjRmMWI4NjYz",
+  "snapshot_id": "MCwyOGQ2MDM3OGNlYzEyZThlY2Q3ZGE3MTRkYjdmMjNiNjI1ODEwMTJl",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "IF IT DOESN'T HURT",
+        "url": "https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 179225,
+      "name": "IF IT DOESN'T HURT",
+      "url": "https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Vengeance",
         "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 193121,
       "name": "Don\u2019t Look Away",
       "url": "https://open.spotify.com/track/13TI2bhTRld8pgk9xM8wm9"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "IF IT DOESN'T HURT",
-        "url": "https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 179225,
-      "name": "IF IT DOESN'T HURT",
-      "url": "https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Keeping Secrets",
-        "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 257798,
-      "name": "Keeping Secrets",
-      "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "UNDERNEATH",
         "url": "https://open.spotify.com/album/6fPPeemgYpLxaxYEllXEZO"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 192967,
       "name": "UNDERNEATH",
       "url": "https://open.spotify.com/track/4BeoN5v8iRmM1JW1Aln0H3"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Keeping Secrets",
+        "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 257798,
+      "name": "Keeping Secrets",
+      "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Hellstar",
-        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Hellstar",
-      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Skin to Skin",
         "url": "https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 191439,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Hellstar",
+        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Hellstar",
+      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Finger",
-        "url": "https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Finger",
-      "url": "https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Confessions Of The Fallen",
         "url": "https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 237859,
       "name": "Here And Now",
       "url": "https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Finger",
+        "url": "https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Finger",
+      "url": "https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Timebomb",
-        "url": "https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY"
-      },
-      "artists": [
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Timebomb",
-      "url": "https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Wolf (feat. John Cooper of Skillet)",
         "url": "https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 198750,
       "name": "Wolf (feat. John Cooper of Skillet)",
       "url": "https://open.spotify.com/track/2TotmUJiZqzDh7OMjD7zGr"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Timebomb",
+        "url": "https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "daddy of mine",
+        "url": "https://open.spotify.com/album/7jqa2zm2jYb1pt9ry4pJtN"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 144773,
+      "name": "daddy of mine",
+      "url": "https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Aztec Death Whistle",
         "url": "https://open.spotify.com/album/1Zin3zqwp0N8wKOE3ZXlZg"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 202285,
       "name": "enemies",
       "url": "https://open.spotify.com/track/6nSh7kDJwZsu5MPHa9cz9T"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "daddy of mine",
-        "url": "https://open.spotify.com/album/7jqa2zm2jYb1pt9ry4pJtN"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 144773,
-      "name": "daddy of mine",
-      "url": "https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1567,6 +1567,58 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Through My Head",
+        "url": "https://open.spotify.com/album/62s4IVyq45sat3vDl9cOLz"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        },
+        {
+          "name": "Resolve",
+          "url": "https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Through My Head",
+      "url": "https://open.spotify.com/track/7ydzZp3LEAugJbxCaJBiYh"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Only Way Is Up",
+        "url": "https://open.spotify.com/album/7rlrFfwLO92uER7b8bPPIv"
+      },
+      "artists": [
+        {
+          "name": "APOC",
+          "url": "https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "The Only Way Is Up",
+      "url": "https://open.spotify.com/track/3QKH9oDuT3k5S5JRsv13KN"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Sliding Doors",
+        "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Sliding Doors",
+      "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Don\u2019t Fuck With Vol. 03",
         "url": "https://open.spotify.com/album/2toYlqk2zyn0K05lo1S2th"
       },
@@ -1599,18 +1651,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "The Only Way Is Up",
-        "url": "https://open.spotify.com/album/7rlrFfwLO92uER7b8bPPIv"
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
       },
       "artists": [
         {
-          "name": "APOC",
-          "url": "https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN"
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
         }
       ],
-      "duration_ms": 217142,
-      "name": "The Only Way Is Up",
-      "url": "https://open.spotify.com/track/3QKH9oDuT3k5S5JRsv13KN"
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1647,22 +1699,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
       },
@@ -1679,26 +1715,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Through My Head",
-        "url": "https://open.spotify.com/album/62s4IVyq45sat3vDl9cOLz"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        },
-        {
-          "name": "Resolve",
-          "url": "https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Through My Head",
-      "url": "https://open.spotify.com/track/7ydzZp3LEAugJbxCaJBiYh"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "10,000 Volts",
         "url": "https://open.spotify.com/album/0D4zScGtR7jlMUGpJP9pYF"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 204378,
       "name": "10,000 Volts",
       "url": "https://open.spotify.com/track/4Nwb0EtFLdTDD1LYlWFeza"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Sliding Doors",
-        "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Sliding Doors",
-      "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/7szVhLSeh3tWpRF6ZDozOd"
-      },
-      "artists": [
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
-        }
-      ],
-      "duration_ms": 243881,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/7wDVVWvsjPL2tKvcbOlJHK"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "HOLLYWOOD SUICIDE",
         "url": "https://open.spotify.com/album/6YFZoTSdDcMGv0ryhzB4Oy"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 220591,
       "name": "DAHLIA",
       "url": "https://open.spotify.com/track/4vgPAXTYnTEjk7zevnYNKv"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/7szVhLSeh3tWpRF6ZDozOd"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "duration_ms": 243881,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/7wDVVWvsjPL2tKvcbOlJHK"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1843,6 +1843,22 @@
       "duration_ms": 214069,
       "name": "Maverick",
       "url": "https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/0gyB2i9eqGckT6G3hGPeOf"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 108560,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/2KtmPuGbIHDGMZN16x9LG9"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1923,22 +1939,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Kill Me",
-        "url": "https://open.spotify.com/album/0gyB2i9eqGckT6G3hGPeOf"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        }
-      ],
-      "duration_ms": 108560,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/2KtmPuGbIHDGMZN16x9LG9"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/23VCaSYUWBTn0mUgvuwBtJ"
       },
@@ -1951,6 +1951,22 @@
       "duration_ms": 224903,
       "name": "Empire",
       "url": "https://open.spotify.com/track/0rh6ie1S24XTyKXDCUd8aR"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/7DEuDoDGatpED4PItRAXD8"
+      },
+      "artists": [
+        {
+          "name": "If Not For Me",
+          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+        }
+      ],
+      "duration_ms": 194538,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/1WyI0XnnwlzxsrQeevp5tX"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1999,22 +2015,6 @@
       "duration_ms": 241608,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/7cEYiQ8uOjIN9I6Za7U1qT"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Everything You Wanted",
-        "url": "https://open.spotify.com/album/7DEuDoDGatpED4PItRAXD8"
-      },
-      "artists": [
-        {
-          "name": "If Not For Me",
-          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
-        }
-      ],
-      "duration_ms": 194538,
-      "name": "Tragedy",
-      "url": "https://open.spotify.com/track/1WyI0XnnwlzxsrQeevp5tX"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "I Still Believe",
-        "url": "https://open.spotify.com/album/5yK0LHapGQcaUFeyKkjfZG"
-      },
-      "artists": [
-        {
-          "name": "New Years Day",
-          "url": "https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "I Still Believe",
-      "url": "https://open.spotify.com/track/1atc0z1xkg02bSjkfkpOUv"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "TROUBLE EP",
         "url": "https://open.spotify.com/album/5IcmjyqYJeUDMrqu5DTE7B"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 258325,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "I Still Believe",
+        "url": "https://open.spotify.com/album/5yK0LHapGQcaUFeyKkjfZG"
+      },
+      "artists": [
+        {
+          "name": "New Years Day",
+          "url": "https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/1atc0z1xkg02bSjkfkpOUv"
     },
     {
       "added_at": "2024-04-05 04:00:00",

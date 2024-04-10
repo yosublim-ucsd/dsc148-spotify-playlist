@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,797 likes - 90 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,828 likes - 90 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 28 | [Olvida Que Te He Amado](https://open.spotify.com/track/0addwQw947UzHhby2thnGg) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Mi Cantar](https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX) | 4:19 |
 | 29 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
 | 30 | [Folklore Romántico: Nada Tengo de Ti / Canción del Adiós / Dueña de Mi Alma / Zamba para Olvidarte](https://open.spotify.com/track/3YicOdQ4o9KZcyxY8bZWu5) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Folklore Romántico: Nada Tengo de Ti / Canción del Adiós / Dueña de Mi Alma / Zamba para Olvidarte](https://open.spotify.com/album/3MuAn8aG7ZvtCop2C8GH3G) | 7:55 |
-| 31 | [Hoy](https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Gira](https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM) | 3:45 |
-| 32 | [Fabula De Amor](https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH) | [Sergio Galleguillo Y Los Amigos](https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO) | [Grito Chayero](https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O) | 4:02 |
+| 31 | [Fabula De Amor](https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH) | [Sergio Galleguillo Y Los Amigos](https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO) | [Grito Chayero](https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O) | 4:02 |
+| 32 | [Hoy](https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Gira](https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM) | 3:45 |
 | 33 | [Zamba del Cantor Enamorado](https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ) | [El Chango Nieto](https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM) | [Lo Mejor de la Zamba Argentina](https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g) | 3:43 |
 | 34 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 |
 | 35 | [Zamba para Decir Adiós](https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Zamba para Decir Adiós](https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5) | 3:54 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 37 | [Si La Vieras](https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si La Vieras](https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522) | 3:46 |
 | 38 | [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 |
 | 39 | [Te Pido En Agosto](https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [PACHAKUTI](https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi) | 3:36 |
-| 40 | [Si Te Vas](https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Codigo de Barro](https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL) | 5:13 |
-| 41 | [No Me Olvides](https://open.spotify.com/track/5OJAOB8Pe0IZOeGGjerPkE) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:54 |
+| 40 | [No Me Olvides](https://open.spotify.com/track/5OJAOB8Pe0IZOeGGjerPkE) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:54 |
+| 41 | [Si Te Vas](https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Codigo de Barro](https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL) | 5:13 |
 | 42 | [Nuestro adiós](https://open.spotify.com/track/4L1JmLqESzxrvlgGCaNOOD) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nuestro adiós](https://open.spotify.com/album/1NaqaiCpHwCT21ZDxcFUks) | 4:08 |
 | 43 | [El Punto Final](https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [El Punto Final](https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF) | 3:33 |
 | 44 | [Nuestro Juramento](https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [La Historia](https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb) | 3:17 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 52 | [Hablan de Ti](https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6) | [Copla alta](https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Hablan de Ti](https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz) | 4:02 |
 | 53 | [La Flor](https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [La Flor](https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv) | 3:10 |
 | 54 | [La del Olvido](https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 4:09 |
-| 55 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
-| 56 | [Canción de Lejos](https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:49 |
+| 55 | [Canción de Lejos](https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:49 |
+| 56 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
 | 57 | [Al Soñarte](https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Los Del Portezuelo](https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47) | 3:23 |
 | 58 | [Viaje](https://open.spotify.com/track/1sx0wAmnvniAus4EJzIN5g) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Viaje](https://open.spotify.com/album/3GVVx7A9HewidYwsqs518a) | 2:54 |
 | 59 | [No Te Rindas](https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [No Te Rindas](https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6) | 3:39 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Bien o Mal](https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Bien o Mal](https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg) | 3:30 |
 | 90 | [Tan Cerca En La Distancia](https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Tan Cerca En La Distancia](https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo) | 3:22 |
 
-Snapshot ID: `MCxhYjkyZGUwNTUxOGYyNzRiZWY1YTE2ZDc1OTRiMTI0MjJiNDA0ZmNi`
+Snapshot ID: `MCxlOTJmMDBhZTc2MDYyMjlkZTkwOTBkY2Q5ZjQyMzM1OGY4ZWUwYjFi`

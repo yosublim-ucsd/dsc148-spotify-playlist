@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 > This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,826 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,839 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 21 | [The Authority Song](https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:37 |
 | 22 | [23](https://open.spotify.com/track/12tjs2HBsd4puDnUgZMKki) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 7:13 |
 | 23 | [Sure and Certain](https://open.spotify.com/track/48nnqkmwmjZ7ohyShSyKAm) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 3:35 |
-| 24 | [All The Way \(Stay\)](https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 4:05 |
-| 25 | [Dizzy](https://open.spotify.com/track/5xn1j6DBs769Kn3BvGQWDA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 4:45 |
+| 24 | [Dizzy](https://open.spotify.com/track/5xn1j6DBs769Kn3BvGQWDA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 4:45 |
+| 25 | [All The Way \(Stay\)](https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 4:05 |
 | 26 | [Your New Aesthetic](https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 2:40 |
 | 27 | [Get Right](https://open.spotify.com/track/19cVww3dRYFzVvslJu2NtL) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 2:49 |
-| 28 | [Coffee And Cigarettes](https://open.spotify.com/track/7svTK1vdqxc1zsVWTCYHaD) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 3:45 |
-| 29 | [Chase This Light](https://open.spotify.com/track/3sA8cYDDjhjowVUue11AbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 3:26 |
+| 28 | [Chase This Light](https://open.spotify.com/track/3sA8cYDDjhjowVUue11AbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 3:26 |
+| 29 | [Coffee And Cigarettes](https://open.spotify.com/track/7svTK1vdqxc1zsVWTCYHaD) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 3:45 |
 | 30 | [Blister](https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:29 |
 | 31 | [Criminal Energy](https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:11 |
 | 32 | [Polaris](https://open.spotify.com/track/4fQjex0ezXcMGpdjlGVi44) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures](https://open.spotify.com/album/2EDsu3fuAiflZczcFZTr4y) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 49 | [Heart Is Hard To Find](https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 3:18 |
 | 50 | [You With Me](https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 5:18 |
 
-Snapshot ID: `MCxmYTYxNmVjOTI2NzNmYzgwZmUxZDQ4NGUxNzM5NmU4MmQwZWIxNTAw`
+Snapshot ID: `MCxkMDg0NTQ4NTE4ODI5ZjRjNjkzMGU0NmMxMmYxNWQ5MmExNDc3Mzky`

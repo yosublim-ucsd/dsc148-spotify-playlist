@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn?si=NjDnbRXMSPSoKNz9iWVChg">Henry Ate</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,333 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,340 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 20 | [Take Yours, I'll Take Mine](https://open.spotify.com/track/3mN9RcQg6oSPDSumrYNLFa) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [The Home We Built](https://open.spotify.com/album/1TKDPkavJaq0s2g2woXd3e) | 3:43 |
 | 21 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
 | 22 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 |
-| 23 | [Cinémed](https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [Cinémed](https://open.spotify.com/album/70Dl4djomdHEALG6BuLSMJ) | 3:19 |
-| 24 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 |
+| 23 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 |
+| 24 | [Cinémed](https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [Cinémed](https://open.spotify.com/album/70Dl4djomdHEALG6BuLSMJ) | 3:19 |
 | 25 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
 | 26 | [Take Me Home](https://open.spotify.com/track/09VP3MkHbI4TvJUMxB03Z4) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E), [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s), [Paul Timitch](https://open.spotify.com/artist/48oyFLkOdjRGiVDSf6q5MS) | [Take Me Home](https://open.spotify.com/album/0KK4ePbsPoLS2bagH6pv5T) | 2:20 |
 | 27 | [honey\~](https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [honey\~](https://open.spotify.com/album/1HbzqbkyKDgkkf2yeav0rL) | 1:58 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 36 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
 | 37 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
 | 38 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
-| 39 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
+| 39 | [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 |
 | 40 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
-| 41 | [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 |
+| 41 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
 | 42 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
 | 43 | [Everything Slow](https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ) | [Jackal & the Wind](https://open.spotify.com/artist/12iw4uOEV5d8gogRQ3wMkx) | [Everything Slow](https://open.spotify.com/album/0oc6tm1J1vjE649NRXyjzT) | 3:31 |
 | 44 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 |
 | 45 | [Let Go](https://open.spotify.com/track/6qEgpYeOqfauh3lti9cnMz) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Let Go](https://open.spotify.com/album/6IzKi4MFCpKnXbJtka7uy8) | 3:12 |
 | 46 | [Air \- Single Edit](https://open.spotify.com/track/4SImO1i8rWgT8C7Zu8iVog) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Air](https://open.spotify.com/album/60AUd6v5EKUDdsrZKK1NKE) | 3:14 |
 | 47 | [Carry Me](https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Carry Me](https://open.spotify.com/album/46wDOIMnP62uR9tjmndXy2) | 2:24 |
-| 48 | [Oliver's Garden](https://open.spotify.com/track/6M9tSXVU3XmVXACv7D1tnk) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Oliver's Garden](https://open.spotify.com/album/2GS2hWDDmPb6GxT8aFx2qv) | 3:39 |
+| 48 | [The Whale Song](https://open.spotify.com/track/2Yzc8jxNWflSY0j1mehJUo) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [The Whale Song](https://open.spotify.com/album/5Ebb9ayKPt4Lw7UO3w5WcW) | 2:46 |
 | 49 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 |
-| 50 | [Bad Time for Loving](https://open.spotify.com/track/4YbM2h9tS3XtKZOLNy3gPj) | [Georgetown](https://open.spotify.com/artist/0msJcbfycOFyNl9WPmsLQJ) | [Wrong Key Baby, Right Keyhole](https://open.spotify.com/album/6wX4Xlwk7eewKPQyJEezXG) | 3:47 |
+| 50 | [Holy Water](https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [Holy Water](https://open.spotify.com/album/2D0GdNMz5bFn9aYM1YzLDE) | 2:47 |
 
-Snapshot ID: `MCw4NDMzOTQ0Y2UwOGVjNDUzNmQ2ZDMxMGU0MjAxNjA0ZGMzMTFhNDI0`
+Snapshot ID: `MCw3YTdhYjliOTQwMWMwYTI1YzFlNjMzOTdmZWU1NDE1MTFkYjM3MjNl`

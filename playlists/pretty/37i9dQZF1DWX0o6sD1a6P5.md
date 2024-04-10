@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,332 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,560 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 |
 | 50 | [Dans tes yeux](https://open.spotify.com/track/7f9HrL9JAeIP94Ab5rPq67) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Black Lover](https://open.spotify.com/album/2R3RIQf4fImPAG9QtW2fMi) | 2:57 |
 
-Snapshot ID: `MCw2YTcwNjc5YTVlOTQ4MGM5YTgyMzRjMzg4MDIwZTViNzU5NTQ4ZGM1`
+Snapshot ID: `MCwwYWY1MGEyZTY0NjUyYmJjMzhhYTc4NzJlMGQ3ZDg2OTdiMTVkNTdi`

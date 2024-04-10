@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,818 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,820 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 99 | [Verano](https://open.spotify.com/track/4AIi8Q87OYukdx1K27k5D1) | [Juan Carlos Allende](https://open.spotify.com/artist/1Ra3B3zt4TA4fzXpSW4oAR) | [Moods](https://open.spotify.com/album/7iMQJdh4iX3SbvA7x9HxID) | 4:30 |
 | 100 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 |
 
-Snapshot ID: `MCxjMjI0NzJiNmY3MDlhNjFiMjU3Y2U4OTU3NmQ0MTQ0MzRhMzg4ZWFj`
+Snapshot ID: `MCw2Zjg3ZWQyNzM4ZjhhNWU5NzFlNDRmYzViYjFjNzY4MmJjY2M1OGZh`

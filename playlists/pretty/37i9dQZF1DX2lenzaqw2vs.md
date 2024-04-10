@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Kany García & Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,897 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,914 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 75 | [La Noche](https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [La Noche](https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU) | 2:43 |
 | 76 | [happy](https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 3:20 |
 | 77 | [Mojados](https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9) | [Willie Gomez](https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At) | [Del Cibao](https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG) | 3:15 |
-| 78 | [NO BINARIA](https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NO BINARIA](https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA) | 2:11 |
-| 79 | [kiss my friends](https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [kiss my friends](https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA) | 2:42 |
+| 78 | [kiss my friends](https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [kiss my friends](https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA) | 2:42 |
+| 79 | [NO BINARIA](https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NO BINARIA](https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA) | 2:11 |
 | 80 | [Unx de nosotrxs \(feat\. Javiera Mena\)](https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Uno de nosotros \(feat\. Javiera Mena\)](https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3) | 4:09 |
 | 81 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
 | 82 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 96 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
 | 97 | [me gusta que me gustes](https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:35 |
 | 98 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
-| 99 | [corazoncito](https://open.spotify.com/track/3QwaKUFPO3CNJcTiWk0kfk) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [corazoncito](https://open.spotify.com/album/5YYkBqPFlaJidU80jXYD9i) | 2:58 |
-| 100 | [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 |
+| 99 | [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 |
+| 100 | [corazoncito](https://open.spotify.com/track/3QwaKUFPO3CNJcTiWk0kfk) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [corazoncito](https://open.spotify.com/album/5YYkBqPFlaJidU80jXYD9i) | 2:58 |
 
-Snapshot ID: `MCwwMzg5NWZmMTE2YzU4ZGE5ODRjYjJkMDEwYjQ3NGZiOGRlNGIwY2Yz`
+Snapshot ID: `MCxjNTI1MGY5MThkZWIxYzdlZGE5Nzg0Yjg3NWQyMGU5YmU1N2EzZThm`

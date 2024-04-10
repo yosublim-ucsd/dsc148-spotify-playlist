@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,346 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,373 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 14 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
 | 15 | [Kyoufuu All Back](https://open.spotify.com/track/3rO7YwtuTzCGssxvDS4xK2) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:17 |
 | 16 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
-| 17 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |
+| 17 | [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 |
 | 18 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
 | 19 | [Samsa](https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [Samsa](https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH) | 3:32 |
 | 20 | [lower one's eyes](https://open.spotify.com/track/3P8sZzCeWXnBieW9XxE02Y) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [lower one's eyes](https://open.spotify.com/album/0NEXeWlwwR6b4zfHF4bvgk) | 3:50 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 26 | [Bring me](https://open.spotify.com/track/6TcZGGwg86VdKWOB8WzVzO) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [Bring me](https://open.spotify.com/album/6BTi2oETfQWmpRHc4uDdVN) | 3:20 |
 | 27 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 |
 | 28 | [Zunda Takoya\-ki](https://open.spotify.com/track/6EweBKjbAYyefCTzKFobZ2) | [namigroove](https://open.spotify.com/artist/2t7wKLcqZ08LwQXmBS2OOL), [Zundamon](https://open.spotify.com/artist/4h7vIVbBIGc5hHeKdha5tc), [Kotonoha Akane&Aoi](https://open.spotify.com/artist/189nnOOUOklQ7FlgB52Gad) | [Zunda Takoya\-ki](https://open.spotify.com/album/3B0OvRWGC1mkEiowGQpYWd) | 3:27 |
-| 29 | [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 |
+| 29 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |
 | 30 | [少女レイ](https://open.spotify.com/track/6bxGVlcX900tLZiZl5mFOR) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 4:54 |
-| 31 | [ボルテッカー](https://open.spotify.com/track/4gxNIT5mQRjZ1jzePsF3Ud) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ボルテッカー](https://open.spotify.com/album/4TURBwPQTJsJA4LVQiiHT7) | 2:32 |
-| 32 | [ウミユリ海底譚](https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 3:56 |
+| 31 | [ウミユリ海底譚](https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 3:56 |
+| 32 | [ボルテッカー](https://open.spotify.com/track/4gxNIT5mQRjZ1jzePsF3Ud) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ボルテッカー](https://open.spotify.com/album/4TURBwPQTJsJA4LVQiiHT7) | 2:32 |
 | 33 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 34 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
 | 35 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
 | 50 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 |
 
-Snapshot ID: `MCwxNWM1YTVhYjAxODRiYTJlMWM4YTU0MjhiOGM2NDllOWE0YjkyYzgz`
+Snapshot ID: `MCxkMDBmMTc4YmY0NWE5NjZkOWE5ZDNmYTljNzI5N2Q1N2QzN2NhMjVl`

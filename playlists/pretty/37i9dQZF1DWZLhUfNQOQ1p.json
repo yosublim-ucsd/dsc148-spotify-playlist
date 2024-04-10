@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 247124,
+  "num_followers": 247131,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTBmZmIxZDQzYmJkZTE0YzFmM2NlMjZlZTZlMGM3MWIyYmM3NDQz",
+  "snapshot_id": "MCxkNDIzNWIzOTNkY2JlMDJiYTlkN2NjZDVjOGViNWE1NDQ4ODQyNmNh",
   "tracks": [
     {
       "added_at": "2024-04-05 00:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Thinking of You - 1995 Remaster",
-      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Everything Eventually Ends",
         "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 177280,
       "name": "Everything Eventually Ends",
       "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Thinking of You - 1995 Remaster",
+      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -531,26 +531,18 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "We Will Always Love You",
-        "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
+        "name": "Roches blanches",
+        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        },
-        {
-          "name": "Johnny Marr",
-          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
         }
       ],
-      "duration_ms": 187586,
-      "name": "The Divine Chord",
-      "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+      "duration_ms": 156298,
+      "name": "Roches blanches",
+      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -579,18 +571,26 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Roches blanches",
-        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
+        "name": "We Will Always Love You",
+        "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
       "artists": [
         {
-          "name": "Mizmo",
-          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
         }
       ],
-      "duration_ms": 156298,
-      "name": "Roches blanches",
-      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
+      "duration_ms": 187586,
+      "name": "The Divine Chord",
+      "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 393640,
-      "name": "At the River",
-      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Outer Peace",
         "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "At the River",
+      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
-      },
-      "artists": [
-        {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
-        },
-        {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
-        }
-      ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+      },
+      "artists": [
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+        }
+      ],
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 344546,
-      "name": "Keep the Fire Burning",
-      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Melody A.M.",
         "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 218320,
       "name": "Eple",
       "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 344546,
+      "name": "Keep the Fire Burning",
+      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "LemonJelly.ky",
-        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 405866,
-      "name": "A Tune For Jack",
-      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Leave My Home",
         "url": "https://open.spotify.com/album/71y9TvXQwd3YN2UKH8FhaY"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 221772,
       "name": "Leave My Home",
       "url": "https://open.spotify.com/track/7kMKUH92AiChpAN3dxLY5c"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "LemonJelly.ky",
+        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 405866,
+      "name": "A Tune For Jack",
+      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1691,6 +1691,22 @@
       "duration_ms": 208358,
       "name": "Cinecitt\u00e0",
       "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Cubism",
+        "url": "https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        }
+      ],
+      "duration_ms": 193322,
+      "name": "Cubism",
+      "url": "https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1767,38 +1783,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Cubism",
-        "url": "https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx"
-      },
-      "artists": [
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        }
-      ],
-      "duration_ms": 193322,
-      "name": "Cubism",
-      "url": "https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Stay With You",
-        "url": "https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Stay With You - Radio Version",
-      "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Need a Hit",
         "url": "https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 233200,
       "name": "Need a Hit",
       "url": "https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Stay With You",
+        "url": "https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Stay With You - Radio Version",
+      "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
     }
   ],
   "unique_name": "Aperitivo Time",

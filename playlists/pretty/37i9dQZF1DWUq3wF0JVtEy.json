@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 937937,
+  "num_followers": 937999,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDc5MGMwYjQ5ZTk1NjNiNjE5NWQwMTg0NzNhMTdjNDU2MGZiNGFj",
+  "snapshot_id": "MCxkYmMxNzMzNjlhOWQwOTE2NDFlMzg5ZTkwNTI0NWNjOWI5ZDk3Yzcz",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Mind Awake, Body Asleep",
-        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "HYPERBEAM",
-          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Mind Awake, Body Asleep",
-      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -1363,6 +1339,30 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Mind Awake, Body Asleep",
+        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Mind Awake, Body Asleep",
+      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
     },
     {
       "added_at": "2024-03-29 04:00:00",

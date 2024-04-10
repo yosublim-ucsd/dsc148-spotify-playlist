@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,239 likes - 38 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,349 likes - 38 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 18 | [MODO TURBO](https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:30 |
 | 19 | [Carnificina](https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:20 |
 | 20 | [ATENÇÃO](https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:15 |
-| 21 | [Saudade](https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Saudade](https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm) | 2:47 |
+| 21 | [Memórias \- Ao Vivo](https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Virado No Pagode \(Ao Vivo\)](https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE) | 3:00 |
 | 22 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 |
 | 23 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 |
-| 24 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/0P0k5KoLcxi0kf1jik4v8X) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Mari Fernandez Ao Vivo Em São Paulo](https://open.spotify.com/album/4GBXBjWiyAfZiKph3ThZTZ) | 3:21 |
-| 25 | [Memórias \- Ao Vivo](https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Virado No Pagode \(Ao Vivo\)](https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE) | 3:00 |
+| 24 | [Saudade](https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Saudade](https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm) | 2:47 |
+| 25 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/0P0k5KoLcxi0kf1jik4v8X) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Mari Fernandez Ao Vivo Em São Paulo](https://open.spotify.com/album/4GBXBjWiyAfZiKph3ThZTZ) | 3:21 |
 | 26 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 |
 | 27 | [Flores](https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Flores](https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt) | 2:35 |
 | 28 | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq) | 2:37 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 37 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
 | 38 | [Não Vai Embora \- Acústico](https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Vai Embora \(Acústico\)](https://open.spotify.com/album/4bH36H3ghOHKihdYY0kNWf) | 3:47 |
 
-Snapshot ID: `MCw2NDk4M2VkZjk3NGEwYTAyYTViN2ZiMTliMDAxMGNlNDk0MjdmZTA3`
+Snapshot ID: `MCw0NmY4YTFiNWZhZTU2MDFkNjAxYmIyMmFhZGFhZTk3MWJmZWJjMDBm`

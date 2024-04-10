@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,650 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,654 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 33 | [Comandante Tanque](https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Comandante Tanque](https://open.spotify.com/album/5Wpsb0hX19nyz3ygUd6YHX) | 3:26 |
 | 34 | [A Lo Que Sigue](https://open.spotify.com/track/0Ndnbc16qPg2CO34a8Z65Q) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [A Lo Que Sigue](https://open.spotify.com/album/6yntzdnPB5ZYQQUp8OJnoE) | 3:22 |
 | 35 | [En Las Momias](https://open.spotify.com/track/4uCMIjpU1MHiY3rqRm721s) | [Nelson Fernández](https://open.spotify.com/artist/0YWSpMQXpphjWLYt2TOdrs), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Las Momias](https://open.spotify.com/album/5KcydETHDWB2FZYO3LCjLk) | 2:10 |
-| 36 | [Estas Ganas de Tomar](https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:35 |
-| 37 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 |
+| 36 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 |
+| 37 | [Estas Ganas de Tomar](https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:35 |
 | 38 | [El Mentado](https://open.spotify.com/track/2K5oFDtsSM0Wf6rzOmVEMT) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 2:36 |
 | 39 | [La Fuga del Jefe](https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 2:32 |
 | 40 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 50 | [DEL Rojo](https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG) | [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [Gente del Este](https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B) | 3:06 |
 | 51 | [Las Hazañas de Mi Vida](https://open.spotify.com/track/7gUcVowWzzVpgemedRbJLI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Golpe De Guerra](https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:47 |
 
-Snapshot ID: `MCxhODM3ODEyYWI1NmEyMGE2YjU5ZGI4ZjllYTllMTYxZmFjMGU5MWQz`
+Snapshot ID: `MCxmMzY3Yjk4YmIyNTcyNjFjM2I3MTE3N2Q4M2ZlNTk3ZWUxY2ZmZTNm`

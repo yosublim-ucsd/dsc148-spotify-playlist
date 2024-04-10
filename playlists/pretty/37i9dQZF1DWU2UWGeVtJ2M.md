@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,178 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,190 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 62 | [IT'S NOT THAT SERIOUS](https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [IT'S NOT THAT SERIOUS](https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk) | 2:20 |
 | 63 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 | 64 | [What About Me \(feat\. Sosamann\)](https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:36 |
-| 65 | [Give It Away](https://open.spotify.com/track/2dYexYOVMItMNUvGXl4gtR) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:17 |
-| 66 | [It's Not This](https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [It's Not This](https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY) | 3:10 |
-| 67 | [Play Me Something Nice](https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho) | 3:21 |
-| 68 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 |
+| 65 | [It's Not This](https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [It's Not This](https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY) | 3:10 |
+| 66 | [Give It Away](https://open.spotify.com/track/2dYexYOVMItMNUvGXl4gtR) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:17 |
+| 67 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 |
+| 68 | [Play Me Something Nice](https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho) | 3:21 |
 | 69 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
 | 70 | [Feels \(feat\. Khalid\)](https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Feels \(feat\. Khalid\)](https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz) | 3:41 |
 | 71 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 79 | [Sola](https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx) | 3:18 |
 | 80 | [Terrapin](https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse) | 4:38 |
 | 81 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
-| 82 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 |
-| 83 | [Scarred for Tryin.](https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Scarred for Tryin.](https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF) | 3:07 |
+| 82 | [Scarred for Tryin.](https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Scarred for Tryin.](https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF) | 3:07 |
+| 83 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 |
 | 84 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 |
 | 85 | [Wavvy](https://open.spotify.com/track/7qHus80qoEHRDq8MYJjaNm) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/7A3NVckB7uKzaRkoASyapo) | 3:07 |
 | 86 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 89 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 |
 | 90 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 |
 | 91 | [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 |
-| 92 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 |
-| 93 | [Late \(Again\)](https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz) | 1:55 |
+| 92 | [Late \(Again\)](https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz) | 1:55 |
+| 93 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 |
 | 94 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 |
 | 95 | [Some Place Else](https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 3:34 |
 | 96 | [Can't Find](https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Time](https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Time](https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz) | 3:20 |
 | 100 | [Gone 2 Long](https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Gone 2 Long](https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ) | 3:15 |
 
-Snapshot ID: `MCwyNzBmYzQxYWFkNjNjMzhhZGU4YWYwYzM2OWVhMzlhZTc4Y2UwNjcx`
+Snapshot ID: `MCw0YmIyODgxN2Q1NjE2MTNjMjQ0MjVjNGY5ZGViZTAxODUxY2RmZDAx`

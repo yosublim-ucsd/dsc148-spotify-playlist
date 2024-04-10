@@ -4,11 +4,12 @@
 
 > Our editors' picks for the best Folk & Americana songs this year\. Cover: Noah Kahan
 
-295 songs - 18 hr 12 min
+296 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4runner](https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 4:25 | 2023-11-29 |  |
+| [4runner](https://open.spotify.com/track/30Uu3CWjWfudnTGTIrw93V) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:25 | 2023-11-29 |  |
+| [4runner](https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 4:25 | 2023-11-29 | 2024-04-10 |
 | [68](https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:27 | 2023-11-29 |  |
 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 | 2023-11-29 |  |
 | [All Again](https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 3:48 | 2023-11-29 |  |

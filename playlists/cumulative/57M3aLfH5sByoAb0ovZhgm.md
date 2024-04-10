@@ -4,7 +4,7 @@
 
 > cookin&\#x27;
 
-112 songs - 6 hr 53 min
+113 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2023-06-11 |  |
 | [QUE PRETENDES](https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:42 | 2023-06-10 |  |
 | [Quema](https://open.spotify.com/track/6A6cCw7LCB5ob9LRsQwc7I) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX) | 3:26 | 2023-06-10 |  |
+| [Raaton Mein](https://open.spotify.com/track/3v1Tzvk4OcbhQbRMHozwJQ) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Moonbounce](https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ) | 3:51 | 2024-04-09 |  |
 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2023-06-11 |  |
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2023-06-12 |  |
 | [ROXANNE \- Remix](https://open.spotify.com/track/5hC7h0yWVMkxhLbNXCscBR) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [ROXANNE \(Remix\)](https://open.spotify.com/album/1TKGHgC2qxwuZPW30TNEYW) | 2:54 | 2023-06-11 |  |

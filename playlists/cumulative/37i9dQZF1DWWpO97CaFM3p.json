@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv"
@@ -3768,6 +3768,24 @@
       "duration_ms": 315294,
       "name": "quite alright",
       "url": "https://open.spotify.com/track/3ac7wRpO4zkSxzDDa5kado"
+    },
+    {
+      "album": {
+        "name": "Fruit from the Trees",
+        "url": "https://open.spotify.com/album/69Dt5SjS6dSCmlPfqMhWwv"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296929,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/2YhLF7zIxcitEkobaGAMmU"
     },
     {
       "album": {

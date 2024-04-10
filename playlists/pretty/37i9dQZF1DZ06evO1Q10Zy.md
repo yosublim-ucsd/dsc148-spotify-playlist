@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,277 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,281 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 26 | [Sweat](https://open.spotify.com/track/1eRp0Gyiv7UY7an1VWYGi6) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:27 |
 | 27 | [Shoulda \(feat\. Babyface\)](https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Painted \(Deluxe Edition\)](https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua) | 3:37 |
 | 28 | [The Recipe \(with Muni Long\)](https://open.spotify.com/track/4xDoRWwnUASi910ArPewng) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:08 |
-| 29 | [Where Will You Go](https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
-| 30 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
+| 29 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
+| 30 | [Where Will You Go](https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
 | 31 | [Fire](https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:45 |
 | 32 | [Simple \(with Coco Jones\)](https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:31 |
 | 33 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 46 | [Grown & Sexy](https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:03 |
 | 47 | [Sunshine](https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:11 |
 | 48 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
-| 49 | [Evergreen \(with Babyface\)](https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Partners \(Deluxe\)](https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG) | 3:14 |
-| 50 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
+| 49 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
+| 50 | [Evergreen \(with Babyface\)](https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Partners \(Deluxe\)](https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG) | 3:14 |
 
-Snapshot ID: `MCw2ODRkMDNlNjExNDQ2OGRiMjhkYjliOWI0MWU1MmMxYWZmNGI4OGQ3`
+Snapshot ID: `MCwzZDcxZWU5NGUyYzQzZWFlOWE0NjFhN2Y4MTAwMmE2NDg4MzhjZDFi`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTNjNDdiNDM0NDEzOTJlMGY0MjVlMGY0MGUzMDkwYWZlYTg0YmQz",
+  "snapshot_id": "MCw0NzU0MWM0NWU4MzRhMTVmNmZhNTU1ZTY1M2Y5YmQ2MTVmZDk4YzA2",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
+      "duration_ms": 135560,
+      "name": "Best Fake Friends",
+      "url": "https://open.spotify.com/track/2A1ZQp6zcVEBGfGrkbcpNO"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 135560,
-      "name": "Best Fake Friends",
-      "url": "https://open.spotify.com/track/2A1ZQp6zcVEBGfGrkbcpNO"
+      "duration_ms": 221133,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
     }
   ],
   "unique_name": "This Is Fangclub",

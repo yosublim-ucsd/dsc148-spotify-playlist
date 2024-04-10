@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Gerson King Combo
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,808 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,815 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [tudo por você \(tipo pixote\)](https://open.spotify.com/track/4GBTlzpEEmeXa2BrK6ORFW) | [ieti](https://open.spotify.com/artist/12m12DbOfmeDQ3WHailSjx), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [tudo por você \(tipo pixote\)](https://open.spotify.com/album/4zQihnvBaehZAK0svGGAcz) | 2:43 |
 | 75 | [Black Brasa](https://open.spotify.com/track/2y2hUS0ikiZYSpdPrHA2u1) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Caio Laser](https://open.spotify.com/artist/2jp7kEBemeKyT69klAawwk), [Leonardo Marques](https://open.spotify.com/artist/4h4gmOlHneRU0qqvhkmhN0) | [Black Brasa](https://open.spotify.com/album/3d7n6wxLjYzlsFqxObMbEZ) | 2:32 |
 
-Snapshot ID: `MCwzMTA1MjExMTc1M2Y4YzIyMTQ4ZTI3ODkzMjBjZmZhNGM4MTk0YTAw`
+Snapshot ID: `MCxmZDljNzM3NDUzNjVkMDQ3MjUwN2VhNGJlYjJjOTliYzdjYzFiYjcy`

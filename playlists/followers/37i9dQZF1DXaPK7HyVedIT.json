@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 1196240,
+  "2024-04-10": 1196244,
   "date_first_scraped": "2023-07-23",
   "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Mojjo",
   "name": "Dance Paradise",
@@ -2887,6 +2887,28 @@
       "duration_ms": 167250,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/0VpCBofzHaTHmhdm78xTsN"
+    },
+    {
+      "album": {
+        "name": "Interestelar",
+        "url": "https://open.spotify.com/album/7wkZJBKtUUdyr4peDi7NWw"
+      },
+      "artists": [
+        {
+          "name": "Groove Delight",
+          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+        },
+        {
+          "name": "Lau de Pr\u00e1",
+          "url": "https://open.spotify.com/artist/0IQDW58CkNXAGsLx3DWcRt"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Interestelar",
+      "url": "https://open.spotify.com/track/2q0Aok603ZpxZNzyGAc8SW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045 likes - 179 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046 likes - 179 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 119 | [Besos Mojados](https://open.spotify.com/track/65Ml8XHXAP9yW1TUYgc3Lo) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:11 |
 | 120 | [Te Lo Dije](https://open.spotify.com/track/12lkzBhUysiCPRIKrFLtVQ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:12 |
 | 121 | [Condado](https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Condado](https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD) | 3:52 |
-| 122 | [Era Necesario](https://open.spotify.com/track/1fVN4Cv3vJ3KOXd6VY5o9U) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:07 |
-| 123 | [PERREO LENTO](https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS MARCIANOS Vol.1: Dei V Version](https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a) | 2:36 |
+| 122 | [PERREO LENTO](https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS MARCIANOS Vol.1: Dei V Version](https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a) | 2:36 |
+| 123 | [Era Necesario](https://open.spotify.com/track/1fVN4Cv3vJ3KOXd6VY5o9U) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:07 |
 | 124 | [360](https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 |
 | 125 | [Baby \- Chris Jedi / Supa Dups Remix](https://open.spotify.com/track/14Nqot3iOUgUKEHj6WZOMv) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Supa Dups](https://open.spotify.com/artist/62DQXKsIHSPmr3fZaeARfq) | [Baby \(Chris Jedi / Supa Dups Remix\)](https://open.spotify.com/album/6exYiNUpHdYJD59WTj4o3t) | 3:34 |
 | 126 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 178 | [If You Don't Mind](https://open.spotify.com/track/3l2NsSFabQYFCc4cWq48B7) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:15 |
 | 179 | [24 Horas](https://open.spotify.com/track/0r10aAQk6Em9NEYhMXaNDZ) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:00 |
 
-Snapshot ID: `Mjg1NDM4MTAsMDAwMDAwMDAyNGRhMmM3NTFiZmMxYTRiNWU4ODZjYTM0OWQ1YjU5OA==`
+Snapshot ID: `Mjg1NDUyNTAsMDAwMDAwMDA5ZmYxOWMzMmJjMzQ1NGJhYWE2MjE2YWZhYWQ5MjMwZg==`

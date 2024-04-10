@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFRegGOhYpv3j?si=0ea1f81a3471473c">Alysa Vanderheym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,629 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,625 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Figure of 8](https://open.spotify.com/track/5y6BzS7flAK8m8c9sM23LG) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Figure of 8](https://open.spotify.com/album/4bZARxXUqwelwoJqfRZRvI) | 3:11 |
 | 40 | [RECOVER](https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER](https://open.spotify.com/album/3erra5YLQlS35zS8U3BNr1) | 2:41 |
 
-Snapshot ID: `MCwwZGYxYWE4NmI3YWEyMWNhMzViN2Y5ZTU5YTMyZDA5M2QzMGVlNDJj`
+Snapshot ID: `MCxiN2M1OTU2NGYxNzNkNDcwYTAxZjg2MjI0OGNhM2U2YjAzZmYyOTMy`

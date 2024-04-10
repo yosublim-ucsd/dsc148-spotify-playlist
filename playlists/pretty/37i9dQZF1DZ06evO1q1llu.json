@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 223010,
+  "num_followers": 223048,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2ZlNTFhODdlNGYwNDIwMGRhOTliMGMwNjhmYmIwNDlmNTM1NmY5",
+  "snapshot_id": "MCxlZmJkNmM2ZDRkMWM4OGRiM2RiMTQxYWUxMjNjZTRhN2IzOGZiZDNk",
   "tracks": [
     {
       "added_at": null,
@@ -291,30 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Is Yellow",
-        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
         {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lil Skies",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
         }
       ],
-      "duration_ms": 169014,
-      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
-      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+      "duration_ms": 158324,
+      "name": "Unstable (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
     },
     {
       "added_at": null,
@@ -355,22 +347,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+        "name": "All Is Yellow",
+        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
         }
       ],
-      "duration_ms": 158324,
-      "name": "Unstable (feat. The Kid LAROI)",
-      "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
+      "duration_ms": 169014,
+      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
     },
     {
       "added_at": null,

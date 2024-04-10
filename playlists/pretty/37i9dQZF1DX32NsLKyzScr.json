@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2564843,
+  "num_followers": 2565316,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTgwMWJhZDE5MTg2NzhmYjI4MDFjN2E3YzJiODgyMTY1YzA5OWFi",
+  "snapshot_id": "MCw5ZjcxODZkYzhjZDc1OTJlMTNkM2QzNWFlMzVlODIxZTdiNzExNTVj",
   "tracks": [
     {
       "added_at": "2024-03-29 04:01:00",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "leavemealone",
-        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 222784,
-      "name": "leavemealone",
-      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/1GBBbKOarAJ38HwIfLcOji"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 162857,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/1GBBbKOarAJ38HwIfLcOji"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1647,6 +1647,26 @@
       "duration_ms": 211058,
       "name": "What Took You So Long",
       "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1703,22 +1723,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "New World",
-        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
       },
       "artists": [
         {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
         }
       ],
-      "duration_ms": 236065,
-      "name": "Aria",
-      "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
+      "duration_ms": 147973,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1739,26 +1759,6 @@
       "duration_ms": 189391,
       "name": "Heart over Mind",
       "url": "https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
-      },
-      "artists": [
-        {
-          "name": "MIKOLAS",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
-        },
-        {
-          "name": "Mark Neve",
-          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
-        }
-      ],
-      "duration_ms": 141027,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -2015,6 +1995,26 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
+      },
+      "artists": [
+        {
+          "name": "MIKOLAS",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        }
+      ],
+      "duration_ms": 141027,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -2055,34 +2055,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Endless Summer",
-          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
-        },
-        {
-          "name": "Sadie Rose Van",
-          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
-        }
-      ],
-      "duration_ms": 205810,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
@@ -2107,18 +2079,30 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Endless Summer",
+          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
+        },
+        {
+          "name": "Sadie Rose Van",
+          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
         }
       ],
-      "duration_ms": 157001,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
+      "duration_ms": 205810,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -2159,6 +2143,22 @@
       "duration_ms": 206222,
       "name": "Children - Radio Edit",
       "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 157001,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -2243,22 +2243,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+      "duration_ms": 213495,
+      "name": "The Sign (with CamelPhat)",
+      "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -2283,46 +2283,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         },
         {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 213495,
-      "name": "The Sign (with CamelPhat)",
-      "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 198867,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -2347,6 +2323,30 @@
       "duration_ms": 146692,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 198867,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -2519,6 +2519,26 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Missing You (feat. Nate Smith)",
+        "url": "https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 187258,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Out of Love",
         "url": "https://open.spotify.com/album/6iyHxcHCZ1LoNMhxz95a2s"
       },
@@ -2539,22 +2559,18 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Missing You (feat. Nate Smith)",
-        "url": "https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh"
+        "name": "Wrong or Right (The Riddle)",
+        "url": "https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm"
       },
       "artists": [
         {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
         }
       ],
-      "duration_ms": 187258,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
+      "duration_ms": 154620,
+      "name": "Wrong or Right (The Riddle)",
+      "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -2579,22 +2595,6 @@
       "duration_ms": 240000,
       "name": "I Remember - John Summit Remix",
       "url": "https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Wrong or Right (The Riddle)",
-        "url": "https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 154620,
-      "name": "Wrong or Right (The Riddle)",
-      "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
     },
     {
       "added_at": "2024-03-29 04:01:00",

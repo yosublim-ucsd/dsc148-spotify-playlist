@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,394 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,419 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 12 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
 | 13 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 14 | [Más humano](https://open.spotify.com/track/4A5ikwMNsH1LujHkVzo693) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Más humano](https://open.spotify.com/album/5K2EDr2gJWAwfk4fNMmFYO) | 3:07 |
-| 15 | [Azul](https://open.spotify.com/track/1HM9uVbB4DVQh0QlwY7W6v) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Azul](https://open.spotify.com/album/4JDKIJuDXFfi95NSQ0K7Dl) | 3:14 |
-| 16 | [¿Y Si Eras Tú?](https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Y Si Eras Tú?](https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA) | 2:49 |
+| 15 | [¿Y Si Eras Tú?](https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Y Si Eras Tú?](https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA) | 2:49 |
+| 16 | [Azul](https://open.spotify.com/track/1HM9uVbB4DVQh0QlwY7W6v) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Azul](https://open.spotify.com/album/4JDKIJuDXFfi95NSQ0K7Dl) | 3:14 |
 | 17 | [Bossa No Sé \(feat\. Jean Carter\)](https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 3:21 |
 | 18 | [La Magia](https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 4:05 |
 | 19 | [PIENSO EN TU MIRÁ \- Cap.3: Celos](https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:13 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 33 | [dEsANiMaO :\(](https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [dEsANiMaO :\(](https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ) | 3:07 |
 | 34 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
 | 35 | [Cuando](https://open.spotify.com/track/2zLpAVqDJ2YfxIFNGMS8y0) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 3:26 |
-| 36 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
-| 37 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
+| 36 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
+| 37 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
 | 38 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |
 | 39 | [Si Nos Vamos](https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Si nos vamos](https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ) | 2:46 |
 | 40 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 64 | [Delirio](https://open.spotify.com/track/66wtRMoucasMcqUIYHzk7l) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:53 |
 | 65 | [tensión](https://open.spotify.com/track/17POGo5ALqlJWhUhmH7Zbq) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 3:07 |
 
-Snapshot ID: `MCwyNjk0MTQyNTFiZjE3ZjEwOGRhNGMwMGFmMDQxMzc0ZGVmOTQzNzcz`
+Snapshot ID: `MCxmNGIyMDk2MjI2ZjQ3ZGY5ODIyOWE1NGE1YTAyNGU2NjUxOTdmMzlj`

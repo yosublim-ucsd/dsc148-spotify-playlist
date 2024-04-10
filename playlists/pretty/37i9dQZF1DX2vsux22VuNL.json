@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 290795,
+  "num_followers": 290803,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGM5OGQ4YmI0YTlkY2E3OTFiNDZmMzM2MmZkMzIxNmI4MmUyZTI1",
+  "snapshot_id": "MCxiYTg3ZmYxOWRkYTYxMWE4YzA3ZTJkZjRhNzlhNTM3MjlmYTUxMjNl",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        }
+      ],
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Algum Lugar Pra Gente Viajar",
         "url": "https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "FOME",
-        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        },
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Um Pouco Mais",
+        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Um Pouco Mais",
-        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Desliga",
         "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 167478,
       "name": "Desliga",
       "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Oxossi",
         "url": "https://open.spotify.com/album/73QzmgHwhXvBE3xKuBMT25"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 204131,
       "name": "Oxossi",
       "url": "https://open.spotify.com/track/4YqPRJQN7eutRyyEYNBftJ"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Seu Z\u00e9",
-        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
-      },
-      "artists": [
-        {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
-        }
-      ],
-      "duration_ms": 136430,
-      "name": "Seu Z\u00e9",
-      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "T\u00e1 Fod*",
         "url": "https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 147040,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Seu Z\u00e9",
+        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 136430,
+      "name": "Seu Z\u00e9",
+      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
     },
     {
       "added_at": "2024-03-29 03:00:00",

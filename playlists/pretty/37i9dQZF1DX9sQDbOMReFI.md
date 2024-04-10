@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Cypress Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,750 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,994 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 47 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
 | 48 | [Tonite](https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 5:23 |
 | 49 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
-| 50 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
+| 50 | [Nobody Does It Better](https://open.spotify.com/track/7miy73aP7NFhj8PL7V4VqM) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [G Funk Classics, Vols\. 1 & 2](https://open.spotify.com/album/65VsPlhdWF5PH1CViFskY5) | 4:34 |
 
-Snapshot ID: `MCw3MjI5MDM2NjU5YmIyMGMwNTFmNmYxZTU1NmZjNTEyNzRhYjE5Y2Q0`
+Snapshot ID: `MCw1MmY5M2ZjNGRlYTlmNzFmOWZmNGU1MDFiMmUwMDgxZTRlNmJmYTAw`

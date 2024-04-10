@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,995 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,137 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 51 | [A Quién Vas A Amar Más Que A Mí](https://open.spotify.com/track/5s6D3aH0ZJPVW2BmQBPpaJ) | [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [Para Siempre Los Nietos De Terán](https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt) | 2:51 |
 | 52 | [Aunque Ya Tengas Marido](https://open.spotify.com/track/4EwfGjLIQELHipH2w9jx8d) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:31 |
 | 53 | [En Un Jaripeo](https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:41 |
-| 54 | [Un Carino Como Tu](https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:18 |
-| 55 | [Hasta Que Amanezca](https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Las Románticas de Cuisillos, Vol\. 2](https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd) | 2:56 |
+| 54 | [Hasta Que Amanezca](https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Las Románticas de Cuisillos, Vol\. 2](https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd) | 2:56 |
+| 55 | [Un Carino Como Tu](https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:18 |
 | 56 | [Nada De Ti](https://open.spotify.com/track/1iIIyMbWDfMLyufjX3N80U) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:06 |
 | 57 | [Melodia Para Dos](https://open.spotify.com/track/3sLRC3lwcKEn6tdGc0xoWI) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 2:43 |
 | 58 | [El Último Beso](https://open.spotify.com/track/2qnjcjo3vFxZpb62jMKGgW) | [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [Para Siempre Los Nietos De Terán](https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt) | 3:12 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 68 | [Ahora Si Va En Serio](https://open.spotify.com/track/4JN3IkAjaa0J3sPNXsbWWh) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Joyas Musicales: Lo Ranchero De Cuisillos De Arturo Macías, Vol\. 2](https://open.spotify.com/album/3eQMPyj1pDRSlLoF1TA7K5) | 2:38 |
 | 69 | [La Venganza de Tina](https://open.spotify.com/track/6Gc77aqLOJX7ivsPGlMj8y) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 3:23 |
 | 70 | [Que Ya No Estas](https://open.spotify.com/track/7H4VG0Gh5P9dj6zS4A03iR) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:05 |
-| 71 | [Mayra](https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:14 |
-| 72 | [Mi Propio Final](https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:41 |
+| 71 | [Aunque Me Duela El Alma](https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 3:02 |
+| 72 | [Mayra](https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:14 |
 | 73 | [La Mamá De Los Pollitos](https://open.spotify.com/track/7JnUkfU2Ojbem9NuEvbPzK) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 2:56 |
-| 74 | [Aunque Me Duela El Alma](https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 3:02 |
+| 74 | [Mi Propio Final](https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:41 |
 | 75 | [Contando Penas](https://open.spotify.com/track/7a37gfqE5ax5abZdPOiwAe) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:44 |
 | 76 | [Las Mariposas](https://open.spotify.com/track/7nMybk0CdPDILEmkckC7SO) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:42 |
 | 77 | [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 99 | [Los Cazahuates](https://open.spotify.com/track/4e40PB59A0nlbBDX5w3ku6) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:25 |
 | 100 | [Amor Sin Cuenta](https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:26 |
 
-Snapshot ID: `MCxlOWZlNzRlMmUyMGI0ZjM3ZDQ2ZDBkZWM1ZDM3MmI5NTU3Mjg0NDJh`
+Snapshot ID: `MCwzMThjMjNhYzI4MGNlZDIyNTIzM2E2MzhiNzJkZjQxNDVhOWJlNWQ4`

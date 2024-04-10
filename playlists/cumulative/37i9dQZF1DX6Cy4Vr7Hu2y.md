@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: BABYMONSTER\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-390 songs - 21 hr 35 min
+392 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,12 +41,13 @@
 | [Better Me](https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [BE](https://open.spotify.com/album/6tzNl7uTUZQnElYwtzZaGX) | 3:20 | 2021-11-21 | 2022-07-17 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 | 2024-04-03 |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-11-21 | 2022-10-08 |
+| [Birth](https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 1 : Birth>](https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ) | 2:42 | 2024-04-09 |  |
 | [BIRTHDAY](https://open.spotify.com/track/3jsWXhE5NuPWQ4IHplv2zt) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/7GfqgsiW63VBNLRvIrhqLx) | 3:05 | 2021-11-21 | 2022-07-29 |
 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 | 2022-07-07 | 2022-08-28 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-11-29 | 2023-06-16 |
 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 | 2023-08-18 | 2023-08-26 |
 | [Blossom Flower](https://open.spotify.com/track/7IJdSAtU6GS3AzvvSmvgUs) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Blossom Flower](https://open.spotify.com/album/4CKtim3edPtjSJVbz5SQbF) | 3:47 | 2021-11-21 | 2022-04-21 |
-| [Blue](https://open.spotify.com/track/3R8iyJpmhI9ABDmTpetV2D) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Four Seasons](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) | 3:32 | 2021-11-21 |  |
+| [Blue](https://open.spotify.com/track/3R8iyJpmhI9ABDmTpetV2D) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Four Seasons](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) | 3:32 | 2021-11-21 | 2024-04-10 |
 | [Blue Rose](https://open.spotify.com/track/68F0Awp8Y64KAgvYYbUFc1) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Blue Ocean](https://open.spotify.com/album/52Kxjw9qexbhmGcKpyHDMQ) | 3:27 | 2021-11-21 | 2022-07-23 |
 | [BOP BOP! \- Highteen Version](https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:03 | 2022-06-01 | 2022-07-28 |
 | [Boy](https://open.spotify.com/track/4AXPq8RyL0rrVhcmCw0bvr) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [Boy](https://open.spotify.com/album/0Np1Ghr7TB9tTIkI42AOnH) | 3:15 | 2022-03-22 | 2022-04-21 |
@@ -196,7 +197,7 @@
 | [LOVE IS YOU](https://open.spotify.com/track/4GsdC4RqKvSkGn0Z3Lx65P) | [6일](https://open.spotify.com/artist/6aSA3NgA142nxYJhz0nQhG) | [LOVE IS YOU](https://open.spotify.com/album/5GaOf9kp8oxD3ofsMcormR) | 3:39 | 2021-11-21 | 2022-07-09 |
 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-24 | 2023-06-07 |
 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 | 2023-06-06 |  |
-| [Love U](https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:10 | 2024-03-21 |  |
+| [Love U](https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:10 | 2024-03-21 | 2024-04-10 |
 | [Love U](https://open.spotify.com/track/4x5l1gjNcoBhhWBPEMo7OQ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL) | 3:10 | 2022-02-14 | 2022-06-29 |
 | [Love War \(Feat\. BE'O\)](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Love War](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) | 3:08 | 2023-01-16 | 2023-03-29 |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-01-19 | 2022-07-29 |
@@ -205,6 +206,7 @@
 | [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 | 2022-01-19 | 2022-08-19 |
 | [MANIAC](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) | 3:15 | 2024-03-13 |  |
 | [Meteor](https://open.spotify.com/track/6Sp9f4XlwwcLC5rYZ0Lciz) | [RooRee](https://open.spotify.com/artist/62HcvUj43NJbUB70pjC2Uk) | [Meteor](https://open.spotify.com/album/1OV9TqU11H7Z1RWfbQ6Nxc) | 4:15 | 2022-03-22 | 2022-07-14 |
+| [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-09 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-11-21 | 2024-03-22 |
 | [Moonlight](https://open.spotify.com/track/6FHwkEfmpjhoEzS9s8ao7f) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Moonlight](https://open.spotify.com/album/5emTRUsmyNF1hNSTVqlyO9) | 3:39 | 2021-11-21 | 2022-05-19 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 | 2023-03-07 | 2024-03-25 |

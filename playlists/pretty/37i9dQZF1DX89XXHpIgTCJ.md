@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,323 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,389 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 41 | [Let's Roll](https://open.spotify.com/track/61Qah5aEk9024AEaXCgXtN) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Radioactive \(Explicit Version\)](https://open.spotify.com/album/3AGMorE666prvzWaHGddKo) | 3:54 |
 | 42 | [Nobody's Listening](https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 2:58 |
 | 43 | [Ready To Go](https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Ready To Go](https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur) | 6:01 |
-| 44 | [Sunrise Trailer Park](https://open.spotify.com/track/0QoF2FmE6FtmxRneMb6Z7Y) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 |
-| 45 | [Game On \(feat\. Good Charlotte\) \- From "Pixels \- The Movie"](https://open.spotify.com/track/2qUTxCqJW2Irez1eYZcGNx) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Game On \(feat\. Good Charlotte\) \[from "Pixels \- The Movie"\]](https://open.spotify.com/album/45qTcdlqFuZfj25pnYxeVL) | 3:47 |
+| 44 | [Game On \(feat\. Good Charlotte\) \- From "Pixels \- The Movie"](https://open.spotify.com/track/2qUTxCqJW2Irez1eYZcGNx) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Game On \(feat\. Good Charlotte\) \[from "Pixels \- The Movie"\]](https://open.spotify.com/album/45qTcdlqFuZfj25pnYxeVL) | 3:47 |
+| 45 | [Sunrise Trailer Park](https://open.spotify.com/track/0QoF2FmE6FtmxRneMb6Z7Y) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 |
 | 46 | [Diamonds And Guns](https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Transplants](https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ) | 4:01 |
 | 47 | [It's Goin' Down \(feat\. Mike Shinoda & Mr\. Hahn\)](https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq) | [X\-Ecutioners](https://open.spotify.com/artist/7eVbT3G1ggf2sz6s7ZV0Ap), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Mr\. Hahn](https://open.spotify.com/artist/73yonhSeG9UY7shqUfk6cd) | [Built From Scratch](https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv) | 4:08 |
 | 48 | [Pure 90 \(Rapping Queen\)](https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Apelogies](https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV) | 4:36 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 55 | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d) | 2:45 |
 | 56 | [Body Count's in the House](https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Body Count](https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J) | 3:24 |
 | 57 | [Rockstar](https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:19 |
-| 58 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
+| 58 | [Unfuck The World](https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X) | 4:10 |
 | 59 | [Fuck Dying](https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [War & Peace Vol\. 1 \(The War Disc\)](https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4) | 4:03 |
 | 60 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 
-Snapshot ID: `MCwxYmNkZGNiNDBiMTcyYzEwYzk1ZDgwY2JhZjk3NTNmZTNkMTU2ZjZl`
+Snapshot ID: `MCwwZmFkMThhMzZjY2FiNmJiMjMxZjgzNDFhYjc0Mjg1MmVhMzU5MTk2`

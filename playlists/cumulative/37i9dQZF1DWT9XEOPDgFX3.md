@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Babehoven
 
-465 songs - 1 day 4 hr 43 min
+466 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 | 2022-04-29 |  |
 | [4th of July](https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [4th of July](https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0) | 2:56 | 2023-01-27 | 2023-02-25 |
 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 | 2023-08-11 |  |
-| [A Little Older](https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [A Little Older](https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR) | 3:02 | 2023-06-02 |  |
+| [A Little Older](https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [A Little Older](https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR) | 3:02 | 2023-06-02 | 2024-04-10 |
 | [A Thread to Find](https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Geist](https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel) | 3:48 | 2022-04-29 | 2023-05-28 |
 | [A Thread to Find](https://open.spotify.com/track/3YQP3UTH8mLBS5bpaZAsyE) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [A Thread to Find](https://open.spotify.com/album/4jxZ8wm6AfkNUVDPmmT6Ua) | 3:48 | 2022-04-13 | 2022-07-28 |
 | [Achieve](https://open.spotify.com/track/6nxHUthuBDeaojNDs9GFA3) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [Achieve](https://open.spotify.com/album/18mnZLbc2XhtkSaMrwGxWf) | 3:19 | 2023-08-11 | 2023-09-05 |
@@ -293,6 +293,7 @@
 | [No Summer](https://open.spotify.com/track/3DeRxZx9NeymcEKzDqY79r) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [No Summer](https://open.spotify.com/album/5lGTDW0jIkmQio3Kozn9fl) | 3:51 | 2022-04-13 | 2022-07-29 |
 | [Not Much](https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Hailaker](https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q) | 4:13 | 2022-12-16 | 2023-11-12 |
 | [Nowhere](https://open.spotify.com/track/77xVAa1MgwURdZAq7LwGAC) | [Katie Von Schleicher](https://open.spotify.com/artist/68UA9076k6lewTq2slA1FN) | [Consummation](https://open.spotify.com/album/7BFCex0ujA1VHUvkqjqlnb) | 3:39 | 2022-04-13 | 2022-07-28 |
+| [Nutshell](https://open.spotify.com/track/0EUjfn3w3kX9RR28BTfTIf) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Nutshell](https://open.spotify.com/album/35XLFJy9hpu0UNA4x4GDnH) | 4:08 | 2024-04-05 |  |
 | [NYC](https://open.spotify.com/track/3PO6bQHGoPJh4kE2mMBIWw) | [Jennifer Castle](https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK) | [Monarch Season](https://open.spotify.com/album/3POEgRtT5FxmaaMNdBZWT0) | 3:54 | 2022-01-21 | 2022-07-27 |
 | [Oak Hill](https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Oak Hill](https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo) | 4:17 | 2023-02-10 | 2023-05-04 |
 | [Ocotillo](https://open.spotify.com/track/4ABRY5YF41ujdFZz4AeJVp) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Ocotillo](https://open.spotify.com/album/4bTftSZkQC8035Mi0j7wYK) | 4:50 | 2022-04-13 | 2022-07-29 |

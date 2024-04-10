@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,278 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,284 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 20 | [Lately](https://open.spotify.com/track/2931VBrdy0FnvNmjfyRPD9) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Lately](https://open.spotify.com/album/5OUPs3doEKFc9Mm2NGGiwD) | 4:02 |
 | 21 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
 | 22 | [Love No Limit](https://open.spotify.com/track/7gEGhEb1VcCeC6lJWnjI9Z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:59 |
-| 23 | [Whenever Wherever Whatever \- Remastered 2021](https://open.spotify.com/track/5qUNf2ihX0M4uY1qi9GMRp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 3:45 |
+| 23 | [Why I Love You](https://open.spotify.com/track/2xN98jvoGdfBzPS0HDMlXT) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Why I Love You \- Single](https://open.spotify.com/album/6567j2YYSIlduWjsNQefgk) | 3:55 |
 | 24 | [Ribbon In The Sky](https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 5:37 |
-| 25 | [Why I Love You](https://open.spotify.com/track/2xN98jvoGdfBzPS0HDMlXT) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Why I Love You \- Single](https://open.spotify.com/album/6567j2YYSIlduWjsNQefgk) | 3:55 |
+| 25 | [Whenever Wherever Whatever \- Remastered 2021](https://open.spotify.com/track/5qUNf2ihX0M4uY1qi9GMRp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 3:45 |
 | 26 | [You Put A Move On My Heart](https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 6:13 |
 | 27 | [If This World Were Mine \(with Luther Vandross\)](https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Instant Love \(Expanded Edition\)](https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG) | 5:23 |
 | 28 | [How Many Ways](https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 49 | [Let's Stay Together \- Midnight Mix](https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:46 |
 | 50 | [Love, Need And Want You](https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Essential Patti LaBelle](https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3) | 5:00 |
 
-Snapshot ID: `MCwxNmQ5ZDU3YjYzY2NjNGZkNGExMDJjMWJhYzNlZjEzOTQ0NTJiMjQ2`
+Snapshot ID: `MCwwMGFhMzQ1ZjAyNDMwOWFlOGM1ZmMyYTdmMDViODlkMzUzMzBkMGY3`

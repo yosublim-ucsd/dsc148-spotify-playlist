@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,762 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,797 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 45 | [Veinte Años](https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:32 |
 | 46 | [Sabré Olvidar](https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 4:07 |
 | 47 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 |
-| 48 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
-| 49 | [Que Te Vaya Bonito](https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas: 30 Exitos](https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse) | 3:24 |
-| 50 | [La Canícula](https://open.spotify.com/track/5ltGrLgjwhLk5o0yGP1WXL) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 3:07 |
+| 48 | [La Canícula](https://open.spotify.com/track/5ltGrLgjwhLk5o0yGP1WXL) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 3:07 |
+| 49 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
+| 50 | [Que Te Vaya Bonito](https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas: 30 Exitos](https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse) | 3:24 |
 | 51 | [Muñeca](https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 3:17 |
 | 52 | [Si Alguna Vez](https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:53 |
 | 53 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 65 | [Me Haces Existir](https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:49 |
 | 66 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 |
 | 67 | [Tu Amor No Vale un Bolero](https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Lorena Jimenez](https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu) | [Tu Amor No Vale un Bolero](https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ) | 3:26 |
-| 68 | [¿Y Cómo?](https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo) | 3:32 |
-| 69 | [Adentro](https://open.spotify.com/track/0xq1O6ihCy7Y6U2gBEGdPt) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Adentro](https://open.spotify.com/album/4M5M5qXVRSieQR6QMf3PQ1) | 3:48 |
+| 68 | [Adentro](https://open.spotify.com/track/0xq1O6ihCy7Y6U2gBEGdPt) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Adentro](https://open.spotify.com/album/4M5M5qXVRSieQR6QMf3PQ1) | 3:48 |
+| 69 | [¿Y Cómo?](https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo) | 3:32 |
 | 70 | [Debut Y Despedida](https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:03 |
 | 71 | [La Flor De La Canela](https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 3:22 |
 | 72 | [Ni una Gota de Amor](https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 99 | [La Corriente](https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:31 |
 | 100 | [Marchita](https://open.spotify.com/track/2ytk2n3eCn8hsM3leSVqhN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:46 |
 
-Snapshot ID: `MCxiNjNiZjM4ZTYxYTQ1ZjUyNDVjMzNjNTFiMTg0ZTVmODFmMGY5Y2Nh`
+Snapshot ID: `MCw5NzM1ZmVmZjhhMWFmYzc4Njg4NWJlYmIyZjRjYTg2YjY0OGE3Njll`

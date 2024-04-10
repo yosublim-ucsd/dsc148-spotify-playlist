@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,087 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,197 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 75 | [Recurring](https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:52 |
 | 76 | [In The Bath](https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:41 |
 | 77 | [Purrfect](https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Love Pussycats & Carwrecks](https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9) | 4:50 |
-| 78 | [Slowly](https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Supermodified](https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra) | 5:37 |
-| 79 | [Smile](https://open.spotify.com/track/6pw0Smtd6ydy5oywoqRXjY) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:01 |
+| 78 | [Smile](https://open.spotify.com/track/6pw0Smtd6ydy5oywoqRXjY) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:01 |
+| 79 | [Slowly](https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Supermodified](https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra) | 5:37 |
 | 80 | [Nothing Can Stop Us](https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:21 |
 | 81 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 |
 | 82 | [Broken Together](https://open.spotify.com/track/7ItezsVpDJjSP2Y5mpnOnH) | [Sofa Surfers](https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X), [Mani Obeya](https://open.spotify.com/artist/3Ex5qqvWXjVZkWuTkYkKc6) | [Superluminal](https://open.spotify.com/album/3l50IaIO1hQnl4MiTHTJsn) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 99 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
 | 100 | [End of Our Days](https://open.spotify.com/track/33u4LsVXzotyxM37912gNr) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [Restriction](https://open.spotify.com/album/4grzyr8RWop3h1MLoo74ZP) | 4:52 |
 
-Snapshot ID: `MCxkMzUxYzBjNjI5MTU0MTc1OTkzZDU2N2U5M2JlOTMzNDllNTgyZjA1`
+Snapshot ID: `MCw3YWIxYmFhOWIzMWMwMDE2MTcxZWJkYmYxMGRkMDEzNWFlODU4MmQ5`

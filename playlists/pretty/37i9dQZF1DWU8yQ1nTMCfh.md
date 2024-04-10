@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Viniloversus
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,743 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,764 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 37 | [Me Gustas Tanto](https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Me Gustas Tanto](https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2) | 2:01 |
 | 38 | [Money In The Bank](https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9) | 3:54 |
 | 39 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 |
-| 40 | [Lo Que Nadie Supo Dar](https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:08 |
-| 41 | [santos inocentes](https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [santos inocentes](https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9) | 2:52 |
+| 40 | [santos inocentes](https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [santos inocentes](https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9) | 2:52 |
+| 41 | [Lo Que Nadie Supo Dar](https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:08 |
 | 42 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 |
 | 43 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:54 |
 | 44 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE) | 3:18 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 65 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 |
 | 66 | [FLASHBACKS](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [FLASHBACKS](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
 | 67 | [Suéltate el pelo](https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suéltate el pelo](https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz) | 2:51 |
-| 68 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
-| 69 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
+| 68 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
+| 69 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
 | 70 | [Más Tuyo](https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Más Tuyo](https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6) | 3:00 |
 | 71 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 |
 | 72 | [INVESTIDO](https://open.spotify.com/track/2BJS8zYnk91hYVpX2m9OMz) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [333](https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 74 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
 | 75 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 |
 
-Snapshot ID: `MCxkMzUzNjU4NDhiZGE4MWM1MDU2YjQwMmY4MWY3YzZhODMzZTNjNzc2`
+Snapshot ID: `MCw1YzU5ZDdiYjU4ZTJjYzhmNTBhYjMwZjc4NWI3NWYzMjg2MTdhN2I0`

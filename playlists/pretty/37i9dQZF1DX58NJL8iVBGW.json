@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 601406,
+  "num_followers": 601536,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2JiODQ2ZGNiNDE0NTliNWMzYTFhMWE0OThlOGNlZTg1YzE5OWJj",
+  "snapshot_id": "MCwyMzcxOTEzNjI3ZTk2MTQ3ZTc0YTRkODIzMTMwMWM5ODc1Yjg1ODc4",
   "tracks": [
     {
       "added_at": "2024-02-16 19:57:55",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Ashkelon",
-        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 313867,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 156106,
       "name": "Hades Pleads",
       "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Ashkelon",
+        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 313867,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 518745,
-      "name": "Go Dig My Grave",
-      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/04XRtyMhwCe9HoWbzBO1eE"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 458000,
       "name": "Heron Blue",
       "url": "https://open.spotify.com/track/6GoESztTu0GEiWuVFgsBUx"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 518745,
+      "name": "Go Dig My Grave",
+      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Real Gone (Remastered)",
-        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "How's It Gonna End",
-      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Devil Don't You Fool Me",
         "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 170985,
       "name": "Devil Don't You Fool Me",
       "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Real Gone (Remastered)",
+        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "How's It Gonna End",
+      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Horehound",
-        "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
-      },
-      "artists": [
-        {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
-        }
-      ],
-      "duration_ms": 380160,
-      "name": "Will There Be Enough Water?",
-      "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "When the River Took Flight",
         "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 186213,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Horehound",
+        "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "duration_ms": 380160,
+      "name": "Will There Be Enough Water?",
+      "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Filthy Dirty South",
-        "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Filthy Dirty South",
-      "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "The Longest Day",
         "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 270228,
       "name": "Highway 9",
       "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Filthy Dirty South",
+        "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Filthy Dirty South",
+      "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
     },
     {
       "added_at": "2024-02-16 19:57:55",

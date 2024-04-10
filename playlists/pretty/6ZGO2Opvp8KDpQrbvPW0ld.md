@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,633 likes - 300 songs - 10 hr 58 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,629 likes - 300 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 179 | [pulp fiction](https://open.spotify.com/track/0xDk4oWqMFNyD01shOpL7P) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [pulp fiction](https://open.spotify.com/album/67D9qs21JPH7KvJ7KJUfTn) | 2:04 |
 | 180 | [Breathe \- Instrumental](https://open.spotify.com/track/0qAB4PIGdZjqozqOWvHZbh) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Breathe](https://open.spotify.com/album/1mmb13oCZFMIMZQciwdX33) | 2:37 |
 | 181 | [Afternoon Jam](https://open.spotify.com/track/5nwL3xEmwTfZuZFddQziDw) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Afternoon Jam](https://open.spotify.com/album/1U5J1Cc4blQJQPntxWma0S) | 2:00 |
-| 182 | [I Love it](https://open.spotify.com/track/0hYbEfuuaKQpGekHP9WehE) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [I Love It](https://open.spotify.com/album/0EcexgBysyzkU7pGNRqKDi) | 1:04 |
+| 182 | [I Love it](https://open.spotify.com/track/0hYbEfuuaKQpGekHP9WehE) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [I Love It](https://open.spotify.com/album/0EcexgBysyzkU7pGNRqKDi) | 1:04 |
 | 183 | [Salt](https://open.spotify.com/track/5KtBICfynMEV2bhU1dmg6c) | [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4), [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l) | [Salt](https://open.spotify.com/album/4I0zz0upYtNTfecEdoEDa6) | 2:16 |
 | 184 | [Twilight](https://open.spotify.com/track/2Dqgb6NPq2Y5ttgpiGAsMe) | [intime](https://open.spotify.com/artist/7qRNFExHXMXcJtmjafPasi) | [Twilight](https://open.spotify.com/album/1EyH2K6rvSHQ7tbPXPJLGZ) | 2:09 |
 | 185 | [Kungsgatan](https://open.spotify.com/track/6mzY3jK6D3lGTm9LNK83VC) | [Boukas](https://open.spotify.com/artist/59yn6qYpXksMH0N6y42Hnj) | [Kungsgatan](https://open.spotify.com/album/0cKMdMfRPNh0rB0Fy9VToe) | 3:29 |

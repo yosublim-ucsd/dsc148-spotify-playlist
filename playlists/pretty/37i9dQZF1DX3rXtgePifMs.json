@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 90204,
+  "num_followers": 90313,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjczOTViYzBiOGNhNzA0N2RkMWE0ZjZmZDdkOGU0ZWQ2ZjdjMjk5",
+  "snapshot_id": "MCw3Y2I2ZGIyMTUwNjIwYjI3YzFhMzllNjMxOTBkYTM3YzJmZTAyY2Uy",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Angry",
-        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 226735,
-      "name": "Angry",
-      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 190626,
       "name": "Going Kokomo",
       "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Angry",
+        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -319,30 +319,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "MICHAEL",
-        "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        },
-        {
-          "name": "thankugoodsir",
-          "url": "https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "DON'T LET THE DEVIL (feat. thankugoodsir)",
-      "url": "https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
         "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
       },
@@ -363,6 +339,30 @@
       "duration_ms": 147025,
       "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "MICHAEL",
+        "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "thankugoodsir",
+          "url": "https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "DON'T LET THE DEVIL (feat. thankugoodsir)",
+      "url": "https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 182838,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Space Heavy",
         "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 245933,
       "name": "Seaforth",
       "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 182838,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "there she goes",
+        "url": "https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "duration_ms": 162649,
+      "name": "there she goes",
+      "url": "https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 222070,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "there she goes",
-        "url": "https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        }
-      ],
-      "duration_ms": 162649,
-      "name": "there she goes",
-      "url": "https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5"
     },
     {
       "added_at": "2023-12-01 18:29:06",
@@ -905,26 +905,6 @@
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
-      "added_at": "2024-01-08 18:27:55",
-      "album": {
-        "name": "Always Get Through To You",
-        "url": "https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Surya Sen",
-          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
-        }
-      ],
-      "duration_ms": 203130,
-      "name": "Always Get Through To You",
-      "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
-    },
-    {
       "added_at": "2023-11-20 15:00:00",
       "album": {
         "name": "I Just Wanna Dance",
@@ -943,6 +923,26 @@
       "duration_ms": 163750,
       "name": "I Just Wanna Dance",
       "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
+    },
+    {
+      "added_at": "2024-01-08 18:27:55",
+      "album": {
+        "name": "Always Get Through To You",
+        "url": "https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        }
+      ],
+      "duration_ms": 203130,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "We Can Be Anything",
-        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201047,
-      "name": "We Can Be Anything",
-      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "A STRANGER",
         "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 167391,
       "name": "A STRANGER",
       "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Better Than I?",
+        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
+      },
+      "artists": [
+        {
+          "name": "Shakes",
+          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
+        }
+      ],
+      "duration_ms": 145861,
+      "name": "Better Than I?",
+      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "DICHOTOMY",
         "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 223278,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Better Than I?",
-        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
-      },
-      "artists": [
-        {
-          "name": "Shakes",
-          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
-        }
-      ],
-      "duration_ms": 145861,
-      "name": "Better Than I?",
-      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Who Else Would It Be",
-        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 91913,
-      "name": "Who Else Would It Be",
-      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Pain/Pleasure",
         "url": "https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 113526,
       "name": "Get It",
       "url": "https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Who Else Would It Be",
+        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 91913,
+      "name": "Who Else Would It Be",
+      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "THAT GIRL",
+        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Absolutely Tidy",
         "url": "https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 171726,
       "name": "Absolutely Tidy",
       "url": "https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "THAT GIRL",
-        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 125800,
-      "name": "THAT GIRL",
-      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Earache / Sekkle In",
+        "url": "https://open.spotify.com/album/4ZG7ya2WiZZVQErG4vUHgM"
+      },
+      "artists": [
+        {
+          "name": "Halogenix",
+          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 225874,
+      "name": "Sekkle In",
+      "url": "https://open.spotify.com/track/7DzIYGJCzK1meLmAWK7DbZ"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "RTJ CU4TRO",
         "url": "https://open.spotify.com/album/0Yu5v3c5K0tXG6HFKZdyek"
       },
@@ -1999,26 +2019,6 @@
       "duration_ms": 244440,
       "name": "fuera de vista (feat. Baco Exu Do Blues) (TROOKO\u2019s Versi\u00f3n)",
       "url": "https://open.spotify.com/track/1UHsGZoNGOROg2ZIiJYEjL"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Earache / Sekkle In",
-        "url": "https://open.spotify.com/album/4ZG7ya2WiZZVQErG4vUHgM"
-      },
-      "artists": [
-        {
-          "name": "Halogenix",
-          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
-        }
-      ],
-      "duration_ms": 225874,
-      "name": "Sekkle In",
-      "url": "https://open.spotify.com/track/7DzIYGJCzK1meLmAWK7DbZ"
     },
     {
       "added_at": "2023-11-20 15:00:00",

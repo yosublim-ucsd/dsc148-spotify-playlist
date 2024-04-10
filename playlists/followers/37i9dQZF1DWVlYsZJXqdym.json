@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 1088785,
+  "2024-04-10": 1088825,
   "date_first_scraped": "2023-02-25",
   "description": "All your favourite mood boosting bangers...",
   "name": "Happy Pop Hits",
@@ -343,7 +343,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
@@ -901,6 +901,24 @@
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "album": {

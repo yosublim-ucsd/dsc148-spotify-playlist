@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,220 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,270 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 33 | [Los Aretes De La Luna](https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Vicentico Valdés](https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J) | [Vicentico Valdés Con La Sonora Matancera](https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS) | 2:25 |
 | 34 | [Mañanas de Carnaval](https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Inolvidable \(Boleros\)](https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv) | 3:35 |
 | 35 | [Como Fué](https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Benny Moré Mágico](https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb) | 2:58 |
-| 36 | [Total](https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Canta Sus Exitos](https://open.spotify.com/album/7uCFS6G1cwDikioDJhFHO2) | 3:03 |
-| 37 | [Privilegio](https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Doble Filo](https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA) | 5:14 |
-| 38 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 |
+| 36 | [Privilegio](https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Doble Filo](https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA) | 5:14 |
+| 37 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 |
+| 38 | [Total](https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Canta Sus Exitos](https://open.spotify.com/album/7uCFS6G1cwDikioDJhFHO2) | 3:03 |
 | 39 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
 | 40 | [Corazoncito](https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [El Rey de las Cantinas](https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP) | 3:12 |
 | 41 | [Mi Viejo / Recordando a Mi Padre](https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals, Vol\. 2](https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4) | 5:07 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 53 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |
 | 54 | [Ese Bolero Es Mío](https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:53 |
 | 55 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
-| 56 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
-| 57 | [Qué Quieres Tú de Mi / De Qué Estoy Hecha](https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals](https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo) | 6:24 |
+| 56 | [Qué Quieres Tú de Mi / De Qué Estoy Hecha](https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals](https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo) | 6:24 |
+| 57 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
 | 58 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
 | 59 | [Diablo](https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd) | [Tito Cortes](https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa) | [Romántica](https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp) | 2:48 |
 | 60 | [Brujerias](https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR) | [Johnny Farfán](https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj) | [La Voz Elegante del Bolero](https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H) | 2:25 |
 
-Snapshot ID: `MCxhYjEwZTkyOWRmMDVjNTZjNDg1MGQ2N2NhZGRhNGFiMjZjOTI0OWU4`
+Snapshot ID: `MCw5ZGJlZjllMzc5NjkyYTM3YjVkZmU0YzNmYjliYmFiOGIzNGU3MTQ2`

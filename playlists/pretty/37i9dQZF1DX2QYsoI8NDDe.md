@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Janeth Valenzuela
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,760 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,781 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 38 | [El Rápido](https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Aquí Nomás](https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV) | 3:02 |
 | 39 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
 | 40 | [Choro](https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Choro](https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV) | 2:16 |
-| 41 | [Miro La Luna](https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Miro La Luna](https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9) | 2:06 |
-| 42 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 |
+| 41 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 |
+| 42 | [Miro La Luna](https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Miro La Luna](https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9) | 2:06 |
 | 43 | [Esto Es Lo Mío](https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Esto Es Lo Mío](https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9) | 2:01 |
 | 44 | [No Me Deja De Doler](https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [No Me Deja De Doler](https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ) | 2:37 |
 | 45 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 59 | [La Chacalosa](https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [La Chacalosa](https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT) | 3:33 |
 | 60 | [Ahí Les Encargo \(En Vivo\)](https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ahí Les Encargo \(En Vivo\)](https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje) | 2:51 |
 | 61 | [Contigo](https://open.spotify.com/track/6RO01uGuxwCoJnGwrZqbRN) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Contigo](https://open.spotify.com/album/6BlVAhCDf00WIGzOJhYqOw) | 3:53 |
-| 62 | [3 Consejos](https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [3 Consejos](https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c) | 3:42 |
-| 63 | [La Bruja](https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [La Bruja](https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN) | 3:45 |
-| 64 | [Tu Mama](https://open.spotify.com/track/4sT2ok1MLTcvLC2YocPuJU) | [Rocio Jasso](https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b) | [Tu Mama](https://open.spotify.com/album/4UghGYyZTNF1yZMbMmJYPr) | 2:35 |
+| 62 | [La Bruja](https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [La Bruja](https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN) | 3:45 |
+| 63 | [Tu Mama](https://open.spotify.com/track/4sT2ok1MLTcvLC2YocPuJU) | [Rocio Jasso](https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b) | [Tu Mama](https://open.spotify.com/album/4UghGYyZTNF1yZMbMmJYPr) | 2:35 |
+| 64 | [3 Consejos](https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [3 Consejos](https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c) | 3:42 |
 | 65 | [Me Vas A Llorar](https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vas A Llorar](https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U) | 3:11 |
 
-Snapshot ID: `MCxlM2Q2MTMxYzc3NTJkYjU3MDc2NDY2ZmNlNTg5MzE2OGVhNWJkMzU4`
+Snapshot ID: `MCxkZTVkMDExOTQyOWZlNzgwMzZlYjMzNjkwMjVmZTJhZTYwN2QxZDAw`

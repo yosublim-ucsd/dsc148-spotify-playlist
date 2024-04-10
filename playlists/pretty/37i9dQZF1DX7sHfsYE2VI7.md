@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,529 likes - 70 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,547 likes - 70 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 38 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 |
 | 39 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
 | 40 | [Islands](https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:40 |
-| 41 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
-| 42 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 |
+| 41 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 |
+| 42 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
 | 43 | [Kelly Watch the Stars](https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:46 |
 | 44 | [Standing On The Shore](https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:24 |
 | 45 | [One Too Many Mornings](https://open.spotify.com/track/0lOzGDHcPlUB1ZvXMWQ0Oh) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Exit Planet Dust](https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg) | 4:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 69 | [Feather](https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Machine Dreams](https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7) | 4:53 |
 | 70 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
 
-Snapshot ID: `MCxmZmVkMmIwYmZhOThmYmMxNTBlNjg5ODVjOWYwMDMxMzFhNzk0YWVk`
+Snapshot ID: `MCxhZjY1MjZlOGYzMzQ4ZTMyMjdkZTExZTdjMjBiOTk5NzRjMGQ3MThi`

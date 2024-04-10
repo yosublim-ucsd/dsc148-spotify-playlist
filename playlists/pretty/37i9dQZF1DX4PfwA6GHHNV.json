@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16612,
+  "num_followers": 16624,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzQzZDYzYmQ2NzliMTRlZmFlM2VmNGJhYzFiZmFkNzhlMjc2OWEw",
+  "snapshot_id": "MCw3M2Y1NGZhNzU1YzgwNDkxMzYwOTkyZDEzNzBkNGNlOTZkYjBlMDZm",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -211,6 +211,30 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "COLADINHO",
+        "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
+      },
+      "artists": [
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Liz Kaweria",
+          "url": "https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77"
+        },
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "COLADINHO",
+      "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/1WMGcN4qIb0ui7ZkljLkWi"
       },
@@ -233,28 +257,20 @@
       "url": "https://open.spotify.com/track/2XjHq66MOjqO51SxnwecnT"
     },
     {
-      "added_at": "2024-03-29 03:01:00",
+      "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "COLADINHO",
-        "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
+        "name": "Fala Comigo",
+        "url": "https://open.spotify.com/album/7HdRWz0dgVDL4GPctATG1T"
       },
       "artists": [
         {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        },
-        {
-          "name": "Liz Kaweria",
-          "url": "https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77"
-        },
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+          "name": "P\u00e9co Oficial",
+          "url": "https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx"
         }
       ],
-      "duration_ms": 152079,
-      "name": "COLADINHO",
-      "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
+      "duration_ms": 157500,
+      "name": "Fala Comigo",
+      "url": "https://open.spotify.com/track/5ZR2TRnxpq47Tp7a4FUHNi"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -287,22 +303,6 @@
       "duration_ms": 90618,
       "name": "Andarilho",
       "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Fala Comigo",
-        "url": "https://open.spotify.com/album/7HdRWz0dgVDL4GPctATG1T"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9co Oficial",
-          "url": "https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Fala Comigo",
-      "url": "https://open.spotify.com/track/5ZR2TRnxpq47Tp7a4FUHNi"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Quando c\u00ea vem",
+        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Quando c\u00ea vem",
+      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "O Que Ela Tem?",
         "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 133333,
       "name": "O Que Ela Tem?",
       "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Quando c\u00ea vem",
-        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Quando c\u00ea vem",
-      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -937,26 +937,6 @@
       "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
     },
     {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Natureza",
-        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Natureza",
-      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
-    },
-    {
       "added_at": "2024-04-05 03:01:00",
       "album": {
         "name": "B\u00f3ra",
@@ -979,6 +959,26 @@
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Natureza",
+        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Natureza",
+      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
     },
     {
       "added_at": "2024-03-29 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the film Bob Marley: One Love.",
-  "num_followers": 2245200,
+  "num_followers": 2245773,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWYxMGVmZGVkOWNjMWM4NjlkZDM0OGY4ZjliNjYyYWM0NmFiYTM4",
+  "snapshot_id": "MCw0ZGI3YjIwZDE4MjdjMTEyZTM0YTJiMjM1ZDYxMDM5MGE1MTFkYTQz",
   "tracks": [
     {
       "added_at": "2024-01-29 05:23:56",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Legalize It (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle"
-      },
-      "artists": [
-        {
-          "name": "Peter Tosh",
-          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Legalize It",
-      "url": "https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Police & Thieves",
         "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 244109,
       "name": "Police & Thieves",
       "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Legalize It (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle"
+      },
+      "artists": [
+        {
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Legalize It",
+      "url": "https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "The Harder They Come",
-      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Revelation Pt. II: The Fruit of Life",
         "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "The Harder They Come",
+      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Song Book: Chapter a Day",
         "url": "https://open.spotify.com/album/0UIDN8jPyn2Gt5LGFkTrsk"
       },
@@ -983,38 +983,6 @@
       "duration_ms": 154333,
       "name": "Tenement Yard",
       "url": "https://open.spotify.com/track/28auprp3b9yjwPYmUxFxkR"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "007 Shanty Town",
-        "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "007 (Shanty Town)",
-      "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "True Reflections...A New Beginning",
-        "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
-      },
-      "artists": [
-        {
-          "name": "Jah Cure",
-          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Longing For",
-      "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1091,6 +1059,38 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "True Reflections...A New Beginning",
+        "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Longing For",
+      "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "007 Shanty Town",
+        "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "007 (Shanty Town)",
+      "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Do To Me",
         "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Marcus Garvey",
+        "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
+      },
+      "artists": [
+        {
+          "name": "Burning Spear",
+          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Marcus Garvey",
+      "url": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Reign Of Fire",
         "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 200960,
       "name": "The International Herb",
       "url": "https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Marcus Garvey",
-        "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
-      },
-      "artists": [
-        {
-          "name": "Burning Spear",
-          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Marcus Garvey",
-      "url": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
-        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
       },
       "artists": [
         {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
+      "duration_ms": 279533,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
-      },
-      "artists": [
-        {
-          "name": "Jah Cure",
-          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Rebel Time",
         "url": "https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 241734,
       "name": "Rebel Time",
       "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
+        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Ten Cane Row (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+        "name": "The 8 Year Affair",
+        "url": "https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA"
       },
       "artists": [
         {
           "name": "Protoje",
           "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 209586,
-      "name": "Ten Cane Row (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+      "duration_ms": 251204,
+      "name": "Kingston Be Wise",
+      "url": "https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1775,22 +1771,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Poor Man Style",
-        "url": "https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ"
-      },
-      "artists": [
-        {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "5 Decades of Jamaica's Musical Heritage",
         "url": "https://open.spotify.com/album/2xV5VH34Y2v2YPoinzCeyT"
       },
@@ -1803,6 +1783,22 @@
       "duration_ms": 272360,
       "name": "Untold Strories",
       "url": "https://open.spotify.com/track/3HOBTvzauIkHi2TiVCGw0B"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Poor Man Style",
+        "url": "https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1895,22 +1891,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "'Til Shiloh (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu"
-      },
-      "artists": [
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Murderer",
-      "url": "https://open.spotify.com/track/3H9VcVDIdfgjZRj8Surw6s"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Stony Hill",
         "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
       },
@@ -1923,6 +1903,22 @@
       "duration_ms": 305733,
       "name": "Speak Life",
       "url": "https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "'Til Shiloh (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Murderer",
+      "url": "https://open.spotify.com/track/3H9VcVDIdfgjZRj8Surw6s"
     }
   ],
   "unique_name": "One Love",

@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: Anitta, Brrray, Bad Gyal
 
-96 songs - 4 hr 16 min
+97 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Wantantan](https://open.spotify.com/track/4UpOKlOtCQExAfwpgJremZ) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 2:51 | 2023-11-29 |  |
 | [Wasabi](https://open.spotify.com/track/4fwAOa29QGMou9LM2ErHJ5) | [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Wasabi](https://open.spotify.com/album/3mzbKCbFEdmZNfbnDdux1t) | 2:10 | 2024-03-15 |  |
 | [WILLY WONKA](https://open.spotify.com/track/2qCL05QJtrUeuRE7oEklLV) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [WILLY WONKA](https://open.spotify.com/album/2Os3QmxdbApg0ejnSeF8pY) | 2:23 | 2023-11-29 |  |
-| [Work That Body](https://open.spotify.com/track/0cfhAHypL9t9ff2G23qJFR) | [Alligatorz](https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z), [Hey Haad](https://open.spotify.com/artist/2YnfXOwOUjmA9hHm2du6HE), [Ray Wright](https://open.spotify.com/artist/0U5TX4ikhEk0Af9SX3ZOmd) | [Alligatorz](https://open.spotify.com/album/7xYDu0NKbJMYZfSMBiUSEk) | 3:03 | 2024-03-15 |  |
+| [Work That Body](https://open.spotify.com/track/0cfhAHypL9t9ff2G23qJFR) | [Alligatorz](https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z), [Hey Haad](https://open.spotify.com/artist/2YnfXOwOUjmA9hHm2du6HE), [Ray Wright](https://open.spotify.com/artist/0U5TX4ikhEk0Af9SX3ZOmd) | [Alligatorz](https://open.spotify.com/album/7xYDu0NKbJMYZfSMBiUSEk) | 3:03 | 2024-03-15 | 2024-04-10 |
+| [Work That Body](https://open.spotify.com/track/1e2wgHOAxNRZzIAtcTB27v) | [Alligatorz](https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z), [Hey Haad](https://open.spotify.com/artist/2YnfXOwOUjmA9hHm2du6HE), [Ray Wright](https://open.spotify.com/artist/0U5TX4ikhEk0Af9SX3ZOmd) | [Alligatorz](https://open.spotify.com/album/1kBZD8UO8SS4101VfqGysY) | 3:03 | 2024-04-05 |  |
 | [Ya No Me Enamoro](https://open.spotify.com/track/5DNW0IrnjRLUykNo08VwP5) | [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Ya No Me Enamoro](https://open.spotify.com/album/4NRkc4eEjM686W08UUPWYU) | 2:49 | 2023-11-29 |  |
 | [Ya No Quiero Tu Amor](https://open.spotify.com/track/27mz93tltnSLKXzU0cOWcB) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Ya No Quiero Tu Amor](https://open.spotify.com/album/3lpq0ThuYETt0pZjKqwoNy) | 2:26 | 2023-12-15 | 2024-02-03 |
 | [Ya no soy tan gracioso](https://open.spotify.com/track/0f64MHgwi1O5XKl5DHoS25) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH) | [Ya no soy tan gracioso](https://open.spotify.com/album/2Hh3NIoamP7sf5lnKkRn4J) | 2:51 | 2023-11-29 | 2024-03-16 |

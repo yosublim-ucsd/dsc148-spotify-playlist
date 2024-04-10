@@ -1,7 +1,7 @@
 {
-  "2024-04-09": 105926,
+  "2024-04-10": 105978,
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more. Cover - Nehaal Naseem, Aashir Wajahat, NAYEL",
+  "description": "The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more. Cover - Aashir Wajahat",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -97,7 +97,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 202473,
       "name": "4U",
       "url": "https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 140152,
       "name": "Afterhours",
       "url": "https://open.spotify.com/track/7o1SDLghDwMc4OW3rKakVt"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 261702,
       "name": "Apna Bana Le",
       "url": "https://open.spotify.com/track/1hA697u7e1jX2XM8sWA6Uy"
@@ -700,6 +700,24 @@
     },
     {
       "album": {
+        "name": "Balaghal-Ula Bi-Kamaalihi",
+        "url": "https://open.spotify.com/album/45xKWqxlWWRdb3rk3jHjHz"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524000,
+      "name": "Balaghal-Ula Bi-Kamaalihi",
+      "url": "https://open.spotify.com/track/05rGKExmwZcwIvia1YVr8C"
+    },
+    {
+      "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p"
       },
@@ -719,6 +737,24 @@
       "duration_ms": 148188,
       "name": "Baller",
       "url": "https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ"
+    },
+    {
+      "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76"
     },
     {
       "album": {
@@ -1682,6 +1718,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9"
       },
@@ -1832,6 +1886,24 @@
     },
     {
       "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "album": {
         "name": "Funk Song",
         "url": "https://open.spotify.com/album/0ifu1eR55sv3ZZX0BvHsTp"
       },
@@ -1939,6 +2011,32 @@
       "duration_ms": 348230,
       "name": "GO",
       "url": "https://open.spotify.com/track/6NEEbZXla00cRzXErdNZ6k"
+    },
+    {
+      "album": {
+        "name": "Ek Tha Raja",
+        "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167234,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m"
     },
     {
       "album": {
@@ -2310,6 +2408,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "Ibadat ( Ishq-E-Laa)",
         "url": "https://open.spotify.com/album/3z9UVTT4wfLUm810lT8dHF"
       },
@@ -2427,7 +2543,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 133305,
       "name": "Iraaday",
       "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
@@ -2471,6 +2587,24 @@
       "duration_ms": 228639,
       "name": "Ishq - From \"Lost;Found\"",
       "url": "https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2"
+    },
+    {
+      "album": {
+        "name": "Jaanam Fida-E-Haideri",
+        "url": "https://open.spotify.com/album/2HPxjEwQHXjRhDG02VeSFc"
+      },
+      "artists": [
+        {
+          "name": "Sadiq Hussain",
+          "url": "https://open.spotify.com/artist/1R3N5Ffg6NAawikw8howtu"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225860,
+      "name": "Jaanam Fida-E-Haideri",
+      "url": "https://open.spotify.com/track/3uDoFoiaVKn584XV77VWJN"
     },
     {
       "album": {
@@ -3107,7 +3241,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 470500,
       "name": "Kun Faya Kun",
       "url": "https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6"
@@ -3391,6 +3525,32 @@
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
       "album": {
@@ -3865,7 +4025,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 203048,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg"
@@ -3996,6 +4156,32 @@
     },
     {
       "album": {
+        "name": "Naina (From \"Crew\")",
+        "url": "https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Naina (From \"Crew\")",
+      "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"
+    },
+    {
+      "album": {
         "name": "Nasha (Equals Sessions) - Single",
         "url": "https://open.spotify.com/album/0DCY52sgebqixheOPwwasZ"
       },
@@ -4037,6 +4223,32 @@
       "duration_ms": 227611,
       "name": "Neray Neray Vas",
       "url": "https://open.spotify.com/track/5P9gtOtId7RoyakIvlPGwM"
+    },
+    {
+      "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273290,
+      "name": "NEURON (with Gaeko & YOON MIRAE)",
+      "url": "https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6"
     },
     {
       "album": {
@@ -4777,7 +4989,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 182348,
       "name": "Saari Duniya Jalaa Denge",
       "url": "https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB"
@@ -6165,7 +6377,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 522500,
       "name": "Tu Kuja Man Kuja",
       "url": "https://open.spotify.com/track/10FMebRh92qPZdO7wLtcJL"
@@ -6667,7 +6879,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 154554,
       "name": "With You",
       "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
@@ -6741,6 +6953,36 @@
       "duration_ms": 267692,
       "name": "Yaar Ka Sataya Hua Hai",
       "url": "https://open.spotify.com/track/2Y2l0h051Vk4qUG2ZH7KKy"
+    },
+    {
+      "album": {
+        "name": "Yimmy Yimmy",
+        "url": "https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Jacqueline Fernandez",
+          "url": "https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211869,
+      "name": "Yimmy Yimmy",
+      "url": "https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni"
     },
     {
       "album": {

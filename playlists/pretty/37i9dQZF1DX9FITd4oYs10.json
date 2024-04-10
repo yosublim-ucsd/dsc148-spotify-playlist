@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17958,
+  "num_followers": 17962,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWYyNWIzNTkyZTQ1ZWRjYTNlMDcyMjAxNjVjMTI3NTdhMTI2MmRl",
+  "snapshot_id": "MCxiMGM1N2QyMjE1YWUxODY5OGQyOGQ4NDk1Y2M2ZjU3MzExZTZmYzQ0",
   "tracks": [
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Racionais Mc's",
-        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 270188,
-      "name": "Mente do Vil\u00e3o",
-      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Favela Vive 3",
         "url": "https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 499570,
       "name": "Favela Vive 3",
       "url": "https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 270188,
+      "name": "Mente do Vil\u00e3o",
+      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
     },
     {
       "added_at": "2024-02-23 18:00:29",

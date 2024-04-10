@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Artemas",
-  "num_followers": 478299,
+  "num_followers": 478365,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDBkYzYyMmExM2MyNDcxMDY0MWM2YTkzNTMxYjQwODliMDdkZTY1",
+  "snapshot_id": "MCw0ZTJkODdhNDNlM2I5ZWUzZDU4NWI1Yjc0NjE1NmM3ZjAwNjJhY2Ez",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Back from the Dead",
         "url": "https://open.spotify.com/album/0CjoPYfnPVGQ3KCen5uuku"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 179016,
       "name": "Back from the Dead",
       "url": "https://open.spotify.com/track/19bWcmH61AXuZqRjmLyBcZ"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Can You Feel The Sun",
-        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
+        "name": "the last laugh",
+        "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
       },
       "artists": [
         {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
         }
       ],
-      "duration_ms": 223671,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
+      "duration_ms": 196880,
+      "name": "deadly ever after",
+      "url": "https://open.spotify.com/track/1sGT7SHoxtjk18oSNSItBq"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
+        "name": "Can You Feel The Sun",
+        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
       },
       "artists": [
         {
-          "name": "Rosenfeld",
-          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         }
       ],
-      "duration_ms": 138946,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "the last laugh",
-        "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 196880,
-      "name": "deadly ever after",
-      "url": "https://open.spotify.com/track/1sGT7SHoxtjk18oSNSItBq"
+      "duration_ms": 223671,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 135529,
       "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
       "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosenfeld",
+          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
+        }
+      ],
+      "duration_ms": 138946,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
-      },
-      "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Freefall (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
     },
     {
       "added_at": "2024-03-22 04:01:00",

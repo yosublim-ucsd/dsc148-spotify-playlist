@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,873 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,929 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 67 | [Amor Prohibido II](https://open.spotify.com/track/6e0R0ZhqkRvh0yVXM0LUxq) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Ha Sido](https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK) | 3:16 |
 | 68 | [Berlín](https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:45 |
 | 69 | [Paso Fino](https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 6:09 |
-| 70 | [Todavía Te Alcanzo a Ver](https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 3:13 |
-| 71 | [Frequency](https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Run..\. The Sun Is Burning All Your Hopes](https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes) | 3:09 |
+| 70 | [Frequency](https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Run..\. The Sun Is Burning All Your Hopes](https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes) | 3:09 |
+| 71 | [Todavía Te Alcanzo a Ver](https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 3:13 |
 | 72 | [Es por Ti](https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Ya Lo Dijo Rufis Taylor](https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B) | 2:25 |
 | 73 | [Inmóvil \(Wrong I.D.\)](https://open.spotify.com/track/34sDl5mMIrTKf1uQJuqKuU) | [LeBaron](https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1) | [LeBaron](https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb) | 3:42 |
 | 74 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 99 | [Ritmo De Amor](https://open.spotify.com/track/7KzrfldjfaOcQ3k31wBcni) | [Los Macuanos](https://open.spotify.com/artist/4bYrlBddwEtF2kYpMm9gBG) | [El Origen](https://open.spotify.com/album/3zi6ijqumcCsE6UGk3swYQ) | 4:36 |
 | 100 | [Sentado Aquí](https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [Sentado Aquí](https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp) | 4:20 |
 
-Snapshot ID: `MCw1YmUzMzRmYjM5MmE5OTk1NDU1MzNiMjE3YjhhYjBhODA1Y2VmN2Y3`
+Snapshot ID: `MCxiZGY1MzA2MjZhZjBlM2YzNzU4Yzg0NjVmNjJiYzhlNmUwNTc4MDgz`

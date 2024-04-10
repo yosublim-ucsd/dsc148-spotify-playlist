@@ -1,12 +1,12 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 6198324,
+  "num_followers": 6198592,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjQ0MWFlMmRhNzQ1NTE1MzljOWQ2Y2U5ZDk0NTM3Y2Y0MGYwODI1",
+  "snapshot_id": "MCw1YjI3M2QyZTUzNDQwMDU1MDQ1Mjk4Njk0MGJjMTgxOGUwYTg0YWU1",
   "tracks": [
     {
       "added_at": "2024-04-05 00:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Welcome To The Madhouse (Deluxe)",
+        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Welcome To The Madhouse (Deluxe)",
-        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Whistle (feat. Calum Scott)",
         "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "4runner",
-        "url": "https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 265453,
-      "name": "4runner",
-      "url": "https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Beautiful People (feat. Khalid)",
         "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
       },
@@ -1543,22 +1527,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -1575,6 +1543,22 @@
       "duration_ms": 129817,
       "name": "Hot In It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1731,18 +1715,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Kite",
-        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 166806,
-      "name": "Kite",
-      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1779,18 +1763,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+        "name": "Kite",
+        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
+      "duration_ms": 166806,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1831,6 +1815,22 @@
       "duration_ms": 183026,
       "name": "So Am I",
       "url": "https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     }
   ],
   "unique_name": "Happy Hits!",

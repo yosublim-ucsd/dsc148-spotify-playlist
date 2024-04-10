@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,535 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,594 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,27 +86,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 76 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
 | 77 | [When You're Gone](https://open.spotify.com/track/5BdAnc2x9NaR7GS8iSO6gs) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [My Piece of Land](https://open.spotify.com/album/4xEbranbGAP1GfoRBsP4gV) | 3:06 |
 | 78 | [Giddy Up](https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Giddy Up](https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl) | 3:01 |
-| 79 | [Any Old Time](https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:58 |
-| 80 | [Hotel Amarillo](https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 4:00 |
-| 81 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 |
-| 82 | [Four Years of Chances](https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 4:33 |
+| 79 | [Hotel Amarillo](https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 4:00 |
+| 80 | [Any Old Time](https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:58 |
+| 81 | [Four Years of Chances](https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 4:33 |
+| 82 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 |
 | 83 | [Fly Away](https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 5:38 |
 | 84 | [Forever and Then Some](https://open.spotify.com/track/2JCkZhTXY187fNi9aIPzHQ) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 4:49 |
 | 85 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 |
 | 86 | [Warning](https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA) | [Lasers Lasers Birmingham](https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI) | [Warning](https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm) | 3:27 |
-| 87 | [Goodnight Rhonda Lee](https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 2:33 |
-| 88 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 |
-| 89 | [P\-Town](https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:46 |
-| 90 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
+| 87 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
+| 88 | [Goodnight Rhonda Lee](https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 2:33 |
+| 89 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 |
+| 90 | [P\-Town](https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:46 |
 | 91 | [Blue Kentucky Girl \- 2003 Remaster](https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:20 |
 | 92 | [Memphis Rain](https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Silver Tears](https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L) | 3:38 |
-| 93 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
-| 94 | [I Feel Like Hank Williams Tonight](https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:48 |
-| 95 | [Diamond Joe](https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Field Recordings, Vol\. 1](https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM) | 2:36 |
-| 96 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
+| 93 | [I Feel Like Hank Williams Tonight](https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:48 |
+| 94 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
+| 95 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
+| 96 | [Diamond Joe](https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Field Recordings, Vol\. 1](https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM) | 2:36 |
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
 | 98 | [When I Quit Drinking](https://open.spotify.com/track/0DldY9OWoMnNPMwqpot2Qh) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/68narzWpXEnOPLjFCx8rMH) | 3:56 |
 | 99 | [Ashes](https://open.spotify.com/track/1ewuyLSOUAhscYp0Zas0KE) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 4:34 |
 | 100 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
 
-Snapshot ID: `MCxlMjQyM2RjOGI3ZjBmZTJkODg2YjA1ZjU3MWU2MTUxMTU1ZjhjOGU4`
+Snapshot ID: `MCw0MDRhMTIyOTU2MDNlNjkzMGM2MjE0YmFmNDlmN2E4MTI1ZTNjMzAx`

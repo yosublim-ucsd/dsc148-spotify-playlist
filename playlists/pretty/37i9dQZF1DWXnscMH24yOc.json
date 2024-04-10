@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 451056,
+  "num_followers": 451153,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2I0ZWQ4Yjk3MTE1YjgyZTg2ZDIzYzVmMmFiMzRkMTI0MmQ5YTY2",
+  "snapshot_id": "MCw0MWZlMTAzYWE1ODBmYTA1Mjc4MGU3MjFkMDM2MmI5YzQ5ZThjNmRh",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -91,7 +91,7 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "You Don't Own Me (feat. G-Eazy)",
+        "name": "You Don't Own Me",
         "url": "https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO"
       },
       "artists": [
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Passionfruit",
-        "url": "https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A"
-      },
-      "artists": [
-        {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
-        },
-        {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Jillette Johnson | OurVinyl Sessions",
         "url": "https://open.spotify.com/album/3EWf23G2C83dLTXmh8Ynzj"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 254640,
       "name": "Champagne Supernova (OurVinyl Sessions)",
       "url": "https://open.spotify.com/track/0C0bw3UZM525pEFU6hYfVH"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w"
     },
     {
       "added_at": "2022-03-22 14:40:29",

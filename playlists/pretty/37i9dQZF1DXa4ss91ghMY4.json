@@ -1,12 +1,12 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 585099,
+  "num_followers": 585144,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzFhZmVhOGM1YTY2NTVmODhkODkzYmM1Y2QwNmFjYjRiOTNiMWRi",
+  "snapshot_id": "MCw2ZGRmMDg3ZDhjMmY5YTUyZjU1OTYxMTMyNDg3NmU1OGI3NThiNjBj",
   "tracks": [
     {
       "added_at": "2023-10-27 03:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196730,
+      "name": "Billie Bossa Nova",
+      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 205458,
       "name": "Calling My Phone",
       "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196730,
-      "name": "Billie Bossa Nova",
-      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Build a Bitch",
-        "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 122772,
-      "name": "Build a Bitch",
-      "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Therefore I Am",
         "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 174321,
       "name": "Therefore I Am",
       "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Build a Bitch",
+        "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 122772,
+      "name": "Build a Bitch",
+      "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 187682,
+      "name": "Anyone For You (Tiger Lily)",
+      "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 187682,
-      "name": "Anyone For You (Tiger Lily)",
-      "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
     },
     {
       "added_at": "2023-10-27 03:00:00",

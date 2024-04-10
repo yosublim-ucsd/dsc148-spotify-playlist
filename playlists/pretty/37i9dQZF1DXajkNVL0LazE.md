@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,076 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,132 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 36 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 |
 | 37 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
 | 38 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 |
-| 39 | [Fake Palindromes](https://open.spotify.com/track/50woGYhAqV3KXvO1LG4zLg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 2:52 |
-| 40 | [Chinese Translation](https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv) | 3:58 |
+| 39 | [Chinese Translation](https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv) | 3:58 |
+| 40 | [Fake Palindromes](https://open.spotify.com/track/50woGYhAqV3KXvO1LG4zLg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 2:52 |
 | 41 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
 | 42 | [I'd Rather Dance With You](https://open.spotify.com/track/119MXpXxpY20WUkDIdE6U4) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:29 |
 | 43 | [Elephant Gun](https://open.spotify.com/track/5loVmc3MmtYGsTw12eDgcU) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 5:45 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 79 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
 | 80 | [The Modern Leper](https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 3:48 |
 | 81 | [Lost Coastlines](https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi) | 5:31 |
-| 82 | [You and I](https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 3:25 |
-| 83 | [The Ballad of Love and Hate](https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Emotionalism \(Bonus Track Version\)](https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ) | 5:20 |
+| 82 | [The Ballad of Love and Hate](https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Emotionalism \(Bonus Track Version\)](https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ) | 5:20 |
+| 83 | [You and I](https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 3:25 |
 | 84 | [Cello Song Feat\. Jose Gonzales](https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Music For A French Elevator And Other Oddities](https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C) | 3:54 |
 | 85 | [Keep Yourself Warm](https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 5:33 |
 | 86 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 99 | [Painter in Your Pocket](https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Destroyer's Rubies](https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii) | 4:10 |
 | 100 | [Handshake Drugs](https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 6:03 |
 
-Snapshot ID: `MCwwOTY2OTMxMThjNTQ0ZWY0NzU0OGM5YmNjMTk3OTFjYmYyMzA2NmJh`
+Snapshot ID: `MCw4YWY0NmVhNGJmZWM2NGNjYTY5MDM5OTcwNGZhMzI4NzE0YWI3NTMw`

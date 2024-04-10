@@ -1,12 +1,12 @@
 {
   "description": "Orochi e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 230517,
+  "num_followers": 230595,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTFmYzNhMmNkOTczNjc5Mzg0ZmM4ZjA2ZWUzOTAwNzc0ZmEyN2Jl",
+  "snapshot_id": "MCw5NDNlYzc1NTYyNDhmYTMxMjA5YjZlOTVmZTBhNjQ0NDY0NzQyOTEw",
   "tracks": [
     {
       "added_at": "2024-04-05 03:01:00",
@@ -863,22 +863,34 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
       "artists": [
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
         }
       ],
-      "duration_ms": 451284,
-      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
-      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
+      "duration_ms": 224842,
+      "name": "Quando Ela Passa",
+      "url": "https://open.spotify.com/track/5TICCjmrEB2tROC4PIPjtp"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -895,6 +907,26 @@
       "duration_ms": 180964,
       "name": "Vou Querer De Novo - Ao Vivo",
       "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 451284,
+      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
+      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -947,38 +979,6 @@
       "duration_ms": 127228,
       "name": "Faz Completo, Chefe",
       "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Quando Ela Passa",
-      "url": "https://open.spotify.com/track/5TICCjmrEB2tROC4PIPjtp"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "\u00c9 Assim Que Tem Que Ser (Ao Vivo)",
-        "url": "https://open.spotify.com/album/27ciDLV1xbT2M0dZiaD4nc"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 208140,
-      "name": "\u00c9 Assim Que Tem Que Ser - Ao Vivo",
-      "url": "https://open.spotify.com/track/2vpMqfzcVi8WawTwRBlIqK"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Energia Benzadeus, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3gobJYd9S5NWyQERsekza1"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 204058,
       "name": "Polo Norte - Ao Vivo",
       "url": "https://open.spotify.com/track/0TTmPqKiRVm4eE7ZqQ17ny"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "\u00c9 Assim Que Tem Que Ser (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27ciDLV1xbT2M0dZiaD4nc"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 208140,
+      "name": "\u00c9 Assim Que Tem Que Ser - Ao Vivo",
+      "url": "https://open.spotify.com/track/2vpMqfzcVi8WawTwRBlIqK"
     },
     {
       "added_at": "2024-04-05 03:01:00",

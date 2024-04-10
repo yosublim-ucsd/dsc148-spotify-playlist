@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 114926,
+  "num_followers": 114952,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWE3MzBmZWJhMDllNDhlNDQ3ODcwODM3OTY5MjljNjNlYzkxMGNh",
+  "snapshot_id": "MCxhZWYxZTc3Y2RjOGJjMTI5ZTE4YzZjMGU5ZWIwYjg2MDBlNmU1ZGFm",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Retrospective",
-        "url": "https://open.spotify.com/album/4922ftLUafUKJBk7pB1MNQ"
-      },
-      "artists": [
-        {
-          "name": "Bobby Dreamz BIG",
-          "url": "https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "The Red",
-      "url": "https://open.spotify.com/track/2w67xp8vRX5ucbjac7fslS"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Chill in Lydda",
         "url": "https://open.spotify.com/album/2oJRkGteUQziUCaE16Gxvu"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 156000,
       "name": "Chill in Lydda",
       "url": "https://open.spotify.com/track/205BdRvvSaHf4LldyoRIkM"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/4922ftLUafUKJBk7pB1MNQ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Dreamz BIG",
+          "url": "https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "The Red",
+      "url": "https://open.spotify.com/track/2w67xp8vRX5ucbjac7fslS"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/0aHNCKqYpx2fKtWo5b08Ut"
-      },
-      "artists": [
-        {
-          "name": "Aldo Levitt",
-          "url": "https://open.spotify.com/artist/5wWlIBXDyTwVhqpbHrhmjw"
-        }
-      ],
-      "duration_ms": 169690,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/2G0oEXtrGhy2xJKB2bLhuo"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/49khuIg6AMmQiF98bSxiSi"
       },
@@ -311,18 +295,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "HAAT",
-        "url": "https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/0aHNCKqYpx2fKtWo5b08Ut"
       },
       "artists": [
         {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+          "name": "Aldo Levitt",
+          "url": "https://open.spotify.com/artist/5wWlIBXDyTwVhqpbHrhmjw"
         }
       ],
-      "duration_ms": 150821,
-      "name": "HAAT - Instrumental",
-      "url": "https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf"
+      "duration_ms": 169690,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/2G0oEXtrGhy2xJKB2bLhuo"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -363,6 +347,22 @@
       "duration_ms": 205766,
       "name": "Backwood",
       "url": "https://open.spotify.com/track/5JdZhHy9TWpXGwvVoXQJyF"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "HAAT",
+        "url": "https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 150821,
+      "name": "HAAT - Instrumental",
+      "url": "https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Rudimentary",
-        "url": "https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy"
-      },
-      "artists": [
-        {
-          "name": "Ballpoint",
-          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
-        }
-      ],
-      "duration_ms": 129098,
-      "name": "Spectra",
-      "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Targa",
         "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 172068,
       "name": "Targa",
       "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Rudimentary",
+        "url": "https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        }
+      ],
+      "duration_ms": 129098,
+      "name": "Spectra",
+      "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Groovly",
-        "url": "https://open.spotify.com/album/2tBeBG1bZBtHDZAN3H8F7E"
-      },
-      "artists": [
-        {
-          "name": "Homebody",
-          "url": "https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY"
-        }
-      ],
-      "duration_ms": 214537,
-      "name": "Groovly",
-      "url": "https://open.spotify.com/track/6jJb757pFbYEXjuWAJUcw6"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 165957,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Groovly",
+        "url": "https://open.spotify.com/album/2tBeBG1bZBtHDZAN3H8F7E"
+      },
+      "artists": [
+        {
+          "name": "Homebody",
+          "url": "https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY"
+        }
+      ],
+      "duration_ms": 214537,
+      "name": "Groovly",
+      "url": "https://open.spotify.com/track/6jJb757pFbYEXjuWAJUcw6"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
-      },
-      "artists": [
-        {
-          "name": "Amine Maxwell",
-          "url": "https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii"
-        }
-      ],
-      "duration_ms": 122587,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Act Upon",
         "url": "https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Stay at Home",
-        "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
       },
       "artists": [
         {
-          "name": "ElNasser",
-          "url": "https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R"
+          "name": "Amine Maxwell",
+          "url": "https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Stay at Home",
-      "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
+      "duration_ms": 122587,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -735,6 +719,22 @@
       "duration_ms": 146207,
       "name": "Emot",
       "url": "https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Stay at Home",
+        "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
+      },
+      "artists": [
+        {
+          "name": "ElNasser",
+          "url": "https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Stay at Home",
+      "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Deserted Tree",
+        "url": "https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 165555,
+      "name": "Deserted Tree",
+      "url": "https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Instant Knafeh",
         "url": "https://open.spotify.com/album/3W75uqmteAdzH7BaJjWVbz"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 212000,
       "name": "Qahwah Con Leche",
       "url": "https://open.spotify.com/track/3tUdYudStuFWmlb43jvo24"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Deserted Tree",
-        "url": "https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 165555,
-      "name": "Deserted Tree",
-      "url": "https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Rahat",
-        "url": "https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 204477,
-      "name": "Wie im Traum - Instrumental",
-      "url": "https://open.spotify.com/track/2XlOrYMsqtvxFTtO3ktDhQ"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Sadkid",
         "url": "https://open.spotify.com/album/56frZIAiRNfLJkSUeNhPMp"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 181347,
       "name": "Sadkid",
       "url": "https://open.spotify.com/track/096msV2KaAwqi5P0PWJqfb"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Rahat",
+        "url": "https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 204477,
+      "name": "Wie im Traum - Instrumental",
+      "url": "https://open.spotify.com/track/2XlOrYMsqtvxFTtO3ktDhQ"
     },
     {
       "added_at": "2022-03-22 11:23:16",

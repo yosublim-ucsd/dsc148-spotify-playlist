@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 77117,
+  "2024-04-10": 77138,
   "date_first_scraped": "2024-01-30",
   "description": "Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits. ",
   "name": "Pixar Hits",
@@ -591,6 +591,24 @@
       "duration_ms": 225986,
       "name": "Learn Me Right",
       "url": "https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC"
+    },
+    {
+      "album": {
+        "name": "Monsters at Work: Season 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/10lNvm3AhklBi1qwufa5AY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Lewis",
+          "url": "https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158898,
+      "name": "Let's Play Ball",
+      "url": "https://open.spotify.com/track/4egvqUTVsfmTGaXeun8k9i"
     },
     {
       "album": {

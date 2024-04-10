@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,206 likes - 153 songs - 8 hr 26 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,204 likes - 153 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 33 | [High Speed](https://open.spotify.com/track/6iZ2Mx9oo4b2FYf3tWgJIs) | [Ryder99](https://open.spotify.com/artist/748I462k3vT1pR0EaFZEpZ) | [High Speed](https://open.spotify.com/album/1VTbSJSx6dpQjeQMnjWIK8) | 3:02 |
 | 34 | [Time](https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 4:09 |
 | 35 | [Falling \(with Njomza & Daniel Allan\)](https://open.spotify.com/track/6hDdCDnxu7omTDIKC1BICK) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [Falling \(with Njomza & Daniel Allan\)](https://open.spotify.com/album/5VmLZMnN4Vivwnj8shv4ud) | 3:24 |
-| 36 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
+| 36 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
 | 37 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 |
 | 38 | [Damager](https://open.spotify.com/track/4jMUZ7jxVHXzwIcJMzLUsr) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Damager](https://open.spotify.com/album/5kFkc8lvqPQFguLs5rb2ui) | 2:49 |
 | 39 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 |

@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 99995,
+  "num_followers": 100137,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWZlNzRlMmUyMGI0ZjM3ZDQ2ZDBkZWM1ZDM3MmI5NTU3Mjg0NDJh",
+  "snapshot_id": "MCwzMThjMjNhYzI4MGNlZDIyNTIzM2E2MzhiNzJkZjQxNDVhOWJlNWQ4",
   "tracks": [
     {
       "added_at": "2023-04-10 22:49:54",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Homenaje a Joan Sebastian",
-        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos Del Norte",
-          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
-        }
-      ],
-      "duration_ms": 138083,
-      "name": "Un Carino Como Tu",
-      "url": "https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
         "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 176237,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Homenaje a Joan Sebastian",
+        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos Del Norte",
+          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
+        }
+      ],
+      "duration_ms": 138083,
+      "name": "Un Carino Como Tu",
+      "url": "https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
+        "name": "Homenaje a Joan Sebastian",
+        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos Del Norte",
+          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
+        }
+      ],
+      "duration_ms": 182099,
+      "name": "Aunque Me Duela El Alma",
+      "url": "https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
         "name": "Nuestras Favoritas De Joan Sebastian",
         "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 194293,
       "name": "Mayra",
       "url": "https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Grandes De Joan Sebasti\u00e1n",
-        "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "Mi Propio Final",
-      "url": "https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Homenaje a Joan Sebastian",
-        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
+        "name": "Grandes De Joan Sebasti\u00e1n",
+        "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
       },
       "artists": [
         {
-          "name": "Los Herederos Del Norte",
-          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         }
       ],
-      "duration_ms": 182099,
-      "name": "Aunque Me Duela El Alma",
-      "url": "https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX"
+      "duration_ms": 161146,
+      "name": "Mi Propio Final",
+      "url": "https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9"
     },
     {
       "added_at": "2023-04-10 22:49:54",

@@ -1,12 +1,12 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Mc Luanna, Danzo",
-  "num_followers": 137152,
+  "num_followers": 137172,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDJmMWI4MWQ2N2M2ZmRjMDI4MTZhNzI3ZmI1MDUxOTQ0NjE0ZWU4",
+  "snapshot_id": "MCwzNTQwMDU2NDkyMzE5NTNhMzRhNmIyYTQzY2YzODFhYjg1MzM1NGE1",
   "tracks": [
     {
       "added_at": "2024-04-05 03:01:00",
@@ -147,6 +147,30 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "Cheiro de Sexo",
+      "url": "https://open.spotify.com/track/475L05BT8k102evS4F1vx6"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -175,30 +199,6 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "Cheiro de Sexo",
-      "url": "https://open.spotify.com/track/475L05BT8k102evS4F1vx6"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Ela Jura Que Sabe",
+        "url": "https://open.spotify.com/album/177SAUdkF3JOU5YKr7scKG"
+      },
+      "artists": [
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        },
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Ela Jura Que Sabe",
+      "url": "https://open.spotify.com/track/50ofxPTUg6VlLtNjnsRAYH"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "HARD ROCK",
         "url": "https://open.spotify.com/album/1joRB65inPwhP5kS3XbcZ6"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 226909,
       "name": "HARD ROCK",
       "url": "https://open.spotify.com/track/6yoNYLJ7enbygKXF50Af72"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Ela Jura Que Sabe",
-        "url": "https://open.spotify.com/album/177SAUdkF3JOU5YKr7scKG"
-      },
-      "artists": [
-        {
-          "name": "The Boy",
-          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
-        },
-        {
-          "name": "Rudies Flacko",
-          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Ela Jura Que Sabe",
-      "url": "https://open.spotify.com/track/50ofxPTUg6VlLtNjnsRAYH"
     },
     {
       "added_at": "2024-04-05 03:01:00",

@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Shego.
 
-1,293 songs - 2 day 23 hr 19 min
+1,295 songs - 2 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [citrus](https://open.spotify.com/track/3mfOVetD3j0ktS34Kk7enH) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [citrus](https://open.spotify.com/album/0dx5H6SFArLI4tiIRmbHMK) | 3:10 | 2022-02-03 | 2022-04-01 |
 | [City Life](https://open.spotify.com/track/2jfLNlyUpxhFkoo1lJjiL3) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [City Life \- Single](https://open.spotify.com/album/2q1dmnBWQqQAYxcXybUNAr) | 2:40 | 2022-03-24 | 2022-12-15 |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2022-08-04 | 2022-08-27 |
-| [Close To You](https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Close To You](https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189) | 5:41 | 2024-03-08 |  |
+| [Close To You](https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Close To You](https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189) | 5:41 | 2024-03-08 | 2024-04-10 |
 | [Coast](https://open.spotify.com/track/23KRFSsLa3UQ8FMY6KQ63i) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Coast](https://open.spotify.com/album/4HeAegQf8B2jW03zpL1X0T) | 2:52 | 2022-03-24 | 2022-08-02 |
 | [Cocoa Beach](https://open.spotify.com/track/26MSlKdM2gVnImkA5lU8G0) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage to Mars](https://open.spotify.com/album/68SvNn3ZiomWkxVeeBANvP) | 3:58 | 2022-03-24 | 2022-08-02 |
 | [Cocoloco](https://open.spotify.com/track/4DXaFrBzHcZaz1wFKhiMkm) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Cocoloco](https://open.spotify.com/album/0LrmYFkMJ4u7myFE3QHjga) | 2:55 | 2022-03-24 | 2022-04-20 |
@@ -379,7 +379,7 @@
 | [GARE DU NORD](https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [L'AFRO OU LES TRESSES](https://open.spotify.com/album/5GaFutbilpzWUYP0kkoVPP) | 3:11 | 2024-02-09 |  |
 | [GARÇON](https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [GARÇON](https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG) | 2:24 | 2023-04-17 | 2023-12-16 |
 | [Gelosa](https://open.spotify.com/track/3MjPV83UbVdp3I7qU7XzIG) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Gelosa](https://open.spotify.com/album/12XzMU7JSvQZJPj6brqKEH) | 3:37 | 2022-03-24 | 2022-08-02 |
-| [GENNAIO 24 \(feat\. Caffellatte\)](https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [GENNAIO 24 \(feat\. Caffellatte\)](https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9) | 2:10 | 2024-01-12 |  |
+| [GENNAIO 24 \(feat\. Caffellatte\)](https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [GENNAIO 24 \(feat\. Caffellatte\)](https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9) | 2:10 | 2024-01-12 | 2024-04-10 |
 | [Getcho Mans](https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Brightside](https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ) | 3:31 | 2022-03-21 | 2022-05-14 |
 | [Ghaba](https://open.spotify.com/track/4Zpg4neFtdTJJF4wsrTJRa) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:04 | 2022-03-24 | 2022-04-14 |
 | [Ghareeb Alay](https://open.spotify.com/track/4GX5Ukz0p1N1bKjzbDWtVB) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:55 | 2022-03-24 | 2022-04-14 |
@@ -870,6 +870,7 @@
 | [Rich Girl](https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Rich Girl](https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v) | 4:04 | 2022-03-24 | 2023-01-28 |
 | [RIDE](https://open.spotify.com/track/6kEZ2GttdwQeAj7lz58vkh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [RIDE](https://open.spotify.com/album/6IRkfG9VKLl8sil1EgEwvV) | 3:03 | 2022-02-03 | 2022-08-02 |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-03-21 | 2023-04-18 |
+| [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-04-05 |  |
 | [Ridículo](https://open.spotify.com/track/1BDuJupH2LXLs8IptcN7Oh) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [ORIGEN](https://open.spotify.com/album/69uttGVf6dDFwYEpzzOCGL) | 3:11 | 2022-03-24 | 2022-04-17 |
 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 | 2023-05-30 | 2024-01-20 |
 | [River Rain](https://open.spotify.com/track/4H8SuWRnIuMEO2S9HQJOeE) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [River Rain](https://open.spotify.com/album/0tnqzZJt70WBtxyTvC8u6W) | 4:58 | 2022-09-30 | 2023-05-31 |
@@ -925,6 +926,7 @@
 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-10-27 | 2024-01-20 |
 | [Shirt & Handtuch](https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Shirt & Handtuch](https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq) | 3:34 | 2023-06-09 | 2023-09-16 |
 | [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2023-01-11 | 2023-10-06 |
+| [Should Be Us](https://open.spotify.com/track/110vOPCNhnG4Xe1Gmhe32O) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Should Be Us](https://open.spotify.com/album/0nEny1K3mjUgEQMg4CKtPn) | 2:23 | 2024-04-05 |  |
 | [show](https://open.spotify.com/track/5G1JizLB3z1hHZ4rbJQHJ5) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [show](https://open.spotify.com/album/10n3HLhK3UHwFcGhqk0Fzc) | 3:23 | 2022-02-10 | 2022-03-03 |
 | [SHOWER MUSIC](https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [HAPPY ACCIDENTS VOL\. 1](https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE) | 3:12 | 2023-08-18 | 2024-03-09 |
 | [Si Quieren Frontear](https://open.spotify.com/track/3UT2CkCgSWjK6h5v5Ye4GH) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:20 | 2022-06-27 | 2022-08-02 |

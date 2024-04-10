@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 4264,
+  "2024-04-10": 4265,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - UAE.",
   "name": "Top 50 - UAE",
@@ -3273,7 +3273,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -4211,7 +4211,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -5803,6 +5803,24 @@
       "duration_ms": 215507,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/61KpQadow081I2AsbeLcsb"
+    },
+    {
+      "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171427,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
     },
     {
       "album": {
@@ -10379,7 +10397,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 217894,
       "name": "Husn",
       "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
@@ -11286,6 +11304,32 @@
     },
     {
       "album": {
+        "name": "Illuminati (From \"Aavesham\")",
+        "url": "https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212525,
+      "name": "Illuminati - From \"Aavesham\"",
+      "url": "https://open.spotify.com/track/1kFNFsAZ4iZy4vjBEtT12I"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -12121,7 +12165,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
@@ -21571,7 +21615,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -23935,7 +23979,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -24545,7 +24589,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -26907,7 +26951,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe"

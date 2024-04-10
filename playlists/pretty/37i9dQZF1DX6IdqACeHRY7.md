@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,867 likes - 114 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,859 likes - 114 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 69 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
 | 70 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
 | 71 | [Change \(feat\. James Taylor\)](https://open.spotify.com/track/17RMnDmv5CEo3s0tmipRyb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:37 |
-| 72 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 2:49 |
-| 73 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
-| 74 | [Rose](https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[β\]](https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF) | 4:13 |
+| 72 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
+| 73 | [Rose](https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[β\]](https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF) | 4:13 |
+| 74 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 2:49 |
 | 75 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
 | 76 | [Rhythm Inside \- Acoustic](https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rhythm Inside \(Acoustic\)](https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx) | 3:32 |
 | 77 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 81 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 |
 | 82 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
 | 83 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |
-| 84 | [Would You](https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d) | 3:01 |
-| 85 | [Walk Away](https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 2:49 |
+| 84 | [Walk Away](https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 2:49 |
+| 85 | [Would You](https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d) | 3:01 |
 | 86 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
 | 87 | [Just The Same](https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:25 |
 | 88 | [Lifeline](https://open.spotify.com/track/66JzG73Z9KwNNjm5kVlnqI) | [Tómas Welding](https://open.spotify.com/artist/5A03saeTY76fYsuWrzUXqr), [ELVA](https://open.spotify.com/artist/1RyxB2ZzW51PHFrjNio8nL) | [Lifeline](https://open.spotify.com/album/5zA6sCY6TFsPBi2ZdMy58w) | 3:20 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 93 | [Faith's Song](https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l) | [Amy Wadge](https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp) | [Keeping Faith](https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh) | 2:52 |
 | 94 | [This Morning](https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [This Morning](https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF) | 3:16 |
 | 95 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
-| 96 | [Cannonball](https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:10 |
-| 97 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
+| 96 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
+| 97 | [Cannonball](https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:10 |
 | 98 | [Flux](https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Flux](https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD) | 3:49 |
 | 99 | [Somebody Loved](https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Somebody Loved](https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL) | 2:33 |
 | 100 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
@@ -115,12 +115,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 105 | [You Make It Real](https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 3:31 |
 | 106 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 |
 | 107 | [i loved you first](https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [i loved you first](https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg) | 3:47 |
-| 108 | [Closer](https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:03 |
-| 109 | [If That's Alright](https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [If That's Alright](https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx) | 3:55 |
+| 108 | [If That's Alright](https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [If That's Alright](https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx) | 3:55 |
+| 109 | [Closer](https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:03 |
 | 110 | [For You](https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [For You](https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX) | 3:23 |
 | 111 | [What Am I Here For](https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 4:43 |
-| 112 | [What Happened to Perfect](https://open.spotify.com/track/67DNRQWjRLMFvekBRprYtW) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:56 |
-| 113 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 |
-| 114 | [Silence](https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Why Her Not Me \- EP](https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY) | 3:39 |
+| 112 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 |
+| 113 | [What Happened to Perfect](https://open.spotify.com/track/67DNRQWjRLMFvekBRprYtW) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:56 |
+| 114 | [Rooting For You](https://open.spotify.com/track/0HFCw1viBRc2siCdkjL86P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is a Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur) | 4:29 |
 
-Snapshot ID: `MCwzNjBjODM1MjIyYzBjNzhmNzk0ODJlNGNlNWY0MmI0NGExYTIwMzRi`
+Snapshot ID: `MCw0YjQ5NjcxZDczOTNiY2QxMzU5MTU1ZjE5OGM1YTBmNmI0YzZiMWFl`

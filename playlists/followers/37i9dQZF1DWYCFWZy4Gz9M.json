@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 58727,
+  "2024-04-10": 58752,
   "date_first_scraped": "2021-12-28",
   "description": "Ancient North African rhythms.",
   "name": "Gnawa Music",
@@ -737,7 +737,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 358700,
       "name": "Fangara",
       "url": "https://open.spotify.com/track/3ZbOt3J5GlRhuIUcWxgMY1"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 292520,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"

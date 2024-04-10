@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 108421,
+  "num_followers": 108435,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWJkNGMzMDA5YWRhNmI5M2Q4ZTg5MWU2MmY3YWEzYjEwNzBjMTc1",
+  "snapshot_id": "MCw0YWQ2YzI3NjQ1YTYxNjkwYjM4NjQwMjNhMTM1OGFhM2ExMmIxNDRh",
   "tracks": [
     {
       "added_at": "2024-04-04 22:00:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "\u00d8l i kantina",
-        "url": "https://open.spotify.com/album/3Ba89F7pVLtwkcxEqt5gMj"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 141044,
-      "name": "\u00d8l i kantina",
-      "url": "https://open.spotify.com/track/2pV3iEhPidxQrX9zmRY3W8"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "FREDAG",
         "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 168398,
       "name": "FREDAG",
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "\u00d8l i kantina",
+        "url": "https://open.spotify.com/album/3Ba89F7pVLtwkcxEqt5gMj"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8rse",
+          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 141044,
+      "name": "\u00d8l i kantina",
+      "url": "https://open.spotify.com/track/2pV3iEhPidxQrX9zmRY3W8"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "B\u00f8gda",
         "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 164127,
       "name": "B\u00f8gda",
       "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "B\u00f8gda (Remix)",
+        "url": "https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 171938,
+      "name": "B\u00f8gda - Remix",
+      "url": "https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Jag \u00e4r taggad",
         "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
@@ -895,22 +915,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
-      },
-      "artists": [
-        {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "K\u00e6m Tok Ho Me S\u00e6",
-      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Gamlehjem",
         "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
       },
@@ -927,18 +931,18 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "\u00c6rbesk\u00e6r",
-        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
         }
       ],
-      "duration_ms": 135542,
-      "name": "\u00c6rbesk\u00e6r",
-      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
+      "duration_ms": 186453,
+      "name": "K\u00e6m Tok Ho Me S\u00e6",
+      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1059,22 +1063,18 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Livet p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
       "artists": [
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
         }
       ],
-      "duration_ms": 153843,
-      "name": "Livet p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
+      "duration_ms": 172613,
+      "name": "Kainn \u00c6 F\u00e5 Lov",
+      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+        "name": "Livet p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
       },
       "artists": [
         {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
         }
       ],
-      "duration_ms": 172613,
-      "name": "Kainn \u00c6 F\u00e5 Lov",
-      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
+      "duration_ms": 153843,
+      "name": "Livet p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1199,6 +1203,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "Bygdas Rebell",
+        "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
+      },
+      "artists": [
+        {
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        }
+      ],
+      "duration_ms": 221833,
+      "name": "Bygdas Rebell",
+      "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Jeg fortjener en \u00f8l",
         "url": "https://open.spotify.com/album/45biKF9vMhEpCJxrBROwjG"
       },
@@ -1219,26 +1239,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Norge rundt med Staysman",
-        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
-        }
-      ],
-      "duration_ms": 154951,
-      "name": "Partyjoik",
-      "url": "https://open.spotify.com/track/180k05Dn11ylHDEkIzvssR"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "V\u00e5rrull",
         "url": "https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx"
       },
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Bygdas Rebell",
-        "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
+        "name": "Norge rundt med Staysman",
+        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
       "artists": [
         {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
         }
       ],
-      "duration_ms": 221833,
-      "name": "Bygdas Rebell",
-      "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
+      "duration_ms": 154951,
+      "name": "Partyjoik",
+      "url": "https://open.spotify.com/track/180k05Dn11ylHDEkIzvssR"
     },
     {
       "added_at": "2024-04-04 22:00:00",

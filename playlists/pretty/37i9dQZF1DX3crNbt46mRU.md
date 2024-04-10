@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: David Guetta, OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,690 likes - 106 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,695 likes - 106 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 105 | [Berlin Nightlife](https://open.spotify.com/track/4ZfGaeQIGPLEid3GTGI5tz) | [Harrison McClary](https://open.spotify.com/artist/2l8YMGXFLdgBJzXivf4xkT) | [A Rare Collection Of My Fantasies](https://open.spotify.com/album/4Fbe1j52WikTsZzccSKNtE) | 3:45 |
 | 106 | [Terminal \(feat\. Haley Bridge\)](https://open.spotify.com/track/3y4ygtOnJjvxvS8PSpZmDv) | [FELIX SANDMAN](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Terminal \(feat\. Haley Bridge\)](https://open.spotify.com/album/6gHfQ7fZIFmFCxbeTJcuU4) | 3:45 |
 
-Snapshot ID: `MCxjMjcxZWRhYjU3N2MzNDBhMzcyNWMzNTg1YmY2ODU0ZDM3OThmMjRk`
+Snapshot ID: `MCxiYjc4NGIyYThlMTI2ZDVlZjU2YjdkOTEyYjI1MjZlOTk3YTUxYWZi`

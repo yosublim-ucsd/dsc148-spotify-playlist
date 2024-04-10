@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,887 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,981 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 5 | [Bajo El Agua](https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:45 |
 | 6 | [Todo Estaba Bien](https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Tropical Jesus](https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7) | 3:08 |
 | 7 | [Nenita](https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:23 |
-| 8 | [Mi Otra Mitad](https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mi Otra Mitad](https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4) | 3:15 |
+| 8 | [Complicidad \(feat\. Manuel Medrano\)](https://open.spotify.com/track/6lah9kMrDgQDcPLgmJfRdG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Munay](https://open.spotify.com/album/0FgVN5QSvcQFhPtaAMVDpG) | 3:55 |
 | 9 | [Si Pudiera](https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:16 |
-| 10 | [Complicidad \(feat\. Manuel Medrano\)](https://open.spotify.com/track/6lah9kMrDgQDcPLgmJfRdG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Munay](https://open.spotify.com/album/0FgVN5QSvcQFhPtaAMVDpG) | 3:55 |
+| 10 | [Mi Otra Mitad](https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mi Otra Mitad](https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4) | 3:15 |
 | 11 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 |
 | 12 | [Cómo Haces](https://open.spotify.com/track/0nIUbQVpDSv8wQTY2qwW4u) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 3:47 |
 | 13 | [Donde Nadie Pueda Ir](https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 2:49 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 29 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 |
 | 30 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 |
 
-Snapshot ID: `MCw5ZjNkNDY0MGQ3YTQ1N2QzZWI4YWI4NjM4NjRiMDk3NGIzNDEzZGQ3`
+Snapshot ID: `MCwyNzRiN2U0NjM4Nzg2ZDNmYzk4ZjBhZTY3YzNmNDM5MzViY2UwOGUw`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Mexico.
 
-849 songs - 1 day 22 hr 43 min
+850 songs - 1 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 | 2023-08-29 | 2023-09-29 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-11 | 2023-11-13 |
 | [HUMO](https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [HUMO](https://open.spotify.com/album/4IZNJql8GcknfP0DYAsZtE) | 3:18 | 2024-04-06 | 2024-04-08 |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-09 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-11-09 | 2022-12-02 |
 | [Ice Cream](https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv) | [Los mismos De La M](https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Ice Cream](https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW) | 2:11 | 2024-03-10 | 2024-03-17 |
 | [Idiota](https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Idiota](https://open.spotify.com/album/2XbvwFhkiW4Jjusjl6n9ki) | 3:04 | 2021-06-06 | 2021-06-07 |
@@ -458,7 +459,7 @@
 | [Los Peces En El Rio](https://open.spotify.com/track/1SVFABqrJ87TbFVwQAtrqc) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:10 | 2021-12-26 | 2023-12-30 |
 | [LOS PITS](https://open.spotify.com/track/7ucEkWU0SVy0XFdfXESgfY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:10 | 2023-10-14 | 2023-10-19 |
 | [Lose Yourself \- From "8 Mile" Soundtrack](https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Just Lose It](https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4) | 5:22 | 2022-02-15 | 2022-02-19 |
-| [LOU LOU](https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [LOU LOU](https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn) | 3:08 | 2023-10-21 |  |
+| [LOU LOU](https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [LOU LOU](https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn) | 3:08 | 2023-10-21 | 2024-04-10 |
 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 | 2021-09-30 | 2021-12-19 |
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-23 |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2023-12-13 |  |

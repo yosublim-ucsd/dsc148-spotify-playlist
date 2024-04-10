@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,804 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,848 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 25 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
 | 26 | [Orange Juice \- Spotify Singles](https://open.spotify.com/track/0MYm41WIh9hIRNDc20LPpb) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 4:52 |
 | 27 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 |
-| 28 | [68 \- Live](https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:28 |
-| 29 | [It's Infinite](https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:54 |
+| 28 | [It's Infinite](https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:54 |
+| 29 | [68 \- Live](https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:28 |
 | 30 | [Affair with the Moon](https://open.spotify.com/track/3zHfLa9OyjM2mz3p590sDE) | [Lidia Solomon](https://open.spotify.com/artist/50g8sc9GhaIAhQDv2F62vy) | [Affair with the Moon](https://open.spotify.com/album/5gg8u6Qb65kOp8bpofNI8A) | 3:50 |
 | 31 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 32 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 59 | [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 |
 | 60 | [Blue](https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [People Pleaser](https://open.spotify.com/album/1j70typFafujL4ecw5kbmP) | 4:12 |
 | 61 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej), [Gregory Uhlmann](https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
-| 62 | [This Is What You Did](https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:12 |
-| 63 | [I'm Afraid I Love You](https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 2:38 |
+| 62 | [I'm Afraid I Love You](https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 2:38 |
+| 63 | [This Is What You Did](https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:12 |
 | 64 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
 | 65 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 66 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 76 | [Maybe](https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 4:30 |
 | 77 | [Pictures of Flowers](https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf) | 4:20 |
 | 78 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
-| 79 | [Shower Song](https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Shower Song](https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke) | 2:47 |
-| 80 | [Lincoln, Nebraska](https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/7i0yanefGAo38sxISoem4B) | 2:23 |
+| 79 | [Lincoln, Nebraska](https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/7i0yanefGAo38sxISoem4B) | 2:23 |
+| 80 | [Shower Song](https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Shower Song](https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke) | 2:47 |
 | 81 | [Sprinter](https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js) | 4:44 |
 | 82 | [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 |
 | 83 | [Friends with Feelings](https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m) | [Alice Skye](https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR) | [Friends With Feelings](https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo) | 4:15 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 88 | [Giant](https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:51 |
 | 89 | [Fear & Force](https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Infinite Worlds](https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7) | 3:33 |
 | 90 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 |
-| 91 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:12 |
-| 92 | [hurt](https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 3:31 |
+| 91 | [hurt](https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 3:31 |
+| 92 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:12 |
 | 93 | [Rae](https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:55 |
 | 94 | [I Don't Want to Let You Down](https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Don't Want To Let You Down b/w All Over Again](https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9) | 4:02 |
 | 95 | [Turn To Dust](https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Good Scare](https://open.spotify.com/track/2cDN2czQq2Kwni0E05fnFG) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Silver Tongue](https://open.spotify.com/album/2OSANMwUl0y0wXe3w8stmv) | 3:35 |
 | 100 | [Love of Her Life](https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Love of Her Life](https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ) | 4:01 |
 
-Snapshot ID: `MCwyMTRiYTc3ZjBkZWEwZDVlM2YzMGUxNGZjZmFkOWQyOTNkYTAxM2M2`
+Snapshot ID: `MCwwZDExMDcyMDhjMjQyN2Y3NzhhMzdmMDY0NWY2ODVkODgzZTMwMmRh`

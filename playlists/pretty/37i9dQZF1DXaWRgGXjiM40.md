@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,642 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,705 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 38 | [Apelido Carinhoso](https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco do Gusttavo Lima, Vol\. 2](https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn) | 3:19 |
 | 39 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
 | 40 | [Nessas Horas \- Ao Vivo](https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:28 |
-| 41 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 |
-| 42 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
+| 41 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
+| 42 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 |
 | 43 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
 | 44 | [Status Que Eu Não Queria \- Ao Vivo](https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:33 |
 | 45 | [Duas Metades](https://open.spotify.com/track/3UStHHOyFXetR5621bKJBz) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [Áudio \- Ao Vivo em Brasília](https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 3:10 |
 | 50 | [Mágica \- Live](https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 2:41 |
 
-Snapshot ID: `MCw5Y2RhNzhjMTE0ZTY4NTU0YTYwNzRmZmJmYjQ0MGQ4ZDFkNzkwNTNi`
+Snapshot ID: `MCwzMmNmNmY2ZDI1YTI2YzZiNzNiYjg3YjY1YWQxZDlhZTFkNjk0OGUx`

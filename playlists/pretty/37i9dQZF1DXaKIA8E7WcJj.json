@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s. Cover: The Beatles\n",
-  "num_followers": 3088971,
+  "num_followers": 3089385,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjNmNDc0YWJkNDVlOGJmZDZmNzcxZWY0ZjY0M2Y5ODE5NDc3MDlh",
+  "snapshot_id": "MCxmMDQ1OWJkYTYzMTRhYjI1NWNjM2VkYmI4MmFlYzA5OTRlMzA4YzE3",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Presenting the Fabulous Ronettes Featuring Veronica",
         "url": "https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2023-12-21 14:48:21",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 378146,
       "name": "Sympathy For The Devil - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "The Animals",
         "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -819,6 +803,22 @@
       "duration_ms": 139560,
       "name": "Help! - Remastered 2009",
       "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 308520,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Wheels Of Fire",
         "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 308520,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "The Letter/Neon Rainbow",
         "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 112800,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Ring Of Fire: The Best Of Johnny Cash",
+        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1043,22 +1059,6 @@
       "duration_ms": 170813,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Ring Of Fire: The Best Of Johnny Cash",
-        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 263333,
-      "name": "Ramble On - 1990 Remaster",
-      "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+      "duration_ms": 263333,
+      "name": "Ramble On - 1990 Remaster",
+      "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "It's Pony Time/Let's Twist Again",
-        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
       },
       "artists": [
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
         }
       ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+      "duration_ms": 137360,
+      "name": "Let's Twist Again",
+      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1399,6 +1383,22 @@
       "duration_ms": 154733,
       "name": "Put Your Head On My Shoulder",
       "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 165426,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 448720,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1527,6 +1511,22 @@
       "duration_ms": 173306,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 448720,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
-        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -1711,22 +1695,6 @@
       "duration_ms": 313373,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 149613,
-      "name": "Homeward Bound",
-      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1747,6 +1715,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "How Does That Grab You?",
         "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 162446,
       "name": "Bang Bang (My Baby Shot Me Down)",
       "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 149613,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Velvet Underground (45th Anniversary)",
-        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        }
-      ],
-      "duration_ms": 339533,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Stay Awhile / I Only Want To Be With You",
         "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 158200,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Velvet Underground (45th Anniversary)",
+        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "duration_ms": 339533,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Please Mr. Postman",
-        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 148040,
-      "name": "Please Mr. Postman - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 157573,
       "name": "The End of the World",
       "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Please Mr. Postman",
+        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "In the Midnight Hour",
         "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
     },
     {
       "added_at": "2022-08-12 11:06:50",

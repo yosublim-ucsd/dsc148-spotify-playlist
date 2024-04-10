@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,714 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,807 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 36 | [Older Girl](https://open.spotify.com/track/3lmsq8LdfOOA6UlE3hFDPC) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Navigator](https://open.spotify.com/album/7G9VfKv9e1OmEQF0BByRK3) | 4:15 |
 | 37 | [It's so Creamy](https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 3:43 |
 | 38 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
-| 39 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
-| 40 | [DEAR BREEZE](https://open.spotify.com/track/302ODkHI9JcO8e5dCuinrp) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/7ztCPdPiNeNGTlpsnX9mYQ) | 4:00 |
+| 39 | [DEAR BREEZE](https://open.spotify.com/track/302ODkHI9JcO8e5dCuinrp) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/7ztCPdPiNeNGTlpsnX9mYQ) | 4:00 |
+| 40 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
 | 41 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
 | 42 | [LIGHT'N UP](https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [LIGHT'N UP](https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7) | 5:48 |
 | 43 | [Dream In The Street](https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s) | [池田典代](https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M) | [ドリームインザストリート](https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH) | 4:58 |
 | 44 | [色彩都市](https://open.spotify.com/track/1NPwuNYRugoQz8y5HTnIBL) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [cliche \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/4al3d0A9Ial2N26xVMa2EM) | 3:34 |
 | 45 | [Ocean Side](https://open.spotify.com/track/6T0a8AFfS62waTXaTAIhWR) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/43MH8ZrLAL15xHRmIyAr46) | 4:38 |
-| 46 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 |
-| 47 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
-| 48 | [A面で恋をして](https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH) | [NIAGARA TRIANGLE](https://open.spotify.com/artist/2Z7xG1x1KFkKXGQmr38j1M), [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [Masamichi Sugi](https://open.spotify.com/artist/0sunKSW71vUUlXKwwJQKKH), [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [NIAGARA TRIANGLE vol.2 40th Anniversary Edition](https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ) | 3:11 |
-| 49 | [RIVER'S ISLAND](https://open.spotify.com/track/7Exa7vhvBOr1GHNuEA50zy) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [RIVER'S ISLAND](https://open.spotify.com/album/0UEB5zj5SfE3tdgP4wP2jC) | 4:38 |
+| 46 | [RIVER'S ISLAND](https://open.spotify.com/track/7Exa7vhvBOr1GHNuEA50zy) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [RIVER'S ISLAND](https://open.spotify.com/album/0UEB5zj5SfE3tdgP4wP2jC) | 4:38 |
+| 47 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 |
+| 48 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
+| 49 | [A面で恋をして](https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH) | [NIAGARA TRIANGLE](https://open.spotify.com/artist/2Z7xG1x1KFkKXGQmr38j1M), [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [Masamichi Sugi](https://open.spotify.com/artist/0sunKSW71vUUlXKwwJQKKH), [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [NIAGARA TRIANGLE vol.2 40th Anniversary Edition](https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ) | 3:11 |
 | 50 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
 
-Snapshot ID: `MCw2OThlMTVhZGQwYmE1MjY1NmExYWQzMmVmODc3YTY5NzdkMzUwMzc3`
+Snapshot ID: `MCxhMDczMTU3ZThlODQyM2VhNTgzZmNjMDU3YmRmYTg5ZGQ4ZTE0NzY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: DAVICHI\(다비치\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,918 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,941 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 51 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 |
 | 52 | [Hello](https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY) | 4:04 |
 | 53 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
-| 54 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 |
-| 55 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 |
-| 56 | [Just Look for you](https://open.spotify.com/track/21Kpv5vg4jtgfgIBgAqm2U) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I) | 3:41 |
+| 54 | [Just Look for you](https://open.spotify.com/track/21Kpv5vg4jtgfgIBgAqm2U) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I) | 3:41 |
+| 55 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 |
+| 56 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 |
 | 57 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 |
 | 58 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
 | 59 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 |
 | 60 | [BMK \- v o K a l \(KR\)](https://open.spotify.com/track/4am0xob1HUamJ3T3TcIAe3) | [BMK](https://open.spotify.com/artist/4TQmlKDkEmPTGjO16THya8) | [BMK voKal Audio Liner](https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv) | 0:03 |
 | 61 | [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 |
-| 62 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 |
-| 63 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
+| 62 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
+| 63 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 |
 | 64 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 |
 | 65 | [Maybe](https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Her Private Life, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/22L5wb4wQyv46k4mZMv62g) | 3:48 |
 | 66 | [Will Last Forever](https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [WINTER](https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 |
 | 100 | [You&I](https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [You&I](https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA) | 3:41 |
 
-Snapshot ID: `MCwzNTBlM2Y0MTdhMTdkNjA3ZTc5YmNmMWFhOTU5ZTg5NDBmM2VjMWQ2`
+Snapshot ID: `MCwxZmM0ZTZhZDdiZmRhZjMyYWEwZDI3OWY1MmVmNjU0MWRkMTk4MTI5`

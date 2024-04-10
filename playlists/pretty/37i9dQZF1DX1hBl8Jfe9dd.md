@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hBl8Jfe9dd.md) - [plain]
 
 > Novidades do indie mundial\. Foto: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,602 likes - 95 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,591 likes - 95 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hBl8Jfe9dd.md) - [plain]
 | 94 | [Dregs of the Wine](https://open.spotify.com/track/7qH9Dwzc4mqKP5sRN5sGD3) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doggerel](https://open.spotify.com/album/5zADZ7IhW2hZqJwkUmQVQY) | 3:29 |
 | 95 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 |
 
-Snapshot ID: `MCxlMWRmNDc4NDMxMDFmZmYwYzU0ZGJlYmJhYzM1YjZkYTE3NTVkYjlj`
+Snapshot ID: `MCwzNDQ1ZTMyYjczM2NhZTRjY2UyN2VkMjFhZWQ3N2YxZDJkN2Y3ZTYw`

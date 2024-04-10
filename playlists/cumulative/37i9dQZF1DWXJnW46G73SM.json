@@ -10979,6 +10979,24 @@
     },
     {
       "album": {
+        "name": "Wahshany",
+        "url": "https://open.spotify.com/album/2u1x9iR0q7dLwX4aEHaJ1N"
+      },
+      "artists": [
+        {
+          "name": "Khaled Selim",
+          "url": "https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249448,
+      "name": "Wahshany",
+      "url": "https://open.spotify.com/track/1kiqCDYCfNrvAP990he3GI"
+    },
+    {
+      "album": {
         "name": "Wala Bakhtar",
         "url": "https://open.spotify.com/album/3cPCWyHeXAQevUgfGyorwC"
       },

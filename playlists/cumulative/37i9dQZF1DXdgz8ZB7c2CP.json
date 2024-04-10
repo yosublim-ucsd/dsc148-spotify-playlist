@@ -3383,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Dream You Better",
+        "url": "https://open.spotify.com/album/6FUVg8wiP30XkdTrt5I9jz"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113860,
+      "name": "Dream You Better",
+      "url": "https://open.spotify.com/track/7M2sXW3H1X2ON6oVtmyN21"
+    },
+    {
+      "album": {
         "name": "TALK2MUCH",
         "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
       },
@@ -9488,7 +9506,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 150909,
       "name": "pullmecloser",
       "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
@@ -10164,7 +10182,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 180668,
       "name": "RUN INTO MY ARMS",
       "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
@@ -12934,7 +12952,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 215392,
       "name": "U Could Be Mine",
       "url": "https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,339 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,327 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 20 | [Don Diablo](https://open.spotify.com/track/0imrhMFOWQ9XYDCnLfecYV) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:47 |
 | 21 | [La llorona](https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Las 30 grandes de Chavela Vargas](https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2) | 8:31 |
 | 22 | [Muerte](https://open.spotify.com/track/5DWOuxRP9nHMoozf9NPlxA) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:49 |
-| 23 | [Te Vas Ángel Mío \- Live At Nuevo León México/2009](https://open.spotify.com/track/3a7sMVCjNMQ5B1cE3XXub8) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Don Ramiro Cavazos](https://open.spotify.com/artist/563FHcEebqpITZ6Vu5sw6Y) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:13 |
-| 24 | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2) | 3:27 |
+| 23 | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2) | 3:27 |
+| 24 | [Te Vas Ángel Mío \- Live At Nuevo León México/2009](https://open.spotify.com/track/3a7sMVCjNMQ5B1cE3XXub8) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Don Ramiro Cavazos](https://open.spotify.com/artist/563FHcEebqpITZ6Vu5sw6Y) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:13 |
 | 25 | [El Abuelo](https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Abuelo](https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1) | 3:07 |
 | 26 | [Nadie Es Eterno](https://open.spotify.com/track/4CpP8xMTH6vrlMkfCryXvM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 2:55 |
 | 27 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 84 | [Angelitos negros](https://open.spotify.com/track/5hvKLjOgEc8SPTssFy45GJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Las Canciones Inolvidables de Pedro Infante](https://open.spotify.com/album/3IpDxK3aXi9c1t0B37Jti6) | 2:11 |
 | 85 | [La Danza de la Muerte \- Día de Muertos](https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n) | [La Danza de la Muerte \(Día de Muertos\)](https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ) | 3:14 |
 | 86 | [Monton de Tierra](https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA) | [Regina Orozco](https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM) | [Rosa Mexicano](https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw) | 2:44 |
-| 87 | [Dulce Muerte](https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Dulce Muerte](https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA) | 3:32 |
-| 88 | [Mictlán](https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9) | [Timoneki](https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW) | [Timoneki](https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO) | 4:36 |
-| 89 | [La Catrína Pobre](https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD) | [Trio Armonia Huasteca](https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK), [Las Rancheritas](https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ) | [Contestadas Y Rancheras](https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t) | 2:18 |
+| 87 | [Mictlán](https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9) | [Timoneki](https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW) | [Timoneki](https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO) | 4:36 |
+| 88 | [La Catrína Pobre](https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD) | [Trio Armonia Huasteca](https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK), [Las Rancheritas](https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ) | [Contestadas Y Rancheras](https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t) | 2:18 |
+| 89 | [Dulce Muerte](https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Dulce Muerte](https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA) | 3:32 |
 | 90 | [La Catrina](https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 3:27 |
 | 91 | [Las Flores del Camposanto](https://open.spotify.com/track/4C4AqUBRrnibCDPUkOJkNv) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:14 |
 | 92 | [El Enterrador](https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:55 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 97 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
 | 98 | [Pan de Muertos](https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp) | [CARLOS AZCUAGA](https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g) | [Canciones de Día de Muertos](https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ) | 3:52 |
 | 99 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
-| 100 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 |
+| 100 | [Décimas a La Muerte](https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:58 |
 
-Snapshot ID: `MCw2NzNhYTg3ZmEwMTI4ZmNiMTgzNTcwMTIwM2RiNmVkOTRiMjZkNDA1`
+Snapshot ID: `MCxjMzI5MTM5ZGY2MzlkNGVlZjZlNTg5MTQ2OGFiMGZiMzRiNzgzNmEy`

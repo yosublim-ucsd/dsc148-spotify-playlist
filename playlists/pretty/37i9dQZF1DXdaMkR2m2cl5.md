@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,104 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,114 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 24 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 |
 | 25 | [Keep 'Em on They Toes](https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD) | 2:43 |
 | 26 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
-| 27 | [Pulaski at Night](https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [I Want to See Pulaski at Night](https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5) | 4:49 |
-| 28 | [Lebanon](https://open.spotify.com/track/2FYMVOK6wtkysaKuNWUfk9) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America](https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB) | 3:26 |
+| 27 | [Lebanon](https://open.spotify.com/track/2FYMVOK6wtkysaKuNWUfk9) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America](https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB) | 3:26 |
+| 28 | [Pulaski at Night](https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [I Want to See Pulaski at Night](https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5) | 4:49 |
 | 29 | [Deep In Love](https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 5:09 |
 | 30 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
 | 31 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 43 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
 | 44 | [Nocturne](https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne \- EP](https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ) | 4:28 |
 | 45 | [For Island Fires and Family](https://open.spotify.com/track/6Rk9OCPLRprxsMmYgnU1UF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Dermot Kennedy](https://open.spotify.com/album/0JF97yTibdYQh25AaFuioF) | 4:45 |
-| 46 | [Imogen](https://open.spotify.com/track/0X61Ud5Uzv44RvY3s1SsuO) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 4:15 |
-| 47 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
+| 46 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
+| 47 | [Imogen](https://open.spotify.com/track/0X61Ud5Uzv44RvY3s1SsuO) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 4:15 |
 | 48 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
 | 49 | [Time Stands](https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:52 |
 | 50 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 69 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 |
 | 70 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 |
 | 71 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 |
-| 72 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 |
-| 73 | [We Fall In](https://open.spotify.com/track/3gJbk7cVA8krFgfVVN0Edm) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu) | 3:11 |
+| 72 | [We Fall In](https://open.spotify.com/track/3gJbk7cVA8krFgfVVN0Edm) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu) | 3:11 |
+| 73 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 |
 | 74 | [Foreign Tides](https://open.spotify.com/track/5TOyUOptT0J2ZC28DdGqLF) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 3:52 |
 | 75 | [The West Coast of Clare](https://open.spotify.com/track/3mTkN13P0kiUtKWhAtbAP0) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/7ngRumkLaxTRd7vNsirCns) | 5:26 |
 | 76 | [Driftwood Seat](https://open.spotify.com/track/4P2M9cWgs2k5Jn2fP6e1V7) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Driftwood Seat \- EP](https://open.spotify.com/album/2BL9feBiypERv0aq1R78aj) | 3:38 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 92 | [Nebraska \- Acoustic](https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:48 |
 | 93 | [Three Oh Nine](https://open.spotify.com/track/3VZuWLaacuE4Qis1ln8b1J) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:32 |
 | 94 | [Wonder](https://open.spotify.com/track/0nuTldtCp9eCHWkdriK7DV) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Everything's Fine](https://open.spotify.com/album/2IspEKYzqv0yubLpJPUVA3) | 2:08 |
-| 95 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 |
-| 96 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 |
+| 95 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 |
+| 96 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 |
 | 97 | [Northsiders](https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:43 |
 | 98 | [Terms of Surrender](https://open.spotify.com/track/1yhyFfVPkQjiVz5zvE6AJv) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:11 |
 | 99 | [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 |
-| 100 | [Elation](https://open.spotify.com/track/4EKvUdkxSYrCNxvjjrFGoo) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Stoalin'](https://open.spotify.com/album/6zr5naI1knY0SDRSFLq2Ws) | 3:30 |
+| 100 | [The Moons Detriment](https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 2:35 |
 
-Snapshot ID: `MCxiOTZkYTNkOWQ2OTQ1N2ZhOTk5ZWNlYjdhOGU1NmM3NjU0YmFjZGRl`
+Snapshot ID: `MCw1YzdhNzgzNjNmMzc4ZmM0MTc3OWNiMDkyYTU1ZTRkODYyYWRmMTFj`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: EK) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: YUNGIN, Jessi, CAMO) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 271937,
       "name": "+82 Bars",
       "url": "https://open.spotify.com/track/2J5fF0d4ePNQfPRIS1LGJU"
@@ -9860,7 +9860,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 194120,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
@@ -11440,7 +11440,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 299093,
       "name": "I'm Sick (Band Ver.) (Feat. Young B, YUNHWAY, Lil tachi, Han Yo Han, JUSTHIS, Swings)",
       "url": "https://open.spotify.com/track/7hI592ZTFArGWQhRPx0JvF"
@@ -16150,6 +16150,32 @@
       "duration_ms": 182426,
       "name": "NO HOOK",
       "url": "https://open.spotify.com/track/0ftCSLPyHOZvLty9OkDlwm"
+    },
+    {
+      "album": {
+        "name": "No Lowkey",
+        "url": "https://open.spotify.com/album/7wiYzDeFQ3HMY1iTxKkw4E"
+      },
+      "artists": [
+        {
+          "name": "YUNGIN",
+          "url": "https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "No Lowkey",
+      "url": "https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml"
     },
     {
       "album": {
@@ -23148,7 +23174,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 251297,
       "name": "The Arrival",
       "url": "https://open.spotify.com/track/7ASnRoq5kwTYggVHBHyTVe"
@@ -24880,7 +24906,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 189320,
       "name": "Walk (Prod. Czaer)",
       "url": "https://open.spotify.com/track/7x63NRJmiUmckjwkKapaNy"

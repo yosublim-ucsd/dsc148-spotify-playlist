@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Tigres del Norte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,549 likes - 125 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,604 likes - 125 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 64 | [El Sr\. Guzmán](https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [El Sr\. Guzmán](https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v) | 2:33 |
 | 65 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 |
 | 66 | [GPI](https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:13 |
-| 67 | [Tan Bella y Tan Presumida \- En Vivo](https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida \(En Vivo\)](https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn) | 3:01 |
+| 67 | [El H](https://open.spotify.com/track/6cGFQKwBZomwMQMiKf48ny) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:55 |
 | 68 | [Neta Que No](https://open.spotify.com/track/19cazderNza33zgCCpxLxH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC) | 2:44 |
-| 69 | [El H](https://open.spotify.com/track/6cGFQKwBZomwMQMiKf48ny) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:55 |
+| 69 | [Tan Bella y Tan Presumida \- En Vivo](https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida \(En Vivo\)](https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn) | 3:01 |
 | 70 | [Baby \(Version Norteña\)](https://open.spotify.com/track/6AK1tlnsm8q0R3xKmBZvG8) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Baby \(Version Norteña\)](https://open.spotify.com/album/6vMqBW93GIL1H4Y2Q9NdYK) | 3:18 |
 | 71 | [Andar Conmigo](https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Andar Conmigo](https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI) | 3:24 |
 | 72 | [Huapango Amor Ranchero](https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl) | 3:19 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 86 | [Cariñito](https://open.spotify.com/track/78bZloQ9Yj19NrafB8YW5e) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/3wxMFWQmft2AiryqyyH7Rx) | 2:28 |
 | 87 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
 | 88 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
-| 89 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 |
-| 90 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
+| 89 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
+| 90 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 |
 | 91 | [Me Dicen El Nini](https://open.spotify.com/track/2fZ7RBS83fcOz2qS0sRgOb) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen El Nini](https://open.spotify.com/album/1mlysUpLxuUf6wrZOEpFim) | 3:35 |
 | 92 | [La Loca \(En Vivo\)](https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [La Loca \(En Vivo\)](https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq) | 4:06 |
 | 93 | [Me Rehuso](https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Me Rehuso](https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY) | 2:47 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 102 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 |
 | 103 | [Cuando Alguien Me Amaba](https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cuando Alguien Me Amaba](https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj) | 2:24 |
 | 104 | [El Ranchero](https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Ranchero](https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn) | 3:55 |
-| 105 | [Difícil De Creer](https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Difícil De Creer](https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW) | 2:48 |
-| 106 | [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 |
+| 105 | [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 |
+| 106 | [Difícil De Creer](https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Difícil De Creer](https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW) | 2:48 |
 | 107 | [Que La Envidia Los Mate](https://open.spotify.com/track/4VvfmLUMpEiPqSOOFFl1tm) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/5Xwc9hOidf3NsxTtY046d4) | 2:49 |
 | 108 | [El Fulano](https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [El Fulano](https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll) | 2:22 |
 | 109 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [Eras Todo Para Mi](https://open.spotify.com/track/4hZkjc0ZI4PIa16WYc6ljk) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Eras Todo Para Mi](https://open.spotify.com/album/4VhNcAh9cUiOUw0f681eVK) | 3:32 |
 | 125 | [¡Hey!](https://open.spotify.com/track/3PRwPh22ki2c7QNxlr120N) | [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [¡Hey!](https://open.spotify.com/album/5kNeKv3GxJNyienZjExJKu) | 3:08 |
 
-Snapshot ID: `MCxjOGRmNDY3MGY3OTA0MmM2YWQ5YmYwMzliOTI1YmEwMTBhYzg3OWE0`
+Snapshot ID: `MCw2MjhiN2UyYmIyNjEzZDIwN2ZlMDA0YmE4YjkzNWE5OWIwZmQ3OTc5`

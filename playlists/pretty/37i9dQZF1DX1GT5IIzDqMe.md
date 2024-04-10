@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,162 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,172 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 30 | [Just Want Another Chance \- Original Mix](https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j) | [Reese](https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Just Want Another Chance](https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH) | 5:12 |
 | 31 | [Riod](https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q), [Borderland](https://open.spotify.com/artist/4ttW3XIF666GUYBF2tEMz9) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT) | 9:14 |
 | 32 | [Q](https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X) | 6:23 |
-| 33 | [Into The Groove \- Extended Mix](https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h), [Abe Duque](https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp) | [Into The Groove](https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf) | 6:36 |
-| 34 | [Elements](https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 6:51 |
+| 33 | [Elements](https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 6:51 |
+| 34 | [Into The Groove \- Extended Mix](https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h), [Abe Duque](https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp) | [Into The Groove](https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf) | 6:36 |
 | 35 | [SoundwaveZ](https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [ZebrA OctobrA](https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 3:08 |
 | 36 | [Can You Feel It \- Kevin Saunderson Remix](https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Can You Feel It \(Kevin Saunderson Remix\)](https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh) | 3:28 |
 | 37 | [Right There](https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Right There / Holy Ghost](https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX) | 2:57 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 47 | [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 |
 | 48 | [The Sound \- Extended Mix](https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx) | [Reese & Santonio](https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Reese](https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG) | [The Sound / How To Play Our Music](https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w) | 6:48 |
 | 49 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
-| 50 | [Do It All Night \(C2 Edit\) \- Mixed](https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ) | 5:39 |
+| 50 | [The Bearer \(feat\. Karina Mia\) \- Brother's Burden Pt1](https://open.spotify.com/track/3INuFzi0KoWmHsvsrboQMX) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Karina Mia](https://open.spotify.com/artist/7mFivvbdZvsw2An3wKB2cu) | [The Bearer \(feat\. Karina Mia\)](https://open.spotify.com/album/3VWYKKPxpelqXTSWCdN2vd) | 6:00 |
 
-Snapshot ID: `MCxkZWRlNGYyYzIxMmQ2MDA4YjdiMzRiMzVkN2FkNmEzMTM0MmNlZTQ2`
+Snapshot ID: `MCw4NTNhYzM5ODEyNzAzNzk2OWFhMzg0MjljZDcwYzc3NDBlNTI3NDdi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,088 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,127 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 53 | [Suin Romanticon](https://open.spotify.com/track/50ikhv8M3yUnoNW9dUEXxy) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 3:08 |
 | 54 | [Explotar Contigo](https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s) | [TOURISTA](https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM) | [Colores Paganos](https://open.spotify.com/album/52qqkgnvRbNW9wW0VT3OgY) | 3:24 |
 | 55 | [La Crecida](https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Gratitud](https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN) | 4:32 |
-| 56 | [Te Vi](https://open.spotify.com/track/4DwnXwEVTipWr1u7ZAgoku) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:36 |
-| 57 | [Nada Personal](https://open.spotify.com/track/0lPPaQ8ePs7ZawVcEfwXE1) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal](https://open.spotify.com/album/0lVo9qjRXWVuyapgRsUXOO) | 4:41 |
+| 56 | [Nada Personal](https://open.spotify.com/track/0lPPaQ8ePs7ZawVcEfwXE1) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal](https://open.spotify.com/album/0lVo9qjRXWVuyapgRsUXOO) | 4:41 |
+| 57 | [Te Vi](https://open.spotify.com/track/4DwnXwEVTipWr1u7ZAgoku) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:36 |
 | 58 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 59 | [Universe](https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:30 |
 | 60 | [Nubes](https://open.spotify.com/track/4bKKVfhH3pmMEWCMTViBVf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/3woQ2AxMJRfEJaEV9BIDR1) | 2:54 |
 | 61 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
-| 62 | [Love Is A Drug](https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [I'm Your Empress Of](https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq) | 2:40 |
-| 63 | [Bombay](https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp) | [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Pop Negro](https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC) | 3:39 |
-| 64 | [Mi Fábrica de Baile](https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Baile de Magos](https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f) | 4:25 |
+| 62 | [Bombay](https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp) | [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Pop Negro](https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC) | 3:39 |
+| 63 | [Mi Fábrica de Baile](https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Baile de Magos](https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f) | 4:25 |
+| 64 | [Love Is A Drug](https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [I'm Your Empress Of](https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq) | 2:40 |
 | 65 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
 | 66 | [Eras mi persona favorita](https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN) | [Teleradio Donoso](https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt) | [Gran Santiago](https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF) | 3:48 |
 | 67 | [Reflexión del Pasto](https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Reflexión del Pasto](https://open.spotify.com/album/28GYUNMKd575GwnofewUEI) | 1:46 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 76 | [Daikiri](https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bahía Margarita](https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l) | 3:57 |
 | 77 | [There Must Be a Song Like You](https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 4:50 |
 | 78 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
-| 79 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
-| 80 | [Latino & Proud](https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Raffolution](https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz) | 3:40 |
+| 79 | [Latino & Proud](https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Raffolution](https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz) | 3:40 |
+| 80 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
 | 81 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 |
 | 82 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
 | 83 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 99 | [En Mis Genes](https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW) | [Protistas](https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf) | [Nefertiti](https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh) | 4:02 |
 | 100 | [Cuando](https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:10 |
 
-Snapshot ID: `MCwwMzY1NzVkMzdhYjQzZmMxYTQ0ZTY0MDc4ZDBkNGNiYzZiMGVkMzFi`
+Snapshot ID: `MCxiYmM2YmQwODgwZGM5ZTIyNDNjNmU0NTIyZmU4Y2QxYjZkMGY0MmMy`

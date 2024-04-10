@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,571 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,642 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 30 | [GRAVITY \(FEAT\. TYLER, THE CREATOR\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 |
 | 31 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
 | 32 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 |
-| 33 | [Shine](https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Shine](https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb) | 3:46 |
-| 34 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
+| 33 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
+| 34 | [Shine](https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Shine](https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb) | 3:46 |
 | 35 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 |
 | 36 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
 | 37 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 49 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
 | 50 | [Ride for Me](https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Ride for Me](https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg) | 3:14 |
 
-Snapshot ID: `MCxjNTRkMDEyMzRkNmMzNjBjY2YwNmVjNjAyYjc3NTk1ZTQ4ZTJkNmM4`
+Snapshot ID: `MCwzZmU5NjU4ODNhOWNiODJmYTU1ZTIyZjhjM2M1ZjFjMzYzNTBjOWM5`

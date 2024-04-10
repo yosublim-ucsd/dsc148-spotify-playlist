@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Roy",
-  "num_followers": 40289,
+  "num_followers": 40294,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjkxNTlkMTBlM2QzMTUxNzhlMTFlODFmMDdjODAyYWNmNjkzZTcz",
+  "snapshot_id": "MCw3NWQxMzg1ZTY4ZGNjMWU0MDc1YTllNTkxZmIxZDU3ZmIyMTQxOGJh",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "SAUDADE",
+        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
+      },
+      "artists": [
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "barcelona92",
+      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Me Da Igual",
         "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
       },
@@ -459,26 +479,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "SAUDADE",
-        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
-      },
-      "artists": [
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "barcelona92",
-      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "GO GO GO (Feat. Josman)",
         "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
       },
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "SOLSAD",
-        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Loin d'ici",
-      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Bushi Tape 3",
         "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 184360,
       "name": "Oc\u00e9ane",
       "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "SOLSAD",
+        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Loin d'ici",
+      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Cramer",
-        "url": "https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT"
-      },
-      "artists": [
-        {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        }
-      ],
-      "duration_ms": 209767,
-      "name": "Cramer",
-      "url": "https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Goumin",
         "url": "https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF"
       },
@@ -627,50 +611,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Clique",
-        "url": "https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN"
+        "name": "Cramer",
+        "url": "https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT"
       },
       "artists": [
         {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
         }
       ],
-      "duration_ms": 181974,
-      "name": "Clique",
-      "url": "https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "J'ai mal",
-        "url": "https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 128347,
-      "name": "J'ai mal",
-      "url": "https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "C24",
-        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "C24",
-      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
+      "duration_ms": 209767,
+      "name": "Cramer",
+      "url": "https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -691,6 +643,54 @@
       "duration_ms": 183453,
       "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
       "url": "https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "J'ai mal",
+        "url": "https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 128347,
+      "name": "J'ai mal",
+      "url": "https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Clique",
+        "url": "https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "duration_ms": 181974,
+      "name": "Clique",
+      "url": "https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "LE FOND (feat. Zokush)",
-        "url": "https://open.spotify.com/album/3R6HVhMY57HehOkLVk6mYv"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        },
-        {
-          "name": "Zokush",
-          "url": "https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "LE FOND (feat. Zokush)",
-      "url": "https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "LE FOND (feat. Zokush)",
+        "url": "https://open.spotify.com/album/3R6HVhMY57HehOkLVk6mYv"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        },
+        {
+          "name": "Zokush",
+          "url": "https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "LE FOND (feat. Zokush)",
+      "url": "https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd"
     },
     {
       "added_at": "2024-04-05 04:01:00",

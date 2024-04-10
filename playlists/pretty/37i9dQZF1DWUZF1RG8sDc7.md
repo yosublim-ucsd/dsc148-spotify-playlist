@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,781 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,896 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 15 | [Tú Eres La Reina](https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Titulo De Amor](https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne) | 4:13 |
 | 16 | [Todo Daria por Ti](https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:49 |
 | 17 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 |
-| 18 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 |
+| 18 | [Amantes](https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W) | 3:45 |
 | 19 | [Recuerdame](https://open.spotify.com/track/4MaCRgEVU0iP2gIfnCLATK) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 3:29 |
 | 20 | [Que Vuelva](https://open.spotify.com/track/5qnayV2TGrx7OJvjkxVkVS) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k) | 4:22 |
 | 21 | [Amarte Mas No Pude](https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Orgullosa](https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB) | 4:49 |
-| 22 | [Amantes](https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W) | 3:45 |
+| 22 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 |
 | 23 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:54 |
 | 24 | [No Podrán Separarnos](https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Llévame En Tus Sueños](https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA) | 5:18 |
 | 25 | [Me Dejaste Sin Nada](https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF), [Las Musas Del Vallenato](https://open.spotify.com/artist/51NKeKxApR2v2CKQ5oejIo) | [Guerreras Del Amor](https://open.spotify.com/album/4sbD543Z4mC4tFsaVJIGQ6) | 4:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [Dejando Huellas](https://open.spotify.com/track/2VZDlhQZTvsWIWvX77Kdgi) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [30 Mejores](https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M) | 4:07 |
 | 60 | [No Comprendi Tu Amor](https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG), [Álvaro López](https://open.spotify.com/artist/5sjNYuS0jubMekjJ5T56AG) | [Coleccion Top 50](https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY) | 4:42 |
 
-Snapshot ID: `MCwzMTYxMDQ3YjZjOTQwNWU0ZDM5ZTU3NDExMzUwZTAwODFkMDgwYmJl`
+Snapshot ID: `MCxkOTcwNzkzYjhjY2I1Njg1OTUwY2EzNjMxMjkzN2Y2ZWIyMTQ4MDI3`

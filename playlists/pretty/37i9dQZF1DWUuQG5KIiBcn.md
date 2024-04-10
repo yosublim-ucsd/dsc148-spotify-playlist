@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,801 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,205 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 37 | [Anastasio Pacheco](https://open.spotify.com/track/2wcbC2ViEAKUjCx4pz1q6J) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves De Enero](https://open.spotify.com/album/0l1m4FOStVJxLb3Ogf9EKn) | 3:28 |
 | 38 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 |
 | 39 | [Dos Botellas De Mezcal](https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Millas Y Millas](https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM) | 3:16 |
-| 40 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 |
-| 41 | [Arturo Garza Trevino](https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:49 |
+| 40 | [Arturo Garza Trevino](https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:49 |
+| 41 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 |
 | 42 | [Macario Leyva](https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:19 |
 | 43 | [El Odio De Dos Hermanos](https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:01 |
 | 44 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 69 | [Gabino Barrera](https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:27 |
 | 70 | [El Tarasco](https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores Vol\. 1](https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap) | 3:09 |
 | 71 | [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 |
-| 72 | [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 |
+| 72 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
 | 73 | [Kilómetro 1160](https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [20 Corridos Valientes](https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE) | 3:12 |
-| 74 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
+| 74 | [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 |
 | 75 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 |
 
-Snapshot ID: `MCwzOWFhZmRjZGY1MzFjNWY2YjExMmEyMDQ2MWQzODk5MzA1ZTQzYzBj`
+Snapshot ID: `MCw2MjU4NWJiNmI3ODc3OGUxZTU0NzQzMDViYmYwODVmMjRmZmU5NjRm`

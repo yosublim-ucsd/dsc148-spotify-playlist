@@ -1,12 +1,12 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Peggy Gou)",
-  "num_followers": 24225,
+  "num_followers": 24250,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzRmMjQ4YjdiZjc3YTBmYTE2ODJiZThjODUzZmM4NjBlZjViYzdh",
+  "snapshot_id": "MCwxYmMwZTgxMGI3YTMyNzZiMDFlZGU4NjdlZTJiZmIwMjI5MWMwN2Ni",
   "tracks": [
     {
       "added_at": "2024-04-05 04:31:35",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
         "name": "Until I Saw You",
         "url": "https://open.spotify.com/album/3iMnAm08qg5PdOnM80YNfd"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 207437,
       "name": "Until I Saw You",
       "url": "https://open.spotify.com/track/5vq1maQ1FfzGqNxlatvOIt"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1015,50 +1015,6 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
-        "name": "Bring Me On",
-        "url": "https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf"
-      },
-      "artists": [
-        {
-          "name": "LMNTRX",
-          "url": "https://open.spotify.com/artist/3EQhBwReP6TxlTT9z8yIjD"
-        },
-        {
-          "name": "CIRE",
-          "url": "https://open.spotify.com/artist/4cqhNd5e30i06T1YWl2uiJ"
-        },
-        {
-          "name": "Arkins",
-          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Bring Me On",
-      "url": "https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Will Not Fear",
-          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Ridin' - Will Not Fear Remix",
-      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1083,6 +1039,26 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Will Not Fear",
+          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Ridin' - Will Not Fear Remix",
+      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
         "name": "iScreaM Vol.8 : Bambi Remixes",
         "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 171940,
       "name": "Bambi - BRLLNT Remix",
       "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
+        "name": "Bring Me On",
+        "url": "https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf"
+      },
+      "artists": [
+        {
+          "name": "LMNTRX",
+          "url": "https://open.spotify.com/artist/3EQhBwReP6TxlTT9z8yIjD"
+        },
+        {
+          "name": "CIRE",
+          "url": "https://open.spotify.com/artist/4cqhNd5e30i06T1YWl2uiJ"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Bring Me On",
+      "url": "https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
+        "name": "iScreaM Vol.23 : Phantom Remixes",
+        "url": "https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        },
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        }
+      ],
+      "duration_ms": 190968,
+      "name": "Phantom - IMLAY Remix",
+      "url": "https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
         "name": "Closer To The End (with Bemo Rouge)",
         "url": "https://open.spotify.com/album/1YHIIG6j2r81coRe1SS99e"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 171000,
       "name": "Closer To The End (with Bemo Rouge)",
       "url": "https://open.spotify.com/track/6Covx7dIBduWl1I8c6fWHk"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
-        "name": "iScreaM Vol.23 : Phantom Remixes",
-        "url": "https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB"
-      },
-      "artists": [
-        {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
-        },
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        }
-      ],
-      "duration_ms": 190968,
-      "name": "Phantom - IMLAY Remix",
-      "url": "https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
-        "name": "iScreaM Vol.5 : Criminal Remixes",
-        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
+        "name": "iScreaM Vol.23 : Phantom Remixes",
+        "url": "https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
         },
         {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "Pierre Blanche",
+          "url": "https://open.spotify.com/artist/7sQcLctmMlBV6eBvdcnNgo"
         }
       ],
-      "duration_ms": 211506,
-      "name": "Criminal - SUMIN Remix",
-      "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
+      "duration_ms": 244992,
+      "name": "Phantom - Pierre Blanche Remix",
+      "url": "https://open.spotify.com/track/2sqOAZK3yegHFbab4Z4479"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1383,6 +1383,26 @@
       "duration_ms": 274761,
       "name": "28 Reasons - LOOZBONE Remix",
       "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
+        "name": "iScreaM Vol.5 : Criminal Remixes",
+        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Criminal - SUMIN Remix",
+      "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1451,6 +1471,22 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
+        "name": "Secret Stories Heard From A Girl In An Opium Den",
+        "url": "https://open.spotify.com/album/6cMbVQAZP8gF1pW4f6iy8N"
+      },
+      "artists": [
+        {
+          "name": "Byul.org",
+          "url": "https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP"
+        }
+      ],
+      "duration_ms": 327804,
+      "name": "2",
+      "url": "https://open.spotify.com/track/30jDj2ksJLMvpcPS3X6WLm"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
         "name": "Off Ways",
         "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
       },
@@ -1471,38 +1507,22 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
-        "name": "iScreaM Vol.23 : Phantom Remixes",
-        "url": "https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB"
+        "name": "iScreaM Vol.13 : Sticker Remixes",
+        "url": "https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8"
       },
       "artists": [
         {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
         },
         {
-          "name": "Pierre Blanche",
-          "url": "https://open.spotify.com/artist/7sQcLctmMlBV6eBvdcnNgo"
+          "name": "Will Not Fear",
+          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
         }
       ],
-      "duration_ms": 244992,
-      "name": "Phantom - Pierre Blanche Remix",
-      "url": "https://open.spotify.com/track/2sqOAZK3yegHFbab4Z4479"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
-        "name": "Secret Stories Heard From A Girl In An Opium Den",
-        "url": "https://open.spotify.com/album/6cMbVQAZP8gF1pW4f6iy8N"
-      },
-      "artists": [
-        {
-          "name": "Byul.org",
-          "url": "https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP"
-        }
-      ],
-      "duration_ms": 327804,
-      "name": "2",
-      "url": "https://open.spotify.com/track/30jDj2ksJLMvpcPS3X6WLm"
+      "duration_ms": 204615,
+      "name": "Sticker - Will Not Fear Remix",
+      "url": "https://open.spotify.com/track/1X4hW7NBxflvlNPlJnN6vQ"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1539,26 +1559,6 @@
       "duration_ms": 162426,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
-        "name": "iScreaM Vol.13 : Sticker Remixes",
-        "url": "https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "Will Not Fear",
-          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
-        }
-      ],
-      "duration_ms": 204615,
-      "name": "Sticker - Will Not Fear Remix",
-      "url": "https://open.spotify.com/track/1X4hW7NBxflvlNPlJnN6vQ"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "Power - SHAUN Remix",
+      "url": "https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
         "name": "Sarah",
         "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
       },
@@ -1619,18 +1635,22 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
+        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
         }
       ],
-      "duration_ms": 256959,
-      "name": "Power - SHAUN Remix",
-      "url": "https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn"
+      "duration_ms": 166046,
+      "name": "2 Baddies - Biicla Remix",
+      "url": "https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1707,26 +1727,6 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
-        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
-        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
-        }
-      ],
-      "duration_ms": 166046,
-      "name": "2 Baddies - Biicla Remix",
-      "url": "https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
         "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
         "url": "https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq"
       },
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
-        "name": "SCREAM",
-        "url": "https://open.spotify.com/album/5CPafj4qfe1TYV5M8mS2AX"
-      },
-      "artists": [
-        {
-          "name": "MINUE",
-          "url": "https://open.spotify.com/artist/42uRfrf9fDSQnz01l4A0FT"
-        }
-      ],
-      "duration_ms": 194569,
-      "name": "SCREAM",
-      "url": "https://open.spotify.com/track/6F3cF9xuPXYa6vZKrAQOlo"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
         "name": "ION",
         "url": "https://open.spotify.com/album/0MFykXNF16vdKA92yO4eiI"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 253637,
       "name": "Melody",
       "url": "https://open.spotify.com/track/3odJfYuQWSOamh85TAIStM"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
+        "name": "SCREAM",
+        "url": "https://open.spotify.com/album/5CPafj4qfe1TYV5M8mS2AX"
+      },
+      "artists": [
+        {
+          "name": "MINUE",
+          "url": "https://open.spotify.com/artist/42uRfrf9fDSQnz01l4A0FT"
+        }
+      ],
+      "duration_ms": 194569,
+      "name": "SCREAM",
+      "url": "https://open.spotify.com/track/6F3cF9xuPXYa6vZKrAQOlo"
     },
     {
       "added_at": "2024-04-05 04:31:35",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2024-04-05 04:31:35",
       "album": {
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Power - Dash Berlin Remix",
+      "url": "https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F"
+    },
+    {
+      "added_at": "2024-04-05 04:31:35",
+      "album": {
         "name": "Click Click Bang",
         "url": "https://open.spotify.com/album/2u3w9ksDmQ82UJOfw8CB2j"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 214687,
       "name": "Come With Me - Dannic Edit",
       "url": "https://open.spotify.com/track/7qhC28InmQySEMyCDEwk46"
-    },
-    {
-      "added_at": "2024-04-05 04:31:35",
-      "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Power - Dash Berlin Remix",
-      "url": "https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F"
     },
     {
       "added_at": "2024-04-05 04:31:35",

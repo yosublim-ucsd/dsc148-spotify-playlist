@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 190243,
       "name": "Colours",
       "url": "https://open.spotify.com/track/03rievEiJ7NxtUfak0XGPH"
@@ -740,6 +740,24 @@
       "duration_ms": 176000,
       "name": "Dancing Particles",
       "url": "https://open.spotify.com/track/1XdPZYPszsxsxtnz1D2KGa"
+    },
+    {
+      "album": {
+        "name": "Deepest of Calm",
+        "url": "https://open.spotify.com/album/3zJJGh7bwN0eYL5joP6vTo"
+      },
+      "artists": [
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5EQs9AqQh02dx0JLrmVwWV"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227029,
+      "name": "Deepest of Calm",
+      "url": "https://open.spotify.com/track/5MXz6ZOqJlij1BhKaWxBHX"
     },
     {
       "album": {
@@ -974,6 +992,24 @@
       "duration_ms": 170810,
       "name": "Empfidlich",
       "url": "https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq"
+    },
+    {
+      "album": {
+        "name": "Endless Cosmos",
+        "url": "https://open.spotify.com/album/3bz9e5yKivJ9Y4juq04T6S"
+      },
+      "artists": [
+        {
+          "name": "Hans Jacob",
+          "url": "https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170652,
+      "name": "Endless Cosmos",
+      "url": "https://open.spotify.com/track/37PNuXmxQzb7xQERMSoYdA"
     },
     {
       "album": {
@@ -1366,7 +1402,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 200000,
       "name": "Frozen Tree",
       "url": "https://open.spotify.com/track/2vDa8fstJr66kdBig3FEzA"
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 158781,
       "name": "Heima",
       "url": "https://open.spotify.com/track/6cb2ZbtBESjuwhKawvm9qg"
@@ -2507,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Progression",
+        "url": "https://open.spotify.com/album/0CiBtxaubHulNurkBdaiXb"
+      },
+      "artists": [
+        {
+          "name": "Loe Vida",
+          "url": "https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167178,
+      "name": "Progression",
+      "url": "https://open.spotify.com/track/2ZIpv6AyW6oxltFukHNcUq"
+    },
+    {
+      "album": {
         "name": "Awaiting The Light",
         "url": "https://open.spotify.com/album/2xiKuJydcJMzfQp5eY6uj2"
       },
@@ -2662,10 +2716,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 194000,
       "name": "Rainbow Days",
       "url": "https://open.spotify.com/track/6mY7TTC8qzOURWVNjdiB03"
+    },
+    {
+      "album": {
+        "name": "Ramus",
+        "url": "https://open.spotify.com/album/63784z6zoLHJk7d4kgv9Aq"
+      },
+      "artists": [
+        {
+          "name": "Skye Saraswati",
+          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Ramus",
+      "url": "https://open.spotify.com/track/6I661pmM6IANKvfZgDnwbL"
     },
     {
       "album": {
@@ -2684,6 +2756,24 @@
       "duration_ms": 177200,
       "name": "Reaching For The Light",
       "url": "https://open.spotify.com/track/1Qs8bAVpciEuLUgyBr14XZ"
+    },
+    {
+      "album": {
+        "name": "Recreation",
+        "url": "https://open.spotify.com/album/4DLcccOtvXa91JR2gSmJyu"
+      },
+      "artists": [
+        {
+          "name": "Aveni\u00f3s",
+          "url": "https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172818,
+      "name": "Recreation",
+      "url": "https://open.spotify.com/track/55cPaHJERjMcBC2zgD9V8Q"
     },
     {
       "album": {
@@ -2752,7 +2842,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 176441,
       "name": "Resolvation",
       "url": "https://open.spotify.com/track/6QsiRBMCsArD9PdKHGy2xJ"
@@ -2900,6 +2990,24 @@
       "duration_ms": 151071,
       "name": "Sanyog",
       "url": "https://open.spotify.com/track/4jS79eUku1DjatFHoM06Xd"
+    },
+    {
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/0F8pfPl2Z37eUCDnzpcuaQ"
+      },
+      "artists": [
+        {
+          "name": "Onedin",
+          "url": "https://open.spotify.com/artist/7KrGMuULLxPvuxjbfmUSyj"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/0POsUHXKVnilLquumLz5sM"
     },
     {
       "album": {
@@ -3389,6 +3497,24 @@
     },
     {
       "album": {
+        "name": "Sunset Light",
+        "url": "https://open.spotify.com/album/2GRe6azMfozkaj2m8UJug4"
+      },
+      "artists": [
+        {
+          "name": "Mundo Suave",
+          "url": "https://open.spotify.com/artist/7mpuCc5RJrH5047X6M7Rcd"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149112,
+      "name": "Sunset Light",
+      "url": "https://open.spotify.com/track/2qrKbp8wRroI82dWpo0CLL"
+    },
+    {
+      "album": {
         "name": "Tender",
         "url": "https://open.spotify.com/album/2LhK1JRZO6K3y2s1PtAibB"
       },
@@ -3512,6 +3638,24 @@
       "duration_ms": 158152,
       "name": "Through The Air",
       "url": "https://open.spotify.com/track/0JNKQdqJplR2mAwsiRsGTl"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1VgduLl6yN29UCzGG1LaYo"
+      },
+      "artists": [
+        {
+          "name": "Institute of Noise",
+          "url": "https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/7qN201S0XYIFbBvl2YETwP"
     },
     {
       "album": {

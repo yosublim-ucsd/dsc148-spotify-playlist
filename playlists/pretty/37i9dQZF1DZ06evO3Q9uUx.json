@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14006,
+  "num_followers": 14014,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Nzg5Mzg5Mjc1NjEzYzgwZmYwMGQwYzM1OGNiODY1YjIxYmU5NDlm",
+  "snapshot_id": "MCw1ZmQwNmQyNmEwN2Y3Yzk0NTg4NDE3NjEwNWViYzAyZjEyNjYxYjkx",
   "tracks": [
     {
       "added_at": null,
@@ -947,38 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freak Remix",
-        "url": "https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p"
+        "name": "Drunken Wordz Sober Thoughtz",
+        "url": "https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 184920,
-      "name": "Freak (Remix)",
-      "url": "https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIXTEEN",
-        "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 152948,
-      "name": "SIXTEEN",
-      "url": "https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl"
+      "duration_ms": 168269,
+      "name": "Nasty Girl",
+      "url": "https://open.spotify.com/track/2JqW1Pne5WQWiKongjX8kA"
     },
     {
       "added_at": null,
@@ -995,6 +979,26 @@
       "duration_ms": 156519,
       "name": "PLATE",
       "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freak Remix",
+        "url": "https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 184920,
+      "name": "Freak (Remix)",
+      "url": "https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1"
     },
     {
       "added_at": null,
@@ -1019,22 +1023,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drunken Wordz Sober Thoughtz",
-        "url": "https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt"
+        "name": "SIXTEEN",
+        "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
       },
       "artists": [
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 168269,
-      "name": "Nasty Girl",
-      "url": "https://open.spotify.com/track/2JqW1Pne5WQWiKongjX8kA"
+      "duration_ms": 152948,
+      "name": "SIXTEEN",
+      "url": "https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl"
     },
     {
       "added_at": null,

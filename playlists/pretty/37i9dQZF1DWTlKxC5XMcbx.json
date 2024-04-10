@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 62030,
+  "num_followers": 62033,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGYyMTY1ZDYyZTk1MDQxMDI4ZmNiNzJhZTkyNzQ2YTNmNGJmNjky",
+  "snapshot_id": "MCw4MGZmY2IyMDNlODgxODdiODMwZTI1ZDYzNjczZGU1NGQzZDcxZmFm",
   "tracks": [
     {
       "added_at": "2024-04-08 02:41:58",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-04-08 02:41:58",
       "album": {
-        "name": "Quiet Kenny",
-        "url": "https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Alone Together - Rudy Van Gelder Remaster 2006",
-      "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
-    },
-    {
-      "added_at": "2024-04-08 02:41:58",
-      "album": {
         "name": "The Blues And The Abstract Truth",
         "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
       },
@@ -407,18 +391,34 @@
     {
       "added_at": "2024-04-08 02:41:58",
       "album": {
-        "name": "Maze of Tranquility",
-        "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
+        "name": "Quiet Kenny",
+        "url": "https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S"
       },
       "artists": [
         {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
         }
       ],
-      "duration_ms": 262707,
-      "name": "Maze of Tranquility",
-      "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
+      "duration_ms": 190400,
+      "name": "Alone Together - Rudy Van Gelder Remaster 2006",
+      "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
+    },
+    {
+      "added_at": "2024-04-08 02:41:58",
+      "album": {
+        "name": "Today And Now",
+        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins Quartet",
+          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Love Song From \"Apache\"",
+      "url": "https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq"
     },
     {
       "added_at": "2024-04-08 02:41:58",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-04-08 02:41:58",
       "album": {
-        "name": "Today And Now",
-        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
+        "name": "Maze of Tranquility",
+        "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins Quartet",
-          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
         }
       ],
-      "duration_ms": 252173,
-      "name": "Love Song From \"Apache\"",
-      "url": "https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq"
+      "duration_ms": 262707,
+      "name": "Maze of Tranquility",
+      "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
     },
     {
       "added_at": "2024-04-08 02:41:58",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-04-08 02:41:58",
       "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy"
+    },
+    {
+      "added_at": "2024-04-08 02:41:58",
+      "album": {
         "name": "The Essential Stan Getz: The Getz Songbook",
         "url": "https://open.spotify.com/album/5Gut48CGBAM7YkP37Lct4s"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 147906,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6"
-    },
-    {
-      "added_at": "2024-04-08 02:41:58",
-      "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 258040,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy"
     },
     {
       "added_at": "2024-04-08 02:41:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-08 02:41:58",
       "album": {
-        "name": "The Body & The Soul",
-        "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 202773,
-      "name": "Dedicated To You",
-      "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
-    },
-    {
-      "added_at": "2024-04-08 02:41:58",
-      "album": {
         "name": "Stardust: The Music Of Hoagy Carmichael",
         "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 284680,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/4dUVpbIu8FW7R76gejw3cq"
+    },
+    {
+      "added_at": "2024-04-08 02:41:58",
+      "album": {
+        "name": "The Body & The Soul",
+        "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
     },
     {
       "added_at": "2024-04-08 02:41:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-08 02:41:58",
       "album": {
-        "name": "Royal Flush",
-        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 372786,
-      "name": "I'm A Fool To Want You - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
-    },
-    {
-      "added_at": "2024-04-08 02:41:58",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 292093,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
+    },
+    {
+      "added_at": "2024-04-08 02:41:58",
+      "album": {
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 372786,
+      "name": "I'm A Fool To Want You - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
     },
     {
       "added_at": "2024-04-08 02:41:58",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-04-08 02:41:58",
       "album": {
-        "name": "Presenting Ray Bryant",
-        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
-      },
-      "artists": [
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "A Hundred Dreams from Now",
-      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
-    },
-    {
-      "added_at": "2024-04-08 02:41:58",
-      "album": {
         "name": "Room 29",
         "url": "https://open.spotify.com/album/5OoDylPvT78As7o5uwIDRX"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 212991,
       "name": "The Tearjerker Returns",
       "url": "https://open.spotify.com/track/5BmNj3cDAyqSFw69VY12WU"
+    },
+    {
+      "added_at": "2024-04-08 02:41:58",
+      "album": {
+        "name": "Presenting Ray Bryant",
+        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
+      },
+      "artists": [
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "A Hundred Dreams from Now",
+      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
     },
     {
       "added_at": "2024-04-08 02:41:58",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-04-08 02:41:58",
       "album": {
-        "name": "The Original Quartet With Chet Baker",
-        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
-      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
-    },
-    {
-      "added_at": "2024-04-08 02:41:58",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
+    },
+    {
+      "added_at": "2024-04-08 02:41:58",
+      "album": {
+        "name": "The Original Quartet With Chet Baker",
+        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
     },
     {
       "added_at": "2024-04-08 02:41:58",

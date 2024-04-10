@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 439410,
+  "num_followers": 439445,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDk2OTZmNDA4ODQ3NWQyNjNjZjM5NDVhMjFmZTAwMTBjNDc1YjU1",
+  "snapshot_id": "MCwxMjYzMjMzNGQ3YTE3OGJiMmZiYmUzNWNmYzE5MjQ2YWM2YjBlOGQ2",
   "tracks": [
     {
       "added_at": "2023-11-30 12:32:36",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+      "duration_ms": 222560,
+      "name": "Reggaet\u00f3n Lento (Bailemos)",
+      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
       "artists": [
         {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 222560,
-      "name": "Reggaet\u00f3n Lento (Bailemos)",
-      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
+      "duration_ms": 230000,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 143291,
-      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Visionary",
         "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
       },
@@ -999,22 +979,22 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 243226,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
+      "duration_ms": 143291,
+      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1123,6 +1103,26 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "El Pr\u00edncipe [Ghost Edition]",
         "url": "https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL"
       },
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Ven Conmigo",
-      "url": "https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Chambea",
         "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 195369,
       "name": "Travesuras",
       "url": "https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Ahora Me Llama",
         "url": "https://open.spotify.com/album/5G7fWlRbbz0ebcdTaEomEu"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 233293,
       "name": "Ahora Me Llama",
       "url": "https://open.spotify.com/track/4jhIWuW51XDplWJRfnG7AU"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     },
     {
       "added_at": "2023-11-30 12:32:36",

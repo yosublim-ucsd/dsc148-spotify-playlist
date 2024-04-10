@@ -1,12 +1,12 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 89909,
+  "num_followers": 89937,
   "original_name": "Cumbia pa' carretear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTNhZTdhYzUzNDgxNDFhMmQ5MTJiNWI5YzI0MTdiNjE4ZWU3MTQz",
+  "snapshot_id": "MCw2NGQ3Yjc2YTgyYzNlZTZkMDY5NTJhYThlNmE4MzAyNjc5MjMwOGJk",
   "tracks": [
     {
       "added_at": "2024-03-29 15:00:00",
@@ -351,8 +351,8 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 240853,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
+      "duration_ms": 194800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -515,8 +515,8 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 194800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+      "duration_ms": 240853,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "No Podre Olvidarme",
-      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "El Amor De Mi Vida",
         "url": "https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 184586,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "No Podre Olvidarme",
+      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -643,22 +643,6 @@
       "duration_ms": 182293,
       "name": "Una R\u00e1faga De Amor",
       "url": "https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Amor De Adolescentes",
-      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -723,6 +707,22 @@
       "duration_ms": 208040,
       "name": "Deber\u00eda Odiarte",
       "url": "https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Amor De Adolescentes",
+      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 263315,
-      "name": "Se Te Ve la Tanga",
-      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "La Fiesta es de Nosotros",
         "url": "https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 272044,
       "name": "Serenata cruel",
       "url": "https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 263315,
+      "name": "Se Te Ve la Tanga",
+      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 236448,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/3zMTzQ8ABjdAYBUNIbKcwh"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "15A\u00f1ero",
         "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 181840,
       "name": "Para dormir contigo otra vez",
       "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 236448,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3zMTzQ8ABjdAYBUNIbKcwh"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Somos Parte de Tu Vida",
-        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alegria",
-          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Mujeres y Cerveza",
-      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "De Amor y Vacil\u00f3n",
         "url": "https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+        "name": "Somos Parte de Tu Vida",
+        "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
       },
       "artists": [
         {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+          "name": "Grupo Alegria",
+          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
         }
       ],
-      "duration_ms": 168426,
-      "name": "No Me Dejes Sin Tu Amor",
-      "url": "https://open.spotify.com/track/7HwFftj6pgvU1AN6f5QuYJ"
+      "duration_ms": 264000,
+      "name": "Mujeres y Cerveza",
+      "url": "https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 185093,
       "name": "Ahora Que Te Vas",
       "url": "https://open.spotify.com/track/4A0PE9JT69DyzVkFZLTEeq"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "No Me Dejes Sin Tu Amor",
+      "url": "https://open.spotify.com/track/7HwFftj6pgvU1AN6f5QuYJ"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "De Fiesta Con Hechizo",
-        "url": "https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
-        }
-      ],
-      "duration_ms": 191869,
-      "name": "Romance Ilegal",
-      "url": "https://open.spotify.com/track/2tIxbFXVABcdR9iX31NSYh"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "De Amor y Cumbia",
         "url": "https://open.spotify.com/album/7oABLSw6ZW6kgMzmcScMw1"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 216363,
       "name": "Entr\u00e9game",
       "url": "https://open.spotify.com/track/5N1tERrYir6sDMi0WrbeUZ"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "De Fiesta Con Hechizo",
+        "url": "https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+        }
+      ],
+      "duration_ms": 191869,
+      "name": "Romance Ilegal",
+      "url": "https://open.spotify.com/track/2tIxbFXVABcdR9iX31NSYh"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
-      },
-      "artists": [
-        {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
-        }
-      ],
-      "duration_ms": 316240,
-      "name": "C\u00f3mo Dejar de Amarte y Otros",
-      "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Despu\u00e9s De Ti",
         "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 192073,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+      },
+      "artists": [
+        {
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+        }
+      ],
+      "duration_ms": 316240,
+      "name": "C\u00f3mo Dejar de Amarte y Otros",
+      "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+        "name": "Bebe Dame / Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
       },
       "artists": [
         {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
         }
       ],
-      "duration_ms": 185800,
-      "name": "La Mesa del Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/7FirJZsR2n0VWs1rzMjdms"
+      "duration_ms": 268518,
+      "name": "Bebe Dame / Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Bebe Dame / Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
       },
       "artists": [
         {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
         }
       ],
-      "duration_ms": 268518,
-      "name": "Bebe Dame / Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
+      "duration_ms": 185800,
+      "name": "La Mesa del Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/7FirJZsR2n0VWs1rzMjdms"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Cumbia E' Plaza",
-        "url": "https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj"
-      },
-      "artists": [
-        {
-          "name": "Sonora 5 Estrellas",
-          "url": "https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1"
-        }
-      ],
-      "duration_ms": 272085,
-      "name": "Supermandoneao",
-      "url": "https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Amada Mia",
         "url": "https://open.spotify.com/album/7Jau7EOZDzVZakLQXcou2l"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+        "name": "Cumbia E' Plaza",
+        "url": "https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj"
       },
       "artists": [
         {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+          "name": "Sonora 5 Estrellas",
+          "url": "https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1"
         }
       ],
-      "duration_ms": 246920,
-      "name": "Y Me Beb\u00ed Tu Recuerdo",
-      "url": "https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr"
+      "duration_ms": 272085,
+      "name": "Supermandoneao",
+      "url": "https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Chico de Oro",
+        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Perfume De Cumbia",
         "url": "https://open.spotify.com/album/0NQV1IrZHzey6XqYs3Iyie"
       },
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
+        "name": "Destruye",
+        "url": "https://open.spotify.com/album/696bj0AMsu8y5wED4IJCVC"
       },
       "artists": [
         {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+          "name": "Potencia",
+          "url": "https://open.spotify.com/artist/26SwMaLuxWolyBYLyjG8NQ"
         }
       ],
-      "duration_ms": 187746,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
+      "duration_ms": 188040,
+      "name": "No Te Marches",
+      "url": "https://open.spotify.com/track/2p6NdfaJywYmZOfGsQvzXQ"
     }
   ],
   "unique_name": "Cumbia pa' carretear",

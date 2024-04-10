@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: CYRIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,818,264 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,818,582 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 22 | [Self Control](https://open.spotify.com/track/2OgXqA5XJcrc5duK7nF3qd) | [Pachanta](https://open.spotify.com/artist/6JJbKj7rr0akgMZ9gBevrU), [Gestört aber GeiL](https://open.spotify.com/artist/7KAGJwWQQui8b0uqwXRkSr), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Self Control](https://open.spotify.com/album/7hgfhxgbUKVFSNSCbEfpR8) | 2:08 |
 | 23 | [Lay All Your Love On Me](https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV) | [Lietru](https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lavinia Hope](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Lay All Your Love On Me](https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz) | 2:29 |
 | 24 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
-| 25 | [Erinner mich](https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Erinner mich](https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl) | 2:31 |
+| 25 | [Erinner mich](https://open.spotify.com/track/2jE1slTsgQePkYP5ekrG5h) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Mega Hits Deutschland 2024](https://open.spotify.com/album/2YjOGKzfAKHtqk4nXjQR8E) | 2:31 |
 | 26 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 |
 | 27 | [Tarantella](https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [Tarantella](https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq) | 2:25 |
 | 28 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Leave The World Behind \(L'Esperanza\)](https://open.spotify.com/track/0LfaCcUnwFsfeOctUbzUCO) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Leave The World Behind \(L'Esperanza\)](https://open.spotify.com/album/13f2jmZJ5yDLFicA2nOPxE) | 2:37 |
 | 50 | [Monster \(with Alok\)](https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Monster \(with Alok\)](https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX) | 2:55 |
 
-Snapshot ID: `MCwwYzdmYmFhNTU2NGI2YWIxZmI0OTlhMGRlMGRiMzIwNzljN2RjYWMw`
+Snapshot ID: `MCxkNTBjMDVlMjU2NTI1YTY3MDQ3OTY5OWFhOWE5NzM5YjQxNzhkMzZl`

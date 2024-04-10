@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 275935,
+  "2024-04-10": 275984,
   "date_first_scraped": "2022-05-01",
   "description": "Shout \u00a1Viva M\u00e9xico! with these classics. ",
   "name": "Mexican Restaurant",
@@ -177,7 +177,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 224285,
       "name": "ALV",
       "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "album": {
         "name": "Mexico and Mariachis",
         "url": "https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9"
       },
@@ -571,7 +589,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
@@ -680,6 +698,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193568,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
         "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
@@ -767,7 +803,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 209062,
       "name": "Dame Amor",
       "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
@@ -960,6 +996,32 @@
     },
     {
       "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196832,
+      "name": "Elvira",
+      "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
+    },
+    {
+      "album": {
         "name": "En Este Amor",
         "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
       },
@@ -1036,6 +1098,28 @@
     },
     {
       "album": {
+        "name": "FIRST LOVE",
+        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
+    },
+    {
+      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1069,6 +1153,28 @@
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "album": {
+        "name": "It Was Always You (Siempre Fuiste T\u00fa)",
+        "url": "https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "It Was Always You (Siempre Fuiste T\u00fa)",
+      "url": "https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl"
     },
     {
       "album": {
@@ -1239,6 +1345,28 @@
       "duration_ms": 198920,
       "name": "La Chona",
       "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+    },
+    {
+      "album": {
+        "name": "La Cumbia Triste",
+        "url": "https://open.spotify.com/album/2GKBfuu1ab0QKzOpyrvMva"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "La Cumbia Triste",
+      "url": "https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr"
     },
     {
       "album": {
@@ -1426,6 +1554,28 @@
     },
     {
       "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187087,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
+    },
+    {
+      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
       },
@@ -1437,7 +1587,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 207400,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
@@ -1506,6 +1656,46 @@
     },
     {
       "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
+    },
+    {
+      "album": {
+        "name": "Mi Eterno Amor Secreto",
+        "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232321,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
+    },
+    {
+      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -1561,6 +1751,28 @@
       "duration_ms": 213542,
       "name": "More Than Words - Spotify Singles",
       "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "album": {
@@ -1659,6 +1871,24 @@
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
+    },
+    {
+      "album": {
+        "name": "Nube de Paso",
+        "url": "https://open.spotify.com/album/7xT119M1qgkNUP8UDSjya4"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178306,
+      "name": "Nube de Paso",
+      "url": "https://open.spotify.com/track/1OKSoHANCvAxufNdHZKhes"
     },
     {
       "album": {
@@ -2099,7 +2329,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 222551,
       "name": "Por las Noches - Remix",
       "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
@@ -2219,7 +2449,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 185920,
       "name": "Rosa Pastel",
       "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
@@ -2267,7 +2497,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
@@ -2285,7 +2515,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 115893,
       "name": "Santa Claus Lleg\u00f3 a La Ciudad",
       "url": "https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb"
@@ -2321,7 +2551,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 152173,
       "name": "Si Nos Dejan - En Vivo",
       "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
@@ -2661,7 +2891,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 212226,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
@@ -2723,7 +2953,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 233337,
       "name": "Un Vaquero En Navidad - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s"

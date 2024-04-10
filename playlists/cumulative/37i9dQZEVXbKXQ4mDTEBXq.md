@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-411 songs - 1 day 1 hr 46 min
+412 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,13 +222,14 @@
 | [かくれんぼ](https://open.spotify.com/track/0tMqllhrXe8CWOosrCD1fE) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:31 | 2022-01-13 | 2022-04-07 |
 | [きらり](https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [きらり](https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy) | 3:51 | 2021-05-05 | 2022-01-15 |
 | [きらり](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 3:51 | 2022-01-15 | 2023-09-13 |
+| [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 | 2024-04-09 |  |
 | [すずめ](https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 3:58 | 2022-11-12 | 2023-01-24 |
 | [すてきなホリデイ](https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU) | 4:37 | 2022-12-25 | 2022-12-28 |
 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 | 2023-03-17 | 2023-10-05 |
 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 | 2021-03-27\* |  |
 | [たぶん](https://open.spotify.com/track/398dL22bDbKbAmiOnPaq7o) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:16 | 2021-03-27\* | 2021-08-19 |
 | [なんでもないよ、](https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [なんでもないよ、](https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S) | 3:38 | 2021-11-17 | 2022-01-14 |
-| [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 | 2022-01-13 |  |
+| [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 | 2022-01-13 | 2024-04-10 |
 | [まつり](https://open.spotify.com/track/3OdkC5pG8vc26S26qHyBo8) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:45 | 2022-03-24 | 2022-05-15 |
 | [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 | 2022-03-22 | 2022-03-25 |
 | [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-17 | 2023-03-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,786 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,841 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 | 28 | [Enculado](https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:27 |
 | 29 | [Guaya Guaya](https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:13 |
 | 30 | [GAVILÁN II](https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:45 |
-| 31 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
-| 32 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 |
+| 31 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 |
+| 32 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
 | 33 | [BARBIEZ](https://open.spotify.com/track/5YZgFW1hURKX02zTayrpGI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:46 |
 | 34 | [Diamantes](https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:31 |
 | 35 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 | 124 | [Sigo Chambeando](https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:20 |
 | 125 | [Que Esta Pasando](https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Que Esta Pasando](https://open.spotify.com/album/6Oe0sKJyLnwFwfKwcbSRZS) | 2:42 |
 
-Snapshot ID: `MCxiZGNhOTNmNzc3M2QyMTBmYTg4MzAwM2FlNWFhNmI4YTVkOTQzNzhi`
+Snapshot ID: `MCw3MGMwYjdhZmE3MjNlZDBmY2U1Y2Q4MzNmOTIyZmY4MmM5YTIwM2Rl`

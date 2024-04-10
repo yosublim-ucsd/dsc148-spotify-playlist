@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 49 likes - 44 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 29 | [Cruel Intentions](https://open.spotify.com/track/5xpXXWREfd9x4juWhq280j) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/7Jo6Rt658T10xMMMA4Rbb5) | 3:50 |
 | 30 | [Natural](https://open.spotify.com/track/3uwMHGr9MrULAHApB7ZeAS) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 4:18 |
 | 31 | [Lie & Cheat \(feat\. Lauren Faith\)](https://open.spotify.com/track/79ty6gcstFS0M4mDKE1TT7) | [Pearl](https://open.spotify.com/artist/3G9uo23A4EPp4O1oUbaJGU), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Open](https://open.spotify.com/album/5I3UFCOe6thdof12k7AEU7) | 2:46 |
-| 32 | [LET GO LET GOOO](https://open.spotify.com/track/7idRGEhuNircZRdZgHJ8a3) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [LET GO LET GOOO](https://open.spotify.com/album/0xkLo9Ix2uQNHMJUiWaLFJ) | 2:04 |
-| 33 | [Blue Monday](https://open.spotify.com/track/1LX9LajHeOsAoWyoqnNdmT) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:13 |
-| 34 | [Another Bad Day](https://open.spotify.com/track/0tfsddygJQJiwHN28Rt1RL) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:49 |
-| 35 | [BEHIND HER EYES](https://open.spotify.com/track/0oLTMWHAK6LNqvrtgnw0Nw) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [BEHIND HER EYES / MISSING IN ACTION](https://open.spotify.com/album/6EHi6cp5n07JpU0jSMX1QI) | 4:26 |
-| 36 | [LIFE AS WE DREAMED](https://open.spotify.com/track/2xItCQmOOhSx7daRBXYAW8) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 1:46 |
-| 37 | [SAVITRI](https://open.spotify.com/track/4ZCK5ucXFABWM5EQYhcaEe) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [SAVITRI / ELECTRIC ENIGMA](https://open.spotify.com/album/5O8II7IyXqquI90CCOUShV) | 2:58 |
-| 38 | [HAPPINESS IN LIMBO](https://open.spotify.com/track/7GlCuPNA2ARZ93sHgK7Kpi) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 2:31 |
-| 39 | [ELECTRIC ENIGMA](https://open.spotify.com/track/0N7RV4p7zbRcMmyPjq6Mrk) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [SAVITRI / ELECTRIC ENIGMA](https://open.spotify.com/album/5O8II7IyXqquI90CCOUShV) | 2:36 |
-| 40 | [Heart Eyes](https://open.spotify.com/track/3dkelZbHXxqpdgVueyQtoT) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Heart Eyes](https://open.spotify.com/album/4C2HRJSaZwBzwIpcxCdKhN) | 2:58 |
-| 41 | [EAT THIS & FUCK UR DOUBT](https://open.spotify.com/track/075xJ4uJYtEZiuIHzUCsgk) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 2:42 |
-| 42 | [Reason in You](https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 3:32 |
-| 43 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
+| 32 | [leave it](https://open.spotify.com/track/0eJNz2dntjRD3GtmP6o1zY) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [leave it](https://open.spotify.com/album/3A8Lt0gvEbH3ULqwhBT0wH) | 2:15 |
+| 33 | [LET GO LET GOOO](https://open.spotify.com/track/7idRGEhuNircZRdZgHJ8a3) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [LET GO LET GOOO](https://open.spotify.com/album/0xkLo9Ix2uQNHMJUiWaLFJ) | 2:04 |
+| 34 | [Blue Monday](https://open.spotify.com/track/1LX9LajHeOsAoWyoqnNdmT) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:13 |
+| 35 | [Another Bad Day](https://open.spotify.com/track/0tfsddygJQJiwHN28Rt1RL) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:49 |
+| 36 | [BEHIND HER EYES](https://open.spotify.com/track/0oLTMWHAK6LNqvrtgnw0Nw) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [BEHIND HER EYES / MISSING IN ACTION](https://open.spotify.com/album/6EHi6cp5n07JpU0jSMX1QI) | 4:26 |
+| 37 | [LIFE AS WE DREAMED](https://open.spotify.com/track/2xItCQmOOhSx7daRBXYAW8) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 1:46 |
+| 38 | [SAVITRI](https://open.spotify.com/track/4ZCK5ucXFABWM5EQYhcaEe) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [SAVITRI / ELECTRIC ENIGMA](https://open.spotify.com/album/5O8II7IyXqquI90CCOUShV) | 2:58 |
+| 39 | [HAPPINESS IN LIMBO](https://open.spotify.com/track/7GlCuPNA2ARZ93sHgK7Kpi) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 2:31 |
+| 40 | [ELECTRIC ENIGMA](https://open.spotify.com/track/0N7RV4p7zbRcMmyPjq6Mrk) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [SAVITRI / ELECTRIC ENIGMA](https://open.spotify.com/album/5O8II7IyXqquI90CCOUShV) | 2:36 |
+| 41 | [Heart Eyes](https://open.spotify.com/track/3dkelZbHXxqpdgVueyQtoT) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Heart Eyes](https://open.spotify.com/album/4C2HRJSaZwBzwIpcxCdKhN) | 2:58 |
+| 42 | [EAT THIS & FUCK UR DOUBT](https://open.spotify.com/track/075xJ4uJYtEZiuIHzUCsgk) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 2:42 |
+| 43 | [Reason in You](https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 3:32 |
+| 44 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `Mjg1NDM4MDAsMDAwMDAwMDBlOTdkYWM3NGVjYzZlODM0OWQ2NWMwM2E0MjhhODExMw==`
+Snapshot ID: `Mjg1NDUyMjAsMDAwMDAwMDA3Njc3NmUxNjM4ODBiODhmM2JkMzU1MjFiNjAxOTJlOA==`

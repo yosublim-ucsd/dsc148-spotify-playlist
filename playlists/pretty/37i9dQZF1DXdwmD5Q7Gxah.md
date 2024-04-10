@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > cover: lizzy mcalpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,404 likes - 112 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,456 likes - 112 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 111 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
 | 112 | [Hater's Anthem](https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem](https://open.spotify.com/album/55cVPdr31Rh54Oq2HX0c4x) | 2:51 |
 
-Snapshot ID: `MCw1OTdkNDY3Yjc3MTA1MGYwMzUxNjdjODgwNDQ5MjhhMmM3YjI1YWVm`
+Snapshot ID: `MCw1YTQwMmY1ODhiOGQ5YWY4ZGQzZTc5ODg1OTNmYTkzZjMwNzhlMzc5`

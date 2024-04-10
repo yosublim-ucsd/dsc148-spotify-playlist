@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 12565,
+  "2024-04-10": 12575,
   "date_first_scraped": "2022-08-06",
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
   "name": "This Is Big Mama Thornton",
@@ -579,7 +579,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 265346,
       "name": "Good Time in London",
       "url": "https://open.spotify.com/track/6PQIAg09Oa1jMVhaDX0GlQ"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 133160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/1a190bvAYqk1wyChVSm6s1"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 171666,
       "name": "Hound Dog - Single Version",
       "url": "https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 166320,
       "name": "Let Your Tears Fall Baby",
       "url": "https://open.spotify.com/track/1jYWQqeAXOLrEViva1mhyR"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 158160,
       "name": "Rock-A-Bye Baby",
       "url": "https://open.spotify.com/track/2udEEYnBWucIfqTdg0SDWb"
@@ -2475,7 +2475,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 44369,
       "name": "Talking, Pt.2 - Live",
       "url": "https://open.spotify.com/track/2DlRCvaBH6adqBosfUbNES"
@@ -2583,7 +2583,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 165573,
       "name": "The Big Change",
       "url": "https://open.spotify.com/track/6HbOH4rDGisZtZrc8vEC9D"
@@ -2619,7 +2619,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 162546,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/5dnK7TJR2qL6PVG4YVPVjM"
@@ -2923,7 +2923,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 172906,
       "name": "Yes, Baby",
       "url": "https://open.spotify.com/track/1QGCXux6EbV2Tisimd0H5f"
@@ -2985,7 +2985,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 163818,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/0KRFCq8CjXAsTQSaDpRJHZ"

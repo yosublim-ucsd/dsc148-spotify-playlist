@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,203 likes - 79 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,750 likes - 79 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 22 | [Turned Into Missing You](https://open.spotify.com/track/74PUiV5qVX8Cbs1xeWNEND) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Turned Into Missing You](https://open.spotify.com/album/2US5Vh8gLLhmH4mTm9eadW) | 3:08 |
 | 23 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 24 | [charlie!](https://open.spotify.com/track/0i5gM0hOadRiMLOn7V0fUF) | [Chesle](https://open.spotify.com/artist/1OEchET7khtY1YZZ7UFJO2) | [charlie!](https://open.spotify.com/album/3SkBG4j0yvo6AfZp3GvKBd) | 2:36 |
-| 25 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 |
+| 25 | [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 |
 | 26 | [I'm The Sinner](https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [I'm The Sinner](https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr) | 2:12 |
 | 27 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 28 | [in your arms](https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in your arms](https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ) | 3:19 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 78 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 79 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
 
-Snapshot ID: `MCxiMTRmMTEzNTgyMzM0NjFmNTUwN2UwOTRjYzk5NzFiNDczY2Q3ZjM0`
+Snapshot ID: `MCw1NmM5ZmY4ODRiODI3Y2E3NWM5OWJiMjUzNTMxNDNhNjdmZTU1NTU1`

@@ -1,12 +1,12 @@
 {
   "description": "Winners \u2014 past and present \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 261099,
+  "num_followers": 261093,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTZlOWQyZGY4NGJkNjZhZjk3Zjc4YThkMDQxOWM0MTY5NWZlODgx",
+  "snapshot_id": "MCw3ZmI3ZDUzOWFkZWM4YzQ1MDIzZDdhM2Q0ZjI5MTQ3YmZjY2Y2MmJj",
   "tracks": [
     {
       "added_at": "2024-01-23 19:55:12",
@@ -303,18 +303,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Songs and Story: Pocahontas",
-        "url": "https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj"
+        "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
       },
       "artists": [
         {
-          "name": "Judy Kuhn",
-          "url": "https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz"
+          "name": "Billy Crystal",
+          "url": "https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh"
+        },
+        {
+          "name": "John Goodman",
+          "url": "https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Colors of the Wind - From \"Pocahontas\"",
-      "url": "https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP"
+      "duration_ms": 217786,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -335,22 +339,18 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
+        "name": "Songs and Story: Pocahontas",
+        "url": "https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj"
       },
       "artists": [
         {
-          "name": "Billy Crystal",
-          "url": "https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh"
-        },
-        {
-          "name": "John Goodman",
-          "url": "https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ"
+          "name": "Judy Kuhn",
+          "url": "https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz"
         }
       ],
-      "duration_ms": 217786,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602"
+      "duration_ms": 212933,
+      "name": "Colors of the Wind - From \"Pocahontas\"",
+      "url": "https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP"
     },
     {
       "added_at": "2024-01-23 19:55:12",

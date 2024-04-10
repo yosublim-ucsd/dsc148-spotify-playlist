@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: رامي صبري
 
-904 songs - 2 day 3 hr 13 min
+905 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [Wagaa Kam Youm](https://open.spotify.com/track/0pxGNAjZ6ngccUf5ehwjPB) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Wagaa Kam Youm](https://open.spotify.com/album/0VI7mgJVE7EqCjLBqJZpsf) | 4:35 | 2021-12-23 | 2022-02-23 |
 | [Waga’a elfora’a](https://open.spotify.com/track/24uwCUmYxGToC09ID18gKu) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [Waga’a elfora’a](https://open.spotify.com/album/1sJ5z7Iyacgp2T2RBDDoU2) | 3:45 | 2023-02-23 | 2023-05-03 |
 | [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2022-05-24 | 2022-08-21 |
+| [Wahshany](https://open.spotify.com/track/1kiqCDYCfNrvAP990he3GI) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Wahshany](https://open.spotify.com/album/2u1x9iR0q7dLwX4aEHaJ1N) | 4:09 | 2024-04-10 |  |
 | [Wala Bakhtar](https://open.spotify.com/track/7BZywSkvYpvqXikQua3OmW) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Wala Bakhtar](https://open.spotify.com/album/3cPCWyHeXAQevUgfGyorwC) | 3:32 | 2023-09-25 | 2024-01-05 |
 | [Wala Haga](https://open.spotify.com/track/7HnxnqVd9Ri4gPLi2aAoqq) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Wala Haga](https://open.spotify.com/album/3E9MxgoUd0Nn2tKTKCtd7I) | 2:43 | 2023-08-08 | 2023-08-25 |
 | [Walad](https://open.spotify.com/track/4ICngUihhBxci0OHQIL0uu) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Walad](https://open.spotify.com/album/6SdAmxpejR61XJnjJqErLj) | 3:09 | 2022-10-07 | 2022-12-30 |

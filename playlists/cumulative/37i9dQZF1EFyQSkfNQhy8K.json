@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Amigos (with Becky G)",
+        "url": "https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151864,
+      "name": "Amigos (with Becky G)",
+      "url": "https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX"
+    },
+    {
+      "album": {
         "name": "Another day in America (with Ozuna)",
         "url": "https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW"
       },
@@ -2057,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117419,
+      "name": "NADA QUE DECIR",
+      "url": "https://open.spotify.com/track/3s517OY43flGYhwMVRXU2F"
+    },
+    {
+      "album": {
         "name": "PA' LA CULTURA",
         "url": "https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz"
       },
@@ -3100,6 +3140,24 @@
       "duration_ms": 176800,
       "name": "The One (Pero No Como Yo)",
       "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
+    },
+    {
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196233,
+      "name": "Tiempo Sin Verte",
+      "url": "https://open.spotify.com/track/6c8jkAgbVk44B8SwRi8vQs"
     },
     {
       "album": {

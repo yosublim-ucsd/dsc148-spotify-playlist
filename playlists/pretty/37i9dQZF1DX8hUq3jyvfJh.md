@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Manu e mais mulheres no volume máximo! Co\-curadoria com
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,526 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,661 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 6 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 | 7 | [Narcisista \- Ao Vivo](https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Narcisista \(Ao Vivo\)](https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC) | 3:31 |
 | 8 | [Campo De Morango](https://open.spotify.com/track/2exu569k07hUulN9CoPnMH) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 1:16 |
-| 9 | [Vai Viver](https://open.spotify.com/track/60ILJutBf3XoAfmNafR8mz) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Vai Viver](https://open.spotify.com/album/0tmVFpNaA1in2fz5oK4NVp) | 2:28 |
-| 10 | [Ali Te Ama \- Ao Vivo](https://open.spotify.com/track/4D25RP3yiJWfW9utK9dMyv) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Rayane & Rafaela, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3alOXtWjiWAlFbCYcpvvni) | 2:48 |
+| 9 | [Ali Te Ama \- Ao Vivo](https://open.spotify.com/track/4D25RP3yiJWfW9utK9dMyv) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Rayane & Rafaela, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3alOXtWjiWAlFbCYcpvvni) | 2:48 |
+| 10 | [Vai Viver](https://open.spotify.com/track/60ILJutBf3XoAfmNafR8mz) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Vai Viver](https://open.spotify.com/album/0tmVFpNaA1in2fz5oK4NVp) | 2:28 |
 | 11 | [Palhaça \- Ao Vivo](https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Palhaça \(Ao Vivo\)](https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf) | 2:50 |
 | 12 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 |
 | 13 | [Me Perdoa](https://open.spotify.com/track/7dH7wklD8mfSt2Iu0jeh32) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Me Perdoa](https://open.spotify.com/album/50p3j1Wu9Cqw5AUL5Wb4xO) | 3:39 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 18 | [Bêbado e Apaixonado](https://open.spotify.com/track/3gBTaR5wzBuDfcCEDT0C56) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Bêbado e Apaixonado](https://open.spotify.com/album/7r5oNea325sqeTZD5mHlEd) | 2:55 |
 | 19 | [Apaixonada](https://open.spotify.com/track/6PPtpSPkzvXUpmXbfnNupr) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX), [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Apaixonada](https://open.spotify.com/album/0cRcvbevYUF3owFrbywXIN) | 3:08 |
 | 20 | [Amnésia Do Beijo \- Ao Vivo](https://open.spotify.com/track/6YJzvSZzfrd1UDaLFIRHQY) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 3:00 |
-| 21 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Deixa Eu Viver \(Ao Vivo\)](https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B) | 3:21 |
-| 22 | [Xuxu](https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Xuxu](https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O) | 2:52 |
+| 21 | [Xuxu](https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Xuxu](https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O) | 2:52 |
+| 22 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Deixa Eu Viver \(Ao Vivo\)](https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B) | 3:21 |
 | 23 | [Relógio de Saudade \(Atemporal\)](https://open.spotify.com/track/0WJUDo8zBPX0uAwh2OwDw6) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Relógio de Saudade \(Atemporal\)](https://open.spotify.com/album/0wcl7GG5vw172Nm6sVGAXm) | 2:33 |
 | 24 | [Disse Adeus](https://open.spotify.com/track/4QDD34IiZHZvImtqnZEBER) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Disse Adeus](https://open.spotify.com/album/211y2GMUoTn5QvzAlZiQuk) | 4:03 |
 | 25 | [Quando a Chuva Passar](https://open.spotify.com/track/28w7IiopxwhZ6wHQ1NQkvV) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Memórias da Taty \- Parte 1](https://open.spotify.com/album/4Nh6lim45VRtMIIY4d8VCg) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Vapt Vupt](https://open.spotify.com/track/1Ccih7yKi46g9TK9KQmNGG) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Sobre Nós Dois, Vol.1](https://open.spotify.com/album/1LZgTRSFgdjSj0HrnWS1ZP) | 2:22 |
 | 50 | [Muvuca](https://open.spotify.com/track/6CgXbGugDy2XiZm8IwRgwN) | [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Muvuca](https://open.spotify.com/album/53bI27tNxFAmguVRUW1yAd) | 2:44 |
 
-Snapshot ID: `MCxkZDFlOWNlNDljNWM0ZmU5M2M1ZjhiYjY3OGI2MzYxZTA3M2RjN2Ew`
+Snapshot ID: `MCxjMjU1MDgxODdkMjE1ZjBmMWY3ZTFiNGJiYjc1ODMwNjhlN2E1NzFj`

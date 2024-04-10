@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,716 likes - 150 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,865 likes - 150 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 40 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 | 41 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
 | 42 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
-| 43 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
-| 44 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
+| 43 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
+| 44 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 45 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 |
 | 46 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
 | 47 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [20/20](https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW) | 4:02 |
@@ -133,18 +133,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 123 | [Arms Of A Woman](https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 4:11 |
 | 124 | [Empty Space](https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Empty Space](https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4) | 3:34 |
 | 125 | [Dear Marie](https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 3:42 |
-| 126 | [The Man Who Can't Be Moved \- Acoustic](https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
-| 127 | [A Groovy Kind of Love \- 2016 Remaster](https://open.spotify.com/track/3BSi5qoJGLab7rn7zfmTPA) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:30 |
+| 126 | [A Groovy Kind of Love \- 2016 Remaster](https://open.spotify.com/track/3BSi5qoJGLab7rn7zfmTPA) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:30 |
+| 127 | [The Man Who Can't Be Moved \- Acoustic](https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
 | 128 | [On Bended Knee](https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 5:29 |
 | 129 | [Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Natural High](https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N) | 6:38 |
 | 130 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
 | 131 | [Please Forgive Me](https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW) | 5:55 |
-| 132 | [When I Need You \- Remastered](https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 4:13 |
-| 133 | [Here and Now](https://open.spotify.com/track/042pmCix7CPth3l3X28jl1) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Best of Luther Vandross The Best of Love](https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD) | 5:23 |
+| 132 | [Never Seen Anything "Quite Like You" \- Acoustic](https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
+| 133 | [When I Need You \- Remastered](https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 4:13 |
 | 134 | [Impossible \- Acoustic](https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 4:10 |
-| 135 | [Never Seen Anything "Quite Like You" \- Acoustic](https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
-| 136 | [Where Do I Begin \- Love Theme from "Love Story"](https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Love Story](https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ) | 3:09 |
-| 137 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
+| 135 | [Here and Now](https://open.spotify.com/track/042pmCix7CPth3l3X28jl1) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Best of Luther Vandross The Best of Love](https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD) | 5:23 |
+| 136 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
+| 137 | [Where Do I Begin \- Love Theme from "Love Story"](https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Love Story](https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ) | 3:09 |
 | 138 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 |
 | 139 | [Mandy](https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Ultimate Manilow](https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG) | 3:17 |
 | 140 | [Don't Be A Fool](https://open.spotify.com/track/7msCKNrI0vZw9H4MIgLnAh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:35 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 149 | [Slave To Love](https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [More Than This \- The Best Of Bryan Ferry And Roxy Music](https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im) | 4:19 |
 | 150 | [Tuesdays](https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Tuesdays](https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD) | 3:36 |
 
-Snapshot ID: `MCwwMWM2MDZmOGQ1MGU3Nzc2OWI1NjcxYTYwNjBjNzI5OTY0ZWIzMzEw`
+Snapshot ID: `MCwxOTQyZWYwZjdjZjJiNjM0N2JkOGZlN2ExODExZDBlODZlYWNkMDhl`

@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 11394,
+  "num_followers": 11419,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjk0MTQyNTFiZjE3ZjEwOGRhNGMwMGFmMDQxMzc0ZGVmOTQzNzcz",
+  "snapshot_id": "MCxmNGIyMDk2MjI2ZjQ3ZGY5ODIyOWE1NGE1YTAyNGU2NjUxOTdmMzlj",
   "tracks": [
     {
       "added_at": "2024-03-14 21:53:14",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-03-14 21:53:14",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/4JDKIJuDXFfi95NSQ0K7Dl"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1HM9uVbB4DVQh0QlwY7W6v"
-    },
-    {
-      "added_at": "2024-03-14 21:53:14",
-      "album": {
         "name": "\u00bfY Si Eras T\u00fa?",
         "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 169613,
       "name": "\u00bfY Si Eras T\u00fa?",
       "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
+    },
+    {
+      "added_at": "2024-03-14 21:53:14",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/4JDKIJuDXFfi95NSQ0K7Dl"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1HM9uVbB4DVQh0QlwY7W6v"
     },
     {
       "added_at": "2024-03-14 21:53:14",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-03-14 21:53:14",
       "album": {
-        "name": "POEMA A TUS PROBLEMAS",
-        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 209857,
-      "name": "POEMA A TUS PROBLEMAS",
-      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
-    },
-    {
-      "added_at": "2024-03-14 21:53:14",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 174600,
       "name": "7 Veces",
       "url": "https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP"
+    },
+    {
+      "added_at": "2024-03-14 21:53:14",
+      "album": {
+        "name": "POEMA A TUS PROBLEMAS",
+        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 209857,
+      "name": "POEMA A TUS PROBLEMAS",
+      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
     },
     {
       "added_at": "2024-03-14 21:53:14",

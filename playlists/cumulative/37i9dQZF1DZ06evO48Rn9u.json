@@ -634,7 +634,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 206893,
       "name": "Merry Go 'Round",
       "url": "https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh"
@@ -656,6 +656,24 @@
       "duration_ms": 189826,
       "name": "Moving Out",
       "url": "https://open.spotify.com/track/1LwT9Pou0rRCXPpXVWy5iA"
+    },
+    {
+      "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160506,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/5GMaBMKjisLhVfjRoH5BaW"
     },
     {
       "album": {

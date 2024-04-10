@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 71139,
+  "num_followers": 71148,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2FlNzI5MTIyZTYzMzkwNWJhOGM4M2FjMmVhZGYwODQyNmRhNTI5",
+  "snapshot_id": "MCw1ODhjMDc4NTM1M2FlYzNkYmY1NzJiZDcwNjg0NDk3ZDkxY2UzYzg1",
   "tracks": [
     {
       "added_at": "2023-11-17 08:35:13",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "ARDIPITHECUS",
         "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
+        "name": "Tek It (I Watch the Moon)",
+        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 166859,
+      "name": "Tek It - Sped Up",
+      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Tek It (I Watch the Moon)",
-        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
       },
       "artists": [
         {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 166859,
-      "name": "Tek It - Sped Up",
-      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
+      "duration_ms": 185573,
+      "name": "Shinunoga E-Wa",
+      "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -719,22 +735,6 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "HELP EVER HURT NEVER",
-        "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Shinunoga E-Wa",
-      "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "NARCISSISTIC PERSONALITY DISORDER",
-        "url": "https://open.spotify.com/album/10o52EY3moL562KKhd3Cet"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 110416,
-      "name": "NARCISSISTIC PERSONALITY DISORDER",
-      "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "GigaChad Theme (Phonk House Version)",
         "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 146274,
       "name": "GigaChad Theme - Phonk House Version",
       "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "NARCISSISTIC PERSONALITY DISORDER",
+        "url": "https://open.spotify.com/album/10o52EY3moL562KKhd3Cet"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 110416,
+      "name": "NARCISSISTIC PERSONALITY DISORDER",
+      "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "MATHEMATICAL DISRESPECT",
-        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        }
-      ],
-      "duration_ms": 88304,
-      "name": "MATHEMATICAL DISRESPECT",
-      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "NEON BLADE",
         "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
       },
@@ -1191,26 +1175,6 @@
       "duration_ms": 265263,
       "name": "NEON BLADE",
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
-      },
-      "artists": [
-        {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
-        },
-        {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
-        }
-      ],
-      "duration_ms": 120593,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1251,18 +1215,38 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
       },
       "artists": [
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
+        },
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
         }
       ],
-      "duration_ms": 127780,
-      "name": "i'm yours sped up",
-      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+      "duration_ms": 120593,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "MATHEMATICAL DISRESPECT",
+        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "duration_ms": 88304,
+      "name": "MATHEMATICAL DISRESPECT",
+      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1279,6 +1263,22 @@
       "duration_ms": 230893,
       "name": "My Ordinary Life",
       "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
     },
     {
       "added_at": "2023-11-17 08:35:13",

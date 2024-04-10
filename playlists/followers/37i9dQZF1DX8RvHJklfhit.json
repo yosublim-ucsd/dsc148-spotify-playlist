@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 177088,
+  "2024-04-10": 177127,
   "date_first_scraped": "2022-03-28",
   "description": "Your favorite Latin Indie classics.",
   "name": "Latin Indie Classics",
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 242906,
       "name": "En Mis Genes",
       "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
@@ -2635,7 +2635,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 171807,
       "name": "NTE",
       "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"

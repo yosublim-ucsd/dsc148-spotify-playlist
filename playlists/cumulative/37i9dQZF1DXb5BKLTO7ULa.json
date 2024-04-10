@@ -11934,7 +11934,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188721,
-      "name": "BLACK DOG / WHITE HORSE - bd/wh",
+      "name": "BLACK DOG / WHITE HORSE",
       "url": "https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz"
     },
     {
@@ -95587,24 +95587,6 @@
     },
     {
       "album": {
-        "name": "Thrash",
-        "url": "https://open.spotify.com/album/3iDxiM9BnL4Z6Cuvz2yg3D"
-      },
-      "artists": [
-        {
-          "name": "Stella",
-          "url": "https://open.spotify.com/artist/46gCA7cp3vzZpJWB7fS1db"
-        }
-      ],
-      "date_added": "2024-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 242066,
-      "name": "Thrash",
-      "url": "https://open.spotify.com/track/4pYh2g7nKlSZmE33sS2QxV"
-    },
-    {
-      "album": {
         "name": "Threat Level Midnight",
         "url": "https://open.spotify.com/album/78gYw4wXymKAmr3Srof5XA"
       },
@@ -97884,6 +97866,24 @@
       "duration_ms": 195094,
       "name": "Transparency (feat. USHER)",
       "url": "https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO"
+    },
+    {
+      "album": {
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/3iDxiM9BnL4Z6Cuvz2yg3D"
+      },
+      "artists": [
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/46gCA7cp3vzZpJWB7fS1db"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242066,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/4pYh2g7nKlSZmE33sS2QxV"
     },
     {
       "album": {

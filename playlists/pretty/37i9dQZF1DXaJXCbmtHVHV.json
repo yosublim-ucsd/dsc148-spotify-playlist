@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Parker McCollum",
-  "num_followers": 543137,
+  "num_followers": 543278,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzYwYjVkNzM0NDIzMWIyMmE2N2NlYWY4ZDM0N2ViNGM5Y2E4ZWVi",
+  "snapshot_id": "MCxlMmMxYzE2ZWE1YmE0MzgyNTJiY2Q3NzIwMDQ5ODMxOGQwNGZkYmY1",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Wildflowers and Wild Horses",
+        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Wildflowers and Wild Horses (Single Version)",
+      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Wildflowers and Wild Horses",
-        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Wildflowers and Wild Horses (Single Version)",
-      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Outskirts",
         "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 182706,
       "name": "Outskirts",
       "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Young Love & Saturday Nights",
         "url": "https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 195357,
       "name": "Young Love & Saturday Nights",
       "url": "https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 221520,
       "name": "Human",
       "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Half Of Me",
-      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Flower Shops (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
-      "duration_ms": 179720,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
+      "duration_ms": 194266,
+      "name": "Stars Like Confetti",
+      "url": "https://open.spotify.com/track/4HXiZiCbYIiG03OQwXRYnE"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1575,22 +1591,6 @@
       "duration_ms": 203680,
       "name": "We Got History",
       "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Stars Like Confetti",
-      "url": "https://open.spotify.com/track/4HXiZiCbYIiG03OQwXRYnE"
     },
     {
       "added_at": "2024-04-05 04:01:00",

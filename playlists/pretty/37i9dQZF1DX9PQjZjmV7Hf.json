@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 48225,
+  "num_followers": 48258,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjg2YjU2OTZlMmFmYTNjZjQ0ZTUzMTAzYmUzZWM4OTI0NzE4MTZm",
+  "snapshot_id": "MCw0ZjY0YTMxNTc2NmY4OTk2Y2Y5N2QzYzcxZjQ1M2NlYWZkOGM3YzNm",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -519,18 +519,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "The Voice",
-        "url": "https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy"
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Backdoor",
-      "url": "https://open.spotify.com/track/3xUoEjDFhHCWlIeLRoTabt"
+      "duration_ms": 171970,
+      "name": "CANDY (feat. Nipsey Hussle)",
+      "url": "https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -551,22 +555,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+        "name": "The Voice",
+        "url": "https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 171970,
-      "name": "CANDY (feat. Nipsey Hussle)",
-      "url": "https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn"
+      "duration_ms": 200000,
+      "name": "Backdoor",
+      "url": "https://open.spotify.com/track/3xUoEjDFhHCWlIeLRoTabt"
     },
     {
       "added_at": "2022-10-01 20:14:07",

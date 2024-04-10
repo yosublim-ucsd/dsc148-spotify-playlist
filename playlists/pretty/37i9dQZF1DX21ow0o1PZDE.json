@@ -1,12 +1,12 @@
 {
   "description": "Todos los grandes \u00e9xitos del a\u00f1o, reunidos en un solo lugar. Natanael Cano en portada.",
-  "num_followers": 960001,
+  "num_followers": 960254,
   "original_name": "Mega \u00c9xitos 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjEwOGFiYWZlM2I5MjYxNmVkM2YwYWRmNmUyMjA3MWUyYWE4ODlm",
+  "snapshot_id": "MCwxMzQ1MzRkZTkyNzk5MThlYmFiNDJmNTRiNzk1YjhmYjE0NjlmN2Yy",
   "tracks": [
     {
       "added_at": "2024-04-05 06:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "Coraz\u00f3n de Piedra",
         "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 193568,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -615,38 +615,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Y LLORO",
-      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "LA PEOPLE II",
         "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
       },
@@ -671,26 +639,54 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Alucin",
-        "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
       "artists": [
         {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 197114,
-      "name": "Alucin",
-      "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+      "duration_ms": 179013,
+      "name": "Y LLORO",
+      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Poco A Poco",
+        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -719,6 +715,30 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "Alucin",
+        "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 197114,
+      "name": "Alucin",
+      "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Columbia",
         "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Poco A Poco",
-        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "Poco A Poco",
-      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -811,6 +791,26 @@
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -891,30 +891,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Rompe La Dompe",
-        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 165634,
-      "name": "Rompe La Dompe",
-      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "La Intenci\u00f3n",
         "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
       },
@@ -951,6 +927,30 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Rompe La Dompe",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 165634,
+      "name": "Rompe La Dompe",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 261068,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 261068,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
         "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2024-04-05 06:00:00",

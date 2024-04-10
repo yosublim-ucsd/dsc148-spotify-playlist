@@ -1,12 +1,12 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 106054,
+  "num_followers": 106081,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDI2OWQ2MjM1YTJlOTI0NDcwMTIzNTZhY2EzMDE3ODZhZGZkMjMx",
+  "snapshot_id": "MCxiNzI4YmZlNGFmNTI5NGI2Y2QyMWYzZDAzNzE3NWEwZjExZTRlY2Vl",
   "tracks": [
     {
       "added_at": "2024-03-16 05:44:12",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "Fall in Love",
-        "url": "https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX"
+        "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
       },
       "artists": [
         {
-          "name": "ARMOR",
-          "url": "https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD"
+          "name": "Whatcharawalee",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
         }
       ],
-      "duration_ms": 199145,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W"
+      "duration_ms": 231936,
+      "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-        "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
-      },
-      "artists": [
-        {
-          "name": "Whatcharawalee",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
-        }
-      ],
-      "duration_ms": 231936,
-      "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 238392,
       "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
       "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX"
+      },
+      "artists": [
+        {
+          "name": "ARMOR",
+          "url": "https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD"
+        }
+      ],
+      "duration_ms": 199145,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "80 Kisses",
-        "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
-      },
-      "artists": [
-        {
-          "name": "Polycat",
-          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "\u0e40\u0e27\u0e25\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e34\u0e49\u0e21",
-      "url": "https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
         "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 264000,
       "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
       "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "80 Kisses",
+        "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
+      },
+      "artists": [
+        {
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "\u0e40\u0e27\u0e25\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e34\u0e49\u0e21",
+      "url": "https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
-        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
-      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (A Beautiful Ride)",
         "url": "https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 213230,
       "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
       "url": "https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
+        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
+      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        },
-        {
-          "name": "PP Krit",
-          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
-      "url": "https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e08\u0e35\u0e1a",
         "url": "https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI"
       },
@@ -871,6 +851,26 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
+        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        },
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
+      "url": "https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
         "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
         "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 203000,
       "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
       "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
-        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 237772,
-      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
+        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 237772,
+      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
         "url": "https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e42\u0e21\u0e17\u0e22\u0e4c :\u0e23\u0e49\u0e2d\u0e07\u0e19\u0e33",
-        "url": "https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf"
-      },
-      "artists": [
-        {
-          "name": "Pramote Vilepana",
-          "url": "https://open.spotify.com/artist/5ymrPYlQszvpBHwIVHGPcQ"
-        }
-      ],
-      "duration_ms": 225200,
-      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e44\u0e21\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e07 (Hermionong)",
         "url": "https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 216734,
       "name": "\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e44\u0e21\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e07 - Hermionong",
       "url": "https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "\u0e42\u0e21\u0e17\u0e22\u0e4c :\u0e23\u0e49\u0e2d\u0e07\u0e19\u0e33",
+        "url": "https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf"
+      },
+      "artists": [
+        {
+          "name": "Pramote Vilepana",
+          "url": "https://open.spotify.com/artist/5ymrPYlQszvpBHwIVHGPcQ"
+        }
+      ],
+      "duration_ms": 225200,
+      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "Club",
-        "url": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
-      },
-      "artists": [
-        {
-          "name": "SCRUBB",
-          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "\u0e04\u0e39\u0e48\u0e01\u0e31\u0e19 (Soulmate)",
-      "url": "https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e41\u0e23\u0e01",
         "url": "https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 252000,
       "name": "\u0e08\u0e30\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/43904Zto2u5UI713dDc59V"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 266893,
+      "name": "\u0e04\u0e39\u0e48\u0e01\u0e31\u0e19 (Soulmate)",
+      "url": "https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
+        "name": "\u0e41\u0e23\u0e01",
+        "url": "https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh"
+      },
+      "artists": [
+        {
+          "name": "The Parkinson",
+          "url": "https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49...\u0e1e\u0e2d",
+      "url": "https://open.spotify.com/track/5A2X5yMrNmVZmB9fAR8IcJ"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
         "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
         "url": "https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 306103,
       "name": "\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
-        "name": "\u0e41\u0e23\u0e01",
-        "url": "https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh"
-      },
-      "artists": [
-        {
-          "name": "The Parkinson",
-          "url": "https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49...\u0e1e\u0e2d",
-      "url": "https://open.spotify.com/track/5A2X5yMrNmVZmB9fAR8IcJ"
     },
     {
       "added_at": "2024-03-16 05:44:12",

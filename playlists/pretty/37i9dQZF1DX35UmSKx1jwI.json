@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 125148,
+  "num_followers": 125193,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTFlODUwYjkwNTQ3NTY4N2E3Nzk5NGM1MGJmZDgxMTIxNWVkZDk2",
+  "snapshot_id": "MCxiZGQ2Y2UzZmNhNjJkZDU0NTgwNWU2ZWRiYjA3NjkzMTNkNzcwY2E3",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -163,26 +163,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
-        }
-      ],
-      "duration_ms": 219043,
-      "name": "Sugar (feat. Francesco Yates)",
-      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "duration_ms": 219043,
+      "name": "Sugar (feat. Francesco Yates)",
+      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -307,6 +307,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -327,22 +347,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+        "name": "Welcome To The Madhouse (Deluxe)",
+        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -367,38 +383,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Welcome To The Madhouse (Deluxe)",
-        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Astronaut In The Ocean (Alok Remix)",
-        "url": "https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Astronaut In The Ocean - Alok Remix",
-      "url": "https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Giant (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 229184,
       "name": "Giant (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Astronaut In The Ocean (Alok Remix)",
+        "url": "https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "Astronaut In The Ocean - Alok Remix",
+      "url": "https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Let's Go (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "You Little Beauty",
         "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Let's Go (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz"
     },
     {
       "added_at": "2023-09-21 23:00:00",

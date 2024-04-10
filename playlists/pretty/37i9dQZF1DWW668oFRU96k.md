@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Timmy Trumpet x KOPPY
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,316 likes - 92 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,329 likes - 92 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 91 | [Alarm](https://open.spotify.com/track/46bj7kwZJ70hOI4nzhwndj) | [Fancy Floss](https://open.spotify.com/artist/36Qux635tnV9mSMJNOGUGo) | [Alarm](https://open.spotify.com/album/0Y2oVIKZhjLZiXLQhnBNXI) | 3:17 |
 | 92 | [It's Me](https://open.spotify.com/track/6XjiPb2y2zzyhzzmSLuMix) | [Ax3S](https://open.spotify.com/artist/78dCJPhjFWkzsdCVpTs5pt) | [It's Me](https://open.spotify.com/album/2OLkJJ3rzkUubtRMmzcCXx) | 2:03 |
 
-Snapshot ID: `MCwyOTk3N2U0Y2MzZDE3MzNmYzNkOGM2YjdjNzMzM2ViNWFlYzhhZWEw`
+Snapshot ID: `MCxhZmU0YWZlMjgxZjQwZjdmZTgyMWU4YjA5NmVmZWM0MjRhMDljMTEw`

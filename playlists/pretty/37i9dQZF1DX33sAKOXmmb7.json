@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 67014,
+  "num_followers": 67045,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2Y4NWM5MjE2NDJmNzMxZjFiY2NjMTdkYTkxNmJjZDhlZTllMzBm",
+  "snapshot_id": "MCw0ZTQzYTY3NjE2YzliZDI2NGQ3YTNlMTcxMTRlMGRmYmQ5MzRjNGQ4",
   "tracks": [
     {
       "added_at": "2024-03-25 16:56:42",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Nancy From Now On",
-      "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 214335,
       "name": "From Gold",
       "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Nancy From Now On",
+      "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Tearing At The Seams",
         "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 214160,
       "name": "You Worry Me",
       "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "Unfucktheworld",
-      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Blindfaller",
         "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 329893,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "Unfucktheworld",
+      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 332986,
-      "name": "Don\u2019t Know How To Keep Loving You",
-      "url": "https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG"
+      "duration_ms": 222817,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur"
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 222817,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP"
+      "duration_ms": 332986,
+      "name": "Don\u2019t Know How To Keep Loving You",
+      "url": "https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG"
     },
     {
       "added_at": "2024-03-25 16:56:42",

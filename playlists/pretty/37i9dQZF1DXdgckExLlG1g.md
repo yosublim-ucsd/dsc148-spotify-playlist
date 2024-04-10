@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,201 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,481 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 74 | [God Who Listens \(feat\. Thomas Rhett\)](https://open.spotify.com/track/0qIx8dthnBVdqP0F7Pl8AG) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 4:09 |
 | 75 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:02 |
 
-Snapshot ID: `MCwyMDEwZmFmY2E4NDBlOTdiMzE2MTA2Y2ZiZGZkNzA3OTkwNzQ5NTFk`
+Snapshot ID: `MCwyMDYwNjk4ODUxY2Y4NDFlOGU0NjQwZDZjZWI5NjYxYWQyZWI3NGU4`

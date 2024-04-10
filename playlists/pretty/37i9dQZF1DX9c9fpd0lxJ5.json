@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 447480,
+  "num_followers": 447501,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzdhZGMyNWJlODk4YzUyYzZmYzY0ZWM0ZThiNzU3MWE3ZDVhZTdk",
+  "snapshot_id": "MCxhZGY3NzgwOWEyODJlYTM0ZDE1ZjU2MGE4YjU2M2M3ODg5MDYyODg4",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "PRONTO!",
         "url": "https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 208614,
       "name": "PRONTO!",
       "url": "https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Locochona",
+        "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 148338,
+      "name": "Locochona",
+      "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "SIN MIRAR (Midnight Generation Remix)",
         "url": "https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 292880,
       "name": "SIN MIRAR - Midnight Generation Remix",
       "url": "https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Locochona",
-        "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 148338,
-      "name": "Locochona",
-      "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "M\u00e1s Normal De Lo Normal",
+        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 208748,
+      "name": "Nada Que Me Guste M\u00e1s",
+      "url": "https://open.spotify.com/track/3V3xs6NMWRxy958Gd23Lsp"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Tu Forma",
         "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 138500,
       "name": "maracuy\u00e1",
       "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "M\u00e1s Normal De Lo Normal",
-        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 208748,
-      "name": "Nada Que Me Guste M\u00e1s",
-      "url": "https://open.spotify.com/track/3V3xs6NMWRxy958Gd23Lsp"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Te Contaron Que Me Gustas",
-        "url": "https://open.spotify.com/album/2rbP1TYKeJHsxwwCAKCGAA"
-      },
-      "artists": [
-        {
-          "name": "Tres Dedos",
-          "url": "https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "No Eres T\u00fa",
-      "url": "https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Primer encuentro",
         "url": "https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 156623,
       "name": "Santo Domingo",
       "url": "https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Te Contaron Que Me Gustas",
+        "url": "https://open.spotify.com/album/2rbP1TYKeJHsxwwCAKCGAA"
+      },
+      "artists": [
+        {
+          "name": "Tres Dedos",
+          "url": "https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "No Eres T\u00fa",
+      "url": "https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 195239,
+      "name": "Story To Tell",
+      "url": "https://open.spotify.com/track/7vEQ7hcDYobr5p4OkejYGK"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Me Haces Bien",
         "url": "https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 207499,
       "name": "Me Haces Bien",
       "url": "https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 195239,
-      "name": "Story To Tell",
-      "url": "https://open.spotify.com/track/7vEQ7hcDYobr5p4OkejYGK"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Volver A Empezar",
+        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 175596,
+      "name": "Volver A Empezar",
+      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Get Lost In The Music",
         "url": "https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 148538,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Volver A Empezar",
-        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 175596,
-      "name": "Volver A Empezar",
-      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
-      },
-      "artists": [
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 185007,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "jard\u00edn de flores",
         "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 199523,
       "name": "jard\u00edn de flores",
       "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "duration_ms": 185007,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH"
-      },
-      "artists": [
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        }
-      ],
-      "duration_ms": 332546,
-      "name": "Rompecabezas",
-      "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 332546,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
     },
     {
       "added_at": "2024-03-29 04:00:00",

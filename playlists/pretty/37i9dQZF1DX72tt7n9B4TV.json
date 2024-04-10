@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzc0MTcwNzBlMzE3YzkyNGYzZTZlZTI4NDI3ZTRhNjJjNTUxNDI2",
+  "snapshot_id": "MCwxZTdjMzlkMmU0MmI5Yzc4NDc5OTc4ZDcwN2M3MDMxNGRiNDA4YWQ0",
   "tracks": [
     {
       "added_at": "2023-05-25 20:52:42",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 202209,
-      "name": "No Love In LA",
-      "url": "https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 202209,
+      "name": "No Love In LA",
+      "url": "https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
+        "name": "Why Would I Watch",
+        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Shhhh! Golf is On",
+      "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 151533,
       "name": "EDGING",
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
-        "name": "Why Would I Watch",
-        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Shhhh! Golf is On",
-      "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "CAROLINE",
         "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/2EmyZ5vHUkWZ8wV6GVhTXP"
     },
     {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
-        "name": "What Did You Think When You Made Me This Way?",
-        "url": "https://open.spotify.com/album/6qP4UnWRNlBMdsqanPhFuJ"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Forever & Ever More",
-      "url": "https://open.spotify.com/track/0GCENWl11MluqJbz1Dqm0i"
-    },
-    {
       "added_at": "2023-06-02 11:00:50",
       "album": {
         "name": "Trouble\u2019s Coming",
@@ -955,6 +939,22 @@
       "duration_ms": 228400,
       "name": "Trouble\u2019s Coming",
       "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "What Did You Think When You Made Me This Way?",
+        "url": "https://open.spotify.com/album/6qP4UnWRNlBMdsqanPhFuJ"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Forever & Ever More",
+      "url": "https://open.spotify.com/track/0GCENWl11MluqJbz1Dqm0i"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 151265,
-      "name": "You\u2019d Be Paranoid Too (If Everyone Was Out To Get You)",
-      "url": "https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 216218,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 151265,
+      "name": "You\u2019d Be Paranoid Too (If Everyone Was Out To Get You)",
+      "url": "https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Heaven Without You",
-        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
-      },
-      "artists": [
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Heaven Without You",
-      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Ruthless",
         "url": "https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 187890,
       "name": "The Rush",
       "url": "https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Heaven Without You",
+        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Heaven Without You",
+      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "weapon",
-        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "weapon",
-      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 155680,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "weapon",
+        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "weapon",
+      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
     }
   ],
   "unique_name": "Summer Rock ",

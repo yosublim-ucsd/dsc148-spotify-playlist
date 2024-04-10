@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > Afrobeats love stories have the best beginnings
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,881 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,920 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 54 | [Perfume](https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Perfume](https://open.spotify.com/album/5zJ1AeTR9z6a7XuEaHxuRF) | 3:40 |
 | 55 | [Pepe](https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Pepe](https://open.spotify.com/album/5hISwgH8KuEFbQ9k89f67x) | 2:13 |
 | 56 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
-| 57 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
-| 58 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 |
+| 57 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 |
+| 58 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
 | 59 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 |
 | 60 | [What's Poppin](https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw) | 3:15 |
 | 61 | [Cry \(shayo\) \(feat\. Lojay\)](https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:48 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 76 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 |
 | 77 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 |
 | 78 | [All I Want](https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [All I Want](https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe) | 2:55 |
-| 79 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
-| 80 | [Love practitioner](https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love practitioner](https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y) | 2:35 |
+| 79 | [Love practitioner](https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love practitioner](https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y) | 2:35 |
+| 80 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
 
-Snapshot ID: `MCw0M2QwMjZmODJkNWVkYTg0ZDI1Y2RmMjdjMTYyZDgzYWZjMDgxZGZj`
+Snapshot ID: `MCw3OGY1ZWFiNzA1OThhZjRiNThiODM0NGQ4YzRmNDk4MDlmMDBhZGJi`

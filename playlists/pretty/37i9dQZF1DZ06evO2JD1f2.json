@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 10772,
+  "num_followers": 10778,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWEyYzEzZWNlYzc3YzkyYzdiOWFhMjQ3ZWRkZTJiYmM4OGMzZTkx",
+  "snapshot_id": "MCxiZDc4NzgyNWQ4ZGJmZmFhNDI1ODA0MDhiMGI4MjNhZjVhOWUyNmRh",
   "tracks": [
     {
       "added_at": null,
@@ -631,42 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Ones Left",
-        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 131825,
-      "name": "All 100s",
-      "url": "https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 146959,
-      "name": "Opinion Base",
-      "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7220 (Deluxe)",
         "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
       },
@@ -687,22 +651,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Did It Again",
-        "url": "https://open.spotify.com/album/5PT0DdEwow8sctBE5EVz3O"
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
       },
       "artists": [
         {
-          "name": "TRTrizzy",
-          "url": "https://open.spotify.com/artist/2CXGDRh4MYWK9NPff9nCMy"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 146959,
+      "name": "Opinion Base",
+      "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Ones Left",
+        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 184032,
-      "name": "Did It Again",
-      "url": "https://open.spotify.com/track/4Z2oORKlQdMBpI3syl8iZl"
+      "duration_ms": 131825,
+      "name": "All 100s",
+      "url": "https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb"
     },
     {
       "added_at": null,
@@ -723,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "I Still Dont Feel Nun",
-      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
@@ -755,6 +719,22 @@
       "duration_ms": 163402,
       "name": "Death Around The Corner (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "I Still Dont Feel Nun",
+      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
     },
     {
       "added_at": null,
@@ -867,26 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNOFALL",
-        "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
       "artists": [
         {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 204791,
-      "name": "Scarface (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
+      "duration_ms": 204533,
+      "name": "Hmhmm (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
     },
     {
       "added_at": null,
@@ -907,6 +883,30 @@
       "duration_ms": 152314,
       "name": "On Da Floor (feat. EST Gee)",
       "url": "https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SNOFALL",
+        "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 204791,
+      "name": "Scarface (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
     },
     {
       "added_at": null,
@@ -999,6 +999,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Did It Again",
+        "url": "https://open.spotify.com/album/5PT0DdEwow8sctBE5EVz3O"
+      },
+      "artists": [
+        {
+          "name": "TRTrizzy",
+          "url": "https://open.spotify.com/artist/2CXGDRh4MYWK9NPff9nCMy"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 184032,
+      "name": "Did It Again",
+      "url": "https://open.spotify.com/track/4Z2oORKlQdMBpI3syl8iZl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigger Than Life Or Death Part 2",
         "url": "https://open.spotify.com/album/50590zy2jXipuPgHomTXgv"
       },
@@ -1011,22 +1031,6 @@
       "duration_ms": 171349,
       "name": "Lamborghini Geeski",
       "url": "https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Toro",
-        "url": "https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 131187,
-      "name": "The King",
-      "url": "https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos"
     }
   ],
   "unique_name": "This Is EST Gee",

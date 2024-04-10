@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,935 likes - 60 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,951 likes - 60 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 35 | [Red Light \(Spells Danger\)](https://open.spotify.com/track/0Ujsx46cUBEIgt1rwLl6Wc) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 3:05 |
 | 36 | [C’Mon Everybody](https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 1:56 |
 | 37 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
-| 38 | [Johnny Got A Boom Boom](https://open.spotify.com/track/5v66oIlY1prS2Q4KUQgiwV) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Drive Home](https://open.spotify.com/album/0JNiNGzzLk4EREarCIASpz) | 2:59 |
-| 39 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 |
+| 38 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 |
+| 39 | [Johnny Got A Boom Boom](https://open.spotify.com/track/5v66oIlY1prS2Q4KUQgiwV) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Drive Home](https://open.spotify.com/album/0JNiNGzzLk4EREarCIASpz) | 2:59 |
 | 40 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
 | 41 | [Welcome to My Hell](https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 3:08 |
 | 42 | [You Belong to Me](https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:18 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 53 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:13 |
 | 54 | [Baby I Don't Care](https://open.spotify.com/track/04YEUXO7f7Bmbuilnwv0rA) | [Mr\. Breathless](https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo) | [Face It](https://open.spotify.com/album/10OMUhwFGYP9es5wBaeS5B) | 2:48 |
 | 55 | [Fire Bug](https://open.spotify.com/track/0t3d4mJOfYTCjlG83IJ1IY) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/4pXFLdHq1JQifrVxEFTKpO) | 2:17 |
-| 56 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
-| 57 | [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 |
+| 56 | [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 |
+| 57 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
 | 58 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
 | 59 | [Baby Come Back](https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0) | [TT Grace](https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc) | [Baby Come Back](https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L) | 3:21 |
 | 60 | [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 |
 
-Snapshot ID: `MCw4MmZjZDU0MTU5ZWQzMTJmYTA0NTZlYzVkZDA3NTE4MTg0NmJlNGE1`
+Snapshot ID: `MCwwMmYzOGFiNjEyODljYzBkZGFjYWIyZmUxOGRiMzBjNjY5ZDJmN2Ey`

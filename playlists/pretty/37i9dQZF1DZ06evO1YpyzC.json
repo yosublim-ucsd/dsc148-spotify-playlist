@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 252801,
+  "num_followers": 252859,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTYwYjUwMGUwNGNhYjBkNzMzNTc5ZmJmMDhiODQ5YWRlZGRiM2I1",
+  "snapshot_id": "MCxjZGVkYjA5ODZmM2I4ZTk5OTk0YmMzYzI2Yzg2YTVjNTdjZWYxYjRi",
   "tracks": [
     {
       "added_at": null,
@@ -103,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Thing Right",
         "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
       },
@@ -159,6 +143,26 @@
       "duration_ms": 191406,
       "name": "Be Like That - feat. Swae Lee & Khalid",
       "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Famous Friends",
+        "url": "https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "Famous Friends",
+      "url": "https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Everything Broadway-adjacent. Cover: WONKA",
-  "num_followers": 70662,
+  "num_followers": 70678,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmUxMjI1M2NlNGIwZTIzOTk1MGFiNTE1ZWNlN2Q4YjE2MmI3NzNj",
+  "snapshot_id": "MCw4ODM4Yjg0ZGU1MDIyMDFkMGZiZDEwZDM5ZDE3NDgzNjgwZmM3YTE2",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -951,18 +951,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Woman Is (from Lempicka - Original Cast Recording)",
-        "url": "https://open.spotify.com/album/21y0TDnXUpf5D0fa2MFQ7g"
+        "name": "Lempicka - The Musical (2022 Sessions)",
+        "url": "https://open.spotify.com/album/22UlcdIxtmapTzhh6koX1o"
       },
       "artists": [
         {
           "name": "Eden Espinosa",
           "url": "https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X"
+        },
+        {
+          "name": "Original Cast of Lempicka",
+          "url": "https://open.spotify.com/artist/5PIDs2iaqTbcsOhNd5IfFM"
         }
       ],
       "duration_ms": 292604,
-      "name": "Woman Is - from Lempicka - Original Cast Recording",
-      "url": "https://open.spotify.com/track/7tLpL9Ja10DDoY7LWGUgO5"
+      "name": "Woman Is - 2022 Sessions",
+      "url": "https://open.spotify.com/track/0AqDuGW6j1RZ93r2n3DUGA"
     },
     {
       "added_at": "2024-03-08 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "todo mundo odeia o igor",
-  "num_followers": 1373315,
+  "num_followers": 1373813,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDNmOGUzZGY1MWMyM2QwMWE3YjIxMzk5ZjM0YWRiOTRiZTllNThi",
+  "snapshot_id": "MCxkOWJhM2FlZWM4NWRhODczMTQxMjY4N2YzODE5ZDkzNmIyYWExZjhk",
   "tracks": [
     {
       "added_at": "2024-04-05 03:03:00",
@@ -507,6 +507,34 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
+        "name": "Funktroit",
+        "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Complexo dos Hits",
+          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
+        },
+        {
+          "name": "DJ Sammer",
+          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        }
+      ],
+      "duration_ms": 116307,
+      "name": "Aquariano Nato",
+      "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
         "name": "Let's Go 4",
         "url": "https://open.spotify.com/album/5bL1JfGehas80YH7qoCyBL"
       },
@@ -559,34 +587,6 @@
       "duration_ms": 641941,
       "name": "Let's Go 4",
       "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
-        "name": "Funktroit",
-        "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
-      },
-      "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Complexo dos Hits",
-          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
-        },
-        {
-          "name": "DJ Sammer",
-          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
-        },
-        {
-          "name": "Mc Pretchako",
-          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
-        }
-      ],
-      "duration_ms": 116307,
-      "name": "Aquariano Nato",
-      "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 262258,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
         "name": "Para de Mentir",
         "url": "https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 254142,
       "name": "Para de Mentir",
       "url": "https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 262258,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 130375,
-      "name": "Preferida",
-      "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 200039,
       "name": "Ela joga no 7",
       "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 130375,
+      "name": "Preferida",
+      "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
+        "name": "Se Voc\u00ea For Embora",
+        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Langris",
+          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+        }
+      ],
+      "duration_ms": 130496,
+      "name": "Se Voc\u00ea for Embora",
+      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
         "name": "Banco do Carona",
         "url": "https://open.spotify.com/album/2asMgD4QCIQOJ8OiaB9Brw"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 277411,
       "name": "Perfeita",
       "url": "https://open.spotify.com/track/6a35UETcJteB4oVCSFoAqr"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
-        "name": "Se Voc\u00ea For Embora",
-        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Langris",
-          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
-        }
-      ],
-      "duration_ms": 130496,
-      "name": "Se Voc\u00ea for Embora",
-      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
     },
     {
       "added_at": "2024-04-05 03:03:00",

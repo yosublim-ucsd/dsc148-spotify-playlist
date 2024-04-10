@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 
 > Sons da floresta para inspirar seus dia ou noite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,826 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,835 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 32 | [Birds And Breeze](https://open.spotify.com/track/5vRvzOHbx40CCMkmSC28fY) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 3:52 |
 | 33 | [Forest Sounds](https://open.spotify.com/track/2yJ2GMYYB8T31TtmNZWEvj) | [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx) | [English Rain and Nature Sounds](https://open.spotify.com/album/46zbteZ4cZqL0GmFugl5E4) | 3:41 |
 | 34 | [Far Away Forest](https://open.spotify.com/track/22r1o9aEsXPTD47TEPOpYK) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:23 |
-| 35 | [Forêt & Oiseaux](https://open.spotify.com/track/5RzgY7bYZLAAozNYUpeyi3) | [Lisette Kenzo](https://open.spotify.com/artist/2KflAxYsFtGVfxxbxmQblY) | [Forêt & Oiseaux](https://open.spotify.com/album/4tVQpImvgsJdHIPkOT9lJe) | 2:31 |
-| 36 | [Natural Ambiences](https://open.spotify.com/track/5ssDGpsPZ59nQhfqL1vKhb) | [QFT Sounds](https://open.spotify.com/artist/4cJxUmQUsaNjHMMJubijVG) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:09 |
+| 35 | [Natural Ambiences](https://open.spotify.com/track/5ssDGpsPZ59nQhfqL1vKhb) | [QFT Sounds](https://open.spotify.com/artist/4cJxUmQUsaNjHMMJubijVG) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:09 |
+| 36 | [Forêt & Oiseaux](https://open.spotify.com/track/5RzgY7bYZLAAozNYUpeyi3) | [Lisette Kenzo](https://open.spotify.com/artist/2KflAxYsFtGVfxxbxmQblY) | [Forêt & Oiseaux](https://open.spotify.com/album/4tVQpImvgsJdHIPkOT9lJe) | 2:31 |
 | 37 | [Heavy Island of Borneo Ambience](https://open.spotify.com/track/42MugaGyjJt5jHcn6uXgQw) | [Nature Sound Collection](https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx) | [200 Nature Sounds](https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn) | 6:00 |
 | 38 | [Rainforest Ambience](https://open.spotify.com/track/6MDmC6OgvXBj9xnLjnJ1RF) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:55 |
 | 39 | [Late Night Peace](https://open.spotify.com/track/7wODjbGBAR6CvHFUo7LZOu) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 49 | [Rain & The Rainforest](https://open.spotify.com/track/0i2QIV9Lku6x5zQkN7DZpn) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:13 |
 | 50 | [4am Rain Forest Birds](https://open.spotify.com/track/4U4iuHAFtmSfsnscPtsBES) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Thunder, Birds and Rain](https://open.spotify.com/album/5poU2ZGDPQjYdHR7swuqkw) | 2:44 |
 
-Snapshot ID: `MCw1MDg3NDUwMDFlYTZhYTk3NjJhODFlZDE3ODIyOGNmNzg3YjU0MzFm`
+Snapshot ID: `MCxmMDUzNjFmM2NlMmMzMDY4MzE1YTcyN2I1OGNlODYyNzU2OTg5ZjFl`

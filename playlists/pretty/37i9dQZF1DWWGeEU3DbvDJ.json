@@ -1,12 +1,12 @@
 {
   "description": "The BBMAs return with a fresh award show format and performances from the artists who dominated the year in music. Watch the 2023 Billboard Music Awards on November 19! Cover: KAROL G\n\n",
-  "num_followers": 75248,
+  "num_followers": 75265,
   "original_name": "2023 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTRlYTJlMGZhZTdlYzAxYmQzMzkyN2I3ZmIzMGYyYzhjMjM5ZjQy",
+  "snapshot_id": "MCw2YTMzMzRiZTQ4ZGM2N2UxYTA5OTdhNzQ2OGVkYmVmMzM5NTJiZWVm",
   "tracks": [
     {
       "added_at": "2023-11-13 18:20:27",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-11-13 18:20:27",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
-    },
-    {
-      "added_at": "2023-11-13 18:20:27",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": "2023-11-13 18:20:27",
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
     },
     {
       "added_at": "2023-11-13 18:20:27",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-13 18:20:27",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-11-13 18:20:27",
-      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2023-11-13 18:20:27",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-11-13 18:20:27",

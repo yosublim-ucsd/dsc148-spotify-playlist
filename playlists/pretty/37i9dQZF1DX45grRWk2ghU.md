@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > ✨ life in plastic is fantastic ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,626 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,280 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,24 +64,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 54 | [World Burn](https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 3:35 |
 | 55 | [Rich Girl](https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:56 |
 | 56 | [Not Your Barbie Girl](https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Not Your Barbie Girl](https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF) | 3:06 |
-| 57 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
-| 58 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 |
-| 59 | [Conceited](https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:26 |
-| 60 | [World Class Sinner / I’m A Freak](https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM) | [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 3:19 |
-| 61 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
-| 62 | [Lip Gloss](https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS) | [Lil Mama](https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c) | [Lip Gloss](https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5) | 3:39 |
-| 63 | [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 |
-| 64 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:37 |
-| 65 | [Wannabe](https://open.spotify.com/track/3pUiKSyV6DZWbzezHhs1Eu) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/0VJSVYxAfR4HUEaeIV9PeK) | 3:37 |
-| 66 | [Doctor Jones](https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:23 |
-| 67 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
-| 68 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 |
+| 57 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 |
+| 58 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
+| 59 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 |
+| 60 | [Conceited](https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:26 |
+| 61 | [World Class Sinner / I’m A Freak](https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM) | [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 3:19 |
+| 62 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
+| 63 | [Lip Gloss](https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS) | [Lil Mama](https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c) | [Lip Gloss](https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5) | 3:39 |
+| 64 | [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 |
+| 65 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:37 |
+| 66 | [Wannabe](https://open.spotify.com/track/3pUiKSyV6DZWbzezHhs1Eu) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/0VJSVYxAfR4HUEaeIV9PeK) | 3:37 |
+| 67 | [Doctor Jones](https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:23 |
+| 68 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
 | 69 | [Want U Back](https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z) | 3:34 |
 | 70 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 |
-| 71 | [Cool Girl](https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Lady Wood](https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y) | 3:19 |
-| 72 | [WET DREAM](https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [WET DREAM](https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb) | 2:30 |
+| 71 | [WET DREAM](https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [WET DREAM](https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb) | 2:30 |
+| 72 | [Cool Girl](https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Lady Wood](https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y) | 3:19 |
 | 73 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 | 74 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 |
 | 75 | [S&M Remix](https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [S&M Remix](https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs) | 4:17 |
 
-Snapshot ID: `MCw0NGEyNzY1MzllOGVhZjExMTFiNDM1NWRkNjVhZTI4Y2YxNjY5NTZm`
+Snapshot ID: `MCw3ZDFkNmM3YzM5OWEzZjlmNjZkNzAyNDJhNjZkZGM3MWQ4ZGVmZjI5`

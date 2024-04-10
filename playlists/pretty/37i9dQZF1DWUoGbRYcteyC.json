@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1954127,
+  "num_followers": 1954198,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTAxNjQ5MjMyNGZjN2Y3ODQ3NTcwOTU4MzA4ZGJlOTMwYzNhNzUz",
+  "snapshot_id": "MCwyYWU3YzlkMDk5OGY5M2EwMTJhZjU4NWU2YzJkZWQxZmE0Y2FjNDFi",
   "tracks": [
     {
       "added_at": "2024-03-28 19:15:17",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "\u00cdndigo",
-      "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
-    },
-    {
-      "added_at": "2024-03-28 19:15:17",
-      "album": {
         "name": "B\u00e9same Bonito (Micro TDH Remix)",
         "url": "https://open.spotify.com/album/105IhpHlgEvL20sIp0CPnw"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 180000,
       "name": "B\u00e9same Bonito (Micro TDH Remix)",
       "url": "https://open.spotify.com/track/4795j7G618M4FUwRl3wle8"
+    },
+    {
+      "added_at": "2024-03-28 19:15:17",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
     },
     {
       "added_at": "2024-03-28 19:15:17",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
-        "name": "desde que estas en mi vida",
-        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "desde que estas en mi vida",
-      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
-    },
-    {
-      "added_at": "2024-03-28 19:15:17",
-      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 220647,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
+    },
+    {
+      "added_at": "2024-03-28 19:15:17",
+      "album": {
+        "name": "seu carinho",
+        "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "seu carinho",
+      "url": "https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c"
     }
   ],
   "unique_name": "Amor Amor",

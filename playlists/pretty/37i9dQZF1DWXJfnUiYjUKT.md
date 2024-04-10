@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,414 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,430 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 |
 | 100 | [back to him](https://open.spotify.com/track/4l4q4SvYblrOQecJdKojJp) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [he's just not that into you!](https://open.spotify.com/album/3LQxhuq5ZS9eQQrocLGwdO) | 2:44 |
 
-Snapshot ID: `MCxiMmM3MjBhNjFiYjEwYmE2NDRjMzFiZmY3NzFhMjRjMjBlOWI0ZTNk`
+Snapshot ID: `MCw1NzQzZTAyMjFiOTlhMzNiZTk5N2E2MjFkNDhmZDJkY2JiYjk1NTQy`

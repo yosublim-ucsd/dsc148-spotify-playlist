@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 212481,
+  "2024-04-10": 212484,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - New Zealand.",
   "name": "Top 50 - New Zealand",
@@ -2463,6 +2463,24 @@
       "duration_ms": 242400,
       "name": "Believe What I Say",
       "url": "https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV"
+    },
+    {
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
       "album": {
@@ -8407,7 +8425,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 234586,
       "name": "H.Y.B. (feat. Bas & Central Cee)",
       "url": "https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6"
@@ -10275,7 +10293,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
@@ -10297,7 +10315,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 208521,
       "name": "II MOST WANTED",
       "url": "https://open.spotify.com/track/6zuPQl2RVqQ4y5nAH61CFC"
@@ -15105,7 +15123,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -18453,7 +18471,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,330 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,336 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 59 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/4PlbUZ7l0HPZFcTf31hrkt) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/album/0mQZn6mrdeNH6HT0hBmEBF) | 3:20 |
 | 60 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 4:11 |
 
-Snapshot ID: `MCxiOGRiZjAwODllOTA1ZjlmMjJjZDMwNDJlZDcxYjgzYzU1YjIxNWE2`
+Snapshot ID: `MCwwMzg1YTg5ZTQ0MGIzYzM4NmE4ZDU4ZjY1MTExNGU2ZTdmMWMzMDQ3`

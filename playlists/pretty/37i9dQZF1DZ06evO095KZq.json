@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 429282,
+  "num_followers": 429319,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGIzNzJiNTRmNDQ3ZjBhOTk1M2ExYThjNDRmNzcxYWQ4M2UyOGEy",
+  "snapshot_id": "MCw2NTIyZDJhZDJjMjQ3YWNjN2I2M2U1MmQ4MGY4ZTMyMWY0YWZmNGE2",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sabor a Michelada",
+        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 132253,
+      "name": "Sabor a Michelada",
+      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Zool\u00f3gico (En Vivo)",
         "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 173206,
       "name": "Quien Te Dio Permiso",
       "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sabor a Michelada",
-        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 132253,
-      "name": "Sabor a Michelada",
-      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
     },
     {
       "added_at": null,

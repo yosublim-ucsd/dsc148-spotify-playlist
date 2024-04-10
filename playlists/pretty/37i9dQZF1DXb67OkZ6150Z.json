@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Arlo Parks",
-  "num_followers": 289793,
+  "num_followers": 289821,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTQwZjVkMDc4NzM1YWFlNjdkZTliZmJlZmNkYzEzYWEzODAwZjY5",
+  "snapshot_id": "MCw1ZGQ1YmU4YzNjODc4ODEwMGFhZjk4MjIzYzE1NzBkZDk0YTQ1NjUx",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Pink + White - Live at Electric Lady",
-      "url": "https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Where Is My Mind?",
         "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Pink + White - Live at Electric Lady",
+      "url": "https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "You've Got a Woman",
+        "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 205220,
+      "name": "You've Got a Woman",
+      "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Seeking Thrills (The Ultimate Thrills Edition)",
         "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 187121,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "You've Got a Woman",
-        "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
-      },
-      "artists": [
-        {
-          "name": "Natalie Bergman",
-          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 205220,
-      "name": "You've Got a Woman",
-      "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
       },
       "artists": [
         {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 233333,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 232053,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1311,38 +1311,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Our House",
-        "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
       },
@@ -1363,6 +1331,38 @@
       "duration_ms": 262714,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1535,22 +1535,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Charm You (Blondshell Version)",
-        "url": "https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7"
+        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
+        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        },
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 178928,
-      "name": "Charm You - Blondshell Version",
-      "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
+      "duration_ms": 149400,
+      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
+      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1571,34 +1567,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
-        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
+        "name": "Charm You (Blondshell Version)",
+        "url": "https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
-      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Bad Religion / A Pair Of Brown Eyes",
-        "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
-      },
-      "artists": [
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Bad Religion",
-      "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
+      "duration_ms": 178928,
+      "name": "Charm You - Blondshell Version",
+      "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "I Kissed a Boy",
-        "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
+        "name": "Bad Religion / A Pair Of Brown Eyes",
+        "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
       },
       "artists": [
         {
-          "name": "Jude York",
-          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 182213,
-      "name": "I Kissed a Boy",
-      "url": "https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG"
+      "duration_ms": 260760,
+      "name": "Bad Religion",
+      "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 211695,
       "name": "Gente Corriente",
       "url": "https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "I Kissed a Boy",
+        "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "I Kissed a Boy",
+      "url": "https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Full Moon Project",
         "url": "https://open.spotify.com/album/0VraDVmjkr0vVjaZqLM7bi"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 169584,
       "name": "Bad News from Home",
       "url": "https://open.spotify.com/track/0HQ2t0Yl9qYmsSz38a22lW"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r"
     }
   ],
   "unique_name": "Indie Covers",

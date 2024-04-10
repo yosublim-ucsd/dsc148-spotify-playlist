@@ -1,12 +1,12 @@
 {
   "description": "Trap de la isla, con Yeruza en portada.",
-  "num_followers": 14178,
+  "num_followers": 14189,
   "original_name": "Trap Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODkxNGFhNmJiZDU0YzViMWM2YjQ5YjYxYmNiOTM1OWRhMDNjZGMz",
+  "snapshot_id": "MCxlNzI3YzVkMWQ4Y2YwZmNjMjdjZTFlYzcwMWFjYzU1MmU3MDU0ZDM3",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -795,22 +795,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Amandita",
-        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
+        "name": "Los Bo",
+        "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 223469,
-      "name": "Amandita",
-      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+      "duration_ms": 239120,
+      "name": "Los Bo",
+      "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -847,6 +847,26 @@
       "duration_ms": 125124,
       "name": "El Hokage",
       "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Amandita",
+        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 223469,
+      "name": "Amandita",
+      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -903,26 +923,6 @@
       "duration_ms": 315440,
       "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
       "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Los Bo",
-        "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Los Bo",
-      "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
     },
     {
       "added_at": "2023-09-01 04:00:00",

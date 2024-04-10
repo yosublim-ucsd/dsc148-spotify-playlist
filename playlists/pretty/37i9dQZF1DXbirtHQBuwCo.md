@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: BANG YEDAM, WINTER\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,432 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,410 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 20 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 |
 | 21 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
 | 22 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 |
-| 23 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
-| 24 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 |
+| 23 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 |
+| 24 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 25 | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) | [WONWOO](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt), [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) | 2:54 |
 | 26 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 |
 | 27 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 29 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
 | 30 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 |
 | 31 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
-| 32 | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 |
-| 33 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 |
+| 32 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 |
+| 33 | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 |
 | 34 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 |
 | 35 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 |
 | 36 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 72 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 |
 | 73 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 |
 | 74 | [Whenever it rains \(feat\. Nason & amin\)](https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Nason](https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [whenever it rains](https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq) | 3:05 |
-| 75 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:33 |
+| 75 | [007 \(feat\. Syd\)](https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [007](https://open.spotify.com/album/0CrHjS2Xr8BJSspw27AzSB) | 3:25 |
 
-Snapshot ID: `MCxjNGMzM2QxNDYzMWIzNzUxYzllMGJhODdkYTUwNmMwY2UxZTlkYzA5`
+Snapshot ID: `MCxhZGMxZDEyYjI4YmE3MzMxOTE2YjMwMGJiNzhlYTRlMmQxNDg1YjZl`

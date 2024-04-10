@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:OKDAL\(옥상달빛\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Kim Pil Sun\(김필선\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-494 songs - 1 day 5 hr 25 min
+495 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [The Cat House 고양이 집](https://open.spotify.com/track/3gOrrjFANav8rcfBiHXFnM) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [The Cat House 고양이 집](https://open.spotify.com/album/1Dx5d7CPHRQ7228ZCT4aLT) | 3:51 | 2022-03-31 | 2022-04-20 |
 | [The end](https://open.spotify.com/track/1YtcUMj2HBDcD0wgNFGCAW) | [ONL](https://open.spotify.com/artist/0liJPOMxnzqzSVesgtun1D) | [Be opposite](https://open.spotify.com/album/7FxTHRGeQdiJSIaERNzWMZ) | 4:47 | 2023-01-25 | 2023-02-25 |
 | [The Fool](https://open.spotify.com/track/1FheANRtzXpettNJ5cK7O8) | [Hebron](https://open.spotify.com/artist/2qthTndkpNYZpgngO0yrYV) | [The Fool](https://open.spotify.com/album/2a71guGlU9TApuOxrB8cod) | 3:22 | 2024-02-07 | 2024-02-14 |
-| [The Galaxy](https://open.spotify.com/track/5NFLTPYWlGDYAtVGwRiZK6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Natural II](https://open.spotify.com/album/6BZ0Ush9k3SSeUcZTuEgs2) | 4:26 | 2024-03-28 |  |
+| [The Galaxy](https://open.spotify.com/track/5NFLTPYWlGDYAtVGwRiZK6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Natural II](https://open.spotify.com/album/6BZ0Ush9k3SSeUcZTuEgs2) | 4:26 | 2024-03-28 | 2024-04-10 |
 | [The Night](https://open.spotify.com/track/2ltohL0UlAkNcjImnOggs8) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [O1NE](https://open.spotify.com/album/4wIYn2e6gZ4nRGCnzs1qxZ) | 3:43 | 2022-03-31 | 2022-04-20 |
 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 | 2021-12-10 |  |
 | [The Night With You](https://open.spotify.com/track/5V8x6nU0JEFL6qfbct7P2p) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [The Night With You](https://open.spotify.com/album/1QdF5rkC4uNYWkGqFhGgQQ) | 3:56 | 2022-04-12 | 2022-04-17 |
@@ -412,6 +412,7 @@
 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 | 2021-12-10 |  |
 | [TOO BAD](https://open.spotify.com/track/0yhDAYlysiK5lq9ySgn4dN) | [Oat](https://open.spotify.com/artist/4NkRzcwVz9DvvwZZ5GSSkV) | [TOO BAD](https://open.spotify.com/album/2kFqO3w4k7VrSfjoaniaeQ) | 3:11 | 2022-01-13 | 2022-04-20 |
 | [TOY \(feat\. siso\)](https://open.spotify.com/track/6Bx7apRrdwLAKycZ7EOVi7) | [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [TOY](https://open.spotify.com/album/3PNZqV1nTzc5oaFIZS0Igj) | 3:11 | 2023-12-20 | 2024-01-05 |
+| [traveler](https://open.spotify.com/track/63QYGp2ZTqDrEhNWGAnURD) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [traveler](https://open.spotify.com/album/3BdDUdLi5aqP4okLiglLfb) | 2:28 | 2024-04-09 |  |
 | [Tropical night](https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk) | [여동생](https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1) | [Tropical night](https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK) | 5:11 | 2022-07-08 | 2022-08-10 |
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-04-12 | 2022-04-21 |
 | [twenty\-one fifteen](https://open.spotify.com/track/2u1UBXv3k8tOo5Pn4NuhfJ) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:06 | 2022-05-03 | 2022-05-12 |

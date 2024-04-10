@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra alma mater es la calle\. Santa Fe Klan en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,345 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,362 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 99 | [Soy Un Malandrin](https://open.spotify.com/track/1T6iGIGjkE6FEmkC9QkCB7) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Soy Un Malandrin](https://open.spotify.com/album/0BsSKppeiHTt3HDGZe68V7) | 4:21 |
 | 100 | [El Patron Del Mal](https://open.spotify.com/track/1RECCwSp27WPhUhbWI1QLk) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [La Encomienda](https://open.spotify.com/album/3083B6DZOQS2VEQsKX1Vtk) | 4:11 |
 
-Snapshot ID: `MCxiNDg1NjMxM2QyOWE4ZGIyMjQ0OWI0ODEyNTU5NmNjZGJhZTE0Mjc3`
+Snapshot ID: `MCwzMzI1YzM1ZjRkOGE3OTM3MTAyMGExNzBjMjAyYzdmNDczY2ViNWQ1`

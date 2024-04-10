@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 92431,
+  "num_followers": 92425,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2U4NmIyMzFhNjZmYWVmMjU3M2I1NmUwMjdkYTgwYTQ2YTQyMjYw",
+  "snapshot_id": "MCxjNzc1YzJkOTM2ZmY3YjBiZWM4MDQ5MTVkNDBlOGRkZjhmZWU3MDgz",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2022-05-11 15:37:27",

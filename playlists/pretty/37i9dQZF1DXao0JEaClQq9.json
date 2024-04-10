@@ -1,12 +1,12 @@
 {
   "description": "Modern heavenly sounds. Cover: Fabiana Palladino",
-  "num_followers": 1632249,
+  "num_followers": 1632297,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODFmZTUzNTY5NmIyNTFhOTU2MzNmN2E5NjlhNWVkM2FmZTY5MzZl",
+  "snapshot_id": "MCwzMWZlYjFjM2M3OTdhNDAzZGVlNTQzOWMwYWVlMWI1ZmI4NmY2NDli",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -403,18 +403,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
       ],
-      "duration_ms": 258969,
-      "name": "Ribs",
-      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -435,22 +439,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+      "duration_ms": 258969,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
     },
     {
       "added_at": "2024-03-15 02:40:39",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "WILLOW",
-        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143640,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Mono No Aware",
@@ -843,6 +827,22 @@
       "duration_ms": 329361,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "WILLOW",
+        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143640,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/6D6kw82gz48fycksFloqS5"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 190859,
+      "name": "House",
+      "url": "https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9"
+    },
+    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Untourable Album",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 219727,
-      "name": "The Smoke",
-      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 219727,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 275506,
       "name": "Attention",
       "url": "https://open.spotify.com/track/56uOalQCSny79UjPrefkHy"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "House",
-        "url": "https://open.spotify.com/album/6D6kw82gz48fycksFloqS5"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 190859,
-      "name": "House",
-      "url": "https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 192961,
       "name": "Bruises Off The Peach",
       "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2023-04-28 04:00:00",

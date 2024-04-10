@@ -4,7 +4,7 @@
 
 > Your weekly rock update\. Cover: Gustaf
 
-1,010 songs - 2 day 8 hr 4 min
+1,011 songs - 2 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,8 @@
 | [Happiness](https://open.spotify.com/track/3fzHIvuu1GtWtIlyBqhjR6) | [Fast Romantics](https://open.spotify.com/artist/2A0s0vRWHl5XyWpdzM36RT) | [Happiness](https://open.spotify.com/album/5xUbdXG3lz3D4QaHDxCZ5H) | 4:34 | 2023-04-28 | 2023-08-12 |
 | [Happy To Hide](https://open.spotify.com/track/7gr8noh4FDWKIYKqrLtGZy) | [Pile of Love](https://open.spotify.com/artist/60iCPCyahHaVV4TvJBD6mL) | [Happy To Hide](https://open.spotify.com/album/0WYjlydqLUcluHPRh0xKiO) | 3:02 | 2023-12-15 | 2024-01-27 |
 | [HATE 2 LUV U](https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HATE 2 LUV U](https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj) | 2:57 | 2023-11-24 | 2024-01-13 |
-| [Hate That I Love Your Love](https://open.spotify.com/track/1Bx2fRCPbNMf8AFgasOT3i) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/76jhxPZPgnxpfmK9EGoYEc) | 2:20 | 2024-03-08 |  |
+| [Hate That I Love Your Love](https://open.spotify.com/track/1Bx2fRCPbNMf8AFgasOT3i) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/76jhxPZPgnxpfmK9EGoYEc) | 2:20 | 2024-03-08 | 2024-04-10 |
+| [Hate That I Love Your Love](https://open.spotify.com/track/2AcG9bdaEGikV4EaHz2XNm) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/0rjKAEIDh1VtNrjJ7tvnFP) | 2:20 | 2024-04-05 |  |
 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 | 2023-02-17 | 2023-04-15 |
 | [Hated](https://open.spotify.com/track/0cJL0kn2i96yYwAklbGudP) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Hated](https://open.spotify.com/album/1kwvbU0CtOAFkzaug8szjI) | 3:09 | 2024-02-02 | 2024-03-23 |
 | [Hated](https://open.spotify.com/track/2NNq2V3PD8u55LqGs8ImU1) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hated](https://open.spotify.com/album/1Ifo5BrgTcBaUtwWj1ynhD) | 3:09 | 2023-08-25 | 2023-09-30 |

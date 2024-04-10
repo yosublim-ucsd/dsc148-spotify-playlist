@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Magixx
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,233 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,293 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 43 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 |
 | 44 | [Ifeoma](https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ), [BoiGizmo](https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of) | [Ifeoma](https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx) | 2:40 |
 | 45 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
-| 46 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 |
-| 47 | [Dalilah II](https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Dalilah II](https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb) | 2:58 |
+| 46 | [Dalilah II](https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Dalilah II](https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb) | 2:58 |
+| 47 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 |
 | 48 | [Salt](https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Salt](https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG) | 3:05 |
 | 49 | [Dey Your Dey](https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Dey Your Dey](https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq) | 2:35 |
 | 50 | [Oh My](https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Oh My](https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1) | 3:02 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 72 | [Feeling Good](https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Feeling Good](https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp) | 2:17 |
 | 73 | [Jara](https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Emotions](https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr) | 2:40 |
 | 74 | [PIANO](https://open.spotify.com/track/3idcqABwcfdvgBEdbG0ebq) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [P.Priime](https://open.spotify.com/artist/5wqjeyQhV9mvu43Bv4wiLy) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:47 |
-| 75 | [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 |
-| 76 | [Only God Can Save Me](https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Only God Can Save Me](https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql) | 2:58 |
-| 77 | [Old](https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Old](https://open.spotify.com/album/7m8teznwhjVGEHlHQPhBGW) | 4:11 |
+| 75 | [Old](https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Old](https://open.spotify.com/album/7m8teznwhjVGEHlHQPhBGW) | 4:11 |
+| 76 | [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 |
+| 77 | [Only God Can Save Me](https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Only God Can Save Me](https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql) | 2:58 |
 | 78 | [capture my soul \(feat\. Joeboy\)](https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:31 |
 | 79 | [Lose Control \(feat\. Blxckie\)](https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Love.\. For Free](https://open.spotify.com/album/67d06FDN55b7vN6vaqKpiE) | 2:58 |
 | 80 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 |
 
-Snapshot ID: `MCxmNjkyYTdhYTI4YTJhNzQ1OWEzYzNlYWM3NzQwZjhhY2UzZWNiM2Q3`
+Snapshot ID: `MCxkZDFkMTgzNTA0MTBmYjU1MDg1NTU4ZTFhMjg5YzJkMDEyY2Q2ODRj`

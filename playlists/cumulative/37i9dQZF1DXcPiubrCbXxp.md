@@ -2,7 +2,7 @@
 
 ### [crushed velvet](https://open.spotify.com/playlist/37i9dQZF1DXcPiubrCbXxp)
 
-> that 50s kinda feeling, cover: Shannon & The Clams
+> that 50s kinda feeling, cover: Laufey
 
 74 songs - 4 hr 7 min
 

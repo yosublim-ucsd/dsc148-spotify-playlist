@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Trance Effect, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,892 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,904 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 100 | [Haseen Zindagi](https://open.spotify.com/track/0SJRKLymM7ElckDuzZyMq9) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haseen Zindagi](https://open.spotify.com/album/6QMhD0MzyqQgaYPXEsnGBB) | 2:39 |
 | 101 | [Unke Rangon Mein](https://open.spotify.com/track/33k5PdmBBBvjFrYFnTqrzF) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Unke Rangon Mein](https://open.spotify.com/album/7k4mVu7UlNacFUSHcDZkpa) | 2:52 |
 
-Snapshot ID: `MCw3ZDdiNWM1ZDViYmUxODQxZjQyMTBlNjY4NjY0NjJiMTk1OTkwMzM0`
+Snapshot ID: `MCw1YWY2NmU1Y2U5ZjM2YjhmOWYwOTI5Zjk3ZTBlNjdmYjVmYjcxNzY2`

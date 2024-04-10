@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,359 likes - 40 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,372 likes - 40 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 8 | [Mortal kompa](https://open.spotify.com/track/0o1aJCYLo904JH0xyA8fgz) | [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl) | [Mortal kompa](https://open.spotify.com/album/7Icz6IIxVeARwDOZo9csfx) | 4:33 |
 | 9 | [Magic Gouyad \#3](https://open.spotify.com/track/32SZRFOF9JUQRxAIOfaEkd) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Magic Gouyad \#3](https://open.spotify.com/album/7ydEyjwDsDDH0tdoRKnwZA) | 5:04 |
 | 10 | [Ti doudou](https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Option](https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz) | 4:34 |
-| 11 | [Kompa SHATTA](https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3) | [Ken'zii Bwa](https://open.spotify.com/artist/7HfJlmFUw8mkc0dWcy3sVn) | [Kompa SHATTA](https://open.spotify.com/album/3l874CUmQOgaLRNy2V4hMm) | 1:54 |
-| 12 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
+| 11 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
+| 12 | [Kompa SHATTA](https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3) | [Ken'zii Bwa](https://open.spotify.com/artist/7HfJlmFUw8mkc0dWcy3sVn) | [Kompa SHATTA](https://open.spotify.com/album/3l874CUmQOgaLRNy2V4hMm) | 1:54 |
 | 13 | [Ralanti](https://open.spotify.com/track/6HIJ13H03bmXvezAonGZbu) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Game Over](https://open.spotify.com/album/7BJ2XJcYzTUoiw7EQtZw7Z) | 5:09 |
 | 14 | [Pitit deyo](https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Fè'l Vini Avan](https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ) | 6:00 |
 | 15 | [I'll Yayad \- Pretty Bumpy](https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW) | [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat), [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [I'll Yayad \(Pretty Bumpy\)](https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF) | 4:27 |
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 30 | [Ma Cherie Je T'aime](https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [Resan](https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG) | 5:07 |
 | 31 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
 | 32 | [Tous Ces Détails](https://open.spotify.com/track/657kb7QPOdD0Jr7DyBebyH) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/6bA6XuiUHycSDwQe2V9PXD) | 2:50 |
-| 33 | [Pa Leve Main Ou Sou Li](https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V) | [System Band](https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU) | [Nan Building Nan](https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu) | 5:23 |
+| 33 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
 | 34 | [KOUPAB](https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Bedjine](https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv) | [JIJE'M](https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc) | 5:16 |
-| 35 | [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 |
-| 36 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
-| 37 | [Di'm Kibò'w Vle'l \#Quickie](https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp) | [X\-tassy](https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D) | [Motivation](https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr) | 4:24 |
-| 38 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 |
+| 35 | [Pa Leve Main Ou Sou Li](https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V) | [System Band](https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU) | [Nan Building Nan](https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu) | 5:23 |
+| 36 | [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 |
+| 37 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 |
+| 38 | [Di'm Kibò'w Vle'l \#Quickie](https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp) | [X\-tassy](https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D) | [Motivation](https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr) | 4:24 |
 | 39 | [Is It Real?](https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst) | [Arly Lariviere](https://open.spotify.com/artist/4JWyqE3lyeBUiyMATTBw4o) | [Encyclopedie](https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9) | 6:42 |
-| 40 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 |
+| 40 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
 
-Snapshot ID: `MCwxMWFiZGFkYTFjYjdhZjMxMWRlODYzOTg4ZDQ4NzgwYTFlMWUxZmQz`
+Snapshot ID: `MCwzNmM1ZjQzMTVjNWM4ZmIyNTJmNjRlMDQ4OTBhZjkxOGNjYWZmZGU2`

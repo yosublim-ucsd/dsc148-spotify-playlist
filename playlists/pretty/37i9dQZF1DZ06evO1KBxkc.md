@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,906 likes - 53 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,938 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 44 | [WAKA \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/4uax9U22ZAdqUxTMF1beUf) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 2:08 |
 | 45 | [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/3xXI0QxPxPnexMc8wxPOYA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:26 |
 | 46 | [Bleed](https://open.spotify.com/track/5XzombolzpiaOSTdj1W0VS) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:56 |
-| 47 | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv) | 4:09 |
-| 48 | [Blood On My Denim](https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:16 |
+| 47 | [Blood On My Denim](https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:16 |
+| 48 | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv) | 4:09 |
 | 49 | [R&B Shit \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/70C5mlnBodNJqRYpQi7O9x) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hood Life Krisis Vol\. 3 EP](https://open.spotify.com/album/7hnTROF1tApL0cLtQIztFA) | 3:32 |
 | 50 | [Head Melodies](https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj) | 3:51 |
 | 51 | [Right Back \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Right Back \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/36Mq31otog86NGRflpMmkg) | 4:14 |
 | 52 | [Booby Trap](https://open.spotify.com/track/6PqRhA7KUAhWaD0iQeQ6cR) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:16 |
 | 53 | [Mood Swings](https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:36 |
 
-Snapshot ID: `MCxmMTQ1ODA2OTQxYTQyMDNlZTAzY2JhM2E2ZmU3MmQyYWQ0ZWJlOTcx`
+Snapshot ID: `MCxhNGE1Nzk3NGZmMzViZWRlNzZhOGI5YzJjMTY4YmI4MDZiMjJjYmFl`

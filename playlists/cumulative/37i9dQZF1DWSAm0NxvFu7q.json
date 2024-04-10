@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273173,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "album": {
         "name": "[MESSAGE FROM THE CLERGY]",
         "url": "https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom"
       },

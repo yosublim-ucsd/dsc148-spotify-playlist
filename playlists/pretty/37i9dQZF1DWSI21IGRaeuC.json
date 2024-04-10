@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 34783,
+  "num_followers": 34821,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGQ1NTExZWNhZGM3NTgyYmZlMDg2MmJmMGNjYWNiNjBhM2E0MzI4",
+  "snapshot_id": "MCxkYWM1YzI5ZDVhNmM3NGM2ZjI3MGViYzIyZjZhMWYxMzFjYTdjNDM0",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/1Qy0K3GpyxtAyG2u4s53VH"
+      },
+      "artists": [
+        {
+          "name": "Locklead",
+          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
+        }
+      ],
+      "duration_ms": 178027,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Spring Girl",
         "url": "https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 228571,
       "name": "Spring Girl",
       "url": "https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/1Qy0K3GpyxtAyG2u4s53VH"
-      },
-      "artists": [
-        {
-          "name": "Locklead",
-          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
-        }
-      ],
-      "duration_ms": 178027,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 206378,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 195365,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 206378,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Sublime Tech House, Vol. 20",
+        "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
+      },
+      "artists": [
+        {
+          "name": "Reblok",
+          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Slim Shady",
+      "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Running from the Noise (Edit)",
         "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 148153,
       "name": "Take",
       "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Sublime Tech House, Vol. 20",
-        "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
-      },
-      "artists": [
-        {
-          "name": "Reblok",
-          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
-        }
-      ],
-      "duration_ms": 176264,
-      "name": "Slim Shady",
-      "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "The Attention Deficit Track",
-        "url": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc"
-      },
-      "artists": [
-        {
-          "name": "Jackmaster",
-          "url": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 228420,
-      "name": "The Attention Deficit Track - Edit",
-      "url": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Attention Deficit Track",
+        "url": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc"
+      },
+      "artists": [
+        {
+          "name": "Jackmaster",
+          "url": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "duration_ms": 228420,
+      "name": "The Attention Deficit Track - Edit",
+      "url": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        }
-      ],
-      "duration_ms": 162914,
-      "name": "So Far So Good",
-      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Vamo",
         "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 216000,
       "name": "Vamo",
       "url": "https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "duration_ms": 162914,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Amused EP",
-        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
-      },
-      "artists": [
-        {
-          "name": "Havoc & Lawn",
-          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Amused",
-      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Get On The Floor EP",
         "url": "https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 388800,
       "name": "Get On The Floor",
       "url": "https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Amused EP",
+        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Amused",
+      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1527,26 +1527,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "JS04",
-        "url": "https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL"
+        "name": "Stutter EP",
+        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
       "artists": [
         {
-          "name": "Jump Source",
-          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
         },
         {
-          "name": "Patrick Holland",
-          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
-        },
-        {
-          "name": "Priori",
-          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
         }
       ],
-      "duration_ms": 346666,
-      "name": "Scrap",
-      "url": "https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4"
+      "duration_ms": 233333,
+      "name": "Stutter",
+      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1567,22 +1563,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Stutter EP",
-        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
+        "name": "JS04",
+        "url": "https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL"
       },
       "artists": [
         {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
         },
         {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
         }
       ],
-      "duration_ms": 233333,
-      "name": "Stutter",
-      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+      "duration_ms": 346666,
+      "name": "Scrap",
+      "url": "https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/5R8jLYuFWZuBkwSfRIBQmw"
-      },
-      "artists": [
-        {
-          "name": "X-COAST",
-          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
-        }
-      ],
-      "duration_ms": 271886,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
       },
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/5R8jLYuFWZuBkwSfRIBQmw"
+      },
+      "artists": [
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "duration_ms": 271886,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
       },
@@ -1663,6 +1663,26 @@
       "duration_ms": 222923,
       "name": "Cold",
       "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "World Is Empty",
+        "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
+      },
+      "artists": [
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "duration_ms": 196030,
+      "name": "World Is Empty",
+      "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1719,58 +1739,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Picante EP",
-        "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
-      },
-      "artists": [
-        {
-          "name": "Manda Moor",
-          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "World Is Empty",
-        "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
-      },
-      "artists": [
-        {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 196030,
-      "name": "World Is Empty",
-      "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa"
-      },
-      "artists": [
-        {
-          "name": "Sam Paganini",
-          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
-        }
-      ],
-      "duration_ms": 420559,
-      "name": "Another Chance",
-      "url": "https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Targa (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
       },
@@ -1791,6 +1759,38 @@
       "duration_ms": 215642,
       "name": "Targa - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Picante EP",
+        "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
+      },
+      "artists": [
+        {
+          "name": "Manda Moor",
+          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        }
+      ],
+      "duration_ms": 420559,
+      "name": "Another Chance",
+      "url": "https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH"
     },
     {
       "added_at": "2024-04-05 04:00:00",

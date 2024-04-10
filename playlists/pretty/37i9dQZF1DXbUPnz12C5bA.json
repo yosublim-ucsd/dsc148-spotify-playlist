@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar. Conmemorando la vida de Diomedes D\u00edaz este 22 de Diciembre.",
-  "num_followers": 106157,
+  "num_followers": 106290,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmZjYzMyM2E2MGQ4NWM3ZTNlZWIwODJkODYyMTdjZmQ1ODg0YWI3",
+  "snapshot_id": "MCxmNTg1YzY2ZDQwODExMGVhMTY3ZDEyNGI4ZWM1ZjJmOTViYTY1MTE0",
   "tracks": [
     {
       "added_at": "2023-12-21 21:42:36",
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
+        "name": "A Mi Manera",
+        "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
       },
       "artists": [
         {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Zabaleta",
+          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
         }
       ],
-      "duration_ms": 315862,
-      "name": "10 Razones Para Amarte",
-      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
+      "duration_ms": 275186,
+      "name": "El Amor M\u00e1s Grande del Planeta",
+      "url": "https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -563,22 +567,18 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "A Mi Manera",
-        "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
       },
       "artists": [
         {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Zabaleta",
-          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
+          "name": "El Gran Mart\u00edn El\u00edas",
+          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
         }
       ],
-      "duration_ms": 275186,
-      "name": "El Amor M\u00e1s Grande del Planeta",
-      "url": "https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et"
+      "duration_ms": 315862,
+      "name": "10 Razones Para Amarte",
+      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
     },
     {
       "added_at": "2023-12-21 21:42:36",

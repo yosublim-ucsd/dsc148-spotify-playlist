@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60572,
+  "num_followers": 60592,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTljMzU2YjA4MGRhYWQ1NTAyZjc0NjFlNDkxN2ZjMjM1MGE4MDU0",
+  "snapshot_id": "MCw0OWExMjY0MzQ2ZWZjODRkYTRlYWRhMzAyM2ExMmIyZThlYTk4ZTY1",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Yoga Practice & Mindfulness Music",
         "url": "https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 165914,
       "name": "Water Harp",
       "url": "https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
-        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
-      },
-      "artists": [
-        {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
-        }
-      ],
-      "duration_ms": 242120,
-      "name": "The Lion And The Lamb - Instrumental",
-      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Albatross EP",
         "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 142173,
       "name": "Into The Sea",
       "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
+        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
+      },
+      "artists": [
+        {
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "The Lion And The Lamb - Instrumental",
+      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -819,6 +819,22 @@
       "duration_ms": 358373,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Mother's Love",
+        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+      },
+      "artists": [
+        {
+          "name": "Antonious",
+          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+        }
+      ],
+      "duration_ms": 60944,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -875,38 +891,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Mother's Love",
-        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
       },
       "artists": [
         {
-          "name": "Antonious",
-          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
         }
       ],
-      "duration_ms": 60944,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "What You Paid For",
-        "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "What You Paid For",
-      "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -927,18 +923,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
+        "name": "What You Paid For",
+        "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
       "artists": [
         {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
         }
       ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
+      "duration_ms": 249608,
+      "name": "What You Paid For",
+      "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Psalm 108",
-        "url": "https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA"
-      },
-      "artists": [
-        {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Psalm 108",
-      "url": "https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Rekindle",
         "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
       },
@@ -1531,22 +1515,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Freedom Fighter (Jimmy James Remix)",
-        "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
+        "name": "Psalm 108",
+        "url": "https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA"
       },
       "artists": [
         {
-          "name": "NIRVA",
-          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
-        },
-        {
-          "name": "Jimmy James",
-          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
         }
       ],
-      "duration_ms": 210461,
-      "name": "Freedom Fighter (Jimmy James Remix)",
-      "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
+      "duration_ms": 277000,
+      "name": "Psalm 108",
+      "url": "https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1579,6 +1559,26 @@
       "duration_ms": 237481,
       "name": "Velveteen",
       "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Freedom Fighter (Jimmy James Remix)",
+        "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
+      },
+      "artists": [
+        {
+          "name": "NIRVA",
+          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
+        },
+        {
+          "name": "Jimmy James",
+          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Freedom Fighter (Jimmy James Remix)",
+      "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1631,6 +1631,42 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Rekindle",
+        "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
+      },
+      "artists": [
+        {
+          "name": "The Church Vessel",
+          "url": "https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so"
+        }
+      ],
+      "duration_ms": 327186,
+      "name": "Spoken",
+      "url": "https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        },
+        {
+          "name": "Madison Nightingale",
+          "url": "https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq"
+        }
+      ],
+      "duration_ms": 301909,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Faith Fall",
         "url": "https://open.spotify.com/album/2vJsF3qyoL0wqmyrAZsVZ8"
       },
@@ -1659,38 +1695,6 @@
       "duration_ms": 331026,
       "name": "A Reason to Hide",
       "url": "https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "out of my grave (undone)",
-        "url": "https://open.spotify.com/album/7ncTox7CgAbMDDjXRVG8DD"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 271363,
-      "name": "out of my grave (undone)",
-      "url": "https://open.spotify.com/track/3cFqLVWoYecLckMx87c6UK"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Rekindle",
-        "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
-      },
-      "artists": [
-        {
-          "name": "The Church Vessel",
-          "url": "https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so"
-        }
-      ],
-      "duration_ms": 327186,
-      "name": "Spoken",
-      "url": "https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um"
     },
     {
       "added_at": "2023-07-28 04:02:00",

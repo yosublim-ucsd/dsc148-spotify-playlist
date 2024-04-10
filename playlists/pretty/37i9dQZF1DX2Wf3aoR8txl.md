@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 
 > Music from "YU☆YU☆HAKUSHO" series\. 実写化も話題の人気アニメ「幽☆遊☆白書」主題歌、エンディングソングと人気キャラクターソングを一気にお届け！©Y.T.90\-94/P,S
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,147 likes - 45 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,148 likes - 45 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 | 44 | [Kuwabara no Theme](https://open.spotify.com/track/3mcU012P39zfHImsKP88mT) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack](https://open.spotify.com/album/7LH62pNEQFCABzXwrX8Ema) | 2:59 |
 | 45 | [Yusuke Power Up!](https://open.spotify.com/track/2VjUI6jSJXWohU4OgIqcMW) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack Vol.2 Makai no Tobira Hen](https://open.spotify.com/album/3YjyiPZG79gyQGaxnFQaai) | 3:56 |
 
-Snapshot ID: `MCxkYmIyNjM5YzU4YWQxOTIwNTJhOTA2Mzc2MzNhYTJlMjgyZjEyMDZl`
+Snapshot ID: `MCxiMTA2ZjQ5YjljNzA5NGRjMWI1MGMyOTFjZmRjYWMzYzJhYWE4NWNk`

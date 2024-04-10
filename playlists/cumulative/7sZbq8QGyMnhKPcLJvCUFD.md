@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-525 songs - 1 day 2 hr 53 min
+526 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Alive](https://open.spotify.com/track/4T1N8cti8aQkYs9IjQn59H) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Alive](https://open.spotify.com/album/4EGBOOZGqeV1Rb5ScjvHuH) | 2:40 | 2023-01-10 | 2023-04-28 |
 | [Alive](https://open.spotify.com/track/7GCln9p45XDwJeQ7qykGVu) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Alive](https://open.spotify.com/album/0apwIZ3lquYGdDgCLntSmG) | 2:56 | 2023-05-19 | 2023-08-10 |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 | 2023-04-28 |
-| [All For You](https://open.spotify.com/track/67v9iKzTmtMmLaKgZqHo1n) | [Itro](https://open.spotify.com/artist/6fEZjgt9MHR4Hp3MiBRZHX), [SILIAS](https://open.spotify.com/artist/2aImGHMM1Jwppsg2sbtevv) | [All For You](https://open.spotify.com/album/5ZZWeZpjUcRRu51rTv7vyL) | 3:33 | 2023-12-13 |  |
+| [All For You](https://open.spotify.com/track/67v9iKzTmtMmLaKgZqHo1n) | [Itro](https://open.spotify.com/artist/6fEZjgt9MHR4Hp3MiBRZHX), [SILIAS](https://open.spotify.com/artist/2aImGHMM1Jwppsg2sbtevv) | [All For You](https://open.spotify.com/album/5ZZWeZpjUcRRu51rTv7vyL) | 3:33 | 2023-12-13 | 2024-04-10 |
 | [All I Need](https://open.spotify.com/track/1VPJGLDloCNj0NTBWqWfPO) | [Ariadne](https://open.spotify.com/artist/5MTn6h662oQm25nnTVhpnK), [Karl Killing](https://open.spotify.com/artist/586Rqc4ZLh7QPaMkIx1zEN) | [All I Need](https://open.spotify.com/album/0rOlhLhw1LZ36Ac1AQdXEA) | 2:32 | 2023-12-13 |  |
 | [All Night](https://open.spotify.com/track/31KAh8M3Oo2ojqV3fY0xFa) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [All Night](https://open.spotify.com/album/7aMZWSmXeJEqU7RMLxALvc) | 2:36 | 2023-04-22 | 2023-08-10 |
 | [All or Nothing](https://open.spotify.com/track/0Kwq7KPBeyMbV38q9LQnaq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [All or Nothing](https://open.spotify.com/album/7cnlX7Jz1kd1VbIzI6w2R2) | 3:03 | 2023-07-13 | 2023-08-10 |
@@ -427,6 +427,7 @@
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 | 2023-04-28 |
 | [Spend It All](https://open.spotify.com/track/0RD2pGHqPMJ3RBfCRhHUSK) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Spend It All](https://open.spotify.com/album/3H4sajgFpoIlEzSHVLvxRJ) | 2:35 | 2023-05-16 | 2023-08-10 |
 | [Spirit](https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Spirit](https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh) | 2:55 | 2022-07-12 | 2023-04-28 |
+| [Stars In The Sky](https://open.spotify.com/track/1PRtgc9OQr4wlJjjBz4LKy) | [BEKSY.](https://open.spotify.com/artist/3c6PB0rp6XOiA2JywVvnKV) | [Stars In The Sky](https://open.spotify.com/album/3Qz0orOMHZRAhTe00UUOmV) | 2:30 | 2024-04-09 |  |
 | [Stay](https://open.spotify.com/track/6Ms5LyTh0BZQkcQb8RIHel) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Stay](https://open.spotify.com/album/4YiGHpqVOiy6ItV3X8Qust) | 3:28 | 2024-04-02 |  |
 | [Stay With Me](https://open.spotify.com/track/37SZi6cnrAJY0K7Xc8lwqe) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc), [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [Tom The Gaffer](https://open.spotify.com/artist/10RN2BJRsFdGpySIC39RRN) | [Stay With Me](https://open.spotify.com/album/3QksXN9OBPOxeyrBTIZnFt) | 2:45 | 2022-10-20 | 2023-08-10 |
 | [Stick Around You](https://open.spotify.com/track/62DSnDAEydxbgbU3OI2eMF) | [Jinxspr0](https://open.spotify.com/artist/6dGnKpumgA8WOmhmoMsGhK) | [Stick Around You](https://open.spotify.com/album/7axrnFv4TrV9USJVlllNtn) | 2:13 | 2024-03-12 |  |

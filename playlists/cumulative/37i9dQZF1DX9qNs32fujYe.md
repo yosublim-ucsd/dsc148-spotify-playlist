@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: FLAT BLACK
 
-824 songs - 2 day 12 hr 56 min
+826 songs - 2 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,7 @@
 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-11-18 |  |
 | [Out of My Life](https://open.spotify.com/track/0meKbAXQpVUTzoTXzT2TT9) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [No Halos in Hell](https://open.spotify.com/album/5EgCiMda1FhZGCplaNustM) | 3:17 | 2022-07-08 |  |
 | [Out of My Life](https://open.spotify.com/track/4Zcl7dDFtMU5bLlzDDxkZ8) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Out of My Life](https://open.spotify.com/album/5O0tzLNKPr2Zw79VPf49Ep) | 3:17 | 2021-12-17 | 2022-07-29 |
-| [Outer Dimensions](https://open.spotify.com/track/13E52tvYVKOyd7COIs1cba) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Outer Dimensions](https://open.spotify.com/album/1g2CRYugkE60cBxB2WSOLi) | 3:05 | 2023-12-06 |  |
+| [Outer Dimensions](https://open.spotify.com/track/13E52tvYVKOyd7COIs1cba) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Outer Dimensions](https://open.spotify.com/album/1g2CRYugkE60cBxB2WSOLi) | 3:05 | 2023-12-06 | 2024-04-10 |
 | [Over the Horizon Radar](https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Over the Horizon Radar](https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss) | 5:23 | 2022-07-08 | 2022-07-22 |
 | [Overdrive](https://open.spotify.com/track/2J9bFFDcOBsoNmK4dUHATi) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [The Dark Horse](https://open.spotify.com/album/2ewSfOHchEXg7nr4SzWUra) | 3:56 | 2024-01-26 |  |
 | [Overthrone](https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine \(Deluxe Version\)](https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow) | 3:39 | 2023-12-06 |  |
@@ -544,6 +544,7 @@
 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 | 2022-07-08 |  |
 | [Raise Your Horns](https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy) | 4:23 | 2021-12-17 | 2022-07-11 |
 | [Raise Your Horns](https://open.spotify.com/track/4qQHaZ2frLScRPi7todSz9) | [Van Canto](https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL) | [Raise Your Horns](https://open.spotify.com/album/1wRRAacioilsgRLpGRmVo6) | 4:25 | 2021-12-17 | 2022-07-28 |
+| [Rankarumpu](https://open.spotify.com/track/5Hvhu1kJEcP90itIQSbn5f) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Rankarumpu](https://open.spotify.com/album/6qHZPsB4nMMI602L2iJ4pK) | 2:43 | 2024-04-05 |  |
 | [Raven's Flight](https://open.spotify.com/track/0Ov6o6FSQLOlllOm10ESwQ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Berserker](https://open.spotify.com/album/0svoIboyRzqgRpvBDbJtUE) | 5:20 | 2021-12-17 | 2022-07-26 |
 | [Re\-Vision](https://open.spotify.com/track/7oH5PloCvUrTxcaRBgsZBa) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Re\-Vision](https://open.spotify.com/album/3cZYVDFa2tUQUif0YxklQG) | 3:04 | 2024-01-26 |  |
 | [Reaggression](https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Blood in the Water](https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax) | 4:10 | 2021-12-17 | 2022-07-28 |
@@ -704,6 +705,7 @@
 | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/track/0EG9tDhr5rd931Ebj213nO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo) | 4:50 | 2023-10-27 |  |
 | [The Number of the Beast \- 2015 Remaster](https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 \- Remaster\)](https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy) | 4:50 | 2022-08-19 | 2023-11-05 |
 | [The Oracle](https://open.spotify.com/track/1CyUJjmvDF5ob4vtzNBQ6g) | [Avalanch](https://open.spotify.com/artist/2ZUIJQdnxHYN1pssKbtwh5) | [The Oracle](https://open.spotify.com/album/0vFWRA3vtVlgV65IM29zjM) | 4:56 | 2022-03-22 | 2022-04-20 |
+| [The Order Of Fear](https://open.spotify.com/track/0EKCC1pitvCPKzhWiXgzRa) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [The Order Of Fear](https://open.spotify.com/album/6aSJqWSbq0LSYPqjoFOcVo) | 4:26 | 2024-04-05 |  |
 | [The Other Side](https://open.spotify.com/track/3o9soRptwDhjVZ5IW0c2OG) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [The Other Side](https://open.spotify.com/album/6pzWHJIhb1m0bynoFZzx7Q) | 3:34 | 2022-03-22 | 2022-04-28 |
 | [The Past Is Dead](https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below](https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz) | 3:35 | 2022-07-13 |  |
 | [The Path](https://open.spotify.com/track/1zkdINXJTDhqKaFL0kjIT8) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [The Path](https://open.spotify.com/album/0K97w4lUFd305SnQErgFd7) | 4:07 | 2022-07-13 | 2023-02-11 |
@@ -767,7 +769,7 @@
 | [Voyage of the Dead Marauder \(feat\. Patty Gurdy\)](https://open.spotify.com/track/15tb65IQDLvVlz8znIQfAu) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da), [Patty Gurdy](https://open.spotify.com/artist/4LmjMMv69tN9V7ggJpva6r) | [Voyage of the Dead Marauder](https://open.spotify.com/album/24Pm8GCzu6JXWOWTjburvl) | 4:27 | 2024-03-08 |  |
 | [Vysteria](https://open.spotify.com/track/27Hvsm7UxK7lPZXFWUe2KC) | [Night Demon](https://open.spotify.com/artist/5klvF93hycKWPsqssBXY9A) | [Vysteria](https://open.spotify.com/album/22DM2oigHrN4Ni1QyC7owp) | 2:57 | 2022-01-07 | 2022-04-16 |
 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 | 2022-08-19 |  |
-| [Waiting For The Thunder \- 2020 Remaster](https://open.spotify.com/track/6y83RRW0DtYFtGwIBQFSzl) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Straight Out Of Hell \(2020 Remaster\)](https://open.spotify.com/album/7yZlkj19iiyt1PndidNtur) | 3:55 | 2023-10-27 |  |
+| [Waiting For The Thunder \- 2020 Remaster](https://open.spotify.com/track/6y83RRW0DtYFtGwIBQFSzl) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Straight Out Of Hell \(2020 Remaster\)](https://open.spotify.com/album/7yZlkj19iiyt1PndidNtur) | 3:55 | 2023-10-27 | 2024-04-10 |
 | [Waiting For the Thunder \- Remastered 2020](https://open.spotify.com/track/5XacDuEUZ40blaEX7e3vJ7) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Straight out of Hell \(Remastered 2020\)](https://open.spotify.com/album/7BD7l7lYzQzoMBLCXDVYHe) | 3:55 | 2021-12-17 | 2022-07-22 |
 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 | 2022-03-22 |  |
 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 | 2022-08-19 |  |

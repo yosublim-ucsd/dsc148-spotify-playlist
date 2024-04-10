@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,007 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,030 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 |
 | 100 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 |
 
-Snapshot ID: `MCw0MzkxMWE5NjMxZDBlYjJkZmYyODg5MDhmMDU0NjBiNDViMGJjZjlh`
+Snapshot ID: `MCwyNjY3NDg3MGMzYzk2NjY5Yjc1MzQyOWZlN2VhZmQ1Y2U4YzQ4MDYx`

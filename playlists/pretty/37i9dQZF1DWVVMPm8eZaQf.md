@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVMPm8eZaQf.md) - [plain]
 | 46 | [Take What You Want](https://open.spotify.com/track/5BL2NvPO62vD01BK691dGU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [Seeing Red](https://open.spotify.com/album/2aK2ORLyiIcXOIuBNyuQSR) | 3:35 |
 | 47 | [Rockstar](https://open.spotify.com/track/0uMxEdJH1indcaymfSZGSk) | [Blvck Cobrv](https://open.spotify.com/artist/0rtGrxBjqA2R63ETZQywEW), [Benni Hunnit](https://open.spotify.com/artist/4gSdUrMhfwo9K45YAOPBub) | [Rockstar](https://open.spotify.com/album/775m5Sw5B9YkkCSjFZaE0A) | 2:33 |
 
-Snapshot ID: `MCxhMTE5NTAyMjU0YjM3MTFmNjE4NjYwZjYxYjJjMDUyN2MwYjg1OTNl`
+Snapshot ID: `MCw0ZTM5YWUwYmQwNTJlYjAzZGYwNzNhNTg4Y2E2OTE1Mzc1NWQ1ODEz`

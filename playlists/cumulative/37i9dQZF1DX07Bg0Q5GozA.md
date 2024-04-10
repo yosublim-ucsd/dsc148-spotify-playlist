@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: London Grammar
 
-707 songs - 2 day 0 hr 52 min
+708 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Diary](https://open.spotify.com/track/2nFtOWsGgAlmsDTh36iawp) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [Diary](https://open.spotify.com/album/1s89nUu7cpFopQ2KCkhe5m) | 2:59 | 2023-06-22 | 2023-07-07 |
 | [Did I \- Peaches Remix](https://open.spotify.com/track/4AW85nhkcAkTVBPDkmGnMq) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Did I \(Peaches Remix\)](https://open.spotify.com/album/3BqnPyBlh9nYZDwtJ0EMel) | 3:34 | 2024-04-02 |  |
 | [Digging Deeper](https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Digging Deeper](https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl) | 3:17 | 2023-01-19 | 2023-03-03 |
-| [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 | 2024-03-28 |  |
+| [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 | 2024-03-28 |  |
 | [Disappear](https://open.spotify.com/track/0gPaNDbghFIURQyB2B8Law) | [Solmai](https://open.spotify.com/artist/7s4j2Ibf6aF6SxugL4iCMq), [Tilmann Jarmer](https://open.spotify.com/artist/7IpIokbWG04a82smtUvEp5) | [Disappear](https://open.spotify.com/album/1XlpzFMMJZuYrkgi6u8yZ4) | 3:03 | 2023-03-09 | 2023-05-12 |
 | [Disco Dancer \- Mixed](https://open.spotify.com/track/0ZImVCMkq4FlFRNVMHiC9B) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [fabric presents Maribou State](https://open.spotify.com/album/3f10WY4TFkHPEONp3vVU9f) | 3:37 | 2022-12-30 | 2023-01-02 |
 | [Disco Dangerous](https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:46 | 2023-07-06 | 2023-07-21 |
@@ -229,7 +229,8 @@
 | [Free](https://open.spotify.com/track/6G8S7nEHC8NqL3mZmvCmwU) | [Glimmer of Blooms](https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6) | [Free](https://open.spotify.com/album/6yG6pLMM62bFqa9VVhJM6B) | 2:43 | 2023-01-05 | 2023-04-14 |
 | [Free Bird](https://open.spotify.com/track/3OsAfJ303euvdK0k5wL4Ob) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Free Bird](https://open.spotify.com/album/7fBE58VXQrLulpE5rOdmfJ) | 3:43 | 2023-03-30 | 2023-04-28 |
 | [Fungii](https://open.spotify.com/track/66oMViCpXVtPIK863fAC9e) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Fungii](https://open.spotify.com/album/69eJC6fgvj2qNob0LU3z7o) | 2:35 | 2023-11-16 | 2023-12-15 |
-| [Funky And You Know It \- Myd Remix](https://open.spotify.com/track/3GXNESAx5m5wtE2bWjzmN2) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Funky And You Know It \(Myd Remix\)](https://open.spotify.com/album/4K7C30OeoJKquckkILimMd) | 3:03 | 2024-04-04 |  |
+| [Funky And You Know It \- Myd Remix](https://open.spotify.com/track/3GXNESAx5m5wtE2bWjzmN2) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Funky And You Know It \(Myd Remix\)](https://open.spotify.com/album/4K7C30OeoJKquckkILimMd) | 3:03 | 2024-04-04 | 2024-04-10 |
+| [Funky And You Know It \- Myd Remix](https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Funky And You Know It \(Myd Remix\)](https://open.spotify.com/album/2vtx99PYX49EtS6WPu9kxX) | 3:03 | 2024-04-04 |  |
 | [Fusion Royale](https://open.spotify.com/track/0rJqFVbel8SRHrKhgylnvh) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Fusion Royale](https://open.spotify.com/album/18kauRpeqh835qAR7D28Be) | 4:44 | 2023-05-11 | 2023-07-21 |
 | [Gang](https://open.spotify.com/track/4nMEzMTIfUVlhZzuP2Em5V) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC), [Sarah Maison](https://open.spotify.com/artist/5z9QnVuCb67N9a6lyu6ghe) | [Gang](https://open.spotify.com/album/4bT00mv87OoRIJEUbyyr9R) | 4:37 | 2022-12-30 | 2023-01-02 |
 | [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-21 | 2023-11-03 |

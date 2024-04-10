@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,793 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,812 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 18 | [Pra Melhorar](https://open.spotify.com/track/7oPB5rRWan5SeijxL94Qmz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 4:16 |
 | 19 | [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 |
 | 20 | [Boa Noite](https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 5:47 |
-| 21 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 |
-| 22 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 |
-| 23 | [Besteira](https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Besteira](https://open.spotify.com/album/15TrSIrWfvxqi2VGcnauKC) | 3:33 |
+| 21 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 |
+| 22 | [Besteira](https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Besteira](https://open.spotify.com/album/15TrSIrWfvxqi2VGcnauKC) | 3:33 |
+| 23 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 |
 | 24 | [Onde Estará](https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG) | 3:37 |
 | 25 | [Minha Menina Bonita](https://open.spotify.com/track/1f2WAWsmxx6JKrKTBO46UU) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/2aoZn4WaR7tmFKHb40p7Xw) | 3:58 |
 | 26 | [Na Estrada](https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Céu Lilás \- Na Estrada](https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV) | 3:38 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 48 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 |
 | 49 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
 | 50 | [Fiz Pra Você](https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fiz Pra Você](https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H) | 3:12 |
-| 51 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
-| 52 | [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 |
+| 51 | [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 |
+| 52 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
 | 53 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 |
 | 54 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
 | 55 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
 | 60 | [Alumiô](https://open.spotify.com/track/2nFx9WDf3Jk2ONvO0PUoQv) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/0Dg5HGop5JMQeRDHB63tz9) | 3:24 |
 
-Snapshot ID: `MCwxZmM2YWEyOTBhZGJlYmI2NGVjNDAzNjM4ZTk5OGQ3MzYzYTUxMzRh`
+Snapshot ID: `MCxiZmJiNDQzZjIyOTY4MmI4Mzg1MTUxMjFkYjQ4NTdlY2RmYmRkYWFm`

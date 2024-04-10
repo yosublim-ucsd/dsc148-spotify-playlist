@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: ano feat. \u5e7e\u7530\u308a\u3089",
+  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: \u7c73\u6d25\u7384\u5e2b",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 233045,
       "name": "800",
       "url": "https://open.spotify.com/track/0ZOaNBSs178pfCtaww1JMo"
@@ -860,6 +860,24 @@
       "duration_ms": 200989,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/5WcjMhF7LXWW6qWRSOoIoO"
+    },
+    {
+      "album": {
+        "name": "Awaini",
+        "url": "https://open.spotify.com/album/2PKY0nUkj6ou7NS1TWyDBx"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201471,
+      "name": "Awaini",
+      "url": "https://open.spotify.com/track/2LvtiKmK2dOIH8NjSlix7d"
     },
     {
       "album": {
@@ -9566,7 +9584,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 266139,
       "name": "Present",
       "url": "https://open.spotify.com/track/5ZA0IAAjEC5tn3jOJhGPLJ"
@@ -14064,7 +14082,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 250333,
       "name": "Why",
       "url": "https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0"
@@ -16640,7 +16658,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 202533,
       "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
       "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
@@ -21370,7 +21388,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 215853,
       "name": "\u6669\u9910\u6b4c",
       "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
@@ -22941,6 +22959,24 @@
     },
     {
       "album": {
+        "name": "\u7d76\u5bfe\u96f6\u5ea6",
+        "url": "https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198483,
+      "name": "\u7d76\u5bfe\u96f6\u5ea6",
+      "url": "https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7"
+    },
+    {
+      "album": {
         "name": "\u7d76\u7d76\u7d76\u7d76\u5bfe\u8056\u57df",
         "url": "https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom"
       },
@@ -23772,6 +23808,24 @@
       "duration_ms": 217280,
       "name": "\u904b\u547d\u3001\u3068\u3044\u3046\u304bUFO\u306b(\u30c9\u30a5\u30a4\u3001\u30c9\u30a5\u30a4)",
       "url": "https://open.spotify.com/track/7Ixpgdw4u532wm8DV3iv6B"
+    },
+    {
+      "album": {
+        "name": "\u9065\u304b",
+        "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191047,
+      "name": "\u9065\u304b",
+      "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
     },
     {
       "album": {

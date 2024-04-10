@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Alvaro Diaz & Rauw Alejandro are bringing the heat to Fuego\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,886,580 likes - 20 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,886,603 likes - 20 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [La Cura](https://open.spotify.com/track/0HMQerZ59M01ZlDGRsUuub) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1 / Reloaded\)](https://open.spotify.com/album/7FDCMT0q5SVLPosdokrINh) | 2:22 |
 | 20 | [Carta de Despedida](https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [Carta de Despedida](https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd) | 3:04 |
 
-Snapshot ID: `MCw5ZWIzYjgzYTNkZTM3NzE4MGY3YzA5NDBjYzE1MzIwMjhlNWVhNjcw`
+Snapshot ID: `MCxkZDQ0Y2MxNGUxYWJmZjI1NWNkMDEyMTliZmRkY2JmNDdlYzg1Mzcy`

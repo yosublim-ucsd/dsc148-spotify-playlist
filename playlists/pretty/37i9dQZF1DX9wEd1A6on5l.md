@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 
 > Get the party started with these Naija bangers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,129 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,174 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 79 | [Pepe](https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Pepe](https://open.spotify.com/album/5hISwgH8KuEFbQ9k89f67x) | 2:13 |
 | 80 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
 
-Snapshot ID: `MCxkM2MyMzVkYTAzYTgyYzExY2Y5ODRlMTBjYzc4YWM4MTNlMDg4OWJi`
+Snapshot ID: `MCxmZWNkNWZlMDQwNDkzOTRmM2YzMTk4Y2U5YjM5ODQzZTY2MmVkYmE0`

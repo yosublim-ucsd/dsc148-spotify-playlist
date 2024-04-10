@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Omar Montes, Luis Fonsi",
-  "num_followers": 975357,
+  "num_followers": 975381,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2ZmYmVkOGZkYzFiMDZiMDcwMGE4MWYxMmI5ZjZhZThkMDNlMWNm",
+  "snapshot_id": "MCwwNDQ1MThlNzEyYmFiNTE4OTNmZjkxMTBlNWE5NTZmMTc1OTMyMGNj",
   "tracks": [
     {
       "added_at": "2024-04-08 13:40:36",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-04-08 13:40:36",
       "album": {
+        "name": "pa",
+        "url": "https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 190649,
+      "name": "pa",
+      "url": "https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY"
+    },
+    {
+      "added_at": "2024-04-08 13:40:36",
+      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 157846,
       "name": "UNA BACHATA",
       "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
-    },
-    {
-      "added_at": "2024-04-08 13:40:36",
-      "album": {
-        "name": "pa",
-        "url": "https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 190649,
-      "name": "pa",
-      "url": "https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY"
     },
     {
       "added_at": "2024-04-08 13:40:36",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-04-08 13:40:36",
       "album": {
+        "name": "Todo cambia",
+        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 210127,
+      "name": "Todo cambia",
+      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
+    },
+    {
+      "added_at": "2024-04-08 13:40:36",
+      "album": {
         "name": "Falsos Recuerdos",
         "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 191414,
       "name": "Falsos Recuerdos",
       "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
-    },
-    {
-      "added_at": "2024-04-08 13:40:36",
-      "album": {
-        "name": "Todo cambia",
-        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 210127,
-      "name": "Todo cambia",
-      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
     },
     {
       "added_at": "2024-04-08 13:40:36",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-04-08 13:40:36",
       "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "added_at": "2024-04-08 13:40:36",
+      "album": {
         "name": "tequiero",
         "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
       },
@@ -459,26 +475,6 @@
     {
       "added_at": "2024-04-08 13:40:36",
       "album": {
-        "name": "escribiendo TKM",
-        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "escribiendo TKM",
-      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
-    },
-    {
-      "added_at": "2024-04-08 13:40:36",
-      "album": {
         "name": "Faltas T\u00fa",
         "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
       },
@@ -495,18 +491,22 @@
     {
       "added_at": "2024-04-08 13:40:36",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+        "name": "escribiendo TKM",
+        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
         }
       ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+      "duration_ms": 145174,
+      "name": "escribiendo TKM",
+      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
     },
     {
       "added_at": "2024-04-08 13:40:36",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-04-08 13:40:36",
       "album": {
+        "name": "Boyz Don't Cry",
+        "url": "https://open.spotify.com/album/6AS11fKnjyqAntySc1RJmt"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 176344,
+      "name": "F.G.L.C. (A Ratitos)",
+      "url": "https://open.spotify.com/track/2lnSDkB8KCKZPDAqYXILD7"
+    },
+    {
+      "added_at": "2024-04-08 13:40:36",
+      "album": {
         "name": "GOOD DAY (feat. Camidoh)",
         "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 163578,
       "name": "EL FORASTERO",
       "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
-    },
-    {
-      "added_at": "2024-04-08 13:40:36",
-      "album": {
-        "name": "Boyz Don't Cry",
-        "url": "https://open.spotify.com/album/6AS11fKnjyqAntySc1RJmt"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 176344,
-      "name": "F.G.L.C. (A Ratitos)",
-      "url": "https://open.spotify.com/track/2lnSDkB8KCKZPDAqYXILD7"
     },
     {
       "added_at": "2024-04-08 13:40:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,978 likes - 222 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,369 likes - 222 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 221 | [Dream Dust](https://open.spotify.com/track/6CgRz9Iave95cynHn7yVEA) | [Horizon Lights](https://open.spotify.com/artist/0vAwD3TFaQCotThnaYmnFJ) | [Gentle Night](https://open.spotify.com/album/2Ab3cmAWhFZ2XqOIHytNPD) | 3:22 |
 | 222 | [Sleeping Beauty](https://open.spotify.com/track/0Cks68XMF8C89s1zTfFtR2) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 3:11 |
 
-Snapshot ID: `MCw5MmMyZjkyNmFjMTFiZjg2NjZkODk2MGJlNWY0MmMwZWI0Nzc2MWEy`
+Snapshot ID: `MCwzM2M4ZjU0OTgxN2VkNmFlMGE4YjM0MDA4MDY5NTQzMmY5ZjAyMTA2`

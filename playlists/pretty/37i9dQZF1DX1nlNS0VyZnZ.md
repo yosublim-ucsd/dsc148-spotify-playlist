@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 
 > Tremendo vacilón\. Los éxitos del merengue de todos los tiempos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,668 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,730 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 19 | [Abusadora](https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Poder de New York](https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji) | 4:39 |
 | 20 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
 | 21 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 |
-| 22 | [Guallando](https://open.spotify.com/track/0hq1gkWRT0yhcm8K5vw8wm) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
+| 22 | [A Mover la Colita](https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Baile](https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC) | 3:43 |
 | 23 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
-| 24 | [A Mover la Colita](https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Baile](https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC) | 3:43 |
+| 24 | [Guallando](https://open.spotify.com/track/0hq1gkWRT0yhcm8K5vw8wm) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
 | 25 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
 | 26 | [La Tanga](https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Internacional](https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3) | 4:27 |
 | 27 | [Cuando el Amor se Daña](https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:21 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 35 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 |
 | 36 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
 | 37 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |
-| 38 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
-| 39 | [Una Vez Mas](https://open.spotify.com/track/73VnoqUKBpD14SAiMS81se) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Mas](https://open.spotify.com/album/6zf45S8HREA47QE5xBqpRS) | 3:50 |
+| 38 | [Una Vez Mas](https://open.spotify.com/track/73VnoqUKBpD14SAiMS81se) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Mas](https://open.spotify.com/album/6zf45S8HREA47QE5xBqpRS) | 3:50 |
+| 39 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
 | 40 | [Ojalá Que Llueva Café](https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 4:13 |
 | 41 | [La Morena](https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:24 |
 | 42 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 49 | [Tu Vas a Volar](https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vuelve el Merengue](https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj) | 4:56 |
 | 50 | [Tú la Tienes Que Pagar](https://open.spotify.com/track/2pC54mCj01CmR3YkxYoExe) | [Natusha](https://open.spotify.com/artist/1iDIWeJHxy6KidPCpipUfO) | [La Historia Musical](https://open.spotify.com/album/6gOPEuSZPpv9cfipkpu2iS) | 4:25 |
 
-Snapshot ID: `MCwxZjkxN2M4MTliMGIzODNjNjQwYTNiZWM5NDBkYzczZjVkN2U5NGU4`
+Snapshot ID: `MCw3NjJhODgyMTUwZWJjOWUwOTM0MTk3ZWE3ZTVlN2FhOGZhYWY0NGFl`

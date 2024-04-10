@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,420 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,499 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 59 | [All I Know About Girls](https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [All I Know About Girls](https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR) | 2:42 |
 | 60 | [What He Didn't Do \- Acoustic](https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn't Do \(Acoustic\)](https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9) | 3:09 |
 | 61 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |
-| 62 | [Take My Name \(Wedding Version\)](https://open.spotify.com/track/5Pe59NlkY1rYND0I1wqgv6) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/2gGSvwn3wS3drhrN07fnSC) | 2:54 |
+| 62 | [Wanna Be Saved \(Acoustic\)](https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [All Out Acoustic Sessions](https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB) | 3:07 |
 | 63 | [Slow Dance In A Parking Lot \- Acoustic](https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot \(Acoustic\)](https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo) | 2:58 |
-| 64 | [Wanna Be Saved \(Acoustic\)](https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [All Out Acoustic Sessions](https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB) | 3:07 |
+| 64 | [Take My Name \(Wedding Version\)](https://open.spotify.com/track/5Pe59NlkY1rYND0I1wqgv6) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/2gGSvwn3wS3drhrN07fnSC) | 2:54 |
 | 65 | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/album/5f2fMbivqn3423xYIenThU) | 2:47 |
 | 66 | [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 |
 | 67 | [No Horse To Ride \- demo version](https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(demo version\)](https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB) | 2:13 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 75 | [Trouble \- Piano Version](https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble \(Piano Version\)](https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU) | 3:34 |
 | 76 | [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 |
 | 77 | [Another \- Wedding Version](https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another \(Wedding Version\)](https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd) | 2:51 |
-| 78 | [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 |
-| 79 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
+| 78 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
+| 79 | [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 |
 | 80 | [For A Day](https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 2:47 |
 | 81 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 |
 | 82 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
 | 100 | [Standing Room Only \- Acoustic](https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only \(Acoustic\)](https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4) | 3:46 |
 
-Snapshot ID: `MCw1Y2UyOTc1OTAwNjQ3MjRlMzExNjkwZTA1ZjZmODYwZTk4MmVjMGRi`
+Snapshot ID: `MCwwNmRlNDVhOWZjYjAwOGE5ODE5Njg2OGE4ZTYwNmM2MDVjZGNjYzA0`

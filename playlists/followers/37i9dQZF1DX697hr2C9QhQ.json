@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 36908,
+  "2024-04-10": 36941,
   "date_first_scraped": "2023-01-15",
   "description": "Rock Legends from Ireland. Cover: Sin\u00e9ad O'Connor",
   "name": "Irish Rock Classics",
@@ -691,7 +691,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Rocky Took A Lover",
       "url": "https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 251800,
       "name": "The World Is What You Make It",
       "url": "https://open.spotify.com/track/6kQRdMRHqzZUhNi1LRze9t"

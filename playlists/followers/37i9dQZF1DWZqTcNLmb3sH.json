@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 57528,
+  "2024-04-10": 57534,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -703,6 +703,28 @@
       "duration_ms": 216420,
       "name": "Aata Senasaata",
       "url": "https://open.spotify.com/track/5uAIYmgrhue1lY3VIMcXWW"
+    },
+    {
+      "album": {
+        "name": "Abhimaaniyaagi Hodhe (From \"Just Married\")",
+        "url": "https://open.spotify.com/album/5iOjMPEBlEDl68xoxvY2fd"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241301,
+      "name": "Abhimaaniyaagi Hodhe (From \"Just Married\")",
+      "url": "https://open.spotify.com/track/7G2mjvDdBGVa6txEIuOOuN"
     },
     {
       "album": {
@@ -2031,7 +2053,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 181028,
       "name": "Ayyayyo (From \"Abbabba\")",
       "url": "https://open.spotify.com/track/60NdozvPsh8BwHKgrrr6cd"
@@ -2957,6 +2979,28 @@
       "duration_ms": 382815,
       "name": "Badukina Aatavanu Ballavaryaro - From \"Shavasamskara\"",
       "url": "https://open.spotify.com/track/4ptzNtRbiEGDwZ4tnaTwue"
+    },
+    {
+      "album": {
+        "name": "Baduku Ondu Ranaranga (From \"Yuva\")",
+        "url": "https://open.spotify.com/album/4kHv9SPwQHkl7nCaNz0lIz"
+      },
+      "artists": [
+        {
+          "name": "Vyasraj Sosale",
+          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267718,
+      "name": "Baduku Ondu Ranaranga (From \"Yuva\")",
+      "url": "https://open.spotify.com/track/2dgnWtoFeiBHR5oyVmlXcf"
     },
     {
       "album": {
@@ -7959,7 +8003,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 238735,
       "name": "Gaali Tangaali Kannada Mathade (From \"Ranganayaka\")",
       "url": "https://open.spotify.com/track/5JQdMAEx9L0znd7Lb4hb08"
@@ -13669,7 +13713,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 160615,
       "name": "Kuva Kuva Kuvale - From \"Matsyagandha\"",
       "url": "https://open.spotify.com/track/0fKmcurfYYGRGGc3WEMes2"
@@ -15427,6 +15471,28 @@
       "duration_ms": 248480,
       "name": "Matte Matte Midiyade (from \"Sanju\")",
       "url": "https://open.spotify.com/track/6nrpuS8gewqFv8yA4eVvF1"
+    },
+    {
+      "album": {
+        "name": "Max Title Theme (From \"Max\")",
+        "url": "https://open.spotify.com/album/4SpsgDeO0MrMThHQrhVpts"
+      },
+      "artists": [
+        {
+          "name": "B.Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+        },
+        {
+          "name": "Vijay Kartikeyaa",
+          "url": "https://open.spotify.com/artist/1f9mvJjMvHo8wur1MpSio1"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51458,
+      "name": "Max Title Theme (From \"Max\")",
+      "url": "https://open.spotify.com/track/0mBmQS4J3tNj2E7SoMIYng"
     },
     {
       "album": {
@@ -18103,6 +18169,32 @@
       "duration_ms": 206400,
       "name": "Neenene Beku - From \"Bengaluru Boys\"",
       "url": "https://open.spotify.com/track/0oOEJ4rrnvkeFo1tEym6U9"
+    },
+    {
+      "album": {
+        "name": "Neenene E Jeeva (From \"Mandyahaida\")",
+        "url": "https://open.spotify.com/album/1FN0z2fNLuceAN8ykzpuSu"
+      },
+      "artists": [
+        {
+          "name": "Vijeth Urs",
+          "url": "https://open.spotify.com/artist/2aGAKpJXklASWkahlvrDW5"
+        },
+        {
+          "name": "Ravi Tapasvi",
+          "url": "https://open.spotify.com/artist/0aQVw4HYdsiElmDNrePiPs"
+        },
+        {
+          "name": "Surendranath B R",
+          "url": "https://open.spotify.com/artist/1k3zjqPDkTVZELVv2NtCDH"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222964,
+      "name": "Neenene E Jeeva (From \"Mandyahaida\")",
+      "url": "https://open.spotify.com/track/1AFTJWCChubWjU76sL2Ckp"
     },
     {
       "album": {
@@ -24303,7 +24395,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 194306,
       "name": "Super Figaru Macchi ( From \"Crush\" )",
       "url": "https://open.spotify.com/track/2Y4xtL9wCKGVpdiSKgMAXQ"

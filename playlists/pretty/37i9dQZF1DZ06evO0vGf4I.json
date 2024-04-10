@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1422793,
+  "num_followers": 1423252,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzE2M2RkZmRjNzg5OTllYzMwOWY4YTI3M2IxZGFmNjM2YTQ3NzNl",
+  "snapshot_id": "MCwyOTZjMmI5ZDlmYzIzZjc4NmM3YWQwNWRiNGZkOTZjMWNkZTFmZDk2",
   "tracks": [
     {
       "added_at": null,
@@ -1003,26 +1003,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
       "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
         }
       ],
-      "duration_ms": 174706,
-      "name": "Lock On Me (with Travis Scott & Future)",
-      "url": "https://open.spotify.com/track/0OoNzMdPSgbkM5MkcuEZfm"
+      "duration_ms": 202794,
+      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
     },
     {
       "added_at": null,
@@ -1051,26 +1051,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
       "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 202794,
-      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+      "duration_ms": 174706,
+      "name": "Lock On Me (with Travis Scott & Future)",
+      "url": "https://open.spotify.com/track/0OoNzMdPSgbkM5MkcuEZfm"
     }
   ],
   "unique_name": "This Is Travis Scott",

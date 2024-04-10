@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 52293,
+  "num_followers": 52337,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGQ5NGMyNTA2Y2E4ODA2ZGQzMDU1ZmM1YTQ0NjI1MTg1NGNmODRj",
+  "snapshot_id": "MCw3ZjkyZmQ4YmExMGMxZDgyMjM3NWZkZWM0Y2E3YThiOGE0YWM2MTUw",
   "tracks": [
     {
       "added_at": "2024-04-06 00:42:48",
@@ -291,26 +291,6 @@
     {
       "added_at": "2024-04-06 00:42:48",
       "album": {
-        "name": "No Te Hagas",
-        "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
-      },
-      "artists": [
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 233250,
-      "name": "No Te Hagas",
-      "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
-    },
-    {
-      "added_at": "2024-04-06 00:42:48",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 185040,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
+    },
+    {
+      "added_at": "2024-04-06 00:42:48",
+      "album": {
+        "name": "No Te Hagas",
+        "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
+      },
+      "artists": [
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 233250,
+      "name": "No Te Hagas",
+      "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
     },
     {
       "added_at": "2024-04-06 00:42:48",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-04-06 00:42:48",
       "album": {
+        "name": "Si Tu Novio Te Deja Sola",
+        "url": "https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Si Tu Novio Te Deja Sola",
+      "url": "https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"
+    },
+    {
+      "added_at": "2024-04-06 00:42:48",
+      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 228146,
       "name": "S\u00e9 Que Te Duele",
       "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
-    },
-    {
-      "added_at": "2024-04-06 00:42:48",
-      "album": {
-        "name": "Si Tu Novio Te Deja Sola",
-        "url": "https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Si Tu Novio Te Deja Sola",
-      "url": "https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"
     },
     {
       "added_at": "2024-04-06 00:42:48",
@@ -731,6 +731,30 @@
     {
       "added_at": "2024-04-06 00:42:48",
       "album": {
+        "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
+        "url": "https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "SUBEME LA RADIO",
+      "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
+    },
+    {
+      "added_at": "2024-04-06 00:42:48",
+      "album": {
         "name": "Lean",
         "url": "https://open.spotify.com/album/08MtJrm31CA8dV2txpLMXE"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 260545,
       "name": "Lean",
       "url": "https://open.spotify.com/track/44BZWegR2TBYtgZdAHwaGH"
-    },
-    {
-      "added_at": "2024-04-06 00:42:48",
-      "album": {
-        "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
-        "url": "https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "SUBEME LA RADIO",
-      "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
     },
     {
       "added_at": "2024-04-06 00:42:48",

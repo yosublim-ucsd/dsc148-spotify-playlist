@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,716 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,729 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [pa la europa](https://open.spotify.com/track/7f6PquSCnTPMb1AbBu92oI) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [pa la europa](https://open.spotify.com/album/3bUDTQ89TXoOcP4JTCBpeo) | 3:39 |
 | 50 | [Privado](https://open.spotify.com/track/68fkJE1oYWKIrMcMy8O0sO) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [El De La Nueva Baby](https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj) | 1:58 |
 
-Snapshot ID: `NzY1OTQwODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY2MDI3MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

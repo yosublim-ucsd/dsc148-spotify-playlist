@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 118855,
+  "num_followers": 118842,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjEwOTY4NjM3YjJmNjY3ODFjMTExZjNlM2U3M2RkM2Y2Yjc4Njdk",
+  "snapshot_id": "MCxmMzMxYjk4YWExYmE2M2Y5ZDY0YTQ0ZDg2OGFhNmE0MTk3YjZiYjcw",
   "tracks": [
     {
       "added_at": "2023-12-19 09:25:36",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "My Favourite Time of Year",
-        "url": "https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw"
-      },
-      "artists": [
-        {
-          "name": "Kingsley Thomas",
-          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
-        }
-      ],
-      "duration_ms": 242786,
-      "name": "My Favourite Time of Year",
-      "url": "https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 122414,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "My Favourite Time of Year",
+        "url": "https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "My Favourite Time of Year",
+      "url": "https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Christmas Classics",
-        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "All I Want For Christmas (Is My Two Front Teeth)",
-      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 163130,
       "name": "The Chipmunk Song",
       "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "All I Want For Christmas (Is My Two Front Teeth)",
+      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 192420,
-      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Season's Greetings",
         "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 175893,
       "name": "(There's No Place Like) Home for the Holidays - 1959 Version",
       "url": "https://open.spotify.com/track/0hvN2v6fAcB6xWyW7UaooA"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 192420,
+      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
       "artists": [
         {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
+      "duration_ms": 139466,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
         }
       ],
-      "duration_ms": 139466,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/1uTcIqbf4J8KDPYEl4AYXW"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Sonny Magic Trio",
+          "url": "https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3"
         }
       ],
-      "duration_ms": 165813,
-      "name": "The Secret Of Christmas",
-      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
+      "duration_ms": 199384,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/3xp3vHkZmXXjuPN5TIZw9c"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/1uTcIqbf4J8KDPYEl4AYXW"
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
       "artists": [
         {
-          "name": "Sonny Magic Trio",
-          "url": "https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 199384,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/3xp3vHkZmXXjuPN5TIZw9c"
+      "duration_ms": 165813,
+      "name": "The Secret Of Christmas",
+      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "The Singles Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "I'd Like You For Christmas",
-      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Busy Santa",
         "url": "https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 200872,
       "name": "Busy Santa",
       "url": "https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "The Singles Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "I'd Like You For Christmas",
+      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Christmas With The Andrews Sisters",
-        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC"
       },
       "artists": [
         {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 180160,
-      "name": "I'd Like To Hitch A Ride With Santa Claus",
-      "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
+      "duration_ms": 220133,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/6Xji4YF3AEfSetv2rn7Wlx"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC"
+        "name": "Christmas With The Andrews Sisters",
+        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/6Xji4YF3AEfSetv2rn7Wlx"
+      "duration_ms": 180160,
+      "name": "I'd Like To Hitch A Ride With Santa Claus",
+      "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
     },
     {
       "added_at": "2023-12-19 09:25:36",

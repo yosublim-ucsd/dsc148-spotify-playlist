@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 310459,
+  "num_followers": 310472,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzdhNjI5YWU1MTQxNGJlOGY0OTcyMWNhNzdjYzZhM2FjMGZkOTkz",
+  "snapshot_id": "MCw0ZjA0Zjk2ZWFkOGVkY2U1NTE1OTE0MjZmYWViYmZmMmQ0Yjg5MmJi",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Tara",
-        "url": "https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 166864,
-      "name": "Tara",
-      "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Espelho",
         "url": "https://open.spotify.com/album/0mr29hP4Qls88f2ImXd3s6"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 202546,
       "name": "Inconsequente",
       "url": "https://open.spotify.com/track/0SYzDDMpHG1rqlzccSo6gH"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 166864,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
     },
     {
       "added_at": "2024-03-08 03:01:00",

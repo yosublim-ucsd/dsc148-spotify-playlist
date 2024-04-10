@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,884 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,960 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 49 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
 | 50 | [El Cuarto de Tula](https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 7:25 |
 
-Snapshot ID: `MCxhZDY4ODg5OTA0MDMyOGJhMTY3MGIwMzQ3YmZlMDcwMThiYjhjYzQ2`
+Snapshot ID: `MCw0MzA5MWJhMGE4ZGQ1NWMxYzU3OWE1OWI5NDg1ODdjYTI5NDMwYzU0`

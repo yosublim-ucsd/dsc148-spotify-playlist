@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Captain Miller
 
-217 songs - 14 hr 20 min
+218 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Maayakari](https://open.spotify.com/track/7sKeH5mCZs8JhHA22PHqfD) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 4:42 | 2022-05-31 | 2022-06-29 |
 | [Maayoney \(From "Inga Naan Thaan Kingu"\)](https://open.spotify.com/track/4lIOKV52mXIsm8P6jjo1Ja) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Maayoney \(From "Inga Naan Thaan Kingu"\)](https://open.spotify.com/album/6mJOQzbv1201kFhxXFFSVJ) | 3:56 | 2024-03-26 | 2024-03-29 |
 | [Maayoney \(From "Inga Naan Thaan Kingu"\)](https://open.spotify.com/track/0oD9hUPvILOoLtq5Orii1z) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Muthamil](https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2) | [Maayoney \(From "Inga Naan Thaan Kingu"\)](https://open.spotify.com/album/3SD1fuh9OdIuEfqr8t7SkJ) | 3:56 | 2024-03-26 |  |
+| [Madhuramum Idha \(From "The Family Star"\)](https://open.spotify.com/track/6rsmlUhCUyZEgsFXaxRhae) | [Priyanka](https://open.spotify.com/artist/3aQAjkRmPjXvM8Odeg3B99), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Madhuramum Idha \(From "The Family Star"\)](https://open.spotify.com/album/6NSv2AzSY1UqwdHlhCbH1L) | 5:32 | 2024-04-09 |  |
 | [Madura Veeran](https://open.spotify.com/track/3eFoAIpRrhGCEISQxnoNFI) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8) | [Viruman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Rwd1j6rdOs7M9PLCkqcOi) | 3:49 | 2022-08-03 | 2024-01-05 |
 | [Mainaru Vetti Katti](https://open.spotify.com/track/2kvn37700jHPUsRaAbVBFk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Muthamil](https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2) | [Dasara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr) | 3:23 | 2023-03-09 |  |
 | [Mainaru Vetti Katti](https://open.spotify.com/track/1hSbtbX2cVbSyBVqoYHjSj) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Mainaru Vetti Katti \(From "Dasara"\) \(Tamil\)](https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV) | 3:23 | 2023-03-09 | 2023-03-11 |

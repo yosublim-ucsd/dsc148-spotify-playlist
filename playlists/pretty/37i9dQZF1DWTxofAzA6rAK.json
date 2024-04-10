@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 63766,
+  "num_followers": 63819,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDFiNjFlOTA1MzhiMzkyMTRlYzQxMTZhMzYyNzgwZGYzZWVkMzJj",
+  "snapshot_id": "MCw4YjRmNDM3NzRkNTliMDNmNjg0YzE2NzNkN2I4YWU5NTFlNzQ4YmJj",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Ambala",
-        "url": "https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Ambala",
-      "url": "https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 219574,
       "name": "Pieces (with Jahshii)",
       "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Ambala",
+        "url": "https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Ambala",
+      "url": "https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 186723,
+      "name": "Cree",
+      "url": "https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Glock 40",
         "url": "https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
       },
       "artists": [
         {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
         }
       ],
-      "duration_ms": 186723,
-      "name": "Cree",
-      "url": "https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh"
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -795,38 +811,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O"
       },
       "artists": [
         {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "From Rags to Riches",
-        "url": "https://open.spotify.com/album/6u7JQUvZJJHCKXfQd1fhPp"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
         },
         {
-          "name": "Damage Musiq",
-          "url": "https://open.spotify.com/artist/0sjTBvvHmLPJ3vcmAjitTJ"
+          "name": "Black Shadow",
+          "url": "https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z"
         }
       ],
-      "duration_ms": 197052,
-      "name": "From Rags to Riches",
-      "url": "https://open.spotify.com/track/4aiIKB4FplhLZq0TCh16Ya"
+      "duration_ms": 156951,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -851,22 +851,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O"
+        "name": "From Rags to Riches",
+        "url": "https://open.spotify.com/album/6u7JQUvZJJHCKXfQd1fhPp"
       },
       "artists": [
         {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
         },
         {
-          "name": "Black Shadow",
-          "url": "https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z"
+          "name": "Damage Musiq",
+          "url": "https://open.spotify.com/artist/0sjTBvvHmLPJ3vcmAjitTJ"
         }
       ],
-      "duration_ms": 156951,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9"
+      "duration_ms": 197052,
+      "name": "From Rags to Riches",
+      "url": "https://open.spotify.com/track/4aiIKB4FplhLZq0TCh16Ya"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Toni-Ann Singh",
-          "url": "https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ"
-        }
-      ],
-      "duration_ms": 236425,
-      "name": "Next To Me (feat. Toni-Ann Singh)",
-      "url": "https://open.spotify.com/track/18okB3tFyUOaQLWFoBOC1H"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Know Weh Ya Do",
         "url": "https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz"
       },
@@ -1243,18 +1223,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Corrupt, Pt. 2",
-        "url": "https://open.spotify.com/album/6xqICcPQrRijWbnfWNTc3r"
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
       "artists": [
         {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/6eUNLMBYdLEO6OgYqhzQCL"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Toni-Ann Singh",
+          "url": "https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Corrupt, Pt. 2",
-      "url": "https://open.spotify.com/track/7zTa7Ba7lV0DOya0xTj5Uf"
+      "duration_ms": 236425,
+      "name": "Next To Me (feat. Toni-Ann Singh)",
+      "url": "https://open.spotify.com/track/18okB3tFyUOaQLWFoBOC1H"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1271,6 +1255,22 @@
       "duration_ms": 155611,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/1MosK3moAfGVRiAGum2Ngf"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Corrupt, Pt. 2",
+        "url": "https://open.spotify.com/album/6xqICcPQrRijWbnfWNTc3r"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/6eUNLMBYdLEO6OgYqhzQCL"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Corrupt, Pt. 2",
+      "url": "https://open.spotify.com/track/7zTa7Ba7lV0DOya0xTj5Uf"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r"
+        "name": "Bufu",
+        "url": "https://open.spotify.com/album/3POrnMWEQ0nGLTjZqtEwA6"
       },
       "artists": [
         {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+          "name": "Boy Boy",
+          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
         }
       ],
-      "duration_ms": 202600,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L"
+      "duration_ms": 198716,
+      "name": "Bufu",
+      "url": "https://open.spotify.com/track/1nRg4wYz5qbayok2YFYUrG"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Bufu",
-        "url": "https://open.spotify.com/album/3POrnMWEQ0nGLTjZqtEwA6"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r"
       },
       "artists": [
         {
-          "name": "Boy Boy",
-          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
         }
       ],
-      "duration_ms": 198716,
-      "name": "Bufu",
-      "url": "https://open.spotify.com/track/1nRg4wYz5qbayok2YFYUrG"
+      "duration_ms": 202600,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Sidepiece",
+        "url": "https://open.spotify.com/album/77BNOHzrIMr1Mpnq5feG77"
+      },
+      "artists": [
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sidepiece",
+      "url": "https://open.spotify.com/track/1WO6MRJNAjq4qV65DpAFOg"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Ready",
         "url": "https://open.spotify.com/album/1V7ZuemBGHlZHJnXWImgiL"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 139154,
       "name": "Ready",
       "url": "https://open.spotify.com/track/0i5tGTm0ibiyLSCiDs3CiS"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Sidepiece",
-        "url": "https://open.spotify.com/album/77BNOHzrIMr1Mpnq5feG77"
-      },
-      "artists": [
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sidepiece",
-      "url": "https://open.spotify.com/track/1WO6MRJNAjq4qV65DpAFOg"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "I Am Great",
-        "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
-      },
-      "artists": [
-        {
-          "name": "I-Octane",
-          "url": "https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS"
-        }
-      ],
-      "duration_ms": 205251,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Dirt Bounce",
         "url": "https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 176069,
       "name": "Dirt Bounce",
       "url": "https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "I Am Great",
+        "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
+      },
+      "artists": [
+        {
+          "name": "I-Octane",
+          "url": "https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS"
+        }
+      ],
+      "duration_ms": 205251,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2003,6 +2003,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "I Am Great",
+        "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
+      },
+      "artists": [
+        {
+          "name": "I-Octane",
+          "url": "https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS"
+        },
+        {
+          "name": "Rygin King",
+          "url": "https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr"
+        }
+      ],
+      "duration_ms": 187711,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Money & Done (Remix)",
         "url": "https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO"
       },
@@ -2023,26 +2043,6 @@
       "duration_ms": 160528,
       "name": "Money & Done - Remix",
       "url": "https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "I Am Great",
-        "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
-      },
-      "artists": [
-        {
-          "name": "I-Octane",
-          "url": "https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS"
-        },
-        {
-          "name": "Rygin King",
-          "url": "https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr"
-        }
-      ],
-      "duration_ms": 187711,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2239,26 +2239,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/3yG8BUXM4bnQ8pH3KgHS2G"
-      },
-      "artists": [
-        {
-          "name": "Govana",
-          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
-        },
-        {
-          "name": "Dunw3ll",
-          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
-        }
-      ],
-      "duration_ms": 160303,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/2XPIIi8TnoZMMzBE5RNOAm"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Want You Back",
         "url": "https://open.spotify.com/album/7DyRjxogpXhnbhSeTKj80P"
       },
@@ -2283,6 +2263,26 @@
       "duration_ms": 153000,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/3yG8BUXM4bnQ8pH3KgHS2G"
+      },
+      "artists": [
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        },
+        {
+          "name": "Dunw3ll",
+          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
+        }
+      ],
+      "duration_ms": 160303,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/2XPIIi8TnoZMMzBE5RNOAm"
     },
     {
       "added_at": "2023-05-24 08:21:37",

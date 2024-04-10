@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 531132,
+  "num_followers": 531177,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGMyMGJlNTBkNzZlZTA3MGM3ZjcyYjJiZDBiMDhhMmRhNGZlMWEy",
+  "snapshot_id": "MCwzMmUwN2EwODVlOGY1MGI0ZTlhZTVmMTc4NjdlZTcyZGZkMzFiOWY1",
   "tracks": [
     {
       "added_at": "2024-02-09 06:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Me Dediqu\u00e9 a Perderte",
-      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Me Dediqu\u00e9 a Perderte",
+      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Acr\u00f3stico (Milan + Sasha)",
-        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 170785,
-      "name": "Acr\u00f3stico - Milan + Sasha",
-      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 204173,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+      "duration_ms": 199733,
+      "name": "No Hay Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -655,18 +639,34 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 199733,
-      "name": "No Hay Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
+      "duration_ms": 204173,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Acr\u00f3stico (Milan + Sasha)",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico - Milan + Sasha",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -719,6 +719,38 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "Destino o casualidad",
         "url": "https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85"
       },
@@ -735,22 +767,6 @@
       "duration_ms": 258504,
       "name": "Destino o casualidad",
       "url": "https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -931,38 +947,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 250200,
       "name": "Gavil\u00e1n o Paloma",
       "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "\u00bfC\u00f3mo Pagarte?",
-      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 211946,
+      "name": "\u00bfC\u00f3mo Pagarte?",
+      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "Yo Creo",
         "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1243,22 +1259,6 @@
       "duration_ms": 267836,
       "name": "Eres Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1311,26 +1311,6 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Mariposa Traicionera",
-        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 243307,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "Mariposa Traicionera",
+        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 243307,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "Enam\u00f3rate De Alguien M\u00e1s",
         "url": "https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -1527,22 +1511,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -1559,6 +1527,22 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1595,6 +1579,22 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1651,8 +1651,8 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "\u00c9l Lo Tiene Todo",
-        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
       },
       "artists": [
         {
@@ -1660,9 +1660,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 214081,
-      "name": "\u00c9l Lo Tiene Todo",
-      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
+      "duration_ms": 244000,
+      "name": "Te Equivocaste",
+      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Sus Huellas",
-        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Sus Huellas",
-      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Hasta Ahora",
         "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
       },
@@ -1731,8 +1715,24 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+        "name": "Sus Huellas",
+        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Sus Huellas",
+      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
       },
       "artists": [
         {
@@ -1740,9 +1740,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Te Equivocaste",
-      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
     },
     {
       "added_at": "2024-02-09 06:00:00",

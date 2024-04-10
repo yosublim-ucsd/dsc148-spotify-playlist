@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75385,
+  "num_followers": 75388,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWVjOGJkZTgwYTlkNjQzOGZhNzdjMjBiMzQwOTQ1YmQzYzA1NzQ1",
+  "snapshot_id": "MCw2YmQzNTIwNzNlODExMzBjZTc2NjhlNmM0NDg3YTgwNjhmNDNlOGNk",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz"
-      },
-      "artists": [
-        {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
-        }
-      ],
-      "duration_ms": 105913,
-      "name": "Girl Like You",
-      "url": "https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 143560,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 105913,
+      "name": "Girl Like You",
+      "url": "https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd"
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
       },
       "artists": [
         {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 122267,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC"
+      "duration_ms": 218999,
+      "name": "don\u2019t get caught up",
+      "url": "https://open.spotify.com/track/2k8gVOolKZ7FIHNkoVRVcu"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
         }
       ],
-      "duration_ms": 218999,
-      "name": "don\u2019t get caught up",
-      "url": "https://open.spotify.com/track/2k8gVOolKZ7FIHNkoVRVcu"
+      "duration_ms": 122267,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Running With The Wolves",
-        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
       },
       "artists": [
         {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 163821,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
+      "duration_ms": 271999,
+      "name": "heartbeat",
+      "url": "https://open.spotify.com/track/7vAG5pwx3isF20fa3uuDXC"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
+        "name": "Running With The Wolves",
+        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
         }
       ],
-      "duration_ms": 271999,
-      "name": "heartbeat",
-      "url": "https://open.spotify.com/track/7vAG5pwx3isF20fa3uuDXC"
+      "duration_ms": 163821,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -471,6 +471,22 @@
       "duration_ms": 248858,
       "name": "Quiet Moon, Wild Sea",
       "url": "https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Made of Water",
+        "url": "https://open.spotify.com/album/6QdVUbYH9UkM8hdPsWUZ54"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/4IJSCa7swAnsdCrGwayZ2G"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -543,8 +559,8 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Made of Water",
-        "url": "https://open.spotify.com/album/6QdVUbYH9UkM8hdPsWUZ54"
+        "name": "DANCING IN THE DARK",
+        "url": "https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p"
       },
       "artists": [
         {
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 266000,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/4IJSCa7swAnsdCrGwayZ2G"
+      "duration_ms": 180000,
+      "name": "CAMPFIRE",
+      "url": "https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -575,38 +591,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "Every Side Of You",
-      "url": "https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "you, all along",
-        "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
-      },
-      "artists": [
-        {
-          "name": "This New Light",
-          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
-        }
-      ],
-      "duration_ms": 260049,
-      "name": "End of the Line",
-      "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Gypsy Tapes",
         "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 212585,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204573,
+      "name": "Every Side Of You",
+      "url": "https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "you, all along",
+        "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
+      },
+      "artists": [
+        {
+          "name": "This New Light",
+          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
+        }
+      ],
+      "duration_ms": 260049,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "hemispheres",
         "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 227077,
       "name": "It's Easier When You're Standing There",
       "url": "https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Smile At The Party",
-        "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
-      },
-      "artists": [
-        {
-          "name": "The Happiest Kind of Sad",
-          "url": "https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q"
-        }
-      ],
-      "duration_ms": 266709,
-      "name": "Smile At The Party",
-      "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -696,9 +696,25 @@
           "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 180000,
-      "name": "CAMPFIRE",
-      "url": "https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU"
+      "duration_ms": 206999,
+      "name": "I BELIEVE",
+      "url": "https://open.spotify.com/track/3qyl06mFyrDJ3fdeklnsvV"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Smile At The Party",
+        "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
+      },
+      "artists": [
+        {
+          "name": "The Happiest Kind of Sad",
+          "url": "https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q"
+        }
+      ],
+      "duration_ms": 266709,
+      "name": "Smile At The Party",
+      "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -719,6 +735,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 188544,
+      "name": "The Coffee Song",
+      "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "The Future of an End",
         "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
       },
@@ -731,22 +763,6 @@
       "duration_ms": 194453,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Midnight Moon",
-      "url": "https://open.spotify.com/track/7aet6jS2zhamYK3NaCf0yk"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -767,34 +783,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "DANCING IN THE DARK",
-        "url": "https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p"
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 206999,
-      "name": "I BELIEVE",
-      "url": "https://open.spotify.com/track/3qyl06mFyrDJ3fdeklnsvV"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 188544,
-      "name": "The Coffee Song",
-      "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
+      "duration_ms": 223560,
+      "name": "Midnight Moon",
+      "url": "https://open.spotify.com/track/7aet6jS2zhamYK3NaCf0yk"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -835,22 +835,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
         }
       ],
-      "duration_ms": 294063,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I"
+      "duration_ms": 191032,
+      "name": "Liquid Love",
+      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -919,6 +915,26 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 294063,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Hold You Tapes",
         "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
       },
@@ -928,9 +944,9 @@
           "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
         }
       ],
-      "duration_ms": 191032,
-      "name": "Liquid Love",
-      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
+      "duration_ms": 226500,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
-      },
-      "artists": [
-        {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "8 Hour Drive",
-      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Feel Like Clarity",
-        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
       },
       "artists": [
         {
-          "name": "Gaudion",
-          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
         }
       ],
-      "duration_ms": 188004,
-      "name": "Feel Like Clarity",
-      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+      "duration_ms": 216476,
+      "name": "8 Hour Drive",
+      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
     }
   ],
   "unique_name": "Summer Daze",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the powerful voices of Latin music. Cover: Young Miko",
-  "num_followers": 53083,
+  "num_followers": 53069,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODhkOWNmMDY4YzBkZDVlNmQ2MTYxZTM1MzgzYWNlMmI3NmY2OGVj",
+  "snapshot_id": "MCxiN2ZjOTJmZDc1MGY4YmRlNDZhY2Y1MjQ5MDJmOWQzYmI1Yjc4NWIy",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "La Joia",
         "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 159253,
       "name": "Perdi\u00f3 Este Culo",
       "url": "https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 239400,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1qCHidBbWAgv3pn6UbZ4Lg"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 225240,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1qCHidBbWAgv3pn6UbZ4Lg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 202333,
       "name": "Los Besos",
       "url": "https://open.spotify.com/track/50SFVefoyzWnJy1oQWfRtr"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -927,6 +927,22 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158483,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -995,38 +1011,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "X Amor",
-        "url": "https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 149543,
-      "name": "Los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/0tJ0ZGuHUKJIseLFlPlkXC"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Los \u00c1ngeles",
-        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 158483,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "1TRAGO",
         "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
       },
@@ -1043,18 +1027,34 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
+        "name": "LAS BABYS",
+        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
       },
       "artists": [
         {
-          "name": "Gloria Estefan And Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 255760,
-      "name": "Conga",
-      "url": "https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0"
+      "duration_ms": 153827,
+      "name": "LAS BABYS",
+      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "X Amor",
+        "url": "https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 149543,
+      "name": "Los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/0tJ0ZGuHUKJIseLFlPlkXC"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1079,6 +1079,22 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan And Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D"
+        }
+      ],
+      "duration_ms": 255760,
+      "name": "Conga",
+      "url": "https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 225373,
       "name": "Fing\u00edas",
       "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "LAS BABYS",
-        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 153827,
-      "name": "LAS BABYS",
-      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Eternamente Bella",
+        "url": "https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Eternamente Bella",
+      "url": "https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "DESPECH\u00c1 RMX",
         "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 170827,
       "name": "DESPECH\u00c1 RMX",
       "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Eternamente Bella",
-        "url": "https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Eternamente Bella",
-      "url": "https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "A Oscuras",
-        "url": "https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 159935,
-      "name": "A Oscuras",
-      "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Baila Conmigo",
         "url": "https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6"
       },
@@ -1679,6 +1659,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "A Oscuras",
+        "url": "https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 159935,
+      "name": "A Oscuras",
+      "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "AL MANDO",
         "url": "https://open.spotify.com/album/04Y8XPdbxJJv7usOlkgYmW"
       },
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "la nena de un gang$ter",
-        "url": "https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9"
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
       },
       "artists": [
         {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 206256,
-      "name": "la nena de un gang$ter",
-      "url": "https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk"
+      "duration_ms": 158146,
+      "name": "PORQUE SOY ABEJA REINA",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+        "name": "la nena de un gang$ter",
+        "url": "https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         }
       ],
-      "duration_ms": 158146,
-      "name": "PORQUE SOY ABEJA REINA",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
+      "duration_ms": 206256,
+      "name": "la nena de un gang$ter",
+      "url": "https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk"
     }
   ],
   "unique_name": "Women of Latin",

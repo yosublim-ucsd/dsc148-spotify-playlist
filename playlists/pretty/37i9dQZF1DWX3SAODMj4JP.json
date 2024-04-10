@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 138211,
+  "num_followers": 138278,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTkwMzk5NmMxMGUxZDMwNzFhZGU3NjIwNjZlNDljMWRhNzJmYzI5",
+  "snapshot_id": "MCwyNjMxMTE4Y2E3OTFhMTMwMzg2YmU5Y2RmY2Q3NjllMWQzNzcxNmUw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
+      },
+      "artists": [
+        {
+          "name": "Jeferson Pillar",
+          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
+        }
+      ],
+      "duration_ms": 248398,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
-      },
-      "artists": [
-        {
-          "name": "Jeferson Pillar",
-          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
-        }
-      ],
-      "duration_ms": 248398,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Tua Presen\u00e7a Vale Mais",
-        "url": "https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Tua Presen\u00e7a Vale Mais",
-      "url": "https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Sonhadora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 279989,
       "name": "Eu, Poema: Releitura",
       "url": "https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Tua Presen\u00e7a Vale Mais",
+        "url": "https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Tua Presen\u00e7a Vale Mais",
+      "url": "https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Mais Perto Quero Estar",
-        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
-      },
-      "artists": [
-        {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
-        }
-      ],
-      "duration_ms": 201282,
-      "name": "Mais Perto Quero Estar",
-      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "S\u00f3 Penso Em Voc\u00ea (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 360223,
       "name": "S\u00f3 Penso Em Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Mais Perto Quero Estar",
+        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 201282,
+      "name": "Mais Perto Quero Estar",
+      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
     },
     {
       "added_at": "2023-10-06 04:04:27",

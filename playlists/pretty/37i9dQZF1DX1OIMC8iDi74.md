@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: k?d
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,532 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,567 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 68 | [Birdz](https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:42 |
 | 69 | [Anything](https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Anything](https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL) | 3:46 |
 | 70 | [Only Be Me](https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/18jDao69dC593MEAZheoyA) | 3:28 |
-| 71 | [The One \- NGHTMRE Remix](https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The One \(The Remixes\)](https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS) | 2:40 |
-| 72 | [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 |
+| 71 | [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 |
+| 72 | [The One \- NGHTMRE Remix](https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The One \(The Remixes\)](https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS) | 2:40 |
 | 73 | [The Descent](https://open.spotify.com/track/6xIxr1N7UZaXiwOUNVScsn) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:07 |
 | 74 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 |
 | 75 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 95 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/6F3eFeqRMgjnPrFJGiosdd) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Silo \(feat\. fknsyd\)](https://open.spotify.com/album/2e6ev74vWl4wuJXuxpDjf8) | 4:07 |
 | 96 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU) | 2:56 |
 | 97 | [Bellz](https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [V!BEZ, Vol\. 4](https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu) | 2:40 |
-| 98 | [Tokyo](https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g) | [Klinical](https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB), [Spektiv](https://open.spotify.com/artist/1ILJ2noUbT5iGh3bzHGY3J) | [Tokyo](https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87) | 4:10 |
-| 99 | [Eden \(feat\. fussy\)](https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden \(feat\. fussy\)](https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj) | 2:56 |
+| 98 | [Eden \(feat\. fussy\)](https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden \(feat\. fussy\)](https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj) | 2:56 |
+| 99 | [Tokyo](https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g) | [Klinical](https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB), [Spektiv](https://open.spotify.com/artist/1ILJ2noUbT5iGh3bzHGY3J) | [Tokyo](https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87) | 4:10 |
 | 100 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 |
 
-Snapshot ID: `MCwwMjU1Mzg2MWRlOTM5MDAyZDYzNWVjMWMxOGQwOGQxYzRiY2M1YzMx`
+Snapshot ID: `MCw4Mzk3MTg0Y2ZiNWI2MWU3MzhlZDQwMWQ2N2EwZTFjNjY0MDZmNTYx`

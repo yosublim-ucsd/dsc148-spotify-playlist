@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 50310,
+  "num_followers": 50394,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjIwOTZhMGJkMjE1MWM4YzFjZmNmNGJiNTdiY2M3YzBlYWFmZTRl",
+  "snapshot_id": "MCw1NDhmZDdiMzJlNWU5NTNmMjZkZGY5ZDNiMGMzNDQwNWE3Mzk0OWIx",
   "tracks": [
     {
       "added_at": "2024-03-15 05:25:16",
@@ -255,26 +255,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "TARU",
-        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
-      },
-      "artists": [
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
-        },
-        {
-          "name": "Simeon",
-          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
-        }
-      ],
-      "duration_ms": 399661,
-      "name": "VOICES",
-      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
         "url": "https://open.spotify.com/album/0N93xeV4Ed2JTYy83gySqr"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 361078,
       "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
       "url": "https://open.spotify.com/track/1DW5ZAmJrdvOIrIGTvBwhz"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "TARU",
+        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        },
+        {
+          "name": "Simeon",
+          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
+        }
+      ],
+      "duration_ms": 399661,
+      "name": "VOICES",
+      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -447,26 +447,18 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
-        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
+        "name": "Deep Within",
+        "url": "https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP"
       },
       "artists": [
         {
-          "name": "Sitha",
-          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
-        },
-        {
-          "name": "BlaQ Afro-Kay",
-          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
-        },
-        {
-          "name": "Laps Rsa",
-          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
+          "name": "Tebza De SouL",
+          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
         }
       ],
-      "duration_ms": 400103,
-      "name": "Winter Nights - BlaQ Afro-Kay Remix",
-      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
+      "duration_ms": 436981,
+      "name": "Deep Within",
+      "url": "https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -495,18 +487,26 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Deep Within",
-        "url": "https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP"
+        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
+        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
       },
       "artists": [
         {
-          "name": "Tebza De SouL",
-          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
+          "name": "Sitha",
+          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
+        },
+        {
+          "name": "BlaQ Afro-Kay",
+          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
+        },
+        {
+          "name": "Laps Rsa",
+          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
         }
       ],
-      "duration_ms": 436981,
-      "name": "Deep Within",
-      "url": "https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS"
+      "duration_ms": 400103,
+      "name": "Winter Nights - BlaQ Afro-Kay Remix",
+      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -547,6 +547,26 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "Ksasenjalo (Re-Imagined)",
+        "url": "https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ"
+      },
+      "artists": [
+        {
+          "name": "Zano",
+          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
+        },
+        {
+          "name": "Exte C",
+          "url": "https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23"
+        }
+      ],
+      "duration_ms": 401228,
+      "name": "Ksasenjalo (Exte C Remix)",
+      "url": "https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "From Blak With Love",
         "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 342887,
       "name": "Monomotapa",
       "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Ksasenjalo (Re-Imagined)",
-        "url": "https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ"
-      },
-      "artists": [
-        {
-          "name": "Zano",
-          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
-        },
-        {
-          "name": "Exte C",
-          "url": "https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23"
-        }
-      ],
-      "duration_ms": 401228,
-      "name": "Ksasenjalo (Exte C Remix)",
-      "url": "https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN"
     },
     {
       "added_at": "2024-03-15 05:25:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,465 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,512 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 10 | [Fugaz \(feat\. Rubén Albarrán\) \- En Vivo](https://open.spotify.com/track/3UymFgXyRZun9nBxj4tiVI) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 5:48 |
 | 11 | [La Rubia y el Demonio](https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:06 |
 | 12 | [A Todos los Rumberos](https://open.spotify.com/track/2QAwnJ1GBB9MVrKUzd88q0) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A Todos los Rumberos](https://open.spotify.com/album/69M76iFB13orBTuymkmh4M) | 4:31 |
-| 13 | [Cúrame](https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:41 |
+| 13 | [Pequeño Tratado de un Adiós](https://open.spotify.com/track/2eAAwvxPdqDchQ1DBSdZNe) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:06 |
 | 14 | [Viernes de Webeo \- En Vivo](https://open.spotify.com/track/4htoV9pXQmKENfn3LIKvVW) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 4:00 |
 | 15 | [Dime](https://open.spotify.com/track/3stXtR4dTYiGjYhG2gNepu) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:50 |
 | 16 | [No Voy A Llorar](https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 4:46 |
-| 17 | [Pequeño Tratado de un Adiós](https://open.spotify.com/track/2eAAwvxPdqDchQ1DBSdZNe) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:06 |
+| 17 | [Cúrame](https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:41 |
 | 18 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/26wc2F3aJGvc5SJgKt7Xt8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 3:13 |
 | 19 | [Cariñito \- Mexican Institute of Sound Mix](https://open.spotify.com/track/2wwGmqiQTfr92XB7Lkx5i8) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Cariñito \(Mexican Institute of Sound Mix\)](https://open.spotify.com/album/6pvQhpi3DJpo6OBf1QootJ) | 3:03 |
 | 20 | [Estrella Roja \- En Vivo](https://open.spotify.com/track/6hjYEBN9WwrpLHRRvhdsby) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 3:39 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 47 | [No Te Recuerdo](https://open.spotify.com/track/11HEIqmrGM1hh1KW63DGdi) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:53 |
 | 48 | [Inocente Pobre Amigo](https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:41 |
 | 49 | [C.D.A.](https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:36 |
-| 50 | [No Me Vayas a Dejar](https://open.spotify.com/track/15WIt660rRzkOZxD6w5h8T) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:12 |
+| 50 | [Gracias por Existir](https://open.spotify.com/track/1OoJSOXUn67BOzoMHUqfO7) | [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Gracias Por Existir](https://open.spotify.com/album/2Xdby9NkJLVGD5eBBC9Y35) | 3:52 |
 
-Snapshot ID: `MCw5NDcxOWY4MmQ4ZWI3OTE3N2UyOGUwMTdiNTQ1ZjZjMWNlN2VmZmQx`
+Snapshot ID: `MCxiZTVlN2JhMjczZGU1ZjUwMTMzNzk3YzkxOTY2MzYxZjg2ZWY4YmFj`

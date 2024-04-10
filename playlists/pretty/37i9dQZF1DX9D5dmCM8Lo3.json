@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 223170,
+  "num_followers": 223284,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMThmNmRlMzY2MGIxOWQ4OTc0YTY4N2M3MzYyMmJiZDZkNWVhYzc2",
+  "snapshot_id": "MCw2ZDdiNjQ3NmYwNTdiZWYwNDVkNjUxNjZkMGJmYzRhMmE0ZmQwNmVi",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Computer Afterlife",
-        "url": "https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 86428,
-      "name": "Implanted Memories",
-      "url": "https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "nastasia",
         "url": "https://open.spotify.com/album/6J1jrUGceVNx72VzemcGe0"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 72289,
       "name": "nastasia",
       "url": "https://open.spotify.com/track/5gXpckUFPU8cG04Nl7WzJ9"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Computer Afterlife",
+        "url": "https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 86428,
+      "name": "Implanted Memories",
+      "url": "https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 89640,
-      "name": "The descent",
-      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 96414,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Velocity: Design: Comfort.",
+        "url": "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2"
+      },
+      "artists": [
+        {
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "duration_ms": 346306,
+      "name": "Pro: Lov: Ad",
+      "url": "https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Velocity: Design: Comfort.",
-        "url": "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2"
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
       },
       "artists": [
         {
-          "name": "Sweet Trip",
-          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
         }
       ],
-      "duration_ms": 346306,
-      "name": "Pro: Lov: Ad",
-      "url": "https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw"
+      "duration_ms": 89640,
+      "name": "The descent",
+      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "ultra",
-        "url": "https://open.spotify.com/album/6PBMIPRU5YjTjQdlcHdssk"
-      },
-      "artists": [
-        {
-          "name": "KENTENSHI",
-          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
-        }
-      ],
-      "duration_ms": 84503,
-      "name": "ultra",
-      "url": "https://open.spotify.com/track/60aMDjOxTTjf3UJp1SElQd"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": ")\u2727\u20db*",
         "url": "https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 190344,
       "name": "\u01aa. \u25d6\u01aa\u274d\u227b\u0338\u25de.|\u25d7\u0449 (*\u110b\u25b3+\u204e\u275d\u1dc0\u0ebb\u0f7d*\u0cc3:(\ua4a1\u0361 \u275d\u1dc0\u0ebb\u0f7d \ua27a \u0308.\u00b7*:\u30fb\u2727\u20db(\u0f7d\u0e51",
       "url": "https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "ultra",
+        "url": "https://open.spotify.com/album/6PBMIPRU5YjTjQdlcHdssk"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "duration_ms": 84503,
+      "name": "ultra",
+      "url": "https://open.spotify.com/track/60aMDjOxTTjf3UJp1SElQd"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71"
+        "name": "morrigan",
+        "url": "https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3"
       },
       "artists": [
         {
-          "name": "Drive45",
-          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
         }
       ],
-      "duration_ms": 175624,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx"
+      "duration_ms": 142839,
+      "name": "morrigan",
+      "url": "https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1"
     }
   ],
   "unique_name": "webcore",

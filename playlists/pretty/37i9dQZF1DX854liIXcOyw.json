@@ -1,12 +1,12 @@
 {
   "description": "The tracks sticking us together.",
-  "num_followers": 8867,
+  "num_followers": 8990,
   "original_name": "Family Glue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2QzMDZiNWRhM2IyYTc4YjZiMjFlYWI0NDM2OTMxMjM5ZjJlODVk",
+  "snapshot_id": "MCxkMmFjMmQ4Mjc1YjhmMmYzMTVkY2JmN2E3OWEzNzZmMmE5ZTExNDg1",
   "tracks": [
     {
       "added_at": "2021-08-31 00:52:34",
@@ -59,18 +59,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+        "name": "Pendulum (Expanded Edition)",
+        "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 226600,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
+      "duration_ms": 160133,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -91,18 +91,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Pendulum (Expanded Edition)",
-        "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 160133,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
+      "duration_ms": 226600,
+      "name": "Night Changes",
+      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -223,18 +223,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -255,18 +255,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
       "artists": [
         {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 183306,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -815,6 +799,38 @@
       "duration_ms": 188986,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -871,22 +887,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "California 37",
         "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
       },
@@ -927,6 +927,22 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "In My Own Words",
+        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "So Sick",
+      "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 248413,
       "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "In My Own Words",
-        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "So Sick",
-      "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Baby Now That I've Found You",
         "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 289160,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Four Tops Second Album",
         "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 160280,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Hello, I Must Be Going! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "You Can't Hurry Love - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 186826,
       "name": "Brandy (You're a Fine Girl)",
       "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Hello, I Must Be Going! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "You Can't Hurry Love - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 212253,
       "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "Waterloo",
         "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 281231,
-      "name": "My Sweet Lord (2014 Remaster)",
-      "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Where the Light Is",
         "url": "https://open.spotify.com/album/5nX3zwIAgHttSudEHLTsAW"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 158947,
       "name": "Sunday Best",
       "url": "https://open.spotify.com/track/1qYKWcEOrh2tM8PlgIm8K1"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 281231,
+      "name": "My Sweet Lord (2014 Remaster)",
+      "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1807,18 +1807,34 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 197146,
-      "name": "December, 1963 (Oh What a Night!)",
-      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+      "duration_ms": 201693,
+      "name": "Any Way You Want It",
+      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Dancing in the Moonlight",
+        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
+      },
+      "artists": [
+        {
+          "name": "King Harvest",
+          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1839,34 +1855,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Any Way You Want It",
-      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
+      "duration_ms": 197146,
+      "name": "December, 1963 (Oh What a Night!)",
+      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Dancing in the Moonlight",
-        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
       "artists": [
         {
-          "name": "King Harvest",
-          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "As I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 253813,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 324422,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "U Remind Me",
-      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "You Know I'm No Good",
+      "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 257186,
-      "name": "You Know I'm No Good",
-      "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
+      "duration_ms": 266893,
+      "name": "U Remind Me",
+      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Tears Dry On Their Own",
+      "url": "https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
       },
@@ -2323,22 +2339,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 186440,
-      "name": "Tears Dry On Their Own",
-      "url": "https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc"
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 170173,
       "name": "Take The Money And Run",
       "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2779,22 +2779,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -2859,6 +2843,22 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "Soul Provider",
         "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
       },
@@ -2871,6 +2871,22 @@
       "duration_ms": 255666,
       "name": "How Am I Supposed to Live Without You",
       "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2907,22 +2923,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Finest",
         "url": "https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM"
       },
@@ -2935,6 +2935,22 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2967,22 +2983,6 @@
       "duration_ms": 215506,
       "name": "Can't Fight The Moonlight",
       "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -3087,22 +3087,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
       },
@@ -3131,6 +3115,22 @@
       "duration_ms": 270720,
       "name": "Dancing On The Ceiling",
       "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -3215,34 +3215,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Only the Good Die Young",
-      "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 448720,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -3263,6 +3247,38 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 448720,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Only the Good Die Young",
+      "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "KC & the Sunshine Band",
         "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
       },
@@ -3279,34 +3295,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
       "artists": [
         {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+      "duration_ms": 221093,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
     }
   ],
   "unique_name": "Family Glue",

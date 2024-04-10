@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869 likes - 118 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,871 likes - 118 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 7 | [10:35](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:52 |
 | 8 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
 | 9 | [Cover Me In Sunshine](https://open.spotify.com/track/0UKUfxIkDAMZz7hMdiVX3m) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [All I Know So Far: Setlist](https://open.spotify.com/album/061vVdNVxwouz0INdQeOkn) | 2:18 |
-| 10 | [Graveyard](https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:01 |
-| 11 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
+| 10 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
+| 11 | [Graveyard](https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:01 |
 | 12 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 13 | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/track/5fdbH2X0eyH3T6lBh2ZtVU) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Nu King](https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU) | 2:33 |
 | 14 | [Undrunk](https://open.spotify.com/track/1Pj5oOFzLYELyyeh1IYRK0) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:03 |
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 52 | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/track/50I4Px0ip8mYOT2TwUZT8k) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/album/6ESCsWmTref0L1BpRlOUQJ) | 2:52 |
 | 53 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
 | 54 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
-| 55 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 |
-| 56 | [Drown](https://open.spotify.com/track/5P2VkMhz1Rod5OAbxsplgr) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:20 |
+| 55 | [Drown](https://open.spotify.com/track/5P2VkMhz1Rod5OAbxsplgr) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:20 |
+| 56 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 |
 | 57 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 |
 | 58 | [scared of my guitar](https://open.spotify.com/track/7JqH46zlr7XV7vMBt4slE6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 4:23 |
 | 59 | [Open My Mouth](https://open.spotify.com/track/4LmNvlS526vuPkPum7ap4A) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi \(Deluxe\)](https://open.spotify.com/album/0FOPaNxxRvboekbBtVfNd0) | 2:35 |
 | 60 | [STUPID BIG TEETH](https://open.spotify.com/track/44ESvGuO5spXkHDUNQcHyu) | [EMMY](https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M) | [STUPID BIG TEETH](https://open.spotify.com/album/1vj4JsdkXZVXloB6opcYWX) | 2:50 |
 | 61 | [Strangers](https://open.spotify.com/track/0X5QlzgZD3UanxR4MIXb4f) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:04 |
-| 62 | [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 |
-| 63 | [Save My Life](https://open.spotify.com/track/1e9jtpVUszajrfKAJKPvCS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:57 |
+| 62 | [Save My Life](https://open.spotify.com/track/1e9jtpVUszajrfKAJKPvCS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:57 |
+| 63 | [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 |
 | 64 | [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 |
 | 65 | [is it new years yet?](https://open.spotify.com/track/48xGcNwekbGcux5rIjKPQM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:38 |
 | 66 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 117 | [Unsatisfied](https://open.spotify.com/track/51lD9CXjQZlG3GwRRw1MLl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:39 |
 | 118 | [All The Time](https://open.spotify.com/track/3t4RGPHFVjFv24e81KEZ9r) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:10 |
 
-Snapshot ID: `Mjg1NDM4MTAsMDAwMDAwMDBjMmRjMzA0YzVmZmNiMjM0OTBhMmU0YWRjNjFjY2UwNw==`
+Snapshot ID: `Mjg1NDUyNTAsMDAwMDAwMDA2MzYwYjE1MzM0MTU2ZDZkYzVlNTFhN2Y4N2YxN2VlMg==`

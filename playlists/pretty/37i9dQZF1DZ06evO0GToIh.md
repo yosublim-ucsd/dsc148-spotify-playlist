@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,879 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,045 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 20 | [Alguien Me Espera en Madrid](https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 2:55 |
 | 21 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
 | 22 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
-| 23 | [Me Aventé](https://open.spotify.com/track/6DpHzl57bEwsmVa4sbwb1m) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Aventé](https://open.spotify.com/album/2FdUhksLRgWdkZoYKokHuf) | 2:55 |
-| 24 | [Sueño Güajiro](https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
+| 23 | [Sueño Güajiro](https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
+| 24 | [Me Aventé](https://open.spotify.com/track/6DpHzl57bEwsmVa4sbwb1m) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Aventé](https://open.spotify.com/album/2FdUhksLRgWdkZoYKokHuf) | 2:55 |
 | 25 | [No Sabía Cuánto](https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [No Sabía Cuánto](https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ) | 2:45 |
 | 26 | [LMV](https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:30 |
 | 27 | [Mi Recaída en Los Excesos](https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mi Recaída en Los Excesos](https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9) | 3:03 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 40 | [MX \- MAD](https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:42 |
 | 41 | [¿Cómo Se Supera?](https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [¿Cómo Se Supera?](https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF) | 3:23 |
 | 42 | [Me Rendí](https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Me Rendí](https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6) | 3:40 |
-| 43 | [Una Noche En Culiacán](https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Una Noche En Culiacán](https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s) | 2:53 |
-| 44 | [Simplemente Amigos](https://open.spotify.com/track/56NULn2XHpZwU2YJQ6OAbm) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:24 |
+| 43 | [Simplemente Amigos](https://open.spotify.com/track/56NULn2XHpZwU2YJQ6OAbm) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:24 |
+| 44 | [Una Noche En Culiacán](https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Una Noche En Culiacán](https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s) | 2:53 |
 | 45 | [Amor Clandestino](https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Amor Clandestino](https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA) | 3:46 |
 | 46 | [Aunque No Te Pueda Ver](https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Aunque No Te Pueda Ver](https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0) | 2:48 |
-| 47 | [Ni Volviendo a Nacer](https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Ni Volviendo a Nacer](https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W) | 2:46 |
-| 48 | [Soy De La Calle \- En Vivo](https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:04 |
+| 47 | [Soy De La Calle \- En Vivo](https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:04 |
+| 48 | [Ni Volviendo a Nacer](https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Ni Volviendo a Nacer](https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W) | 2:46 |
 | 49 | [Te Voy A Encontrar](https://open.spotify.com/track/1yBAIwiXhSigAMwLKAbU4S) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Voy A Encontrar](https://open.spotify.com/album/69mw22eA0ItFjVDk3tAtdQ) | 3:44 |
 | 50 | [Fuiste Tú](https://open.spotify.com/track/5TLaDb4hlqNnZ7W5pSXZLY) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Fuiste Tú](https://open.spotify.com/album/2hM3ImGFj6hJtZi4khjc9w) | 4:30 |
 
-Snapshot ID: `MCw0Y2FlZWFhZDk2NWQ1ZmFmNGQzMGRjNDgzMzYxNTk4ZjNkNGFhYzdj`
+Snapshot ID: `MCw4YWY1NjhjYTIwZjk2MDhlNmM5OTQxNDliYTc2ZDFkMDYwZGQ3ZDFm`

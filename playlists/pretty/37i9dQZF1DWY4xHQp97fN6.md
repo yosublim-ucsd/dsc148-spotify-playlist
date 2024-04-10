@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,700,992 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,701,442 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 22 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
 | 23 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 |
 | 24 | [Ice Attack](https://open.spotify.com/track/70ToiXlzl8N1EgfC07ZcZE) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:19 |
-| 25 | [POINT ME TO IT \(feat\. Lil Yachty, Camo!\)](https://open.spotify.com/track/594MueE2n17NeaZYiGdhYP) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo](https://open.spotify.com/artist/2o2AdpYle5NrFYEU7AoMOe) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:14 |
+| 25 | [POINT ME TO IT \(feat\. Lil Yachty, Camo!\)](https://open.spotify.com/track/594MueE2n17NeaZYiGdhYP) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:14 |
 | 26 | [Talkin In Screw \(feat\. That Mexican OT\)](https://open.spotify.com/track/33spN2LidBTga7MLg9IQgD) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Talkin In Screw \(feat\. That Mexican OT\)](https://open.spotify.com/album/5PSkPNfuuLjweXMuDt72KA) | 3:41 |
 | 27 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 |
 | 28 | [FTCU](https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 99 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 |
 | 100 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 |
 
-Snapshot ID: `MCwwYzQwYmE2Njg0MjBmMjEwNjBhYmViMTYxNWE3ZDQ1YmZkMzdmM2Fk`
+Snapshot ID: `MCw1YTcyMWE4YTU1NmE4ZTlkM2RkYjI4Yzg0ODI4M2JiZjMxNjFiOTk5`

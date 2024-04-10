@@ -4,7 +4,7 @@
 
 > Schlechte Laune? Drück den Play Button!
 
-145 songs - 7 hr 2 min
+146 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2023-07-21 |  |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2023-07-21 |  |
 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 | 2023-07-21 | 2023-08-29 |
+| [ALL WE GOT](https://open.spotify.com/track/5LWmVBXWFwspwJ77mecPVN) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [ALL WE GOT](https://open.spotify.com/album/44hrwklx8fo4sus11mpV30) | 2:16 | 2024-04-04 |  |
 | [Alright \(feat\. KIDDO\)](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Alright \(feat\. KIDDO\)](https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI) | 2:49 | 2023-09-29 | 2023-10-20 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 | 2023-07-21 |  |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/7feKoS4dc8ZBxQq9ZH5rb2) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 3:07 | 2023-12-19 | 2024-01-04 |
@@ -97,7 +98,7 @@
 | [Manila](https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Manila](https://open.spotify.com/album/04G5svGohksmXulzf6BbK3) | 2:24 | 2023-09-15 | 2024-01-23 |
 | [Maybe You’re The Problem](https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:10 | 2024-03-06 |  |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2023-09-15 | 2024-03-07 |
-| [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2024-02-20 |  |
+| [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2024-02-20 | 2024-04-10 |
 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-10-20 | 2023-11-18 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-03 |  |
 | [Mädchen auf dem Pferd](https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Octavian](https://open.spotify.com/artist/0rKRcoCpKA2jLHuIXXn80i), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp) | [Mädchen auf dem Pferd](https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz) | 2:37 | 2023-09-08 |  |

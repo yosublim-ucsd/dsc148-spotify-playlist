@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 647268,
+  "num_followers": 647356,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2YyNDUzMWI2M2M0YWY1ZWUyOTcyNDIzZjdlZjgzNGY3MjhlZWRh",
+  "snapshot_id": "MCwzOTBjZWFiODg3MmQ3NDEzYTE2YWQ1MmE4OTg1OWVkMWQ2MjBjMzAx",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 151666,
-      "name": "Twentieth Century Fox",
-      "url": "https://open.spotify.com/track/7mc2TP4Vzuyw2vNf1bLW9f"
+      "duration_ms": 212426,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+        "name": "Strange Nights of Stone",
+        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 155493,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R"
+      "duration_ms": 30893,
+      "name": "Yachting (Hyper)",
+      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Nights of Stone",
-        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 30893,
-      "name": "Yachting (Hyper)",
-      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
+      "duration_ms": 155493,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
       "duration_ms": 184400,
       "name": "An American Prayer",
       "url": "https://open.spotify.com/track/2VDkE9sdVpQAgEqH5fvTMV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "Tell All the People",
-      "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Tell All the People",
+      "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "An American Prayer",
         "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 63773,
       "name": "Bird of Prey",
       "url": "https://open.spotify.com/track/0psPuObi7UupQnXjaex39e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 146026,
-      "name": "Runnin' Blue",
-      "url": "https://open.spotify.com/track/0y2Vz9T2PImD6YUdMq9Ebl"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 146026,
+      "name": "Runnin' Blue",
+      "url": "https://open.spotify.com/track/0y2Vz9T2PImD6YUdMq9Ebl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "An American Prayer",
         "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 175826,
-      "name": "Wishful Sinful",
-      "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Soft Parade (50th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0MuuO7q58HbGU3qUjICucE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 39229,
       "name": "I Am Troubled - 2019 Remaster",
       "url": "https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 175826,
+      "name": "Wishful Sinful",
+      "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
     },
     {
       "added_at": null,

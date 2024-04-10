@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,313 likes - 65 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,366 likes - 65 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
 | 65 | [Cry Me A River](https://open.spotify.com/track/1LbYEPf6Qvjxx3adcMUtW5) | [The Steampacket](https://open.spotify.com/artist/5sPaD3cDvvV5gzjWmZCOr4) | [The First Super Group](https://open.spotify.com/album/7CtD9yd4joJ2EZOwYp4aE6) | 2:46 |
 
-Snapshot ID: `MCw5YTYyYmZhZWFjMDBmMDM1Y2RiMmZlMTVhN2YzOGFmYmQyYTM4Y2Yw`
+Snapshot ID: `MCwyZjMwNGUwNzYwMjEwNjg3MDE3MzVlNWFmODJiNDE0M2MzMzFhZTRh`

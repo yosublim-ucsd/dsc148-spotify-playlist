@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-253 songs - 16 hr 23 min
+254 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-11 | 2023-08-23 |
 | [Girl from Ipanema](https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW) | [Jonny Blu](https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw) | [The Best of Blu](https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT) | 2:50 | 2021-12-21 |  |
 | [Hallelujah](https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 6:20 | 2022-11-10 |  |
+| [Hands Off](https://open.spotify.com/track/0g1JDkIaDX3xGAEdZ63XTe) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stealing Moments](https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt) | 4:23 | 2024-03-20 |  |
 | [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 | 2024-02-09 | 2024-03-30 |
 | [Harvest Moon](https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Fictions](https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3) | 3:05 | 2021-12-21 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:34 | 2021-12-21 | 2022-06-01 |
@@ -254,7 +255,7 @@
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2021-12-21 | 2023-08-19 |
 | [You Are My Sunshine](https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Yours](https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM) | 3:34 | 2021-12-21 |  |
 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 | 2023-08-22 |  |
-| [You Go To My Head](https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh) | [Adonis Rose](https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y), [Ryan Hanseler](https://open.spotify.com/artist/524YAzKMvMUURzW34Gtetk), [Lex Warshawsky](https://open.spotify.com/artist/4w8FWjfDaLaHz37ICgCcHV) | [For All We Know](https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP) | 7:24 | 2024-03-20 |  |
+| [You Go To My Head](https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh) | [Adonis Rose](https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y), [Ryan Hanseler](https://open.spotify.com/artist/524YAzKMvMUURzW34Gtetk), [Lex Warshawsky](https://open.spotify.com/artist/4w8FWjfDaLaHz37ICgCcHV) | [For All We Know](https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP) | 7:24 | 2024-03-20 | 2024-04-10 |
 | [You Make Me Feel so Young](https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 4:08 | 2021-12-21 |  |
 | [You Never Ask \- from 'Madame Sean Connery'](https://open.spotify.com/track/6UZATdF1FiuNheMPu5K14z) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [You Never Ask \(from 'Madame Sean Connery'\)](https://open.spotify.com/album/3L0HHKhSW7fAN0jjqOsOVi) | 4:05 | 2022-11-10 | 2022-12-03 |
 | [You're Beautiful](https://open.spotify.com/track/0Wt0LiQPwDLEu6d1iH4b1k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:12 | 2021-12-21 | 2022-03-16 |

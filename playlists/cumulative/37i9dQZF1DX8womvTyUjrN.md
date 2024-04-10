@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Nsqk
 
-620 songs - 1 day 7 hr 8 min
+621 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Conquistar El Planeta](https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Conquistar El Planeta](https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd) | 2:43 | 2023-03-03 | 2023-07-22 |
 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 | 2022-04-01 | 2022-05-07 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 |  |
+| [Contravía](https://open.spotify.com/track/0RF0vTHsseW7qa0hO4Nlac) | [Alessandra Aguirre](https://open.spotify.com/artist/0m4SQNU6NyIJxjsSQRGfpB) | [Contravía](https://open.spotify.com/album/21IAal1ql6WvdscCoi3cmx) | 3:00 | 2024-04-09 |  |
 | [Cora Frío](https://open.spotify.com/track/02St1isK2dC8LVWn8BBDoY) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Cora Frío](https://open.spotify.com/album/5NfVkHKItmD5GfGmTSwy9e) | 2:44 | 2024-02-02 |  |
 | [CORAZONES ROTOS](https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [CORAZONES ROTOS](https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4) | 3:50 | 2023-01-06 | 2023-04-15 |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-03-24 | 2023-07-22 |

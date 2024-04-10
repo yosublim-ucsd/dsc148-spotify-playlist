@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Ajebo Hustelrs
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,212 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,279 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 61 | [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 |
 | 62 | [No Wam](https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [No Wam](https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE) | 3:03 |
 | 63 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
-| 64 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 |
-| 65 | [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 |
+| 64 | [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 |
+| 65 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 |
 | 66 | [Will Be](https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS) | [Michealz](https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB) | [Will Be](https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R) | 3:55 |
 | 67 | [In Charge](https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:25 |
-| 68 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 |
-| 69 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 |
-| 70 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 |
+| 68 | [Personally](https://open.spotify.com/track/4AnvyLTX8ZAe3LVGrE7h8h) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [Personally](https://open.spotify.com/album/0uiaL4veJ9NbbUbVjZJtIO) | 2:09 |
+| 69 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 |
+| 70 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 
-Snapshot ID: `MCw3NzViZDBiYTdlZjVlYzA5NjM4M2FlYzdiYmMxMTQ4MDIzOWYzZDE1`
+Snapshot ID: `MCw5Y2EzNjhiZTFjZGQ3ZTI2ODI1MGE3ODJiMDhjYzBkYjcxZTliMWVj`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Aqua",
+        "url": "https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196840,
+      "name": "Aqua",
+      "url": "https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU"
+    },
+    {
+      "album": {
         "name": "Over the Rainbow",
         "url": "https://open.spotify.com/album/550OQP4Yq1H4UQCW2WrLk0"
       },

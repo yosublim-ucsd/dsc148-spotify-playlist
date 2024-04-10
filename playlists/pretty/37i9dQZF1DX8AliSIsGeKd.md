@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Boris Brejcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,117 likes - 89 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,451 likes - 89 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 74 | [Remedy](https://open.spotify.com/track/0oI6klVUYygTlvjB9GQ24q) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Remedy](https://open.spotify.com/album/5b3EIYM6fSPHOsyaJoM6Cv) | 6:11 |
 | 75 | [Focus](https://open.spotify.com/track/5BqoenxBDt7GS31nB7ONfi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Focus](https://open.spotify.com/album/2hx11bniHH12W8UZihSMov) | 3:46 |
 | 76 | [Running](https://open.spotify.com/track/4zw3xwoXdGw50VKlHGDF6H) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland / Running](https://open.spotify.com/album/3mR3Wi3c4sI64d1rkKllEL) | 5:03 |
-| 77 | [Walk the talk](https://open.spotify.com/track/43G2TvjoDnYRQdonTkJmas) | [Martin Eyerer](https://open.spotify.com/artist/6qx8HhSNjrDvOV5CTjGr88) | [Walk the talk](https://open.spotify.com/album/3O8zj2eV1AmBZK6KfvO3Rk) | 6:40 |
+| 77 | [Walk The Talk](https://open.spotify.com/track/43G2TvjoDnYRQdonTkJmas) | [Martin Eyerer](https://open.spotify.com/artist/6qx8HhSNjrDvOV5CTjGr88) | [Walk The Talk](https://open.spotify.com/album/3O8zj2eV1AmBZK6KfvO3Rk) | 6:40 |
 | 78 | [Frenesí](https://open.spotify.com/track/0r0OpwCO2KFHy8GqgNlofz) | [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0), [Panko](https://open.spotify.com/artist/4IymJSANhLBbJ6HTfPoyJ2) | [Frenesí](https://open.spotify.com/album/1n2NCxyZHWpp0pS0USf5Su) | 5:04 |
 | 79 | [Moonbow](https://open.spotify.com/track/1G1CnOw2l7BIXLLzKhpUNF) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Moonbow / Hart Plaza Vibes](https://open.spotify.com/album/2bo6XPoehNg1ZCwBuIM0uQ) | 3:06 |
 | 80 | [My Mind](https://open.spotify.com/track/4NOtgbK40lMxjCcP4uutLA) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Da Fokin](https://open.spotify.com/artist/1QnUMgcOJJ82TZZdUhVWJI) | [My Mind](https://open.spotify.com/album/1XTGIirKPFy568I2q9KVsM) | 2:59 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [The Experiment](https://open.spotify.com/track/5ZfFhj4SgsajSJrj7jiz3Q) | [The Checkup](https://open.spotify.com/artist/2W6wcKjaQ6LbOAEOvGnTwv), [DJ Merci](https://open.spotify.com/artist/0aWG9QV2R47xsBMYaDSaPj) | [The Experiment](https://open.spotify.com/album/2VXwNRNOuFKKQJAGdyhCEB) | 7:44 |
 | 89 | [Halo](https://open.spotify.com/track/15DLP2HxLI72Nee7EV6zFF) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Halo](https://open.spotify.com/album/3ID2tzqv0d5cDjv7CWxzFl) | 3:56 |
 
-Snapshot ID: `MCxjOWU2MmRhZTFhZGYwMjE0NmRjNmZkODc3ZGM1OWY2YTI3MzlmMDMw`
+Snapshot ID: `MCxkMzlhY2UyZmM1MTE4NGJjZTg0NTUzMGMzM2UzMGUwMzg2ZmMwYjM4`

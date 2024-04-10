@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hay tamales! \u00a1Tamales calientitos! Verdes, rojos, de dulce, de mole, \u00a1y hasta oaxaque\u00f1os!",
-  "num_followers": 87213,
+  "num_followers": 87240,
   "original_name": "La Tamalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDBkZWVkZjdmMjBmNjEzZjNkODkxMzZhY2UyZjVhN2EyZTllOGM4",
+  "snapshot_id": "MCw1YjhlYWRjYzg3MWI5NjVjMzExYTkwMDBhZmQ5ZmJhNjZlZjdhYWM1",
   "tracks": [
     {
       "added_at": "2023-11-10 17:55:41",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Belleza De Cantina",
-      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -267,22 +251,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "El Vals Del Olvido",
-      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 192313,
       "name": "M\u00f3naco",
       "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "El Vals Del Olvido",
+      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Belleza De Cantina",
+      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "La Historia... Los \u00c9xitos",
         "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 195895,
       "name": "Cabron Yo Puedo",
       "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
         "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 226346,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "El Milagro Argentino",
         "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "El Primer Instinto",
-        "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
-      },
-      "artists": [
-        {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 152186,
       "name": "Es Que Me Gustas - En Vivo",
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "El Primer Instinto",
+        "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
+      },
+      "artists": [
+        {
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Mystic Love",
-        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Repeat After Me",
         "url": "https://open.spotify.com/album/0ak3Koxz3InlEVLwCnMC6E"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 185826,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Mystic Love",
+        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Triste canci\u00f3n",
-      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 207226,
       "name": "Eres Mi Droga",
       "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 342520,
+      "name": "Triste canci\u00f3n",
+      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Los Caminos De La Vida",
-        "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
-      },
-      "artists": [
-        {
-          "name": "La Tropa Vallenata",
-          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
-        }
-      ],
-      "duration_ms": 291133,
-      "name": "Los Caminos De La Vida",
-      "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Compa\u00f1eros Musicales",
         "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 213720,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Los Caminos De La Vida",
+        "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
+      },
+      "artists": [
+        {
+          "name": "La Tropa Vallenata",
+          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
+        }
+      ],
+      "duration_ms": 291133,
+      "name": "Los Caminos De La Vida",
+      "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 287896,
-      "name": "En Mi Escritorio (La Carta)",
-      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24"
       },
@@ -1787,18 +1771,18 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
       "artists": [
         {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
         }
       ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+      "duration_ms": 287896,
+      "name": "En Mi Escritorio (La Carta)",
+      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -1815,6 +1799,22 @@
       "duration_ms": 272640,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "The Return of El Santo",
-        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
-      },
-      "artists": [
-        {
-          "name": "King Chango",
-          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
-        }
-      ],
-      "duration_ms": 287013,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 224826,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "The Return of El Santo",
+        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
+      },
+      "artists": [
+        {
+          "name": "King Chango",
+          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
+        }
+      ],
+      "duration_ms": 287013,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
     },
     {
       "added_at": "2023-11-10 17:55:41",

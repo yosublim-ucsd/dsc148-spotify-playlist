@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Eva Snyder
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,113 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,127 likes - 65 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 53 | [Different](https://open.spotify.com/track/1KfXuX55mKi7dJmNhDlaW3) | [Landan Ash](https://open.spotify.com/artist/6qhb8OD7uR2pIteZ1FfroC) | [Different](https://open.spotify.com/album/7Jm1oRYt9j8kD7tMdDB19a) | 4:05 |
 | 54 | [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 |
 | 55 | [If You'll Be Mine](https://open.spotify.com/track/7zU6Wxahb3l4ZOz4V0RljM) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [If You'll Be Mine](https://open.spotify.com/album/2hWRvVLlBOGkTVfB776DaF) | 2:51 |
-| 56 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 |
+| 56 | [Looking For](https://open.spotify.com/track/2BFAQKgIqQSPNXuDw08C83) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:06 |
 | 57 | [Isn't It Obvious](https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Isn't It Obvious](https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v) | 2:38 |
 | 58 | [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 |
 | 59 | [Like A Record](https://open.spotify.com/track/3E4iFktZ9KH4dzmdrkuRBs) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Like A Record](https://open.spotify.com/album/0hXqrUtkjY8pMlWdlR744M) | 2:45 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 64 | [oh my god i’m happy what the fuck](https://open.spotify.com/track/0nELcTlKKUPt2TvC6xpjQc) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:03 |
 | 65 | [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 |
 
-Snapshot ID: `MCwzY2Q0Y2Q1N2FlMDljZTI2NjYyYmI5ZTNlMjdjZGVjMTRkZjBmZGUx`
+Snapshot ID: `MCwxNWQ2MzM0NTg3NjNjMjQ3MTBkNzllMDZlYzhiNWE3NzZjYjEzOTU4`

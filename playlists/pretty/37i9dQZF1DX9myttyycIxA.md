@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Bnny
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,969 likes - 105 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,978 likes - 105 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 104 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 |
 | 105 | [Tin Man](https://open.spotify.com/track/5W6KtuTeceMUqu7zW4JNdi) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:11 |
 
-Snapshot ID: `MCw3YTY5ODI4Yzk4M2FjNThlY2FkMjk4YjYwOTM2MDZkZjNjZDVkZmQy`
+Snapshot ID: `MCwzOGE4ZmJlYTZjZjQzNzZhNGIwNDQ4OWIyMjRiM2Q4YzhiNDRiZmQ5`

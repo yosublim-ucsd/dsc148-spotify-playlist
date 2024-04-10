@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 118017,
+  "2024-04-10": 118032,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Uruguay.",
   "name": "Top 50 - Uruguay",
@@ -3941,6 +3941,24 @@
       "duration_ms": 146240,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+    },
+    {
+      "album": {
+        "name": "Deja el guille",
+        "url": "https://open.spotify.com/album/0sX77SyKS1r0wEw72XE2gi"
+      },
+      "artists": [
+        {
+          "name": "Betone",
+          "url": "https://open.spotify.com/artist/633I0vj981muhXRC2xFZcQ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Deja el guille",
+      "url": "https://open.spotify.com/track/3xkSJ96WiMbbOgTyQcDxHd"
     },
     {
       "album": {
@@ -8197,7 +8215,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"

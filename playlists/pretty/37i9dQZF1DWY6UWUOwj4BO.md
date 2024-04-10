@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,788 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,858 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 |
 | 50 | [Lonely \(with benny blanco\) \- Acoustic](https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\) \[Main + Acoustic\]](https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH) | 2:35 |
 
-Snapshot ID: `MCw1MDMxOTQ1NDg3NjQ0NGU5YjMwZTYxZTRhMWY3ZTVjMzY2MWM1OWQw`
+Snapshot ID: `MCxmMzRkZGI4MmE3NmI2ZWU3MTU2MTg1Mjg0MWFlNWI1N2ZkYThlOWM3`

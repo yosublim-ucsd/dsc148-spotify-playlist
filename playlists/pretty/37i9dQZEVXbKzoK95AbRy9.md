@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,178 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,243 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Não Vou Namorar](https://open.spotify.com/track/027ielmg4mNR1p1Ds3Mvgh) | [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [Mc Dudu Sk](https://open.spotify.com/artist/1CKLOLezvcRuPRzOiGvxS1), [MC TH DA SERRA](https://open.spotify.com/artist/4OKS4k4lBy2KOeftVHJDXu), [DALÃMA](https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6) | [Não Vou Namorar](https://open.spotify.com/album/6cxPIxP5f3LBtDcTzz9YhV) | 2:42 |
 | 50 | [PEGA ESCANDALOSO](https://open.spotify.com/track/0ODlZu2uJ13I29NfFJJVir) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [PEGA ESCANDALOSO](https://open.spotify.com/album/04zYU6BO0y6Tz9rkmg658x) | 2:37 |
 
-Snapshot ID: `NzY1OTQwODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY2MDI3MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

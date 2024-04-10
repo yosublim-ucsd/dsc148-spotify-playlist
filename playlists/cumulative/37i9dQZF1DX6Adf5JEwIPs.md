@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: LEGADO 7 y Codiciado
 
-4,763 songs - 10 day 7 hr 57 min
+4,764 songs - 10 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [Bandera De Mi Apá](https://open.spotify.com/track/7mCttx5YbOEopPSEkdrpj8) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [Bandera De Mi Apá](https://open.spotify.com/album/5gvYcER7tV1RQJyINJa6vU) | 2:46 | 2023-04-28 | 2023-05-06 |
 | [Bandida](https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2) | [Bandida](https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O) | 2:59 | 2024-02-23 | 2024-03-09 |
 | [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 | 2024-01-26 | 2024-02-10 |
-| [Bandido de Amores](https://open.spotify.com/track/7gHoeow1Cxlb2l7m4klYjM) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/2ttpwARIej8YdDGj6Z9I1P) | 3:03 | 2024-04-05 |  |
+| [Bandido de Amores](https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:03 | 2024-04-05 |  |
+| [Bandido de Amores](https://open.spotify.com/track/7gHoeow1Cxlb2l7m4klYjM) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/2ttpwARIej8YdDGj6Z9I1P) | 3:03 | 2024-04-05 | 2024-04-10 |
 | [BANDIDOS](https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:50 | 2022-09-30 | 2022-10-08 |
 | [Barba De Herencia](https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Barba De Herencia](https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE) | 3:24 | 2023-02-24 | 2023-03-04 |
 | [Barbarino](https://open.spotify.com/track/2amcUrUqASt6CLJ0z62Us2) | [Jorge Santacruz Y Su Grupo Quinto Elemento](https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ) | [Barbarino](https://open.spotify.com/album/2oGaNSWegYAFYDOUp350XF) | 3:03 | 2022-06-24 | 2022-07-02 |

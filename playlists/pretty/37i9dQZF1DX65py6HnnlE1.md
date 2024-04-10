@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,828 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,007 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 2 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 |
 | 3 | [Corazón Sin Cara](https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:31 |
 | 4 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
-| 5 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
-| 6 | [Te Extraño \- Bachata Version](https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:32 |
+| 5 | [Te Extraño \- Bachata Version](https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:32 |
+| 6 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
 | 7 | [El verdadero amor perdona \- dueto con Prince Royce](https://open.spotify.com/track/3Z3ZUu41QYobvrKr494Vjs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Drama Y Luz Edición Deluxe](https://open.spotify.com/album/6JXg4yfjaH0JIZBofuVS2u) | 3:58 |
 | 8 | [Que Vuelva](https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Corazón Duro](https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB) | 4:47 |
 | 9 | [Darte un Beso](https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:26 |
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 32 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 |
 | 33 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
 | 34 | [Shorty, Shorty](https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 2:54 |
-| 35 | [Siento Que Te Quiero](https://open.spotify.com/track/2w9o0Yw1XYF3mmXMS82Vyp) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Mi Liberé](https://open.spotify.com/album/2XcWwRaYyfOfyLqo3gGcu4) | 5:01 |
-| 36 | [Creiste](https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Creiste](https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU) | 4:17 |
+| 35 | [Creiste](https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Creiste](https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU) | 4:17 |
+| 36 | [Siento Que Te Quiero](https://open.spotify.com/track/2w9o0Yw1XYF3mmXMS82Vyp) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Mi Liberé](https://open.spotify.com/album/2XcWwRaYyfOfyLqo3gGcu4) | 5:01 |
 | 37 | [La Hormiguita](https://open.spotify.com/track/5FNE4lOC3iU9ItMxlt5NdG) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn) | 3:04 |
 | 38 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
 | 39 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Directo Al Corazon](https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM) | 4:29 |
 | 40 | [El Hombre de Tu Vida](https://open.spotify.com/track/0r55uL83PpPjKguZMRJ0Ly) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/3kjEIFFOJpVHbi9zLxIbhC) | 4:53 |
 | 41 | [Esta Noche](https://open.spotify.com/track/5aKtF99Easewgyk5JDuJAd) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco) | 4:42 |
-| 42 | [Bailando Con El](https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Directo Al Corazon](https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh) | 3:41 |
-| 43 | [Mi Niña \- Bachata Version](https://open.spotify.com/track/3Ed337L8k9XN4Cje0mr7p6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Toromania](https://open.spotify.com/album/6W5cK4U5pzMMorZjI6pWgK) | 4:00 |
-| 44 | [Si Tú Me Dices Ven \(El Lodo\)](https://open.spotify.com/track/18jpbSZVA950uq9JiwahHQ) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Triste](https://open.spotify.com/album/6dK8zx6goVQQp4ajR5Xe5a) | 2:50 |
+| 42 | [Si Tú Me Dices Ven \(El Lodo\)](https://open.spotify.com/track/18jpbSZVA950uq9JiwahHQ) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Triste](https://open.spotify.com/album/6dK8zx6goVQQp4ajR5Xe5a) | 2:50 |
+| 43 | [Bailando Con El](https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Directo Al Corazon](https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh) | 3:41 |
+| 44 | [Mi Niña \- Bachata Version](https://open.spotify.com/track/3Ed337L8k9XN4Cje0mr7p6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Toromania](https://open.spotify.com/album/6W5cK4U5pzMMorZjI6pWgK) | 4:00 |
 | 45 | [Hoy Te VI Pasar](https://open.spotify.com/track/4Z5KC5Oai5rYP0tXWKRUZr) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Sombras de un Pasado](https://open.spotify.com/album/02aMRNTDHBY7RnmHOpj9XA) | 4:14 |
 | 46 | [Me Puedo Matar \- Remastered](https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [The First \(Remastered\)](https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR) | 4:23 |
 | 47 | [Se Te Nota](https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 99 | [Vete y Alejate de Mi](https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Vete](https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY) | 4:36 |
 | 100 | [Voy Pa 'lla](https://open.spotify.com/track/7ziYzhR5nL81mx1dEUmXEW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Chupadera](https://open.spotify.com/album/3L8jghUhYnZX453oDWD0cW) | 3:41 |
 
-Snapshot ID: `MCw0MjY3NzU4ZTlmZWFkNzBiZjIxZTg4OTY0NTBlNWNlMzg4N2I5YzI5`
+Snapshot ID: `MCxjNDRkMzE0ZWZjMWJkOGVmODA1NTZkZDkwN2VhMzBjN2E2YTY4ZGNk`

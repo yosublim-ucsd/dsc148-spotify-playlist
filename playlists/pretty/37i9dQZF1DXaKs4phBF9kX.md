@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,233 likes - 70 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,238 likes - 70 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 17 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 18 | [Rosanna](https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 5:31 |
 | 19 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
-| 20 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 |
-| 21 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
+| 20 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
+| 21 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 |
 | 22 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
 | 23 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
 | 24 | [Girls, Girls, Girls](https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8) | 4:30 |
-| 25 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 |
-| 26 | [18 and Life](https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E) | 3:49 |
+| 25 | [18 and Life](https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E) | 3:49 |
+| 26 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 |
 | 27 | [Hurts So Good](https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:38 |
 | 28 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 |
 | 29 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 61 | [Big Log \- 2006 Remaster](https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:04 |
 | 62 | [Sledgehammer \- 2012 Remaster](https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 5:11 |
 | 63 | [Emotional Rescue \- Remastered 2009](https://open.spotify.com/track/5IATbFZds3cbOx8YxuMuko) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Emotional Rescue \(2009 Re\-Mastered\)](https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB) | 5:39 |
-| 64 | [Big Love](https://open.spotify.com/track/1cWilR7SC3qyfl6emCvYf0) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:38 |
-| 65 | [Yankee Rose](https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Eat 'Em and Smile](https://open.spotify.com/album/0Ali88C44gQdI065upsgKU) | 3:54 |
+| 64 | [Yankee Rose](https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Eat 'Em and Smile](https://open.spotify.com/album/0Ali88C44gQdI065upsgKU) | 3:54 |
+| 65 | [Big Love](https://open.spotify.com/track/1cWilR7SC3qyfl6emCvYf0) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:38 |
 | 66 | [Cuts Like A Knife](https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 5:19 |
 | 67 | [Simply Irresistible](https://open.spotify.com/track/0bSr5pybJSlgG5OZH441gF) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Heavy Nova](https://open.spotify.com/album/1JvTsWrfYs2PR1PdSJXipq) | 4:15 |
 | 68 | [White Wedding \(Pts\. 1 & 2\) \- Shotgun Mix / Remastered 2001](https://open.spotify.com/track/4OYRJv1tcOEPe38Fwc7y1m) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei) | 8:25 |
 | 69 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
 | 70 | [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 |
 
-Snapshot ID: `MCw5OTk5MTQyYzZlNmZlZTIzMzg1MWE0MmM5YjA5YTQ3M2YzMmI4ODhh`
+Snapshot ID: `MCw1MzQwY2E2ODIyODM1NmIxOTc1NmY5ZDAzZDc1MTM3N2M1MDVlMjhh`

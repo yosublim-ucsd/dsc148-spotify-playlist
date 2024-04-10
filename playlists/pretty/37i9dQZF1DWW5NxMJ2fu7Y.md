@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,231 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,246 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 59 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 |
 | 60 | [Zahri](https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Zahri](https://open.spotify.com/album/3tsez1d6MZIe6QwkVfTc47) | 3:20 |
 
-Snapshot ID: `MCwyNGVmMmNjNzc5YTgxYzdjY2E1NWRkZDA4Y2QwOWIzOTU4MDk1YzRh`
+Snapshot ID: `MCwzNjNkMjQ3ZDE4NWRiYzU2NDdkOGFlMzg5YzhhNjFiOGFlM2IzYzI1`

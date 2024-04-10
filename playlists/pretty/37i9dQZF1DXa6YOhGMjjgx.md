@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. New and recent favorites\. Cover: The Mysterines
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,303 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,332 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 50 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 |
 | 51 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 |
 | 52 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 |
-| 53 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
-| 54 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
+| 53 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
+| 54 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
 | 55 | [Fortress](https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Fortress](https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH) | 3:01 |
 | 56 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 |
 | 57 | [Better Off This Way](https://open.spotify.com/track/4J0J5yU0fmbsOwF1Rophkp) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:11 |
 | 58 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 59 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
 | 60 | [Seven White Horses](https://open.spotify.com/track/43yCaDI4VvDPY85pdjInSv) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Take Back The Night](https://open.spotify.com/album/0KO8BT7pSqGZugqBiKwieo) | 3:40 |
-| 61 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
-| 62 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
+| 61 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
+| 62 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 63 | [What's The Point In Life](https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:18 |
 | 64 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 |
 | 65 | [More Than This](https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:02 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 72 | [Sweet & Sour America](https://open.spotify.com/track/59vcPuuPULBU5Conczvnuh) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Sweet & Sour America](https://open.spotify.com/album/3R8rOhhzsMZ4i18xTR3LTm) | 3:12 |
 | 73 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 |
 | 74 | [Smile](https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ) | 3:16 |
-| 75 | [Going Clear](https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present Is a Foreign Land](https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi) | 3:21 |
-| 76 | [Don't Go Dark](https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Don't Go Dark](https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex) | 3:11 |
+| 75 | [Don't Go Dark](https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Don't Go Dark](https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex) | 3:11 |
+| 76 | [Going Clear](https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present Is a Foreign Land](https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi) | 3:21 |
 | 77 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 |
 | 78 | [SAY IT](https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv) | [NEW LANGUAGE](https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL) | [SAY IT](https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH) | 2:41 |
 | 79 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 82 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 83 | [Choking](https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:07 |
 | 84 | [How Far Can You Push A Man?](https://open.spotify.com/track/0hwI2AEiMQV4M9oy99cvFa) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [A New Breed](https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e) | 4:03 |
-| 85 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:49 |
-| 86 | [If I Believed In Love](https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:25 |
-| 87 | [Teenage Lines](https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA) | [alltheprettythings](https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML) | [Teenage Lines](https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv) | 3:44 |
-| 88 | [Old Wounds](https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Old Wounds](https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5) | 5:35 |
+| 85 | [If I Believed In Love](https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:25 |
+| 86 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:49 |
+| 87 | [Old Wounds](https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Old Wounds](https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5) | 5:35 |
+| 88 | [Teenage Lines](https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA) | [alltheprettythings](https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML) | [Teenage Lines](https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv) | 3:44 |
 | 89 | [Missile Command](https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:24 |
 | 90 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 |
 | 91 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [Common Chaos](https://open.spotify.com/track/231wGywsY9is10w83qwrwC) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Common Chaos](https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo) | 2:51 |
 | 100 | [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 |
 
-Snapshot ID: `MCwzNjE0YjdkNjAwMGJiY2U0N2MyYjg5NTM5MzgwMGVkYTRkNDcyYTdm`
+Snapshot ID: `MCwyNTVhMzNiNGQwYTVkMTEwOTIwMTczNGNmNTFkYjJmMTQ5MzA2NGYz`

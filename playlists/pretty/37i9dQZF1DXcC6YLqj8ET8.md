@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,669 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,688 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 14 | [Kyojin](https://open.spotify.com/track/1mE8UXeTQrTNhQpazVccff) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Kyojin](https://open.spotify.com/album/5vwBPtwZYDVC3OBtqdkTeU) | 2:30 |
 | 15 | [End](https://open.spotify.com/track/6oT2r8c9cKa1ZrYcRuB0Xy) | [YZKN](https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy) | [End](https://open.spotify.com/album/1qQTP9rtzw3KB2JmacJzJD) | 3:04 |
 | 16 | [Hawa \(Arab Trap 8\)](https://open.spotify.com/track/1WzCTw3PIv4oWwxW57VIbW) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q), [NGM](https://open.spotify.com/artist/2VsF2NWvL9ZA1IT2Ubpmjn) | [Hawa \(Arab Trap 8\)](https://open.spotify.com/album/77tT5i4ifAjyCmt4SgDqnH) | 2:44 |
-| 17 | [Omri](https://open.spotify.com/track/33XbI355jYdBpCabA0wp6U) | [FEARSTbeats](https://open.spotify.com/artist/4MhTe1Q9Y811m4EjaTbf2w) | [Omri](https://open.spotify.com/album/56vp0qNFa0zIsdW7D2iaUL) | 3:16 |
-| 18 | [Morocco](https://open.spotify.com/track/035yjtwaCzcMskSYzIqcAA) | [Cris Taylor](https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o) | [Morocco](https://open.spotify.com/album/5K6dP7u7Gxdt1kGXexYfvD) | 2:43 |
+| 17 | [Morocco](https://open.spotify.com/track/035yjtwaCzcMskSYzIqcAA) | [Cris Taylor](https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o) | [Morocco](https://open.spotify.com/album/5K6dP7u7Gxdt1kGXexYfvD) | 2:43 |
+| 18 | [Omri](https://open.spotify.com/track/33XbI355jYdBpCabA0wp6U) | [FEARSTbeats](https://open.spotify.com/artist/4MhTe1Q9Y811m4EjaTbf2w) | [Omri](https://open.spotify.com/album/56vp0qNFa0zIsdW7D2iaUL) | 3:16 |
 | 19 | [Kobra \(feat\. Pouvoir Magique\)](https://open.spotify.com/track/6JTUikvtPRHUhcg0K3eXid) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT), [Pouvoir Magique](https://open.spotify.com/artist/6jOzYw2JWxujmMIwwiAaEA) | [Kobra \(feat\. Pouvoir Magique\)](https://open.spotify.com/album/3TOeBRsAVOjxnP2bGU5aWx) | 3:18 |
 | 20 | [Manama](https://open.spotify.com/track/2IiNgBjUpVl06PPgjhTP2x) | [URUS Squad](https://open.spotify.com/artist/2bRnKEAk11EOei6FppGcto) | [Manama](https://open.spotify.com/album/585HAjkmk1LL2ceEdzOCQm) | 2:53 |
 | 21 | [Sailor Mars](https://open.spotify.com/track/38n8scVMRubWOn1rIN2hfr) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sailor Mars](https://open.spotify.com/album/4Ql6PbVf1kgd4g22lWdgf7) | 2:32 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 45 | [Ankh](https://open.spotify.com/track/4qg5zuCvEWTeOb3ON0qLuc) | [Gagexa](https://open.spotify.com/artist/5voQQxmOq6cYSOmXBHVg1y) | [Ankh](https://open.spotify.com/album/6Sz6N6aIGSh7R4pGfmVpD3) | 3:20 |
 | 46 | [Rise](https://open.spotify.com/track/5st0Mq0TsCJw1SMQXv6ugS) | [Onur Ormen](https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL), [SVRRIC](https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E) | [Rise](https://open.spotify.com/album/7EbausJGSxGqXADTwIPdc8) | 2:17 |
 | 47 | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/track/1VDWeFIMVzEtosr7g8nlNA) | [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV), [Adrinaline](https://open.spotify.com/artist/3v3DkyxS6vk3Je2Uk1unJn), [Rasha Kamal](https://open.spotify.com/artist/5iLDAAxXFGVIrUO0l77i8X) | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/album/4aifbVzyNA4yp2ENybRQFX) | 2:57 |
-| 48 | [ALMAZAT](https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [ALMAZAT](https://open.spotify.com/album/0s8UGDaOTmxfXDi1VAsowZ) | 3:08 |
+| 48 | [Ares](https://open.spotify.com/track/4Fa8BBKeIaTxA8R4jit9Br) | [TORU](https://open.spotify.com/artist/7nKMI2etaVYFW6r9cTXKto), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Ares](https://open.spotify.com/album/2ysFk1FyyHVRDjFmN1Phu7) | 3:09 |
 | 49 | [Up](https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Up](https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW) | 2:42 |
-| 50 | [Ares](https://open.spotify.com/track/4Fa8BBKeIaTxA8R4jit9Br) | [TORU](https://open.spotify.com/artist/7nKMI2etaVYFW6r9cTXKto), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Ares](https://open.spotify.com/album/2ysFk1FyyHVRDjFmN1Phu7) | 3:09 |
+| 50 | [ALMAZAT](https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [ALMAZAT](https://open.spotify.com/album/0s8UGDaOTmxfXDi1VAsowZ) | 3:08 |
 | 51 | [Roots](https://open.spotify.com/track/5yzeZjp8PxHLaYA2T2Id2i) | [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK) | [Roots](https://open.spotify.com/album/6tFnOVf3erhYEsp5FyUwXH) | 3:42 |
 | 52 | [Desert Lord](https://open.spotify.com/track/4is2MePvKHSLOLmCEjTT0L) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Desert Lord](https://open.spotify.com/album/2v5mYReoKsPOoG5QCSTDbK) | 2:05 |
 | 53 | [Iridescent](https://open.spotify.com/track/3tSXfcyjjTBGNpioM2kROi) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Iridescent](https://open.spotify.com/album/6snWmNIcu63syKpKREGM2Q) | 2:56 |
 | 54 | [Unity](https://open.spotify.com/track/21YIVa2yIkwPXAQ7HxheUF) | [Hypersia](https://open.spotify.com/artist/0J7xP06wlFNZdFuSyev5jp), [Saman Mehmani](https://open.spotify.com/artist/37E7gpurZftsqEvqXkflz6), [Parsa Q](https://open.spotify.com/artist/3zmGD72DUHMMrySR1cnGZZ) | [Unity](https://open.spotify.com/album/62S1qNPlGk3XgbeeTFckkN) | 5:23 |
 | 55 | [Hopeless](https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV) | [Rami Eid](https://open.spotify.com/artist/4fQqnIuVrFLegT0pBmZ5fm), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [Hopeless](https://open.spotify.com/album/3fU4JzytCzFvYJ1QAaC5GS) | 7:21 |
 
-Snapshot ID: `MCxkNDMwNWRiM2QyNjYzYzBmM2VkZTBjNThiNGZlMTU3NTJkNTdiYzA1`
+Snapshot ID: `MCw0OTM1MjdhMjI1Y2RiNmNjNGVkMTJlYmE5YzRkZWQxNDgzYzBkMjc1`

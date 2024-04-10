@@ -1,12 +1,12 @@
 {
   "description": "Tremendo vacil\u00f3n. Los \u00e9xitos del merengue de todos los tiempos.",
-  "num_followers": 3668,
+  "num_followers": 3730,
   "original_name": "Radio Merengue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjkxN2M4MTliMGIzODNjNjQwYTNiZWM5NDBkYzczZjVkN2U5NGU4",
+  "snapshot_id": "MCw3NjJhODgyMTUwZWJjOWUwOTM0MTk3ZWE3ZTVlN2FhOGZhYWY0NGFl",
   "tracks": [
     {
       "added_at": "2023-09-22 04:59:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC"
       },
       "artists": [
         {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 206853,
-      "name": "Guallando",
-      "url": "https://open.spotify.com/track/0hq1gkWRT0yhcm8K5vw8wm"
+      "duration_ms": 223059,
+      "name": "A Mover la Colita",
+      "url": "https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "El Baile",
-        "url": "https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
         }
       ],
-      "duration_ms": 223059,
-      "name": "A Mover la Colita",
-      "url": "https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO"
+      "duration_ms": 206853,
+      "name": "Guallando",
+      "url": "https://open.spotify.com/track/0hq1gkWRT0yhcm8K5vw8wm"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "El Hombre Merengue",
-        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
-      },
-      "artists": [
-        {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
-        }
-      ],
-      "duration_ms": 283866,
-      "name": "Cachamba",
-      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Una Vez Mas",
         "url": "https://open.spotify.com/album/6zf45S8HREA47QE5xBqpRS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 230653,
       "name": "Una Vez Mas",
       "url": "https://open.spotify.com/track/73VnoqUKBpD14SAiMS81se"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "El Hombre Merengue",
+        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "duration_ms": 283866,
+      "name": "Cachamba",
+      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
     },
     {
       "added_at": "2023-09-22 04:59:00",

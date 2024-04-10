@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: INI",
+  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: RAMPAGE from EXILE TRIBE",
   "name": "Boys Group Japan",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 327468,
       "name": "Add Love Song",
       "url": "https://open.spotify.com/track/3Zux43tmJ0IhNonmOGsxqO"
@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "CyberHelix",
+        "url": "https://open.spotify.com/album/39LkA12lKbHhlNkv87U9u2"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "CyberHelix",
+      "url": "https://open.spotify.com/track/5U4nj0Gt9A9dIMyBQPAH6Q"
+    },
+    {
+      "album": {
         "name": "FANTASTIC ROCKET",
         "url": "https://open.spotify.com/album/1lgDUdGBXBYYWS6MtyTFT6"
       },
@@ -762,7 +780,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 188013,
       "name": "FIREWORK",
       "url": "https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 281426,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 200053,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu"
@@ -1877,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "ONE DAY",
+        "url": "https://open.spotify.com/album/0n8TRWzkuPoAbKKZXm42wy"
+      },
+      "artists": [
+        {
+          "name": "KID PHENOMENON from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234562,
+      "name": "ONE DAY",
+      "url": "https://open.spotify.com/track/6j9Viekj6TmxbUXVcbf6BJ"
+    },
+    {
+      "album": {
         "name": "Parade",
         "url": "https://open.spotify.com/album/4mRG6P1L3qX4kR2TFXlFP0"
       },
@@ -2000,7 +2036,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 184053,
       "name": "Purple Dawn",
       "url": "https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop"
@@ -2166,7 +2202,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 212895,
       "name": "Rock Out",
       "url": "https://open.spotify.com/track/5rZ9iaQdXdUekoOm3CLZ6G"
@@ -2613,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "Test Drive",
+        "url": "https://open.spotify.com/album/5sZ3aPaqUMKyC9ssgHquE9"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Test Drive",
+      "url": "https://open.spotify.com/track/5ARYBmzAgJcxs4wlQJNAuS"
+    },
+    {
+      "album": {
         "name": "THE HEAT",
         "url": "https://open.spotify.com/album/5YOqB25VvOrskAmamHvwPd"
       },
@@ -2624,7 +2678,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 176860,
       "name": "THE HEAT",
       "url": "https://open.spotify.com/track/3Dvw0juzCUC3ul6Uba3RKR"
@@ -2852,6 +2906,24 @@
       "duration_ms": 245333,
       "name": "WHITE SNOW",
       "url": "https://open.spotify.com/track/7fUSOeRqyDSapxbZHxYBCG"
+    },
+    {
+      "album": {
+        "name": "WILD & FREE",
+        "url": "https://open.spotify.com/album/2p7HCvtoxHxQePDIDaDP5C"
+      },
+      "artists": [
+        {
+          "name": "EXILE TAKAHIRO",
+          "url": "https://open.spotify.com/artist/4cW96mgPlmNlWAQyHJNzS4"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211386,
+      "name": "WILD & FREE",
+      "url": "https://open.spotify.com/track/3XPW6A3czlqpuJmfMYXeQk"
     },
     {
       "album": {
@@ -3248,6 +3320,24 @@
       "duration_ms": 207000,
       "name": "\u5b58\u5728\u8a3c\u660e",
       "url": "https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O"
+    },
+    {
+      "album": {
+        "name": "\u65c5\u7acb\u3061\u306e\u9418",
+        "url": "https://open.spotify.com/album/1daK7g4CFGbGURS9fJktDX"
+      },
+      "artists": [
+        {
+          "name": "20th Century",
+          "url": "https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281146,
+      "name": "\u65c5\u7acb\u3061\u306e\u9418",
+      "url": "https://open.spotify.com/track/6eftqGjcyB4Mfs9MoM0tdw"
     },
     {
       "album": {

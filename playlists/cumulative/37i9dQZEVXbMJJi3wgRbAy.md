@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-746 songs - 1 day 15 hr 43 min
+747 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [De Enero a Diciembre](https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Enero a Diciembre](https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl) | 2:44 | 2021-12-18 | 2022-04-28 |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-07-11 | 2021-07-18 |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2021-08-27 | 2021-08-28 |
-| [Deja el guille](https://open.spotify.com/track/3xkSJ96WiMbbOgTyQcDxHd) | [Betone](https://open.spotify.com/artist/633I0vj981muhXRC2xFZcQ) | [Deja el guille](https://open.spotify.com/album/0sX77SyKS1r0wEw72XE2gi) | 2:37 | 2024-04-08 |  |
+| [Deja el guille](https://open.spotify.com/track/3xkSJ96WiMbbOgTyQcDxHd) | [Betone](https://open.spotify.com/artist/633I0vj981muhXRC2xFZcQ) | [Deja el guille](https://open.spotify.com/album/0sX77SyKS1r0wEw72XE2gi) | 2:37 | 2024-04-08 | 2024-04-10 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-06-13 |
 | [Dejame Tranki](https://open.spotify.com/track/3STO1ZJi4EBbYCWY6qC8rv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:42 | 2021-08-22 | 2021-09-21 |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-04-19 | 2022-05-08 |
@@ -348,6 +348,7 @@
 | [Las Jordans](https://open.spotify.com/track/4eOGoAtYWRPQZ6mUwwgmuW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:24 | 2023-02-18 | 2023-03-21 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-05-29 |
 | [Latidos](https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx) | 2:09 | 2021-11-22 | 2024-01-04 |
+| [LATTE \(feat\. Maria Becerra\)](https://open.spotify.com/track/7irTyPzSyqSbeUXbYsTR5j) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 4:20 | 2024-04-09 |  |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-10-29 |
 | [Le Gustan lo' Flaites](https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC) | [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ), [Celso El Potente](https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2) | [Le Gustan lo' Flaites](https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx) | 3:03 | 2024-01-03 | 2024-03-08 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-04-22 | 2021-05-23 |

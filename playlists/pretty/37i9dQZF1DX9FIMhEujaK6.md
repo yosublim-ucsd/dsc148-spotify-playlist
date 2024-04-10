@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,294 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,381 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 27 | [Rolling Back](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back \(Durante Remix\)](https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT) | 3:58 |
 | 28 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
 | 29 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
-| 30 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 |
-| 31 | [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 |
+| 30 | [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 |
+| 31 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 |
 | 32 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
 | 33 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |
 | 34 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Is It True \- Four Tet Remix](https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Is It True \(Four Tet Remix\)](https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM) | 5:25 |
 | 50 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
 
-Snapshot ID: `MCwzMWFiNTA5ZDc0MGUxNmJhZTY0MDEwYzBjZGQyNmI3NWU4OWEyMjZm`
+Snapshot ID: `MCxlNjk0MTI4YzAzZDIzM2JjZTY0MDhlMTQ1ZGYxM2E3YTg2MmYzMGJj`

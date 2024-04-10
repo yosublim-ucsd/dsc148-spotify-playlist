@@ -4,7 +4,7 @@
 
 > Salsa, Bachata, Dembow, Reggaetón..\. Lleve su nueva rolita favorita con Chencho Corleone y Peso Pluma en portada
 
-5,576 songs - 12 day 16 hr 31 min
+5,577 songs - 12 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,8 @@
 | [Bandida](https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2) | [Bandida](https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O) | 2:59 | 2024-02-23 | 2024-03-02 |
 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 | 2022-05-13 | 2022-05-20 |
 | [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 | 2024-01-26 | 2024-02-03 |
-| [Bandido de Amores](https://open.spotify.com/track/7gHoeow1Cxlb2l7m4klYjM) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/2ttpwARIej8YdDGj6Z9I1P) | 3:03 | 2024-04-05 |  |
+| [Bandido de Amores](https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:03 | 2024-04-05 |  |
+| [Bandido de Amores](https://open.spotify.com/track/7gHoeow1Cxlb2l7m4klYjM) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/2ttpwARIej8YdDGj6Z9I1P) | 3:03 | 2024-04-05 | 2024-04-10 |
 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 | 2023-05-12 | 2023-05-20 |
 | [Bandidos](https://open.spotify.com/track/1dZkAYdCvUA4u5cMzGhRJh) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Bandidos](https://open.spotify.com/album/0EC8Sa1jYekLosZIYDlWvw) | 2:57 | 2022-04-29 | 2022-05-07 |
 | [BANDIT](https://open.spotify.com/track/4R0SPddrt2NeNPbm0iGzsX) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [HIVE](https://open.spotify.com/album/14qlU7pezYKrntRHxmYT8A) | 3:09 | 2022-06-03 | 2022-06-11 |

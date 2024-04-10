@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 346302,
+  "num_followers": 346525,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGRkOWJhZGNlNGIyODMyMjA1ZjNjOWUzYmRmMTc0MzZlNjEyMTlh",
+  "snapshot_id": "MCxmNmFiYjYwODQxMjgzMTc2YWU5M2ZiOTViMmFiNGE2NWU3MDM5NzNm",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
+        "name": "Altars Over Stages",
+        "url": "https://open.spotify.com/album/6TfLBFjK30qyZtFEBKu9NS"
       },
       "artists": [
         {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
         }
       ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
+      "duration_ms": 190264,
+      "name": "Altars Over Stages",
+      "url": "https://open.spotify.com/track/3XRoa9mZpoODgvYUqXP2zg"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Altars Over Stages",
-        "url": "https://open.spotify.com/album/6TfLBFjK30qyZtFEBKu9NS"
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
       },
       "artists": [
         {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 190264,
-      "name": "Altars Over Stages",
-      "url": "https://open.spotify.com/track/3XRoa9mZpoODgvYUqXP2zg"
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -591,18 +591,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Narrow Road",
-        "url": "https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1"
+        "name": "CAVES",
+        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
       },
       "artists": [
         {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 265911,
-      "name": "Narrow Road",
-      "url": "https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c"
+      "duration_ms": 264386,
+      "name": "Fall On Me (feat. Carly Pearce)",
+      "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -623,22 +627,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "CAVES",
-        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
+        "name": "Narrow Road",
+        "url": "https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
         }
       ],
-      "duration_ms": 264386,
-      "name": "Fall On Me (feat. Carly Pearce)",
-      "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
+      "duration_ms": 265911,
+      "name": "Narrow Road",
+      "url": "https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 199236,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Sound Mind (Studio Version)",
         "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 212093,
       "name": "Made For Heaven",
       "url": "https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 199236,
-      "name": "Heaven On Earth",
-      "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "I'm So Blessed (Aaron Cole Mix)",
-        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "I'm So Blessed - Aaron Cole Mix",
-      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Holy Forever",
         "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
@@ -915,6 +895,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "I'm So Blessed (Aaron Cole Mix)",
+        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "I'm So Blessed - Aaron Cole Mix",
+      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 210118,
       "name": "The Great Awakening",
       "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Invited",
+        "url": "https://open.spotify.com/album/1wj7dPYIb0ECjKmgZ50fZ0"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 223815,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/7y5x9ZsfnVZKd5nyL7ekqp"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -967,18 +983,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Invited",
-        "url": "https://open.spotify.com/album/1wj7dPYIb0ECjKmgZ50fZ0"
+        "name": "The Commission (Go Tell The World)",
+        "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
       },
       "artists": [
         {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Isaiah Templeton",
+          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
         }
       ],
-      "duration_ms": 223815,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/7y5x9ZsfnVZKd5nyL7ekqp"
+      "duration_ms": 245475,
+      "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
+      "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1015,22 +1035,50 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "The Commission (Go Tell The World)",
-        "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
+        "name": "No One Loves Me Like You Do (Radio Mix)",
+        "url": "https://open.spotify.com/album/4XYQrxh7QL6NsZxctVnJDK"
       },
       "artists": [
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        },
-        {
-          "name": "Isaiah Templeton",
-          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
         }
       ],
-      "duration_ms": 245475,
-      "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
-      "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
+      "duration_ms": 167207,
+      "name": "No One Loves Me Like You Do - Radio Mix",
+      "url": "https://open.spotify.com/track/0VHku8GcJIfdAC6AqQgUrm"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "ABLE",
+        "url": "https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "ABLE",
+      "url": "https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/4npiT4Jjd9rBy8sxWy7PLF"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 202879,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/2HpRHPEKz6o17RMBP0LBZT"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1051,18 +1099,50 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "ABLE",
-        "url": "https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5"
+        "name": "Let It Begin",
+        "url": "https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 221560,
-      "name": "ABLE",
-      "url": "https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq"
+      "duration_ms": 252567,
+      "name": "Let It Begin",
+      "url": "https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Friend In Jesus (Live)",
+        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 348141,
+      "name": "Friend In Jesus - Live",
+      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "All Along",
+        "url": "https://open.spotify.com/album/77WsuRa6qXxutGWSW8RxT9"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/4AQ9Yz6qxhZhlyAbWbgsdI"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1087,102 +1167,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "All Along",
-        "url": "https://open.spotify.com/album/77WsuRa6qXxutGWSW8RxT9"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "All Along",
-      "url": "https://open.spotify.com/track/4AQ9Yz6qxhZhlyAbWbgsdI"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "No One Loves Me Like You Do (Radio Mix)",
-        "url": "https://open.spotify.com/album/4XYQrxh7QL6NsZxctVnJDK"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 167207,
-      "name": "No One Loves Me Like You Do - Radio Mix",
-      "url": "https://open.spotify.com/track/0VHku8GcJIfdAC6AqQgUrm"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Friend In Jesus (Live)",
-        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 348141,
-      "name": "Friend In Jesus - Live",
-      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Let It Begin",
-        "url": "https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 252567,
-      "name": "Let It Begin",
-      "url": "https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/4npiT4Jjd9rBy8sxWy7PLF"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 202879,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/2HpRHPEKz6o17RMBP0LBZT"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 179604,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "While I Can",
         "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
       },
@@ -1199,22 +1183,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Crowns Down (Live / Deluxe)",
-        "url": "https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O"
       },
       "artists": [
         {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 448179,
-      "name": "Joy (What The World Calls Foolish) - Live",
-      "url": "https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w"
+      "duration_ms": 179604,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1239,22 +1219,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "My Tribute (To God Be The Glory)",
-        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+        "name": "Crowns Down (Live / Deluxe)",
+        "url": "https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9"
       },
       "artists": [
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
         },
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
         }
       ],
-      "duration_ms": 341986,
-      "name": "My Tribute (To God Be The Glory)",
-      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
+      "duration_ms": 448179,
+      "name": "Joy (What The World Calls Foolish) - Live",
+      "url": "https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1275,6 +1255,26 @@
       "duration_ms": 363240,
       "name": "You're Not Done",
       "url": "https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 169076,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3ps5C4H9ak7YA8L4UI13Dl"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Jesus Music",
         "url": "https://open.spotify.com/album/3kjQ9mZ8SWjp7q5USnlmG0"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 202708,
       "name": "Good Lord (feat. Katy Nichole)",
       "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 169076,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3ps5C4H9ak7YA8L4UI13Dl"
     },
     {
       "added_at": "2024-03-29 04:00:00",

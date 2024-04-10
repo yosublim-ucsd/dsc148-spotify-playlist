@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 12797,
+  "2024-04-10": 12798,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bolivia.",
   "name": "Viral 50 - Bolivia",
@@ -407,7 +407,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 66606,
       "name": "Au Au Au Au dj rj",
       "url": "https://open.spotify.com/track/7I0f441CayK2OU40ZymQym"
@@ -2533,7 +2533,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 148640,
       "name": "Love Songs - Bonus",
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
@@ -3816,6 +3816,28 @@
     },
     {
       "album": {
+        "name": "Ride Or Die (with Villano Antillano)",
+        "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184510,
+      "name": "Ride Or Die (with Villano Antillano)",
+      "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
+    },
+    {
+      "album": {
         "name": "Ritmada do Zelda",
         "url": "https://open.spotify.com/album/6nVl7Io8qZAdLy1mIpnLO6"
       },
@@ -3977,7 +3999,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -3995,7 +4017,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
@@ -4207,7 +4229,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -4575,7 +4597,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 160750,
       "name": "Un Besito M\u00e1s",
       "url": "https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z"
@@ -5109,7 +5131,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

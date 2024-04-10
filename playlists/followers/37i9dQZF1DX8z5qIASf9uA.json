@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 284389,
+  "2024-04-10": 284538,
   "date_first_scraped": "2023-02-01",
   "description": "Que me toquen el corrido de \"El Mentado\" para recordar a Ariel \ud83d\ude4f\ud83c\udffc\u2728\ud83e\udee1\ud83d\udc96 ",
   "name": "Inmortales de la M\u00fasica Mexicana",
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 233066,
       "name": "La Jugada",
       "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 210279,
       "name": "Mi Destino Fue Quererte",
       "url": "https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki"
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe"
@@ -1845,7 +1845,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 204733,
       "name": "Volver\u00e9 (Tornero)",
       "url": "https://open.spotify.com/track/3OpUzRY4MNYo3RtmNIhb8s"

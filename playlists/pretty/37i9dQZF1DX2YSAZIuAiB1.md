@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit Latin, Afrobeats, Hip\-Hop und mehr 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,884 likes - 73 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,934 likes - 73 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 72 | [Loser](https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Loser](https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu) | 3:36 |
 | 73 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
 
-Snapshot ID: `MCwxMDViNWI2NTZiYmNiY2Q2NGY3MzRkMWMxZWQ0YzQ2ZmIxMzU5NDFj`
+Snapshot ID: `MCxlMjk4NzQ3NGEyODg5YjNiMWJiMzhkNzkyYjg0MmNiNGE5NGU4OWI0`

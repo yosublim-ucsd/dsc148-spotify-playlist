@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Hot Mulligan",
-  "num_followers": 569449,
+  "num_followers": 569518,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjQ1NGU0NjVjOTU4NjI0NWVkY2JlNTk5ODRjOTFmMjgyNGY2YTU3",
+  "snapshot_id": "MCw5ZWE3NTgzZGZjNjYzYzZhNTI3Y2JmY2E3YzRiZGRjNTZlNWQ0YWY3",
   "tracks": [
     {
       "added_at": "2024-03-22 19:30:48",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "shut up & kiss me",
-        "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
-      },
-      "artists": [
-        {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "shut up & kiss me",
-      "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Alameda County Fair",
         "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 147546,
       "name": "Alameda County Fair",
       "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "shut up & kiss me",
+        "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "shut up & kiss me",
+      "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Modern Love",
-        "url": "https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 194959,
-      "name": "Modern Love",
-      "url": "https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "cherry cigarettes",
         "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
       },
@@ -771,18 +755,34 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Remember Her Like That",
-        "url": "https://open.spotify.com/album/3xNPSnUKCLjAyztiI42uF3"
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy"
       },
       "artists": [
         {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 187285,
-      "name": "Remember Her Like That",
-      "url": "https://open.spotify.com/track/5PUeFk6KqTnnJrzeYhYyyb"
+      "duration_ms": 194959,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -819,38 +819,34 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+        "name": "Remember Her Like That",
+        "url": "https://open.spotify.com/album/3xNPSnUKCLjAyztiI42uF3"
       },
       "artists": [
         {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
         }
       ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+      "duration_ms": 187285,
+      "name": "Remember Her Like That",
+      "url": "https://open.spotify.com/track/5PUeFk6KqTnnJrzeYhYyyb"
     },
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Hey Ben",
-        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
+        "name": "gonna make sure",
+        "url": "https://open.spotify.com/album/5xDdd8Ra6QApWjD64QGDS9"
       },
       "artists": [
         {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        },
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
         }
       ],
-      "duration_ms": 200165,
-      "name": "Hey Ben",
-      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+      "duration_ms": 197746,
+      "name": "gonna make sure",
+      "url": "https://open.spotify.com/track/71hxGyoTu6GvLcXSMAh6zF"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -871,18 +867,22 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "gonna make sure",
-        "url": "https://open.spotify.com/album/5xDdd8Ra6QApWjD64QGDS9"
+        "name": "Hey Ben",
+        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
       "artists": [
         {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        },
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
         }
       ],
-      "duration_ms": 197746,
-      "name": "gonna make sure",
-      "url": "https://open.spotify.com/track/71hxGyoTu6GvLcXSMAh6zF"
+      "duration_ms": 200165,
+      "name": "Hey Ben",
+      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "More Like A Crash",
-        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 179091,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/5zcwr8ousvLdjUz8RqwN1j"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "People That I Love Leave",
         "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
       },
@@ -1019,18 +1003,34 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
+        "name": "More Like A Crash",
+        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
       },
       "artists": [
         {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 164621,
-      "name": "Real Life",
-      "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
+      "duration_ms": 179091,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5zcwr8ousvLdjUz8RqwN1j"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "You're My Medicine",
+        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 192682,
+      "name": "You're My Medicine",
+      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "You're My Medicine",
-        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
       },
       "artists": [
         {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 192682,
-      "name": "You're My Medicine",
-      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+      "duration_ms": 164621,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 188328,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 175932,
-      "name": "Get Over It",
-      "url": "https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Baku's Revenge (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
       },
@@ -1199,34 +1199,18 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1"
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR"
       },
       "artists": [
         {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
         }
       ],
-      "duration_ms": 188328,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 207705,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3"
+      "duration_ms": 175932,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1243,6 +1227,22 @@
       "duration_ms": 189583,
       "name": "Autumnal",
       "url": "https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 207705,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3"
     },
     {
       "added_at": "2024-03-22 19:30:48",

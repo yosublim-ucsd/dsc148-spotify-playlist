@@ -846,7 +846,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 174845,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 384637,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7CDg6jt9cFRthTOrXhKrWy"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 160622,
       "name": "cross my heart (hope to die)",
       "url": "https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi"
@@ -2076,6 +2076,24 @@
       "duration_ms": 276986,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/0aKgId5lkNpNyGWQuwyvDn"
+    },
+    {
+      "album": {
+        "name": "Tough Love: Best Of The Ballads (International Version)",
+        "url": "https://open.spotify.com/album/2UhyWgiFb1ZDB1p0Uyljd4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307960,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/16YFSY0VM91QkDJWeC55VL"
     },
     {
       "album": {
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 276693,
       "name": "Daylight Lucidity - 2016 Remaster; Remastered",
       "url": "https://open.spotify.com/track/0BVaeKodms6MvEvxDQyyK6"
@@ -2484,7 +2502,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 65000,
       "name": "Drag\u00f3n de la Monta\u00f1a (M\u00e9rida, Interludio)",
       "url": "https://open.spotify.com/track/26IgNXRcOX6vLuJlfpYZDH"
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 304243,
       "name": "funny animal videos",
       "url": "https://open.spotify.com/track/2tgLQRZxXxCVGIY9uLtCYR"
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 82000,
       "name": "Funny Cats",
       "url": "https://open.spotify.com/track/3kOoLBYcEk8IDB063CAXMi"
@@ -4113,6 +4131,24 @@
     },
     {
       "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/1G5FycaSPGPZiwMDxrumgm"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266840,
+      "name": "Hush - 1998 Remaster",
+      "url": "https://open.spotify.com/track/1dX0NML9pxDIJxrGWzIoJW"
+    },
+    {
+      "album": {
         "name": "Morseper",
         "url": "https://open.spotify.com/album/68HUvr3eKqGMnNapK9fcny"
       },
@@ -4504,6 +4540,24 @@
       "duration_ms": 249506,
       "name": "In The Shadow Of The Valley Of Death",
       "url": "https://open.spotify.com/track/7i99EGRhbAYb3njgRkmeIi"
+    },
+    {
+      "album": {
+        "name": "Killswitch Engage (Expanded Edition) [2004 Remaster]",
+        "url": "https://open.spotify.com/album/1MgyBHsiad6REK9veCUATT"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168720,
+      "name": "In The Unblind (Demo) - Bonus Track",
+      "url": "https://open.spotify.com/track/46iIT5XKbR48y4HZ6YKIZb"
     },
     {
       "album": {
@@ -5080,7 +5134,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 211634,
       "name": "Life is Only a Dream",
       "url": "https://open.spotify.com/track/3bT3IRjQm60sN5EtnwqMmv"
@@ -5268,6 +5322,24 @@
       "duration_ms": 301826,
       "name": "Love Action (I Believe In Love)",
       "url": "https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130720,
+      "name": "Love Ain't For Keeping",
+      "url": "https://open.spotify.com/track/1zdmeAd3wE2VlrrxpAAEgr"
     },
     {
       "album": {
@@ -6259,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "No More Sorrow",
+      "url": "https://open.spotify.com/track/69vMDipMastHvYna7plBdS"
+    },
+    {
+      "album": {
         "name": "Noise",
         "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
       },
@@ -6468,7 +6558,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 504573,
       "name": "One - Live",
       "url": "https://open.spotify.com/track/4CmrcfuMSvYWamYrbYTT50"
@@ -7057,6 +7147,24 @@
     },
     {
       "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1saYfZwr5b7Gad73hp41ue"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/4XDpxSBawMhjoHkKlIe5Yc"
+    },
+    {
+      "album": {
         "name": "Deep Cuts (Vol. 2 / 1977-1982)",
         "url": "https://open.spotify.com/album/4sxXkoBsosrtiLSgXEfZn7"
       },
@@ -7436,7 +7544,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 170426,
       "name": "Ritmo Sideral",
       "url": "https://open.spotify.com/track/1qNWQVlCXwHrP4avM2WzZV"
@@ -7652,7 +7760,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 179072,
       "name": "Secrets in a Box",
       "url": "https://open.spotify.com/track/0p8UUl28sWjj4O9eTOHz2o"
@@ -7742,7 +7850,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
@@ -8533,6 +8641,24 @@
     },
     {
       "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ"
+    },
+    {
+      "album": {
         "name": "The Hollow",
         "url": "https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3"
       },
@@ -8580,7 +8706,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 319426,
       "name": "The Blister Exists",
       "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8"
@@ -9297,6 +9423,24 @@
     },
     {
       "album": {
+        "name": "Consign To Oblivion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/050Dza66lBFneTLseVdFP8"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283413,
+      "name": "Trois Vierges - Orchestral Version",
+      "url": "https://open.spotify.com/track/6IMfQjuM1naBDnozmXdjnx"
+    },
+    {
+      "album": {
         "name": "Soda Stereo (Remastered)",
         "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
@@ -9875,6 +10019,24 @@
     },
     {
       "album": {
+        "name": "This War Is Ours (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210573,
+      "name": "We Won't Back Down",
+      "url": "https://open.spotify.com/track/3kLmk0aDytt5hrqgGCNgnF"
+    },
+    {
+      "album": {
         "name": "Webbie Flow",
         "url": "https://open.spotify.com/album/75977yV8NvTZSY2rfRE4M8"
       },
@@ -10250,7 +10412,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 242413,
       "name": "Writing On The Walls",
       "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"

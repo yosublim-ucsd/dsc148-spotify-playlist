@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,653 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,658 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 24 | [Fall Victim](https://open.spotify.com/track/5eAnduwqRr8gTOTxx8WOEk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 3:18 |
 | 25 | [I'm Dying Tomorrow](https://open.spotify.com/track/4cIFLerFqmenkf3qzn1UPz) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 2:18 |
 | 26 | [Fatally Yours](https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 2:16 |
-| 27 | [I Wanna Be A Warhol](https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:07 |
+| 27 | [Calling All Skeletons](https://open.spotify.com/track/5wietlPYUdZe5MEPOrrvww) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:20 |
 | 28 | [The Poison](https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:04 |
-| 29 | [Calling All Skeletons](https://open.spotify.com/track/5wietlPYUdZe5MEPOrrvww) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:20 |
+| 29 | [I Wanna Be A Warhol](https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:07 |
 | 30 | [Continental](https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 3:27 |
 | 31 | [Blackbird](https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:20 |
 | 32 | [Back to Hell](https://open.spotify.com/track/2GdhGYir1XgRuUQ13iCwLT) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [I Found a Way](https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [I Found a Way](https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy) | 3:45 |
 | 50 | [Dine, Dine My Darling](https://open.spotify.com/track/6ZaXbRtwY9oYGjxcZWAXyw) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [This Addiction \(Deluxe Edition\)](https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj) | 2:58 |
 
-Snapshot ID: `MCxkNTdjMWJkNWY4ZWFhODE1MWQ5YTM3Yzc4NjczNTZhNjMzNDg2YzE3`
+Snapshot ID: `MCxlNzVmM2ZiZmExOGIwNTA2NzE0N2ZmOWRjNjQ5NjIwZmVmZTBhNGM1`

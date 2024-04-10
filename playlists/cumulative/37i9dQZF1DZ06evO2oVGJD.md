@@ -4,7 +4,7 @@
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 17 min
+82 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Desnudos](https://open.spotify.com/track/0nZz6tnshGTSRWYh8In6Hj) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:17 | 2022-06-01 | 2023-09-01 |
 | [Desnudos](https://open.spotify.com/track/3yFUto83tuhUqsNsmGS6s3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns) | 3:17 | 2023-08-31 |  |
 | [Dolerá](https://open.spotify.com/track/18hHM8kKKL6AUFtWYogA4X) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Dolerá](https://open.spotify.com/album/3zBgO51TuNj2zbfeBqqAph) | 3:10 | 2022-06-08 | 2022-10-24 |
-| [El negrito](https://open.spotify.com/track/3ELx3O1UQAXAMzfobMRhyn) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:06 | 2022-09-18 |  |
+| [El negrito](https://open.spotify.com/track/3ELx3O1UQAXAMzfobMRhyn) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:06 | 2022-09-18 | 2024-04-10 |
 | [El retrato de mamá](https://open.spotify.com/track/2L8uzQnGf2UUWeKHPbsv8F) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:45 | 2022-06-01 |  |
 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 | 2022-06-01 |  |
 | [Ganas De Ti \- Balada Version](https://open.spotify.com/track/4wJ6H2bngItDzDR7voKSqA) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:29 | 2022-06-01 |  |
@@ -75,6 +75,7 @@
 | [Se Va A Repetir](https://open.spotify.com/track/4F29GPJbbAxj5cIbowmCXx) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Se Va A Repetir](https://open.spotify.com/album/5PTFHMsMevzTigM5oi3uOF) | 2:58 | 2024-03-30 |  |
 | [Te extraño](https://open.spotify.com/track/5Cvu39ORglPtZfr5ZeZzBI) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 2:57 | 2022-06-01 | 2022-09-10 |
 | [Te extraño](https://open.spotify.com/track/7wv6p1I2GWuZ1eQ1Iok3u1) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 2:57 | 2022-09-09 |  |
+| [Tenemos Historia](https://open.spotify.com/track/1MoYJUddzS4XVS67Wf5ae9) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Serenata Digital](https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP) | 3:10 | 2024-04-10 |  |
 | [Tengo que regresar](https://open.spotify.com/track/7GV3ncNCPyywOjPGU0oVCw) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Trayectoria](https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe) | 3:23 | 2022-06-01 |  |
 | [Tengo que regresar](https://open.spotify.com/track/17RGBYLFlyJzVPpgvgFW6j) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 3:24 | 2023-02-24 | 2023-11-11 |
 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 | 2022-06-01 |  |

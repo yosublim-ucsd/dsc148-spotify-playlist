@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 749622,
+  "num_followers": 749807,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmU5ODcyM2RkOGQ2ZjU2MzJkMGZhNjNmZTgxZDNjODMyNGQ1MzAw",
+  "snapshot_id": "MCxmM2ZkMjA4MGMzNDczZjdlZTE2YmM0MDdjMjE2NWI3YTBhZTM3NTAw",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Strait From The Heart",
-        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Amarillo By Morning",
-      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "I'm Countryfied",
-        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+        "name": "Strait From The Heart",
+        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
       },
       "artists": [
         {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 144186,
-      "name": "Louisiana Saturday Night",
-      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
+      "duration_ms": 173466,
+      "name": "Amarillo By Morning",
+      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Too Cold At Home",
         "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 184840,
       "name": "Brother Jukebox",
       "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
     },
     {
       "added_at": "2024-02-23 05:00:00",

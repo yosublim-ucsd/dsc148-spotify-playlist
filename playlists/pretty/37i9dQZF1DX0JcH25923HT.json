@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 436683,
+  "num_followers": 436979,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTYyYzVhNTk3ZDIxZWRjODAzMjQzODZlN2FkNGZhYWJjNzA1YmM0",
+  "snapshot_id": "MCw4ZGEyYjVjNTBlMzgxZTdlMmJhMzFjZDMzMzI2NjBkZTA1NGQxNmJi",
   "tracks": [
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Real G4 Life Vol. 3",
-        "url": "https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 234271,
-      "name": "Hoy (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1BssJgelMGDNOeIy7ZqgOW"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Real G4 Life Vol. 3",
+        "url": "https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 234271,
+      "name": "Hoy (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1BssJgelMGDNOeIy7ZqgOW"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 222376,
+      "name": "Condenado Para El Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 220080,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 222376,
-      "name": "Condenado Para El Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "La Ocasi\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/0bWNdvYtwewhKo0YUUgzwL"
       },
@@ -1955,26 +1975,6 @@
       "duration_ms": 451343,
       "name": "La Ocasi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/1M9gupJZxS3LdK8R6UZfYH"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Trend",
+        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "A fuego",
+      "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Si Te Vas",
         "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
       },
@@ -2215,6 +2231,30 @@
       "duration_ms": 240441,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Calle Amor",
+        "url": "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K"
+      },
+      "artists": [
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Steve Lean",
+          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
+        }
+      ],
+      "duration_ms": 218895,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/7aq4mn7HqjIWeEn3YReKWV"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2247,46 +2287,6 @@
       "duration_ms": 293767,
       "name": "Si Me Muero",
       "url": "https://open.spotify.com/track/6iPwLPlliVlCtrhghwZ6es"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Calle Amor",
-        "url": "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K"
-      },
-      "artists": [
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        },
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        },
-        {
-          "name": "Steve Lean",
-          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
-        }
-      ],
-      "duration_ms": 218895,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/7aq4mn7HqjIWeEn3YReKWV"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Trend",
-        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "A fuego",
-      "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2347,6 +2347,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Dubai",
         "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
       },
@@ -2359,22 +2379,6 @@
       "duration_ms": 157732,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Llegar\u00e1",
-        "url": "https://open.spotify.com/album/4QLI5TGTpqNessq79NjzA4"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Llegar\u00e1",
-      "url": "https://open.spotify.com/track/52zHq60TmFob7fBVx3BQSo"
     }
   ],
   "unique_name": "Trap viejito",

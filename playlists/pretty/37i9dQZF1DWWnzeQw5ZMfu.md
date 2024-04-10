@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,064 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,065 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 66 | [Everything \- Live from Madison Square Garden](https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé Meets Madison Square Garden](https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt) | 3:37 |
 | 67 | [The Lady In Red \- Live](https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl) | 4:06 |
 | 68 | [She Will Be Loved \- Live](https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live Friday The 13th](https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C) | 6:19 |
-| 69 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 |
+| 69 | [7 Years \- \(Later\) \[Live\]](https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years \(Later\) \[Live\]](https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn) | 4:16 |
 | 70 | [Forever Young](https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Stark Naked and Absolutely Live](https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43) | 5:43 |
-| 71 | [7 Years \- \(Later\) \[Live\]](https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years \(Later\) \[Live\]](https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn) | 4:16 |
+| 71 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 |
 | 72 | [Before You Go \- Live from Brixton Academy, London, 2019](https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:45 |
 | 73 | [For the First Time \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/4llNwotltjRfm312AvF7vn) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 5:04 |
 | 74 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Physical \- Live](https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 4:43 |
 | 100 | [Hung Up \- Live](https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour](https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3) | 9:50 |
 
-Snapshot ID: `MCw4ZmU3MWQ2ZjhlMDFhZGYxMTA1Yzc2OTU5OWZiNThmZjI1YmI3OTEy`
+Snapshot ID: `MCw0NWU4NGVmNzVlNzg4NWIwNWJmODE4ZjJlNDQwYzZhYzg5MGMzM2Ix`

@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 206209,
+  "2024-04-10": 206290,
   "date_first_scraped": "2022-05-30",
   "description": "Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix. ",
   "name": "Outer Banks Official Playlist",
@@ -1153,10 +1153,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 211417,
       "name": "Guajira sicod\u00e9lica",
       "url": "https://open.spotify.com/track/7BCox4yFBBdHflBRfp82ji"
+    },
+    {
+      "album": {
+        "name": "Sicod\u00e9licos",
+        "url": "https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Guajira Sicod\u00e9lica",
+      "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,247 likes - 75 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,320 likes - 75 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 23 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
 | 24 | [Nakamarra](https://open.spotify.com/track/1I0O4q0Pq5x6n9d24Es5uN) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:34 |
 | 25 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
-| 26 | [Only You](https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:21 |
-| 27 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
-| 28 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
-| 29 | [Intimate Friends](https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Slick](https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb) | 5:53 |
+| 26 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
+| 27 | [Only You](https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:21 |
+| 28 | [Intimate Friends](https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Slick](https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb) | 5:53 |
+| 29 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
 | 30 | [Where Are We Going?](https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Gold](https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9) | 3:55 |
 | 31 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 32 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 69 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
 | 70 | [Desmond's Empire](https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 4:36 |
 | 71 | [Own Me](https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:37 |
-| 72 | [The Sweetest Pain](https://open.spotify.com/track/0Qlbpljv5ZRlxRaYYnsvih) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 5:45 |
-| 73 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
+| 72 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
+| 73 | [The Sweetest Pain](https://open.spotify.com/track/0Qlbpljv5ZRlxRaYYnsvih) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 5:45 |
 | 74 | [Crawshay](https://open.spotify.com/track/2O0D6AbuaGHag0QrPGAJhV) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Second Time Round](https://open.spotify.com/album/3OE1HvJztiyEn6p3dTmStC) | 4:20 |
 | 75 | [Before](https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Before](https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE) | 4:47 |
 
-Snapshot ID: `MCxiZDkwMTEyNmU1NDEyYTM0ZmUyOGZmZTYzZjRlNzBjMWQyOTFlNWMy`
+Snapshot ID: `MCxlMDk5MjI2MDFiODZiOTU2MWUwZjRlMzI0OTRmYWVjYTVjOGJkZTcz`

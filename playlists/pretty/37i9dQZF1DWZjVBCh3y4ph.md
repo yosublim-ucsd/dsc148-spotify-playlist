@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo :  Mik L x Nesly
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,557 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,602 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Dis\-moi](https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7), [Nayane](https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t) | [Dis\-moi](https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr) | 3:28 |
 | 40 | [Plus jamais](https://open.spotify.com/track/6YFfWqhOFJLGFoFnVh9cD8) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Plus jamais](https://open.spotify.com/album/7Ci1bhLCiQxurTW9S0JiKT) | 2:29 |
 
-Snapshot ID: `MCw1NTFmYzg5ZGMwM2RmNWU3NDAzNGRlNmZhYTA4OGFiMTE1NDdjOWFl`
+Snapshot ID: `MCxiM2Q4ZWQ2NzQ1MmU3ZDhlYmYyNWJkZGIxZjdjYmMzMWZkOTE4ZDNj`

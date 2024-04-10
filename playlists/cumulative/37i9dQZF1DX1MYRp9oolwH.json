@@ -3485,6 +3485,32 @@
     },
     {
       "album": {
+        "name": "Oh Madam (From \"Aa Okkati Adakku\")",
+        "url": "https://open.spotify.com/album/2m8aC0IEcJ8PAkB1ovb7xa"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282636,
+      "name": "Oh Madam (From \"Aa Okkati Adakku\")",
+      "url": "https://open.spotify.com/track/469cEOKrNx6i174DME9w60"
+    },
+    {
+      "album": {
         "name": "Aadavallu Meeku Joharlu",
         "url": "https://open.spotify.com/album/4GkmX4GIpsGpg8xpxGTqtt"
       },
@@ -3692,7 +3718,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 235200,
       "name": "Paravasame (From \"Maruva Tarama\")",
       "url": "https://open.spotify.com/track/7BoWSahwaBcTHvzlW1pH6a"

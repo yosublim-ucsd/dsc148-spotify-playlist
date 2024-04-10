@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157551,
+  "num_followers": 157563,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjFiZDM5MWJiOGFkZjNlOWIwZDY0MGQ2ZmVmMjIzNDExMjBmODQ5",
+  "snapshot_id": "MCxiMGM1YzBmOWJkMzY1MWZhZmI2OGRmZDE0MWRmMGQ5NzYwZmJlMGNj",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Carolina / Levemente",
-        "url": "https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Chuva de Ver\u00e3o (Modo Esquece)",
         "url": "https://open.spotify.com/album/2sAhH6CkhXvRWof3Xq4gnl"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 198620,
       "name": "Chuva de Ver\u00e3o (Modo Esquece)",
       "url": "https://open.spotify.com/track/57A5HbAVHLF9yfEUk2vT5G"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Carolina / Levemente",
+        "url": "https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
-      },
-      "artists": [
-        {
-          "name": "CP no Beat",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        },
-        {
-          "name": "S\u00d3 AS BRABA",
-          "url": "https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Cartas (feat.Luccas Carlos) (feat.Paiva Prod)",
         "url": "https://open.spotify.com/album/7qCnoY2xgPiEsmbJ2auP1L"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 202000,
       "name": "Cartas (feat.Luccas Carlos) (feat.Paiva Prod)",
       "url": "https://open.spotify.com/track/6ry2T9BPdjCXkGl5kHqe0O"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
+      },
+      "artists": [
+        {
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "S\u00d3 AS BRABA",
+          "url": "https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "SEUS CARACTERES & CARACTER\u00cdSTICAS",
+        "url": "https://open.spotify.com/album/78S4kQ996iN4h62IWnvtGz"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "duration_ms": 163530,
+      "name": "T\u00c1 FAZENDO OQ?",
+      "url": "https://open.spotify.com/track/1t0DfSB27SnpNjzBGEf89q"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Algum Lugar Pra Gente Viajar",
         "url": "https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "SEUS CARACTERES & CARACTER\u00cdSTICAS",
-        "url": "https://open.spotify.com/album/78S4kQ996iN4h62IWnvtGz"
-      },
-      "artists": [
-        {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
-        }
-      ],
-      "duration_ms": 163530,
-      "name": "T\u00c1 FAZENDO OQ?",
-      "url": "https://open.spotify.com/track/1t0DfSB27SnpNjzBGEf89q"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Santa Catarina",
-        "url": "https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX"
-      },
-      "artists": [
-        {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
-        },
-        {
-          "name": "Ti\u00e9l",
-          "url": "https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4"
-        }
-      ],
-      "duration_ms": 95483,
-      "name": "Santa Catarina",
-      "url": "https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Ato 3: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 212137,
       "name": "Ros\u00e9",
       "url": "https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Santa Catarina",
+        "url": "https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX"
+      },
+      "artists": [
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "Ti\u00e9l",
+          "url": "https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4"
+        }
+      ],
+      "duration_ms": 95483,
+      "name": "Santa Catarina",
+      "url": "https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Qualquer Maneira",
-        "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
-      },
-      "artists": [
-        {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
-        }
-      ],
-      "duration_ms": 331054,
-      "name": "Qualquer Maneira",
-      "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Mist\u00e9rio",
         "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 142105,
       "name": "Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Qualquer Maneira",
+        "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
+      },
+      "artists": [
+        {
+          "name": "Inc\u00f3gnito",
+          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+        }
+      ],
+      "duration_ms": 331054,
+      "name": "Qualquer Maneira",
+      "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Voe",
         "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2024-03-29 03:01:00",

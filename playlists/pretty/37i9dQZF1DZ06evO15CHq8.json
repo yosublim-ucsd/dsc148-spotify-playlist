@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 562672,
+  "num_followers": 563051,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWEzZWY2ODg4ZTRhODQ1OGQwZGJkYjhhYWU1ZGZjNmE2NzJhZWEx",
+  "snapshot_id": "MCwzM2I3MDQzOGM1ZDE0ZDFjN2ZkZDc1YzlhOTIwODE1ZTRiZTU5M2E5",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I No Longer Fear the Razor Guarding My Heel",
-        "url": "https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 167679,
-      "name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
-      "url": "https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Us Vs. Them",
         "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 184633,
       "name": "Us Vs. Them",
       "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I No Longer Fear the Razor Guarding My Heel",
+        "url": "https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 167679,
+      "name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
+      "url": "https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
-        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 134962,
-      "name": "Audubon",
-      "url": "https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part XV: The Coast of Ashes Saga",
         "url": "https://open.spotify.com/album/37GOfx56LiCjhWQUg3StiJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 82325,
       "name": "Styrofoam",
       "url": "https://open.spotify.com/track/5PPwyMqz0vexoXcLijbERR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
+        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 134962,
+      "name": "Audubon",
+      "url": "https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
       "duration_ms": 165970,
       "name": "The Number You Have Dialed Is Not in Service",
       "url": "https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want to Die In New Orleans",
+        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 137772,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: 1da Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,108 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,232 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 51 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
 | 52 | [Red Flags](https://open.spotify.com/track/31jkD22MNUrpebszwU7ZFz) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:55 |
 | 53 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
-| 54 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 |
+| 54 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 |
 | 55 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
 | 56 | [Twe Twe](https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Twe Twe](https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2) | 2:25 |
-| 57 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 |
+| 57 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 |
 | 58 | [DOG EAT DOG II \(feat\. Cruel Santino and Bella Shmurda\)](https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 4:00 |
 | 59 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 |
-| 60 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
-| 61 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 |
+| 60 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 |
+| 61 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
 | 62 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 63 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
 | 64 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 73 | [Loaded](https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Loaded](https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g) | 2:35 |
 | 74 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 75 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 |
-| 76 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
-| 77 | [Dog Eat Dog](https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dog Eat Dog](https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH) | 2:29 |
-| 78 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 |
-| 79 | [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 |
-| 80 | [Ex Convict](https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH) | 3:22 |
+| 76 | [Ex Convict](https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH) | 3:22 |
+| 77 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
+| 78 | [Dog Eat Dog](https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dog Eat Dog](https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH) | 2:29 |
+| 79 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 |
+| 80 | [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 |
 
-Snapshot ID: `MCw3YWZmNzE0YzEzZDk3ZTk4MDFjZDczNDcxMDIzMjdmY2NlZGRjMTNl`
+Snapshot ID: `MCw2MTIzNzAyMjAzMWFmOGZmMTZhYTE4NmZmODYwYWVhNjM3NmVkNjZj`

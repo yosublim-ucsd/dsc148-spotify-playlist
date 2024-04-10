@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,038 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,033 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 17 | [Here And Now](https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6) | 3:57 |
 | 18 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 |
 | 19 | [LIES WE TELL OURSELVES](https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [LIES WE TELL OURSELVES](https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4) | 3:27 |
-| 20 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:17 |
-| 21 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 |
+| 20 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
+| 21 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:17 |
 | 22 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 |
-| 23 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
+| 23 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 |
 | 24 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
 | 25 | [No More Tears To Cry](https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:41 |
 | 26 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 48 | [Talk Sick](https://open.spotify.com/track/5LEM1bxgQSlvUIw7VOe7hq) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:34 |
 | 49 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
 | 50 | [Hourglass](https://open.spotify.com/track/0FIfPxra2V11mDnQmzXtPD) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/7dbiEbvBNNt9S4tjV3hIgj) | 2:43 |
-| 51 | [Fade Away](https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Fade Away](https://open.spotify.com/album/2c3I2PZ07EIbtqlxUFTz0f) | 3:10 |
-| 52 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 |
+| 51 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 |
+| 52 | [Fade Away](https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Fade Away](https://open.spotify.com/album/2c3I2PZ07EIbtqlxUFTz0f) | 3:10 |
 | 53 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
 | 54 | [Cut The Line](https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Cut The Line](https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw) | 3:29 |
 | 55 | [All Things Must Change](https://open.spotify.com/track/7oXl7mUZPi6YThjvtsk2q1) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival \(Deluxe\)](https://open.spotify.com/album/24zUDdtHXjMPPFvNBK3yqg) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 | 75 | [UKUMKANI](https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Griô](https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB) | 3:04 |
 
-Snapshot ID: `MCw1NTdlZGNmM2Q0Yzc1ODBiYjUxYzQ1YWI4MDU1YWM2Y2Y0ZmZmNjJj`
+Snapshot ID: `MCw2M2UyYTJmNTNmZjQxMzNkNTUxNDdkOGI1M2ViODI5M2VkMzJmZDBh`

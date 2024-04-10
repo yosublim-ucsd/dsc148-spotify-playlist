@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 
 > This is 水樹奈々\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,071 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,078 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 14 | [FINAL COMMANDER](https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [FINAL COMMANDER](https://open.spotify.com/album/79ZMg93RW0DUIG6flJDOJ1) | 4:22 |
 | 15 | [禁断のレジスタンス](https://open.spotify.com/track/1Ri399EucsujfZgNZ6jyfe) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:25 |
 | 16 | [Glorious Break](https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SMASHING ANTHEMS](https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK) | 5:16 |
-| 17 | [Sugar Doughnuts](https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Sugar Doughnuts](https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O) | 3:26 |
-| 18 | [嘆きの華](https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 3:52 |
+| 17 | [嘆きの華](https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 3:52 |
+| 18 | [終末のラブソング](https://open.spotify.com/track/6qFbz5JKXWvf48QuyfXRPt) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [エデン](https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI) | 3:57 |
 | 19 | [Exterminate](https://open.spotify.com/track/22b3p38QWCoHEZI3PQ5RnK) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:05 |
-| 20 | [終末のラブソング](https://open.spotify.com/track/6qFbz5JKXWvf48QuyfXRPt) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [エデン](https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI) | 3:57 |
+| 20 | [Sugar Doughnuts](https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Sugar Doughnuts](https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O) | 3:26 |
 | 21 | [恋の抑止力\-type EXCITER\-](https://open.spotify.com/track/4THfcBq4kEdHsTOEqcbrmW) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [IMPACT EXCITER](https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA) | 4:56 |
 | 22 | [Pray](https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:28 |
 | 23 | [天空のカナリア](https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [夢幻](https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF) | 3:59 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 37 | [FEARLESS HERO](https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [BRIGHT STREAM](https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb) | 4:14 |
 | 38 | [SCARLET KNIGHT](https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:10 |
 | 39 | [Take a shot](https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ALIVE&KICKING](https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i) | 4:10 |
-| 40 | [サーチライト](https://open.spotify.com/track/4XuY9Y3Z7qgwU2XF05OsFH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 4:31 |
-| 41 | [METANOIA \-Aufwachen Form\-](https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 5:31 |
+| 40 | [METANOIA \-Aufwachen Form\-](https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 5:31 |
+| 41 | [GET BACK](https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 3:59 |
 | 42 | [Poison Lily](https://open.spotify.com/track/7hhCuCjerf7mNF7urHh3iH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Destiny's Prelude](https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs) | 3:42 |
 | 43 | [Red Breeze](https://open.spotify.com/track/45x5FCsI4VvKoGyQXDnhPk) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Red Breeze](https://open.spotify.com/album/3aWStzvTschv3HBBPdMzv4) | 4:31 |
-| 44 | [DNA \-Dance 'n' Amuse\-](https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:37 |
-| 45 | [FINAL COMMANDER \-Aufwachen Form\-](https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 5:05 |
-| 46 | [GET BACK](https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 3:59 |
-| 47 | [Trinity Cross](https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Trickster](https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq) | 4:26 |
-| 48 | [FIRE SCREAM](https://open.spotify.com/track/1q4RbhcSDoeyrR2uly6yQt) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [FIRE SCREAM](https://open.spotify.com/album/7t9tYlGR5fuMfUZPMvesRH) | 3:45 |
-| 49 | [Vitalization\-Aufwachen Form\-](https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:44 |
+| 44 | [Trinity Cross](https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Trickster](https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq) | 4:26 |
+| 45 | [サーチライト](https://open.spotify.com/track/4XuY9Y3Z7qgwU2XF05OsFH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 4:31 |
+| 46 | [DNA \-Dance 'n' Amuse\-](https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:37 |
+| 47 | [FINAL COMMANDER \-Aufwachen Form\-](https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 5:05 |
+| 48 | [Vitalization\-Aufwachen Form\-](https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:44 |
+| 49 | [FIRE SCREAM](https://open.spotify.com/track/1q4RbhcSDoeyrR2uly6yQt) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [FIRE SCREAM](https://open.spotify.com/album/7t9tYlGR5fuMfUZPMvesRH) | 3:45 |
 | 50 | [革命デュアリズム \-アニメバージョン\-](https://open.spotify.com/track/2ViUOdaqvpNEKFiXiYj6Qg) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE), [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [革命デュアリズム](https://open.spotify.com/album/2PC0pafvHcNe9j66iGfwQv) | 1:31 |
 
-Snapshot ID: `MCxjM2IzYjQwYWUwY2RlZTgzMzIzYTI4YTc2YmNjM2FkYmZmNDMwNWE5`
+Snapshot ID: `MCxlM2UxOWEzMTU2ZWQ4ZjVhODRjMzdjMmZhYTI0NDJkMmEzOWFkMTVm`

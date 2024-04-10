@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,522 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,578 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 |
 | 50 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
 
-Snapshot ID: `MCxmOGE0OGEzNzYyZmJiNzcyNGU1YmY4YzUyYjliM2ViMTEwZjkzZGJj`
+Snapshot ID: `MCw5YTI4ZWQ3ZGNkMDU4ZTk4NmU1MDFhYjdmYmMxY2Y4OTIzNWJlMWQy`

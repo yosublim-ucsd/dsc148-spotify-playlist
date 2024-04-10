@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,065 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,096 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 66 | [Little Things Mean a Lot](https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd) | [Kitty Kallen](https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II) | [Kitty Kallen's Coloring Book](https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU) | 2:59 |
 | 67 | [I'm Sorry I Made You Cry](https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:27 |
 | 68 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:57 |
-| 69 | [Walkin' My Baby Back Home](https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:20 |
-| 70 | [Dreamboat](https://open.spotify.com/track/5KpECOf7hoR234q8fJcphk) | [Alma Cogan](https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK) | [The Magic Of Alma Cogan](https://open.spotify.com/album/0QHQ3Jya66uxgdTG9DM2e5) | 1:47 |
+| 69 | [Dreamboat](https://open.spotify.com/track/5KpECOf7hoR234q8fJcphk) | [Alma Cogan](https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK) | [The Magic Of Alma Cogan](https://open.spotify.com/album/0QHQ3Jya66uxgdTG9DM2e5) | 1:47 |
+| 70 | [Walkin' My Baby Back Home](https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:20 |
 | 71 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
 | 72 | [I'm In Love Again](https://open.spotify.com/track/4YwJx3IDgQQY75yGMXG8A0) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 1:58 |
 | 73 | [Poor Little Fool](https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Legendary Masters Series \(Volume 1\)](https://open.spotify.com/album/5R27t83T8Jhltww09lriMo) | 2:33 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 77 | [Rose Marie](https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Country Style](https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal) | 2:24 |
 | 78 | [Tulips from Amsterdam](https://open.spotify.com/track/7vc54EVgYe8YuiKIuhYSJJ) | [Max Bygraves](https://open.spotify.com/artist/7Cm4VBm1trDn5A3CWbzDVl) | [Tulips From Amsterdam](https://open.spotify.com/album/2kEn80gnKDEn9JydOZkdjT) | 2:15 |
 | 79 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
-| 80 | [Hey There \- from The "Pajama Game"](https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:52 |
+| 80 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
 
-Snapshot ID: `MCxkZjBiNjY2NjgwYTI0YTYzZDRmMjE3NTgyZmRiYzc3Y2FlNjM1ZDg3`
+Snapshot ID: `MCwxOTExMmIxZWM4OGFkZmY5YzcwN2RlYmZiNTVhOTIyYjc1NDE1OWQx`

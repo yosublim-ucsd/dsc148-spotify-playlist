@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,634 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,794 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 44 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Overloading \(OVERDOSE\)](https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8) | 3:25 |
 | 45 | [What's Poppin](https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw) | 3:15 |
 | 46 | [Hamba Wena](https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr) | [Deep London](https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Hamba Wena](https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51) | 6:14 |
-| 47 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 |
-| 48 | [WO WO \(Remix\)](https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [WO WO \(Remix\)](https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi) | 3:45 |
+| 47 | [WO WO \(Remix\)](https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [WO WO \(Remix\)](https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi) | 3:45 |
+| 48 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 |
 | 49 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
 | 50 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
 | 51 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 57 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 |
 | 58 | [Enjoy](https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY) | 3:36 |
 | 59 | [Sharpiru](https://open.spotify.com/track/3UnV8C3DyIns9oEQRt0UnZ) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Sharpiru](https://open.spotify.com/album/3G8ivhEbQ9MREc8PZrROgr) | 3:28 |
-| 60 | [In Love](https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 3:20 |
+| 60 | [NSV](https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [NSV](https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB) | 3:08 |
 
-Snapshot ID: `MCw1MDgyMThmNzgyYTA3ODdkNjk2ODdhMTM3NTI3MTMwZTc5NDM4OWZj`
+Snapshot ID: `MCw1N2E1NjdiN2RjODRiNWU1MDJmYWQ4NWZlMjk0NjU5OTQwZTMyNThh`

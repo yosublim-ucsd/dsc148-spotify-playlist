@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,535 likes - 70 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,543 likes - 70 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 8 | [Belleville](https://open.spotify.com/track/2nGO2l8qt0OxuMLuV2uHeq) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx) | 2:25 |
 | 9 | [Corridors of Time](https://open.spotify.com/track/1kl6jzl9h38pjzALrPYvq3) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [CHRONO TRIGGER Original Soundtrack【DS Edition】](https://open.spotify.com/album/2kOD9QzcUkeT57RJkNvQpH) | 3:03 |
 | 10 | [sweet dreams](https://open.spotify.com/track/1SiTJWmO416vuOw3nUl1jw) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 2:29 |
-| 11 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 |
+| 11 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 |
 | 12 | [Journey In Satchidananda](https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey in Satchidananda](https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz) | 6:36 |
 | 13 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 |
 | 14 | [20210310](https://open.spotify.com/track/4hMWShv7tRCNuekpPFiHgH) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 6:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 69 | [Sanctuary](https://open.spotify.com/track/4J9wp85UujXkSbrzb9uJ92) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [The Snow Goose](https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB) | 1:05 |
 | 70 | [the end](https://open.spotify.com/track/7vbxgYOAUfYKDHxIGWvVSW) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 1:15 |
 
-Snapshot ID: `MCw2MzcwZmY2NDg0YzA4ZjI4MmIxMDI3Yzg2YWIyNjI1OTEyYjE5MDIy`
+Snapshot ID: `MCw0ZjE4OTNhYTRmYjdmODg4MjU1NWM3MjQ3MzNkMTNhNGRiYWNlNmI3`

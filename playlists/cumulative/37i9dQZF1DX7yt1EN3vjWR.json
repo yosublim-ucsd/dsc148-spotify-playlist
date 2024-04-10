@@ -7737,6 +7737,28 @@
     },
     {
       "album": {
+        "name": "\u660e\u308b\u3044\u90e8\u5c4b",
+        "url": "https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174082,
+      "name": "\u660e\u308b\u3044\u90e8\u5c4b",
+      "url": "https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1"
+    },
+    {
+      "album": {
         "name": "\u6ce2\u306e\u6b4c",
         "url": "https://open.spotify.com/album/4V8KF9z498nmR02c6C2Jsl"
       },

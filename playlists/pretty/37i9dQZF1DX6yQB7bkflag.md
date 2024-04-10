@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,266 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,269 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 |
 | 100 | [3 new words](https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [3 new words](https://open.spotify.com/album/3dCIy3cVrxA4JjlbSUGbCm) | 2:54 |
 
-Snapshot ID: `MCw5MmMxMzE4OTVhNzY0YWVkMTJlMDMyZGU0ODc0NzAyN2QxZTg5OTgy`
+Snapshot ID: `MCxjMDc5NzNiYTY4NDExZjMyYjljYmU1ZDAxZmVjOTk1OTkxN2ZmMTRl`

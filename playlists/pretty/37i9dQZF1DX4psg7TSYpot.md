@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Acoustic pop songs for chill summer days or nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,755 likes - 97 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,752 likes - 97 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 77 | [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/2y4KKdn0UQPCIh0wbBYfgR) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic EP](https://open.spotify.com/album/2hqtH9rg9G0BsaymBNA8Bp) | 2:46 |
 | 78 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 |
 | 79 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
-| 80 | [when the party's over](https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g) | 4:38 |
+| 80 | [when the party's over](https://open.spotify.com/track/2ts98XCUykSTpvZX9luZ0U) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/3kZuzFKagJZSC90CKiczoo) | 4:38 |
 | 81 | [There's No Getting' Over Me](https://open.spotify.com/track/0QzqvHYCh9WecfpMIo9Zdv) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [There's No Getting' Over Me](https://open.spotify.com/album/37l3XG7AzVLWEmYS94XUwp) | 4:03 |
 | 82 | [The Middle \- Acoustic](https://open.spotify.com/track/3ndoPpeiNjwEtIltH9oxyX) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [The Middle \(Acoustic\)](https://open.spotify.com/album/4VoP3Vq8EEiu5wmWFULmaM) | 3:43 |
 | 83 | [Fast Car](https://open.spotify.com/track/2pPPW5MlJg0JUPdqTrV3Ll) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [Fast Car](https://open.spotify.com/album/4pIM0EG3s7vcZKcZHt0AHU) | 4:07 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 96 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/0bOCAiSF04TziDFLSQ1fLr) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/7dUNOUAXKoXqI9kZOU7Viw) | 4:06 |
 | 97 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 |
 
-Snapshot ID: `MCw0NjU3YzEwNDUzMDk0MWJlYzE4YmJhOGJiZWQ4NDRmZTk3MTUxM2Qx`
+Snapshot ID: `MCw1YjJhMjI2YTJmOTk5MjFjZGE2MjNhYjMwNzA3NWIyYzY2NjljMmY0`

@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 244371,
+  "num_followers": 244411,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzBmZWYwNmEyNDExOTJkZTBmNDk3NWQzNDNmYmJlOWRkMzRhM2Iw",
+  "snapshot_id": "MCxjMjVkNDY4ODQ0YzNjZDhmNmY3MGI0OTdhNTFiNjc3MGIxOTU2ODc5",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Night in Nashville",
+        "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "Bets On Us",
+      "url": "https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 192800,
       "name": "Harper Valley PTA",
       "url": "https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Night in Nashville",
-        "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "Bets On Us",
-      "url": "https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH"
     },
     {
       "added_at": null,
@@ -1007,8 +1007,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
-        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 257372,
-      "name": "The Story",
-      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
+      "duration_ms": 188266,
+      "name": "Mule Skinner Blues (Blue Yodel No. 8)",
+      "url": "https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi"
     }
   ],
   "unique_name": "This Is Dolly Parton",

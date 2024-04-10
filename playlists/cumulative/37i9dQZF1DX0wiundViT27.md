@@ -4,7 +4,7 @@
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-291 songs - 16 hr 9 min
+292 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2023-12-15 |  |
 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 | 2023-05-31 | 2023-08-12 |
 | [Golden](https://open.spotify.com/track/5PIxPhOifdCCdJYm6XcEgk) | [Parade of Lights](https://open.spotify.com/artist/5acfZKELBZRBvyhrC0kzG1) | [Golden](https://open.spotify.com/album/3ljGzFXDz7UsxvfdErMf93) | 3:04 | 2020-08-20 | 2022-06-15 |
-| [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/track/41cxe6eOzzQS6odQk6fNdp) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [H A R D L O V E](https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH) | 2:55 | 2024-03-06 |  |
+| [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/track/41cxe6eOzzQS6odQk6fNdp) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [H A R D L O V E](https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH) | 2:55 | 2024-03-06 | 2024-04-10 |
 | [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/track/53xIMpFKswj3mqbPuiFJC0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/album/0DzSbOJZt5KxkQnTolpYgA) | 2:55 | 2020-08-20 | 2022-07-29 |
 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 | 2020-08-20 | 2022-05-11 |
 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 | 2023-05-31 | 2023-08-12 |
@@ -120,6 +120,7 @@
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-03-11 | 2022-04-21 |
 | [Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Heat Seeker](https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM) | 2:55 | 2020-08-20 | 2022-11-13 |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2020-08-20 | 2022-04-21 |
+| [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 | 2024-03-06 |  |
 | [Hertz](https://open.spotify.com/track/7fri3wodaEszuJBZcGB4VF) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 2:33 | 2022-06-28 | 2022-07-07 |
 | [Highway](https://open.spotify.com/track/421On515lAdhfA5B0h6yPR) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Bleeker](https://open.spotify.com/album/7in2r8pWNQy5bsNauAeBGP) | 3:21 | 2020-08-20 | 2022-06-24 |
 | [Highway Tune](https://open.spotify.com/track/0GkKtO9yXrnV2WYlP93lwq) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [This Is Rock Music](https://open.spotify.com/album/6ylXupauSn6vzijMaGc5kK) | 3:00 | 2022-10-05 | 2022-11-13 |

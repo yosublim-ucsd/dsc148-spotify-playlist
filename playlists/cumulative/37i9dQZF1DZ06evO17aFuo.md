@@ -4,7 +4,7 @@
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-97 songs - 6 hr 48 min
+98 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Hangar 18 \- 2004 Remix](https://open.spotify.com/track/6b6uLZsoGhObYexIxnRbIb) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:11 | 2022-05-30 |  |
 | [High Speed Dirt](https://open.spotify.com/track/0rzFlOXHVVmL8CvXPL0Fb3) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:21 | 2023-03-28 | 2023-03-30 |
 | [Holy Wars...The Punishment Due \- 2004 Remix](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 | 2022-05-30 |  |
+| [Hook In Mouth \- Remastered](https://open.spotify.com/track/3DCrXcdOW9iWUPtcEFH2er) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 4:48 | 2024-04-10 |  |
 | [I Ain't Superstitious \- Remastered](https://open.spotify.com/track/43gM0PIvpgqv19nFZWRlN3) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying?](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 2:45 | 2022-06-12 | 2022-08-11 |
 | [I Know Jack](https://open.spotify.com/track/7iIfsmOF4L7GoCb9bYSoGt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/21JgJ2sQBLsGtthdGet15B) | 0:40 | 2023-03-27 | 2023-10-11 |
 | [I Know Jack \- 2019 \- Remaster](https://open.spotify.com/track/1DpPaJZ7ktsBcnFla7smIM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed \(2019 \- Remaster\)](https://open.spotify.com/album/2KcFVbu6rg8HdRfU97S5C5) | 0:40 | 2023-03-20 | 2023-03-22 |
@@ -65,7 +66,7 @@
 | [Night Stalkers](https://open.spotify.com/track/22GAndLWMAxtAIkWtomcZC) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 6:38 | 2022-08-29 | 2022-09-06 |
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-23 | 2022-08-30 |
 | [Night Stalkers](https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:38 | 2022-09-06 |  |
-| [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 | 2022-05-30 |  |
+| [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 | 2022-05-30 | 2024-04-10 |
 | [Paranoid](https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 2:32 | 2022-05-30 |  |
 | [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(Deluxe Edition \- Remastered\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 | 2022-05-30 |  |
 | [Police Truck](https://open.spotify.com/track/74f6eAt3RRPy4g6BUkD5fJ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 2:29 | 2022-09-04 | 2022-10-12 |

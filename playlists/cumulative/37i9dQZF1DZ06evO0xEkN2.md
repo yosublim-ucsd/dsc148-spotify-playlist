@@ -4,7 +4,7 @@
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 53 min
+60 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Estrella Roja \- En Vivo](https://open.spotify.com/track/6hjYEBN9WwrpLHRRvhdsby) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 3:39 | 2023-01-14 |  |
 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 | 2023-08-31 |  |
 | [Fugaz \(feat\. Rubén Albarrán\) \- En Vivo](https://open.spotify.com/track/3UymFgXyRZun9nBxj4tiVI) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 5:48 | 2023-01-14 |  |
+| [Gracias por Existir](https://open.spotify.com/track/1OoJSOXUn67BOzoMHUqfO7) | [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Gracias Por Existir](https://open.spotify.com/album/2Xdby9NkJLVGD5eBBC9Y35) | 3:52 | 2024-04-10 |  |
 | [Gracias por Existir](https://open.spotify.com/track/2mov3c2vD31ddEW8HneYcO) | [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Gracias por Existir](https://open.spotify.com/album/2MZTSJ86WPeIM5oEtnRYRQ) | 3:52 | 2023-07-17 | 2023-08-07 |
 | [Hasta Que Te Conocí](https://open.spotify.com/track/7f2Rpazz6GxPwKKGcTK3LA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 5:22 | 2023-01-14 |  |
 | [Hostilidades \- En Vivo](https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 2:41 | 2023-07-29 |  |
@@ -47,7 +48,7 @@
 | [María \(feat\. Toño Lira\) \- En Vivo](https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Toño Lira](https://open.spotify.com/artist/3SzI0qa8RrThX1grtj1IaX) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 3:42 | 2024-04-02 |  |
 | [Nada Pasó](https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:39 | 2023-01-14 |  |
 | [No Me Digas Que Te Vas \(feat\. Liquits\)](https://open.spotify.com/track/3R6hm07kmnyFTKAqtjI6D0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 3:24 | 2023-01-14 |  |
-| [No Me Vayas a Dejar](https://open.spotify.com/track/15WIt660rRzkOZxD6w5h8T) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:12 | 2023-01-14 |  |
+| [No Me Vayas a Dejar](https://open.spotify.com/track/15WIt660rRzkOZxD6w5h8T) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:12 | 2023-01-14 | 2024-04-10 |
 | [No Sé Porque](https://open.spotify.com/track/3aElJpnMXSNwF2SmjiDFSA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Ni Carne Ni Pescado](https://open.spotify.com/album/04HBP9fEv4mvhtBV0DPrm6) | 2:40 | 2023-01-14 | 2023-12-14 |
 | [No Te Recuerdo](https://open.spotify.com/track/11HEIqmrGM1hh1KW63DGdi) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:53 | 2023-01-14 |  |
 | [No Voy A Llorar](https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 4:46 | 2023-01-14 |  |

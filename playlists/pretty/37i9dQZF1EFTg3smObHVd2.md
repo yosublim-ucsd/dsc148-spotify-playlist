@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 79 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
 | 80 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 
-Snapshot ID: `Mjg1NDM4MjAsMDAwMDAwMDBkOTdjMDk0N2NlNzNkNzE2Mzc5MjBkZjgzMjhiYWQ3Yw==`
+Snapshot ID: `Mjg1NDUyNjAsMDAwMDAwMDBiODNhN2EwNjRjOGIxY2YxZmMxYjNhZmZlM2QxNmJhNQ==`

@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Flor Alvarez & Dj Tao.
 
-512 songs - 1 day 1 hr 16 min
+513 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Cuéntale](https://open.spotify.com/track/6T9FCkiIPtowqeSb5ePTeH) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [The Sistars](https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa) | [Cuentale](https://open.spotify.com/album/1kf8oWvNE0SeDWowrkmVtC) | 2:21 | 2021-12-23 | 2022-07-29 |
 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 | 2021-12-23 |  |
 | [Dame un Besito](https://open.spotify.com/track/2Vl1IkovKwtLBAVUdOqZ0a) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Dame un Besito](https://open.spotify.com/album/2KephD8YhQRMfagIcLI7r8) | 3:15 | 2023-02-03 | 2023-11-27 |
+| [De 100 a 0](https://open.spotify.com/track/1RKBRNLdt9nNri2wraNAzn) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [De 100 a 0](https://open.spotify.com/album/6gw3DJu5DZWgAega1XthDP) | 3:12 | 2024-04-05 |  |
 | [De 100 a 0](https://open.spotify.com/track/0qRGHWWeGfBylFP2VPMBWd) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [De 100 a 0](https://open.spotify.com/album/3wyFppvqCcSXcTMVAo52B0) | 3:12 | 2023-09-15 | 2023-12-11 |
 | [De los Besos Que Te Di](https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [De los Besos Que Te Di](https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws) | 3:06 | 2022-11-11 | 2023-09-30 |
 | [De Trampa](https://open.spotify.com/track/6IFkitGqzYl4u7cDwTNN5v) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI), [ROY EN LA CASA](https://open.spotify.com/artist/5aNUiiNPY4CPvkoR574VAr) | [De Trampa](https://open.spotify.com/album/6Lyt4SqPG3cuJkNgPMMHuf) | 3:04 | 2022-04-15 | 2022-07-12 |
@@ -507,7 +508,7 @@
 | [Ya No Me Busques Mas](https://open.spotify.com/track/35dWddcU7c8iyXqthtCabc) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Ya No Me Busques Mas](https://open.spotify.com/album/7oHtJXroOD0BzogndSZsYS) | 3:25 | 2022-01-03 | 2022-07-15 |
 | [Ya no me duele :,\)](https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Cele Arrabal](https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl) | [Ya no me duele :,\)](https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp) | 2:37 | 2023-12-22 |  |
 | [Ya No Más](https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Ya No Más](https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl) | 2:38 | 2021-12-23 |  |
-| [Ya No Más](https://open.spotify.com/track/1NMPzsPosYJD13wunBmEAH) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Ya No Más](https://open.spotify.com/album/1SnDAxojz0thet0EtNwP7e) | 2:20 | 2023-11-17 |  |
+| [Ya No Más](https://open.spotify.com/track/1NMPzsPosYJD13wunBmEAH) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Ya No Más](https://open.spotify.com/album/1SnDAxojz0thet0EtNwP7e) | 2:20 | 2023-11-17 | 2024-04-10 |
 | [Ya No Queda Nada \- Remix](https://open.spotify.com/track/6HB804YNEstMYi4eRnbJk0) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [Kaele DJ](https://open.spotify.com/artist/0uKyDdxjT3KId4PGNZOoN4) | [Ya No Queda Nada \(Remix\)](https://open.spotify.com/album/5MRsCkHLFdr723Wd18uOrx) | 2:49 | 2022-03-18 | 2022-05-20 |
 | [Ya No Quiero Tu Amor](https://open.spotify.com/track/727YOg5FXQRHGWuVQzA1fc) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Ya No Quiero Tu Amor](https://open.spotify.com/album/24j167X1ru66Um4uSmZB0V) | 3:35 | 2021-12-23 | 2022-05-31 |
 | [Ya No Quiero Verte](https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Ya No Quiero Verte](https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS) | 2:45 | 2022-10-28 |  |

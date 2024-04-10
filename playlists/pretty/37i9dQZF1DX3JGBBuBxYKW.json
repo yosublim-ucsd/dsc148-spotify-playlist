@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 96590,
+  "num_followers": 96562,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjE2OWYyYjY0YzUyNDIxNTJjZWE3ZTZiOWY5YmJmNjc3Mzk0YjQ3",
+  "snapshot_id": "MCxmMmIyODVjYThkZTFhYWQxNjUxN2E4MDQzYTE4YzNiZWQ3MjQxOTYx",
   "tracks": [
     {
       "added_at": "2024-04-05 17:19:20",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-04-05 17:19:20",
       "album": {
+        "name": "La Chismeadera",
+        "url": "https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 219282,
+      "name": "La Chismeadera",
+      "url": "https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU"
+    },
+    {
+      "added_at": "2024-04-05 17:19:20",
+      "album": {
         "name": "Pirata",
         "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 170192,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
-    },
-    {
-      "added_at": "2024-04-05 17:19:20",
-      "album": {
-        "name": "Ya No Cabes en Mi Vida",
-        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Ya No Cabes en Mi Vida",
-      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
     },
     {
       "added_at": "2024-04-05 17:19:20",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-04-05 17:19:20",
       "album": {
-        "name": "Pecados Tropicales",
-        "url": "https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn"
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
       },
       "artists": [
         {
-          "name": "Kumbia Queers",
-          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
         }
       ],
-      "duration_ms": 182338,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm"
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
     }
   ],
   "unique_name": "Cumbieras",

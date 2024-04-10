@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-43 songs - 2 hr 30 min
+44 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [It's All A Blur](https://open.spotify.com/track/77tvzb6cRvtpoesYfJHhgC) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:14 | 2024-01-29 |  |
 | [Jheeze](https://open.spotify.com/track/6jYO8RSMk85V3rf460rfgp) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Cosmic EP](https://open.spotify.com/album/1BILYdgS6lJKkFmlEgAWtP) | 3:14 | 2024-01-29 |  |
 | [Just a Little](https://open.spotify.com/track/6GDoulv0WO25vEFjN6pZOq) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Just a Little](https://open.spotify.com/album/3HozEf10DwxV06n4WZ6Kym) | 3:43 | 2024-01-29 |  |
+| [leave it](https://open.spotify.com/track/0eJNz2dntjRD3GtmP6o1zY) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [leave it](https://open.spotify.com/album/3A8Lt0gvEbH3ULqwhBT0wH) | 2:15 | 2024-04-09 |  |
 | [LET GO LET GOOO](https://open.spotify.com/track/7idRGEhuNircZRdZgHJ8a3) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [LET GO LET GOOO](https://open.spotify.com/album/0xkLo9Ix2uQNHMJUiWaLFJ) | 2:04 | 2024-01-29 |  |
 | [Lie & Cheat \(feat\. Lauren Faith\)](https://open.spotify.com/track/79ty6gcstFS0M4mDKE1TT7) | [Pearl](https://open.spotify.com/artist/3G9uo23A4EPp4O1oUbaJGU), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Open](https://open.spotify.com/album/5I3UFCOe6thdof12k7AEU7) | 2:46 | 2024-01-29 |  |
 | [LIFE AS WE DREAMED](https://open.spotify.com/track/2xItCQmOOhSx7daRBXYAW8) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART ONE](https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY) | 1:46 | 2024-01-29 |  |

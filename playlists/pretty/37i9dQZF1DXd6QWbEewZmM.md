@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,295 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,349 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 52 | [Las Razones](https://open.spotify.com/track/1iYYianrZZiSmIKldBfFq9) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 4:09 |
 | 53 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ) | 3:44 |
 | 54 | [Mi Otra Mitad](https://open.spotify.com/track/5JQNO0rhJUdOevWVvSWjro) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 2:51 |
-| 55 | [CRIES IN SPANISH](https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:06 |
+| 55 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 |
 | 56 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
-| 57 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 |
+| 57 | [CRIES IN SPANISH](https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:06 |
 | 58 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 |
 | 59 | [Solo Tu Podras](https://open.spotify.com/track/4n8zQAFzSi3jH3JQGsbI86) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Solo Tu Podras](https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W) | 3:26 |
 | 60 | [Una Mentirosa](https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Una Mentirosa](https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs) | 3:02 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 68 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 |
 | 69 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 |
 | 70 | [Videos y Fotos](https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 3:40 |
-| 71 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
-| 72 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 |
+| 71 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 |
+| 72 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
 | 73 | [Nos Pertenecemos](https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Nos Pertenecemos](https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c) | 3:05 |
 | 74 | [Año Nuevo](https://open.spotify.com/track/6s2YmUFyj2krxfHcXevEH7) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [Año Nuevo](https://open.spotify.com/album/0FAyOaoGk5lvBjzjkE075P) | 2:53 |
 | 75 | [Mi Nena](https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww) | [Nueva Conducta](https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5) | [Mi Nena](https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF) | 2:29 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 84 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
 | 85 | [Es Diferente](https://open.spotify.com/track/2jNBVmei23ag6hYbxiZr8A) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Es Diferente](https://open.spotify.com/album/1G4PFNNCrqMyZfkEynA0PG) | 4:03 |
 | 86 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
-| 87 | [Te Voy a Olvidar \- En Vivo Desde Culican 2013](https://open.spotify.com/track/5fedAEelUOnWUd9URBVhbl) | [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [Las Preferidas, Vol\. 1](https://open.spotify.com/album/2BoP3cmbcNHpQnpBgcSgmm) | 2:54 |
-| 88 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
+| 87 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
+| 88 | [Te Voy a Olvidar \- En Vivo Desde Culican 2013](https://open.spotify.com/track/5fedAEelUOnWUd9URBVhbl) | [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [Las Preferidas, Vol\. 1](https://open.spotify.com/album/2BoP3cmbcNHpQnpBgcSgmm) | 2:54 |
 | 89 | [Tiempo](https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Tiempo](https://open.spotify.com/album/0YK6koGYXva8aceQpman6H) | 2:21 |
 | 90 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 |
 | 91 | [Pensando En Ti](https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pensando En Ti](https://open.spotify.com/album/7fXMAtYUmRHuEK3vFQCMXN) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 99 | [Que Me Fallo](https://open.spotify.com/track/1Np9UBGF8Mjhr6UqdhxMLX) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Que Me Fallo](https://open.spotify.com/album/3mIMczwXK7jgzsCTUhmUi0) | 4:02 |
 | 100 | [Recuerdos](https://open.spotify.com/track/4VYIjka3jU37abseXFmiDE) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Recuerdos](https://open.spotify.com/album/4QSSpz2Vsd8A9K7AI0O3sK) | 3:11 |
 
-Snapshot ID: `MCw4YjdiNGM1MjZmNzNmZTM3ZjkzM2FiNjhiZjQxYmI3N2Y1NmE1NGVj`
+Snapshot ID: `MCxjNTIxZWRhYjE4Mjg2ODhhZDY3ZmI3OTg1MmYxMGNkOGQyMzhjODRj`

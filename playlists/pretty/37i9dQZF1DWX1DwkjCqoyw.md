@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands all in one place\. Cover: Shaggy
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,059 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,070 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 18 | [For Granted](https://open.spotify.com/track/5KpmMIkyXmcXdAnuMWOcmm) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [For Granted](https://open.spotify.com/album/4BVdbe4QMMsmepqTHmaj2j) | 3:08 |
 | 19 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 |
 | 20 | [Mona Lisa](https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Mona Lisa](https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4) | 2:29 |
-| 21 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 |
+| 21 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
 | 22 | [Over You](https://open.spotify.com/track/4zqSYxKE9K6B4eghImq7pz) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9), [Massive B](https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY), [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [Over You](https://open.spotify.com/album/3lge68HMMFfdxpVlh9xwrt) | 1:56 |
-| 23 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
+| 23 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 |
 | 24 | [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 |
 | 25 | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq) | 2:04 |
 | 26 | [Protocol](https://open.spotify.com/track/5SqaYcPSRGSg7ZzT7aLzcK) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [1stClass](https://open.spotify.com/artist/2Ij4d78H8hZnKFSqX1gAwp) | [Protocol](https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 49 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 |
 | 50 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 |
 
-Snapshot ID: `MCxmMTZkMzc4YWNjODFiYTJmNGMxMDBhMzZkMGRiODYxZGE5MWIyNTI5`
+Snapshot ID: `MCxjNzM1ZGY4MGQ3ZmUwZjQ3ODQyZDU1MTc4NWRkOTlhODIxYjk2ZjUx`

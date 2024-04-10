@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp"
+      },
+      "artists": [
+        {
+          "name": "Idaho",
+          "url": "https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190731,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl"
+    },
+    {
+      "album": {
         "name": "Control (Remastered)",
         "url": "https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr"
       },
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 280473,
       "name": "Red Right Hand",
       "url": "https://open.spotify.com/track/5acXrmMJ2HFympa3z0Rfrk"

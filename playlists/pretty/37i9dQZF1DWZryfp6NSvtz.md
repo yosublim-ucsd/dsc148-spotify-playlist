@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Boston Manor
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,679 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,792 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 13 | [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 |
 | 14 | [Good Time](https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Good Time](https://open.spotify.com/album/0OnblvmyOmNIlMGL6rxLWx) | 3:06 |
 | 15 | [Merry Old England](https://open.spotify.com/track/3BxzLyZAlj0fKDGo9iuw5F) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Merry Old England](https://open.spotify.com/album/1RpgtAy5HNiaRZD1pwCmAb) | 4:49 |
-| 16 | [BLACK DOG / WHITE HORSE \- bd/wh](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 |
+| 16 | [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 |
 | 17 | [is it too late?](https://open.spotify.com/track/7nM7v4mzorGlZbsJlhuDL3) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [is it too late?](https://open.spotify.com/album/45hjkRFUziCz2LKSNw8i6g) | 2:39 |
 | 18 | [Morally Incompetent](https://open.spotify.com/track/1bERv8NtCGlfJCXCl829ut) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Do Not Resuscitate](https://open.spotify.com/album/39IVtNjsI3Dw8V9vGB6y5o) | 2:55 |
 | 19 | [Camadas](https://open.spotify.com/track/0nQ7KC076ErLNE6PtDim1V) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora \- PARTE 1](https://open.spotify.com/album/4LketVVipjzizVzYqTojSE) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [As a Brother](https://open.spotify.com/track/4StOaN23EXEUt2RaCK3xId) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Deep In Denial](https://open.spotify.com/album/6cysZ8y35sWkZSDZ3oS249) | 3:16 |
 | 50 | [Best Kept Secret](https://open.spotify.com/track/11qNkUEcGwYv08mjgNkfpN) | [Finding Aurora](https://open.spotify.com/artist/5cg6ycryqQJewFOqeffsC0) | [Best Kept Secret](https://open.spotify.com/album/5sLb8EDv4egWeGOFzDohlS) | 3:28 |
 
-Snapshot ID: `MCxhYzMyZjM4M2I1ZTEwNmFlZGUzOGM0N2U5MTJlYzQ1ZWFhYjEzNmQ3`
+Snapshot ID: `MCwwZDI3YjQ0OTU0ZjljOTg2YWI3ZTJmY2I5N2JmZGM0MmYyZDU4ZmZl`

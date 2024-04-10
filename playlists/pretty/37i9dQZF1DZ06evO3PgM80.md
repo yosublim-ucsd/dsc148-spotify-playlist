@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,781 likes - 44 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,788 likes - 44 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 39 | [Cantarei \(Meu Salvador\) / Risen Savior \(Sing My Soul\)](https://open.spotify.com/track/2drrh4wKrCrZfTqn3SRKaZ) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Cantarei \(Meu Salvador\) / Risen Savior \(Sing My Soul\)](https://open.spotify.com/album/1YnzLpr6pmmOTuMyZuxrcu) | 9:14 |
 | 40 | [Vem Quebra As Barreiras / Come And Tear Down The Walls](https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Vem Quebra As Barreiras / Come And Tear Down The Walls](https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h) | 6:06 |
 | 41 | [Hambre Y Sed](https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Hambre Y Sed](https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB) | 6:01 |
-| 42 | [Há Liberdade Aqui \- Ao Vivo](https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Há Liberdade Aqui \(Ao Vivo\)](https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn) | 9:28 |
-| 43 | [Lindo Jesus](https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Testemunho](https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz) | 4:41 |
+| 42 | [Lindo Jesus](https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Testemunho](https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz) | 4:41 |
+| 43 | [Há Liberdade Aqui \- Ao Vivo](https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Há Liberdade Aqui \(Ao Vivo\)](https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn) | 9:28 |
 | 44 | [Manto de Cristo](https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Luz da Luz](https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf) | 10:37 |
 
-Snapshot ID: `MCwyNDc4MjdjOGM4NjE0MmY3MTc0YzAyN2QzYzhjNWQwYTViYjgzZDA4`
+Snapshot ID: `MCw4NzYwNjU2NjI3OGU5NTNhNTA4N2Y3MjEyNWJiZDRmYjgxNGRlM2Jh`

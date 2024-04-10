@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 
 > resurging tracks coming in hot\. cover: Hozier in his "Take Me To Church" era
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,317 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,467 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 | 49 | [Baby](https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:34 |
 | 50 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 
-Snapshot ID: `MCw3ZjFjNjJlYTI4NDk4ZDY4MGU1ZmRjZmFiYmFjM2IzNmM3ODUxMzVj`
+Snapshot ID: `MCxiZDIxY2U0YzA4NzcxZjgwZjY5NjBlYWMxNmZlZDU1YzBlZGNjMGFi`

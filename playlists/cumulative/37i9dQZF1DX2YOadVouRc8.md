@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-407 songs - 20 hr 4 min
+408 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 | 2024-02-02 | 2024-02-16 |
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-01-05 |  |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-08-05 |
-| [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 | 2023-11-17 |  |
+| [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 | 2023-11-17 | 2024-04-10 |
 | [Feeling](https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [4 Play](https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ) | 2:23 | 2022-06-09 | 2023-03-11 |
 | [feeling lonely](https://open.spotify.com/track/724JoIfyLE80Ctr29UhHvV) | [Obembe](https://open.spotify.com/artist/3BtuRQMNvyNMsXQneahybl), [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Blicbee](https://open.spotify.com/artist/4js9YFDtEQAB96RAktFmv5) | [feeling lonely](https://open.spotify.com/album/3CsUunOj0HJ45lwS5TfigX) | 2:10 | 2023-12-08 | 2024-01-26 |
 | [Feeling U](https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Feelin U](https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6) | 3:21 | 2022-06-09 | 2023-05-27 |
@@ -160,6 +160,7 @@
 | [Heavy Rotation](https://open.spotify.com/track/7m3Udvtkx3DsFmpCPpyhLh) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Yes Indeed \(Deluxe\)](https://open.spotify.com/album/6m9j2xBpJctycwE05Ku0xz) | 2:36 | 2024-02-16 | 2024-03-22 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2023-12-02 |
 | [high and sober \(go on soun\)](https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC \(RELOADED\)](https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ) | 2:21 | 2024-02-16 |  |
+| [Higher Powers](https://open.spotify.com/track/2XcjvBNRpj2ZwRrlco3pvF) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [The Messenger](https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi) | 2:57 | 2024-04-05 |  |
 | [History](https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [History](https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0) | 2:57 | 2022-06-09 | 2023-12-15 |
 | [Holiday Sniping](https://open.spotify.com/track/1fZS5QzwiwU3BvE9FJHo6d) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Holiday Sniping](https://open.spotify.com/album/2bByla9AqUB3Rqgz2nFd0F) | 2:22 | 2023-10-27 | 2023-12-02 |
 | [Holy Pass \(feat\. 1da Banton\)](https://open.spotify.com/track/11XfkUA9RygQ7UFoZ5stfH) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [NO PRESSURE](https://open.spotify.com/album/1SuP7VA3qfRhwV5vRscb9q) | 3:00 | 2023-07-28 | 2023-10-15 |

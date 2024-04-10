@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,076 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,102 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 46 | [Final Girl](https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO) | 4:29 |
 | 47 | [Right On, Frankenstein!](https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:05 |
 | 48 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
-| 49 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
-| 50 | [MORBID FASCINATION](https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08) | 3:46 |
+| 49 | [MORBID FASCINATION](https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08) | 3:46 |
+| 50 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
 | 51 | [Skeleton Song](https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 5:07 |
 | 52 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
 | 53 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 79 | [Dark and Stormy](https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk) | 4:55 |
 | 80 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
 
-Snapshot ID: `MCxkOTgxYjI0OWY0NjI1ZmNhOWQ1YjVlNGNlOTRiYjE0YTYwMmZiNzhj`
+Snapshot ID: `MCw0NmNmYjQxNzczYzEwYjMzMTgwNGI4NTkxMzAxYjhmY2Q4ZTZkOTYx`

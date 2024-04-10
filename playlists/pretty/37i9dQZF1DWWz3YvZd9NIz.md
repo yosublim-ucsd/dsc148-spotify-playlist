@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,408 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,506 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 49 | [Middle Of The Night](https://open.spotify.com/track/61G3o8mwI8kBiIf7FMX0bi) | [Dom Livez](https://open.spotify.com/artist/1ON8OYB3qf2Yafnqt1ZStP) | [Middle Of The Night](https://open.spotify.com/album/0hr9V7n6knEkzuLOQbsQGm) | 2:34 |
 | 50 | [Country Roads](https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Country Roads](https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf) | 2:53 |
 | 51 | [Alone, Pt\. II \- Da Tweekaz Remix](https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Alone, Pt\. II \(Remixes\)](https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X) | 3:42 |
-| 52 | [Vois Sur Ton Chemin \- Hardstyle](https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa) | [Bern\-AT & WARLEX](https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf), [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [Vois Sur Ton Chemin \(Hardstyle\)](https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR) | 3:59 |
-| 53 | [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 |
+| 52 | [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 |
+| 53 | [Vois Sur Ton Chemin \- Hardstyle](https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa) | [Bern\-AT & WARLEX](https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf), [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [Vois Sur Ton Chemin \(Hardstyle\)](https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR) | 3:59 |
 | 54 | [What's Up?](https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [What's Up?](https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z) | 3:12 |
 | 55 | [Zombie Nation](https://open.spotify.com/track/28p8D5MFCUPjLO7xfybSqT) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Zombie Nation](https://open.spotify.com/album/7MlmX8r4WQ4U1HmaSu2mVU) | 2:29 |
 | 56 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Cotton Eye Joe](https://open.spotify.com/track/3iq4M1xPl3YRXRUUAIdREt) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cotton Eye Joe](https://open.spotify.com/album/07XX6CrSeg9PSotzpi36EG) | 2:26 |
 | 70 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
 
-Snapshot ID: `MCxmM2NkMTc5MTIwNjBiNWZmMTcxYTI2NjMxNDNiMzE5OGMzNmY2NzVl`
+Snapshot ID: `MCw0ZDc4ZTk4NzVjMGE0NTJhODU3MmYyNDk3M2ZmZjNiYzE4ODM0NTAy`

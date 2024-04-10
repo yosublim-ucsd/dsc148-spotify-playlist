@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,405 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,413 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 18 | [Pueblo Motoquero](https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4) | [Tren Loco](https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab) | [Venas De Acero](https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl) | 4:46 |
 | 19 | [Desperate Cry](https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 6:41 |
 | 20 | [La Culpa Al Viento](https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr) | [Los Antiguos](https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91) | [Madera Prohibida](https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb) | 5:11 |
-| 21 | [Como Relámpago en la Oscuridad](https://open.spotify.com/track/1f4XTlw5UXx9jIkl3rr0PA) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [La Industria del Poder](https://open.spotify.com/album/6EzOsuKn38yWoNgpy9veNr) | 5:00 |
-| 22 | [Deseando Destruir y Matar](https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms) | [V8](https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa) | [Un Paso Mas en la Batalla](https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z) | 5:16 |
+| 21 | [Deseando Destruir y Matar](https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms) | [V8](https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa) | [Un Paso Mas en la Batalla](https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z) | 5:16 |
+| 22 | [Como Relámpago en la Oscuridad](https://open.spotify.com/track/1f4XTlw5UXx9jIkl3rr0PA) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [La Industria del Poder](https://open.spotify.com/album/6EzOsuKn38yWoNgpy9veNr) | 5:00 |
 | 23 | [En la Jaula](https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q) | [Horcas](https://open.spotify.com/artist/0R0FEEepfDr3js3lsGPykq) | [Por Tu Honor](https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12) | 3:57 |
 | 24 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
 | 25 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [Merciless machine \- Remastered](https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [U.F.T.M 2017 \(Remastered\)](https://open.spotify.com/album/15e9w4RyMCiYgC5SgLkxaV) | 5:15 |
 | 50 | [Acero Inmortal](https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Fugitive State of Mind](https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai) | 3:47 |
 
-Snapshot ID: `MCw4MTUwNTI0ODA3NTJiOTQ2YzgzNDMzZTgxN2U5YjM4NDliMTQzZTMw`
+Snapshot ID: `MCxlMmNmYWIwN2JkZWFlN2RmMDAzMDhiZGU1YmY3Nzc5OGE5NGFhN2Vm`

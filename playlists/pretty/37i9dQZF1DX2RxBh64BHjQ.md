@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:23xFbA9rYgRX8mreqysWPc">Bossman Dlow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,772,013 likes - 99 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,772,019 likes - 99 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 5 | [Birthday](https://open.spotify.com/track/24b5TbtIBm5xRixapLABo7) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Birthday](https://open.spotify.com/album/1xnYdPt8wEZyOwH8Q9GCNY) | 3:59 |
 | 6 | [YOSHIMITSU](https://open.spotify.com/track/5X5Aw2yaaCXncoiQh3gWRc) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [YOSHIMITSU](https://open.spotify.com/album/4slW380gBywM6GpFwXzYWi) | 2:52 |
 | 7 | [Same](https://open.spotify.com/track/6nqni866nZIDToOS8dC7NH) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Same](https://open.spotify.com/album/5LY0M0pI4ha5DvUuneqTpM) | 2:30 |
-| 8 | [HIT DIFF \(feat\. KARRAHBOOO, Camo!\)](https://open.spotify.com/track/46ZDsr3xj7wKCokimrhYOc) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Camo](https://open.spotify.com/artist/2o2AdpYle5NrFYEU7AoMOe) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:27 |
+| 8 | [HIT DIFF \(feat\. KARRAHBOOO, Camo!\)](https://open.spotify.com/track/46ZDsr3xj7wKCokimrhYOc) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:27 |
 | 9 | [All Dere \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:56 |
 | 10 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
 | 11 | [Leaving the Lot](https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 3:09 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Aretha Franklin \(feat\. Luh Tyler\)](https://open.spotify.com/track/2dPYDZvbf76ZwVbMKwbz7n) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 3:30 |
 | 99 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 
-Snapshot ID: `MCxhNWQ3NDZkZjMxZGY1OTE0MzJhMzkwZjkwYjgzODZjYTc3N2E0MTU2`
+Snapshot ID: `MCxhMTY1ODhjMzU1NGFjNTZhZjZkZGVjMTdlM2UyZGU4M2ZjMDRlMTdl`

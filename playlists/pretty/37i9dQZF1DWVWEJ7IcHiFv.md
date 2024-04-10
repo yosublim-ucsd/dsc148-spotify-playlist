@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,420 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,459 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 49 | [Dr\. Beat](https://open.spotify.com/track/21kwcsNL7YnianpVjXumHc) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Eyes Of Innocence](https://open.spotify.com/album/46Hw8UXhTzNrI1Yroh7oEf) | 4:22 |
 | 50 | [Rhythm Is Gonna Get You](https://open.spotify.com/track/6302KY4zq4Bpx823hyk4Kk) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 3:55 |
 
-Snapshot ID: `MCw5NGJjZjIyMzYwYjAzN2JmNzljMzk4YzUwYzdjYzdmNTRiZjA5MWFj`
+Snapshot ID: `MCw5NWVkNzgyZDY4YjgxZGRjNDI2ZmQ4ODYxZGJhMmU5NWYxMzczNjEy`

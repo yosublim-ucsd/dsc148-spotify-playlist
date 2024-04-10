@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,636 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,667 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 49 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 50 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 |
 
-Snapshot ID: `MCxiOTRhMDhhNGE5ZTIzMWUxNjc1MzVmMGVlN2JlMThmYjk3ZWZlNzVj`
+Snapshot ID: `MCwwOGE0MzZlNmRkMGNhMTE0NTQxNWM1NGZiOGJmOGFlZGZlMTE0OWVk`

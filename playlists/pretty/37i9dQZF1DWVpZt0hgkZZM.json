@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 29975,
+  "num_followers": 30004,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjNhYTk0MDc3ZDg4NWIzNzE4NzY2OGVkOTA5OGIxZWI3YzhiMDg0",
+  "snapshot_id": "MCxiOTQxYjE5Mjc1MTBjMDM4ZGFhMDE0YTNiY2I2ZmZjOTY4ODk5NGI3",
   "tracks": [
     {
       "added_at": "2024-04-06 00:31:40",
@@ -311,6 +311,26 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Disco Arranhado (Funk Remix)",
+        "url": "https://open.spotify.com/album/75ag5dnwFHBqQ3XB9l5fZg"
+      },
+      "artists": [
+        {
+          "name": "Malu",
+          "url": "https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ"
+        },
+        {
+          "name": "DJ Lucas Beat",
+          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+        }
+      ],
+      "duration_ms": 125560,
+      "name": "Disco Arranhado - Funk Remix",
+      "url": "https://open.spotify.com/track/3SI736Mng30L5ZTpGEhKEr"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 303293,
       "name": "Pegame Tu Vicio",
       "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Disco Arranhado (Funk Remix)",
-        "url": "https://open.spotify.com/album/75ag5dnwFHBqQ3XB9l5fZg"
-      },
-      "artists": [
-        {
-          "name": "Malu",
-          "url": "https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ"
-        },
-        {
-          "name": "DJ Lucas Beat",
-          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
-        }
-      ],
-      "duration_ms": 125560,
-      "name": "Disco Arranhado - Funk Remix",
-      "url": "https://open.spotify.com/track/3SI736Mng30L5ZTpGEhKEr"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -999,18 +999,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "14 vallenatos sabroso",
-        "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
       "artists": [
         {
-          "name": "14 vallenatos sabroso corta venas vol.1 exitos",
-          "url": "https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
         }
       ],
-      "duration_ms": 283103,
-      "name": "muero por verla luis mateus vallenato",
-      "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
+      "duration_ms": 244506,
+      "name": "Tabaco y Ron",
+      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+        "name": "14 vallenatos sabroso",
+        "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "14 vallenatos sabroso corta venas vol.1 exitos",
+          "url": "https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Tabaco y Ron",
-      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
+      "duration_ms": 283103,
+      "name": "muero por verla luis mateus vallenato",
+      "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Mentirosa",
         "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 231183,
       "name": "Noches de Fantasia",
       "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Como en un Baile",
-        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 364617,
-      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
-      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Un Mundo De Colores",
         "url": "https://open.spotify.com/album/3bdBFy3ys7ZNU6DybFRLff"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 254902,
       "name": "Mas Que Amiga",
       "url": "https://open.spotify.com/track/7rqKqtWF99DvueyNdRImXf"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Como en un Baile",
+        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 364617,
+      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
+      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Historia M\u00fasical - 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/08HcNFrvSVdG8h1zOJj7nO"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Mar de Emociones",
+      "url": "https://open.spotify.com/track/5Ocn6dZ3BJFPWh4ylwFXtn"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 176509,
       "name": "Fantas\u00eda Nocturna",
       "url": "https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Historia M\u00fasical - 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/08HcNFrvSVdG8h1zOJj7nO"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Mar de Emociones",
-      "url": "https://open.spotify.com/track/5Ocn6dZ3BJFPWh4ylwFXtn"
     },
     {
       "added_at": "2024-04-06 00:31:40",

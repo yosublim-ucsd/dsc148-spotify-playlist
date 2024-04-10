@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 389523,
+  "num_followers": 389617,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTUxNjAyZTJkNmQ4ZDQ4MGVhZDY1MjgyMTFlY2Y4ZTdlNjYwMGQ0",
+  "snapshot_id": "MCw0MTJkMDgzNDIwMDEzMmUzN2MyN2VkNTViYzE0ZmZkNDFjZDYyNTUy",
   "tracks": [
     {
       "added_at": "2024-03-07 12:05:42",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "Long Live The Kane",
-        "url": "https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
-        }
-      ],
-      "duration_ms": 319906,
-      "name": "Ain't No Half-Steppin'",
-      "url": "https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR"
-    },
-    {
-      "added_at": "2024-03-07 12:05:42",
-      "album": {
         "name": "As Nasty As They Wanna Be",
         "url": "https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 276466,
       "name": "Me So Horny",
       "url": "https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg"
+    },
+    {
+      "added_at": "2024-03-07 12:05:42",
+      "album": {
+        "name": "Long Live The Kane",
+        "url": "https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        }
+      ],
+      "duration_ms": 319906,
+      "name": "Ain't No Half-Steppin'",
+      "url": "https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR"
     },
     {
       "added_at": "2024-03-07 12:05:42",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "It's A Big Daddy Thing",
-        "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Smooth Operator",
-      "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
-    },
-    {
-      "added_at": "2024-03-07 12:05:42",
-      "album": {
         "name": "Rhyme Pays",
         "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 224866,
       "name": "6 'N the Mornin'",
       "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
+    },
+    {
+      "added_at": "2024-03-07 12:05:42",
+      "album": {
+        "name": "It's A Big Daddy Thing",
+        "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
     },
     {
       "added_at": "2024-03-07 12:05:42",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 257223,
-      "name": "9mm Goes Bang",
-      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
-    },
-    {
-      "added_at": "2024-03-07 12:05:42",
-      "album": {
         "name": "The Magic Number",
         "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 195883,
       "name": "The Magic Number",
       "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
+    },
+    {
+      "added_at": "2024-03-07 12:05:42",
+      "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 257223,
+      "name": "9mm Goes Bang",
+      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
     },
     {
       "added_at": "2024-03-07 12:05:42",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
-      },
-      "artists": [
-        {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN"
-    },
-    {
-      "added_at": "2024-03-07 12:05:42",
-      "album": {
         "name": "Profilin': The Hits",
         "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 222000,
       "name": "I Got It Made",
       "url": "https://open.spotify.com/track/0lkW14JUozTutpgA9r3euE"
+    },
+    {
+      "added_at": "2024-03-07 12:05:42",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
+      },
+      "artists": [
+        {
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN"
     },
     {
       "added_at": "2024-03-07 12:05:42",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "Hip Hop Be Bop",
-        "url": "https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg"
-      },
-      "artists": [
-        {
-          "name": "Man Parrish",
-          "url": "https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr"
-        }
-      ],
-      "duration_ms": 336173,
-      "name": "Hip Hop Be Bop (Original Version)",
-      "url": "https://open.spotify.com/track/21NALHsloDI31T781jDMFw"
-    },
-    {
-      "added_at": "2024-03-07 12:05:42",
-      "album": {
         "name": "Godfather of Hip Hop",
         "url": "https://open.spotify.com/album/41kmQPw8502C7ZMbIbwWWB"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 293733,
       "name": "The Godfather",
       "url": "https://open.spotify.com/track/5Y6IzsuFmYtju3LDWBRWI0"
+    },
+    {
+      "added_at": "2024-03-07 12:05:42",
+      "album": {
+        "name": "Hip Hop Be Bop",
+        "url": "https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg"
+      },
+      "artists": [
+        {
+          "name": "Man Parrish",
+          "url": "https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr"
+        }
+      ],
+      "duration_ms": 336173,
+      "name": "Hip Hop Be Bop (Original Version)",
+      "url": "https://open.spotify.com/track/21NALHsloDI31T781jDMFw"
     },
     {
       "added_at": "2024-03-07 12:05:42",

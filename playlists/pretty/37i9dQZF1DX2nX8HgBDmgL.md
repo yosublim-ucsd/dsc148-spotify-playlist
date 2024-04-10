@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. Cover \- Badshah\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,243 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,322 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 49 | [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 |
 | 50 | [OOPS](https://open.spotify.com/track/20EQiQQYSyuifv6YMj64qP) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 2:43 |
 
-Snapshot ID: `MCwzMmNlYjU4OGEzMjZhNDJmMGZjMzc4YTliOTg2YzU4YjgxNGNjMzMx`
+Snapshot ID: `MCxiNmMzMzc0MjZmZjJmMTc0ZDlhZjQwODVhYjE3NTI5YzZhODFhNDkw`

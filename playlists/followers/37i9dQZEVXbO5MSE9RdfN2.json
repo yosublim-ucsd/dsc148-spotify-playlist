@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 68717,
+  "2024-04-10": 68718,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Australia.",
   "name": "Viral 50 - Australia",
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 192693,
       "name": "Devil You Know",
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
@@ -1525,6 +1525,28 @@
       "duration_ms": 140653,
       "name": "Hell Is Forever",
       "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
     },
     {
       "album": {
@@ -2619,7 +2641,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 114955,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
@@ -4287,7 +4309,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs"

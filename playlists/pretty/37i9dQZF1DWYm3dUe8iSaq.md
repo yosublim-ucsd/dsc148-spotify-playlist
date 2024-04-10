@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,922 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,988 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,35 +58,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 48 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 |
 | 49 | [For Your Touch](https://open.spotify.com/track/5VeUl0KzQQOm4qLzqTyX83) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [For Your Touch](https://open.spotify.com/album/3E6MTeXMibrYqUIqUnn9qO) | 3:02 |
 | 50 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
-| 51 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 |
+| 51 | [\(not\) a love song \- live & acoustic](https://open.spotify.com/track/2mj6zKBKMGwSXU7LTpFoUc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [\(not\) a love song \[live & acoustic\]](https://open.spotify.com/album/43JpjTrym4qo42Ebls3F8R) | 2:49 |
 | 52 | [strawberries for two](https://open.spotify.com/track/33AqMQTISnP1daTHunLVKO) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [strawberries for two](https://open.spotify.com/album/1kMlsA7I3l7LiskTVSlRNX) | 2:41 |
-| 53 | [\(not\) a love song \- live & acoustic](https://open.spotify.com/track/2mj6zKBKMGwSXU7LTpFoUc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [\(not\) a love song \[live & acoustic\]](https://open.spotify.com/album/43JpjTrym4qo42Ebls3F8R) | 2:49 |
-| 54 | [Untitled](https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:33 |
+| 53 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 |
+| 54 | [THE CITY NEVER SLEEPS](https://open.spotify.com/track/3iWEE0xx3HFmVjFjsAyxzk) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [THE CITY NEVER SLEEPS](https://open.spotify.com/album/23moFrYISKXivaLiNPT8ai) | 4:10 |
 | 55 | [Love, The Time Is Now](https://open.spotify.com/track/1lyMIOFj8fddSUNVnPwZ5r) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Love, The Time Is Now](https://open.spotify.com/album/7njpPAO7gbTsNbkzlbzjP9) | 2:23 |
-| 56 | [THE CITY NEVER SLEEPS](https://open.spotify.com/track/3iWEE0xx3HFmVjFjsAyxzk) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [THE CITY NEVER SLEEPS](https://open.spotify.com/album/23moFrYISKXivaLiNPT8ai) | 4:10 |
+| 56 | [Untitled](https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:33 |
 | 57 | [Sentences](https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Sentences](https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b) | 2:13 |
 | 58 | [Party Dress](https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/0SO1c2tJd1cdbNlxM2W4sY) | 3:14 |
 | 59 | [A Love Like That](https://open.spotify.com/track/3S7ZyZIxHglvugzw3vKpuT) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Some Things Break](https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz) | 2:55 |
 | 60 | [Bullet](https://open.spotify.com/track/02xiL1bRrT2lEtrxul4JzB) | [Elizabeth M\. Drummond](https://open.spotify.com/artist/2IHOf4FCu5FCjH0QSPHvCT) | [Bullet](https://open.spotify.com/album/7bUTtLWrkKLsntpZTcacGR) | 3:51 |
 | 61 | [June in July](https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt) | [June in July](https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S) | 3:16 |
 | 62 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 |
-| 63 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 |
-| 64 | [I Can See New Zealand From Here](https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp) | 2:03 |
-| 65 | [This Is How We Move](https://open.spotify.com/track/7BDBOaBevxxjq2VN3WrUyS) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:06 |
+| 63 | [I Can See New Zealand From Here](https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp) | 2:03 |
+| 64 | [This Is How We Move](https://open.spotify.com/track/7BDBOaBevxxjq2VN3WrUyS) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:06 |
+| 65 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 |
 | 66 | [It Takes Time](https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [It Takes Time](https://open.spotify.com/album/4Yc4BxP7CnSSyTkT9FMU3U) | 3:20 |
 | 67 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
-| 68 | [Forever For Now](https://open.spotify.com/track/56CveEemU2lye9WOHVaoh6) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Forever For Now](https://open.spotify.com/album/5fYvianKo0w7xm0BRXIgfw) | 4:13 |
-| 69 | [Lava Lamps](https://open.spotify.com/track/5uxGfABpJl3ZlrpwKL45Bh) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Lava Lamps](https://open.spotify.com/album/45zGYTaMmmAXbYhfVFQcMk) | 2:53 |
-| 70 | [Moon](https://open.spotify.com/track/7lth4zaQynikAy6PS6s1Od) | [Luke De\-Sciscio](https://open.spotify.com/artist/41RGqF0I6xFG0GzQmLKDgb) | [Moon](https://open.spotify.com/album/3iN4WdYeSxUNQP6nd2oUdH) | 5:33 |
-| 71 | [Easy To Learn](https://open.spotify.com/track/09IkwbEsp24Wb3YEUB2GJl) | [Zoe Konez](https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu) | [Easy To Learn](https://open.spotify.com/album/6r0cyoVgZWJzTPLVS2bR0V) | 3:58 |
-| 72 | [Mother Don't You Cry](https://open.spotify.com/track/3AAaRxiAkKyE8r5bU8Luvz) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Mother Don't You Cry](https://open.spotify.com/album/3MQbjzCfeE9Eo3e3khqTTb) | 3:12 |
-| 73 | [Corduroy](https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Corduroy](https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH) | 3:15 |
+| 68 | [Lava Lamps](https://open.spotify.com/track/5uxGfABpJl3ZlrpwKL45Bh) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Lava Lamps](https://open.spotify.com/album/45zGYTaMmmAXbYhfVFQcMk) | 2:53 |
+| 69 | [Forever For Now](https://open.spotify.com/track/56CveEemU2lye9WOHVaoh6) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Forever For Now](https://open.spotify.com/album/5fYvianKo0w7xm0BRXIgfw) | 4:13 |
+| 70 | [Easy To Learn](https://open.spotify.com/track/09IkwbEsp24Wb3YEUB2GJl) | [Zoe Konez](https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu) | [Easy To Learn](https://open.spotify.com/album/6r0cyoVgZWJzTPLVS2bR0V) | 3:58 |
+| 71 | [Moon](https://open.spotify.com/track/7lth4zaQynikAy6PS6s1Od) | [Luke De\-Sciscio](https://open.spotify.com/artist/41RGqF0I6xFG0GzQmLKDgb) | [Moon](https://open.spotify.com/album/3iN4WdYeSxUNQP6nd2oUdH) | 5:33 |
+| 72 | [Corduroy](https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Corduroy](https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH) | 3:15 |
+| 73 | [Mother Don't You Cry](https://open.spotify.com/track/3AAaRxiAkKyE8r5bU8Luvz) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Mother Don't You Cry](https://open.spotify.com/album/3MQbjzCfeE9Eo3e3khqTTb) | 3:12 |
 | 74 | [Young](https://open.spotify.com/track/1p4iQ1vXaXtoM8SyOamNNU) | [Nanuk](https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7) | [Young](https://open.spotify.com/album/6J0Giau2BxwhGBYS4UDcic) | 3:21 |
 | 75 | [Like I Used To](https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Like I Used To](https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe) | 2:40 |
 | 76 | [Stow Brae](https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Stow Brae](https://open.spotify.com/album/0CbHExiIeCAhFeOVxH8D1T) | 2:42 |
 | 77 | [Brother](https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Brother](https://open.spotify.com/album/58GJ648X070rfl1apkW3MT) | 3:47 |
 | 78 | [High & Low](https://open.spotify.com/track/21vR6ME6fngSvEN8oW2uEg) | [Gemma Hayes](https://open.spotify.com/artist/1blgL26JbtaUUKUEMR6Hs2) | [High & Low](https://open.spotify.com/album/1dsyvDDlTPjDYRnMjYnkWb) | 3:53 |
-| 79 | [Another Day](https://open.spotify.com/track/4rlXhOtWRzGhxjgr9FRKF0) | [Ben Stafford](https://open.spotify.com/artist/3pWZ3BMPDAaoNd1DciVMyd) | [Beudy Penlan](https://open.spotify.com/album/1RA5ryginKxtFUqkFfaNT2) | 2:58 |
-| 80 | [I Don't Know Why](https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9) | 3:24 |
+| 79 | [My Heart Can't Take A Hint](https://open.spotify.com/track/79r6w6rpfSDdq2qSleztWj) | [Swimmingly](https://open.spotify.com/artist/5TwNdcFYWfZtvq3uUPKvTg) | [My Heart Can't Take A Hint](https://open.spotify.com/album/4BllECII7yWwrw1dwuDQiX) | 2:51 |
+| 80 | [Another Day](https://open.spotify.com/track/4rlXhOtWRzGhxjgr9FRKF0) | [Ben Stafford](https://open.spotify.com/artist/3pWZ3BMPDAaoNd1DciVMyd) | [Beudy Penlan](https://open.spotify.com/album/1RA5ryginKxtFUqkFfaNT2) | 2:58 |
 
-Snapshot ID: `MCwxN2M5NzIxM2VkY2RlZDBmYTM5MjgwYmY1NmQzYmZhZWE1NjUyNWRi`
+Snapshot ID: `MCwwODVjZGU3NDlkZDNhM2I0ZGU1M2QxNTNkNzhlMWM1ZGVlOTBmM2E0`

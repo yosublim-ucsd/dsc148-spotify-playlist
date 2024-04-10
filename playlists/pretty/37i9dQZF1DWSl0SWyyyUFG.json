@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 253519,
+  "num_followers": 253774,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjEzOTc3ZTQ5MTBkODFkYWFhZTEyYTYxMjc1Y2NiNzUxNWEzYTdi",
+  "snapshot_id": "MCw0N2YwMWFiYTI2MWZjZTljMDc2ZDQxYmJhYTI2Mjg0NTVhZTZkYTky",
   "tracks": [
     {
       "added_at": "2024-02-23 18:59:33",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 154110,
-      "name": "Soy C\u00f3mo Quiero Ser",
-      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Prov\u00f3came",
         "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 180626,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/6rGUVwXPZfeOAcqmFlhPua"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 154110,
+      "name": "Soy C\u00f3mo Quiero Ser",
+      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
       },
       "artists": [
         {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
+      "duration_ms": 176889,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
       "artists": [
         {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 176889,
-      "name": "El Teterete",
-      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 162800,
-      "name": "Al gato y al rat\u00f3n",
-      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
+      "duration_ms": 153893,
+      "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
+      "url": "https://open.spotify.com/track/1nYctdlrpFVSId9yEkxYQi"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
       "artists": [
         {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 153893,
-      "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
-      "url": "https://open.spotify.com/track/1nYctdlrpFVSId9yEkxYQi"
+      "duration_ms": 162800,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 178590,
-      "name": "Peque\u00f1a Orgullosa",
-      "url": "https://open.spotify.com/track/01Ql3SAvnNIXQRO4Ajjwyl"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "La Estrella De Los Bailes",
         "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 167544,
       "name": "Eva Mar\u00eda",
       "url": "https://open.spotify.com/track/45iHQJmGDY9RRHb4EXDySF"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 178590,
+      "name": "Peque\u00f1a Orgullosa",
+      "url": "https://open.spotify.com/track/01Ql3SAvnNIXQRO4Ajjwyl"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+        "name": "Borracho Morir\u00e9",
+        "url": "https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
         }
       ],
-      "duration_ms": 205813,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/2yHKjT0dQOZJQlyIATUXit"
+      "duration_ms": 149346,
+      "name": "El An\u00f3nimo",
+      "url": "https://open.spotify.com/track/1lHWO3zuDdyi1pXYFGaQmS"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Borracho Morir\u00e9",
-        "url": "https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu"
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
       "artists": [
         {
-          "name": "La Incontenible Banda Astilleros",
-          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 149346,
-      "name": "El An\u00f3nimo",
-      "url": "https://open.spotify.com/track/1lHWO3zuDdyi1pXYFGaQmS"
+      "duration_ms": 205813,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/2yHKjT0dQOZJQlyIATUXit"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Las Bandas M\u00e1s Matonas",
-        "url": "https://open.spotify.com/album/14FxLzVmnS8EvGjyrkJZ7W"
-      },
-      "artists": [
-        {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
-        }
-      ],
-      "duration_ms": 136453,
-      "name": "Cuando Los Hombres Lloran",
-      "url": "https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Solo Esta Vez, Con Sabor a Ca\u00f1a Verde",
         "url": "https://open.spotify.com/album/5g8cvuIjvCCR4cryxrhpfr"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 200015,
       "name": "Solo Esta Vez",
       "url": "https://open.spotify.com/track/50PKcjHSvh1oVjig3kC69k"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Las Bandas M\u00e1s Matonas",
+        "url": "https://open.spotify.com/album/14FxLzVmnS8EvGjyrkJZ7W"
+      },
+      "artists": [
+        {
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+        }
+      ],
+      "duration_ms": 136453,
+      "name": "Cuando Los Hombres Lloran",
+      "url": "https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Cada Amanecer",
-        "url": "https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 155746,
-      "name": "Animas Que No Amanezca",
-      "url": "https://open.spotify.com/track/2eHAZVZggELJy1iTWJiMaq"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "El Amor de Tu Vida",
         "url": "https://open.spotify.com/album/1jdPDHO3AB6jQdOSxoNhYZ"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 229626,
       "name": "La Soledad",
       "url": "https://open.spotify.com/track/2h6K5lo2HxfDzkZYVpqmy6"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Cada Amanecer",
+        "url": "https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 155746,
+      "name": "Animas Que No Amanezca",
+      "url": "https://open.spotify.com/track/2eHAZVZggELJy1iTWJiMaq"
     },
     {
       "added_at": "2024-02-23 18:59:33",

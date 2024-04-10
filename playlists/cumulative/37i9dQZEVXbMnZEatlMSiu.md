@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-839 songs - 2 day 1 hr 57 min
+840 songs - 2 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-11-07 |
 | [Married To The Game](https://open.spotify.com/track/3e65E2oW2kvsY8sTReZ7U6) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [EARTHBOUND](https://open.spotify.com/album/5rdRFD0eRjjRFoHUfnwJh0) | 3:04 | 2022-02-23 | 2022-03-10 |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2021-12-25 | 2021-12-27 |
+| [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-09 |  |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 | 2022-11-08 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-25 | 2023-12-30 |
@@ -336,7 +337,7 @@
 | [Photograph](https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:18 | 2024-02-05 | 2024-02-07 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-18 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2023-08-18 |
-| [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-02-17 | 2024-03-18 |
+| [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-02-17 |  |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-25 | 2022-06-27 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-26 | 2022-09-18 |
 | [Pull Up](https://open.spotify.com/track/1GMHyFG78bKI2IjUuZaMxm) | [PANTHEPACK](https://open.spotify.com/artist/3mtw7Fkg8wdXJdub6ZIkJb) | [The Pack](https://open.spotify.com/album/5z8pxdSutKoCU5hcrOznpB) | 2:54 | 2021-09-24 | 2021-10-01 |
@@ -656,7 +657,7 @@
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2023-10-11 |
 | [意猶未盡 \(feat\. 派偉俊\)](https://open.spotify.com/track/4C6sMQ9maUCPzBrlOZUK39) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [意猶未盡 \(feat\. 派偉俊\)](https://open.spotify.com/album/6n8vZekJul6C1rYWF6IFBx) | 2:52 | 2022-06-24 | 2022-06-26 |
 | [愛上你算我賤](https://open.spotify.com/track/3jdy4aOla1dwYIqwp69JJN) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [REAL LIFE](https://open.spotify.com/album/61lJ7RLdtuMb8vxZB47W4i) | 4:10 | 2022-01-08 | 2022-12-24 |
-| [愛人錯過](https://open.spotify.com/track/27FOde2nUw0pFuj7hlPbaS) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 4:52 | 2022-01-11 |  |
+| [愛人錯過](https://open.spotify.com/track/27FOde2nUw0pFuj7hlPbaS) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 4:52 | 2022-01-11 | 2024-04-10 |
 | [愛你](https://open.spotify.com/track/6T7oK4eP3Tezw4Ogy7q6KO) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [愛你](https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu) | 3:39 | 2022-05-27 | 2022-07-16 |
 | [愛情你比我想的閣較偉大 \-《當男人戀愛時》電影主題曲](https://open.spotify.com/track/4fJlSLYLiu5trFCMZdSQDC) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [愛情你比我想的閣較偉大 \-《當男人戀愛時》電影主題曲](https://open.spotify.com/album/0VqgheMWJatfAl6njk2DL8) | 3:52 | 2021-03-27\* | 2023-07-08 |
 | [愛我的時候](https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [愛我的時候](https://open.spotify.com/album/6kXiZM2u6c5VdmYcGhtxmh) | 3:44 | 2021-03-27\* | 2021-08-21 |
@@ -675,7 +676,7 @@
 | [我反芻著你留下的寂寞](https://open.spotify.com/track/2Qxaglvzsc0129JB4O0XCF) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我反芻著你留下的寂寞](https://open.spotify.com/album/5mZw3T0H1hK582ePR25C3p) | 4:15 | 2021-12-16 | 2022-01-20 |
 | [我喜歡你](https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [心跳保衛戰](https://open.spotify.com/album/7nGbf2KdoEMWtTKh3vViyK) | 3:27 | 2024-01-12 | 2024-02-05 |
 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 | 2021-11-04 | 2021-12-02 |
-| [我就想你](https://open.spotify.com/track/0Eh0C7rpC5E0sPy4OcLdsq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 3:24 | 2022-04-23 |  |
+| [我就想你](https://open.spotify.com/track/0Eh0C7rpC5E0sPy4OcLdsq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 3:24 | 2022-04-23 | 2024-04-10 |
 | [我就想你](https://open.spotify.com/track/0Q35umX7SPX9perjjMfzCg) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我就想你](https://open.spotify.com/album/7iDi0WJ1pZkwf35d6yjtAk) | 3:25 | 2021-09-09 | 2021-10-16 |
 | [我很好騙](https://open.spotify.com/track/5VJV7hZSVV81OrQN3VDmfM) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [我很好騙](https://open.spotify.com/album/7f0TsfTwdRaujau4u25Jsq) | 5:13 | 2021-04-16 | 2021-04-26 |
 | [我很好騙](https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 5:13 | 2021-04-26 | 2023-05-06 |

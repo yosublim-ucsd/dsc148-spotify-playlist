@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,074 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,119 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 33 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 |
 | 34 | [Pray It Up](https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:19 |
 | 35 | [BETTER WITH YOU](https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [BETTER WITH YOU](https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz) | 2:46 |
-| 36 | [Way Truth Life \- Live](https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Revival \(Live\)](https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J) | 3:20 |
-| 37 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
+| 36 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
+| 37 | [Way Truth Life \- Live](https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Revival \(Live\)](https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J) | 3:20 |
 | 38 | [Freedom Wild](https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Motion Worship](https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R) | 3:46 |
 | 39 | [Won't Let Me Go](https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Won't Let Me Go](https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy) | 3:17 |
 | 40 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 57 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 |
 | 58 | [Heaven On Earth \- Radio Single](https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Heaven On Earth](https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL) | 3:45 |
 | 59 | [I Belong to You](https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:21 |
-| 60 | [Tightrope](https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Ages](https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k) | 3:44 |
-| 61 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 |
+| 60 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 |
+| 61 | [Tightrope](https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Ages](https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k) | 3:44 |
 | 62 | [Earth](https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [Elements](https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H) | 3:20 |
-| 63 | [Turn This Ship Around \- Gregatron Remix](https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown \(Deluxe\)](https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC) | 3:17 |
-| 64 | [Kerosene](https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Kerosene](https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq) | 3:04 |
+| 63 | [Kerosene](https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Kerosene](https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq) | 3:04 |
+| 64 | [Turn This Ship Around \- Gregatron Remix](https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown \(Deluxe\)](https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC) | 3:17 |
 | 65 | [I’ve Got A Fire](https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [I've Got A Fire](https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI) | 3:38 |
 | 66 | [Not a Chance](https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP) | [Fear Not](https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7) | 5:33 |
 | 67 | [Jesus Is The Key](https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Jesus Is The Key](https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L) | 6:29 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 71 | [Love Goes On \- Remix](https://open.spotify.com/track/1tGTlycaTuNIIbqziQGcOR) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Hezekia](https://open.spotify.com/artist/0Bc8nt0oNumzNCcsehEd8N), [H!ERO](https://open.spotify.com/artist/0RfC9jvntRgsnGzakWVX8k) | [Love Goes On](https://open.spotify.com/album/1DUATtHXOoaHIaj2yojBTy) | 3:42 |
 | 72 | [Wind + Waves](https://open.spotify.com/track/2VhspIZudDKIFjevS5tcWk) | [GALLERY](https://open.spotify.com/artist/0eLzZeagdyYE52ny5kOMrA) | [Wind + Waves](https://open.spotify.com/album/3cbqGBcbTVqrRXiSgaNbAq) | 4:08 |
 | 73 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
-| 74 | [Never Let You Go \- Live](https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:53 |
-| 75 | [Nothing But Good](https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Nothing But Good](https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08) | 3:45 |
+| 74 | [Heartache](https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 3:28 |
+| 75 | [Never Let You Go \- Live](https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:53 |
 
-Snapshot ID: `MCw1NjFjNDRkNzIzYmY4ZGNjOTA1ZjhiYTlkNzFlZjkzZjNmYjdhMmJm`
+Snapshot ID: `MCw0MzM1NmI5MzgwOTRhZTBkNTRlOTgwODYyNTVmNTBhMmMxNWYyNTVl`

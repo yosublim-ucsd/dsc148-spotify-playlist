@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,762 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,829 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 51 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 |
 | 52 | [QLONA](https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:52 |
 | 53 | [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 |
-| 54 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
-| 55 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
+| 54 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
+| 55 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 56 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 |
 | 57 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 |
 | 58 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 79 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 |
 | 80 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 |
 
-Snapshot ID: `MCwwODUwMGJjOGI0NGVkMDc4NWE4MjkwZTY2ODQ5NTAzZmE4YTFkYzAw`
+Snapshot ID: `MCw5MGY4OTliMjYzZGEzMDIzNTYxNzRlZDlkYjE1OWYzNDY1NzJlOTA1`

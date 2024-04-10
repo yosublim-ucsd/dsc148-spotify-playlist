@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 604086,
+  "2024-04-10": 604114,
   "date_first_scraped": "2022-12-28",
   "description": "Evadez-vous tout en douceur...",
   "name": "Electro Chill",
@@ -57,9 +57,9 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 167985,
-      "name": "A Part Of You",
+      "name": "A Part of You",
       "url": "https://open.spotify.com/track/3PjBLeVb8w5LXwJr8LBm0u"
     },
     {
@@ -75,7 +75,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 189523,
       "name": "About You",
       "url": "https://open.spotify.com/track/5oTVkfHuo8ynkm7IysVzOf"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 188946,
       "name": "Fio Maravilha",
       "url": "https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 217000,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/3jtiNEzJr6NrM6dau9YPov"
@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 149848,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/54wK86iwJI08XU17PuwxFW"
@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 188976,
       "name": "Low Again",
       "url": "https://open.spotify.com/track/6WyIu9kPKkyEjmsP4aWJni"
@@ -2090,6 +2090,28 @@
     },
     {
       "album": {
+        "name": "Rivages",
+        "url": "https://open.spotify.com/album/6mNZPRoqa6RJpZyBuhz2Ul"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        },
+        {
+          "name": "Rigoberta Bandini",
+          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202480,
+      "name": "Petit bonbon (feat. Rigoberta Bandini)",
+      "url": "https://open.spotify.com/track/7G2jvfEMxaP9ry4kWtMB8o"
+    },
+    {
+      "album": {
         "name": "Pink Soldiers",
         "url": "https://open.spotify.com/album/6hg6LPeCo8KtSJLxXfSKf4"
       },
@@ -2440,6 +2462,24 @@
     },
     {
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
         "name": "Sunset Lovers",
         "url": "https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu"
       },
@@ -2623,6 +2663,24 @@
       "duration_ms": 203500,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU"
+    },
+    {
+      "album": {
+        "name": "TERRITORY",
+        "url": "https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276373,
+      "name": "TERRITORY",
+      "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim"
     },
     {
       "album": {

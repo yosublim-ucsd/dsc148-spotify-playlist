@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 85102,
+  "num_followers": 85104,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTI0OGM2M2VmODdiZWI3OTY1MTJlODdmMDE1NDM4OTc2ODU3NzM5",
+  "snapshot_id": "MCwwMDQyZDQ1MmFiNzUzOWVlZjJlN2VmMzAyZGE2ZjFkZWQ4YTI4MzNm",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,26 @@
       "duration_ms": 167040,
       "name": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
       "url": "https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I See Love (From Hotel Transylvania 3)",
+        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 173220,
+      "name": "I See Love - From Hotel Transylvania 3",
+      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
     },
     {
       "added_at": null,

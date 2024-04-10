@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is r&b in Canada, elevate your aura with Liza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,062 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,126 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [been a long day](https://open.spotify.com/track/08AAf8wcx8aq1V9n2ROwqq) | [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn) | [been a long day](https://open.spotify.com/album/0c7BQEPfu2VWawWVAlg0ry) | 2:38 |
 | 100 | [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 |
 
-Snapshot ID: `MCxjZjUzODI3NDM0Y2VkODg4NDMzYjBkY2FmYWUxZDViZDA0Yzc2NTZl`
+Snapshot ID: `MCxkN2Q2YTY4NDBlMDZiZTczNDViYWQzZjI1NDcwNmMwOWI2ODAwMDcz`

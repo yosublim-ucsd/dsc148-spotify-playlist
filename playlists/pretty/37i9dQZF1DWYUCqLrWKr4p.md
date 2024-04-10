@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 
 > Unforgettable love songs from the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,263 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,385 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 46 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
 | 47 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 |
 | 48 | [You Belong To Me](https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:03 |
-| 49 | [Saturday Night at the Movies](https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [The Good Life With the Drifters](https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5) | 2:33 |
-| 50 | [Poetry In Motion](https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:34 |
+| 49 | [Poetry In Motion](https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:34 |
+| 50 | [Saturday Night at the Movies](https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [The Good Life With the Drifters](https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5) | 2:33 |
 
-Snapshot ID: `MCxjOWFlNTA5MmM1N2FlODYwMmEwNDExYzBlZWM2NjZjZDY0ODYyMzQ5`
+Snapshot ID: `MCxmMzBiY2ZlMDA1NzZjYTJmYzFlOWQ5M2NkYzc5NGFlM2M2ODkwYWIx`

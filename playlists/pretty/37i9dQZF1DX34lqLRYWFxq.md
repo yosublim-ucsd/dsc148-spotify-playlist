@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Gustaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,119 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,118 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 96 | [Internet Boyfriend](https://open.spotify.com/track/3hkT89QZ4uuuQKP8VXhxEj) | [The Fake Friends](https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz) | [Internet Boyfriend](https://open.spotify.com/album/7leEn1Bs8jcwDhFbvR1Co8) | 3:21 |
 | 97 | [Soul\-net](https://open.spotify.com/track/084PPi63VMViMv7qrp2Ipz) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Soul\-net](https://open.spotify.com/album/00kD3E9hxwyMrzHq5EjCiQ) | 4:24 |
 | 98 | [World Class Entertainment](https://open.spotify.com/track/5lpL6jOF11mnl4lNP6jJLu) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [World Class Entertainment](https://open.spotify.com/album/6DjaWyS3BXCSTPjlzGdGgR) | 3:02 |
-| 99 | [Hate That I Love Your Love](https://open.spotify.com/track/1Bx2fRCPbNMf8AFgasOT3i) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/76jhxPZPgnxpfmK9EGoYEc) | 2:20 |
+| 99 | [Hate That I Love Your Love](https://open.spotify.com/track/2AcG9bdaEGikV4EaHz2XNm) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/0rjKAEIDh1VtNrjJ7tvnFP) | 2:20 |
 | 100 | [you're the one to blame](https://open.spotify.com/track/1jmQZK2rhRyFuXSoWHY955) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [you're the one to blame](https://open.spotify.com/album/3P8MUep1suyTtd4WI0pQft) | 2:31 |
 
-Snapshot ID: `MCw3MDgyM2FmZGI0NjhjYzVlYjc3ZTFmZDdkODMxMjVmZWM0ZDI2MzM1`
+Snapshot ID: `MCxjYmUxZmFkZDZiZmMwMzczNGNiNjY5ODUzYWJiNzAyZmNmYjc4YzUy`

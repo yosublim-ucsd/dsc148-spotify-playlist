@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTQ5ZjFkNTFhOTY2Njk4MzMyNGVhNmY0ZGYxZTcyYmNlOGZjOTc0",
+  "snapshot_id": "MCw2OWJlZDQ3YmUyYTQwZjExNzc2NTU5NzhlOTUxZjkwODVkZDZlNjlj",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 202550,
-      "name": "Kids On Drugs",
-      "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
+      "duration_ms": 184443,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 184443,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
+      "duration_ms": 202550,
+      "name": "Kids On Drugs",
+      "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 262190,
-      "name": "Crisis in the Slow Lane",
-      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
+      "duration_ms": 247324,
+      "name": "Home Versus Home",
+      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 247324,
-      "name": "Home Versus Home",
-      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
+      "duration_ms": 262190,
+      "name": "Crisis in the Slow Lane",
+      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Mean Everything",
-        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 232115,
-      "name": "You Mean Everything",
-      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Complicated (feat. Heights)",
         "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 212399,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Mean Everything",
+        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 232115,
+      "name": "You Mean Everything",
+      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
       "duration_ms": 270706,
       "name": "Distant Memory",
       "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "I Scare Easy",
-      "url": "https://open.spotify.com/track/4X3bochi0tHmuob5vBWMlE"
     }
   ],
   "unique_name": "This Is The XCERTS",

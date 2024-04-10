@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 9268,
+  "num_followers": 9269,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTc1NThmMGI3YjJkNDFiMjYwMGQxMjFlYWYyNzRmYzZmMzc2Njcx",
+  "snapshot_id": "MCxlMGY5MmZhMDgwYWIwNjI0Y2EyODc3YjE5NTdlOGY3YmM3OWZlZDll",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Sophia Nomvete",
-          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "A Plea to the Rocks",
-      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marvel's Agents of S.H.I.E.L.D.",
         "url": "https://open.spotify.com/album/0QC50e0EZ0MAYLbbbeit0M"
       },
@@ -743,6 +723,30 @@
       "duration_ms": 171960,
       "name": "Agents of S.H.I.E.L.D. Overture",
       "url": "https://open.spotify.com/track/7g5H7rvDNnb6VAaLxjCgW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Richard Rankin",
+          "url": "https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ"
+        },
+        {
+          "name": "Sophie Skelton",
+          "url": "https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob"
+        }
+      ],
+      "duration_ms": 105106,
+      "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
+      "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
     },
     {
       "added_at": null,
@@ -803,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
       },
       "artists": [
         {
@@ -812,17 +816,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Richard Rankin",
-          "url": "https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ"
-        },
-        {
-          "name": "Sophie Skelton",
-          "url": "https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob"
+          "name": "Sophia Nomvete",
+          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
         }
       ],
-      "duration_ms": 105106,
-      "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
-      "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
+      "duration_ms": 227386,
+      "name": "A Plea to the Rocks",
+      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
     },
     {
       "added_at": null,

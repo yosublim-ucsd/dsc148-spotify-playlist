@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsZlh6idqWJ.md) - [plain]
 
 > Holiday bangers + pop bangers = a perfect holiday party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,805 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,804 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsZlh6idqWJ.md) - [plain]
 | 25 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 |
 | 26 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 |
 | 27 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 |
-| 28 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
-| 29 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
+| 28 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
+| 29 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
 | 30 | [Jingle Bell Rock](https://open.spotify.com/track/6xE98wKYt4vZk8j7cctjw8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Santa's Top 10 Favorites](https://open.spotify.com/album/3BjdplCY4YtqvNd3s25caN) | 2:11 |
 | 31 | [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 |
 | 32 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsZlh6idqWJ.md) - [plain]
 | 45 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
 | 46 | [Teenage Dream](https://open.spotify.com/track/55qBw1900pZKfXJ6Q9A2Lc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 |
 | 47 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
-| 48 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
-| 49 | [I Drove All Night](https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [One Heart](https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9) | 4:00 |
-| 50 | [Snowman \- Sped Up Version](https://open.spotify.com/track/3BwbSLW4YtIGkhCNFsHu52) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Snowman \(Sped Up Version\)](https://open.spotify.com/album/4ZGx4gR1GCT5i5zOHsRX6T) | 2:17 |
+| 48 | [I Drove All Night](https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [One Heart](https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9) | 4:00 |
+| 49 | [Snowman \- Sped Up Version](https://open.spotify.com/track/3BwbSLW4YtIGkhCNFsHu52) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Snowman \(Sped Up Version\)](https://open.spotify.com/album/4ZGx4gR1GCT5i5zOHsRX6T) | 2:17 |
+| 50 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
 
-Snapshot ID: `MCxjOWI3MTM1M2NkN2MwYzMwMjZlOGY1NWVjODU0NDU3NjQ1ZjkwNjcw`
+Snapshot ID: `MCw5YjVkYmJjYzMwYjgzZjFjYjM0ZjZhYmU5NzBiMTA2ZjgyN2RhODli`

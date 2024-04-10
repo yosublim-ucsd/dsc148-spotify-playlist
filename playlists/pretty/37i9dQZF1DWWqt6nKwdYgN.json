@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
-  "num_followers": 13587,
+  "num_followers": 13585,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2M4NmQyMWFlMzYyZjM2ZDhjOTE0ZGFmODU4NjBiZWRkOWI0NjE1",
+  "snapshot_id": "MCwzMmY4NzQzODM4ZTU4OWQwMmQ2OTRmZjUzODc5MDk4ZDRiYWRjNzNh",
   "tracks": [
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "Alcatraz",
+        "url": "https://open.spotify.com/album/0mZcpftskXcLvpn1JBhese"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "Alcatraz",
+      "url": "https://open.spotify.com/track/76XjcqjKTyZcuAeRGP1Svr"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Flight 0010",
         "url": "https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ"
       },
@@ -1159,30 +1183,6 @@
       "duration_ms": 156750,
       "name": "Van a Hablar de Mi",
       "url": "https://open.spotify.com/track/4ZyoyD3J3wC9LKUHFr4w6s"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Alcatraz",
-        "url": "https://open.spotify.com/album/0mZcpftskXcLvpn1JBhese"
-      },
-      "artists": [
-        {
-          "name": "AMBKOR",
-          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Alcatraz",
-      "url": "https://open.spotify.com/track/76XjcqjKTyZcuAeRGP1Svr"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1235,34 +1235,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "ANBU",
-        "url": "https://open.spotify.com/album/5ANllXrlPvSfmcWW8oTkyw"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
-        },
-        {
-          "name": "Ergo Pro",
-          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
-        },
-        {
-          "name": "Ill Peke\u00f1o",
-          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
-        },
-        {
-          "name": "J.Moods",
-          "url": "https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8"
-        }
-      ],
-      "duration_ms": 238471,
-      "name": "ANBU",
-      "url": "https://open.spotify.com/track/3c6RbN2q0p5ihlBdGpdOhY"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "Intento Tras Intento",
         "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
       },
@@ -1287,18 +1259,30 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Una Leyenda Nunca Muere",
-        "url": "https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg"
+        "name": "ANBU",
+        "url": "https://open.spotify.com/album/5ANllXrlPvSfmcWW8oTkyw"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
+        },
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        },
+        {
+          "name": "Ill Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
+        },
+        {
+          "name": "J.Moods",
+          "url": "https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8"
         }
       ],
-      "duration_ms": 166500,
-      "name": "Una Leyenda Nunca Muere",
-      "url": "https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl"
+      "duration_ms": 238471,
+      "name": "ANBU",
+      "url": "https://open.spotify.com/track/3c6RbN2q0p5ihlBdGpdOhY"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1343,6 +1327,22 @@
       "duration_ms": 179142,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Una Leyenda Nunca Muere",
+        "url": "https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Una Leyenda Nunca Muere",
+      "url": "https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "El Poder y la Traici\u00f3n",
-        "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
-      },
-      "artists": [
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        }
-      ],
-      "duration_ms": 244904,
-      "name": "El Poder y la Traici\u00f3n",
-      "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "F\u00e9 De M\u00e1s",
         "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 192000,
       "name": "Callejones",
       "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "El Poder y la Traici\u00f3n",
+        "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
+      },
+      "artists": [
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        }
+      ],
+      "duration_ms": 244904,
+      "name": "El Poder y la Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Camino Firme",
-        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
-      },
-      "artists": [
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        }
-      ],
-      "duration_ms": 142417,
-      "name": "Camino Firme",
-      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "Booty Bang Bang",
         "url": "https://open.spotify.com/album/75ggrmbV5iht00LL2DOu87"
       },
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "Camino Firme",
+        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "Camino Firme",
+      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Arrogancia",
         "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
       },
@@ -1887,6 +1887,30 @@
       "duration_ms": 159836,
       "name": "Bendecida Y Afortunada",
       "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Flavor",
+        "url": "https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR"
+      },
+      "artists": [
+        {
+          "name": "T&K",
+          "url": "https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND"
+        },
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        },
+        {
+          "name": "Tensei One",
+          "url": "https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7"
+        }
+      ],
+      "duration_ms": 156254,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1923,30 +1947,6 @@
       "duration_ms": 261677,
       "name": "SUCIO",
       "url": "https://open.spotify.com/track/5BPZWT8tc9KTIbyPF4CJ98"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Flavor",
-        "url": "https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR"
-      },
-      "artists": [
-        {
-          "name": "T&K",
-          "url": "https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND"
-        },
-        {
-          "name": "FERNANDOCOSTA",
-          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
-        },
-        {
-          "name": "Tensei One",
-          "url": "https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7"
-        }
-      ],
-      "duration_ms": 156254,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "LA VIDA ES TAN DURA",
-        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Cheo Gallego",
-          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LA VIDA ES TAN DURA",
-      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "Hip Hop Sh*t",
         "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
       },
@@ -2091,6 +2071,26 @@
       "duration_ms": 195113,
       "name": "Hip Hop Sh*t",
       "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "added_at": "2024-04-05 06:00:00",

@@ -5054,10 +5054,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 231724,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
+    },
+    {
+      "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze"
     },
     {
       "album": {

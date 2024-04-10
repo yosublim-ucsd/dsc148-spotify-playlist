@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > pure pop sauce\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,788 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,807 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 49 | [Trust Me Mate](https://open.spotify.com/track/5fhboRjouedBiR7mQEc4g5) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/1HknzkdN0izhARKxiD868d) | 2:58 |
 | 50 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |
 
-Snapshot ID: `MCxkY2NmZTU4MDU2NjNlNjMzOWUzMTRmMjUwNzIwMjJmMDAxNjljZWI0`
+Snapshot ID: `MCwzNWZkNzBmM2QyMDkxMzUxYTZkOGVhYzlhNDkxNjBiZjg5OGQ3ODk2`

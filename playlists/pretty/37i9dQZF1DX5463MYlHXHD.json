@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Los Pibes Chorros.",
-  "num_followers": 569966,
+  "num_followers": 569989,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTdmOTBiZDhkZmVjMjFjNGU2MmNkNmI1NTNiYWRlZDQwOTNmZmI4",
+  "snapshot_id": "MCwyMjM5NjRmNDdiZjcxZWY5MjNkMmMwZDliZjQ1NzMzYzk3ZWVlODAx",
   "tracks": [
     {
       "added_at": "2024-03-29 15:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "El Polaco - Agradeciendo a Dios",
         "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 203026,
       "name": "Porque te fuiste",
       "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "6to Sentido (Una Vuelta)",
-        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
-      },
-      "artists": [
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "DJ Cronox",
-          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
-        }
-      ],
-      "duration_ms": 128265,
-      "name": "6to Sentido (Una Vuelta)",
-      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "TRUCHO",
         "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 144000,
       "name": "TRUCHO",
       "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "6to Sentido (Una Vuelta)",
+        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
+      },
+      "artists": [
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DJ Cronox",
+          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
+        }
+      ],
+      "duration_ms": 128265,
+      "name": "6to Sentido (Una Vuelta)",
+      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Los Maleantes",
+        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 164780,
+      "name": "Sentado en la Esquina",
+      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "YO SOY TU MAESTRO (Remix)",
         "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 205000,
       "name": "YO SOY TU MAESTRO - Remix",
       "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Los Maleantes",
-        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 164780,
-      "name": "Sentado en la Esquina",
-      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Vanda M\u00e1s Loca",
-        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
-      },
-      "artists": [
-        {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Sos Bot\u00f3n",
-      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 167053,
       "name": "Amigos en la Distancia",
       "url": "https://open.spotify.com/track/5l6mbeyJZ9duDg73T7pxFp"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "La Vanda M\u00e1s Loca",
+        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
+      },
+      "artists": [
+        {
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Sos Bot\u00f3n",
+      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1743,42 +1743,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Remake",
-        "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "John C",
-          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "El Pesa 9",
-          "url": "https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Remake",
-      "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Homenaje a Colombia",
         "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
       },
@@ -1835,6 +1799,42 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Remake",
+        "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "El Pesa 9",
+          "url": "https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Remake",
+      "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Supermerk2 & Meta Guacha: 2x1",
         "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
       },
@@ -1867,18 +1867,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+        "name": "Tu Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/5OW5e7iibePYVkyJ2TvqJS"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Cumbieton",
+          "url": "https://open.spotify.com/artist/4s1eaeEeouQaO873bSGeaV"
+        },
+        {
+          "name": "Andy DJ",
+          "url": "https://open.spotify.com/artist/3Hpvdhvtlgr9dc8xAU6sZw"
         }
       ],
-      "duration_ms": 181054,
-      "name": "Mi \u00danico Amor",
-      "url": "https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv"
+      "duration_ms": 249431,
+      "name": "La Luna y Las Estrellas",
+      "url": "https://open.spotify.com/track/2HIDzNVi4d3JRyPklMNpnW"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1915,22 +1919,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Tu Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/5OW5e7iibePYVkyJ2TvqJS"
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
       "artists": [
         {
-          "name": "Cumbieton",
-          "url": "https://open.spotify.com/artist/4s1eaeEeouQaO873bSGeaV"
-        },
-        {
-          "name": "Andy DJ",
-          "url": "https://open.spotify.com/artist/3Hpvdhvtlgr9dc8xAU6sZw"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 249431,
-      "name": "La Luna y Las Estrellas",
-      "url": "https://open.spotify.com/track/2HIDzNVi4d3JRyPklMNpnW"
+      "duration_ms": 181054,
+      "name": "Mi \u00danico Amor",
+      "url": "https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Corriendo La Coneja",
-        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Gracia Divina",
         "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 263955,
       "name": "Entre Vos Yo y el Cielo",
       "url": "https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Corriendo La Coneja",
+        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 267813,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
-        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 208744,
-      "name": "Siguiendo la Luna",
-      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 235368,
       "name": "Vengo de la casa de ella",
       "url": "https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
+        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 208744,
+      "name": "Siguiendo la Luna",
+      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -2259,6 +2259,38 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 256463,
+      "name": "Quiero una chica",
+      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "\u00bfQu\u00e9 No Vale Nada?",
+        "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Resaka",
+      "url": "https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Gracia Divina",
         "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
       },
@@ -2295,38 +2327,6 @@
       "duration_ms": 212210,
       "name": "Saveiro",
       "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 256463,
-      "name": "Quiero una chica",
-      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "\u00bfQu\u00e9 No Vale Nada?",
-        "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Resaka",
-      "url": "https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE"
     },
     {
       "added_at": "2024-03-29 15:00:00",

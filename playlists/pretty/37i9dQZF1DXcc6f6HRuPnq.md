@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,175 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,230 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 44 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 45 | [Along About Midnight](https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O) | 4:05 |
 | 46 | [Bad Spell \- Acoustic](https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell \(Acoustic\)](https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK) | 3:14 |
-| 47 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |
-| 48 | [One Room Country Shack](https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 5:38 |
+| 47 | [One Room Country Shack](https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 5:38 |
+| 48 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |
 | 49 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
 | 50 | [Luther's Blues](https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Motown Years 1972\-1976](https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW) | 6:20 |
 | 51 | [Night Shift Blues](https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E) | [Night Shift](https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE) | 7:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Suffering The Blues](https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Ike & Tina Turner \- The Complete Collection](https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2) | 2:22 |
 | 80 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 
-Snapshot ID: `MCxjM2U4ODQ5ZjAwZTNlMWU5ZTBjY2JhMWFhMDc0MjI5ZDZkOGNjYzZm`
+Snapshot ID: `MCwzYjhjNDdlNjQ1MTFiM2RlNGM5ODYxNGU2MTNiOThlNDAyOWM4YjMw`

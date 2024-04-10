@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 346064,
+  "num_followers": 346100,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzg4ZWMxZjIzNjg4MTE2MTUwM2JkZDEwNWNjNjJiNzg4OTExZTI4",
+  "snapshot_id": "MCw2ZGE2ZDhlNTk4Mzk2MTc2ZTE2ZmY1YjUxMDkwZmI4ZTAyODc3ZGU5",
   "tracks": [
     {
       "added_at": "2024-04-02 17:00:58",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Montgomery Ricky",
-        "url": "https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Line Without a Hook",
-      "url": "https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Montgomery Ricky",
+        "url": "https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Line Without a Hook",
+      "url": "https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
+        "name": "Young The Giant (Special Edition)",
+        "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Cough Syrup",
+      "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
         "name": "Black Sheep (Brie Larson Vocal Version)",
         "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 294065,
       "name": "Black Sheep - Brie Larson Vocal Version",
       "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
-        "name": "Young The Giant (Special Edition)",
-        "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Cough Syrup",
-      "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Seasons (Waiting on You)",
-      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Roy Pablo",
         "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 198000,
       "name": "Dance, Baby!",
       "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Seasons (Waiting on You)",
+      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Heza",
-        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Put a Light On",
-      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "2.0",
         "url": "https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP"
       },
@@ -1347,6 +1331,42 @@
       "duration_ms": 280426,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/2PeKCn8NSGQXAHONaCh3wB"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Put a Light On",
+      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/7MahUqJc9Nv28t3i6LHpF3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Wales",
+          "url": "https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ"
+        }
+      ],
+      "duration_ms": 242859,
+      "name": "Begin",
+      "url": "https://open.spotify.com/track/1HeGSI2zSrsrk4uD4VfBtA"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1383,26 +1403,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "All Becomes Okay",
-        "url": "https://open.spotify.com/album/7MahUqJc9Nv28t3i6LHpF3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Wales",
-          "url": "https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ"
-        }
-      ],
-      "duration_ms": 242859,
-      "name": "Begin",
-      "url": "https://open.spotify.com/track/1HeGSI2zSrsrk4uD4VfBtA"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Coast Modern",
         "url": "https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 204066,
       "name": "Guru",
       "url": "https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Master of My Make-Believe",
-        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Disparate Youth",
-      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Our Own House",
         "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 186440,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 268213,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Violet Street",
         "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 264213,
       "name": "When Am I Gonna Lose You",
       "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 268213,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
     },
     {
       "added_at": "2024-04-02 17:00:58",

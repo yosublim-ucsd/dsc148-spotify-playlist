@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,609 likes - 70 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,085 likes - 70 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 64 | [Can‘t Stop Raving \(Video Mix\)](https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r) | [Can‘t Stop Raving](https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB) | 3:36 |
 | 65 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
 | 66 | [Right in the Night \(Fall in Love with Music\)](https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Plavka](https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2) | [Tripomatic Fairytales 2001 \(Deluxe Edition\)](https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt) | 6:04 |
-| 67 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
-| 68 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
+| 67 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
+| 68 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 | 69 | [Hyper Hyper](https://open.spotify.com/track/2HTkjyB61A90e1sOziRJQc) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Rough And Tough And Dangerous \- The Singles 1994 \- 1998](https://open.spotify.com/album/0FXzH47HIVo1JoPHVT5i2N) | 3:35 |
 | 70 | [I Give You My Heart](https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:35 |
 
-Snapshot ID: `MCxmYzU0M2EyNWUxNjdmZjY1ZDhlOTlkMmY0MGFhOTE5NjhkMjg5YWY2`
+Snapshot ID: `MCxmYmQ3MTMwN2E5YmRhMDVlZjVlMTIyNjkyN2Q5ZTcwZThiN2RlYmY3`

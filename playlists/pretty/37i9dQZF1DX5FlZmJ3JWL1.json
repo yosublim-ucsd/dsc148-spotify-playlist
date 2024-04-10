@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 757607,
+  "num_followers": 757839,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWNiZGVhOTBjNjJhMGE5MTlhOWYzMzk4NDhjNDMxYWYwOGU0ZDcy",
+  "snapshot_id": "MCw3YzExODUzZDcxNzJlOGEwYTEzMDk3OGI2Y2M2OTY3NWIxOWIwYzVk",
   "tracks": [
     {
       "added_at": "2024-04-05 08:30:48",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-04-05 08:30:48",
       "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 155070,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
-    },
-    {
-      "added_at": "2024-04-05 08:30:48",
-      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
+    },
+    {
+      "added_at": "2024-04-05 08:30:48",
+      "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 155070,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
     },
     {
       "added_at": "2024-04-05 08:30:48",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-04-05 08:30:48",
       "album": {
-        "name": "Love Vibration",
-        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 180487,
-      "name": "Love Vibration",
-      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
-    },
-    {
-      "added_at": "2024-04-05 08:30:48",
-      "album": {
         "name": "Poker Face",
         "url": "https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 157804,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt"
+    },
+    {
+      "added_at": "2024-04-05 08:30:48",
+      "album": {
+        "name": "Love Vibration",
+        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 180487,
+      "name": "Love Vibration",
+      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
     },
     {
       "added_at": "2024-04-05 08:30:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=mW1WzxO8RkGkMpqNc4BhLA>kingdmusic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,940 likes - 96 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,988 likes - 96 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 95 | [Children of Zion](https://open.spotify.com/track/2YJk3ixPWxYAiv1WgWwevY) | [Lovy Elias](https://open.spotify.com/artist/1b6iYPeUiE57sQYDyyPJga) | [Children of Zion](https://open.spotify.com/album/7tJVtgcTFJ4picKH8QCxz1) | 2:28 |
 | 96 | [Yehowah](https://open.spotify.com/track/492YSuNMaBPjlxdhPhPyFk) | [Kofi Sarpong](https://open.spotify.com/artist/1GLgANr5EO6eF6dRE91s8K), [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Yehowah](https://open.spotify.com/album/1DHZ2bg3ZJhMDwFeMqQw7Z) | 5:17 |
 
-Snapshot ID: `MCw4YTc1ZTk3NjgxNDgxYjI5MDIxZmM3ODMxMDkzOTFkNmU2NzAxZWVi`
+Snapshot ID: `MCw2NGQ0ZDFjZDE4NWE4YWI3MmU3MzAwMzNjMmYyMmNlN2MwODllNGI1`

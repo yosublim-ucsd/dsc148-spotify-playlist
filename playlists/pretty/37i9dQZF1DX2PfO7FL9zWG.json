@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Elisapie",
-  "num_followers": 68254,
+  "num_followers": 68280,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDNmYjEzNTNlMWEwN2M2ZTA2YzJjNWJlZjM5YmU0MmVkOTBlNmIy",
+  "snapshot_id": "MCwxZTY2YTE4Yjk0NDVmZGVmMWJlNTJkMzk1MTNkOWNkNTIxYjhmOTc0",
   "tracks": [
     {
       "added_at": "2024-03-25 03:11:17",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-03-25 03:11:17",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+      "duration_ms": 200733,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
     },
     {
       "added_at": "2024-03-25 03:11:17",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-03-25 03:11:17",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 200733,
-      "name": "Budapest",
-      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-03-25 03:11:17",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-03-25 03:11:17",
       "album": {
-        "name": "Haven (from Life Is Strange)",
-        "url": "https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Haven (from Life Is Strange)",
-      "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
-    },
-    {
-      "added_at": "2024-03-25 03:11:17",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 294189,
       "name": "House Song",
       "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
+    },
+    {
+      "added_at": "2024-03-25 03:11:17",
+      "album": {
+        "name": "Haven (from Life Is Strange)",
+        "url": "https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Haven (from Life Is Strange)",
+      "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
     },
     {
       "added_at": "2024-03-25 03:11:17",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-03-25 03:11:17",
       "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "I Need My Girl",
-      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
-    },
-    {
-      "added_at": "2024-03-25 03:11:17",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 240586,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
+    },
+    {
+      "added_at": "2024-03-25 03:11:17",
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "I Need My Girl",
+      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
     },
     {
       "added_at": "2024-03-25 03:11:17",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-03-25 03:11:17",
       "album": {
+        "name": "Just Like Leaving",
+        "url": "https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Just Like Leaving",
+      "url": "https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9"
+    },
+    {
+      "added_at": "2024-03-25 03:11:17",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
-    },
-    {
-      "added_at": "2024-03-25 03:11:17",
-      "album": {
-        "name": "Just Like Leaving",
-        "url": "https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Just Like Leaving",
-      "url": "https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9"
     },
     {
       "added_at": "2024-03-25 03:11:17",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2024-03-25 03:11:17",
       "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur"
       },
       "artists": [
         {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+      "duration_ms": 222817,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP"
     }
   ],
   "unique_name": "Folk Favourites",

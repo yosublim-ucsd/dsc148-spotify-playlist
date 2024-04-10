@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 167404,
+  "2024-04-10": 167426,
   "date_first_scraped": "2021-12-21",
   "description": "Soft electronic music for your dinner.",
   "name": "Dinner Lounge",
@@ -1374,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "Daisy Chain",
+        "url": "https://open.spotify.com/album/5Tyk3ptgEUblUxj4sQWHdn"
+      },
+      "artists": [
+        {
+          "name": "MayDance",
+          "url": "https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134041,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/5mKE6oHgWbwShWtmZffxXM"
+    },
+    {
+      "album": {
         "name": "Deep Deep Waters",
         "url": "https://open.spotify.com/album/2xTnT76L2MKnoUOWlVBJpG"
       },
@@ -2721,6 +2739,24 @@
       "duration_ms": 106666,
       "name": "Lifesaver",
       "url": "https://open.spotify.com/track/0ErNDv1Ki7vVXlWPUoEVC0"
+    },
+    {
+      "album": {
+        "name": "liftoff",
+        "url": "https://open.spotify.com/album/4obMmY8hJ3h3VoJYXlXAvU"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "liftoff",
+      "url": "https://open.spotify.com/track/43jB6dC4u4x74H0HQ7C1OT"
     },
     {
       "album": {
@@ -4776,6 +4812,24 @@
     },
     {
       "album": {
+        "name": "Sun Deck",
+        "url": "https://open.spotify.com/album/2Fzv0zJXyty88CJn0NQJ0l"
+      },
+      "artists": [
+        {
+          "name": "Lou Kil",
+          "url": "https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185458,
+      "name": "Sun Deck",
+      "url": "https://open.spotify.com/track/0Or4VHtJbcMgDsGrrke9Iw"
+    },
+    {
+      "album": {
         "name": "Sun Glitches",
         "url": "https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h"
       },
@@ -5079,6 +5133,24 @@
       "duration_ms": 128888,
       "name": "Tikka",
       "url": "https://open.spotify.com/track/6u71jQ49gijuHiDKMGyjdA"
+    },
+    {
+      "album": {
+        "name": "Tilting at Sunsets",
+        "url": "https://open.spotify.com/album/3AcyJaROcc6Blx0nVTqVyg"
+      },
+      "artists": [
+        {
+          "name": "makers mask",
+          "url": "https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159411,
+      "name": "Tilting at Sunsets",
+      "url": "https://open.spotify.com/track/0XLr0SUlFHaZRM8NAzLk4S"
     },
     {
       "album": {
@@ -5717,6 +5789,24 @@
       "duration_ms": 167535,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm"
+    },
+    {
+      "album": {
+        "name": "zermatt",
+        "url": "https://open.spotify.com/album/0uWt7JyjEgoX04b405wosk"
+      },
+      "artists": [
+        {
+          "name": "rigii",
+          "url": "https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155208,
+      "name": "zermatt",
+      "url": "https://open.spotify.com/track/1njUdpi7jrLoq1CO79FKDr"
     },
     {
       "album": {

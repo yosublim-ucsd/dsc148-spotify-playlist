@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 458343,
+  "num_followers": 458533,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzY2ZWRhYjg5NWU4MDUwNDAwOGFlZjVkZDhlOGYxMjdiOTM0ZmE4",
+  "snapshot_id": "MCw3NDJmZGI0NDBmOTEyNmZiOTJjZTBkNmU2YWNlNDdlNWQwOTY3MDU5",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -536,8 +536,8 @@
           "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
         },
         {
-          "name": "Kassin",
-          "url": "https://open.spotify.com/artist/3KNQV3MQsTnUfJaVpZUfCk"
+          "name": "KASSIN",
+          "url": "https://open.spotify.com/artist/43U47RCO85AIb75zzIypfl"
         }
       ],
       "duration_ms": 321815,
@@ -803,6 +803,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 226048,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "The Echo",
         "url": "https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS"
       },
@@ -907,26 +927,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Nothing Ever Changes",
-        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 226048,
-      "name": "Nothing Ever Changes",
-      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Indoor Voyager EP",
         "url": "https://open.spotify.com/album/29wjqxriGDiYH1kFs4njxY"
       },
@@ -959,6 +959,26 @@
       "duration_ms": 342857,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Horizon Red",
+        "url": "https://open.spotify.com/album/5OH8W2ZKQwvjRvxhlzuSCc"
+      },
+      "artists": [
+        {
+          "name": "Made By Pete",
+          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
+        },
+        {
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Horizon Red",
+      "url": "https://open.spotify.com/track/7mDuQlXi4UsXa5VmKGcm2U"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1003,26 +1023,6 @@
       "duration_ms": 183774,
       "name": "What A Wonderful World - Greg Cerrone Remix",
       "url": "https://open.spotify.com/track/56ggEwgh0zcUaXAJbQz6Xo"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Horizon Red",
-        "url": "https://open.spotify.com/album/5OH8W2ZKQwvjRvxhlzuSCc"
-      },
-      "artists": [
-        {
-          "name": "Made By Pete",
-          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
-        },
-        {
-          "name": "Zoe Kypri",
-          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Horizon Red",
-      "url": "https://open.spotify.com/track/7mDuQlXi4UsXa5VmKGcm2U"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Bitch, Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+        }
+      ],
+      "duration_ms": 157558,
+      "name": "Bitch, Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 117539,
       "name": "Si Te Portas Bonito - Edit",
       "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Bitch, Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        },
-        {
-          "name": "Liquid Rose",
-          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
-        }
-      ],
-      "duration_ms": 157558,
-      "name": "Bitch, Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Pliva",
+        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 244570,
+      "name": "Pliva",
+      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/4hSZwUM3VO8bNwb1ufMra5"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 367066,
       "name": "OnlyL ft. TSHA & NIMMO",
       "url": "https://open.spotify.com/track/6IgYMKfaqv8VIYYIbsmlpo"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Pliva",
-        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 244570,
-      "name": "Pliva",
-      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        }
+      ],
+      "duration_ms": 153904,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Otherside (Fideles Remix Edit)",
         "url": "https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf"
       },
@@ -1847,22 +1863,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 214204,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "The Silence",
         "url": "https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL"
       },
@@ -1879,6 +1879,22 @@
       "duration_ms": 263162,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 214204,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1991,26 +2007,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq"
       },
@@ -2047,18 +2043,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO"
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
       },
       "artists": [
         {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
         }
       ],
-      "duration_ms": 153904,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
+      "duration_ms": 238003,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2079,26 +2079,6 @@
       "duration_ms": 396097,
       "name": "Nothingness",
       "url": "https://open.spotify.com/track/3qVkFZ5WdPZpqyV9fVKt68"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Eu Vou Pra Bahia",
-        "url": "https://open.spotify.com/album/17lKsLsdMLL1CkcJzrR0hl"
-      },
-      "artists": [
-        {
-          "name": "DOT (BR)",
-          "url": "https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Eu Vou Pra Bahia",
-      "url": "https://open.spotify.com/track/0Sp67H1rsdLZLbNUoOLYzX"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2127,22 +2107,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Ma non tutta la vita (Remixes)",
-        "url": "https://open.spotify.com/album/56tGWQ8DE2qe3G0pNqPjzK"
+        "name": "Eu Vou Pra Bahia",
+        "url": "https://open.spotify.com/album/17lKsLsdMLL1CkcJzrR0hl"
       },
       "artists": [
         {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+          "name": "DOT (BR)",
+          "url": "https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ"
         },
         {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         }
       ],
-      "duration_ms": 192540,
-      "name": "Ma non tutta la vita (Populous Remix)",
-      "url": "https://open.spotify.com/track/39bADkXSTGmAzKeYHD4YVD"
+      "duration_ms": 195720,
+      "name": "Eu Vou Pra Bahia",
+      "url": "https://open.spotify.com/track/0Sp67H1rsdLZLbNUoOLYzX"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2207,6 +2187,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Wala",
         "url": "https://open.spotify.com/album/6y2TG4gY0lBPPBu1e3LOu3"
       },
@@ -2235,22 +2231,6 @@
       "duration_ms": 200655,
       "name": "Wala",
       "url": "https://open.spotify.com/track/0GJv9BBqz7MqQCFv8FdO64"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 204067,
-      "name": "Habla Con Ella",
-      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2311,6 +2291,22 @@
       "duration_ms": 370862,
       "name": "Amandla",
       "url": "https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL"
+      },
+      "artists": [
+        {
+          "name": "No Relation",
+          "url": "https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2475,18 +2471,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL"
+        "name": "GOOD TIMES (Sofia Kourtesis Remix)",
+        "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
       },
       "artists": [
         {
-          "name": "No Relation",
-          "url": "https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f"
+      "duration_ms": 269711,
+      "name": "GOOD TIMES - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2507,22 +2507,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "GOOD TIMES (Sofia Kourtesis Remix)",
-        "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
+        "name": "Holmen",
+        "url": "https://open.spotify.com/album/4WHi9n6BQ1o6qbyUJONOWh"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
         }
       ],
-      "duration_ms": 269711,
-      "name": "GOOD TIMES - Sofia Kourtesis Remix",
-      "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
+      "duration_ms": 265522,
+      "name": "Holmen",
+      "url": "https://open.spotify.com/track/6BSe0z7siNCq6qbkPJm6CJ"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2551,18 +2547,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Holmen",
-        "url": "https://open.spotify.com/album/4WHi9n6BQ1o6qbyUJONOWh"
+        "name": "Lean Into The Sunshine",
+        "url": "https://open.spotify.com/album/7rgSE69LAmqzt5kCYj7C1k"
       },
       "artists": [
         {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Young Saab",
+          "url": "https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5"
         }
       ],
-      "duration_ms": 265522,
-      "name": "Holmen",
-      "url": "https://open.spotify.com/track/6BSe0z7siNCq6qbkPJm6CJ"
+      "duration_ms": 366829,
+      "name": "Lean Into The Sunshine",
+      "url": "https://open.spotify.com/track/1FC909ieY6lAD7U4pz6Hvl"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2607,22 +2607,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Lean Into The Sunshine",
-        "url": "https://open.spotify.com/album/7rgSE69LAmqzt5kCYj7C1k"
+        "name": "MONTE",
+        "url": "https://open.spotify.com/album/7FbQjXpnUM5ZlShOY0xHCt"
       },
       "artists": [
         {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
         },
         {
-          "name": "Young Saab",
-          "url": "https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5"
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
         }
       ],
-      "duration_ms": 366829,
-      "name": "Lean Into The Sunshine",
-      "url": "https://open.spotify.com/track/1FC909ieY6lAD7U4pz6Hvl"
+      "duration_ms": 321951,
+      "name": "MONTE",
+      "url": "https://open.spotify.com/track/37PacxDrLWaHtYMPV8IYse"
     }
   ],
   "unique_name": "Tantra",

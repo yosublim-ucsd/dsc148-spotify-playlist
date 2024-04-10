@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 8490,
+  "2024-04-10": 8490,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz\">Justin Tranter</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Justin Tranter",
@@ -6523,6 +6523,24 @@
       "duration_ms": 171880,
       "name": "parents",
       "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
+    },
+    {
+      "album": {
+        "name": "DON'T TAKE THIS SERIOUS Vol.2",
+        "url": "https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD"
+      },
+      "artists": [
+        {
+          "name": "BeaRSawse",
+          "url": "https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189779,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ"
     },
     {
       "album": {

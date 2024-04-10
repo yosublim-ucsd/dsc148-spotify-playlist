@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 15497,
+  "num_followers": 15516,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDMyZjU4OWM3NzUyNmE3ZDJiMjYxYjQ1Zjg4NDVlYjY4NjcyYTg3",
+  "snapshot_id": "MCxmZTVjZWE3OTFiN2Q4MmE1NGQ1ZjFkYjVlYmIxN2EzMTU2OGJlMTNk",
   "tracks": [
     {
       "added_at": "2024-03-20 14:51:50",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 172746,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 228862,
       "name": "Spring Can Really Hang You Up The Most - Demo",
       "url": "https://open.spotify.com/track/24mo3C5GuVTfoL8vedPMqL"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Cloudy (With a Chance of Rain)",
-        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Cloudy (With a Chance of Rain)",
-      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Straight, No Chaser",
         "url": "https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 1000600,
       "name": "Japanese Folk Song",
       "url": "https://open.spotify.com/track/5H91eWhSKcawShPDWN1Sxw"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Cloudy (With a Chance of Rain)",
+        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Cloudy (With a Chance of Rain)",
+      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "The Complete Bill Evans On Verve",
-        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+        "name": "The Complete Bill Evans On Verve",
+        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 309706,
-      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
-      "url": "https://open.spotify.com/track/5UDJSBScMFdnWIz9yvScFU"
+      "duration_ms": 237200,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -887,6 +871,22 @@
       "duration_ms": 190345,
       "name": "Just A Little Lovin'",
       "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 309706,
+      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "url": "https://open.spotify.com/track/5UDJSBScMFdnWIz9yvScFU"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
+        "name": "They Say It's Swing",
+        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
       },
       "artists": [
         {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+          "name": "Clare Teal",
+          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
         }
       ],
-      "duration_ms": 203813,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C"
+      "duration_ms": 249997,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "They Say It's Swing",
-        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
       },
       "artists": [
         {
-          "name": "Clare Teal",
-          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 249997,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
+      "duration_ms": 203813,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+      },
+      "artists": [
+        {
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+        }
+      ],
+      "duration_ms": 257148,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl"
       },
@@ -1071,6 +1087,22 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
+        "name": "Dare That Dream",
+        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
+      },
+      "artists": [
+        {
+          "name": "Estelle Perrault",
+          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
+        }
+      ],
+      "duration_ms": 256972,
+      "name": "You Must Believe In Spring",
+      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -1091,38 +1123,6 @@
       "duration_ms": 561826,
       "name": "Chandra",
       "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
-      },
-      "artists": [
-        {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
-        }
-      ],
-      "duration_ms": 257148,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
-        "name": "Dare That Dream",
-        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
-      },
-      "artists": [
-        {
-          "name": "Estelle Perrault",
-          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
-        }
-      ],
-      "duration_ms": 256972,
-      "name": "You Must Believe In Spring",
-      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Let's Sail Away",
         "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 283826,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Caity Gyorgy Quartet",
-        "url": "https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Kyle Tarder-Stoll",
-          "url": "https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd"
-        }
-      ],
-      "duration_ms": 347088,
-      "name": "I've Never Been in Love Before",
-      "url": "https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "The Art Of Elegance",
         "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
       },
@@ -1299,6 +1279,22 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 269856,
+      "name": "Promise of Spring",
+      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
         "name": "Come What May",
         "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
       },
@@ -1315,18 +1311,22 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
+        "name": "Caity Gyorgy Quartet",
+        "url": "https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm"
       },
       "artists": [
         {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Kyle Tarder-Stoll",
+          "url": "https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd"
         }
       ],
-      "duration_ms": 269856,
-      "name": "Promise of Spring",
-      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
+      "duration_ms": 347088,
+      "name": "I've Never Been in Love Before",
+      "url": "https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Backlash",
         "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 401226,
       "name": "Up Jumped Spring",
       "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
-      },
-      "artists": [
-        {
-          "name": "Alma Naidu",
-          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "Something 'bout the Rain",
-      "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 193000,
       "name": "My Shining Hour",
       "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
+      },
+      "artists": [
+        {
+          "name": "Alma Naidu",
+          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "Something 'bout the Rain",
+      "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "April Come She Will",
+      "url": "https://open.spotify.com/track/3onycGcXENXzRke49yNQvI"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
         "name": "I'm Glad There Is You",
         "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 259880,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/19DtZpLaBGZHQARScc4c5F"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "April Come She Will",
-      "url": "https://open.spotify.com/track/3onycGcXENXzRke49yNQvI"
     },
     {
       "added_at": "2024-03-20 14:51:50",

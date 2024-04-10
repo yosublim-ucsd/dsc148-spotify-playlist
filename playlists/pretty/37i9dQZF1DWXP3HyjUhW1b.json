@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed est\u00e1n las meras-meras de nuestro cancionero. Pedro Infante en portada.",
-  "num_followers": 331856,
+  "num_followers": 331907,
   "original_name": "Cancionero Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjNjMTgwZjhlNzBlYzc1NGExODAyMjk3M2ZlODBmZTMyNjg2ZjQw",
+  "snapshot_id": "MCwzNDFiNTdjNmRmYjg5OGY1YmYxZGMzYzA0MmJkMDlkZjJjY2RhMTkz",
   "tracks": [
     {
       "added_at": "2023-11-28 00:16:59",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 159172,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+      "duration_ms": 200386,
+      "name": "Sabes Una Cosa",
+      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 200386,
-      "name": "Sabes Una Cosa",
-      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 156520,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 166200,
       "name": "Y As\u00ed Fue",
       "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 263133,
       "name": "Por Mujeres Como T\u00fa",
       "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -535,8 +535,8 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 179040,
-      "name": "La bikina - En vivo",
-      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
+      "duration_ms": 152173,
+      "name": "Si Nos Dejan - En Vivo",
+      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -647,8 +647,8 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 152173,
-      "name": "Si Nos Dejan - En Vivo",
-      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
+      "duration_ms": 179040,
+      "name": "La bikina - En vivo",
+      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3gYgHcEBcuySZwZ2dcTPXV"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 207226,
       "name": "Eres Mi Droga",
       "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3gYgHcEBcuySZwZ2dcTPXV"
     },
     {
       "added_at": "2023-11-28 00:16:59",

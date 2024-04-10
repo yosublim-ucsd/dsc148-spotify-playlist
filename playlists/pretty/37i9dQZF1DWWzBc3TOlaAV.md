@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,054 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,218 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 38 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 |
 | 39 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:45 |
 | 40 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 |
-| 41 | [A Hard Day's Night \- Remastered 2009](https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:34 |
-| 42 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 |
+| 41 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 |
+| 42 | [I Saw Her Standing There \- Remastered 2009](https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:53 |
 | 43 | [Nights In White Satin \- Single Version / Mono](https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Deluxe Version\)](https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM) | 4:29 |
 | 44 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 |
 | 45 | [Sunny Afternoon](https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Deluxe\)](https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT) | 3:32 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 77 | [Good Lovin' \- Single Version](https://open.spotify.com/track/0XnhQGfqfi5CnZXcONJuI5) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [The Young Rascals](https://open.spotify.com/album/2ZhMMZobSh6Pkkv8EK82Fp) | 2:30 |
 | 78 | [Crimson & Clover \- Single Version](https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [The Essentials: Tommy James & The Shondells](https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ) | 3:28 |
 | 79 | [The Twist](https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Best Of Chubby Checker 1959\-1963](https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA) | 2:33 |
-| 80 | [Eight Miles High](https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 3:34 |
-| 81 | [Itchycoo Park \(Mono Version\) \- 2012 Remaster](https://open.spotify.com/track/5H0laZ62yDUPuKvHef8niK) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Small Faces \- Deluxe Edition \(2012 Remaster\)](https://open.spotify.com/album/2MhAWzEg3wdOLaLYgmpF0i) | 2:46 |
+| 80 | [Itchycoo Park \(Mono Version\) \- 2012 Remaster](https://open.spotify.com/track/5H0laZ62yDUPuKvHef8niK) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Small Faces \- Deluxe Edition \(2012 Remaster\)](https://open.spotify.com/album/2MhAWzEg3wdOLaLYgmpF0i) | 2:46 |
+| 81 | [Eight Miles High](https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 3:34 |
 | 82 | [Time Has Come Today](https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm) | [The Chambers Brothers](https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8) | [Time Has Come: The Best Of The Chambers Brothers](https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu) | 4:50 |
 | 83 | [Heart Full of Soul](https://open.spotify.com/track/0AiuEo7FCxP2y2WTOpLPe5) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 2:27 |
 | 84 | [I Had Too Much to Dream \(Last Night\)](https://open.spotify.com/track/5YgCmkSdGukXqK3fJlX4pQ) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [I Had Too Much To Dream \(Last Night\)](https://open.spotify.com/album/1k3ldWSHD1BwUVHGiFMhyw) | 2:59 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 89 | [Hush \- 2014 Remaster](https://open.spotify.com/track/3BaFLw5Tgx42RbedE9gd06) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [A Fire in the Sky](https://open.spotify.com/album/1GKOyRujhEUhhJGwaSifc8) | 4:12 |
 | 90 | [Ramble On \- Remaster](https://open.spotify.com/track/4WTk7vle9ubGFvRUkaGUBd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Deluxe Edition\)](https://open.spotify.com/album/58N1RPC3B4mRkjBaug4u3X) | 4:34 |
 | 91 | [Lodi](https://open.spotify.com/track/1Ay5MiilZj2ZGQLeTWVJ6o) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 3:13 |
-| 92 | [I Saw Her Standing There \- Remastered 2009](https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:53 |
+| 92 | [A Hard Day's Night \- Remastered 2009](https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:34 |
 | 93 | [Born On The Bayou](https://open.spotify.com/track/587bVBCHYW5Q2VNRLig4AS) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Bayou Country \(Expanded Edition\)](https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq) | 5:15 |
 | 94 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 |
 | 95 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 99 | [Paint It, Black \- Mono](https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones In Mono \(Remastered 2016\)](https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv) | 3:24 |
 | 100 | [Street Fighting Man \- 50th Anniversary Edition](https://open.spotify.com/track/7EXgO1bRnEArE58rtrgMWB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 3:15 |
 
-Snapshot ID: `MCxiMzJhNjExOTVhZjEwYmQ4ZGVhYjBiYjcxYjIxNDJiZDFhODY3Njg4`
+Snapshot ID: `MCwxNTcwYzE4MmZhZjdkNzMzYTFhMGMzNmRhNWVmOWFmYTc2ZWZhN2U5`

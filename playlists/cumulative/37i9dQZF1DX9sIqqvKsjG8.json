@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 139992,
       "name": "Barren Lands",
       "url": "https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue"
@@ -5012,7 +5012,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 182250,
       "name": "Halcyon",
       "url": "https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv"
@@ -5538,7 +5538,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 125624,
       "name": "How It Is",
       "url": "https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR"
@@ -7979,6 +7979,24 @@
     },
     {
       "album": {
+        "name": "Mirabella",
+        "url": "https://open.spotify.com/album/0iDH8OS9P0DcVV7Y2jVCUx"
+      },
+      "artists": [
+        {
+          "name": "Adiamo Mero",
+          "url": "https://open.spotify.com/artist/5GVoes1XQcUk6ru4HHwUMy"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Mirabella",
+      "url": "https://open.spotify.com/track/7xWIjzKV1OyZDnuA1DQNqM"
+    },
+    {
+      "album": {
         "name": "Apelblom",
         "url": "https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1"
       },
@@ -9034,7 +9052,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 165888,
       "name": "Opus 5",
       "url": "https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h"
@@ -9286,7 +9304,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 179257,
       "name": "Peace Frame",
       "url": "https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax"
@@ -9974,6 +9992,24 @@
       "duration_ms": 144698,
       "name": "Ravi",
       "url": "https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr"
+    },
+    {
+      "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130308,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja"
     },
     {
       "album": {
@@ -12092,6 +12128,24 @@
       "duration_ms": 167244,
       "name": "Summer",
       "url": "https://open.spotify.com/track/3LVfGCqen57RXIKj8Baen5"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2iy4xz7MDiw6WTBIs3B91t"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123641,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg"
     },
     {
       "album": {
@@ -14642,6 +14696,24 @@
       "duration_ms": 188624,
       "name": "Wheels in Motion",
       "url": "https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO"
+    },
+    {
+      "album": {
+        "name": "When I look at you",
+        "url": "https://open.spotify.com/album/1tWBD3z06MedKPwvKThkUx"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148672,
+      "name": "When I look at you",
+      "url": "https://open.spotify.com/track/4Pp19M88QCTYhHSlt9GFmB"
     },
     {
       "album": {

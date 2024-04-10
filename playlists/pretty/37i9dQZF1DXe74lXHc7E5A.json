@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: J Cole",
-  "num_followers": 25836,
+  "num_followers": 25877,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDY2ZjI5MDc4MTQyNmE4ZGVkZTdiODBiNzdiNjY4YWMzMTg5OGQ5",
+  "snapshot_id": "MCxkNDlkMTJkODNhMTI2Yjc3NzU3YWQ3OTdjMjcwMDgwNGNmYTViNDhh",
   "tracks": [
     {
       "added_at": "2024-04-05 05:39:52",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-04-05 05:39:52",
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
+    },
+    {
+      "added_at": "2024-04-05 05:39:52",
+      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 136400,
       "name": "Like What (Freestyle)",
       "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
-    },
-    {
-      "added_at": "2024-04-05 05:39:52",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": "2024-04-05 05:39:52",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-04-05 05:39:52",
       "album": {
-        "name": "Enough (Miami)",
-        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
+        "name": "Entrapreneur",
+        "url": "https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
+      "duration_ms": 144253,
+      "name": "Entrapreneur",
+      "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
     },
     {
       "added_at": "2024-04-05 05:39:52",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-04-05 05:39:52",
       "album": {
-        "name": "Entrapreneur",
-        "url": "https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh"
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 144253,
-      "name": "Entrapreneur",
-      "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
     },
     {
       "added_at": "2024-04-05 05:39:52",

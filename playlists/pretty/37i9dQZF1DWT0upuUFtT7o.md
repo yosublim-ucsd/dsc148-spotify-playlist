@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Annie\-Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,216 likes - 101 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,279 likes - 101 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 100 | [Inaka](https://open.spotify.com/track/0DRjfY5KFcuD53IcGvfawC) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Inaka](https://open.spotify.com/album/5ybEeQKYsEErgNZnxPqn4B) | 3:05 |
 | 101 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
 
-Snapshot ID: `MCxlOWRjMGEyOTdhYTk3NTQ2NDM2YzJjYzhmYmRmMzU4MzMwMzk1NzQ5`
+Snapshot ID: `MCw1NjlkYTEwZGUxOGM1YTdjODFhMjBmODcyMDI1MjRjZThjM2U2NGI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,710 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,742 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 27 | [Shinin’ You, Shinin’ Day](https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char](https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp) | 5:55 |
 | 28 | [流星都市](https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [HORO](https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4) | 3:53 |
 | 29 | [日付変更線](https://open.spotify.com/track/4b0inPorpxAXDgUjzkLl8M) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [大航海図鑑](https://open.spotify.com/album/78oK5eysmLdL8kJd40pnls) | 3:51 |
-| 30 | [星くず](https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q) | [Makoto Kubota](https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA), [夕焼け楽団](https://open.spotify.com/artist/08qtgUVDVKMQq8lOFcRJnH) | [デキシー・フィーバー](https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur) | 4:01 |
+| 30 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
 | 31 | [The Tokyo Taste](https://open.spotify.com/track/0YMnEMqd2xGK6FrMl481wX) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [ザ・ベスト](https://open.spotify.com/album/6A34idMpfb5WqzegCtRBWB) | 3:46 |
-| 32 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
+| 32 | [星くず](https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q) | [Makoto Kubota](https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA), [夕焼け楽団](https://open.spotify.com/artist/08qtgUVDVKMQq8lOFcRJnH) | [デキシー・フィーバー](https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur) | 4:01 |
 | 33 | [レインボー・シー・ライン](https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MINAKO](https://open.spotify.com/album/2c8zqoBf7oFJWKFqSbEjn8) | 3:57 |
 | 34 | [Suna no Onna](https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [BAND WAGON \(Remastered 2017\)](https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt) | 3:55 |
 | 35 | [サブタレニアン二人ぼっち \- 2017 リマスター](https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Funny Walkin' \(2017 リマスター\)](https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 |
 | 50 | [キッシング・フィッシュ \- 2017 リマスター](https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Kissing Fish \(2017 リマスター\)](https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ) | 4:39 |
 
-Snapshot ID: `MCxkMzZkM2QyZDgwYzI4Njc4MDMxMGYwMjAzZDdiNTMwYzYzYjE4Yjdj`
+Snapshot ID: `MCw0ZTcwNDZlZWQxOGQxZTA5Nzg4MWRjZGNiZmNkMWY0OGQ2ZTI4YTQy`

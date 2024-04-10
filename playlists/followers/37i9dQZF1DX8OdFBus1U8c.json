@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 117885,
+  "2024-04-10": 118058,
   "date_first_scraped": "2023-03-30",
   "description": "Set the bars high with Malayalam Hip-Hop!\nCover : Neeraj Madhav",
   "name": "Hip-Hop Malayalam",
@@ -381,6 +381,24 @@
       "duration_ms": 220253,
       "name": "Ayyayyo",
       "url": "https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC"
+    },
+    {
+      "album": {
+        "name": "Bahalam",
+        "url": "https://open.spotify.com/album/4xRyUkOLENGquMh8OWK6xV"
+      },
+      "artists": [
+        {
+          "name": "Lil Chaathan",
+          "url": "https://open.spotify.com/artist/5K9M76QZEy8JnQimxKSN3O"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166598,
+      "name": "Bahalam",
+      "url": "https://open.spotify.com/track/0MfDPeZF6vI3YbXXPeWxiQ"
     },
     {
       "album": {
@@ -1816,6 +1834,28 @@
     },
     {
       "album": {
+        "name": "MANKA",
+        "url": "https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "ThudWiser",
+          "url": "https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261923,
+      "name": "MANKA",
+      "url": "https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5"
+    },
+    {
+      "album": {
         "name": "Minni",
         "url": "https://open.spotify.com/album/6ZdyxuQBpOHPpspL33AMTU"
       },
@@ -3191,7 +3231,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 214076,
       "name": "Vere Level",
       "url": "https://open.spotify.com/track/3qKFI8feoGekhCFfTR8OPs"
@@ -3303,7 +3343,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 183529,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4jAcGLximA53NQ1DwOPM9S"

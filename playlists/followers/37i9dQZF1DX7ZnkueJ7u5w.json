@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 266088,
+  "2024-04-10": 266095,
   "date_first_scraped": "2023-08-09",
   "description": "M\u00fasica sabrosa para festejar la temporada de carnavales en M\u00e9xico. ",
   "name": "Carnaval en M\u00e9xico",
@@ -155,7 +155,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 297386,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
@@ -285,10 +285,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 266786,
       "name": "Conteo Regresivo - Salsa Version",
       "url": "https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp"
+    },
+    {
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
+    },
+    {
+      "album": {
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+      },
+      "artists": [
+        {
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "album": {
@@ -325,6 +361,46 @@
       "duration_ms": 261484,
       "name": "De Punta a Punta",
       "url": "https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901"
+    },
+    {
+      "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "album": {
+        "name": "El Amor De Mi Vida",
+        "url": "https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM"
     },
     {
       "album": {
@@ -477,6 +553,24 @@
       "duration_ms": 214933,
       "name": "El List\u00f3n De Tu Pelo",
       "url": "https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo"
+    },
+    {
+      "album": {
+        "name": "El Rey del Baile, Son 20 A\u00f1os, Completamente Feliz",
+        "url": "https://open.spotify.com/album/0Q4W7RpqkOjMRdcSxxuWvz"
+      },
+      "artists": [
+        {
+          "name": "Nelson Kanzela",
+          "url": "https://open.spotify.com/artist/728eqCXeJCJaQXz8qDCOJO"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "El Oso Polar",
+      "url": "https://open.spotify.com/track/2apRZfVq7r4T7kjjAyqr4i"
     },
     {
       "album": {
@@ -767,7 +861,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 265026,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
@@ -865,7 +959,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 276040,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/22YrEL6IbDx4axzr8Wpw9M"
@@ -901,7 +995,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 204640,
       "name": "Los Luchadores",
       "url": "https://open.spotify.com/track/0HBiHi1FZBpI8QOqiS0oBm"
@@ -919,10 +1013,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 252133,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
+    },
+    {
+      "album": {
+        "name": "Manos de Tijera",
+        "url": "https://open.spotify.com/album/2JdnWfuorkwlQFpiebOzHj"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230112,
+      "name": "Manos de Tijera",
+      "url": "https://open.spotify.com/track/5ds1Hh3lo4JUF2vflqyayK"
     },
     {
       "album": {
@@ -937,7 +1049,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 262573,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
@@ -980,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Trovando El Son",
+        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
+      },
+      "artists": [
+        {
+          "name": "Fresto Music",
+          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300791,
+      "name": "Me Hace Da\u00f1o Verte",
+      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
+    },
+    {
+      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -1017,7 +1147,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 234706,
       "name": "Mi Cucu",
       "url": "https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY"
@@ -1180,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "No Se Va (EN VIVO)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va - EN VIVO",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "album": {
         "name": "Sentimental de Punta a Punta",
         "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
       },
@@ -1213,6 +1361,24 @@
       "duration_ms": 259239,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
+    },
+    {
+      "album": {
+        "name": "Cumbia Con Clase",
+        "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tecno De Beto Y Juan",
+          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254883,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
     },
     {
       "album": {
@@ -1347,10 +1513,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 226960,
       "name": "Sorbito De Champana",
       "url": "https://open.spotify.com/track/1Oqe4XCDKIRS2eK4g5BQIj"
+    },
+    {
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "album": {
@@ -1455,7 +1639,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 185280,
       "name": "Tan Bella Y Tan Presumida",
       "url": "https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP"
@@ -1545,7 +1729,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 212933,
       "name": "Tu Pun Pun",
       "url": "https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt"
@@ -1563,10 +1747,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 274160,
       "name": "Tu Sonrisa",
       "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
+    },
+    {
+      "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253857,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
+    },
+    {
+      "album": {
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301441,
+      "name": "T\u00fa Con El",
+      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
     },
     {
       "album": {
@@ -1603,6 +1823,24 @@
       "duration_ms": 289466,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
+    },
+    {
+      "album": {
+        "name": "Vampiresa",
+        "url": "https://open.spotify.com/album/76zahrXazLSRPjIKVYulb6"
+      },
+      "artists": [
+        {
+          "name": "Explosion Colombiana De Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300112,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/0f57grrGN2QvWNJTynGSXp"
     },
     {
       "album": {

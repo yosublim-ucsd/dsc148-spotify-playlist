@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1093,
+  "num_followers": 1094,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWE2OGVlNTk2NjI4YzlmM2YyZTY3ZmMwZWYxNmNiMTdlOTk0NDNi",
+  "snapshot_id": "MCxhZGY5ZDMzZDdkNzgwY2E1ZTZhZGNkYWJmZTIxMzQ4YjFmMmQxOTE3",
   "tracks": [
     {
       "added_at": null,
@@ -598,15 +598,11 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
         }
       ],
-      "duration_ms": 142415,
-      "name": "25 Lighters",
-      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
+      "duration_ms": 209111,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
     },
     {
       "added_at": null,
@@ -674,11 +670,15 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
         }
       ],
-      "duration_ms": 209111,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
+      "duration_ms": 142415,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
     },
     {
       "added_at": null,

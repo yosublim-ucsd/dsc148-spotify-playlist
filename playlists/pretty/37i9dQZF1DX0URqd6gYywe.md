@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Fabiana Cantilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,679 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,794 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,29 +84,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 74 | [Hay Momentos](https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Esclavo](https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf) | 2:38 |
 | 75 | [Otro Jueves Cobarde](https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 5:20 |
 | 76 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
-| 77 | [Cielo Todo Gris](https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [La Sed](https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT) | 3:39 |
-| 78 | [¿Qué Ves?](https://open.spotify.com/track/5lHCIbpRu6P02qggxYjaDq) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 5:13 |
+| 77 | [¿Qué Ves?](https://open.spotify.com/track/5lHCIbpRu6P02qggxYjaDq) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 5:13 |
+| 78 | [Cielo Todo Gris](https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [La Sed](https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT) | 3:39 |
 | 79 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 |
 | 80 | [Inconsciente Colectivo](https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En La Vereda del Sol](https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U) | 2:53 |
 | 81 | [La Primera Vez](https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Mecánica Popular](https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS) | 4:44 |
 | 82 | [Me Estás Tratando Mal \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Me Estás Tratando Mal \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM) | 4:26 |
-| 83 | [Lápiz Libertad](https://open.spotify.com/track/4zPgTLglAVR88y0V8MBMrx) | [Juan Rosasco en Banda](https://open.spotify.com/artist/41pJnHLzYfNFPDmJgsZkcv), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Lápiz Libertad](https://open.spotify.com/album/48NPbFVbP0dhZNMtZOxETh) | 4:08 |
-| 84 | [La Trampa](https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Trampa](https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3) | 3:36 |
-| 85 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
+| 83 | [La Trampa](https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Trampa](https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3) | 3:36 |
+| 84 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
+| 85 | [Lápiz Libertad](https://open.spotify.com/track/4zPgTLglAVR88y0V8MBMrx) | [Juan Rosasco en Banda](https://open.spotify.com/artist/41pJnHLzYfNFPDmJgsZkcv), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Lápiz Libertad](https://open.spotify.com/album/48NPbFVbP0dhZNMtZOxETh) | 4:08 |
 | 86 | [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 |
 | 87 | [Pensamientos](https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Pensamientos](https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf) | 3:53 |
 | 88 | [Homero](https://open.spotify.com/track/3Ld5CT9BdPUqTkd9dnxny4) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 4:24 |
-| 89 | [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 |
-| 90 | [Certezas de Cartón](https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Certezas de Cartón](https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv) | 3:38 |
+| 89 | [Certezas de Cartón](https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Certezas de Cartón](https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv) | 3:38 |
+| 90 | [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 |
 | 91 | [Espíritu Felino](https://open.spotify.com/track/3whsO3ehU6ebnGjAZdzGFt) | [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Espíritu \(Libres Parte 3\)](https://open.spotify.com/album/3MMcH2FSR34P3SUvidu3Ut) | 3:43 |
-| 92 | [Una y Otra Vez](https://open.spotify.com/track/7yJxEX2Vee55JroU1eiLF1) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Una y Otra Vez](https://open.spotify.com/album/0bVbUOC1tbkj2MvPq1Yu4R) | 2:10 |
+| 92 | [De Mí](https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [García, el Más Grande](https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua) | 3:06 |
 | 93 | [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 |
-| 94 | [De Mí](https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [García, el Más Grande](https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua) | 3:06 |
+| 94 | [Una y Otra Vez](https://open.spotify.com/track/7yJxEX2Vee55JroU1eiLF1) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Una y Otra Vez](https://open.spotify.com/album/0bVbUOC1tbkj2MvPq1Yu4R) | 2:10 |
 | 95 | [Ahora 2](https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El Pozo Brillante](https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1) | 3:01 |
 | 96 | [La Culebra](https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [La Culebra](https://open.spotify.com/album/5mu4eaFjnSI1jDizjUTus1) | 4:57 |
 | 97 | [MADRID SIN VOS](https://open.spotify.com/track/3JSvXb9Uk8MgMYYpjzxpr1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [MADRID SIN VOS](https://open.spotify.com/album/0YA8mnbTDmJlv13JBP9SK4) | 3:44 |
-| 98 | [Deja Su Lugar](https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Deja Su Lugar](https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4) | 3:55 |
-| 99 | [Tu Mirada](https://open.spotify.com/track/4wSHlr7aUYTYlyO1dtfblV) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Tu Mirada](https://open.spotify.com/album/6e45aH8gfnLjPqd9jX25HX) | 3:21 |
-| 100 | [Te amo](https://open.spotify.com/track/21m9e0BX7sb55CWSpsmIQy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Verano en Capital](https://open.spotify.com/album/4YVyoJ9fhJ1r39NSstEa2O) | 2:47 |
+| 98 | [Te amo](https://open.spotify.com/track/21m9e0BX7sb55CWSpsmIQy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Verano en Capital](https://open.spotify.com/album/4YVyoJ9fhJ1r39NSstEa2O) | 2:47 |
+| 99 | [Deja Su Lugar](https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Deja Su Lugar](https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4) | 3:55 |
+| 100 | [Vendedora de Caricias](https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Vendedora de Caricias](https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91) | 3:19 |
 
-Snapshot ID: `MCxlYTU3OWM1YzA3ZDkxNmRlYmZjNDZjYWM3YTdkNzYyY2I1NTM3Nzgx`
+Snapshot ID: `MCwzMDI2ZWExZjc3OGM3YmM5NThmYjJmNGEzNDY1ZjUzNWNlN2Q1YTEz`

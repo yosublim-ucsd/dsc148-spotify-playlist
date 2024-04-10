@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 8358,
+  "2024-04-10": 8591,
   "date_first_scraped": "2022-05-23",
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
   "name": "Puras Pa' Pistear",
@@ -2843,6 +2843,24 @@
       "duration_ms": 192876,
       "name": "El Del Palenque",
       "url": "https://open.spotify.com/track/1xSNfnlL5T1sS4TExHjJv1"
+    },
+    {
+      "album": {
+        "name": "El Del Palenque",
+        "url": "https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192876,
+      "name": "El Del Palenque",
+      "url": "https://open.spotify.com/track/7y9W0RzHm4UvCRmI2VFrG6"
     },
     {
       "album": {
@@ -6839,7 +6857,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 122242,
       "name": "Oficialmente en Solter\u00eda",
       "url": "https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko"

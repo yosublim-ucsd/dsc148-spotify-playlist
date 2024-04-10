@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-358 songs - 22 hr 18 min
+359 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [ROLLERCOASTER](https://open.spotify.com/track/5jwgqsTNFsKQIMrwhGZ5et) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 3:48 | 2022-02-07 | 2022-07-29 |
 | [ROLLERCOASTER](https://open.spotify.com/track/6rEHgFrezCmpYhkckeXw10) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:48 | 2022-07-22 | 2023-10-28 |
 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 | 2021-11-05 | 2022-07-23 |
+| [Rolling On](https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Rolling On](https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX) | 2:56 | 2024-02-23 |  |
 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 | 2021-11-05 | 2023-11-16 |
 | [Rust](https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U) | [Sam Moss](https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j) | [Neon](https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ) | 2:31 | 2021-11-05 | 2022-07-29 |
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2021-11-05 |  |
@@ -303,7 +304,7 @@
 | [The Big One](https://open.spotify.com/track/2yzo8yTdYCJ6VEBO8qUyNB) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [The Big One](https://open.spotify.com/album/7pwt1GDIuIvHcWkirF8OwQ) | 3:39 | 2022-03-11 | 2022-07-29 |
 | [The Breach](https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:13 | 2022-05-13 |  |
 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 | 2022-02-07 |  |
-| [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 | 2022-07-22 |  |
+| [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 | 2022-07-22 | 2024-04-10 |
 | [The Rains](https://open.spotify.com/track/5Wvf91821sBE8aErRtpfRN) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Rains](https://open.spotify.com/album/2yYjpXzVcJhQ2D0e9dkwjX) | 3:31 | 2021-11-05 | 2022-07-29 |
 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 | 2021-11-08 | 2022-08-03 |
 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 | 2021-11-05 | 2022-07-29 |

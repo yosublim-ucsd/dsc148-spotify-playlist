@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:5nGEwOuyd7RFe64eB0kWd8\">Iwona Skv</a>",
-  "num_followers": 8456,
+  "num_followers": 8479,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTJmYjkyNjMyMmRlMTBhMTcxNmUzMjMxYWUyM2RlN2M3NGY0NGMz",
+  "snapshot_id": "MCxiOTQ3Mzk1NWE3MzUzMzVlZGEzNGMyYzBkYzdiMDYzOGU4MzdmYWQx",
   "tracks": [
     {
       "added_at": "2024-04-08 22:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
+        "name": "Deadfall",
+        "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 263614,
+      "name": "Deadfall",
+      "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
         "name": "Spicy (Lulu x Uaziuk Remix)",
         "url": "https://open.spotify.com/album/2clwWQQcD6CTDJK6wSm94L"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 202727,
       "name": "Spicy (Lulu x Uaziuk Remix)",
       "url": "https://open.spotify.com/track/4wz4d6QxhgN4GfiN3bFjfA"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "Deadfall",
-        "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 263614,
-      "name": "Deadfall",
-      "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Przekle\u0144stwa Niewinno\u015bci: Zbrodnia i Kara",
-        "url": "https://open.spotify.com/album/1Y8gFRjRdpxOsCu9Lpxank"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        },
-        {
-          "name": "asl33p",
-          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Wiem, \u017ce Smakuj\u0119 Jak... - asl33p Remix",
-      "url": "https://open.spotify.com/track/559qVlvNL3pQNHNtWKZZzo"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
         "name": "The Moon",
         "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
       },
@@ -703,6 +683,22 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
+        "name": "oddaj\u0119 Ci melodi\u0119",
+        "url": "https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 143443,
+      "name": "oddaj\u0119 Ci melodi\u0119",
+      "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
         "name": "Sabota\u017cysta",
         "url": "https://open.spotify.com/album/6nuJ48Ekc0n7wfGi2TyJDv"
       },
@@ -715,6 +711,26 @@
       "duration_ms": 224100,
       "name": "Poduszka",
       "url": "https://open.spotify.com/track/4qjzaRVu6vEBi8iZ5hZdNk"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "Przekle\u0144stwa Niewinno\u015bci: Zbrodnia i Kara",
+        "url": "https://open.spotify.com/album/1Y8gFRjRdpxOsCu9Lpxank"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "asl33p",
+          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Wiem, \u017ce Smakuj\u0119 Jak... - asl33p Remix",
+      "url": "https://open.spotify.com/track/559qVlvNL3pQNHNtWKZZzo"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -735,34 +751,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "oddaj\u0119 Ci melodi\u0119",
-        "url": "https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U"
+        "name": "Stukamy si\u0119 browarami",
+        "url": "https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w"
       },
       "artists": [
         {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
         }
       ],
-      "duration_ms": 143443,
-      "name": "oddaj\u0119 Ci melodi\u0119",
-      "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "po m\u0119sku",
-        "url": "https://open.spotify.com/album/7nvX0MECWua6K4t0FYssd4"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 226893,
-      "name": "po m\u0119sku",
-      "url": "https://open.spotify.com/track/0RIhsQxxndz7XQJSGW9C6H"
+      "duration_ms": 205502,
+      "name": "Stukamy si\u0119 browarami",
+      "url": "https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Stukamy si\u0119 browarami",
-        "url": "https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w"
+        "name": "po m\u0119sku",
+        "url": "https://open.spotify.com/album/7nvX0MECWua6K4t0FYssd4"
       },
       "artists": [
         {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 205502,
-      "name": "Stukamy si\u0119 browarami",
-      "url": "https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj"
+      "duration_ms": 226893,
+      "name": "po m\u0119sku",
+      "url": "https://open.spotify.com/track/0RIhsQxxndz7XQJSGW9C6H"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
+        "name": "$WAG (lepi si\u0119 w ch*j)",
+        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
+      },
+      "artists": [
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        }
+      ],
+      "duration_ms": 158787,
+      "name": "$WAG (lepi si\u0119 w ch*j)",
+      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
         "name": "52 Kilo",
         "url": "https://open.spotify.com/album/2ybhVe7eucFViFRCMbGqyr"
       },
@@ -899,54 +915,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Dolce Vita",
-        "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
       },
       "artists": [
         {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        },
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         }
       ],
-      "duration_ms": 234246,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Dok\u0105d biegn\u0119",
-      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "$WAG (lepi si\u0119 w ch*j)",
-        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
-      },
-      "artists": [
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        }
-      ],
-      "duration_ms": 158787,
-      "name": "$WAG (lepi si\u0119 w ch*j)",
-      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -971,6 +951,26 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
+        "name": "Dolce Vita",
+        "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        },
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 234246,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/3WKj4kBRl4OSuxuSTe9H9Y"
       },
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
         }
       ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+      "duration_ms": 194250,
+      "name": "Dok\u0105d biegn\u0119",
+      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Podziemny Slam",
-        "url": "https://open.spotify.com/album/6KwYYZiNYO2pRFf9RRHGzP"
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
       "artists": [
         {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "Nick Sinckler",
+          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
         }
       ],
-      "duration_ms": 179910,
-      "name": "Podziemny Slam",
-      "url": "https://open.spotify.com/track/38y5b9wZNqA6odUnbpfs8s"
+      "duration_ms": 174000,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Pentimento",
-        "url": "https://open.spotify.com/album/3on2CIIc8sGo68Q2d5Ne79"
+        "name": "Podziemny Slam",
+        "url": "https://open.spotify.com/album/6KwYYZiNYO2pRFf9RRHGzP"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
         },
         {
-          "name": "Juna Ara",
-          "url": "https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Pentimento",
-      "url": "https://open.spotify.com/track/1NneZwSe4xqclhqptLE8pL"
+      "duration_ms": 179910,
+      "name": "Podziemny Slam",
+      "url": "https://open.spotify.com/track/38y5b9wZNqA6odUnbpfs8s"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
+        "name": "Pentimento",
+        "url": "https://open.spotify.com/album/3on2CIIc8sGo68Q2d5Ne79"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "Juna Ara",
+          "url": "https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Pentimento",
+      "url": "https://open.spotify.com/track/1NneZwSe4xqclhqptLE8pL"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
         "name": "DOM",
         "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 243979,
       "name": "Cie\u0144",
       "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Nick Sinckler",
-          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
+        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
       },
       "artists": [
         {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
         }
       ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+      "duration_ms": 169090,
+      "name": "Po Szkole",
+      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1223,18 +1223,38 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
-        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
+        "name": "Pokussa Na Parkiecie",
+        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
       },
       "artists": [
         {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 169090,
-      "name": "Po Szkole",
-      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
+      "duration_ms": 176000,
+      "name": "POKUSSA",
+      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1255,22 +1275,6 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Spina",
-        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
-      },
-      "artists": [
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        }
-      ],
-      "duration_ms": 213921,
-      "name": "Spina",
-      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
         "name": "BSoD (Bluescreen)",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -1287,22 +1291,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Pokussa Na Parkiecie",
-        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
+        "name": "Spina",
+        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
         }
       ],
-      "duration_ms": 176000,
-      "name": "POKUSSA",
-      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
+      "duration_ms": 213921,
+      "name": "Spina",
+      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1371,6 +1371,46 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
+      },
+      "artists": [
+        {
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "Technikolor",
+        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Twoja Stara",
+          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
+        },
+        {
+          "name": "Lola Eyeonyou Potocki",
+          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Technikolor",
+      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
         "name": "Diego M.",
         "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
       },
@@ -1407,22 +1447,6 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
-      },
-      "artists": [
-        {
-          "name": "Lesbijski Groove",
-          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
         "name": "POT\u0118\u017bNE LESBIJKI Z MIECZAMI",
         "url": "https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7"
       },
@@ -1455,26 +1479,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Technikolor",
-        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Twoja Stara",
-          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
-        },
-        {
-          "name": "Lola Eyeonyou Potocki",
-          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
         }
       ],
-      "duration_ms": 230906,
-      "name": "Technikolor",
-      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1499,18 +1515,50 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
       "artists": [
         {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
         }
       ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
+      "duration_ms": 254436,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "Lesbijski Groove",
+        "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
+      },
+      "artists": [
+        {
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Lesbijski Groove",
+      "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "Rojava",
+        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Rojava",
+      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1543,54 +1591,6 @@
       "duration_ms": 305869,
       "name": "Nieludzie (Ignorance Ha)",
       "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "Maski",
-        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
-        }
-      ],
-      "duration_ms": 254436,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "Rojava",
-        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Rojava",
-      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "Lesbijski Groove",
-        "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
-      },
-      "artists": [
-        {
-          "name": "Lesbijski Groove",
-          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "Lesbijski Groove",
-      "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Organic Love",
-        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Organic Love",
-      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 359338,
       "name": "JOY",
       "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "Remedium",
+        "url": "https://open.spotify.com/album/72fMYKTiaytD7nrFykKlDS"
+      },
+      "artists": [
+        {
+          "name": "Vipera",
+          "url": "https://open.spotify.com/artist/4vCaa5Di1yZpfsdowt4l48"
+        }
+      ],
+      "duration_ms": 200419,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB"
     }
   ],
   "unique_name": "GLOW Polska",

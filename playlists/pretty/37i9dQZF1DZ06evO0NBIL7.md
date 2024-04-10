@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 20 | [Inside Joke](https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Coma Happy](https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn) | 3:07 |
 | 21 | [Viva Violent](https://open.spotify.com/track/6q4clEp8vrma0ywWTys1u4) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:32 |
 | 22 | [Heart Is A Landmine](https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:20 |
-| 23 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 |
-| 24 | [Best Fake Friends](https://open.spotify.com/track/2A1ZQp6zcVEBGfGrkbcpNO) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 2:15 |
+| 23 | [Best Fake Friends](https://open.spotify.com/track/2A1ZQp6zcVEBGfGrkbcpNO) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 2:15 |
+| 24 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 |
 
-Snapshot ID: `MCw3MTNjNDdiNDM0NDEzOTJlMGY0MjVlMGY0MGUzMDkwYWZlYTg0YmQz`
+Snapshot ID: `MCw0NzU0MWM0NWU4MzRhMTVmNmZhNTU1ZTY1M2Y5YmQ2MTVmZDk4YzA2`

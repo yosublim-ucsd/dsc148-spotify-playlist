@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 5706322,
+  "2024-04-10": 5706747,
   "date_first_scraped": "2021-12-21",
   "description": "Press play, press start.",
   "name": "Top Gaming Tracks",
@@ -1147,6 +1147,24 @@
       "duration_ms": 210410,
       "name": "Baby Sasuke",
       "url": "https://open.spotify.com/track/4Y4Xmm8OLUJSdR9OkaxV97"
+    },
+    {
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "album": {
@@ -11287,7 +11305,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 111020,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA"

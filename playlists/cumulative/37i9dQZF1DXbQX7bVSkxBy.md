@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC?si=Ov9F1KTFTY6jpv7w92oxLA>Omojo</a>
 
-269 songs - 22 hr 22 min
+270 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Bye Bye](https://open.spotify.com/track/0q4CLQrdICC3mu073vZyfJ) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ThisIsPrinx](https://open.spotify.com/album/5pqNbCEWRERViZjzrJS76h) | 2:18 | 2023-12-05 | 2023-12-13 |
 | [Call Me Blessed](https://open.spotify.com/track/5CyrCBCWC87Ppz6lNomYrB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Call Me Blessed](https://open.spotify.com/album/7KCjQA1lve605tpDbqzSud) | 2:25 | 2024-02-02 | 2024-02-16 |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-09-29 |  |
-| [Capable God](https://open.spotify.com/track/25sRKHPOYj8XsDXbxxdx3y) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 3:24 | 2023-04-07 |  |
+| [Capable God](https://open.spotify.com/track/1ba2375k5XaAIGWPMC57y1) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 3:24 | 2023-12-15 |  |
+| [Capable God](https://open.spotify.com/track/25sRKHPOYj8XsDXbxxdx3y) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 3:24 | 2023-04-07 | 2024-04-10 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-29 | 2024-01-19 |
 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2023-04-07 | 2023-04-21 |
 | [CHIOMA \- AFRO VIBE](https://open.spotify.com/track/5OjleVny844yOAziATX4fR) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [CHIOMA \(AFRO VIBE\)](https://open.spotify.com/album/4Tnj3nyRH9OmbToyicFtzH) | 5:01 | 2023-12-05 | 2023-12-13 |
@@ -86,7 +87,7 @@
 | [Fly Away](https://open.spotify.com/track/6OTBSObTPBgyVHHLs97Stx) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/3QhC4P5UhOObGxi77cqEAx) | 2:35 | 2023-12-29 | 2024-02-14 |
 | [Fly Away](https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:35 | 2023-12-29 |  |
 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 | 2023-12-29 |  |
-| [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 | 2023-12-29 | 2024-04-09 |
+| [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 | 2023-12-29 |  |
 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 | 2024-03-29 |  |
 | [Forever It Is Done](https://open.spotify.com/track/3TyRJ4x7El0PujsfO5yzHg) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/0c3D3i10HWtE7ue0emwOA7) | 5:15 | 2024-03-29 | 2024-04-05 |
 | [Forever It Is Done](https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7) | 5:15 | 2024-02-02 | 2024-02-16 |
@@ -98,7 +99,7 @@
 | [Gallant](https://open.spotify.com/track/1Lmjh3qhOwibSlsrBmkUsx) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gallant](https://open.spotify.com/album/7kR0lwEA2gncJV1NJill1K) | 5:16 | 2024-03-29 | 2024-04-05 |
 | [Gideon's army](https://open.spotify.com/track/1movLiE00VsRrfmtPgsRnT) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Purpose](https://open.spotify.com/album/1LkpGdl7984FchhlXBatS3) | 2:41 | 2023-07-14 | 2023-07-21 |
 | [Gideon's army](https://open.spotify.com/track/1q9LNcxOTfdrtk8XFB0eao) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Purpose](https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16) | 2:41 | 2023-07-14 | 2023-07-20 |
-| [God Be The Glory](https://open.spotify.com/track/2O75KOWDHDcsy3uifzJIPU) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [God Be The Glory](https://open.spotify.com/album/3j2ymNszeFauxvBIMPeHvK) | 3:35 | 2023-12-29 |  |
+| [God Be The Glory](https://open.spotify.com/track/2O75KOWDHDcsy3uifzJIPU) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [God Be The Glory](https://open.spotify.com/album/3j2ymNszeFauxvBIMPeHvK) | 3:35 | 2023-12-29 | 2024-04-10 |
 | [God No Go Shame Us](https://open.spotify.com/track/6oHUaQylY7C9vpLDrLR32C) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [God No Go Shame Us](https://open.spotify.com/album/5hjyGoHHqyLyliSIGJrpTo) | 2:29 | 2023-12-05 | 2023-12-13 |
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-29 |  |
 | [GOOD GOOD GOD](https://open.spotify.com/track/3tMVmejZwzphx1kjnWqYLw) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [GOOD GOOD GOD](https://open.spotify.com/album/7D12vNVnTLlF3GIhTgKLPl) | 3:09 | 2023-12-05 | 2023-12-13 |

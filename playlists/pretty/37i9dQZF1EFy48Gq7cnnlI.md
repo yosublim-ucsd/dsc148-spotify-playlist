@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 70 | [Hold My Breath Until I Die](https://open.spotify.com/track/1MnCNW7fVSLHmLnCXxRg1k) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:42 |
 | 71 | [Backup Plan](https://open.spotify.com/track/1UjZRtdqR3o5hfdhtLadT5) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 2:46 |
 | 72 | [Everywhere I Go](https://open.spotify.com/track/0QrzN1zybGPr27X6NAkUH6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Everywhere I Go](https://open.spotify.com/album/0R0LHoYE9Evb7zg94ay6nR) | 2:56 |
-| 73 | [Hello, I'm Right Here](https://open.spotify.com/track/3hO7TPpL86XCsO9eSaVmeo) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:07 |
-| 74 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 |
+| 73 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 |
+| 74 | [Hello, I'm Right Here](https://open.spotify.com/track/3hO7TPpL86XCsO9eSaVmeo) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:07 |
 | 75 | [sponge](https://open.spotify.com/track/2Z3JlrOjcC6XITyxFEgbHT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [hues](https://open.spotify.com/album/6f5Z2SBhrecKukyZDLX1vU) | 3:36 |
 | 76 | [Tell Me Again](https://open.spotify.com/track/4sH7jSUl7CbvcLxYkT9W3L) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Happy Accidents \(Deluxe Edition\)](https://open.spotify.com/album/1WF9Uo8Qm6zjY6WPS6hyqD) | 4:15 |
 | 77 | [Keep Them Close 'Cause They Will Fuck You Too](https://open.spotify.com/track/2QZml0QtO2dkbhkoaBTUqW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:14 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 103 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 | 104 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 
-Snapshot ID: `Mjg1NDM4MTAsMDAwMDAwMDA3ZTFiOTUyNmE2NmY4YWNlNmY0NGNjZjBmMzFiYzU1NA==`
+Snapshot ID: `Mjg1NDUyNTAsMDAwMDAwMDA1ZDExN2VhYjJmYmM0MGE1YTJlZGE4YmQwMTYwY2UyMw==`

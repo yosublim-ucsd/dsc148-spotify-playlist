@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,691 likes - 39 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,694 likes - 39 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 19 | [MilTroit \(feat\. Lakeyah\)](https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Half Tee Half Beast](https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp) | 2:24 |
 | 20 | [Brand New \(feat\. Layton Green\)](https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:46 |
 | 21 | [Poppin](https://open.spotify.com/track/2ALg7dHbjG6S2HrlRN8n6R) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:34 |
-| 22 | [ADD IT UP](https://open.spotify.com/track/7uiPi84YedJClCxAxEflia) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir) | 2:56 |
-| 23 | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8) | 2:29 |
+| 22 | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8) | 2:29 |
+| 23 | [ADD IT UP](https://open.spotify.com/track/7uiPi84YedJClCxAxEflia) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir) | 2:56 |
 | 24 | [2 Tone](https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:04 |
 | 25 | [Young and Ratchet](https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:32 |
 | 26 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 38 | [Reason](https://open.spotify.com/track/52hWMRYetR1B4qm2GtLPCY) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:45 |
 | 39 | [GOAT Talk](https://open.spotify.com/track/3pSPOHc63HxnuD2bzA4Qdd) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:03 |
 
-Snapshot ID: `MCwzZDljMTg5MTdiY2U2ZTBmM2FmZjZiMmExNTRhYWE1Yzg2NWRjNDg2`
+Snapshot ID: `MCw2NTA1MTI1NjMyNzUyMjMyODkxOTQwODA4NGIyYjQzMjllZjQzNjE1`

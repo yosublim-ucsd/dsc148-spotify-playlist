@@ -495,6 +495,28 @@
     },
     {
       "album": {
+        "name": "Gracias Por Existir",
+        "url": "https://open.spotify.com/album/2Xdby9NkJLVGD5eBBC9Y35"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Guerra",
+          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "Gracias por Existir",
+      "url": "https://open.spotify.com/track/1OoJSOXUn67BOzoMHUqfO7"
+    },
+    {
+      "album": {
         "name": "Gracias por Existir",
         "url": "https://open.spotify.com/album/2MZTSJ86WPeIM5oEtnRYRQ"
       },
@@ -778,7 +800,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 192666,
       "name": "No Me Vayas a Dejar",
       "url": "https://open.spotify.com/track/15WIt660rRzkOZxD6w5h8T"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,190 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,209 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 33 | [腦公](https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 2:52 |
 | 34 | [理想情人](https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [曖昧](https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk) | 4:22 |
 | 35 | [Fall in Love](https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Fall in Love](https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7) | 3:21 |
-| 36 | [畫沙](https://open.spotify.com/track/1QrzWpQOqzL3X4ladMNpnE) | [Cindy Yen](https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [袁詠琳同名專輯](https://open.spotify.com/album/5T0jXf14LujTawF81bUBi2) | 4:33 |
-| 37 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
-| 38 | [爱上你](https://open.spotify.com/track/4hcNpo1rtbzyNswsM5byTf) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [SHERO](https://open.spotify.com/album/2Ct96tdzvZzNwsC6shl9tG) | 4:01 |
-| 39 | [鼻子](https://open.spotify.com/track/7GbxcSJGFrN7aXZSjCb0a9) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [鼻子](https://open.spotify.com/album/2hi41dNrpBQBFdQBXuaMIx) | 3:52 |
+| 36 | [鼻子](https://open.spotify.com/track/7GbxcSJGFrN7aXZSjCb0a9) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [鼻子](https://open.spotify.com/album/2hi41dNrpBQBFdQBXuaMIx) | 3:52 |
+| 37 | [畫沙](https://open.spotify.com/track/1QrzWpQOqzL3X4ladMNpnE) | [Cindy Yen](https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [袁詠琳同名專輯](https://open.spotify.com/album/5T0jXf14LujTawF81bUBi2) | 4:33 |
+| 38 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
+| 39 | [爱上你](https://open.spotify.com/track/4hcNpo1rtbzyNswsM5byTf) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [SHERO](https://open.spotify.com/album/2Ct96tdzvZzNwsC6shl9tG) | 4:01 |
 | 40 | [想說](https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [想說](https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T) | 3:20 |
-| 41 | [分你一半](https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh) | [叶恨水](https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD) | [分你一半](https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj) | 3:19 |
-| 42 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 |
-| 43 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 |
+| 41 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 |
+| 42 | [分你一半](https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh) | [叶恨水](https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD) | [分你一半](https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj) | 3:19 |
+| 43 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 |
 | 44 | [渐暖](https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX) | [時代少年團](https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz) | [渐暖](https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd) | 3:10 |
 | 45 | [心願便利貼](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [命中注定我愛你 \(電視原聲帶\)](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 |
 | 46 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 65 | [追光者](https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [追光者](https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW) | 3:33 |
 | 66 | [我會很愛你](https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [我會很愛你](https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx) | 3:35 |
 | 67 | [海绵宝宝](https://open.spotify.com/track/71dfmgOUiooQLv7ty0utOO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/5W7iavXoJXfMRL9rhTQWCi) | 3:18 |
-| 68 | [氧化氢](https://open.spotify.com/track/2D4N00Ouvj4GxUEsE6ht0B) | [李尖尖](https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs) | [氧化氢](https://open.spotify.com/album/21ZxcTSff8GoFutdIzzCoL) | 2:15 |
-| 69 | [说爱你 \- 男生版](https://open.spotify.com/track/5gP0jJMhvAtHXIn4bekkob) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [说爱你 \(男生版\)](https://open.spotify.com/album/62tQtda36PFAcFqKiYv4Ts) | 3:14 |
+| 68 | [说爱你 \- 男生版](https://open.spotify.com/track/5gP0jJMhvAtHXIn4bekkob) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [说爱你 \(男生版\)](https://open.spotify.com/album/62tQtda36PFAcFqKiYv4Ts) | 3:14 |
+| 69 | [氧化氢](https://open.spotify.com/track/2D4N00Ouvj4GxUEsE6ht0B) | [李尖尖](https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs) | [氧化氢](https://open.spotify.com/album/21ZxcTSff8GoFutdIzzCoL) | 2:15 |
 | 70 | [等著你，夢著你 \- 影集《美食無間》插曲](https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [等著你，夢著你 \(影集《美食無間》插曲\)](https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y) | 3:37 |
 | 71 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 |
 | 72 | [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 |
 | 73 | [一整个爱住你](https://open.spotify.com/track/7qS8UCNhleIWbdiPVntVNm) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/1dSG6cHr8dCZCLzVvpWmDt) | 3:27 |
 | 74 | [給你意外的甜](https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [給你意外的甜](https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO) | 4:06 |
-| 75 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [SUPERMAN](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 |
+| 75 | [遇到你 \- 電視劇《原來我很愛你》片頭曲](https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih), [萬鵬](https://open.spotify.com/artist/7rfYWk7WW24KDeU3nKJS3Z) | [遇到你 \(電視劇《原來我很愛你》片頭曲\)](https://open.spotify.com/album/1Y61uReThvJfYvzMAvhJc1) | 4:05 |
 
-Snapshot ID: `MCxiNjM0NzdkMzYyZGFmYTg4MGNhYjI3NWE4ZWJhYjllNzBkZDc4N2Fk`
+Snapshot ID: `MCw2YjBkMTcyNzQ3YmEyNThlYjFmNTViNTRlOTA2NDdkNTBmZjAwZWMy`

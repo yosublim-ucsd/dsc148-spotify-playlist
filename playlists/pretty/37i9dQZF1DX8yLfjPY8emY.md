@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,801 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,011 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 | 21 | [Vida No Te Vayas](https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:48 |
 | 22 | [La Negra Tomasa \- Bilongo \- Versión Tropical](https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 7:52 |
 | 23 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 |
-| 24 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
-| 25 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
+| 24 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
+| 25 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
 | 26 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 |
 | 27 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 |
 | 28 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 | 39 | [Yo Me Enamoré](https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:12 |
 | 40 | [Te Vas a Arrepentir](https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4) | 3:23 |
 | 41 | [Rumba Frenesi](https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ) | [Grupo Kual? Dinastia Pedraza](https://open.spotify.com/artist/5PjsLo3UsW3pdl1z6I4hWq) | [El Poder de la Cumbia](https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae) | 5:11 |
-| 42 | [Las Mujers No Se Acaban](https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los reyes del sabor](https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:30 |
-| 43 | [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 |
-| 44 | [Esa Mujer](https://open.spotify.com/track/5t2wPhu31FyoT716M9O5cE) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Castigo…](https://open.spotify.com/album/68M7vT5AExw4SOIhEbYL7q) | 3:38 |
-| 45 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
+| 42 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
+| 43 | [Esa Mujer](https://open.spotify.com/track/5t2wPhu31FyoT716M9O5cE) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Castigo…](https://open.spotify.com/album/68M7vT5AExw4SOIhEbYL7q) | 3:38 |
+| 44 | [Las Mujers No Se Acaban](https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los reyes del sabor](https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:30 |
+| 45 | [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 |
 | 46 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 |
 | 47 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
 | 48 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 |
 | 49 | [La Chica Que Soñé](https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [La Chica Que Soñe](https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g) | 3:10 |
 | 50 | [Te Amo](https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Mi Historia](https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS) | 2:55 |
 
-Snapshot ID: `MCxkMDkxMDljMDAyZTUxNTE1OTZiNjJjZTkyMzA3MDM3ZTIzMGE5NTNi`
+Snapshot ID: `MCxjZTQ2OWMxOWMyZmQyNjBhZDI4Y2U5ZTE2ZTI1YTM3OTI2Y2Y3N2Rm`

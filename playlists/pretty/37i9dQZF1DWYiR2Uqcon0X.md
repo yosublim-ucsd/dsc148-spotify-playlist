@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,776 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,791 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 24 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
 | 25 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 |
 | 26 | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/track/7D5v3bwTNUx8NHHKHmwGgX) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Tourism](https://open.spotify.com/album/2dxsMripcAgRre1gqZPoye) | 3:32 |
-| 27 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 |
-| 28 | [Wings](https://open.spotify.com/track/0UU1opJqwJtFvHpCrWK1Mq) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 4:24 |
+| 27 | [Wings](https://open.spotify.com/track/0UU1opJqwJtFvHpCrWK1Mq) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 4:24 |
+| 28 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 |
 | 29 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 |
 | 30 | [MARILYN](https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:26 |
 | 31 | [I Ain't Ever Loved No One \- Acoustic](https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Other Way](https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ) | 3:19 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 37 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 |
 | 38 | [Roadtripsong](https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Roadtripsong](https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O) | 3:41 |
 | 39 | [It'll Work Itself Out](https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1) | 3:02 |
-| 40 | [Asking For A Friend](https://open.spotify.com/track/5mXOdtyPOL6GEuZdCyHSsb) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:59 |
-| 41 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
+| 40 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
+| 41 | [Asking For A Friend](https://open.spotify.com/track/5mXOdtyPOL6GEuZdCyHSsb) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:59 |
 | 42 | [Pack My Hometown](https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Pack My Hometown](https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i) | 3:11 |
 | 43 | [Coming Down the Mountain](https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g) | 4:33 |
 | 44 | [Pretty Hands](https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 74 | [Without A Word](https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Without A Word](https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr) | 3:58 |
 | 75 | [Heartland](https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:31 |
 
-Snapshot ID: `MCw5NDc4NmQ1MjlkODc5NWFhMTJlMGRiNDJiZjAxM2NhNjE0YTBhNzNi`
+Snapshot ID: `MCw2N2FkNGU1YjQ5ZTE2ZDZjMjc2NGNhYzFjMGUzNzY5ZDU1YjY2NDNk`

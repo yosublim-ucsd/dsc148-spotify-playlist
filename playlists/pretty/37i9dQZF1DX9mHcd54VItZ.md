@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=23DKVGDdQx2UwAtMSwcAWA">Prime Circle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,566 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,580 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 37 | [Los My](https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp) | [Winterstasie](https://open.spotify.com/artist/2OJzbtCzhkYel0Nfv8lx3P) | [Klanke Van Die Antieke](https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ) | 3:04 |
 | 38 | [Birthday Card](https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc) | [Tweak](https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS) | [The Romantic Lure of Possum Worship](https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm) | 3:09 |
 | 39 | [wies nie weird nie?](https://open.spotify.com/track/4u4fiRQEA7ZoOUmrANQa8H) | [Skrikkeljaar](https://open.spotify.com/artist/62F3uYbEowDVVfkWcwP8Az) | [wies nie weird nie?](https://open.spotify.com/album/6PlptlQbUZ7CELQDeL2BYH) | 3:49 |
-| 40 | [Patience](https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Patience](https://open.spotify.com/album/7aLOnvf1S2TJ3Zr9R0QWeN) | 5:33 |
-| 41 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
-| 42 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 |
+| 40 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
+| 41 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 |
+| 42 | [Patience](https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Patience](https://open.spotify.com/album/7aLOnvf1S2TJ3Zr9R0QWeN) | 5:33 |
 | 43 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 |
 | 44 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 |
 | 45 | [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Wicked Wonder \- Remastered](https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W) | [Arapaho](https://open.spotify.com/artist/5yA0PesbdKjJz16gjF1vjF) | [The Wicked Selection](https://open.spotify.com/album/5fyXBZ9YgmOgTu3wrt5m5W) | 4:37 |
 | 50 | [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 |
 
-Snapshot ID: `MCxhMGU1ZTMzYjhlMTFhNzgzNGVjNjc5OTAxMzMwNDY2NmIyYzRlODkx`
+Snapshot ID: `MCwyMWU5MjRmZGRjMWEyNzQyY2YyYmI4ZmQ4YjZiZGEzNGJiN2NiMDI1`

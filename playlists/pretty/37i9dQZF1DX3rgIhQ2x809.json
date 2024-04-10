@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70838,
+  "num_followers": 70851,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY0N2FjYTMzZjgzMmU0NjA0YzFiMjg4YmM1MTg2MjM3NmNjYjIy",
+  "snapshot_id": "MCw1MGNiZjIyMjcyMmQzMzBmNGIzMmEzNzA0ZTNmZmQyZDE0MDkxNTRi",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Miko",
+        "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "Miko",
+      "url": "https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 266835,
       "name": "M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Miko",
-        "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Miko",
-      "url": "https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "TRAPPHONE",
-        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
-      },
-      "artists": [
-        {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
-        }
-      ],
-      "duration_ms": 107984,
-      "name": "TRAPPHONE",
-      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Orgullo",
         "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 223389,
       "name": "Orgullo",
       "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "TRAPPHONE",
+        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
+      },
+      "artists": [
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        }
+      ],
+      "duration_ms": 107984,
+      "name": "TRAPPHONE",
+      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Tesoro M\u00edo",
-        "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
-      },
-      "artists": [
-        {
-          "name": "Yan Collazo",
-          "url": "https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW"
-        },
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242932,
-      "name": "Tesoro M\u00edo",
-      "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 205048,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Tesoro M\u00edo",
+        "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
+      },
+      "artists": [
+        {
+          "name": "Yan Collazo",
+          "url": "https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242932,
+      "name": "Tesoro M\u00edo",
+      "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Labios",
+        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Nena Buena",
         "url": "https://open.spotify.com/album/6H0y2FOaj4tPcZTQ1VRTUU"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 208179,
       "name": "Nena Buena",
       "url": "https://open.spotify.com/track/1LipU0DjCXaCK8yBfmglm6"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Labios",
-        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Labios",
-      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Toronto",
-        "url": "https://open.spotify.com/album/1QOr09jMkuAzns6EAxUkr0"
-      },
-      "artists": [
-        {
-          "name": "Chanell",
-          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
-        },
-        {
-          "name": "Persy",
-          "url": "https://open.spotify.com/artist/16UPUknt50G7mlDv6ciCna"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "Toronto",
-      "url": "https://open.spotify.com/track/2HoDXiTgzmcNiY1Pich8cP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 190946,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Toronto",
+        "url": "https://open.spotify.com/album/1QOr09jMkuAzns6EAxUkr0"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        },
+        {
+          "name": "Persy",
+          "url": "https://open.spotify.com/artist/16UPUknt50G7mlDv6ciCna"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "Toronto",
+      "url": "https://open.spotify.com/track/2HoDXiTgzmcNiY1Pich8cP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1859,18 +1859,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
+        "name": "Duo Deleite",
+        "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+          "name": "Duo Deleite",
+          "url": "https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO"
+        },
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        },
+        {
+          "name": "Enyel C",
+          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
         }
       ],
-      "duration_ms": 170175,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
+      "duration_ms": 170000,
+      "name": "De Vogue",
+      "url": "https://open.spotify.com/track/1vFOdcC7HQNm5qj9aqEgbh"
     }
   ],
   "unique_name": "Hecho en Puerto Rico",

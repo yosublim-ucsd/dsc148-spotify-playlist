@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,824 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,805 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 39 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
 | 40 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
 | 41 | [Deck The Hall](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 |
-| 42 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
+| 42 | [Mary, Did You Know?](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:23 |
 | 43 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 |
-| 44 | [Mary, Did You Know?](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:23 |
+| 44 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
 | 45 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 |
 | 46 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 |
 | 47 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/7Ivelh8N9J25Yj9KKxYj6w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 2:51 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 66 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
 | 67 | [I'll Be Home for Christmas](https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [I'll Be Home for Christmas](https://open.spotify.com/album/0BeZLG9XcyUSSxhIS1QgpS) | 3:00 |
 | 68 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 |
-| 69 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 |
+| 69 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:14 |
 | 70 | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/track/6fE2Kjwd5Fh2xF9IeuiOY4) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/album/2s3Wa5FblJ5qXPZsULI6co) | 2:14 |
-| 71 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:14 |
+| 71 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 |
 | 72 | [Baby, It's Cold Outside \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 2:53 |
 | 73 | [Last Christmas](https://open.spotify.com/track/0u74xi5AJEulKPccore7B2) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb), [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Last Christmas](https://open.spotify.com/album/5M5dF1R53sHPHUGuPMRz4R) | 2:48 |
 | 74 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 |
 | 100 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 |
 
-Snapshot ID: `MCwxN2JkNGI5NDRmMWNlNDMwNmQxMGY3NjY1MWYwY2YzZDIzYjdhMjhh`
+Snapshot ID: `MCxhYWZmZDE2ZWE0YTNlNjlkODczZjMyOTc2YTExODA4ZDNkMzRmNTQx`

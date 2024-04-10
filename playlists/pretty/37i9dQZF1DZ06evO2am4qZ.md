@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,230 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,231 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 33 | [Sailor Moon \- 2.0](https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:17 |
 | 34 | [Mean Girl \(feat\. Queen Key & Asian Doll\)](https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 4:22 |
 | 35 | [Want Not A Need \(feat\. Baby Tate\)](https://open.spotify.com/track/71sEDegC32gkp1Y0vdrAf9) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Grown](https://open.spotify.com/album/0qg7zJ3vm8Mv7xtrrYYhQV) | 2:07 |
-| 36 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:04 |
+| 36 | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN) | 2:41 |
 | 37 | [Eenie Meenie](https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Eenie Meenie](https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l) | 2:22 |
-| 38 | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN) | 2:41 |
+| 38 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:04 |
 | 39 | [Don’t Even Think About It \(with Baby Tate\)](https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:12 |
-| 40 | [Differences](https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:16 |
-| 41 | [That Girl](https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 4:30 |
-| 42 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 |
+| 40 | [That Girl](https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 4:30 |
+| 41 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 |
+| 42 | [Differences](https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:16 |
 | 43 | [Kim \(with Baby Tate\)](https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Kim \(with Baby Tate\)](https://open.spotify.com/album/7y4zc23S1ar6YUNEn56iOk) | 2:38 |
 | 44 | [Rich Girl](https://open.spotify.com/track/6OKo3DVbM2tjl3sS83sTfi) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 2:48 |
 | 45 | [Nice Guy](https://open.spotify.com/track/5cThMoFV6XK0xCqEcNg6Jw) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Muthaland](https://open.spotify.com/album/6TXwuaX600F8N3s6Rpq04m) | 2:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 50 | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK) | 1:06 |
 | 51 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
 
-Snapshot ID: `MCxkZWVlMTQ3OWQwZTA4ZTY3NjdjOGViNWM5YTMyNzdmYmQ3MWY4MTQx`
+Snapshot ID: `MCwxODQwNzBhY2U1M2M2ZjA2YThlOGZlMjVjY2QzOThlMmIwNjZiODdk`

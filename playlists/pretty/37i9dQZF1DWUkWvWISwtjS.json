@@ -1,12 +1,12 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 451540,
+  "num_followers": 451534,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWQ3YWQ4ZTg3NTM5NTdlZDliNTA0ZjU2ZGI3OWE0NGNkYWU5Yjg0",
+  "snapshot_id": "MCw2ZWU1MTc2NmRkOWFjYjVmNThkMTI3MGY5YTU2MGIwMWY1NDJmMzU3",
   "tracks": [
     {
       "added_at": "2023-10-13 11:44:55",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Amor de Carnaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 153934,
       "name": "Status Que Eu N\u00e3o Queria - Ao Vivo",
       "url": "https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "Amor de Carnaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Onde a Saudade Mora",
-        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
+        "name": "O Embaixador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
       },
       "artists": [
         {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 123060,
-      "name": "Deus Me Livre Quem Me Dera",
-      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
+      "duration_ms": 178208,
+      "name": "Sujeito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "O Embaixador (Ao Vivo)",
-        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
+        "name": "Onde a Saudade Mora",
+        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
         }
       ],
-      "duration_ms": 178208,
-      "name": "Sujeito - Ao Vivo",
-      "url": "https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP"
+      "duration_ms": 123060,
+      "name": "Deus Me Livre Quem Me Dera",
+      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -819,18 +819,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "50/50 (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/4ibh4ZJMONa5aR7ZtKDJHu"
+        "name": "Volta Marcada",
+        "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 280485,
-      "name": "Abre o Port\u00e3o Que Eu Cheguei - Ao Vivo",
-      "url": "https://open.spotify.com/track/27gdqSnSgCfiro2gk3WZdp"
+      "duration_ms": 167573,
+      "name": "Volta Marcada",
+      "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -891,22 +895,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Volta Marcada",
-        "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
+        "name": "50/50 (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/4ibh4ZJMONa5aR7ZtKDJHu"
       },
       "artists": [
         {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 167573,
-      "name": "Volta Marcada",
-      "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
+      "duration_ms": 280485,
+      "name": "Abre o Port\u00e3o Que Eu Cheguei - Ao Vivo",
+      "url": "https://open.spotify.com/track/27gdqSnSgCfiro2gk3WZdp"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Milu",
-        "url": "https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 224997,
-      "name": "Milu",
-      "url": "https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Singular",
         "url": "https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo"
       },
@@ -987,22 +971,6 @@
       "duration_ms": 230943,
       "name": "Singular",
       "url": "https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Cuidado Que Eu Te Supero",
-        "url": "https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Cuidado Que Eu Te Supero",
-      "url": "https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1023,6 +991,38 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Cuidado Que Eu Te Supero",
+        "url": "https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 174628,
+      "name": "Cuidado Que Eu Te Supero",
+      "url": "https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Milu",
+        "url": "https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 224997,
+      "name": "Milu",
+      "url": "https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Start In S\u00e3o Paulo (ao Vivo)",
-        "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
+        "name": "Made in Ro\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
       },
       "artists": [
         {
-          "name": "Jefferson Moraes",
-          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
         }
       ],
-      "duration_ms": 136176,
-      "name": "Beber Com Emerg\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl"
+      "duration_ms": 187595,
+      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Made in Ro\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
+        "name": "Start In S\u00e3o Paulo (ao Vivo)",
+        "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
       },
       "artists": [
         {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+          "name": "Jefferson Moraes",
+          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
         }
       ],
-      "duration_ms": 187595,
-      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
+      "duration_ms": 136176,
+      "name": "Beber Com Emerg\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
+        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
+      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Bruto Memo",
         "url": "https://open.spotify.com/album/6M8mrol16Mcmf3xaG78mI2"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 184064,
       "name": "Bruto Memo",
       "url": "https://open.spotify.com/track/6yONKq2REQrijkNS6E5GhT"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
-        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
-      },
-      "artists": [
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
-      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Mui\u00e9 Brava",
-        "url": "https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5"
-      },
-      "artists": [
-        {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
-        }
-      ],
-      "duration_ms": 201560,
-      "name": "Mui\u00e9 brava",
-      "url": "https://open.spotify.com/track/0ysTJCguBamXVvxwR1BNzE"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Moleque",
         "url": "https://open.spotify.com/album/4QIhY16gSJ8F2kf2eDvGUt"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 194781,
       "name": "Moleque",
       "url": "https://open.spotify.com/track/0oMaaZT0hHsy7QMfpidYtI"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Mui\u00e9 Brava",
+        "url": "https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5"
+      },
+      "artists": [
+        {
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+        }
+      ],
+      "duration_ms": 201560,
+      "name": "Mui\u00e9 brava",
+      "url": "https://open.spotify.com/track/0ysTJCguBamXVvxwR1BNzE"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Amoreco",
-        "url": "https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 151262,
-      "name": "Amoreco",
-      "url": "https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Noites Frustradas (Ao Vivo)",
         "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 196662,
       "name": "Noites Frustradas - Ao Vivo",
       "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Amoreco",
+        "url": "https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 151262,
+      "name": "Amoreco",
+      "url": "https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Frieza (Ao Vivo)",
-        "url": "https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt"
+        "name": "Juramento do Dedinho",
+        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
       },
       "artists": [
         {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
         }
       ],
-      "duration_ms": 185761,
-      "name": "Frieza - Ao Vivo",
-      "url": "https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b"
+      "duration_ms": 164808,
+      "name": "Juramento do Dedinho",
+      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
     }
   ],
   "unique_name": "Sertanejo no Trabalho",

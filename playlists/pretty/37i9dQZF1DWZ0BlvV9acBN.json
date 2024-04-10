@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
-  "num_followers": 137126,
+  "num_followers": 137158,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDJkZWQ5OWFiNjdmZjVhMDU0NzNiNDcxN2QxZjg1YzlhY2JkMjUw",
+  "snapshot_id": "MCwzOTMwNDI3M2RjYjJkNzU0ZGQxNjUwMDMyNmUwNWU1MmVkZGM1NzMw",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Nosso Deus \u00c9 Grande (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2JF2opWknYA7UFAHKrIOdW"
+        "name": "Eu Vou Amanhecer (ao Vivo)",
+        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
       },
       "artists": [
         {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 254762,
-      "name": "Nosso Deus \u00c9 Grande - Ao Vivo",
-      "url": "https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE"
+      "duration_ms": 341789,
+      "name": "Eu Vou Amanhecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Eu Vou Amanhecer (ao Vivo)",
-        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
+        "name": "Nosso Deus \u00c9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2JF2opWknYA7UFAHKrIOdW"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
         }
       ],
-      "duration_ms": 341789,
-      "name": "Eu Vou Amanhecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
+      "duration_ms": 254762,
+      "name": "Nosso Deus \u00c9 Grande - Ao Vivo",
+      "url": "https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Na Terra Parte 2/3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
-      },
-      "artists": [
-        {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 207087,
       "name": "A Est\u00e1tua",
       "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Na Terra Parte 2/3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
+      },
+      "artists": [
+        {
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "A Carta",
         "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 323440,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/3Jtq6KBwX0TL2GypkiwZl6"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Quebre as Correntes",
-        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
-      },
-      "artists": [
-        {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
-        }
-      ],
-      "duration_ms": 248348,
-      "name": "Quebre as Correntes",
-      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "KINTSUGI (DELUXE)",
         "url": "https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 166812,
       "name": "No Princ\u00edpio",
       "url": "https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Quebre as Correntes",
+        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
+      },
+      "artists": [
+        {
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        }
+      ],
+      "duration_ms": 248348,
+      "name": "Quebre as Correntes",
+      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
     },
     {
       "added_at": "2024-03-29 03:01:00",

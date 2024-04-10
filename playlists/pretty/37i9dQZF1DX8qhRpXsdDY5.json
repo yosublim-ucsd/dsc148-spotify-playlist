@@ -1,12 +1,12 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 208061,
+  "num_followers": 208052,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTNjM2VkNDYwMGVjOGNhYmQyMzYwN2IwMGY1MWQwNjFlZjkxYzVm",
+  "snapshot_id": "MCw5MmVkNjI2N2M0MjIzNjZlNGQxNDU4ZTc2MjFhNzdhNTZmZjc0MTQ4",
   "tracks": [
     {
       "added_at": "2023-12-20 18:10:37",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Eterna Navidad",
-        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
-      },
-      "artists": [
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "La Ni\u00f1a del Tambor",
         "url": "https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 266808,
       "name": "Jes\u00fas",
       "url": "https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Eterna Navidad",
+        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
+      },
+      "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Luis Aguil\u00e9. Sus Grabaciones En Discos Showman Vol.2 (1968-1974)",
-        "url": "https://open.spotify.com/album/7wApPeeumUwWYWH1p788Mr"
-      },
-      "artists": [
-        {
-          "name": "Luis Aguile",
-          "url": "https://open.spotify.com/artist/6spyavPiQ0fa6B3jgKc6Tt"
-        }
-      ],
-      "duration_ms": 277026,
-      "name": "Ven a mi casa esta navidad (remastered)",
-      "url": "https://open.spotify.com/track/57eNUK2UE7zdckmKlZjJqk"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Parranda All-Stars: Navidad",
         "url": "https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 234880,
       "name": "No Te Pongas Triste",
       "url": "https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Luis Aguil\u00e9. Sus Grabaciones En Discos Showman Vol.2 (1968-1974)",
+        "url": "https://open.spotify.com/album/7wApPeeumUwWYWH1p788Mr"
+      },
+      "artists": [
+        {
+          "name": "Luis Aguile",
+          "url": "https://open.spotify.com/artist/6spyavPiQ0fa6B3jgKc6Tt"
+        }
+      ],
+      "duration_ms": 277026,
+      "name": "Ven a mi casa esta navidad (remastered)",
+      "url": "https://open.spotify.com/track/57eNUK2UE7zdckmKlZjJqk"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Posada",
-        "url": "https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI"
+        "name": "Navidad en America",
+        "url": "https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH"
       },
       "artists": [
         {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+          "name": "Mariachi Sol De Mexico De Jose Hernandez",
+          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
         }
       ],
-      "duration_ms": 187933,
-      "name": "Adeste Fideles",
-      "url": "https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku"
+      "duration_ms": 478333,
+      "name": "Navidad en Am\u00e9rica",
+      "url": "https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX"
     }
   ],
   "unique_name": "Latin Christmas Classics",

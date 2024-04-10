@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 10135,
+  "num_followers": 10144,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzE4MTM5ODEwZmU4OTBiZmQyYzc0Yzc2MGVlMWI5ZDk1YjVjNTZm",
+  "snapshot_id": "MCwxMWY4NGI5NmVlYTdkMDMzOTExNGM4OWFkMDA0NjA3NjEzMzA2YmM5",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/7MGXwJHmW6l38uVkAQFuCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 203813,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/7MGXwJHmW6l38uVkAQFuCQ"
     },
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tik Tik Tik",
-        "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Tik Tik Tik",
-      "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -355,22 +335,6 @@
       "duration_ms": 257640,
       "name": "C\u00f3mo Te Olvido",
       "url": "https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Gaviota Traidora",
-      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
     },
     {
       "added_at": null,
@@ -395,6 +359,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Gaviota Traidora",
+      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tik Tik Tik",
+        "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Tik Tik Tik",
+      "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
@@ -407,38 +407,6 @@
       "duration_ms": 192253,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "As\u00ed Es La Vida",
-      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
     },
     {
       "added_at": null,
@@ -463,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Solicita",
-        "url": "https://open.spotify.com/album/24Y0xsPo84ooFzYeZKLoWR"
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
       },
       "artists": [
         {
@@ -472,9 +440,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 184346,
-      "name": "Se Solicita",
-      "url": "https://open.spotify.com/track/2uVlMbVtRgeHBaCCn1LhXb"
+      "duration_ms": 186880,
+      "name": "As\u00ed Es La Vida",
+      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
     },
     {
       "added_at": null,
@@ -488,9 +456,25 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 199973,
-      "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
+      "duration_ms": 158373,
+      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Solicita",
+        "url": "https://open.spotify.com/album/24Y0xsPo84ooFzYeZKLoWR"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Se Solicita",
+      "url": "https://open.spotify.com/track/2uVlMbVtRgeHBaCCn1LhXb"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
       "duration_ms": 208902,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 199973,
+      "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
+        "name": "Cielo Rojo",
+        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 168866,
-      "name": "Amigos",
-      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+      "duration_ms": 258048,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariachi Y Tequila (Deluxe)",
         "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
       },
@@ -647,86 +663,6 @@
       "duration_ms": 186000,
       "name": "Pude",
       "url": "https://open.spotify.com/track/7rdiGNueHhOSiJMHOEM7LT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1CQ9fJeERTkZsX00Hgv9d7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Culpable O No - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/0wDhUumgBeHJx2yWpbMZRw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 162146,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Toda La Chapa",
-        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "En Toda La Chapa",
-      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 180586,
-      "name": "De Lo Que Te Perdiste",
-      "url": "https://open.spotify.com/track/3byTwf4E9XF2pe5wQbHhmq"
     },
     {
       "added_at": null,
@@ -747,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Vas A Llorar",
-        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
       "artists": [
         {
@@ -756,9 +692,25 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
+      "duration_ms": 192560,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1CQ9fJeERTkZsX00Hgv9d7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 162146,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
     },
     {
       "added_at": null,
@@ -779,22 +731,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },
       "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
+      "duration_ms": 144533,
+      "name": "Culpable O No - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/0wDhUumgBeHJx2yWpbMZRw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 180586,
+      "name": "De Lo Que Te Perdiste",
+      "url": "https://open.spotify.com/track/3byTwf4E9XF2pe5wQbHhmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Toda La Chapa",
+        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "En Toda La Chapa",
+      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
     },
     {
       "added_at": null,
@@ -815,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo Rojo",
-        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
       },
       "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 258048,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
+      "duration_ms": 153946,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
     },
     {
       "added_at": null,

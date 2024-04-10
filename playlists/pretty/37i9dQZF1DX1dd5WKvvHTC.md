@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0BCD9XnZVhdY2vojKAPAiT">Bellah Mae</a> with collaborator Alex Stacey.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,160 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,219 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 38 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
 | 39 | [can i see you tonight?](https://open.spotify.com/track/1u7Z47bCx2id2bh8rKEcZg) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [can i see you tonight?](https://open.spotify.com/album/3oW5O2gtfj1BkdB6EiW5ew) | 1:57 |
 
-Snapshot ID: `MCxkOWM0ZWJhZjM5MWU0MzU2YjIxMWY2NWUzNzFmOTU3Yzg4ZTE5ZWVl`
+Snapshot ID: `MCxmYmY4YjVlZTU3ZjJhYzE1YzQ1ZmM2ZjY2NzQwOGJkYjAzMTlmMjEw`

@@ -1,12 +1,12 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 239123,
+  "num_followers": 239271,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2Y2NDc1Y2FiYzYyMGQxNzNiOGVlMWIzYzBiOTI3NDYzMDBiZGY3",
+  "snapshot_id": "MCw1OGJhMWY4NzUwNWYwMGEwYjQwNTg0ZWQyZmI2OWQzNGViYmMzZTc3",
   "tracks": [
     {
       "added_at": "2024-04-08 22:50:12",
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+        "name": "Qu\u00e9 Cante El Amor",
+        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
       },
       "artists": [
         {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+      "duration_ms": 202613,
+      "name": "Al Despertar",
+      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Qu\u00e9 Cante El Amor",
-        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
         }
       ],
-      "duration_ms": 202613,
-      "name": "Al Despertar",
-      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Un Fen\u00f3meno Natural",
-        "url": "https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Una R\u00e1faga De Amor",
-      "url": "https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 213791,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Un Fen\u00f3meno Natural",
+        "url": "https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Una R\u00e1faga De Amor",
+      "url": "https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 287896,
-      "name": "En Mi Escritorio (La Carta)",
-      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Agua De Vida",
         "url": "https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 214826,
       "name": "Agua De Vida",
       "url": "https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "duration_ms": 287896,
+      "name": "En Mi Escritorio (La Carta)",
+      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -723,18 +723,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+        "name": "Para Que La Cu\u00f1a Apriete",
+        "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
       },
       "artists": [
         {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+          "name": "Grupo Kual? Dinastia Pedraza Es Grupo Kein?",
+          "url": "https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd"
+        },
+        {
+          "name": "Grupo Kien? Los reyes del sabor",
+          "url": "https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy"
         }
       ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+      "duration_ms": 270506,
+      "name": "Las Mujers No Se Acaban",
+      "url": "https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -755,22 +759,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Para Que La Cu\u00f1a Apriete",
-        "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
       },
       "artists": [
         {
-          "name": "Grupo Kual? Dinastia Pedraza Es Grupo Kein?",
-          "url": "https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd"
-        },
-        {
-          "name": "Grupo Kien? Los reyes del sabor",
-          "url": "https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy"
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
         }
       ],
-      "duration_ms": 270506,
-      "name": "Las Mujers No Se Acaban",
-      "url": "https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6"
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "El Santo Del Amor",
+      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "De Enero a Enero",
         "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "El Santo Del Amor",
-      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 315680,
       "name": "El Verde De Tus Ojos - Remix",
       "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "A Donde Iras Ahora",
+      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -983,22 +999,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "A Donde Iras Ahora",
-      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Ni Juana la Cubana",
         "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
@@ -1047,38 +1047,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Como un Dulce Poema, Vol. 3",
-        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
-      },
-      "artists": [
-        {
-          "name": "Rossy War y Su Banda Kaliente",
-          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Nunca Pense Llorar",
-      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 252679,
-      "name": "Cumbia Del Chinito",
-      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/7b5r8UmTqf3vcf7opFjyhD"
       },
@@ -1095,6 +1063,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "Como un Dulce Poema, Vol. 3",
+        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
+      },
+      "artists": [
+        {
+          "name": "Rossy War y Su Banda Kaliente",
+          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Nunca Pense Llorar",
+      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "Amor Y Cumbia",
         "url": "https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 236760,
       "name": "La Sirenita",
       "url": "https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 252679,
+      "name": "Cumbia Del Chinito",
+      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 166256,
-      "name": "La Pobreza - Rebajada",
-      "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Exitos Para Amanecer Bailando",
         "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 124604,
       "name": "El Pipiripau",
       "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "duration_ms": 166256,
+      "name": "La Pobreza - Rebajada",
+      "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "La Del Vestido Rojo",
-        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "La del Vestido Rojo",
-      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
         "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 245031,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "La Del Vestido Rojo",
+        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "La del Vestido Rojo",
+      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "20 Joyas de la Historia Musical",
-        "url": "https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
-        }
-      ],
-      "duration_ms": 154052,
-      "name": "Pero Tu No Estas",
-      "url": "https://open.spotify.com/track/00c81raDwIJa803nmAgcU3"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Exitos Quemantes Vol. IV",
         "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
       },
@@ -1635,34 +1619,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "30 Exitos de Oro 30, Vol. 1",
-        "url": "https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf"
+        "name": "20 Joyas de la Historia Musical",
+        "url": "https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B"
       },
       "artists": [
         {
-          "name": "La Suerte Sonidera",
-          "url": "https://open.spotify.com/artist/6OUVtbAqtQ3lm9F7AvGx3v"
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
         }
       ],
-      "duration_ms": 243565,
-      "name": "Enamorada de un Amigo Mio",
-      "url": "https://open.spotify.com/track/3z2T45ct8degaDYLsbQyBw"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 316004,
-      "name": "Las Palmitas del Ecuador",
-      "url": "https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C"
+      "duration_ms": 154052,
+      "name": "Pero Tu No Estas",
+      "url": "https://open.spotify.com/track/00c81raDwIJa803nmAgcU3"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1683,6 +1651,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "30 Exitos de Oro 30, Vol. 1",
+        "url": "https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf"
+      },
+      "artists": [
+        {
+          "name": "La Suerte Sonidera",
+          "url": "https://open.spotify.com/artist/6OUVtbAqtQ3lm9F7AvGx3v"
+        }
+      ],
+      "duration_ms": 243565,
+      "name": "Enamorada de un Amigo Mio",
+      "url": "https://open.spotify.com/track/3z2T45ct8degaDYLsbQyBw"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "Sigueme",
         "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 202666,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "duration_ms": 316004,
+      "name": "Las Palmitas del Ecuador",
+      "url": "https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C"
     },
     {
       "added_at": "2024-04-08 22:50:12",

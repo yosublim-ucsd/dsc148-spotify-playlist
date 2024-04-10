@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 131556,
+  "2024-04-10": 131572,
   "date_first_scraped": "2023-05-19",
   "description": "Magic of acoustic poured into your Chai. Cover - Shreya Ghoshal",
   "name": "Chai & Acoustic",
@@ -3750,6 +3750,24 @@
     },
     {
       "album": {
+        "name": "Meri Duniya Tu (Mehfil Unplugged)",
+        "url": "https://open.spotify.com/album/3W7RQsmVuo94rvZZuNfp8H"
+      },
+      "artists": [
+        {
+          "name": "Purusharth Jain",
+          "url": "https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226967,
+      "name": "Meri Duniya Tu (Mehfil Unplugged)",
+      "url": "https://open.spotify.com/track/5gx74G9kqfjddSddH4LFQ0"
+    },
+    {
+      "album": {
         "name": "Meri Jaan - Single",
         "url": "https://open.spotify.com/album/20JpqXx3m3XsWEROa6JCfd"
       },
@@ -4731,7 +4749,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 239018,
       "name": "Sach",
       "url": "https://open.spotify.com/track/5W7TjIh32z3p5LpkncXTpb"

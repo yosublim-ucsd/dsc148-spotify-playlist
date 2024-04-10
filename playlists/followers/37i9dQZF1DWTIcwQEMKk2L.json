@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 67696,
+  "2024-04-10": 67708,
   "date_first_scraped": "2023-11-26",
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
   "name": "\u5b89\u5be7\u92fc\u7434\u8072",
@@ -731,7 +731,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 107250,
       "name": "Greensleaves",
       "url": "https://open.spotify.com/track/30uZQX3jngrbRsI2HeiIYg"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 200812,
       "name": "I See the Light - From \"Tangled\"",
       "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
@@ -1257,10 +1257,28 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 130267,
       "name": "Mass",
       "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
+    },
+    {
+      "album": {
+        "name": "Meuse",
+        "url": "https://open.spotify.com/album/71eY3XLNP4ixRL96BLNnWU"
+      },
+      "artists": [
+        {
+          "name": "Aron Finneas",
+          "url": "https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Meuse",
+      "url": "https://open.spotify.com/track/271aR2CbQyhO36eXkHstzy"
     },
     {
       "album": {
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 183659,
       "name": "Patience",
       "url": "https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8"
@@ -1957,6 +1975,24 @@
       "duration_ms": 120500,
       "name": "Szerelem",
       "url": "https://open.spotify.com/track/2QaodYIN7GD9X50xZRIEDc"
+    },
+    {
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
+      },
+      "artists": [
+        {
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159445,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
     },
     {
       "album": {

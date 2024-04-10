@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 215735,
+  "2024-04-10": 215816,
   "date_first_scraped": "2021-12-30",
   "description": "let the dj set u free",
   "name": "crying on the dance floor",
@@ -991,32 +991,6 @@
     {
       "album": {
         "name": "Can't Love Myself (feat. Mishaal & LPW)",
-        "url": "https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Mishaal",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        },
-        {
-          "name": "LPW",
-          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
-        }
-      ],
-      "date_added": "2021-04-16",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 156659,
-      "name": "Can't Love Myself (feat. Mishaal & LPW)",
-      "url": "https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx"
-    },
-    {
-      "album": {
-        "name": "Can't Love Myself (feat. Mishaal & LPW)",
         "url": "https://open.spotify.com/album/3ZQaTE0GhMpsJKCqo8vnpb"
       },
       "artists": [
@@ -1042,6 +1016,32 @@
     },
     {
       "album": {
+        "name": "Can't Love Myself (feat. Mishaal & LPW)",
+        "url": "https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        },
+        {
+          "name": "LPW",
+          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156659,
+      "name": "Can't Love Myself (feat. Mishaal & LPW)",
+      "url": "https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx"
+    },
+    {
+      "album": {
         "name": "Chains (feat. Daya)",
         "url": "https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0"
       },
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 199692,
       "name": "Chains (feat. Daya)",
       "url": "https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo"

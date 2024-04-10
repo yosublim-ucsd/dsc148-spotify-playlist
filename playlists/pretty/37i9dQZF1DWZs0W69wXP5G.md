@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: WONKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,662 likes - 90 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,678 likes - 90 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 44 | [Everybody's Coming Together](https://open.spotify.com/track/5t2IHN1tkZOGT7WzfPJZsq) | [Original Broadway Cast of Almost Famous \- The Musical](https://open.spotify.com/artist/7ybNybQQDnJoGOP2Y9JyHG) | [Everybody's Coming Together](https://open.spotify.com/album/54SJhf5ehcNqAVW04RoBeS) | 3:11 |
 | 45 | [Everything's Alright](https://open.spotify.com/track/63V7zJBnSrPEqKJtcJtruQ) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Morgan James & Company](https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG) | [Jesus Christ Superstar: Highlights From the All\-Female Studio Cast Recording](https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn) | 4:16 |
 | 46 | [Beauty and the Beast](https://open.spotify.com/track/3I3QV9fD0CQdnekEPNgYIk) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 2:57 |
-| 47 | [Woman Is \- from Lempicka \- Original Cast Recording](https://open.spotify.com/track/7tLpL9Ja10DDoY7LWGUgO5) | [Eden Espinosa](https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X) | [Woman Is \(from Lempicka \- Original Cast Recording\)](https://open.spotify.com/album/21y0TDnXUpf5D0fa2MFQ7g) | 4:52 |
+| 47 | [Woman Is \- 2022 Sessions](https://open.spotify.com/track/0AqDuGW6j1RZ93r2n3DUGA) | [Eden Espinosa](https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X), [Original Cast of Lempicka](https://open.spotify.com/artist/5PIDs2iaqTbcsOhNd5IfFM) | [Lempicka \- The Musical \(2022 Sessions\)](https://open.spotify.com/album/22UlcdIxtmapTzhh6koX1o) | 4:52 |
 | 48 | [Drag Is Expensive](https://open.spotify.com/track/6dG6aRB6ldz3XgdCayRBx3) | [Nick Adams](https://open.spotify.com/artist/0HY3GE5ZIVvA76aObgPviV), [Max Von Essen](https://open.spotify.com/artist/74YVw9S41bO4eb7Zd2Nsjv), [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Divina De Campo](https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9), [Lagoona Bloo](https://open.spotify.com/artist/3XoIXXjhnjGVs1SqBsMrjp) | [DRAG: The Musical \(The Studio Recording\)](https://open.spotify.com/album/6ozegwO34a67mkDh0gjZ6m) | 3:56 |
 | 49 | [Puttin' on the Ritz](https://open.spotify.com/track/6vE807fn5BtHf8LpZM3oJL) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Rufus Does Judy At Capitol Studios](https://open.spotify.com/album/78fV7bPXs3FWNJYnBH8PUz) | 1:56 |
 | 50 | [Falling Slowly](https://open.spotify.com/track/1xubaVW0WOyUJu65gSaxXQ) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Kevin Dias](https://open.spotify.com/artist/3UBr7nFzZBhdtfghEZiOrp) | [Emily in Paris \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6XjTTsL4pzC7RVXIBAyzNX) | 3:07 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 89 | [If I Were a Man](https://open.spotify.com/track/7dsxoeycurkfJpmV0Le5Oi) | [Barlow & Bear](https://open.spotify.com/artist/2JymsYVZ5c5prv9mOdPB3p), [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk) | [The Unofficial Bridgerton Musical](https://open.spotify.com/album/7gXx19GNHIiQ3fIbXxeY1U) | 2:58 |
 | 90 | [Let's Generalize About Men \(feat\. Rachel Bloom, Donna Lynne Champlin, Vella Lovell & Gabrielle Ruiz\)](https://open.spotify.com/track/73hr344AmxNViy6IgFw6QL) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/2Dzk9smBaIfEFjF7T2Gygz), [Donna Lynne Champlin](https://open.spotify.com/artist/4W6kSTuYNVuHw97QMvb2TB), [Gabrielle Ruiz](https://open.spotify.com/artist/5MVEzr4FAatsTTkPhDXkHj), [Rachel Bloom](https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY), [Vella Lovell](https://open.spotify.com/artist/4QLs1KUSQaafoB2dGnxvmR) | [Crazy Ex\-Girlfriend: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/61qQpAsfOVhFo5iDnKth4o) | 2:38 |
 
-Snapshot ID: `MCxlNmUxMjI1M2NlNGIwZTIzOTk1MGFiNTE1ZWNlN2Q4YjE2MmI3NzNj`
+Snapshot ID: `MCw4ODM4Yjg0ZGU1MDIyMDFkMGZiZDEwZDM5ZDE3NDgzNjgwZmM3YTE2`

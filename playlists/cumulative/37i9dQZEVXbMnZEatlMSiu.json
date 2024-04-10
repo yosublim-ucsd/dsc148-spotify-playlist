@@ -5327,6 +5327,24 @@
     },
     {
       "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162880,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi"
       },
@@ -6260,7 +6278,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
@@ -12308,7 +12326,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 292074,
       "name": "\u611b\u4eba\u932f\u904e",
       "url": "https://open.spotify.com/track/27FOde2nUw0pFuj7hlPbaS"
@@ -12654,7 +12672,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 204437,
       "name": "\u6211\u5c31\u60f3\u4f60",
       "url": "https://open.spotify.com/track/0Eh0C7rpC5E0sPy4OcLdsq"

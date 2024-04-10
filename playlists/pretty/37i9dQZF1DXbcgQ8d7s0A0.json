@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1277593,
+  "num_followers": 1277757,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWEyYzU0MTRmYTRmODdmOGQzNjk0MjcxMzU1M2I5ZjI0OTkwNTc4",
+  "snapshot_id": "MCw2NDBhMTM5OThkNjZmMWRhNjI1YjhhYjhmMjM1ZWFjZjY5NzU1YWVj",
   "tracks": [
     {
       "added_at": "2024-03-25 12:10:53",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-03-25 12:10:53",
       "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
-    },
-    {
-      "added_at": "2024-03-25 12:10:53",
-      "album": {
         "name": "Born to Do It",
         "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 235133,
       "name": "7 Days",
       "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
+    },
+    {
+      "added_at": "2024-03-25 12:10:53",
+      "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2024-03-25 12:10:53",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-25 12:10:53",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "After the Love Has Gone",
-      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
-    },
-    {
-      "added_at": "2024-03-25 12:10:53",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2024-03-25 12:10:53",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
     },
     {
       "added_at": "2024-03-25 12:10:53",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-25 12:10:53",
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
-    },
-    {
-      "added_at": "2024-03-25 12:10:53",
-      "album": {
         "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
@@ -955,34 +939,18 @@
     {
       "added_at": "2024-03-25 12:10:53",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
-    },
-    {
-      "added_at": "2024-03-25 12:10:53",
-      "album": {
-        "name": "Let The Music Play (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "Let The Music Play - Single Version",
-      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
+      "duration_ms": 175400,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
     },
     {
       "added_at": "2024-03-25 12:10:53",
@@ -1003,6 +971,38 @@
     {
       "added_at": "2024-03-25 12:10:53",
       "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Let The Music Play - Single Version",
+      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
+    },
+    {
+      "added_at": "2024-03-25 12:10:53",
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2024-03-25 12:10:53",
+      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-25 12:10:53",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 428222,
-      "name": "As",
-      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
-    },
-    {
-      "added_at": "2024-03-25 12:10:53",
-      "album": {
         "name": "Where There's Smoke...",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2024-03-25 12:10:53",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 428222,
+      "name": "As",
+      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
     },
     {
       "added_at": "2024-03-25 12:10:53",

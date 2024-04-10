@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,596 songs - 4 day 13 hr 46 min
+1,597 songs - 4 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 | 2023-02-17 | 2023-06-17 |
 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 | 2020-03-18 | 2022-04-21 |
 | [Bunny](https://open.spotify.com/track/6ap5AekhAt3k6e0zAknDyV) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 3:34 | 2020-02-29\* | 2020-03-16 |
-| [Burnin'](https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Burnin'](https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK) | 5:41 | 2024-04-05 |  |
+| [Burnin'](https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Burnin'](https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK) | 5:41 | 2024-04-05 | 2024-04-10 |
 | [Burning Sun](https://open.spotify.com/track/1hZVwT6anxHeUnD3oVYhRt) | [Alkemie](https://open.spotify.com/artist/2CVA4ECnz8NFRpEMiShm4D) | [Burning Sun](https://open.spotify.com/album/09aPSX19C2Lm9uKRjZSb5S) | 3:26 | 2021-06-04 | 2022-07-28 |
 | [Burns \- Lane 8 Club Mix](https://open.spotify.com/track/6aBWNlLMeBjdtypqPOfveJ) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Burns \(Lane 8 Remixes\)](https://open.spotify.com/album/0EnyJALCORJdl4KR1ItWk3) | 4:40 | 2020-02-29\* | 2022-01-21 |
 | [Burns \- Moby Remix \(Edit\)](https://open.spotify.com/track/1kCpiMC5axrHlYNrvZjrEJ) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Burns \(Moby Remix\)](https://open.spotify.com/album/57hYtl3hDMCqRdPwVPChRW) | 3:59 | 2020-05-19 | 2020-07-03 |
@@ -730,6 +730,7 @@
 | [It's Ok It's Alright](https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [It's Ok It's Alright](https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h) | 4:03 | 2024-02-09 |  |
 | [It's Strange \(feat\. K.Flay\) \- Melvv Remix](https://open.spotify.com/track/2VUKwQ5wovKeCLf0gQUttH) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [It's Strange \(feat\. K.Flay\) \[Remixes\]](https://open.spotify.com/album/0q1iCP7zlNEHcTIvovdCKj) | 3:38 | 2020-05-18 | 2020-07-03 |
 | [Ivy](https://open.spotify.com/track/05fOOZZ8M2RVlHAUSwj1l5) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 2:23 | 2021-10-01 | 2022-12-02 |
+| [iwaly](https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [iwaly](https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC) | 3:21 | 2024-04-05 |  |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-09-10 |  |
 | [Japan \- Satin Jackets Remix](https://open.spotify.com/track/4H33DONRzLH1dfbCXoFgbq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Japan \(Satin Jackets Remix\)](https://open.spotify.com/album/2T986R8R8ftbIEKIs1WWv1) | 3:57 | 2020-11-13 | 2022-07-29 |
 | [Jetty](https://open.spotify.com/track/71CRvX5TW0CsiCxGZ00IfA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Ninjawerks \(Vol.1\)](https://open.spotify.com/album/2ndLlrpXSt6w43yBnFuelU) | 3:53 | 2020-03-20 | 2022-04-20 |

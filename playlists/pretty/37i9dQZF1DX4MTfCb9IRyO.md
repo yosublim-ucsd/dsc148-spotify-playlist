@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 
 > Classic blues for a blue summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,667 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,670 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 17 | [Got My Mojo Working](https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:52 |
 | 18 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
 | 19 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 |
-| 20 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 |
-| 21 | [Crosscut Saw \- Mono Mix](https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:36 |
+| 20 | [Crosscut Saw \- Mono Mix](https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:36 |
+| 21 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 |
 | 22 | [You Don't Know What Love Is \- Remastered](https://open.spotify.com/track/0WfOWBaczM1RiKGNsLnKM0) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime \(Remastered\)](https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ) | 3:53 |
 | 23 | [Walking By Myself](https://open.spotify.com/track/36ccrof5DFicLrejE4hEye) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:47 |
 | 24 | [I Can't Quit You Baby](https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 6:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 49 | [It Serves Me Right To Suffer](https://open.spotify.com/track/1R6geFUwTaYU8vnMkAtD2N) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 4:11 |
 | 50 | [Let the Good Times Roll](https://open.spotify.com/track/7e5etB94Bx7fVbJtlgkhjM) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 2:48 |
 
-Snapshot ID: `MCwxMGRlMTYxNzNkZjRlOWMwY2Y1M2M2MTI2YzYxNzViYjMyMDZkMjIw`
+Snapshot ID: `MCw1MWYxOGYyMTNlYTUzNjNlZmJiNGRlNzZkM2RjNjJiMmU5NGI0YzUw`

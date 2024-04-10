@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks of today, featuring Chicano Batman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,134 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,134 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,18 +43,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 33 | [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 |
 | 34 | [Porcelana](https://open.spotify.com/track/7BUGFriDT5M1MSMlPq9HrZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Porcelana](https://open.spotify.com/album/1k9GvNL7iei4Id3OnKcSbu) | 3:44 |
 | 35 | [Verona](https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Sobrenatural](https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41) | 3:42 |
-| 36 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |
-| 37 | [Amor Artificial](https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Amor Artificial](https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42) | 3:39 |
+| 36 | [Amor Artificial](https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Amor Artificial](https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42) | 3:39 |
+| 37 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |
 | 38 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
-| 39 | [deja vu](https://open.spotify.com/track/38kgqntjgPizqgvhsjKwky) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [deja vu](https://open.spotify.com/album/1AeWnVwD0xiMYTvfXh8EZj) | 2:22 |
-| 40 | [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 |
+| 39 | [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 |
+| 40 | [deja vu](https://open.spotify.com/track/38kgqntjgPizqgvhsjKwky) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [deja vu](https://open.spotify.com/album/1AeWnVwD0xiMYTvfXh8EZj) | 2:22 |
 | 41 | [NO TE ALEJES](https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:30 |
 | 42 | [dejarse querer](https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [dejarse querer](https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV) | 3:02 |
 | 43 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
 | 44 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 |
 | 45 | [Quicksand](https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [ESPÍRITU](https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7) | 3:06 |
-| 46 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 |
-| 47 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Pablo Sotelo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 |
+| 46 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Pablo Sotelo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 |
+| 47 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 |
 | 48 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 |
 | 49 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
 | 50 | [Lo dejo](https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Lo dejo](https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc) | 3:10 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 60 | [Discomanía](https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Discomanía](https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K) | 3:08 |
 | 61 | [Presente](https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Presente](https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70) | 5:12 |
 | 62 | [Mexico](https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp) | 3:40 |
-| 63 | [Mente Positiva](https://open.spotify.com/track/1gHzqXXqpG2zlGvNOWGjto) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mente Positiva, Fin de Semana](https://open.spotify.com/album/7s9jARF8VWjmMVSjnzzoFb) | 3:05 |
-| 64 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 |
+| 63 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 |
+| 64 | [Mente Positiva](https://open.spotify.com/track/1gHzqXXqpG2zlGvNOWGjto) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mente Positiva, Fin de Semana](https://open.spotify.com/album/7s9jARF8VWjmMVSjnzzoFb) | 3:05 |
 | 65 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 |
 | 66 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
 | 67 | [Frenos](https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Frenos](https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG) | 3:09 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 72 | [Ángel](https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mostly Fresh](https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR) | 2:47 |
 | 73 | [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 |
 | 74 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
-| 75 | [Hace Mucho Tiempo](https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:16 |
+| 75 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 |
 
-Snapshot ID: `MCwwNDVmZjMzNzJjZGFhYmJlNDY1YmUxOGVhMDVkMGQxMWFhOTNiYmIx`
+Snapshot ID: `MCxiZmIzMGZhMzUwMjdhMjJmN2E3Mzk3NTNkYTBhMjEwZWZmZmQ2YTM1`

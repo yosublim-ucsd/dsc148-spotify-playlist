@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,202 likes - 41 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,231 likes - 41 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 16 | [Sweety](https://open.spotify.com/track/1YpczjhxnvD6WBWdnu3s4X) | [Rabbit Mac](https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Race Gurram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mx4mHfTPv6VWisaPdQPzo) | 4:25 |
 | 17 | [Baguntundhi Nuvvu Navvithe \(From "Atithi Devobhava"\)](https://open.spotify.com/track/18JVTOKs9ghqPLtkMeqffL) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Baguntundhi Nuvvu Navvithe \(From "Atithi Devobhava"\)](https://open.spotify.com/album/2NAbXL8eqGOLet1QnQr7mv) | 3:42 |
 | 18 | [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 |
-| 19 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
+| 19 | [Poovullo Daagunna](https://open.spotify.com/track/4M8dRVFWKMfh7hPzGCYxra) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Jeans](https://open.spotify.com/album/5CcuoUl0yhFPRLMohxwvIt) | 6:55 |
 | 20 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Gopika Poornima](https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 |
-| 21 | [Poovullo Daagunna](https://open.spotify.com/track/4M8dRVFWKMfh7hPzGCYxra) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Jeans](https://open.spotify.com/album/5CcuoUl0yhFPRLMohxwvIt) | 6:55 |
+| 21 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
 | 22 | [Nagumomu Thaarale \(From "Radhe Shyam"\)](https://open.spotify.com/track/5fnYbqciSco0Y0uMNilDTt) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Nagumomu Thaarale \(From "Radhe Shyam"\)](https://open.spotify.com/album/1ZCjfkLge20C5RUuULA5v7) | 4:54 |
 | 23 | [Buggey Bangarama](https://open.spotify.com/track/18RUE4llLj46NIQKojerlw) | [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Chandamama](https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC) | 4:32 |
 | 24 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 40 | [Kaatuka Kallakettinaave](https://open.spotify.com/track/6oi7mBSvwYHOy0uX1yrQSc) | [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Kaatuka Kallakettinaave](https://open.spotify.com/album/7ET4tUowUafTghbMn0FxhC) | 3:19 |
 | 41 | [Pachchadanamey](https://open.spotify.com/track/49nQCpklrhXuaK5s1TQwOl) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton](https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG) | [Sakhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6KNE9uOJSeK3uEwn92bRTY) | 5:57 |
 
-Snapshot ID: `MCwzY2E4MzE5N2FkNTAzMGM4NjI1MTZiNWRlZGNmYjRjMTA2ODYxZjE3`
+Snapshot ID: `MCwzZGY2MjY4MDYzMmJjZGQ2ZGYxMWU0YzVmZWNkYTYzOWU3MGM2MjZi`

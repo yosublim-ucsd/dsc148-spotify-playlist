@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 218251,
+  "2024-04-10": 218282,
   "date_first_scraped": "2024-01-15",
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
   "name": "Foco no Estudo",
@@ -39,6 +39,24 @@
       "duration_ms": 120080,
       "name": "A Day In June",
       "url": "https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus"
+    },
+    {
+      "album": {
+        "name": "A Fresh Start",
+        "url": "https://open.spotify.com/album/0HfJtkvuSY9WjsWE6wm5c2"
+      },
+      "artists": [
+        {
+          "name": "Roger Swift",
+          "url": "https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158580,
+      "name": "A Fresh Start",
+      "url": "https://open.spotify.com/track/2jlX4uHv42kpI4RrkjF9LK"
     },
     {
       "album": {
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 214630,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"

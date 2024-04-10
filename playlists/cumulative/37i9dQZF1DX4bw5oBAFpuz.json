@@ -2635,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "The Heart is Asymmetrical",
+        "url": "https://open.spotify.com/album/3ewMwdapGFLdxrLcwkrQkv"
+      },
+      "artists": [
+        {
+          "name": "Janne Schra",
+          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209192,
+      "name": "High Five",
+      "url": "https://open.spotify.com/track/6HXGmN7Gh9mdutkMb9tCdj"
+    },
+    {
+      "album": {
         "name": "Singles Only (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1CU246tMIaAhMfAfmtR2h6"
       },
@@ -2918,7 +2936,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 233617,
       "name": "I Knew You Were Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
@@ -6608,7 +6626,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
@@ -7078,7 +7096,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 200840,
       "name": "Wandering Heart",
       "url": "https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz"
@@ -7208,6 +7226,24 @@
       "duration_ms": 182958,
       "name": "we're not kids anymore",
       "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
+    },
+    {
+      "album": {
+        "name": "weed & videogames",
+        "url": "https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr"
+      },
+      "artists": [
+        {
+          "name": "Joe Buck",
+          "url": "https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183715,
+      "name": "weed & videogames",
+      "url": "https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua"
     },
     {
       "album": {
@@ -7406,7 +7442,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 206952,
       "name": "Who Gave You The Right",
       "url": "https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr"

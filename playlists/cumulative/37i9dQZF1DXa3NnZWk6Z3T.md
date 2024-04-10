@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-342 songs - 19 hr 41 min
+343 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [De Vez en Cuando](https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:24 | 2022-05-14 |  |
 | [De Vez En Cuando](https://open.spotify.com/track/2VNExLz5Y7zubCNuVbSUJP) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [De Vez En Cuando](https://open.spotify.com/album/06YJEqZe1fmb07iO3bLHYc) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [Desde las Alturas](https://open.spotify.com/track/44ojSkwMRjy7GRAOdKkNKz) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Desde las Alturas](https://open.spotify.com/album/7LjiZnqwouFkTnOKFJntcS) | 3:43 | 2022-04-07 |  |
-| [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-02-10 |  |
+| [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-02-10 | 2024-04-10 |
 | [Deseo](https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Nothing Much Has Changed, I Don't Feel The Same](https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1) | 2:04 | 2021-12-09 | 2023-07-17 |
 | [Diablo De Un Segundo](https://open.spotify.com/track/0f2AQr7tUre0BIGxx6RxX7) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Diablo De Un Segundo](https://open.spotify.com/album/14FFsLvG1NLDm2pK0Jc14c) | 2:07 | 2021-12-09 | 2022-07-24 |
 | [Distancia](https://open.spotify.com/track/1I4Tj5GjMBFOGd6HpwqSUF) | [Ale Aguirre](https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS) | [Ambivalente](https://open.spotify.com/album/4ZXeVhvevhngnTB8UxB0sK) | 3:19 | 2022-04-07 | 2022-04-21 |
@@ -165,6 +165,7 @@
 | [Juan de Dios](https://open.spotify.com/track/4lAtI8c42fN4eICMJRwH6n) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Juan de Dios](https://open.spotify.com/album/753t5Yiwkv1Mg89H4IolDm) | 3:33 | 2024-02-23 |  |
 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 | 2021-12-09 | 2022-10-28 |
 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 | 2021-12-09 |  |
+| [Junto al Mar](https://open.spotify.com/track/0UeMXtEAaFZGFQT4DejyaJ) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Junto al Mar](https://open.spotify.com/album/1NcPDfd2KYkHCi1mANvhLF) | 4:38 | 2024-03-14 |  |
 | [Junto al Mar](https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Junto al Mar](https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB) | 4:38 | 2021-12-09 | 2024-03-08 |
 | [La Aventurera](https://open.spotify.com/track/2Gqu40SIdJcf1FfN5U8fVf) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Bajo el Mismo Cielo](https://open.spotify.com/album/3q6NKY1RkOtCY184qlBmMK) | 3:18 | 2022-09-21 |  |
 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 | 2022-08-05 |  |
@@ -208,7 +209,7 @@
 | [Motor Psico](https://open.spotify.com/track/2uwT02C1hcLamwIUPSyE1K) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Motor Psico](https://open.spotify.com/album/0LgyAgeRdl9XdGnYXHzJGX) | 4:56 | 2022-05-14 | 2022-10-26 |
 | [Motor Psico](https://open.spotify.com/track/65JemFi7O8Tfj35WJitEa8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Motor Psico](https://open.spotify.com/album/1I1MvAZ4cnGo7XHLqPtIm3) | 4:56 | 2022-04-07 | 2022-04-20 |
 | [Mozo](https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 3:49 | 2021-12-09 |  |
-| [Mp3](https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Mp3](https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd) | 3:01 | 2021-12-09 | 2024-04-06 |
+| [Mp3](https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Mp3](https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd) | 3:01 | 2021-12-09 |  |
 | [Mundo Paralelo](https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mundo Paralelo](https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR) | 3:17 | 2021-12-09 |  |
 | [Mírame](https://open.spotify.com/track/7iKguNIjaONzqnKTLjfRT1) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mírame](https://open.spotify.com/album/46zXCAod1c2VPBrEqIMYaw) | 3:24 | 2021-12-09 | 2023-05-07 |
 | [Nada Contigo](https://open.spotify.com/track/67lKJlELZYh8ouJkp6keaf) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Nada Contigo](https://open.spotify.com/album/5W7y6UiAJoDOO2UR88cbxd) | 3:23 | 2021-12-09 | 2022-07-27 |
@@ -349,6 +350,6 @@
 | [Ya mi mama me decía](https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 3:11 | 2022-05-14 |  |
 | [¿A Dónde Vas?](https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:40 | 2021-12-09 | 2022-12-31 |
 | [¿De qué se trata la vida, mi vida?](https://open.spotify.com/track/3oPMRUwM0yKbtYw1kreHkN) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [¿De qué se trata la vida, mi vida?](https://open.spotify.com/album/7nMMhbXwdJtai9Mx0qFFaQ) | 3:07 | 2021-12-09 | 2023-01-12 |
-| [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 | 2024-03-14 |  |
+| [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 | 2024-03-14 | 2024-04-10 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

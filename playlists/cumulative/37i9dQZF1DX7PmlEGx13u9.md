@@ -4,7 +4,7 @@
 
 > Certified R&B Hits\. Cover: Kehlani
 
-116 songs - 6 hr 4 min
+117 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-10-13 |  |
 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 | 2024-02-09 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2023-10-13 |  |
-| [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-10-13 |  |
+| [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-10-13 | 2024-04-10 |
 | [Little Blue Moon](https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp) | 2:48 | 2023-11-17 | 2023-12-24 |
 | [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 | 2023-12-15 | 2024-02-23 |
 | [LOML](https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [LOML](https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf) | 2:57 | 2023-10-27 | 2023-11-11 |
@@ -86,6 +86,7 @@
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2023-10-13 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-10-13 |  |
 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 | 2023-10-27 | 2024-01-23 |
+| [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-04-08 |  |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-18 |  |
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-10-13 | 2023-10-28 |
 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 | 2024-01-22 | 2024-02-10 |

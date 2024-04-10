@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar\. Conmemorando la vida de Diomedes Díaz este 22 de Diciembre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,157 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,290 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 25 | [Traga'O De Tí](https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Caballero Del Vallenato](https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9) | 4:07 |
 | 26 | [Amarte Mas No Pude](https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Orgullosa](https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB) | 4:49 |
 | 27 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 |
-| 28 | [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 |
+| 28 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [A Mi Manera](https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt) | 4:35 |
 | 29 | [Buscare Otro Amor](https://open.spotify.com/track/0awm6OBJOIRLhmkqA9ox4H) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:06 |
 | 30 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/6Fn0YHHglTA5qBVXS8yOER) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO) | 4:42 |
 | 31 | [La Suerte Esta Echada](https://open.spotify.com/track/70D93Sai1gWfwlj7neZIEa) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Ivan Zuleta](https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B) | [Muchas Gracias](https://open.spotify.com/album/3c1CSERUmlYIOpmVRJV15r) | 4:56 |
-| 32 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [A Mi Manera](https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt) | 4:35 |
+| 32 | [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 |
 | 33 | [Como Te Olvido](https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 4:50 |
 | 34 | [Loco Paranoico](https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [La 9a Batalla](https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb) | 3:34 |
 | 35 | [Que Me Puedas Amar](https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 49 | [Que No Se enteren](https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:30 |
 | 50 | [Tu Olvido](https://open.spotify.com/track/3YwtXX7xtSvQSVMzwc1PUP) | [Ivan Zuleta](https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Pa Que Te Enamores](https://open.spotify.com/album/0zYbs9xZl8BpKXjv74GeJM) | 4:37 |
 
-Snapshot ID: `MCw5MmZjYzMyM2E2MGQ4NWM3ZTNlZWIwODJkODYyMTdjZmQ1ODg0YWI3`
+Snapshot ID: `MCxmNTg1YzY2ZDQwODExMGVhMTY3ZDEyNGI4ZWM1ZjJmOTViYTY1MTE0`

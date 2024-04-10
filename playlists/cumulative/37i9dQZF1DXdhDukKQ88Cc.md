@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> OT 🌊🌊🌊
+> ny dansk rap og andet i den vibe 🌊🌊🌊
 
-151 songs - 6 hr 33 min
+152 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Igen \(feat\. MAS\)](https://open.spotify.com/track/5iyWULPnXcozdzi9ODfVkL) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Igen \(feat\. MAS\)](https://open.spotify.com/album/37RNYLyXQb5MM4bAfwizDh) | 2:22 | 2023-11-16 | 2023-12-14 |
 | [IK FAKE LÆNGERE](https://open.spotify.com/track/0Q9d8VHYuO7SpKsOJg57z5) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8) | [IK FAKE LÆNGERE](https://open.spotify.com/album/6qqYkOgMSSAZd8AGO7J7ZI) | 2:38 | 2023-12-08 | 2024-01-17 |
 | [Imponeret/smukt&rigtigt](https://open.spotify.com/track/2Nsbcnwb1sSYtujPzzLOMa) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:39 | 2024-03-21 |  |
+| [Indre Stemme](https://open.spotify.com/track/0CToGTNJzK0JxMJM6otPON) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [BOILERS](https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8) | [Indre Stemme](https://open.spotify.com/album/0MiIHv48KMk7FoqCe1mues) | 2:42 | 2024-04-09 |  |
 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 | 2023-09-21 | 2024-02-23 |
 | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n) | 2:54 | 2024-02-01 |  |
 | [Je Ka Jo](https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Je Ka Jo](https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0) | 2:58 | 2023-09-29 |  |

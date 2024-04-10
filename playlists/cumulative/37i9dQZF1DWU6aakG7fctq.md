@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie you should know\. Cover: The Marías
 
-599 songs - 1 day 9 hr 13 min
+600 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 | 2023-03-24 | 2024-01-27 |
 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 | 2023-04-28 | 2024-01-20 |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-02-10 | 2023-08-05 |
-| [LAS FURIAS // NOS MIRAN](https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 2:15 | 2023-10-27 |  |
+| [LAS FURIAS // NOS MIRAN](https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 2:15 | 2023-10-27 | 2024-04-10 |
 | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk) | 3:53 | 2022-09-06 | 2023-04-22 |
 | [Lava](https://open.spotify.com/track/0itpe8ossR5xjg9gd9NyyI) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Lava](https://open.spotify.com/album/0P7BNrKeRNCFyuUHtmK5KY) | 3:22 | 2023-04-14 | 2023-05-06 |
 | [Le hablo al agua](https://open.spotify.com/track/03tx7WIGxOlPt0TFLKKY6y) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Le hablo al agua](https://open.spotify.com/album/4YaTl31aeIe2HUgftnmbh7) | 4:16 | 2023-03-10 | 2023-03-12 |
@@ -494,6 +494,7 @@
 | [Solo Tu](https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7) | 2:46 | 2023-09-22 | 2024-02-17 |
 | [Solo Una Amiga](https://open.spotify.com/track/1fDtV4aKfx3veJqpz9iYsM) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Danny Reyes](https://open.spotify.com/artist/29lfDpKuAjaSUKsxTqU0g3) | [Solo Una Amiga](https://open.spotify.com/album/4GnhEiT4St0Qvlp5LV8UnG) | 4:24 | 2023-04-14 | 2023-06-03 |
 | [Solsticio](https://open.spotify.com/track/7u9sGwbew6vUE2TD6zs5ET) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Solsticio](https://open.spotify.com/album/62XqnH9WsWL8OViYAUQyCX) | 3:57 | 2024-02-16 | 2024-03-09 |
+| [Somos raros](https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Todo alrededor](https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO) | 4:08 | 2024-04-05 |  |
 | [Soy Tu Papá \(feat\. Fernando Palomo\)](https://open.spotify.com/track/0IK1nPN06x2HC05knvox4U) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O), [Fernando Palomo](https://open.spotify.com/artist/0mlE6ychUjCLEw4jNAdbG3) | [Soy Tu Papá \(feat\. Fernando Palomo\)](https://open.spotify.com/album/1yMQpJi4NbATzyf37Y0muR) | 4:14 | 2022-12-09 | 2023-04-24 |
 | [Soy Un Guapo](https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Soy Un Guapo](https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu) | 3:02 | 2023-03-24 | 2023-05-13 |
 | [Space Parade](https://open.spotify.com/track/5XHZv1rBmLCGzGiAHV5m6G) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Space Parade](https://open.spotify.com/album/6Ga077n4SAlyKzmFKsQ6zc) | 2:58 | 2022-01-10 | 2022-09-07 |

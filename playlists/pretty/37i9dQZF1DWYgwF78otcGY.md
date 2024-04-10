@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,954 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,955 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 11 | [In i dimman](https://open.spotify.com/track/3zNUWltBz3xrZhXkoSMgJX) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Tropicalisera](https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB) | 2:53 |
 | 12 | [Genom Eld & Vatten](https://open.spotify.com/track/20NfHnLzpw6qoAKOX8BFaQ) | [Sarek](https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp) | [Genom Eld & Vatten](https://open.spotify.com/album/0IvnnD0YUy1yZuLMUHzUL4) | 3:19 |
 | 13 | [Fuego](https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Fuego](https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8) | 3:03 |
-| 14 | [Euphoria \- Single Version](https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria \(The Alternative Mixes\)](https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu) | 3:01 |
-| 15 | [Eloise](https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR) | 3:08 |
+| 14 | [Eloise](https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR) | 3:08 |
+| 15 | [Euphoria \- Single Version](https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria \(The Alternative Mixes\)](https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu) | 3:01 |
 | 16 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 |
 | 17 | [Run To The Hills](https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Run To The Hills](https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0) | 2:55 |
 | 18 | [Fångad av en stormvind \- Swedish Version](https://open.spotify.com/track/06xX9E1BTTwyOwyaBuszSK) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 3:00 |
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 40 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
 | 41 | [Begging](https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1) | [Anton Ewald](https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb) | [A](https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm) | 3:02 |
 | 42 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
-| 43 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
-| 44 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
+| 43 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
+| 44 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
 | 45 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
 | 46 | [I Can´t Go On](https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [I Can't Go On](https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3) | 3:03 |
 | 47 | [Kom och ta mig](https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rök 'n Roll](https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD) | 2:57 |
 | 48 | [Kizunguzungu](https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g) | [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Kizunguzungu](https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj) | 3:04 |
 | 49 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
-| 50 | [Mera mera mera](https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Mera mera mera](https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw) | 2:58 |
-| 51 | [Om om och om igen](https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Om om och om igen](https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd) | 2:47 |
+| 50 | [Om om och om igen](https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Om om och om igen](https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd) | 2:47 |
+| 51 | [Mera mera mera](https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Mera mera mera](https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw) | 2:58 |
 | 52 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 |
 
-Snapshot ID: `MCxlZTc0MmFlNTllZDllMmU1OGQ3ZjEwNjU3YzJmOGMyMjM0MWQ2NzBh`
+Snapshot ID: `MCxiZjYyMGM1Njc0MWZkYmI1YmRmZDEwZjBhZWE1ZjY2Y2Q0ODI5MjZh`

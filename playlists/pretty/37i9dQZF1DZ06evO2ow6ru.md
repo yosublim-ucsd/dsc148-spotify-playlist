@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,100 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,117 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 49 | [Say Something \- Live From Spotify UK](https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Spotify Sessions](https://open.spotify.com/album/2otrDlo0zpTrCqoSuorzWd) | 3:24 |
 | 50 | [Jasey Rae \(Acoustic\)](https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up or Shut Up \(Deluxe Version\)](https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ) | 3:33 |
 
-Snapshot ID: `MCxhODIwZTg4YzM2ZGUyZThlZWM4NmJiYTRjNTE1NzQyNmQ3MGM4M2I1`
+Snapshot ID: `MCxiN2JiM2E4OWJlMmEwNjQ2OTlkNWI2ZmY0MTg2Y2FkNGE3Yjk4NDkx`

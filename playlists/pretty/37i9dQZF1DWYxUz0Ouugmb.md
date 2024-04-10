@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Masdddho
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,492 likes - 24 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,503 likes - 24 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 23 | [Bodoh](https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Bodoh](https://open.spotify.com/album/0W6CtBfGyNGW7fwiUwL81Z) | 4:08 |
 | 24 | [CAN I](https://open.spotify.com/track/7CX5DuU2TbX3eA0PFGysr7) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [CAN I](https://open.spotify.com/album/3yRgWoSiDOQQZmieXeXL75) | 3:46 |
 
-Snapshot ID: `MCxkYWU1NmE2NzM2MGRlOGUxNWJlMmZlMzU2MTI1OTIwY2VhMzM0M2Q0`
+Snapshot ID: `MCxhZTJiMTYzYjQ0ZjIzMDU0NGZjZDc2NzgzMzAyYjU1ZDUwZjcyY2Jl`

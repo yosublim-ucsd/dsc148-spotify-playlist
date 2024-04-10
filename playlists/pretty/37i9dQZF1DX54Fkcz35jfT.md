@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: F.HERO x BODYSLAM x BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,313 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,324 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 82 | [TAKING THEM DOWN](https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [TAKING THEM DOWN](https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU) | 2:52 |
 | 83 | [DO THE DANCE](https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:16 |
 | 84 | [Hunter or Prey](https://open.spotify.com/track/1uDADMKPdOgZvthrIqvOyb) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3lVu6JZpO1wk2IBpU4j88Q) | 3:44 |
-| 85 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
-| 86 | [Better Left Unsaid](https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:24 |
+| 85 | [Better Left Unsaid](https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:24 |
+| 86 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
 | 87 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 |
 | 88 | [ハッピーウェディング前ソング \- 2年以内に別れないver.](https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [ハッピーウェディング前ソング \(2年以内に別れないver.\)](https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd) | 3:49 |
 | 89 | [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 95 | [Blood in blue](https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Blood in blue](https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx) | 2:45 |
 | 96 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 |
 | 97 | [Sad Song](https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:23 |
-| 98 | [The Show Must Go On](https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Show Must Go On](https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt) | 2:44 |
-| 99 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 |
+| 98 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 |
+| 99 | [The Show Must Go On](https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Show Must Go On](https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt) | 2:44 |
 | 100 | [of course](https://open.spotify.com/track/2FFf4WFv4oj0R8yenXXaNF) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [of course](https://open.spotify.com/album/68hagxENiIaUNAprO75WGC) | 2:55 |
 
-Snapshot ID: `MCwyOTBjMGQyMDQ4OTE2YThjZDNjMmExYzQ0ZmZjNGQwOWFjOTBhMjY5`
+Snapshot ID: `MCw0Y2ZjNWM2NzMzNmEyMDE1NWRlNzdhODNjNGI3N2RiM2U3NTYyZmI4`

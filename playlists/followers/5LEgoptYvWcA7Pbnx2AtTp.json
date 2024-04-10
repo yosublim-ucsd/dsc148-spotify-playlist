@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 8,
+  "2024-04-10": 8,
   "date_first_scraped": "2023-05-22",
   "description": "Questionable in both morals and taste.",
   "name": "Questionable Bops",
@@ -61,6 +61,24 @@
       "duration_ms": 159832,
       "name": "1993 (feat. Little Ricky ZR3)",
       "url": "https://open.spotify.com/track/71iA79hOFAMmwGB1w83VH1"
+    },
+    {
+      "album": {
+        "name": "Incantations",
+        "url": "https://open.spotify.com/album/5CfNebrzhXfZqa5aRQlOPb"
+      },
+      "artists": [
+        {
+          "name": "Nick Lutsko",
+          "url": "https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146134,
+      "name": "A Ghost Story",
+      "url": "https://open.spotify.com/track/2FoxK1MoP36ZiIfwooZI6j"
     },
     {
       "album": {
@@ -173,6 +191,24 @@
       "duration_ms": 196513,
       "name": "Booty Swing",
       "url": "https://open.spotify.com/track/64yyY22zIihs01OpURdsh8"
+    },
+    {
+      "album": {
+        "name": "Bread",
+        "url": "https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV"
+      },
+      "artists": [
+        {
+          "name": "Anya Nami",
+          "url": "https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102461,
+      "name": "Bread",
+      "url": "https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun"
     },
     {
       "album": {

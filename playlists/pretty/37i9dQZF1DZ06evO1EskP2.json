@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTZmMjc1N2Q3MDVmYjdmZjM2YTVjNGFiNmQ0MGVmODZjMThjOTRh",
+  "snapshot_id": "MCw4OTM2YzM0ZTliY2ExYWQ2ZDYxMWYzMTQyNzgxM2MxYmM3M2ZjMzk4",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
+        "name": "Hawaiian Lullaby",
+        "url": "https://open.spotify.com/album/2pINChaBkC0qnFcAIu3rtT"
       },
       "artists": [
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Sammy Johnson",
-          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
         }
       ],
-      "duration_ms": 203514,
-      "name": "Mixed Feelings",
-      "url": "https://open.spotify.com/track/7pbIwRECTzRIQZTgujrOYn"
+      "duration_ms": 208986,
+      "name": "True Colors (Kou \u02bbano K\u016b\u02bbi\u02bbo)",
+      "url": "https://open.spotify.com/track/0YL2CC1DNKAovuhpuQIu2N"
     },
     {
       "added_at": null,
@@ -103,18 +99,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hawaiian Lullaby",
-        "url": "https://open.spotify.com/album/2pINChaBkC0qnFcAIu3rtT"
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
       },
       "artists": [
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Sammy Johnson",
+          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
         }
       ],
-      "duration_ms": 208986,
-      "name": "True Colors (Kou \u02bbano K\u016b\u02bbi\u02bbo)",
-      "url": "https://open.spotify.com/track/0YL2CC1DNKAovuhpuQIu2N"
+      "duration_ms": 203514,
+      "name": "Mixed Feelings",
+      "url": "https://open.spotify.com/track/7pbIwRECTzRIQZTgujrOYn"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/6GXMiqtk8ME5GWZ6snXvWp"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 236934,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/62sAt5CA4yGYbmkQvLVKwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hula Girl",
         "url": "https://open.spotify.com/album/3nNdWJwIkJXaS0rq7prKM1"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 195790,
       "name": "Hula Girl",
       "url": "https://open.spotify.com/track/0vAnneqWLwX3DbJKGOi6wA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Galaxy",
-        "url": "https://open.spotify.com/album/6GXMiqtk8ME5GWZ6snXvWp"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 236934,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/62sAt5CA4yGYbmkQvLVKwJ"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 254226,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
+      "duration_ms": 284680,
+      "name": "Right Love, Wrong Time",
+      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 284680,
-      "name": "Right Love, Wrong Time",
-      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
+      "duration_ms": 254226,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
     },
     {
       "added_at": null,

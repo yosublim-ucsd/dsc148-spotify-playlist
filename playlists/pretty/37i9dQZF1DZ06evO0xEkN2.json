@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 212465,
+  "num_followers": 212512,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDcxOWY4MmQ4ZWI3OTE3N2UyOGUwMTdiNTQ1ZjZjMWNlN2VmZmQx",
+  "snapshot_id": "MCxiZTVlN2JhMjczZGU1ZjUwMTMzNzk3YzkxOTY2MzYxZjg2ZWY4YmFj",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 221640,
-      "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH"
+      "duration_ms": 246840,
+      "name": "Peque\u00f1o Tratado de un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2eAAwvxPdqDchQ1DBSdZNe"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 246840,
-      "name": "Peque\u00f1o Tratado de un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2eAAwvxPdqDchQ1DBSdZNe"
+      "duration_ms": 221640,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH"
     },
     {
       "added_at": null,
@@ -855,18 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+        "name": "Gracias Por Existir",
+        "url": "https://open.spotify.com/album/2Xdby9NkJLVGD5eBBC9Y35"
       },
       "artists": [
+        {
+          "name": "H\u00e9ctor Guerra",
+          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
+        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 192666,
-      "name": "No Me Vayas a Dejar",
-      "url": "https://open.spotify.com/track/15WIt660rRzkOZxD6w5h8T"
+      "duration_ms": 232080,
+      "name": "Gracias por Existir",
+      "url": "https://open.spotify.com/track/1OoJSOXUn67BOzoMHUqfO7"
     }
   ],
   "unique_name": "This Is Panteon Rococo",

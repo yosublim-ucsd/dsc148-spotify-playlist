@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Wenn die Tage länger werden und die Luft wärmer \- diese Tracks begleiten dich in den Frühling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,958 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,040 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 44 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
 | 45 | [Let Me Love You Like A Woman](https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:20 |
 | 46 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 |
-| 47 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
-| 48 | [Julia](https://open.spotify.com/track/7r9NCIrR6ZRHX1jfjAASVv) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 2:17 |
+| 47 | [Julia](https://open.spotify.com/track/7r9NCIrR6ZRHX1jfjAASVv) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 2:17 |
+| 48 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
 | 49 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
 | 50 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
 | 51 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
 | 52 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 |
-| 53 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 |
-| 54 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
+| 53 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
+| 54 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 |
 | 55 | [Washed Up](https://open.spotify.com/track/5DC8a9K1q6xTIDlTOVVJt9) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Get It Done](https://open.spotify.com/album/3OLKZxkcuaBD1WKiRf9RtM) | 3:24 |
 | 56 | [Calico](https://open.spotify.com/track/7CCjLo2MrzvWXOepY9PGnA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 3:51 |
 | 57 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 76 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
 | 77 | [Two Thirds](https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1) | [Childe](https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq) | [Two Thirds](https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL) | 3:26 |
 | 78 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 |
-| 79 | [Bau mich auseinander \(Piano Version\)](https://open.spotify.com/track/0Ok8KfWfiI84vEYHbtX4TE) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS), [Philipp Schwär](https://open.spotify.com/artist/21zpknhD3wjZyfgr6WF0lg), [Klinger](https://open.spotify.com/artist/5IZvbL90N2vOjH9Cjqrgqr) | [Nur](https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK) | 3:36 |
-| 80 | [Bound](https://open.spotify.com/track/5iOD44ZsI7c921OorwdwUA) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 4:58 |
+| 79 | [Bound](https://open.spotify.com/track/5iOD44ZsI7c921OorwdwUA) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 4:58 |
+| 80 | [Bau mich auseinander \(Piano Version\)](https://open.spotify.com/track/0Ok8KfWfiI84vEYHbtX4TE) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS), [Philipp Schwär](https://open.spotify.com/artist/21zpknhD3wjZyfgr6WF0lg), [Klinger](https://open.spotify.com/artist/5IZvbL90N2vOjH9Cjqrgqr) | [Nur](https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK) | 3:36 |
 
-Snapshot ID: `MCwwMThhZTIyMzRhOWZlODZhNTZiOTFlNTYwZDE0NjFmZDk4M2FiMTBi`
+Snapshot ID: `MCxmOTA2ZWRhODE2OGUwMTliYjRmYTkwYmQ5MjNlYzg1ZjExMWFhYjUx`

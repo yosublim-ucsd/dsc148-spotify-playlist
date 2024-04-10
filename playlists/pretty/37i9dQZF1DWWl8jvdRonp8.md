@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,238 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,368 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 72 | [Tú Carcel](https://open.spotify.com/track/60SAF5Xc5c04HzCNpP4rfO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [De Corazon Bohemio](https://open.spotify.com/album/05jXRbAmwH2b3XTRfKC0j5) | 2:55 |
 | 73 | [Cómo Me Duele Irte Perdiendo](https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 3:49 |
 | 74 | [Mira Nomas](https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:16 |
-| 75 | [Si No Te Hubieras Ido](https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:17 |
-| 76 | [Y Ahora Te Vas](https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:54 |
+| 75 | [Y Ahora Te Vas](https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:54 |
+| 76 | [Si No Te Hubieras Ido](https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:17 |
 | 77 | [Y Ahora Te Vas](https://open.spotify.com/track/7ddotqHpNB4DEEyqyqADGv) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:18 |
 | 78 | [Encadenada a Mi](https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [Pa' La Pista y Pa'l Pisto, Vol\. 2](https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI) | 3:50 |
 | 79 | [Entre Tu Y Yo](https://open.spotify.com/track/3HzJk6dBCLNvRt2O33JgOm) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 4:40 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 117 | [Si Te Pudiera Mentir \- Live Version](https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Una Noche En Madrid](https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8) | 4:23 |
 | 118 | [Cuando Te Acuerdes De Mi](https://open.spotify.com/track/461E9GGt5TzUIrOGKAOSzy) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:40 |
 | 119 | [Tus Mentiras](https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 4:46 |
-| 120 | [Una Mujer Como Tú](https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 3:30 |
-| 121 | [Amor En Silencio](https://open.spotify.com/track/1fqk8hFHIDQo99J6NYa1Lw) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:55 |
+| 120 | [Amor En Silencio](https://open.spotify.com/track/1fqk8hFHIDQo99J6NYa1Lw) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:55 |
+| 121 | [Una Mujer Como Tú](https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 3:30 |
 | 122 | [Viéndolo Bien](https://open.spotify.com/track/4xz67gCRJvFPjYOWTwrquw) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 2:51 |
 | 123 | [Y Ahora Te Vas](https://open.spotify.com/track/5e62PInKsU8hyMTMwvSA1l) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 3:55 |
 | 124 | [Tres Semanas](https://open.spotify.com/track/3ukdeAroKGEfV0ozTjpn4k) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Gracias Por Estar Aquí](https://open.spotify.com/album/7gn1PQ1s6ybhPRONxZkmRw) | 3:40 |
 | 125 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/62kDLRQwHua33e3fLrOVPJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [35 Aniversario](https://open.spotify.com/album/4WPfZE0Nv2FI3MtP6exBRB) | 3:51 |
 
-Snapshot ID: `MCxiNTMzM2IxODdiNTIyZTQ0NDc2M2Y0MzEzZDNjMmYwNTRlNDVmNmRh`
+Snapshot ID: `MCwyMDhiOWEzMmRlZWY4NjJmZDBhMTNkODA3NzVkNWVlYzVjZGY0M2Y3`

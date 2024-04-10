@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7127,
+  "num_followers": 7131,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGMyZDJhNDgxMDM1YjEzMzBiYTdhNTRkYjcxNzgzNmZiYTBhMTg1",
+  "snapshot_id": "MCxjOTFjYzZhZmZkNjQ5ZjhjMjUyMjFiOTUzOWY2MTU4MzM4NjgzY2Q3",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
+      },
+      "artists": [
+        {
+          "name": "Rich McFeather",
+          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
+        }
+      ],
+      "duration_ms": 215553,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Times",
         "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 244060,
       "name": "Times",
       "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
-      },
-      "artists": [
-        {
-          "name": "Rich McFeather",
-          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
-        }
-      ],
-      "duration_ms": 215553,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
+        "name": "Anybody Else But Me",
+        "url": "https://open.spotify.com/album/4rWkiDyXhDqN2Lm1Zg08sv"
       },
       "artists": [
         {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+          "name": "Deborah Parlor",
+          "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
+      "duration_ms": 211066,
+      "name": "Anybody Else But Me",
+      "url": "https://open.spotify.com/track/6bO44ywoBjbe2XeI1lgTm5"
     }
   ],
   "unique_name": "Route Americana",

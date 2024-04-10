@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Eva Snyder
 
-652 songs - 1 day 10 hr 38 min
+653 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,8 @@
 | [Long Sleeves](https://open.spotify.com/track/3FhR2wKrImxzGWbLEk8323) | [Love You Later](https://open.spotify.com/artist/5NnHZjAQDhWUb5ISZO7FSw) | [Long Sleeves](https://open.spotify.com/album/25TWkHnNyeUDIq6nkB1baW) | 2:50 | 2023-04-28 | 2023-08-12 |
 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-03-31 | 2024-03-02 |
 | [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 | 2024-03-01 |  |
-| [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2023-12-08 |  |
+| [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2023-12-08 | 2024-04-10 |
+| [Looking For](https://open.spotify.com/track/2BFAQKgIqQSPNXuDw08C83) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:06 | 2024-03-22 |  |
 | [Looking for Trouble](https://open.spotify.com/track/67CCjpC8R4pWs2xaqkn3op) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Looking for Trouble](https://open.spotify.com/album/1SXRmp8DSW8ewbGB1DRnAO) | 3:46 | 2022-09-30 | 2023-02-18 |
 | [Lose a Friend](https://open.spotify.com/track/3Uo3QGPMTpiyAbMkj9dqgd) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Lose a Friend](https://open.spotify.com/album/1J1bA0Cw8Bw9r1KyDukInD) | 3:15 | 2023-02-17 | 2023-05-06 |
 | [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 | 2024-03-22 |  |

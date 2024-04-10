@@ -4,7 +4,7 @@
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 58 min
+53 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Foráneos](https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Foráneos](https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq) | 3:06 | 2023-12-30 |  |
 | [Hijos de los Días](https://open.spotify.com/track/0v5vPs9sPH5v3XSzEj8sjD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:03 | 2023-12-30 |  |
 | [Hoy Quiero Confesarles](https://open.spotify.com/track/3FKYwSwP5G8SDRUqCeozMJ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:13 | 2023-12-30 |  |
+| [Invente](https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO) | [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Estado Popular Del Alma • Epa](https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1) | 3:34 | 2024-04-10 |  |
 | [La Llave del Universo](https://open.spotify.com/track/5DFu8B851bdNDpKipQsoFW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:49 | 2023-12-30 | 2024-01-02 |
 | [La Vida Es Solo Una](https://open.spotify.com/track/3DONoS10PcEs8mSoDbqhY1) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:04 | 2023-12-30 |  |
 | [Las Cinco Rosas](https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Rap Conciencia](https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR) | 3:52 | 2023-12-30 |  |
@@ -52,7 +53,7 @@
 | [Sentimiento Cotidiano](https://open.spotify.com/track/1Zpw8tdhQVVvFG8ih0eNg5) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:01 | 2024-02-05 |  |
 | [Siempre Recuerdos](https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 4:00 | 2023-12-30 |  |
 | [So Sad](https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [So Sad](https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe) | 3:37 | 2023-12-30 |  |
-| [Sueños Sepultados](https://open.spotify.com/track/3deoRtMWD5a0EGuArmzCds) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [10](https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq) | 4:25 | 2023-12-30 |  |
+| [Sueños Sepultados](https://open.spotify.com/track/3deoRtMWD5a0EGuArmzCds) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [10](https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq) | 4:25 | 2023-12-30 | 2024-04-10 |
 | [Todo El Tiempo](https://open.spotify.com/track/3dZRc9MeHmcj7CAHtDL4oP) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo El Tiempo](https://open.spotify.com/album/7m4shGjRscqyAN8SiOmfBv) | 2:33 | 2023-12-30 |  |
 | [Tú](https://open.spotify.com/track/3qP10K3jeiB2xoz8OZF6nO) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:33 | 2023-12-30 |  |
 | [Una Oportunidad](https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Una Oportunidad](https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7) | 3:33 | 2023-12-30 |  |

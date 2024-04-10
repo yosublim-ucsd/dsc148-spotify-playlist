@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Glass Animals \(pictured\), Benson Boone, Griff and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,027 likes - 127 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,035 likes - 127 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 58 | [Nothing Shines On This Island](https://open.spotify.com/track/6pzdU8rRVmcc5KhMtYvTsm) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Nothing Shines On This Island](https://open.spotify.com/album/6O86cUbHXf7sJvkODKdj45) | 2:10 |
 | 59 | [break me](https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [break me](https://open.spotify.com/album/0Ggs1jxnP1Sby1NLum8mRu) | 2:50 |
 | 60 | [The Weekend](https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [The Weekend / Control the Media](https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI) | 2:58 |
-| 61 | [BLACK DOG / WHITE HORSE \- bd/wh](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 |
+| 61 | [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 |
 | 62 | [Black Joy](https://open.spotify.com/track/730EN7hE2PKSnYsvD22Dje) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Black Joy](https://open.spotify.com/album/5yEOjQ0C0lpam1A2aDzCCh) | 3:53 |
 | 63 | [Insomnia](https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Insomnia](https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH) | 3:42 |
 | 64 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 126 | [If It Is Love](https://open.spotify.com/track/0OFsRCsWTeW2hmPxRI7VZQ) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [If It Is Love](https://open.spotify.com/album/4kb1Sw8lZoThU29WhGR48o) | 3:22 |
 | 127 | [One](https://open.spotify.com/track/2jZ7QU2zzb4upMpVXAm1nb) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [One](https://open.spotify.com/album/07xQoYhMMM1fjl3y8eQPTo) | 4:02 |
 
-Snapshot ID: `MCwwOTRhMTY0N2ZhZTc1Y2EwOWVjMDcwYzQyNWZkYTg1NTMyN2I3NjU2`
+Snapshot ID: `MCxjZmU3ZDI3MDBlYjc1OTZhNTQ5ZDJlYzAxNWNhYWVmNTJmNzE0OTUw`

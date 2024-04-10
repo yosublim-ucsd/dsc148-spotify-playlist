@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 128550,
+  "num_followers": 128570,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTFlOGM4NmNhM2I4YTMzN2NhYTI1NThhZTAwOGUxZGFjMGFmN2M5",
+  "snapshot_id": "MCwyOTVhMzRlZGE5OTI1NDYzZmRlZDMzMjRiYTQ4NzAyOTFmMGQ5OWM2",
   "tracks": [
     {
       "added_at": "2024-04-02 15:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
         "name": "Larger Than Life",
         "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 177899,
       "name": "Upset (feat. Tommy Richman & FELIX!)",
       "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "added_at": "2024-04-02 15:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "No Angels",
-      "url": "https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "No Angels",
+      "url": "https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT"
     },
     {
       "added_at": "2024-04-02 15:00:00",
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
-        "name": "KARMA",
-        "url": "https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5"
+        "name": "golden hour (Fujii Kaze Remix)",
+        "url": "https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM"
       },
       "artists": [
         {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 187972,
-      "name": "KARMA",
-      "url": "https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG"
+      "duration_ms": 159000,
+      "name": "golden hour - Fujii Kaze Remix",
+      "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
     },
     {
       "added_at": "2024-04-02 15:00:00",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
-        "name": "golden hour (Fujii Kaze Remix)",
-        "url": "https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM"
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
         },
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
         }
       ],
-      "duration_ms": 159000,
-      "name": "golden hour - Fujii Kaze Remix",
-      "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
+      "duration_ms": 187972,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG"
     },
     {
       "added_at": "2024-04-02 15:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
         "name": "Lover/Friend",
         "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
     },
     {
       "added_at": "2024-04-02 15:00:00",
@@ -1443,6 +1443,42 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
+        "name": "Be The One (with Khalid)",
+        "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 200814,
+      "name": "Be The One (with Khalid)",
+      "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
+        "name": "grace",
+        "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 289541,
+      "name": "grace",
+      "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -1471,22 +1507,6 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
-        "name": "grace",
-        "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 289541,
-      "name": "grace",
-      "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
         "name": "F64",
         "url": "https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 204893,
       "name": "F64",
       "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
-        "name": "Be The One (with Khalid)",
-        "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 200814,
-      "name": "Be The One (with Khalid)",
-      "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
     },
     {
       "added_at": "2024-04-02 15:00:00",
@@ -1619,38 +1619,6 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
-        "name": "Tragedy",
-        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Tragedy",
-      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
         "name": "No One",
         "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
       },
@@ -1671,6 +1639,38 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
         "name": "Automatic (2024 Mix)",
         "url": "https://open.spotify.com/album/1OmZj0yNDdykFxrPJiqegq"
       },
@@ -1683,6 +1683,70 @@
       "duration_ms": 295940,
       "name": "Automatic - 2024 Mix",
       "url": "https://open.spotify.com/track/0PUl467MODwUpD7Vd9kebB"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
+        "name": "move",
+        "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "move",
+      "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2024-04-02 15:00:00",
@@ -1707,54 +1771,6 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
         "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 202373,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
-        "name": "move",
-        "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "move",
-      "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
     },
     {
       "added_at": "2024-04-02 15:00:00",

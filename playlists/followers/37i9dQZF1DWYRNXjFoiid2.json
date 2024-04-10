@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 386022,
+  "2024-04-10": 386342,
   "date_first_scraped": "2021-12-21",
   "description": "Pop to fuel your gaming. Cover: Madge",
   "name": "Ultimate Pop Gaming",
@@ -275,6 +275,24 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "album": {
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 197664,
       "name": "Domino - Sped Up",
       "url": "https://open.spotify.com/track/7I53PteWhM2E41k9sIjdRZ"

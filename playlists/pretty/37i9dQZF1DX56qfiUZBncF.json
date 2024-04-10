@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 377339,
+  "num_followers": 377362,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTk4MzUwZWVlZWVmMTk2ZTYzNDk4YjE3OTJhM2QzN2E1MGQ3Zjc1",
+  "snapshot_id": "MCxjY2Q5OTNiNTNmZWQ3ODg0ZTg0OWQyMzNkMDE1MmMyMDJhY2U2YjMz",
   "tracks": [
     {
       "added_at": "2024-04-02 18:42:07",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
+        "name": "Home of Sanity (the playlist)",
+        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "ophelie",
+      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
         "name": "Heiress",
         "url": "https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 232613,
       "name": "Silvery",
       "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
-        "name": "Home of Sanity (the playlist)",
-        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "ophelie",
-      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
         "name": "This World",
         "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+        "name": "Fallss",
+        "url": "https://open.spotify.com/album/3HRkXiL4cUfZCV7AGp01Vr"
       },
       "artists": [
         {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+          "name": "Bayonne",
+          "url": "https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek"
         }
       ],
-      "duration_ms": 141049,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
+      "duration_ms": 240108,
+      "name": "Fallss",
+      "url": "https://open.spotify.com/track/4dnCJWVYhPfeNefWrIlYaX"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Fallss",
-        "url": "https://open.spotify.com/album/3HRkXiL4cUfZCV7AGp01Vr"
+        "name": "That Was Now",
+        "url": "https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D"
       },
       "artists": [
         {
-          "name": "Bayonne",
-          "url": "https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek"
+          "name": "Just Jack",
+          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
         }
       ],
-      "duration_ms": 240108,
-      "name": "Fallss",
-      "url": "https://open.spotify.com/track/4dnCJWVYhPfeNefWrIlYaX"
+      "duration_ms": 240000,
+      "name": "Trouble to Share",
+      "url": "https://open.spotify.com/track/4LeOE2C8BG5mQUu0SC5YEX"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1451,22 +1467,6 @@
       "duration_ms": 237112,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
-        "name": "That Was Now",
-        "url": "https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D"
-      },
-      "artists": [
-        {
-          "name": "Just Jack",
-          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Trouble to Share",
-      "url": "https://open.spotify.com/track/4LeOE2C8BG5mQUu0SC5YEX"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1627,18 +1627,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Bonfire",
-        "url": "https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA"
+        "name": "The Color of Nothing",
+        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
       },
       "artists": [
         {
-          "name": "Woodes",
-          "url": "https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK"
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
         }
       ],
-      "duration_ms": 203593,
-      "name": "Bonfire",
-      "url": "https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1"
+      "duration_ms": 203504,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1663,42 +1667,18 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "The Color of Nothing",
-        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA"
       },
       "artists": [
         {
-          "name": "ford.",
-          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+          "name": "Woodes",
+          "url": "https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK"
         }
       ],
-      "duration_ms": 203504,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/5B6Ueggpe856IOUWSuVAPW"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/4qu0lhULYMZgDcgVL00Jk0"
+      "duration_ms": 203593,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1719,6 +1699,26 @@
       "duration_ms": 255976,
       "name": "WONDER - PVRIS Remix",
       "url": "https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/5B6Ueggpe856IOUWSuVAPW"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/4qu0lhULYMZgDcgVL00Jk0"
     },
     {
       "added_at": "2024-04-02 18:42:07",

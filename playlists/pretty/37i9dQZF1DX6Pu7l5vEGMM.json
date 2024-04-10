@@ -1,12 +1,12 @@
 {
   "description": "what are we?",
-  "num_followers": 435440,
+  "num_followers": 435937,
   "original_name": "situationship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDRkNmQ0OGY1OTJiODg5NmNkMGJhMThjZDg0YzU4Mjg1YmFiZjNh",
+  "snapshot_id": "MCw3MzhiZDhjMmMyNWVhMzc1ZjhjZDRlMWFkNzhkNTJiYjQ0ZjU3ODYy",
   "tracks": [
     {
       "added_at": "2024-03-20 05:05:22",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-20 05:05:22",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Love Yourself",
-      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
-    },
-    {
-      "added_at": "2024-03-20 05:05:22",
-      "album": {
         "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 192789,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
+    },
+    {
+      "added_at": "2024-03-20 05:05:22",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     },
     {
       "added_at": "2024-03-20 05:05:22",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-03-20 05:05:22",
       "album": {
+        "name": "Pineapple Sunrise",
+        "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"
+    },
+    {
+      "added_at": "2024-03-20 05:05:22",
+      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 213400,
       "name": "LOVE. FEAT. ZACARI.",
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
-    },
-    {
-      "added_at": "2024-03-20 05:05:22",
-      "album": {
-        "name": "Pineapple Sunrise",
-        "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"
     },
     {
       "added_at": "2024-03-20 05:05:22",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-20 05:05:22",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
-    },
-    {
-      "added_at": "2024-03-20 05:05:22",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2024-03-20 05:05:22",
       "album": {
-        "name": "to hell with it",
-        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 98544,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2024-03-20 05:05:22",
+      "album": {
+        "name": "in all of my lonely nights",
+        "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
     },
     {
       "added_at": "2024-03-20 05:05:22",

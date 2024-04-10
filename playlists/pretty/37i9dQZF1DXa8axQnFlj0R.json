@@ -1,12 +1,12 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 82817,
+  "num_followers": 82804,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDM2ODMxMzExYzU2MWQ3YzlhZWZhM2NjNmJiMGE4MWM2NWM0M2Q4",
+  "snapshot_id": "MCw1YzZhOTU3YTk2ZmRiOWE0MTI0YTYyN2RjMzY4ZmM0OWVlZWVkOTM5",
   "tracks": [
     {
       "added_at": "2023-12-01 16:37:09",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Z-Sides",
-        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Lights Are On",
-      "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Z-Sides",
+        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Lights Are On",
+      "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Idle Mind",
-        "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
-      },
-      "artists": [
-        {
-          "name": "Anna Mieke",
-          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
-        }
-      ],
-      "duration_ms": 295265,
-      "name": "Warped Window",
-      "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 182240,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Idle Mind",
+        "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
+      },
+      "artists": [
+        {
+          "name": "Anna Mieke",
+          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
+        }
+      ],
+      "duration_ms": 295265,
+      "name": "Warped Window",
+      "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 173429,
-      "name": "Timshel",
-      "url": "https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Home Tapes",
         "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 219880,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 173429,
+      "name": "Timshel",
+      "url": "https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 225017,
       "name": "Warm Foothills",
       "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Call Me A Dreamer",
-        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 228798,
-      "name": "Call Me A Dreamer",
-      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "The Old Parade",
         "url": "https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq"
       },
@@ -1563,22 +1547,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Vanilla (Stairwell Version)",
-        "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 246070,
-      "name": "Vanilla (Stairwell Version)",
-      "url": "https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW"
       },
@@ -1591,6 +1559,38 @@
       "duration_ms": 143966,
       "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Call Me A Dreamer",
+        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 228798,
+      "name": "Call Me A Dreamer",
+      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Vanilla (Stairwell Version)",
+        "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 246070,
+      "name": "Vanilla (Stairwell Version)",
+      "url": "https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw"
     },
     {
       "added_at": "2023-12-01 16:37:09",

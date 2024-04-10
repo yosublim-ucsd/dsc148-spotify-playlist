@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3711211,
+  "num_followers": 3711438,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDY2Nzg5ODA2OWM5NDhjYzYwNDlkMTMwMzFlMzc2ZTI4MmUzNjQ5",
+  "snapshot_id": "MCxiNWZiNDBhZWUwZmIxZGIxMTg1OGE1NjBlMDE5OWRhMGI5N2E3OGRh",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 220383,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Loving Blind",
         "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 216926,
       "name": "Loving Blind",
       "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
-        }
-      ],
-      "duration_ms": 220383,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "snowfall",
         "url": "https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK"
       },
@@ -1127,18 +1107,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         }
       ],
-      "duration_ms": 191557,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 172454,
       "name": "Why Does My Heart",
       "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 191557,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "The Chase (Edit)",
-        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "The Chase (Edit)",
-      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 176341,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Chase (Edit)",
+        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "The Chase (Edit)",
+      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Manzanita",
+        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 164433,
+      "name": "Manzanita",
+      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Beautiful Life (Madism Remix)",
         "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Manzanita",
-        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
         }
       ],
-      "duration_ms": 164433,
-      "name": "Manzanita",
-      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
+      "duration_ms": 216000,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1371,22 +1387,6 @@
       "duration_ms": 627096,
       "name": "Woman",
       "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Rave",
-        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 288387,
-      "name": "Rave",
-      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Lost In The Melody",
         "url": "https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 224140,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 230074,
       "name": "Brave",
       "url": "https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "It's Ok It's Alright",
-        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "It's Ok It's Alright",
-      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1559,18 +1543,34 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
       },
       "artists": [
         {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 224140,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
+      "duration_ms": 288387,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Friday Lake",
-        "url": "https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Friday Lake",
-      "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Waiting For The Sun",
         "url": "https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 222278,
       "name": "Waiting For The Sun",
       "url": "https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Friday Lake",
+        "url": "https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Friday Lake",
+      "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "iwaly",
+        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "iwaly",
+      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO"
       },
@@ -1919,26 +1935,6 @@
       "duration_ms": 195840,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/52aTqJfaWWLIHSC3bCyjoU"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK"
-      },
-      "artists": [
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 341409,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV"
     }
   ],
   "unique_name": "Chill Tracks",

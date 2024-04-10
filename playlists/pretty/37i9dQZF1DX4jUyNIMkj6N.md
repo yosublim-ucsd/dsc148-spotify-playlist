@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,973 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,998 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,20 +53,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 43 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
 | 44 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ) | 3:51 |
 | 45 | [For Someone](https://open.spotify.com/track/4u42LckHYKddjPpUySqHnJ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Can Summer Love Last Forever?](https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3) | 4:43 |
-| 46 | [Both Sides Now](https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities 2](https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH) | 3:52 |
-| 47 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
-| 48 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
-| 49 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 |
+| 46 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 |
+| 47 | [Both Sides Now](https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities 2](https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH) | 3:52 |
+| 48 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
+| 49 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
 | 50 | [Meet Me In The Forest](https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Songs From The Woods](https://open.spotify.com/album/3ijVpnglTn2BBI6DTDcHRV) | 6:06 |
 | 51 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
-| 52 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
-| 53 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
-| 54 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
-| 55 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
+| 52 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
+| 53 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
+| 54 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
+| 55 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
 | 56 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
 | 57 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
 | 58 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
-| 59 | [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 |
-| 60 | [Slowly](https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID) | [Red Langur](https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9) | [Slowly](https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa) | 2:52 |
+| 59 | [Slowly](https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID) | [Red Langur](https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9) | [Slowly](https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa) | 2:52 |
+| 60 | [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 |
 
-Snapshot ID: `MCw3MjI0ZTY1OTM0NTM3ZjQ2ODQ0ZGUzZDU2ZGJhOTIyNGExZWUyY2Vi`
+Snapshot ID: `MCw2ZTVjNDAzYTkwODNlZGIyNWYzYzY4OGFjOGQ1NmVhNmQ1NjBmZDBj`

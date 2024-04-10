@@ -4,7 +4,7 @@
 
 > This is yama\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 41 min
+61 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [寝れない夜に](https://open.spotify.com/track/2CuTFXDSN9xke0mS2ezywb) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [寝れない夜にカーテンをあけて](https://open.spotify.com/album/4b7w62nMDJVeJs9AgffFgB) | 5:20 | 2023-12-26 |  |
 | [希望論](https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:34 | 2023-12-26 |  |
 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 | 2023-12-26 |  |
-| [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 | 2023-12-26 |  |
+| [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 | 2023-12-26 | 2024-04-10 |
+| [憧れのままに](https://open.spotify.com/track/6cRZpoOfi9kBOTFxeN8X3t) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:25 | 2024-04-10 |  |
 | [新星](https://open.spotify.com/track/4dwRjaD0ttkelpv5eoE6RT) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:16 | 2023-12-26 |  |
 | [新星 \-acoustic live tour 2023 「夜と閃き」\-](https://open.spotify.com/track/6yQNFgWLYrFrcel0V7FDTo) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [acoustic live tour 2023 「夜と閃き」（2023.5.12 ＠GORILLA HALL OSAKA）](https://open.spotify.com/album/1DESIUqjMts9kv44GjDUH3) | 3:55 | 2024-02-13 | 2024-04-09 |
 | [日々](https://open.spotify.com/track/6jyICrPc6z8U3boQyQdPoE) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:21 | 2024-01-31 |  |

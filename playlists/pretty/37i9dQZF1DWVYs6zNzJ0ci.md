@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Nonpalidece
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,941 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,035 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 56 | [Caminando](https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc) | [Ganja](https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt) | [Reggae Mexicano](https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4) | 4:21 |
 | 57 | [Mi Guitarra Enamorada](https://open.spotify.com/track/3P4tO3w6UnIiJy07b1RXCY) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Cumbiana II](https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6) | 3:53 |
 | 58 | [Reggae Para Los Amigos](https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:56 |
-| 59 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
-| 60 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
+| 59 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
+| 60 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
 | 61 | [A Tu Manera \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [A Tu Manera \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe) | 3:10 |
 | 62 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
 | 63 | [Fuiste Cruel](https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo) | 4:57 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 83 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 |
 | 84 | [Keep The Fyah Burning](https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Brinsley Forde](https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8), [Flabba Holt](https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl) | [Keep The Fyah Burning](https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm) | 4:16 |
 | 85 | [CAHUITA](https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [CAHUITA](https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ) | 3:35 |
-| 86 | [Emocionado](https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Emocionado](https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b) | 3:24 |
-| 87 | [La Mía](https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:46 |
+| 86 | [La Mía](https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:46 |
+| 87 | [Emocionado](https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Emocionado](https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b) | 3:24 |
 | 88 | [Zendaya](https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Zendaya](https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x) | 2:18 |
 | 89 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 |
 | 90 | [Por Cultivar Marihuana](https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu) | 5:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Destroy The Empire](https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:24 |
 | 100 | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E) | 3:51 |
 
-Snapshot ID: `MCxlY2ZlYTM1NDYzMjkzNmM1ZDFjN2VhMDI3ODk1OWMyYmE1YTc2MTkw`
+Snapshot ID: `MCw4ZjZmZjU4ZTA1NGZhYzA5ZTQ2YzlhZjVkMWI4ODg1NDBkODc2N2Jj`

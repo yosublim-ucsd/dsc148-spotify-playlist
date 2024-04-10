@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,289 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,295 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [ミラーボール](https://open.spotify.com/track/7ajVoJN5JppRkIddIhcadj) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [ミラーボール](https://open.spotify.com/album/4ehPBY0xpIWEZRjptHYN6q) | 4:19 |
 | 40 | [我愛你](https://open.spotify.com/track/2xAeOLHRYvrXNxgwU3s3xb) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [我愛你](https://open.spotify.com/album/4YPoqvQZQUdZPFNPhXnvrF) | 3:13 |
 
-Snapshot ID: `MCw3MWIzYTI5MzU0ZjQwZDM2MWNjN2ZiOTZkYjZlNjQzMzQ0YzM0M2M1`
+Snapshot ID: `MCwyN2Q5MDdhODkwMTZlZjk4YWY0Njc5Nzc0ZTg3ZTE5Njg2ZDE2ODQw`

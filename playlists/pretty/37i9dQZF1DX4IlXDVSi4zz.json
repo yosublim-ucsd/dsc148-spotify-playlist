@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 802471,
+  "num_followers": 802662,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjUxYmI2YjEzYWEyZTkwNmE3MjNmMjA2ODM1ZDBmOTQ2MTAzY2U1",
+  "snapshot_id": "MCxkY2RhOGE4NTZhMzFmOTcwYzkxMGJmMjM3OTFkZmEwZDAxODNhNDNk",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -987,18 +987,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 140735,
-      "name": "HOUSE OF LUX",
-      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Tell It To My Heart",
-        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 165524,
-      "name": "Tell It To My Heart",
-      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+      "duration_ms": 140735,
+      "name": "HOUSE OF LUX",
+      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "I Will Find",
-        "url": "https://open.spotify.com/album/1Lb2OTMflllFCVVSBH9G9O"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "I Will Find",
-      "url": "https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Where The Lights Are Low",
         "url": "https://open.spotify.com/album/5ymCqifRmYTEyN4dlZf7Vq"
       },
@@ -1179,6 +1159,26 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "I Will Find",
+        "url": "https://open.spotify.com/album/1Lb2OTMflllFCVVSBH9G9O"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "I Will Find",
+      "url": "https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 169302,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 174524,
       "name": "Lady Love",
       "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Famax",
-        "url": "https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI"
-      },
-      "artists": [
-        {
-          "name": "RAFFA GUIDO",
-          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
-        }
-      ],
-      "duration_ms": 335194,
-      "name": "Famax",
-      "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ"
       },
@@ -1295,42 +1311,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Love Again (feat. Alida)",
         "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 147401,
       "name": "Love Again (feat. Alida)",
       "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Pressure (feat. Tove Lo)",
         "url": "https://open.spotify.com/album/5s55A56E4N7390TTEUzwKN"
       },
@@ -1431,18 +1447,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+        "name": "We Love The Sun (Edit)",
+        "url": "https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Jo.Ke",
+          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
         }
       ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
+      "duration_ms": 256995,
+      "name": "Who Loves The Sun feat. Jo.Ke - Edit",
+      "url": "https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1463,26 +1483,6 @@
       "duration_ms": 329537,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/68Q6c22JNyLUlZYX4dE2tn"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "We Love The Sun (Edit)",
-        "url": "https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Jo.Ke",
-          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
-        }
-      ],
-      "duration_ms": 256995,
-      "name": "Who Loves The Sun feat. Jo.Ke - Edit",
-      "url": "https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW"
     },
     {
       "added_at": "2024-03-08 05:01:00",

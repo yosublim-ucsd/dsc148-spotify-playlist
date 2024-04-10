@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 249439,
+  "num_followers": 249565,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTI4YTJiYjE1YjUxYmQ4ZTg2OWI1M2MwNDNjZmZiYTc3OTczZGE3",
+  "snapshot_id": "MCwzZDZhZWQxMDJjNjI1YzU0OTI3MjBkZDVhNzQ4N2I1MTdjYjdmNGI0",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 139560,
       "name": "Help! - Remastered 2009",
       "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -479,6 +479,38 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Ring Of Fire: The Best Of Johnny Cash",
+        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 146720,
+      "name": "I Want To Hold Your Hand - Remastered 2009",
+      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -511,22 +543,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Ring Of Fire: The Best Of Johnny Cash",
-        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 119880,
       "name": "Hit the Road Jack",
       "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Beatles 1962 - 1966 (Remastered)",
-        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 146720,
-      "name": "I Want To Hold Your Hand - Remastered 2009",
-      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -603,6 +603,22 @@
       "duration_ms": 125826,
       "name": "Do You Believe in Magic?",
       "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 127853,
+      "name": "All My Loving - Remastered 2009",
+      "url": "https://open.spotify.com/track/4joiWvli4qJVEW6qZV2i2J"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -655,22 +671,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -687,18 +687,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "With The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 127853,
-      "name": "All My Loving - Remastered 2009",
-      "url": "https://open.spotify.com/track/4joiWvli4qJVEW6qZV2i2J"
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "New Gold Hits",
-        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "These Boots Are Made for Walkin'",
-      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/79v0WaGkCOQCa2qIxb5DUN"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 174760,
       "name": "Friday On My Mind",
       "url": "https://open.spotify.com/track/3Jw1RfDEUEBBIIyNjGt9xP"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "These Boots Are Made for Walkin'",
+      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion",
+      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Seekers",
         "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+        "name": "Gimme Some Loving / Blues In F",
+        "url": "https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion",
-      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+      "duration_ms": 178840,
+      "name": "Gimme Some Lovin' - Single Mix",
+      "url": "https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1623,18 +1639,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Gimme Some Loving / Blues In F",
-        "url": "https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0"
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
       "artists": [
         {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Gimme Some Lovin' - Single Mix",
-      "url": "https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo"
+      "duration_ms": 174640,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1687,38 +1703,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Country Side Of Esther",
-        "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
-      },
-      "artists": [
-        {
-          "name": "Esther Phillips",
-          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/0x4ijFipSxDfNEge0bpkk1"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Elvis 30 #1 Hits (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 168240,
       "name": "Help Me, Rhonda - Single Version/Remastered 2001",
       "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Country Side Of Esther",
+        "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
+      },
+      "artists": [
+        {
+          "name": "Esther Phillips",
+          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/0x4ijFipSxDfNEge0bpkk1"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Johnny Burnette's Hits And Other Favorites",
-        "url": "https://open.spotify.com/album/1AOL5ae6xRGUAvcTGUGPxs"
-      },
-      "artists": [
-        {
-          "name": "Johnny Burnette",
-          "url": "https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl"
-        }
-      ],
-      "duration_ms": 119026,
-      "name": "You're Sixteen, You're Beautiful (And You're Mine)",
-      "url": "https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 175893,
       "name": "Carrie Anne",
       "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Johnny Burnette's Hits And Other Favorites",
+        "url": "https://open.spotify.com/album/1AOL5ae6xRGUAvcTGUGPxs"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burnette",
+          "url": "https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl"
+        }
+      ],
+      "duration_ms": 119026,
+      "name": "You're Sixteen, You're Beautiful (And You're Mine)",
+      "url": "https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Things & Other Things",
-        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "Things",
-      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Spencer Davis Group",
         "url": "https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 171826,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/1oXq63OUf43LDnNPVtfvX8"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Things & Other Things",
+        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/5jsxE1nDuRrEgN9gmbWWYS"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "#1 Hits Of The 60's",
         "url": "https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 147080,
       "name": "Runaway (Rerecorded)",
       "url": "https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/5jsxE1nDuRrEgN9gmbWWYS"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2269,22 +2269,6 @@
       "url": "https://open.spotify.com/track/4ydSzWwxqtNdP4VPfQe8bf"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "A Hard Day's Night - Remastered 2009",
-      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Please Please Me (Remastered)",
@@ -2299,6 +2283,22 @@
       "duration_ms": 173946,
       "name": "I Saw Her Standing There - Remastered 2009",
       "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered 2009",
+      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
     },
     {
       "added_at": "2022-06-16 22:02:00",

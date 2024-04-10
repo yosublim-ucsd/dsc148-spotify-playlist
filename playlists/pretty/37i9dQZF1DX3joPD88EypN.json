@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 39423,
+  "num_followers": 39452,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWI3OTY5ODYzNGFiYjU2OWUxYTExOGVjMWQ3OTk3MTY2MTFlOGM3",
+  "snapshot_id": "MCxmZGIxNGU2NzkzZDM1ZTFiMTFmYTkxYmRiOTFiNDI1ZDI0MzZhN2Fj",
   "tracks": [
     {
       "added_at": "2024-03-20 14:54:30",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "V\u00e5g",
-        "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
-      },
-      "artists": [
-        {
-          "name": "Geir Sundst\u00f8l",
-          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
-        }
-      ],
-      "duration_ms": 311450,
-      "name": "V\u00e5g",
-      "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Stitches",
         "url": "https://open.spotify.com/album/4L0UZCIP3EPOnvUs2xa5hF"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 222762,
       "name": "Honey in Your Head",
       "url": "https://open.spotify.com/track/0IHTPYEnrSXADbi3XYDNfB"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "V\u00e5g",
+        "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
+      },
+      "artists": [
+        {
+          "name": "Geir Sundst\u00f8l",
+          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
+        }
+      ],
+      "duration_ms": 311450,
+      "name": "V\u00e5g",
+      "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "roads",
         "url": "https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 286213,
       "name": "roads",
       "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
-      },
-      "artists": [
-        {
-          "name": "Ketil Bj\u00f8rnstad",
-          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 367120,
-      "name": "Remembrance VI",
-      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1231,6 +1207,30 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
+      },
+      "artists": [
+        {
+          "name": "Ketil Bj\u00f8rnstad",
+          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "duration_ms": 367120,
+      "name": "Remembrance VI",
+      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "We Seem to Be Drifting Apart",
+        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Richter Sonntag",
+      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Perfectly Unhappy",
         "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "We Seem to Be Drifting Apart",
-        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
-      },
-      "artists": [
-        {
-          "name": "Nils Berg Cinemascope",
-          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Richter Sonntag",
-      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "How Could It Be?",
         "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 285773,
       "name": "How Could It Be?",
       "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1403,22 +1419,6 @@
       "duration_ms": 415186,
       "name": "The Lugubrious Youth Of Lucky Luke",
       "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Salmesykkel",
-        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
-      },
-      "artists": [
-        {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
-        }
-      ],
-      "duration_ms": 169639,
-      "name": "Bibelbeltet",
-      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 335320,
       "name": "Rossetti",
       "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Salmesykkel",
+        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
+      },
+      "artists": [
+        {
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+        }
+      ],
+      "duration_ms": 169639,
+      "name": "Bibelbeltet",
+      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1727,6 +1727,30 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Going with the Flow",
+        "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
+      },
+      "artists": [
+        {
+          "name": "Olga Konkova",
+          "url": "https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS"
+        },
+        {
+          "name": "Carl Morten Iversen",
+          "url": "https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        }
+      ],
+      "duration_ms": 531252,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Both Only",
         "url": "https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA"
       },
@@ -1755,30 +1779,6 @@
       "duration_ms": 373899,
       "name": "Langsam",
       "url": "https://open.spotify.com/track/7pRPBoo6BpZ8hXZd41tjAg"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Going with the Flow",
-        "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
-      },
-      "artists": [
-        {
-          "name": "Olga Konkova",
-          "url": "https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS"
-        },
-        {
-          "name": "Carl Morten Iversen",
-          "url": "https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        }
-      ],
-      "duration_ms": 531252,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1931,18 +1931,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Asthma Breath",
-        "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
+        "name": "Jan Garbarek: Works",
+        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
       },
       "artists": [
         {
-          "name": "Jesper Thorn",
-          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Bobo Stenson Quartet",
+          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
         }
       ],
-      "duration_ms": 196868,
-      "name": "Asthma Breath",
-      "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
+      "duration_ms": 299333,
+      "name": "Svevende",
+      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
     }
   ],
   "unique_name": "Nordic Jazz",

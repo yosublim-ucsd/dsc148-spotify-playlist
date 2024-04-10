@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
-  "num_followers": 325941,
+  "num_followers": 325999,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDRjZjE1MzVkMjQ0ZGFkMDU1NWQzYTBjZmE2MTI2YWY3YWY1MDZk",
+  "snapshot_id": "MCw0OGFhYjEzNjQzZjAwN2I3NTYyNWU1MzI2ZjQxNDQ4MzNlMmJkMDU2",
   "tracks": [
     {
       "added_at": "2024-04-05 05:03:13",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2024-04-05 05:03:13",
       "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
+    },
+    {
+      "added_at": "2024-04-05 05:03:13",
+      "album": {
         "name": "DOMINATION",
         "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
-    },
-    {
-      "added_at": "2024-04-05 05:03:13",
-      "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
     },
     {
       "added_at": "2024-04-05 05:03:13",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2024-04-05 05:03:13",
       "album": {
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+    },
+    {
+      "added_at": "2024-04-05 05:03:13",
+      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 211013,
       "name": "Buried Beneath You",
       "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
-    },
-    {
-      "added_at": "2024-04-05 05:03:13",
-      "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
     },
     {
       "added_at": "2024-04-05 05:03:13",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2024-04-05 05:03:13",
       "album": {
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+    },
+    {
+      "added_at": "2024-04-05 05:03:13",
+      "album": {
         "name": "Miss Anthropocene (Rave Edition)",
         "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 195300,
       "name": "Violence - REZZ Remix",
       "url": "https://open.spotify.com/track/2khrbeiEg5R6jZwbJzR5OL"
-    },
-    {
-      "added_at": "2024-04-05 05:03:13",
-      "album": {
-        "name": "Echo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 185039,
-      "name": "Obsolete - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
     },
     {
       "added_at": "2024-04-05 05:03:13",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-04-05 05:03:13",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
-    },
-    {
-      "added_at": "2024-04-05 05:03:13",
-      "album": {
         "name": "IT'S NOT A PHASE",
         "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 192013,
       "name": "Dreamstate",
       "url": "https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy"
+    },
+    {
+      "added_at": "2024-04-05 05:03:13",
+      "album": {
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2024-04-05 05:03:13",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2024-04-05 05:03:13",
       "album": {
+        "name": "Timebomb (feat. MOD SUN)",
+        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Timebomb (feat. MOD SUN)",
+      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
+    },
+    {
+      "added_at": "2024-04-05 05:03:13",
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
@@ -1639,26 +1659,6 @@
       "duration_ms": 246400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
-    },
-    {
-      "added_at": "2024-04-05 05:03:13",
-      "album": {
-        "name": "Timebomb (feat. MOD SUN)",
-        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Timebomb (feat. MOD SUN)",
-      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
     },
     {
       "added_at": "2024-04-05 05:03:13",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2024-04-05 05:03:13",
       "album": {
+        "name": "This Will Be My Year",
+        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "This Will Be My Year",
+      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
+    },
+    {
+      "added_at": "2024-04-05 05:03:13",
+      "album": {
         "name": "Church Outfit",
         "url": "https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH"
       },
@@ -1823,26 +1843,6 @@
       "duration_ms": 204705,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
-    },
-    {
-      "added_at": "2024-04-05 05:03:13",
-      "album": {
-        "name": "This Will Be My Year",
-        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "This Will Be My Year",
-      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
     },
     {
       "added_at": "2024-04-05 05:03:13",
@@ -2215,22 +2215,26 @@
     {
       "added_at": "2024-04-05 05:03:13",
       "album": {
-        "name": "LOUD",
-        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
+        "name": "Done Better",
+        "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
       "artists": [
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
         },
         {
-          "name": "Jason Aalon Butler",
-          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
         }
       ],
-      "duration_ms": 208000,
-      "name": "LOUD (feat. Jason Aalon from FEVER 333)",
-      "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
+      "duration_ms": 170583,
+      "name": "Done Better",
+      "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
     },
     {
       "added_at": "2024-04-05 05:03:13",
@@ -2255,6 +2259,26 @@
     {
       "added_at": "2024-04-05 05:03:13",
       "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Jason Aalon Butler",
+          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "LOUD (feat. Jason Aalon from FEVER 333)",
+      "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
+    },
+    {
+      "added_at": "2024-04-05 05:03:13",
+      "album": {
         "name": "F\u00d8\u00d8L (INHUMAN Remix)",
         "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
@@ -2271,30 +2295,6 @@
       "duration_ms": 188730,
       "name": "F\u00d8\u00d8L - INHUMAN Remix",
       "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
-    },
-    {
-      "added_at": "2024-04-05 05:03:13",
-      "album": {
-        "name": "Done Better",
-        "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
-      },
-      "artists": [
-        {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
-        },
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 170583,
-      "name": "Done Better",
-      "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
     },
     {
       "added_at": "2024-04-05 05:03:13",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2024-04-05 05:03:13",
       "album": {
+        "name": "I WANT BLOOD / i want love",
+        "url": "https://open.spotify.com/album/4z172SKyhMOorillZtbIIZ"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "BURNING RUBBER",
+      "url": "https://open.spotify.com/track/2zhW4Hb4JuQugffpsuVwKz"
+    },
+    {
+      "added_at": "2024-04-05 05:03:13",
+      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 139925,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
-    },
-    {
-      "added_at": "2024-04-05 05:03:13",
-      "album": {
-        "name": "I WANT BLOOD / i want love",
-        "url": "https://open.spotify.com/album/4z172SKyhMOorillZtbIIZ"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "BURNING RUBBER",
-      "url": "https://open.spotify.com/track/2zhW4Hb4JuQugffpsuVwKz"
     },
     {
       "added_at": "2024-04-05 05:03:13",
@@ -2451,26 +2451,6 @@
     {
       "added_at": "2024-04-05 05:03:13",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 284137,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
-    },
-    {
-      "added_at": "2024-04-05 05:03:13",
-      "album": {
         "name": "Core (That's Who We Are)",
         "url": "https://open.spotify.com/album/1NOroK7CIZ5CocdGBya87u"
       },
@@ -2487,6 +2467,26 @@
       "duration_ms": 178909,
       "name": "Core (That's Who We Are)",
       "url": "https://open.spotify.com/track/2msXxN1Ta2UiDq7orsqvKc"
+    },
+    {
+      "added_at": "2024-04-05 05:03:13",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 284137,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
     },
     {
       "added_at": "2024-04-05 05:03:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: blesse
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,412 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,418 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 15 | [Mourir Demain](https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mourir Demain](https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw) | 3:27 |
 | 16 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 |
 | 17 | [America](https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 2:29 |
-| 18 | [La valse des trottoirs](https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages](https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp) | 2:37 |
-| 19 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 |
+| 18 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 |
+| 19 | [La valse des trottoirs](https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages](https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp) | 2:37 |
 | 20 | [J'espère encore que quelque part l'attente s'arrête](https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 1:48 |
 | 21 | [Cantalou](https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:31 |
 | 22 | [‎cherry ‎stems](https://open.spotify.com/track/1NVzCmOxAhi1OER5yRjMRy) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [mile ‎end \(kiss ur friends\)](https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ) | 2:22 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 41 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 |
 | 42 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
 | 43 | [Ton hôtel](https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 2:25 |
-| 44 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 |
-| 45 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
+| 44 | [Witness Protection](https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Witness](https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl) | 4:09 |
+| 45 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 |
 | 46 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 |
-| 47 | [Witness Protection](https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Witness](https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl) | 4:09 |
-| 48 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |
-| 49 | [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 |
+| 47 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
+| 48 | [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 |
+| 49 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |
 | 50 | [Comfort, Edge](https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:43 |
 | 51 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 |
 | 52 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 65 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 |
 | 66 | [Femme\-Lady](https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le soleil et la mer](https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s) | 3:33 |
 | 67 | [INDIGESTE](https://open.spotify.com/track/3ZDi3WHqcMnKmzkURhullh) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [INDIGESTE](https://open.spotify.com/album/2M6g0osfsD5esMvkZUX5JX) | 4:19 |
-| 68 | [Tracer des lignes](https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Tracer des lignes](https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v) | 3:09 |
-| 69 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 |
+| 68 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 |
+| 69 | [Tracer des lignes](https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Tracer des lignes](https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v) | 3:09 |
 | 70 | [Mélamine](https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 2:50 |
 | 71 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 |
 | 72 | [DVTR](https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [DVTR](https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW) | 2:16 |
-| 73 | [Ce qu'on aura](https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Ce qu'on aura](https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl) | 3:56 |
-| 74 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 |
+| 73 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 |
+| 74 | [Ce qu'on aura](https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Ce qu'on aura](https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl) | 3:56 |
 | 75 | [Sweet montérégie](https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3) | 3:49 |
 
-Snapshot ID: `MCw3NGViNTgwMTIwMTY0MDNmM2ZlYmI4YzQ1YWZiNjA3YzdmYzg1M2Ey`
+Snapshot ID: `MCwzZGRjNTNiZThjZTAwMzljOGY1OWIwNmY1OTg5YTA2NGVlN2Y3OTQ1`

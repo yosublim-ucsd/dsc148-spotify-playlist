@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,017 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,019 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 67 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
 | 68 | [Dirty Money](https://open.spotify.com/track/0beUa4YmnC5oMtWqzoeNYt) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Dirty Money](https://open.spotify.com/album/04Och1XUiZ5tcwFRcTwAx5) | 4:13 |
 | 69 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
-| 70 | [How Could You](https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Six Miles Riddim](https://open.spotify.com/album/26F2DJwryT3drRoc3EVuby) | 3:47 |
+| 70 | [Zulu Gang](https://open.spotify.com/track/1wNRSCOeKbLJrmYAmJqx0O) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Blame It On The Youts](https://open.spotify.com/album/5SV7FBn5PvryAIPZ4iPblN) | 2:46 |
 
-Snapshot ID: `MCw0MTRmNGJmZjJjMzc1ZTY4MDJmYTNkM2YzNmU1MTFhODViNzk0OWRj`
+Snapshot ID: `MCwwNjRkYjhjYTgzOGQ3MGU2YzMwNTI0NmQ3NzUxNDg1MjI4OTliNjU5`

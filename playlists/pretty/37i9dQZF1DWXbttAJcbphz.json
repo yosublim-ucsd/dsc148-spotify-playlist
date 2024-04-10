@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the '10s. Cover: Solange",
-  "num_followers": 1675779,
+  "num_followers": 1676068,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjUwZDVlMWRhZThlMWQ5N2ZiODYwMWVkN2UyZWY0ZTFiMzA2Y2Q5",
+  "snapshot_id": "MCw2OGZmYzI5MTY3MDJmZTA0ZGE3ODI1ZDhkOGZiNjgxYzhjY2ZiNmJi",
   "tracks": [
     {
       "added_at": "2024-02-29 21:00:00",
@@ -131,26 +131,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
       "added_at": "2024-02-29 21:00:00",
@@ -249,26 +249,6 @@
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "ANTI (Deluxe)",
@@ -335,6 +315,26 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "\"Awaken, My Love!\"",
         "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
       },
@@ -397,6 +397,38 @@
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "C U Girl",
+        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 129697,
+      "name": "C U Girl",
+      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
       "added_at": "2022-08-21 23:21:50",
       "album": {
         "name": "Lady Lady",
@@ -415,22 +447,6 @@
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "C U Girl",
-        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 129697,
-      "name": "C U Girl",
-      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -463,22 +479,6 @@
       "duration_ms": 225983,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "The Lo-Fis",
+        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 178328,
+      "name": "Infrunami",
+      "url": "https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp"
+    },
+    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Ctrl",
@@ -535,22 +551,6 @@
       "duration_ms": 275080,
       "name": "Love Galore (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 158420,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "The Lo-Fis",
-        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 178328,
-      "name": "Infrunami",
-      "url": "https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "T R A P S O U L",
@@ -619,6 +603,22 @@
       "duration_ms": 249320,
       "name": "Right My Wrongs",
       "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 158420,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
     },
     {
-      "added_at": "2022-09-24 16:52:24",
-      "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Awkward",
-      "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "What You Heard",
@@ -687,6 +671,22 @@
       "duration_ms": 238242,
       "name": "What You Heard",
       "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
+    },
+    {
+      "added_at": "2022-09-24 16:52:24",
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -721,26 +721,6 @@
       "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 260640,
-      "name": "No Guidance (feat. Drake)",
-      "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Sail Out",
@@ -759,6 +739,26 @@
       "duration_ms": 382760,
       "name": "Stay Ready (What A Life)",
       "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 260640,
+      "name": "No Guidance (feat. Drake)",
+      "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1493,6 +1493,22 @@
       "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
     },
     {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 197854,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
+    },
+    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Volume 1",
@@ -1509,20 +1525,20 @@
       "url": "https://open.spotify.com/track/4K5d58UkmjqNsA7kY43jgt"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Trigga Reloaded",
-        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
       },
       "artists": [
         {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
         }
       ],
-      "duration_ms": 197854,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
+      "duration_ms": 187893,
+      "name": "John Redcorn",
+      "url": "https://open.spotify.com/track/3W2nknW1nTuuxUSyFCUCS8"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1547,22 +1563,6 @@
       "duration_ms": 276560,
       "name": "Deuces (feat. Tyga & Kevin McCall)",
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "John Redcorn",
-      "url": "https://open.spotify.com/track/3W2nknW1nTuuxUSyFCUCS8"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1643,38 +1643,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "November",
-        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "D'Evils",
-      "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "4275 (Bonus Version)",
         "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
       },
@@ -1687,6 +1655,22 @@
       "duration_ms": 217386,
       "name": "You",
       "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
     },
     {
       "added_at": "2022-08-21 23:21:50",
@@ -1707,22 +1691,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 256063,
-      "name": "Boo'd Up",
-      "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "H.E.R.",
         "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
@@ -1735,6 +1703,38 @@
       "duration_ms": 160173,
       "name": "Every Kind Of Way",
       "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "D'Evils",
+      "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 256063,
+      "name": "Boo'd Up",
+      "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
     },
     {
       "added_at": "2022-08-21 21:13:22",

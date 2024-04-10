@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,711 likes - 110 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,728 likes - 110 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [Who Doesn’t Wanna](https://open.spotify.com/track/3IkFdpysX1QSvdc46gbq7g) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [Love, Lord](https://open.spotify.com/album/2Z2Lv8Cl0QcTirhjo9IvDq) | 4:05 |
 | 110 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
 
-Snapshot ID: `MCxhM2Y2ZDE2MWIwM2U2MTljMjMzNzQwM2Y0MzE4YWQwYzA3OGYyZGE5`
+Snapshot ID: `MCxkOTFkODEyMDYzMDVkZTcwMTBjMDk3NTM4MGFkNGVhZGZhNjc4Yjhj`

@@ -1,7 +1,7 @@
 {
-  "2024-04-09": 11906,
+  "2024-04-10": 11903,
   "date_first_scraped": "2022-06-30",
-  "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
+  "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. NEU! on cover.",
   "name": "Krautrock",
   "tracks": [
     {
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 437250,
       "name": "Can't Get There",
       "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
@@ -2347,7 +2347,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 516666,
       "name": "I've Seen a U.F.O.",
       "url": "https://open.spotify.com/track/0RrXnG23LmlJNiYDFBy4Jq"

@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 227957,
       "name": "Bad Time for Loving",
       "url": "https://open.spotify.com/track/4YbM2h9tS3XtKZOLNy3gPj"
@@ -4809,6 +4809,24 @@
     },
     {
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/2D0GdNMz5bFn9aYM1YzLDE"
+      },
+      "artists": [
+        {
+          "name": "KYLE ZION",
+          "url": "https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167423,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk"
+    },
+    {
+      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/0iHU2P0uBhtUtAEbOE4wNv"
       },
@@ -7856,7 +7874,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 219428,
       "name": "Oliver's Garden",
       "url": "https://open.spotify.com/track/6M9tSXVU3XmVXACv7D1tnk"
@@ -11144,6 +11162,24 @@
       "duration_ms": 146818,
       "name": "THE TRUTH WITHIN",
       "url": "https://open.spotify.com/track/4EoBdt9knik0dVJGqSjUro"
+    },
+    {
+      "album": {
+        "name": "The Whale Song",
+        "url": "https://open.spotify.com/album/5Ebb9ayKPt4Lw7UO3w5WcW"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166748,
+      "name": "The Whale Song",
+      "url": "https://open.spotify.com/track/2Yzc8jxNWflSY0j1mehJUo"
     },
     {
       "album": {

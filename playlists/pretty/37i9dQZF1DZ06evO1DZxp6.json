@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 205433,
+  "num_followers": 205470,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmY1M2ZkZWZjNmZkZGEwMDNiMDAzYzdhNDczM2I1ZWM4Zjg5YTQ2",
+  "snapshot_id": "MCw0OTk2YTczNTdhNWM4ZGE2ZDExMWMxZjA2ZTI5NzQ2YmUxMzFkYjFj",
   "tracks": [
     {
       "added_at": null,
@@ -635,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+        "name": "Mar Dulce",
+        "url": "https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa"
       },
       "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 193866,
-      "name": "Oleada",
-      "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
+      "duration_ms": 218920,
+      "name": "Pa' Bailar (Siempre Quiero Mas)",
+      "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
     },
     {
       "added_at": null,
@@ -667,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar Dulce",
-        "url": "https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa"
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
       "artists": [
-        {
-          "name": "Bajofondo",
-          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
-        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Pa' Bailar (Siempre Quiero Mas)",
-      "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
+      "duration_ms": 193866,
+      "name": "Oleada",
+      "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suavecito",
+        "url": "https://open.spotify.com/album/6zghbTfY5LTp8XiiqXDOGz"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 183520,
+      "name": "Suavecito",
+      "url": "https://open.spotify.com/track/369rWMvwPJ1qm5GQ0ilNp2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dame Una Oportunidad",
         "url": "https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO"
       },
@@ -871,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Historia",
+        "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205228,
+      "name": "Tu Historia",
+      "url": "https://open.spotify.com/track/6iLYRz5jMXoLIqd5YE3uNh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -891,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Historia",
-        "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205228,
-      "name": "Tu Historia",
-      "url": "https://open.spotify.com/track/6iLYRz5jMXoLIqd5YE3uNh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Cosa",
         "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
       },
@@ -919,26 +935,6 @@
       "duration_ms": 158946,
       "name": "Debajo de Mi Lengua",
       "url": "https://open.spotify.com/track/6Pwr82B3aqLM850IH1oc1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 215579,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

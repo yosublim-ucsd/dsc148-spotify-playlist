@@ -2,9 +2,9 @@
 
 ### [Latin Frequency](https://open.spotify.com/playlist/37i9dQZF1DWU65QzegR429)
 
-> Latin music making waves and Cristina Martinez bringing the vibes with the first 5 songs\. Cover: Lismar
+> Latin music making waves\. Cover: Lismar
 
-205 songs - 10 hr 43 min
+206 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Taka Taka](https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Taka Taka](https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G) | 2:35 | 2023-02-10 | 2024-02-02 |
 | [Tattoo](https://open.spotify.com/track/3JOaWtqZIoilfjtcDe1Qzb) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Tattoo](https://open.spotify.com/album/0N8VLr0WiDxkexS9wLr6f0) | 2:18 | 2024-03-21 |  |
 | [Tempo](https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tempo](https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB) | 2:25 | 2023-02-10 |  |
+| [Tengo Un Plan](https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Tengo Un Plan](https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6) | 3:09 | 2024-04-09 |  |
 | [Thalía](https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Thalía](https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og) | 3:03 | 2024-03-18 |  |
 | [Tiempo Oscuro](https://open.spotify.com/track/3H1mtAmlQWoOkrr3uMBJtG) | [Kj](https://open.spotify.com/artist/110Vox9A4PtwwSAFhsQZ3d), [Tali Goya](https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq) | [Tiempo Oscuro](https://open.spotify.com/album/211sAaU51aaf53j0Si3adB) | 3:09 | 2022-02-18 | 2022-06-03 |
 | [Tik Tok](https://open.spotify.com/track/1IhD7wsDlyz6ya4qHm6Ry3) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh), [Kairo La Sinfonia](https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF) | [Tik Tok](https://open.spotify.com/album/13Prq5PrWckc6wtxEnXkja) | 2:36 | 2022-02-18 | 2022-06-03 |

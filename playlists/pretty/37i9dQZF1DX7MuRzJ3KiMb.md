@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,417 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,449 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 46 | [Tú, Mija](https://open.spotify.com/track/3iHKAaHygZybCLU2oDostS) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú, Mija](https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI) | 3:30 |
 | 47 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |
 | 48 | [Flecha](https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Flecha](https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V) | 3:53 |
-| 49 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
-| 50 | [De Verdad](https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [De Verdad](https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW) | 3:26 |
+| 49 | [De Verdad](https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [De Verdad](https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW) | 3:26 |
+| 50 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
 | 51 | [Quiero Verte Hoy](https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Quiero Verte Hoy](https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ) | 3:35 |
 | 52 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 |
 | 53 | [Chula](https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Chula](https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS) | 4:01 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 55 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
 | 56 | [Diez Pasos Hacia Ti \- En Vivo](https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Vivo Desde Tu Nostalgia](https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed) | 3:44 |
 | 57 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 |
-| 58 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
-| 59 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
+| 58 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
+| 59 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 60 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
 | 61 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
 | 62 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [Menos Tú Y Yo](https://open.spotify.com/track/43SNLAbMAeWEj5iV2WIrIm) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Menos Tú y Yo](https://open.spotify.com/album/0vXp6cX8hFR5EyonKAJFFx) | 3:08 |
 | 75 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 |
 
-Snapshot ID: `MCw3OWMwM2MzMDFjZWE2MzhkYWU5YTMyYTg5NWIwYjMzNWEwZjY1NDNi`
+Snapshot ID: `MCwyMGIyYTAwNTMxYTY1MzliNDAwY2I5ZGExYjM1YThhZTYwMjUyNzQ0`

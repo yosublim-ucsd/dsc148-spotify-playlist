@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12 likes - 78 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 78 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 56 | [Gramos ft\. Kris Floyd, Hozwal](https://open.spotify.com/track/40XfhnuIEzqvuluAEAL9xa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:46 |
 | 57 | [Cambumbeo](https://open.spotify.com/track/67yoTcCOwAROr45LtoPirZ) | [Jodosky](https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua) | [Cambumbeo](https://open.spotify.com/album/01G2aulEHyod28lfjovZ5C) | 3:40 |
 | 58 | [Prr](https://open.spotify.com/track/4xtSu3QIqKo8PMCITx7FUH) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [BAILA CONMIGO](https://open.spotify.com/album/3igeUJIn0CWSRt9ftMPlOk) | 2:16 |
-| 59 | [ICE $PICE](https://open.spotify.com/track/6pvPwEQFRzI80KSfkoHf1N) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [ICE $PICE](https://open.spotify.com/album/3tSfq0f6nFZSrxucpa9XJ8) | 2:43 |
-| 60 | [pinot grigio](https://open.spotify.com/track/5VXYli2kYvZ4RbKi1Udgpc) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:07 |
+| 59 | [pinot grigio](https://open.spotify.com/track/5VXYli2kYvZ4RbKi1Udgpc) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:07 |
+| 60 | [ICE $PICE](https://open.spotify.com/track/6pvPwEQFRzI80KSfkoHf1N) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [ICE $PICE](https://open.spotify.com/album/3tSfq0f6nFZSrxucpa9XJ8) | 2:43 |
 | 61 | [Si Me Quieres](https://open.spotify.com/track/2McIdzQW0Rd79yjhbvHwl9) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [RITMO GLOBAL](https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO) | 2:02 |
 | 62 | [Baby Bye Bye](https://open.spotify.com/track/4V8UCn4kU3dBGqQRz2Lu91) | [Kablito](https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm) | [Baby Bye Bye](https://open.spotify.com/album/4lTbFebL5FTPCyjOwFE9d0) | 2:33 |
 | 63 | [HYPE](https://open.spotify.com/track/2r7Sq6fcnICSiGHw5RJkro) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 77 | [Parece Falso](https://open.spotify.com/track/2OwcfT3oWowyhLKRaBdt59) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Parece Falso](https://open.spotify.com/album/1nRYqTPXNyJtjMeEeMR0J0) | 3:11 |
 | 78 | [BALLIN'](https://open.spotify.com/track/3c6B6MZyACJ20C1VUdU8lU) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:17 |
 
-Snapshot ID: `Mjg1NDM4MDAsMDAwMDAwMDA1ZjY5ODNiODk3MmVmOGJmMGJhMWYwMTE0ZTRlYjVmYQ==`
+Snapshot ID: `Mjg1NDUyNDAsMDAwMDAwMDBhMDkwZDFkMjZjZTMxYzU4ODE2ODNlYWI0Mjk4MTgzOQ==`

@@ -4,7 +4,7 @@
 
 > Canzoni rap per party fino al mattino! Cover: Rhove, ANNA
 
-237 songs - 11 hr 57 min
+238 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2022-12-30 | 2023-01-11 |
 | [Hotline Bling](https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:27 | 2022-05-01 |  |
 | [HUH?](https://open.spotify.com/track/5yUcawImV9VeElsec6QOFy) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:04 | 2024-03-07 |  |
+| [I CAN FLY](https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [I CAN FLY](https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu) | 2:44 | 2024-04-09 |  |
 | [I Find It Hard](https://open.spotify.com/track/3HXMz5tYDJtmNonmSgHHDQ) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [I Find It Hard](https://open.spotify.com/album/4qzkCfIM5aVj23w3BzKYC8) | 2:58 | 2022-12-30 | 2023-01-11 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2024-01-25 | 2024-03-16 |
 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 | 2024-02-08 |  |
@@ -210,7 +211,7 @@
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2022-07-28 |  |
 | [SIN SEÑAL](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SIN SEÑAL](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2022-12-30 | 2023-01-11 |
 | [Sistema De Patio](https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Sistema De Patio](https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839) | 2:14 | 2022-12-30 | 2023-01-11 |
-| [SPLASH \(feat\. Enzo Dong\)](https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [HOURS](https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE) | 2:52 | 2022-05-01 |  |
+| [SPLASH \(feat\. Enzo Dong\)](https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [HOURS](https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE) | 2:52 | 2022-05-01 | 2024-04-10 |
 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 | 2022-12-30 | 2023-01-11 |
 | [Storia Infinita \(feat\. Baby Gang\)](https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Maltempo](https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag) | 2:52 | 2023-12-14 | 2024-03-18 |
 | [Storia Infinita \(feat\. Baby Gang\)](https://open.spotify.com/track/7kkTvEHri9CL5eXvHIAx7t) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Maltempo](https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH) | 2:52 | 2024-03-19 |  |

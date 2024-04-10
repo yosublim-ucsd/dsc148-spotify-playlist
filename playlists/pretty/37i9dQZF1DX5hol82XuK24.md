@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,856 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,019 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ptolemaea](https://open.spotify.com/track/29LsI5izZL8txZEJhegSBs) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 6:23 |
 | 2 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 3 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
-| 4 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
+| 4 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 5 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
-| 6 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
+| 6 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
 | 7 | [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 |
 | 8 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 |
 | 9 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 36 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
 | 37 | [Come 2 Me](https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Voulez\-Vous](https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI) | 2:38 |
 | 38 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 |
-| 39 | [Empty Stomach Space Cadet](https://open.spotify.com/track/0cwE12SmWNLi8YNkoxmfGp) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 2:07 |
-| 40 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
+| 39 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
+| 40 | [Empty Stomach Space Cadet](https://open.spotify.com/track/0cwE12SmWNLi8YNkoxmfGp) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 2:07 |
 | 41 | [Undress](https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:59 |
 | 42 | [Taker](https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:28 |
 | 43 | [bmbmbm](https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 4:56 |
@@ -92,16 +92,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 82 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 |
 | 83 | [You are the Problem Here](https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [You are the Problem Here](https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV) | 3:38 |
 | 84 | [Hard Candy](https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Hard Candy](https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru) | 1:53 |
-| 85 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
-| 86 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
+| 85 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
+| 86 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
 | 87 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 |
 | 88 | [Duffy's](https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk) | 3:39 |
 | 89 | [I Stood Bleeding](https://open.spotify.com/track/7iwRXTRE81MwsiORhGYVlH) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [I Stood Bleeding](https://open.spotify.com/album/02ysyopK7YANMs08B9KRrQ) | 4:10 |
 | 90 | [Blue May](https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Within a Dream](https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL) | 3:53 |
-| 91 | [Miracle of Life](https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Miracle of Life](https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx) | 3:36 |
-| 92 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
-| 93 | [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 |
-| 94 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
+| 91 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
+| 92 | [Miracle of Life](https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Miracle of Life](https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx) | 3:36 |
+| 93 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
+| 94 | [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 |
 | 95 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
 | 96 | [Nightmares on Repeat](https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 4:39 |
 | 97 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 99 | [The Wetlands](https://open.spotify.com/track/4bA08mTRGaTbyAdZedkgaX) | [Aoife Wolf](https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg) | [The Wetlands](https://open.spotify.com/album/1f9aZDpwbuGpridBmTHi8h) | 3:57 |
 | 100 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
 
-Snapshot ID: `MCxkZDY5MDRiNzVhNDhlYmViNDU2ZTUyNDMxYjc2ZWQ5NDY3MGVhM2Ez`
+Snapshot ID: `MCwyMDA5YzE3MjNjNTdkNTUxODRjNmVlNWIyY2YwMGRiN2JlOTBhM2Uz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 
 > Our editors' picks for the best Folk & Americana songs this year\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,000 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,997 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 41 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 |
 | 42 | [I Can't Get My Head Around You](https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 |
 | 43 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 |
-| 44 | [4runner](https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 4:25 |
+| 44 | [4runner](https://open.spotify.com/track/30Uu3CWjWfudnTGTIrw93V) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:25 |
 | 45 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/6gm6YWtABGHoCjfKiA0Btu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 3:28 |
 | 46 | [Tough Love](https://open.spotify.com/track/4FG86wYpIjIl5NrOr79Fxf) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Flyte](https://open.spotify.com/album/1HGUCTBuqr8TU9Z9m4xh1k) | 3:01 |
 | 47 | [Days Go By](https://open.spotify.com/track/4WK7w2KdNJCghJN0zJghbw) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [The Window Is The Dream](https://open.spotify.com/album/3EnBXhKmxcca2l2YfMfVZr) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 99 | [Go Down, Appalachia](https://open.spotify.com/track/5o4FPf6PxgN6HriyRdsY9h) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [North Georgia Rounder](https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U) | 3:10 |
 | 100 | [Elsewhere](https://open.spotify.com/track/4YAtKBCcxo3GRoph3gg8rQ) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [The Happiest Times I Ever Ignored](https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9) | 5:28 |
 
-Snapshot ID: `MCw2OTU3NjBlNWRiZTI1NDllZGFiMGZlMTI1ZWExZGNlYmE3ZmIwYzYy`
+Snapshot ID: `MCxjMWIzMjFjNzkxNGJlZTNiYWE1YmY2NzkxMTMxMmY3Mzk3ODU5ZmFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,924 likes - 96 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,929 likes - 96 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 68 | [Konya Ha Hearty Party \- Single Mix](https://open.spotify.com/track/1DJxzP7tXOoibVVbGrsC7P) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx) | 4:52 |
 | 69 | [ゲレンデがとけるほど恋したい](https://open.spotify.com/track/1aytScUNC31oRRDGWo4ans) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [ゲレンデがとけるほど恋したい](https://open.spotify.com/album/6lF3XRgVqUGSA3LoVxazsR) | 5:13 |
 | 70 | [アジアの純真](https://open.spotify.com/track/6eN20qYKGWJH7mj4wqZI5P) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [amiyumi](https://open.spotify.com/album/4c9RpxEYU2x37QZRpnF4me) | 4:47 |
-| 71 | [バンザイ \~好きでよかった\~](https://open.spotify.com/track/4f0II2oFQupDKcA7khBXaN) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [ベストやねん](https://open.spotify.com/album/6EgxBY9q8KFuZ12zMgjMG1) | 4:37 |
+| 71 | [バンザイ ～好きでよかった～](https://open.spotify.com/track/4f0II2oFQupDKcA7khBXaN) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [ベストやねん](https://open.spotify.com/album/6EgxBY9q8KFuZ12zMgjMG1) | 4:37 |
 | 72 | [渚](https://open.spotify.com/track/24jtZbj9rh5RWoLGeibPuz) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [インディゴ地平線](https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N) | 4:47 |
 | 73 | [マシンガンをぶっ放せ](https://open.spotify.com/track/4QqfKsnBN4tBsNagwPJDIl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [マシンガンをぶっ放せ \-Mr.Children Bootleg\-](https://open.spotify.com/album/0QdH7cYrsp2YRCXRoG1omJ) | 4:20 |
 | 74 | [FOREVER LOVE](https://open.spotify.com/track/6nb0OhEI4AeCsPCrpquydA) | [X JAPAN](https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx) | [Forever Love](https://open.spotify.com/album/0ifbV7WWgPrqCOy5NMqJpx) | 8:43 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 95 | [メロディー](https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [Cafe Japan](https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb) | 4:40 |
 | 96 | [誰より好きなのに](https://open.spotify.com/track/7a7RuBVD7ZXW9bFVWLcoTr) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [THE SINGLES SONY MUSIC YEARS 1993〜2002](https://open.spotify.com/album/6L0RnoV3X2PtQoyY203VZJ) | 4:39 |
 
-Snapshot ID: `MCw2NmFmMWRhNGY2YmZlNTZhZWYyMjgwZWEzZjBiZWZmOTMxZDRmNGUx`
+Snapshot ID: `MCw0MGQ3OGRmNjEzYTU3MWExZGY4NWZiZjFkYjUzY2IzYjU1M2Q1NzE1`

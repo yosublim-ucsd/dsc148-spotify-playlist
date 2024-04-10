@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,923 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,950 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 9 | [Turks \(feat\. Travis Scott\)](https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Turks](https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6) | 2:41 |
 | 10 | [Zoo York \(feat\. Fivio Foreign & Pop Smoke\)](https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:34 |
 | 11 | [War](https://open.spotify.com/track/1I55Ea0zVoSKs6MqW7DQ3i) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:00 |
-| 12 | [Perkys Calling](https://open.spotify.com/track/05nB8pRwwbKA2fsKK1nOyE) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 4:06 |
-| 13 | [All Day](https://open.spotify.com/track/79reBHqpRoWXaQbjBBY3UC) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [All Day](https://open.spotify.com/album/6PMuXABPVPf11EgTxrjroO) | 5:10 |
+| 12 | [All Day](https://open.spotify.com/track/79reBHqpRoWXaQbjBBY3UC) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [All Day](https://open.spotify.com/album/6PMuXABPVPf11EgTxrjroO) | 5:10 |
+| 13 | [Perkys Calling](https://open.spotify.com/track/05nB8pRwwbKA2fsKK1nOyE) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 4:06 |
 | 14 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:31 |
 | 15 | [Time \(feat\. Meek Mill\)](https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:02 |
 | 16 | [If You Know You Know](https://open.spotify.com/track/6bGwKHXHNLmTy6yt147FPh) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 3:22 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 29 | [4 Da Fam \(feat\. Beanie Sigel, Memphis Bleek & Jay\-Z\) \- Explicit Album Version](https://open.spotify.com/track/2NUcXeWIVFKcKrjgfUHDRG) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 4:20 |
 | 30 | [queens shit.](https://open.spotify.com/track/5toMvCZhvEO17MAejy7f4P) | [Remy Banks](https://open.spotify.com/artist/37dMe6EquztHIXOFF44iKZ) | [champ hoody music\. ep.1](https://open.spotify.com/album/3i0mDUuHx0qHHF2PbwnOtL) | 1:22 |
 
-Snapshot ID: `MCxkZDg4MTdiMTkwMGNjODFjNWI3ODZjODQ0OTIyMGY0OTQ3ZWZmY2Jj`
+Snapshot ID: `MCwyZmU0NDlmMTBhNjZmM2MwM2JiMzBmMmI5YWU1MGRjZmZhNDdlYjJh`

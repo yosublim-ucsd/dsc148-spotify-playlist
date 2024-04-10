@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,271 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,260 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 94 | [Start over Somewhere](https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Start over Somewhere](https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc) | 4:06 |
 | 95 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
 | 96 | [Too Many Honky Tonks](https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Many Honky Tonks](https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8) | 3:13 |
-| 97 | [Barely A Two Lane Road](https://open.spotify.com/track/21JxM9SvVVZnmEkc9GSbLJ) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Barely A Two Lane Road](https://open.spotify.com/album/1uQFI2ysX9M76YuC8tJZTD) | 3:48 |
-| 98 | [Kick A Little](https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Rodney Carrington](https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO), [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Kick A Little](https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb) | 3:47 |
+| 97 | [Kick A Little](https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Rodney Carrington](https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO), [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Kick A Little](https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb) | 3:47 |
+| 98 | [Barely A Two Lane Road](https://open.spotify.com/track/21JxM9SvVVZnmEkc9GSbLJ) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Barely A Two Lane Road](https://open.spotify.com/album/1uQFI2ysX9M76YuC8tJZTD) | 3:48 |
 | 99 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 |
 | 100 | [Till You](https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Till You](https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR) | 3:26 |
 
-Snapshot ID: `MCwzZjdmZGFkNmRlMjAwNmE0ZGVlODdjZDU1YjFlODczY2M1NTUwMTQy`
+Snapshot ID: `MCw2Yzc1ZDg2OWU3MjIwZmU3ZjYwYjJhNjBiNjIwYzg0MjMyM2I4ZTdj`

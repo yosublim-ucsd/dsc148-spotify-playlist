@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-126 songs - 7 hr 28 min
+127 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-07-18 | 2023-08-21 |
 | [He Goes Down](https://open.spotify.com/track/4Jxqo3meY7nbbnqa7cQY7p) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [He Goes Down](https://open.spotify.com/album/2fD8NBqB9lxwJpTdZuZhSr) | 2:38 | 2022-07-18 | 2023-05-20 |
 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-07-18 | 2023-10-09 |
-| [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-10-06 |  |
+| [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-10-06 | 2024-04-10 |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-07-18 | 2023-09-22 |
 | [How It Makes You Feel](https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [How It Makes You Feel](https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM) | 8:46 | 2022-07-18 | 2023-05-20 |
 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 | 2023-05-19 | 2023-10-06 |
@@ -79,6 +79,7 @@
 | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok) | 3:17 | 2024-03-01 |  |
 | [Kyle \(i found you\)](https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:16 | 2022-07-18 |  |
 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 | 2022-07-18 | 2024-03-01 |
+| [La Trumpeta](https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [La Trumpeta](https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd) | 3:20 | 2024-03-22 |  |
 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 | 2023-10-06 | 2024-04-05 |
 | [Let's Begin](https://open.spotify.com/track/46Fsgmz1Zc5ZMmhqFGmjaF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Let's Begin](https://open.spotify.com/album/2QB0mD6cQ2yPnMmo4QaoN8) | 2:53 | 2023-11-24 | 2024-03-23 |
 | [LET'S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET'S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-07-18 | 2024-03-01 |

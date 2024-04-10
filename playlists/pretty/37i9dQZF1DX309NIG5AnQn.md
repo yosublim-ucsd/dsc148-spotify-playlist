@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 El Club Audiovisual
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,679 likes - 96 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,694 likes - 96 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 95 | [El piso es lava](https://open.spotify.com/track/7qbzTM4Vl02UfrB8Oq5K6y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [El piso es lava](https://open.spotify.com/album/3V2UVfnQpccVj661MB97Bm) | 4:05 |
 | 96 | [Profundidad](https://open.spotify.com/track/4hmQNhL5Zlrij8uAdfFUUk) | [Plenamente](https://open.spotify.com/artist/4rvMATvLzxq3s5GQM0LyGA) | [Interminable](https://open.spotify.com/album/4ODy1H4bdT3pWUXEIDR4LC) | 3:14 |
 
-Snapshot ID: `MCw4Njc2MTgyNmNhMjZmOWU0OWM1ODVmOWE5ZDA2NjJjZGQ2YjRkODBj`
+Snapshot ID: `MCxjNWI5ZjI3YmFkMzIzZGQ0NmQ2ZWQ3ZGNlNTY1NjZmZTYxOWI4NjY2`

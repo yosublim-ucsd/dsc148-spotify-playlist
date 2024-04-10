@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 609072,
+  "num_followers": 609139,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2I0YmUwNmFiN2VhODA1OWMzOTU3ZjQyYzE0YjBmMzZlZjRjNmUw",
+  "snapshot_id": "MCw4NTY0MTAwMGE5YmMwNjdmYWNkMzIyNDdlMmUzNDdjODg4NDJhOGFh",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 155880,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+      "duration_ms": 155880,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 288720,
       "name": "Thunder Road",
       "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 279666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 242453,
       "name": "Badlands",
       "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "I'm Goin' Down",
-      "url": "https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
       "duration_ms": 388800,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 279666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
     },
     {
       "added_at": null,
@@ -340,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 215426,
-      "name": "Downbound Train",
-      "url": "https://open.spotify.com/track/4a0oZYU2ntSUof4lkm2PCl"
+      "duration_ms": 209040,
+      "name": "I'm Goin' Down",
+      "url": "https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "No Surrender",
-      "url": "https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 268453,
       "name": "The Promised Land",
       "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ghost Of Tom Joad",
-        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "The Ghost of Tom Joad",
-      "url": "https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk"
     },
     {
       "added_at": null,
@@ -459,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The List",
-        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
+        "name": "The Ghost Of Tom Joad",
+        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
       },
       "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 186226,
-      "name": "Sea Of Heartbreak",
-      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
+      "duration_ms": 263466,
+      "name": "The Ghost of Tom Joad",
+      "url": "https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk"
     },
     {
       "added_at": null,
@@ -495,22 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "History Books",
-        "url": "https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ"
+        "name": "The List",
+        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
       },
       "artists": [
         {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
         },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 233320,
-      "name": "History Books (feat. Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/0ORiGVGhQ3Mvb3F18DONlV"
+      "duration_ms": 186226,
+      "name": "Sea Of Heartbreak",
+      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
     },
     {
       "added_at": null,
@@ -543,6 +523,26 @@
       "duration_ms": 205146,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "History Books",
+        "url": "https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "History Books (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/0ORiGVGhQ3Mvb3F18DONlV"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/0Tk2agqmwJajtoX6sCxngb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only the Strong Survive",
         "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
       },
@@ -791,6 +775,38 @@
       "duration_ms": 147040,
       "name": "Do I Love You (Indeed I Do)",
       "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greetings from Asbury Park, N.J.",
+        "url": "https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 304440,
+      "name": "Blinded By The Light",
+      "url": "https://open.spotify.com/track/1VyDQtfhX6gqhWTGU7Oe8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0Tk2agqmwJajtoX6sCxngb"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
       "duration_ms": 243173,
       "name": "Sherry Darling",
       "url": "https://open.spotify.com/track/5JgS0FY22HtNpFAJTo507k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 270266,
-      "name": "She's the One",
-      "url": "https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

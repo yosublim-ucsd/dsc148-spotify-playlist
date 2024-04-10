@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,914 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,920 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 49 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
 | 50 | [Seek First](https://open.spotify.com/track/74ZTCzWhalSnYhpki3g0eZ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Susan Ashton](https://open.spotify.com/artist/2YXvdYU3uqlbLRHLI5SFFi) | [Songs From The Loft](https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv) | 2:26 |
 
-Snapshot ID: `MCw1ODc4ZGIzYTAyMTllNDllNTBiYjBiZDc1MDNmMzM3Y2Q3YWE5MGU1`
+Snapshot ID: `MCw4OWYzMzI0YzBhNThkZDkzYjFjYzQ4ZGMyMGI4NGQxMGRiNWQ4MTUz`

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 334521,
+  "num_followers": 334606,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTFkNGUxMGExZTdjNzkwNDg0OGNjNDczYzAzMDVlNDI3YjAzZTRk",
+  "snapshot_id": "MCxmMzhkM2VlMTI0MzBhNDM3MDZiYzlhOGQyNmIyYmRmODFjNDdhOTQ2",
   "tracks": [
     {
       "added_at": "2024-04-04 15:22:42",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 291568,
+      "name": "Money (with Tom Misch)",
+      "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
         "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 251546,
       "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 291568,
-      "name": "Money (with Tom Misch)",
-      "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
+        "name": "Ma Jo Lo",
+        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Ma Jo Lo",
+      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
         "name": "gr\u00e6",
         "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
       },
@@ -987,30 +1003,6 @@
       "duration_ms": 172219,
       "name": "Passion Controller",
       "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "George The Poet",
-          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
-        }
-      ],
-      "duration_ms": 287037,
-      "name": "Summer In The Ends",
-      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1055,6 +1047,30 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "George The Poet",
+          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
+        }
+      ],
+      "duration_ms": 287037,
+      "name": "Summer In The Ends",
+      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
         "name": "Be Patient",
         "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 216793,
       "name": "Be Patient",
       "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "Ma Jo Lo",
-        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
-      },
-      "artists": [
-        {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Ma Jo Lo",
-      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
+        "name": "FYO",
+        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 164963,
+      "name": "FYO",
+      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "FYO",
-        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 164963,
-      "name": "FYO",
-      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
+      "duration_ms": 169626,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -1275,30 +1275,6 @@
       "duration_ms": 214214,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "Holier (JD. REID Remix feat. Shygirl)",
-        "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "JD. REID",
-          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Holier - JD. REID Remix feat. Shygirl",
-      "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1339,22 +1315,42 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "You Could Be",
-        "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
+        "name": "Holier (JD. REID Remix feat. Shygirl)",
+        "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
       },
       "artists": [
         {
-          "name": "Anz",
-          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         },
         {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "JD. REID",
+          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
         }
       ],
-      "duration_ms": 218024,
-      "name": "You Could Be",
-      "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+      "duration_ms": 215063,
+      "name": "Holier - JD. REID Remix feat. Shygirl",
+      "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
+        "name": "OUR LOVE (80'S)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "duration_ms": 179323,
+      "name": "OUR LOVE (80'S)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
     }
   ],
   "unique_name": "Soultronic",

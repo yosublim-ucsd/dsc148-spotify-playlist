@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 43144,
+  "num_followers": 43154,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTA2MDc4ZTliZmU2YTE2NjNmMWJhNTJlYjhiZmMxMDMxZjQyOTE2",
+  "snapshot_id": "MCwzYmI5MzVlODU2Njg0ZDQ1ZGVkNGVhNWYyYjUxN2EwOGI3YmU2ZmY5",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Sympathique",
-        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Donde Estas, Yolanda?",
-      "url": "https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "La Bodega",
         "url": "https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 269560,
       "name": "Yo Me Llamo Cumbia",
       "url": "https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Sympathique",
+        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Donde Estas, Yolanda?",
+      "url": "https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -195,22 +195,6 @@
       "duration_ms": 300746,
       "name": "Guacamole",
       "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Sympathique",
-        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Amado Mio",
-      "url": "https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -291,8 +275,24 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Hang on Little Tomato",
-        "url": "https://open.spotify.com/album/4zke7Tv01ngpBcKglASyD8"
+        "name": "Esencia Solar",
+        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 129306,
+      "name": "Color Caf\u00e9",
+      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Sympathique",
+        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Anna",
-      "url": "https://open.spotify.com/track/65Csr37ZRsG59gIHK8N20B"
+      "duration_ms": 289560,
+      "name": "Amado Mio",
+      "url": "https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -329,20 +329,20 @@
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Esencia Solar",
-        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
       "artists": [
         {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
         }
       ],
-      "duration_ms": 129306,
-      "name": "Color Caf\u00e9",
-      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
+      "duration_ms": 145773,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/5bCp9MMG1Qo4QB2OHoSRpN"
     },
     {
       "added_at": "2023-04-12 23:58:01",
@@ -359,22 +359,6 @@
       "duration_ms": 231013,
       "name": "Octopus",
       "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 145773,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/5bCp9MMG1Qo4QB2OHoSRpN"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -451,6 +435,22 @@
       "duration_ms": 137240,
       "name": "Gopher Mambo - Remastered 2009",
       "url": "https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Hang on Little Tomato",
+        "url": "https://open.spotify.com/album/4zke7Tv01ngpBcKglASyD8"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/65Csr37ZRsG59gIHK8N20B"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "No Tiene Fin",
-        "url": "https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        }
-      ],
-      "duration_ms": 167453,
-      "name": "Se\u00f1or Presidente",
-      "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
@@ -939,6 +923,22 @@
       "duration_ms": 181253,
       "name": "Merecumb\u00e9 del cantinero",
       "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "No Tiene Fin",
+        "url": "https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        }
+      ],
+      "duration_ms": 167453,
+      "name": "Se\u00f1or Presidente",
+      "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1073,20 +1073,20 @@
       "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Batazo Batero",
-        "url": "https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM"
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
       },
       "artists": [
         {
-          "name": "Los Propios Bateros",
-          "url": "https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC"
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
         }
       ],
-      "duration_ms": 298253,
-      "name": "Batazo Batero",
-      "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
+      "duration_ms": 245266,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1105,20 +1105,20 @@
       "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
+        "name": "Batazo Batero",
+        "url": "https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM"
       },
       "artists": [
         {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+          "name": "Los Propios Bateros",
+          "url": "https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC"
         }
       ],
-      "duration_ms": 245266,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
+      "duration_ms": 298253,
+      "name": "Batazo Batero",
+      "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Tropid\u00e9lico",
-        "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Regi Bugal\u00fa (Bugalu)",
-      "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Bi",
@@ -1343,6 +1327,22 @@
       "duration_ms": 267480,
       "name": "Apocalypso",
       "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Tropid\u00e9lico",
+        "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Regi Bugal\u00fa (Bugalu)",
+      "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1505,6 +1505,22 @@
       "url": "https://open.spotify.com/track/5c5bnwxYMXddDPUVDyF3Sr"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Dedicated To Nelson",
+        "url": "https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 165626,
+      "name": "Mangos",
+      "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "The Power of the Latin Music",
@@ -1523,22 +1539,6 @@
       "duration_ms": 283973,
       "name": "Mambo Los Quantic",
       "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Dedicated To Nelson",
-        "url": "https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 165626,
-      "name": "Mangos",
-      "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
     },
     {
       "added_at": "2020-05-28 20:45:13",

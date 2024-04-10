@@ -1,12 +1,12 @@
 {
   "description": "You're on top of the world. Don't forget it. Cover: Miley Cyrus ",
-  "num_followers": 3891990,
+  "num_followers": 3893503,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzFhNDVkODdjYjk5MDZmZGE4NDNmODQ2Yzk2MDAwOTI1ZGQ1NDg2",
+  "snapshot_id": "MCw0NjYxYmVmNGViZmUwY2IwNGJiMDhkODg0ZTdiZWVlNjYxM2RjZjFl",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 195613,
       "name": "Who Says",
       "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Midnight Sky",
+      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Glory Days (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Shout Out to My Ex",
-      "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Little Girl Gone",
         "url": "https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 188596,
       "name": "Little Girl Gone",
       "url": "https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Shout Out to My Ex",
+      "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
     },
     {
       "added_at": "2024-04-05 04:01:00",

@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-222 songs - 13 hr 36 min
+223 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Isolation Blues](https://open.spotify.com/track/1YXtxPB2Q0ol5L4nIE3HJE) | [Ben Reel](https://open.spotify.com/artist/2Ywn9itiS5z2zXx0xjYRcD) | [Isolation Blues](https://open.spotify.com/album/3aPnXFSkP9NVggOjdsH9Ho) | 3:12 | 2023-01-20 |  |
 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 | 2022-09-20 |  |
 | [I’ve Got Something](https://open.spotify.com/track/1D6bIicQYlT2aZLzj0EfZo) | [Heather Luckhart](https://open.spotify.com/artist/7tP1inVHEFMPLI87sp6RRu) | [Make It Through](https://open.spotify.com/album/0oXWOuYMNIxsVHs9PgXfvC) | 3:39 | 2023-02-03 | 2024-02-28 |
+| [Jim Lee Blues Pt\. 1](https://open.spotify.com/track/0DCahXTiv0gM4NtZBue6Be) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Wild Heart](https://open.spotify.com/album/2BVSXduWnjqWYKlrsCZoaF) | 3:53 | 2023-09-15 |  |
 | [Jim Lee Blues Pt\. 1](https://open.spotify.com/track/2oFXxguURs0SvqQH6zxNf6) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Wild Heart](https://open.spotify.com/album/2KNgILAvTcaCq0ZMcpQtLY) | 3:53 | 2022-05-25 | 2024-04-05 |
 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 | 2022-05-25 |  |
 | [Jumpin'](https://open.spotify.com/track/0mFMDuXQ5Rb1I9hxT4GZl2) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE), [Jonny Morgan](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD), [The Biscuit Dispute](https://open.spotify.com/artist/7ABJ3TprcTxyyCxbVZh2Ck) | [Jumpin'](https://open.spotify.com/album/6whK2FCC7tIBihqZeFR8vY) | 2:42 | 2023-09-15 |  |
@@ -135,7 +136,7 @@
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-07-08 |  |
 | [Lost On Your Time](https://open.spotify.com/track/5fpcViiTc1lMne8wWPDt9E) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Lost On Your Time](https://open.spotify.com/album/3EBD0y2UVCJGUp5q7a9Hw8) | 3:53 | 2023-08-04 |  |
 | [Mailman, Bring Me No More Blues](https://open.spotify.com/track/63kSGfREzaR7i5BBBVKkWR) | [432 UK](https://open.spotify.com/artist/03oFNcaM41MDeiHBQJSczo) | [Mailman, Bring Me No More Blues](https://open.spotify.com/album/46HdwVjeZIiTS2SakpasBz) | 2:33 | 2022-12-01 | 2024-03-21 |
-| [Make it Talk](https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0) | [Danny Garrett](https://open.spotify.com/artist/7iWrSICKr9CzNWAE0WwnYu) | [Make it Talk](https://open.spotify.com/album/2j4v6Cr23fyOfsH8xG7vk9) | 3:17 | 2023-01-20 |  |
+| [Make it Talk](https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0) | [Danny Garrett](https://open.spotify.com/artist/7iWrSICKr9CzNWAE0WwnYu) | [Make it Talk](https://open.spotify.com/album/2j4v6Cr23fyOfsH8xG7vk9) | 3:17 | 2023-01-20 | 2024-04-10 |
 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 | 2022-09-20 |  |
 | [Mary Jane](https://open.spotify.com/track/2soa0R4qbnjjj0HDGoLzHL) | [Chino Swingslide](https://open.spotify.com/artist/0CWPGDlgK9IGEoOB3I8u60) | [No Lookin' Back](https://open.spotify.com/album/2pv8EYSij80OAl7BPB01RN) | 3:26 | 2023-08-25 | 2023-09-18 |
 | [Mashing Rain](https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI) | [Honky Fish](https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96) | [Mashing Rain](https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu) | 2:14 | 2022-12-21 |  |

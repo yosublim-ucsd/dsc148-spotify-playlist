@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 4954,
+  "2024-04-10": 4966,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most played tracks right now - Belarus.",
   "name": "Top 50 - Belarus",
@@ -153,7 +153,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 113142,
       "name": "\u0412\u0430\u043c\u043f\u0438\u0440",
       "url": "https://open.spotify.com/track/7p62Jtx8nlvgQXYawhzIcI"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 144761,
       "name": "\u041c\u0443\u0437\u044b\u043a\u0430",
       "url": "https://open.spotify.com/track/4vsqEFz8rPG8Y3H21ToDnZ"
@@ -1985,7 +1985,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 198857,
       "name": "\u0421\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430",
       "url": "https://open.spotify.com/track/1PYrTqbEPnESlEonarrfCf"
@@ -2204,6 +2204,24 @@
     },
     {
       "album": {
+        "name": "PSYCHEDELIC LOVE",
+        "url": "https://open.spotify.com/album/3HOCSNvo6JGfDUuRzWssWe"
+      },
+      "artists": [
+        {
+          "name": "Pepel Nahudi",
+          "url": "https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111944,
+      "name": "\u0422\u042b \u041c\u0415\u041d\u042f \u0420\u0410\u0417\u041b\u042e\u0411\u0418",
+      "url": "https://open.spotify.com/track/3uo4UPVHxiVVLc2DjWKlnB"
+    },
+    {
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/10xHh7UDj8iGDNIMeurr4l"
       },
@@ -2269,7 +2287,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 147000,
       "name": "\u0423\u0442\u0440\u043e",
       "url": "https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr"
@@ -2353,7 +2371,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 215301,
       "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb"

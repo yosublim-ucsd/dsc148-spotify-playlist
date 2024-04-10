@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T?si=OgpcR6CdTI2uGibQDAmtSg\"> Omar Sterling</a>",
-  "num_followers": 149510,
+  "num_followers": 149530,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGMwYTkyYTFjZjk2OGJkZDM5Yzg3MjNkOGJhYTVkMWQ1ZjBmMWM2",
+  "snapshot_id": "MCxlODgwY2FkYjlkOGI0ZDA4NDg1ZWJjNTgzZThkYjEzNzExMDM2MTdh",
   "tracks": [
     {
       "added_at": "2024-04-05 00:01:00",
@@ -287,6 +287,30 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
+        "name": "DREAMS II",
+        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 237647,
+      "name": "DREAMS II",
+      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -303,22 +327,6 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Kpos Lifestyle, Vol. 1",
-        "url": "https://open.spotify.com/album/3XpW2dVRMpVwDZU0igQPEZ"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0VOLzICIqLKFHQYLBxLw51"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -375,22 +383,18 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Always (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+        "name": "Kpos Lifestyle, Vol. 1",
+        "url": "https://open.spotify.com/album/3XpW2dVRMpVwDZU0igQPEZ"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 154957,
-      "name": "Always (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+      "duration_ms": 120000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0VOLzICIqLKFHQYLBxLw51"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -439,26 +443,22 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "DREAMS II",
-        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
+        "name": "Always (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 237647,
-      "name": "DREAMS II",
-      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+      "duration_ms": 154957,
+      "name": "Always (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "duration_ms": 207057,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
         "name": "Jungle Music, Pt.1",
         "url": "https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 185341,
       "name": "Jungle Music, Pt.1",
       "url": "https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Headliner",
-        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        }
-      ],
-      "duration_ms": 207057,
-      "name": "Headliner",
-      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
     },
     {
       "added_at": "2024-04-05 00:01:00",

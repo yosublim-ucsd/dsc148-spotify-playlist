@@ -4,7 +4,7 @@
 
 > L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾 Top hit italiane e internazionali!
 
-252 songs - 13 hr 18 min
+253 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Hypnotized](https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized](https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM) | 3:15 | 2022-05-09 | 2022-07-28 |
 | [I Want Your Soul](https://open.spotify.com/track/5WEYk2b7fdg0hl42Ts3f4I) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Ghettoblaster](https://open.spotify.com/album/6raRg9iwPAtH9xgOT1RNjL) | 6:39 | 2022-12-30 | 2023-01-06 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-29 |  |
-| [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2022-05-09 |  |
+| [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2022-05-09 | 2024-04-10 |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2022-07-15 | 2023-07-01 |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2022-07-15 |  |
 | [In the Dark](https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In the Dark](https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x) | 3:05 | 2022-05-03 | 2022-07-29 |
@@ -142,6 +142,7 @@
 | [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2022-12-30 |  |
 | [Lovefool](https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Lovefool](https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT) | 3:10 | 2022-05-09 | 2024-01-28 |
 | [Ma cherie \- Dj Antoine Vs Mad Mark 2K12 Radio Edit](https://open.spotify.com/track/0Sm8a8f0bC3MiOTo0BM8tR) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [The Beat Shakers](https://open.spotify.com/artist/09RCGJbPIC8CxxKedqRbb6), [DJ Antoine vs\. Mad Mark](https://open.spotify.com/artist/79HuVKiPd47qinpWHkObeM) | [Ma cherie](https://open.spotify.com/album/5LnbSVVKhKqieIrsm2gomF) | 3:11 | 2022-05-16 | 2022-07-25 |
+| [Mad World](https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8) | 2:33 | 2024-04-05 |  |
 | [MADE IN ITALY](https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [MADE IN ITALY](https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ) | 2:58 | 2023-02-23 | 2023-05-19 |
 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 | 2023-07-28 |  |
 | [malibu](https://open.spotify.com/track/01hEpx8jnOG4q7nDK14Rhi) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4fEIBZaOmbxZnzAJ9SEx4v) | 2:46 | 2022-05-03 | 2022-07-29 |

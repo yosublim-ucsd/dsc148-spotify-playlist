@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: woo!ah!\(우아!\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,717 likes - 57 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,775 likes - 57 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,17 +53,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 43 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
 | 44 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 | 45 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
-| 46 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 |
+| 46 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 |
 | 47 | [Me Gustas Tu](https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 2nd Mini Album 'Flower Bud'](https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7) | 3:40 |
 | 48 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 |
 | 49 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 |
 | 50 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 |
-| 51 | [Y.O.Universe](https://open.spotify.com/track/0es6ZsB0mFqnCAAMCHjVUO) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [SeVit \(NEW LIGHT\)](https://open.spotify.com/album/61JnxeeeqpmJ6rVBrfq4ak) | 2:34 |
-| 52 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 |
+| 51 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 |
+| 52 | [Y.O.Universe](https://open.spotify.com/track/0es6ZsB0mFqnCAAMCHjVUO) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [SeVit \(NEW LIGHT\)](https://open.spotify.com/album/61JnxeeeqpmJ6rVBrfq4ak) | 2:34 |
 | 53 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
 | 54 | [Mr\. Chu](https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Blossom](https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o) | 3:34 |
-| 55 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 |
+| 55 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 |
 | 56 | [Rough](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 3rd Mini Album 'SNOWFLAKE'](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:29 |
 | 57 | [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 |
 
-Snapshot ID: `MCxkOTk2YWM0MmI3YzFhYTY0MDE4YjYwOTExNGE4ODNjMTFlOTExMmY5`
+Snapshot ID: `MCxiOWRkMTkzMzdlZWExOWRiZmFkY2E5YzgwZmUwMDA3MzNhMjg3ZGVk`

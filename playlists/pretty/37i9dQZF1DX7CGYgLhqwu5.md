@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,642 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,671 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 41 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
 | 42 | [Walk On By](https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [Walk On By](https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8) | 2:24 |
 | 43 | [Please Help Me, I'm Falling](https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [RCA Country Legends](https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6) | 2:21 |
-| 44 | [Love's Gonna Live Here \- Mono Single Version](https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [The Complete Capitol Singles: 1957\-1966](https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy) | 2:01 |
-| 45 | [Swinging Doors](https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee](https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26) | 2:48 |
+| 44 | [Swinging Doors](https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee](https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26) | 2:48 |
+| 45 | [Love's Gonna Live Here \- Mono Single Version](https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [The Complete Capitol Singles: 1957\-1966](https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy) | 2:01 |
 | 46 | [Phantom 309](https://open.spotify.com/track/2IVpJWwVPGlfSeZ4uXgGb3) | [Red Sovine](https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf) | [Phantom 309](https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV) | 3:29 |
 | 47 | [Skip a Rope](https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L) | [Henson Cargill](https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv) | [All\-American Cowboy](https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0) | 2:40 |
 | 48 | [Welcome to My World](https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:32 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 54 | [Stop the World \(And Let Me Off\)](https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Folk\-Country](https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz) | 2:02 |
 | 55 | [Let's Have A Party](https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:11 |
 | 56 | [Just Between You and Me](https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Super Hits](https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX) | 2:14 |
-| 57 | [Walk Through This World With Me](https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Country Heart: 24 Favorite Songs](https://open.spotify.com/album/15HPAnwnYAOmyOOTvQpgjn) | 2:18 |
-| 58 | [The Streets of Baltimore](https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Streets of Baltimore](https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp) | 2:37 |
-| 59 | [Together Again](https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 1](https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs) | 2:28 |
+| 57 | [The Streets of Baltimore](https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Streets of Baltimore](https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp) | 2:37 |
+| 58 | [Walk Through This World With Me](https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Country Heart: 24 Favorite Songs](https://open.spotify.com/album/15HPAnwnYAOmyOOTvQpgjn) | 2:18 |
+| 59 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
 | 60 | [You Belong To Me](https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:03 |
-| 61 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
+| 61 | [Together Again](https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 1](https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs) | 2:28 |
 | 62 | [Branded Man \- Remastered](https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Prison](https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ) | 3:06 |
 | 63 | [Things](https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:39 |
 | 64 | [Devil Woman](https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 |
 | 100 | [Misery Loves Company](https://open.spotify.com/track/3svC90yBSf9R7aMvrn3mzz) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Viva](https://open.spotify.com/album/5srw9Y2VmTNHwUVziaibEk) | 2:33 |
 
-Snapshot ID: `MCxlZGM5NjgwODhmZWFjZjFlN2Y5ODI3YmUyZjc2NGJjZDI3OTIyYWUw`
+Snapshot ID: `MCxmMzM5MTUxZTE5OWY4YThmMzdjM2I3YTkyMjY3MGNjZDQxZjBiYTI1`

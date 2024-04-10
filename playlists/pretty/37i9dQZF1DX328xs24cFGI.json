@@ -1,12 +1,12 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 157464,
+  "num_followers": 157473,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDRhZmE1ODdiNDJkMDI2ZTQ2YjcyM2NjYzRkNWQ4Y2YzZDliNmFl",
+  "snapshot_id": "MCxkZDRjNTkwNmM1MGQ5YTVhZTg0YzQwMTFmMjcxMDRiODIyMzc5MWMy",
   "tracks": [
     {
       "added_at": "2024-03-26 18:21:50",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-26 18:21:50",
       "album": {
-        "name": "SiX",
-        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 248653,
-      "name": "CITRUS",
-      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
-    },
-    {
-      "added_at": "2024-03-26 18:21:50",
-      "album": {
         "name": "\u5927\u962aLOVER",
         "url": "https://open.spotify.com/album/0uH4fu7TXAnnrx4aRhSBln"
       },
@@ -875,18 +859,34 @@
     {
       "added_at": "2024-03-26 18:21:50",
       "album": {
-        "name": "I believe in you",
-        "url": "https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL"
+        "name": "SiX",
+        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
       },
       "artists": [
         {
-          "name": "\u5ddd\u5d0e\u9df9\u4e5f",
-          "url": "https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k"
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
         }
       ],
-      "duration_ms": 208896,
-      "name": "\u9b54\u6cd5\u306e\u7d68\u6bef",
-      "url": "https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL"
+      "duration_ms": 248653,
+      "name": "CITRUS",
+      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
+    },
+    {
+      "added_at": "2024-03-26 18:21:50",
+      "album": {
+        "name": "YANKEE",
+        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 288013,
+      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
+      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
     },
     {
       "added_at": "2024-03-26 18:21:50",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-03-26 18:21:50",
       "album": {
-        "name": "YANKEE",
-        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
+        "name": "I believe in you",
+        "url": "https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "\u5ddd\u5d0e\u9df9\u4e5f",
+          "url": "https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k"
         }
       ],
-      "duration_ms": 288013,
-      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
-      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
+      "duration_ms": 208896,
+      "name": "\u9b54\u6cd5\u306e\u7d68\u6bef",
+      "url": "https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL"
     },
     {
       "added_at": "2024-03-26 18:21:50",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-26 18:21:50",
       "album": {
-        "name": "PROUD",
-        "url": "https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        }
-      ],
-      "duration_ms": 309440,
-      "name": "\u82b1\u675f\u306e\u304b\u308f\u308a\u306b\u30e1\u30ed\u30c7\u30a3\u30fc\u3092",
-      "url": "https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE"
-    },
-    {
-      "added_at": "2024-03-26 18:21:50",
-      "album": {
         "name": "\u58f1",
         "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 208400,
       "name": "\u30df\u30ba\u30ad\u30ea",
       "url": "https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX"
+    },
+    {
+      "added_at": "2024-03-26 18:21:50",
+      "album": {
+        "name": "PROUD",
+        "url": "https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        }
+      ],
+      "duration_ms": 309440,
+      "name": "\u82b1\u675f\u306e\u304b\u308f\u308a\u306b\u30e1\u30ed\u30c7\u30a3\u30fc\u3092",
+      "url": "https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE"
     },
     {
       "added_at": "2024-03-26 18:21:50",

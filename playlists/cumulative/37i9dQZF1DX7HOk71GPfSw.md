@@ -4,7 +4,7 @@
 
 > she did her hyper\-homework
 
-2,014 songs - 3 day 19 hr 41 min
+2,015 songs - 3 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -939,7 +939,7 @@
 | [imma ruin you, cunt](https://open.spotify.com/track/10cwI6BlVEBgUJBl4mgcxk) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i'm definitely getting sued for this \(beat tape no.1\)](https://open.spotify.com/album/454byi0BmtqApxOiuuJwaA) | 2:05 | 2021-10-20 | 2022-02-24 |
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2020-10-13\* | 2023-12-11 |
 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 | 2023-12-08 |  |
-| [Immortal](https://open.spotify.com/track/5fXOTnYg6sn0UPyksZnXRP) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 3:07 | 2023-12-01 |  |
+| [Immortal](https://open.spotify.com/track/5fXOTnYg6sn0UPyksZnXRP) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 3:07 | 2023-12-01 | 2024-04-10 |
 | [Immunity](https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:50 | 2022-09-23 | 2022-10-22 |
 | [IMPOSTER SYNDROME](https://open.spotify.com/track/0kTRWMYmjuKOMpNhao3XMV) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [Luno J](https://open.spotify.com/artist/5wkwnSLcqZyb2ZmppXo1yq) | [IMPOSTER SYNDROME](https://open.spotify.com/album/3KBxbUqcB7rT5xKhD5EVRo) | 2:55 | 2022-11-11 | 2023-03-11 |
 | [Impressed](https://open.spotify.com/track/5WjhZ9in2bagGtrZgNfmFX) | [Sleepa](https://open.spotify.com/artist/1iT8Vbd7KhZiBji3G72zDW), [Voidie](https://open.spotify.com/artist/2VAMqPJ0y15P6bK36DHLzN) | [Impressed](https://open.spotify.com/album/3xw9DMGwc3MQQ0s5APloyx) | 2:30 | 2021-01-09 | 2021-02-10 |
@@ -1636,6 +1636,7 @@
 | [so perfect](https://open.spotify.com/track/4UyeDwRxWlypdGKNVu3QmG) | [stardante](https://open.spotify.com/artist/5D73Rmcxz9HEaAD3vlimsf), [Lil Soda Boi](https://open.spotify.com/artist/2yyIZli0SkJ234gHIuuPJP) | [so perfect](https://open.spotify.com/album/3YvJdcO3DPVSV7cadCB2zn) | 2:14 | 2021-09-01 | 2021-09-19 |
 | [So Proud Of U](https://open.spotify.com/track/1fmfMsvJlWzeaYstJ1xpWa) | [2gether 4ever](https://open.spotify.com/artist/4xnMRkgK5LlAefZhpqxAzv) | [So Proud Of U](https://open.spotify.com/album/40pa9jVIaDVB6gLREeJEFZ) | 3:54 | 2021-08-14 | 2021-09-24 |
 | [So Sad](https://open.spotify.com/track/7btVxzWmEnBuxdunhWWhUI) | [Caleb Dusart](https://open.spotify.com/artist/4SixvIlbUqTp1t2rwu3LNq) | [So Sad](https://open.spotify.com/album/6wwYS0ioHc4aflATeHTaLG) | 1:39 | 2022-06-03 | 2022-08-27 |
+| [So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [So What If I'm A Freak](https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ) | 2:26 | 2024-04-09 |  |
 | [so young](https://open.spotify.com/track/6kpwyBch6Hbvoz0MP9HrCa) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [so young](https://open.spotify.com/album/7aVym7cPnM8Sk2QWbBJeHF) | 2:36 | 2022-02-18 | 2022-04-29 |
 | [Sodom & Gomorrah](https://open.spotify.com/track/0cgUUrFj9pOmSKzm4MyfIf) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Sodom & Gomorrah](https://open.spotify.com/album/6fGdCPc7IIJwoJM5wrWpFU) | 3:09 | 2023-06-08 | 2023-11-08 |
 | [Softcorners](https://open.spotify.com/track/3GIoCg77Q9vvZUyPK46Eay) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Softcorners](https://open.spotify.com/album/0JCaD2WojF7P8pIoIHEzxC) | 5:17 | 2023-03-10 | 2023-07-22 |

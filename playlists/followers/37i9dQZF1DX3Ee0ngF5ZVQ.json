@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 415271,
+  "2024-04-10": 415260,
   "date_first_scraped": "2021-12-21",
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
   "name": "Texas Country Now",
@@ -9776,6 +9776,24 @@
     },
     {
       "album": {
+        "name": "Till You",
+        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
+      },
+      "artists": [
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206016,
+      "name": "Till You",
+      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
+    },
+    {
+      "album": {
         "name": "Time of The Rambler",
         "url": "https://open.spotify.com/album/52fzMuwSfWE2y7AxN8Yq0G"
       },
@@ -10957,7 +10975,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 257146,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"

@@ -1,13 +1,29 @@
 {
   "description": "Latin gems you absolutely need to hear. Save them before they're gone!",
-  "num_followers": 2076,
+  "num_followers": 2090,
   "original_name": "Songs You Should Save",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDgwYmViN2ZiOTVlMjZmOTI3YjM0Yjk0MDAxNjRhY2QxY2JhMmVi",
+  "snapshot_id": "MCw5ZTE1N2YzZTgyYzVmZGU3NDRkYzgxNTgyODU1YjFlY2E5NDQxOWFi",
   "tracks": [
+    {
+      "added_at": "2024-04-05 21:24:34",
+      "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 193568,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+    },
     {
       "added_at": "2024-04-05 21:24:34",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
-    },
-    {
-      "added_at": "2024-04-05 21:24:34",
-      "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 193568,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
     },
     {
       "added_at": "2024-04-05 21:24:34",
@@ -179,6 +179,26 @@
     {
       "added_at": "2024-04-05 21:24:34",
       "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 201935,
+      "name": "offline",
+      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "added_at": "2024-04-05 21:24:34",
+      "album": {
         "name": "KTM",
         "url": "https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 219526,
       "name": "REM",
       "url": "https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h"
-    },
-    {
-      "added_at": "2024-04-05 21:24:34",
-      "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 201935,
-      "name": "offline",
-      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
     },
     {
       "added_at": "2024-04-05 21:24:34",
@@ -327,22 +327,26 @@
     {
       "added_at": "2024-04-05 21:24:34",
       "album": {
-        "name": "Se\u00f1orita (Remix)",
-        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
       },
       "artists": [
         {
-          "name": "Jean Pi",
-          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         },
         {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 181591,
-      "name": "Se\u00f1orita - Remix",
-      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+      "duration_ms": 193038,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
     },
     {
       "added_at": "2024-04-05 21:24:34",
@@ -359,6 +363,26 @@
       "duration_ms": 137693,
       "name": "Pasado Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
+    },
+    {
+      "added_at": "2024-04-05 21:24:34",
+      "album": {
+        "name": "Se\u00f1orita (Remix)",
+        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
+      },
+      "artists": [
+        {
+          "name": "Jean Pi",
+          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 181591,
+      "name": "Se\u00f1orita - Remix",
+      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
     },
     {
       "added_at": "2024-04-05 21:24:34",
@@ -411,26 +435,22 @@
     {
       "added_at": "2024-04-05 21:24:34",
       "album": {
-        "name": "Santa",
-        "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
+        "name": "Pi\u00f1a Colada",
+        "url": "https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 193038,
-      "name": "Santa",
-      "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
+      "duration_ms": 189375,
+      "name": "Pi\u00f1a Colada",
+      "url": "https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy"
     },
     {
       "added_at": "2024-04-05 21:24:34",
@@ -451,26 +471,6 @@
       "duration_ms": 198712,
       "name": "DRIPPEO KBRON",
       "url": "https://open.spotify.com/track/1rCKmeUUh6WDrxoH5pWq9M"
-    },
-    {
-      "added_at": "2024-04-05 21:24:34",
-      "album": {
-        "name": "Pi\u00f1a Colada",
-        "url": "https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Pi\u00f1a Colada",
-      "url": "https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy"
     },
     {
       "added_at": "2024-04-05 21:24:34",
@@ -531,6 +531,26 @@
     {
       "added_at": "2024-04-05 21:24:34",
       "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
+    },
+    {
+      "added_at": "2024-04-05 21:24:34",
+      "album": {
         "name": "ZENDAYA",
         "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
       },
@@ -551,42 +571,18 @@
     {
       "added_at": "2024-04-05 21:24:34",
       "album": {
-        "name": "roadhead",
-        "url": "https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7"
+        "name": "S\u00cdSIFO / NADIE M\u00c1S!",
+        "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
       },
       "artists": [
         {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 157021,
-      "name": "roadhead",
-      "url": "https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw"
-    },
-    {
-      "added_at": "2024-04-05 21:24:34",
-      "album": {
-        "name": "Insomnio",
-        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Bailarina",
-      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
+      "duration_ms": 249600,
+      "name": "NADIE M\u00c1S!",
+      "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
     }
   ],
   "unique_name": "Songs You Should Save",

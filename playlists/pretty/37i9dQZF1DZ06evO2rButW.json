@@ -1,29 +1,13 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 657790,
+  "num_followers": 657961,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWJlYjcyN2U3ZjhiMWE5MDI5ODJmMGNjMzJhM2M2MTJjZmQ4ZGZh",
+  "snapshot_id": "MCw5NzlhYWRmOTc3ZjRjYWVlNzRjNGRhZmYzNzYyNjZmMWFkMDYyNjkx",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 207333,
       "name": "Am\u00e1rrame",
       "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Si T\u00fa Me Quisieras",
-      "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 227586,
       "name": "Mi Buen Amor",
       "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Si T\u00fa Me Quisieras",
+      "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Amor Completo",
-      "url": "https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 249266,
       "name": "Pa\u2019 D\u00f3nde Se Fue",
       "url": "https://open.spotify.com/track/2TPZomzhdB7toV3cx0hj08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Amor Completo",
+      "url": "https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 231653,
       "name": "Primaveral",
       "url": "https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 276733,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Amantes Suicidas",
-      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 256773,
       "name": "Flaco",
       "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Amantes Suicidas",
+      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Pornocracia",
-      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 231320,
       "name": "Qu\u00edmica Mayor",
       "url": "https://open.spotify.com/track/1G9wM0DIuyxn0m0QeENIkl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Pornocracia",
+      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
-        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Tu Falta De Querer - En Vivo",
-      "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 211666,
       "name": "No Soy Para Ti",
       "url": "https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
+        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "Tu Falta De Querer - En Vivo",
+      "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n Sin Miedo",
-        "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "Canci\u00f3n Sin Miedo",
-      "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 200400,
       "name": "Celos",
       "url": "https://open.spotify.com/track/7eihx3GaEiFI3OGhQo6oL2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n Sin Miedo",
+        "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "Canci\u00f3n Sin Miedo",
+      "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
     },
     {
       "added_at": null,

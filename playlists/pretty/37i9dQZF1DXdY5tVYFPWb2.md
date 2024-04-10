@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,410 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,473 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,27 +86,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 76 | [Watching Over You](https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE) | [Peach & Apricot](https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX), [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Watching Over You](https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z) | 4:57 |
 | 77 | [HONDA](https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [HONDA](https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN) | 3:59 |
 | 78 | [SEPTEMBER](https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [SEPTEMBER](https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn) | 4:35 |
-| 79 | [Amber Bare Skin](https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:25 |
-| 80 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:43 |
-| 81 | [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 |
-| 82 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
-| 83 | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 3:45 |
+| 79 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:43 |
+| 80 | [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 |
+| 81 | [Amber Bare Skin](https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:25 |
+| 82 | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 3:45 |
+| 83 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
 | 84 | [楽園](https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [楽園](https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT) | 4:07 |
 | 85 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 |
 | 86 | [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 |
-| 87 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 |
-| 88 | [このまま夢で feat\. AAAMYYY](https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [NOTE](https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa) | 3:54 |
+| 87 | [このまま夢で feat\. AAAMYYY](https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [NOTE](https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa) | 3:54 |
+| 88 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 |
 | 89 | [丸ノ内サディスティック](https://open.spotify.com/track/06PEfLlv6z45MkCKemgyXM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [丸ノ内サディスティック](https://open.spotify.com/album/0SVLXumBBt6UUTALwxn67y) | 4:09 |
-| 90 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
-| 91 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 |
-| 92 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 |
+| 90 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 |
+| 91 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
+| 92 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 |
 | 93 | [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 |
 | 94 | [Million Miles Away \- Edit](https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Million Miles Away \(Edit\)](https://open.spotify.com/album/7lMcEyaYZeeI4DBC3d8bRq) | 3:31 |
-| 95 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 |
-| 96 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 |
+| 95 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 |
+| 96 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 |
 | 97 | [eden](https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ちがう](https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO) | 3:50 |
 | 98 | [真珠のピアス](https://open.spotify.com/track/5hkG4VCXTufcT05JSZqyRg) | [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 5:36 |
 | 99 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 |
 | 100 | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ) | 4:35 |
 
-Snapshot ID: `MCw3MTM0ZWY2YmQwZDIyMWZlN2U4ZDk5NzA3NzM5MWZkZTA0MjgyODVl`
+Snapshot ID: `MCw4NTVhZjQzYzFkZDk1ZjE4NmJhYWRiMDE2N2YzZjMwZDQzOWQzMTlj`

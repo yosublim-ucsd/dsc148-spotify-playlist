@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 41478,
+  "num_followers": 41492,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDI4N2NiNzhlMzQwOTMxNzM5ODZhMjVmMDUwNTY3YzgwNGQ5Njg2",
+  "snapshot_id": "MCw0YTMzYTY4ZjRiNzM1ZTFjNzEzOWJkOTY2OGQxZjUwNzkxYTkwNzFh",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gotta Be Patient",
         "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 160318,
       "name": "Gotta Be Patient",
       "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
     },
     {
       "added_at": null,

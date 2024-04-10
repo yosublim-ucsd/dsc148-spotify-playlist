@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,134 likes - 60 songs - 3 hr 12 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,133 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 3 | [Good Time](https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Good Time](https://open.spotify.com/album/0OnblvmyOmNIlMGL6rxLWx) | 3:06 |
 | 4 | [House](https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [House](https://open.spotify.com/album/6D6kw82gz48fycksFloqS5) | 3:10 |
 | 5 | [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 |
-| 6 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
+| 6 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
 | 7 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
 | 8 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 |
 | 9 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 |

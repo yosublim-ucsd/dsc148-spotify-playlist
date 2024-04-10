@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,658 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,654 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 37 | [Present Without A Bow](https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:50 |
 | 38 | [What Child Is This? \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5pHVGMJY8zuukdIAPpT1vj) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 3:57 |
 | 39 | [Christmas Dreaming](https://open.spotify.com/track/5qsQZxrp60YK1Fy0xMLfBp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:58 |
-| 40 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
-| 41 | [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 |
+| 40 | [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 |
+| 41 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
 | 42 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 |
-| 43 | [Silent Night, Holy Night](https://open.spotify.com/track/3TsoMWVVcbs1mKHBiW5aWz) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:15 |
-| 44 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
-| 45 | [Frosty the Snowman](https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 2:10 |
+| 43 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
+| 44 | [Silent Night, Holy Night](https://open.spotify.com/track/3TsoMWVVcbs1mKHBiW5aWz) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:15 |
+| 45 | [baby jesus is nobody’s baby now](https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody’s baby now](https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY) | 3:35 |
 | 46 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 |
-| 47 | [baby jesus is nobody’s baby now](https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody’s baby now](https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY) | 3:35 |
+| 47 | [Frosty the Snowman](https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 2:10 |
 | 48 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
 | 49 | [The Bells of St\. Mary's \- 45 Version](https://open.spotify.com/track/2W7S8BIesug04Wr1AdAalQ) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [White Christmas / The Bells of St\. Mary's](https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC) | 2:40 |
 | 50 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 |
 
-Snapshot ID: `MCw2ZTMwN2Y5NWY0Mjc2NmU2YTRjMzAxNDhlZWY2YTBlMjMwOTg1Nzk2`
+Snapshot ID: `MCxlODdlNzM5ZTQwMWNmMGYyNDdiODUzNWExMjY4YmM3MWRkNTc2MjNh`

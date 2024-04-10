@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Mad Caddies
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,420 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,439 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 56 | [Salida 32](https://open.spotify.com/track/6tWkhkZ7SHR3fDyX058p2s) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Salida 32](https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD) | 3:07 |
 | 57 | [Cuando Salga El Sol](https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [En La Tormenta](https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6) | 3:01 |
 | 58 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
-| 59 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
-| 60 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
+| 59 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
+| 60 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
 | 61 | [Somos del Barrio](https://open.spotify.com/track/6gKOMpon4qc0A9Z2z0XX8S) | [Rude Boys](https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z) | [El Precio del Sudor](https://open.spotify.com/album/2IL52akN7BWBZkH6Cx6Nnz) | 2:44 |
 | 62 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
 | 63 | [Take Five](https://open.spotify.com/track/3Jx2zlAdV9UPERSDhIFjwa) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/3wGPw3tffcWEPsCprWzvP3) | 5:04 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 85 | [Marchez](https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE) | [The Offenders](https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob) | [Class of Nations](https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1) | 3:11 |
 | 86 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
 | 87 | [Tania](https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Tania](https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F) | 4:21 |
-| 88 | [Boogie Stop Shuffle](https://open.spotify.com/track/16kCh9rnBTGunZJ9LVeRo8) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/3wGPw3tffcWEPsCprWzvP3) | 4:16 |
-| 89 | [Contigo Estaré Bien](https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rude Station](https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ) | 3:12 |
+| 88 | [Contigo Estaré Bien](https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rude Station](https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ) | 3:12 |
+| 89 | [Boogie Stop Shuffle](https://open.spotify.com/track/16kCh9rnBTGunZJ9LVeRo8) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/3wGPw3tffcWEPsCprWzvP3) | 4:16 |
 | 90 | [Night Boat to Cairo](https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 3:31 |
 | 91 | [Sleepin' on the Couch \(with The Elovaters\)](https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ), [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Shellshock](https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x) | 4:08 |
 | 92 | [Conscience is Heavy](https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR) | [The Inversions](https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [Conscience is Heavy](https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg) | 3:10 |
 | 93 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 94 | [El Ultimo Ska](https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:55 |
-| 95 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
-| 96 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
+| 95 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
+| 96 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
 | 97 | [Blessed with a Melody](https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [Blessed with a Melody](https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL) | 4:27 |
 | 98 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 | 99 | [Get Me Ready](https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Get Me Ready](https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB) | 2:49 |
 | 100 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
 
-Snapshot ID: `MCw0YjJmZjBlZDFmZTMzY2ZkZDkyM2I3OTEwMzVkMjg0Yzg2YTNmODc3`
+Snapshot ID: `MCw5Y2EyNTMwNTdkZDliNjVlNjhhNWFlYjdjMjI0MGJjOGE1MDM1ZDQw`

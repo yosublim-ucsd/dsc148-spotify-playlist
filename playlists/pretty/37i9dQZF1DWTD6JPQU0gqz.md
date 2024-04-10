@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,739 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,754 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 6 | [La Receta](https://open.spotify.com/track/5F9UDD7ZNbmyRFYyb4qF2z) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [La Receta](https://open.spotify.com/album/2KcbwgVZYmXv6Zh0hpY12y) | 2:55 |
 | 7 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
 | 8 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
-| 9 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
-| 10 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 |
+| 9 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 |
+| 10 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
 | 11 | [Soy Yo](https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:38 |
 | 12 | [Dominicana](https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:12 |
 | 13 | [La Rebelion](https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7) | [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX) | [La Rebelion](https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC) | 6:16 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 49 | [Vete Y Dile](https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Vete Y Dile](https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ) | 2:27 |
 | 50 | [Acuérdate De Mí](https://open.spotify.com/track/0KV5E5nAh0zU9M5eSORUgG) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 3:00 |
 | 51 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
-| 52 | [Malévola](https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 3:47 |
-| 53 | [Hey Mami](https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:26 |
+| 52 | [Hey Mami](https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:26 |
+| 53 | [Malévola](https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 3:47 |
 | 54 | [Quimbara](https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [50 éxitos de salsa cubana](https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX) | 4:53 |
 | 55 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
 | 56 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 64 | [Dormir Sola](https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 2:41 |
 | 65 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 |
 | 66 | [Don't Unplug My Body](https://open.spotify.com/track/1Y46ZYLzMBPwjfGWnIVm3B) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/23HEGSjUL7dakX0quTzUdC) | 4:58 |
-| 67 | [Negrita](https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx) | [Nitty Scott](https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg) | [Creature!](https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd) | 2:35 |
-| 68 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
+| 67 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
+| 68 | [Negrita](https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx) | [Nitty Scott](https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg) | [Creature!](https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd) | 2:35 |
 | 69 | [Gimme Light](https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Gimme Light](https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr) | 2:29 |
 | 70 | [Latinos](https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Latinos](https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30) | 3:31 |
 | 71 | [Dale](https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Dale](https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ) | 2:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 79 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 |
 | 80 | [Afro Mambo](https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [ABUC](https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo) | 3:45 |
 
-Snapshot ID: `MCwwOWQ0YTNjMzM4ZjEzYjEyOWQ4MTIwOWY3MTAzOTg2NmFiMzYwMzQ2`
+Snapshot ID: `MCw2ZGQ0Y2YwZTk0MWI1MGRiMTk5MzEzODEzNTM4MDZlYWQ5Nzg3M2Qw`

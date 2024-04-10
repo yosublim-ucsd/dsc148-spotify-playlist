@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Katie Pruitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,837,911 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,837,940 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 45 | [The Fall](https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Fall](https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc) | 3:27 |
 | 46 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
 | 47 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 |
-| 48 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 |
+| 48 | [Looking For](https://open.spotify.com/track/2BFAQKgIqQSPNXuDw08C83) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:06 |
 | 49 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
 | 50 | [Blame The Moon](https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Blame The Moon](https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2) | 3:43 |
 | 51 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 94 | [Where My Wild Things Are](https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Where My Wild Things Are](https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N) | 3:57 |
 | 95 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
 | 96 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
-| 97 | [4runner](https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 4:25 |
+| 97 | [4runner](https://open.spotify.com/track/30Uu3CWjWfudnTGTIrw93V) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:25 |
 | 98 | [Cast Iron Skillet](https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:24 |
 | 99 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 |
 | 100 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 |
 
-Snapshot ID: `MCxhODNkM2RiNzYyMmI0MjM3NjY0MjM4YzVkYzRiOTFlNDQ4OWI0YWQ0`
+Snapshot ID: `MCxmYzBkZWRkZDA0ZGMyYWQ2ZGFiOWQyMDQ5NTgxZmNmNzFkMWZkN2I2`

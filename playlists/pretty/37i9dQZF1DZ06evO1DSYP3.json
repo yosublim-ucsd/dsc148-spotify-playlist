@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGJmZmQ2NWVlYTQxNDVlNTM4N2M2ZTI4MTljZDJiMDE3NjhlZTJh",
+  "snapshot_id": "MCxmOGYxNjVhOTc3NjZjZjBhYTc3ZDVmZTAwMzI2Y2YzYmFhNzdiZDlj",
   "tracks": [
     {
       "added_at": null,
@@ -395,30 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Vault",
-        "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Nef The Pharaoh",
-          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 199508,
-      "name": "Power (feat. Nef The Pharaoh & P-Lo)",
-      "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Steppin' (Remix) [feat. E-40 & P-Lo]",
         "url": "https://open.spotify.com/album/67rMSc4nEWohwEYjA2MaJY"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 187715,
       "name": "Big Steppin' (feat. E-40 & P-Lo) - Remix",
       "url": "https://open.spotify.com/track/7wOG9tjfJUrdMQvV5BXJz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Vault",
+        "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Nef The Pharaoh",
+          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 199508,
+      "name": "Power (feat. Nef The Pharaoh & P-Lo)",
+      "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
     },
     {
       "added_at": null,
@@ -531,30 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRIME",
         "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
       },
@@ -595,6 +571,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Make a Move",
         "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
       },
@@ -611,26 +611,6 @@
       "duration_ms": 144060,
       "name": "Make a Move",
       "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
     },
     {
       "added_at": null,
@@ -667,6 +647,26 @@
       "duration_ms": 140811,
       "name": "Walked In",
       "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
     },
     {
       "added_at": null,

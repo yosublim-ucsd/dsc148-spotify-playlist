@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > Sapphic songs that defined your music taste as "yearning."
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,581 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,729 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 63 | [Sunshine Baby](https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:39 |
 | 64 | [Teenage Blue](https://open.spotify.com/track/6oWXWkwHKREYlBNuBCitFP) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Illuminaughty](https://open.spotify.com/album/6KiGqzmBh6yV7QOwFjA1sk) | 3:54 |
 | 65 | [I Know](https://open.spotify.com/track/0uhYgQQ6WX9rCONnum7Fmw) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:55 |
-| 66 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
-| 67 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 |
+| 66 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 |
+| 67 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
 | 68 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 |
 | 69 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
 | 70 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 74 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 |
 | 75 | [Mystery of Love](https://open.spotify.com/track/0MNNKSUU9OOQ8DSGWduw79) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me by Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU) | 4:08 |
 
-Snapshot ID: `MCw0YWViNzk0YjlmY2QwOTgyMTk2M2Y3YzdkM2M2NTJjNTM5YjZhODk5`
+Snapshot ID: `MCw2NTA3OWYwMDcyN2VhYTU3MjAzMTVhZWFhNmMyNWQ4N2YxODQ1MTdl`

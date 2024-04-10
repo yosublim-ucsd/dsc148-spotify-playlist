@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,724 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,785 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 19 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 |
 | 20 | [Society](https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 3:56 |
 | 21 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
-| 22 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
-| 23 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
+| 22 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
+| 23 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
 | 24 | [Featherstone](https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:49 |
 | 25 | [Pontos de Exclamação](https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Pontos de Exclamação](https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb) | 3:01 |
 | 26 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO) | 6:34 |
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 30 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
 | 31 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
 | 32 | [Céu Azul](https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Céu Azul](https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N) | 3:28 |
-| 33 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 |
+| 33 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 |
 | 34 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
-| 35 | [Cabelo De Anjo](https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu Feat\. Você](https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7) | 3:34 |
+| 35 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 |
 | 36 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 |
-| 37 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
-| 38 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 |
+| 37 | [Cabelo De Anjo](https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu Feat\. Você](https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7) | 3:34 |
+| 38 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
 | 39 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 |
 | 40 | [A Vida É Boa Com Você \- Voz E Violão](https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Simples](https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9) | 2:50 |
 | 41 | [Good People](https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Birch](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 |
 | 60 | [Telefonía](https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:04 |
 
-Snapshot ID: `MCxjN2NjYmIwYTY5YmQ2YWQ5MjVjYzQ1ODZiZDQ5ZmU0NDYwNTJhOWI5`
+Snapshot ID: `MCxmMGUyMWFiOWVhYTE0Y2U1MTNmNjU1YmVlNmFmZjI1N2E4ZDg1YTgx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: QWER) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Rolling Quartz(\ub864\ub9c1\ucffc\uce20)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/18Q5fVkHDMen1T72mHDEn4"
+      },
+      "artists": [
+        {
+          "name": "Son Chamchi",
+          "url": "https://open.spotify.com/artist/1DQsSFmlJUKZuyKZjJMlN2"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240941,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/6ThLKm5CVej5BYUdTH70q3"
+    },
+    {
+      "album": {
         "name": "Cherry",
         "url": "https://open.spotify.com/album/5KEoa9NpQYwraWlMYvrj7V"
       },
@@ -1873,6 +1891,46 @@
     },
     {
       "album": {
+        "name": "Crazy Weather (Our Pie X LUCY)",
+        "url": "https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223093,
+      "name": "Crazy Weather (Our Pie X LUCY)",
+      "url": "https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg"
+    },
+    {
+      "album": {
+        "name": "Cure (Original Soundtrack from vivinos \u2018alien stage\u2019, Pt.7)",
+        "url": "https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe"
+      },
+      "artists": [
+        {
+          "name": "AKUGETSU",
+          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
+        },
+        {
+          "name": "PARK BYEONG HOON",
+          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247941,
+      "name": "Cure (Original Soundtrack from vivinos \u2018alien stage\u2019, Pt.7)",
+      "url": "https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF"
+    },
+    {
+      "album": {
         "name": "daisy.",
         "url": "https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou"
       },
@@ -2050,6 +2108,24 @@
       "duration_ms": 324786,
       "name": "DIAMOND",
       "url": "https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB"
+    },
+    {
+      "album": {
+        "name": "Diary",
+        "url": "https://open.spotify.com/album/284VUSuILmOtajZTNXjpeq"
+      },
+      "artists": [
+        {
+          "name": "COOMO",
+          "url": "https://open.spotify.com/artist/1nl4mXUCxItd93nVFI76sX"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173375,
+      "name": "Diary",
+      "url": "https://open.spotify.com/track/3vQsUy6jyZpmc0N4EVQ040"
     },
     {
       "album": {
@@ -2689,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "falling flowers",
+        "url": "https://open.spotify.com/album/7E8wAPrJSayhaDNGuG5UF9"
+      },
+      "artists": [
+        {
+          "name": "BehindtheMoon",
+          "url": "https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204124,
+      "name": "falling flowers",
+      "url": "https://open.spotify.com/track/70QKJJkJKYuSGMVDrSg6Zg"
+    },
+    {
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
@@ -3036,6 +3130,24 @@
       "duration_ms": 175558,
       "name": "Fuckers Are Everywhere",
       "url": "https://open.spotify.com/track/6UgjTJdHdoMT5hOr9nF10G"
+    },
+    {
+      "album": {
+        "name": "GANGGANGSULLAE",
+        "url": "https://open.spotify.com/album/0Kbpx8QDYQIEzzA05MlsCZ"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206766,
+      "name": "GANGGANGSULLAE",
+      "url": "https://open.spotify.com/track/3Vmlbu7l4vhZfpXZ8d10ad"
     },
     {
       "album": {
@@ -3444,6 +3556,24 @@
       "duration_ms": 224015,
       "name": "HAPPENING",
       "url": "https://open.spotify.com/track/5dpQn0AXTRnJV0Ik1FcU47"
+    },
+    {
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/6hJ9uTCJk20Y8FLmV5CgBa"
+      },
+      "artists": [
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199420,
+      "name": "Hard to say goodbye",
+      "url": "https://open.spotify.com/track/2U7OKfz4JsIQNJo3LuJBiV"
     },
     {
       "album": {
@@ -3893,6 +4023,42 @@
     },
     {
       "album": {
+        "name": "TAN W SERIES \u20183TAN\u2019(WORLD Ver.) 1ST ALBUM",
+        "url": "https://open.spotify.com/album/6aWiQbt0V13GtSeKSX8wx5"
+      },
+      "artists": [
+        {
+          "name": "TAN",
+          "url": "https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "HYPERTONIC",
+      "url": "https://open.spotify.com/track/5POv5vVMmnjKkGd5zKM7Yw"
+    },
+    {
+      "album": {
+        "name": "HYPNOSIS",
+        "url": "https://open.spotify.com/album/0bEnhrI5XFjnTmewRdxc5q"
+      },
+      "artists": [
+        {
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "HYPNOSIS",
+      "url": "https://open.spotify.com/track/7qhjwn64be9d1ISv6EuVkl"
+    },
+    {
+      "album": {
         "name": "I AM FINE",
         "url": "https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX"
       },
@@ -4146,6 +4312,24 @@
       "duration_ms": 202253,
       "name": "I'll Find You",
       "url": "https://open.spotify.com/track/3GHSrN23rQc5qntnr6PtZO"
+    },
+    {
+      "album": {
+        "name": "I'll Love You All The Time (Art by Tae Hyunyoung)",
+        "url": "https://open.spotify.com/album/3mp2QXg2VvlNSflsQbULAQ"
+      },
+      "artists": [
+        {
+          "name": "Park So Eun",
+          "url": "https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168290,
+      "name": "I'll Love You All The Time",
+      "url": "https://open.spotify.com/track/1BOYINiqYpWhrKSbMFen5Q"
     },
     {
       "album": {
@@ -4828,6 +5012,24 @@
       "duration_ms": 248407,
       "name": "Let Me Love My Youth",
       "url": "https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO"
+    },
+    {
+      "album": {
+        "name": "The Escape of the Seven : Resurrection OST Part.1",
+        "url": "https://open.spotify.com/album/3GYhbIyOKMR2MtpPv9nifY"
+      },
+      "artists": [
+        {
+          "name": "YOARI",
+          "url": "https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218960,
+      "name": "Let's Burn Down",
+      "url": "https://open.spotify.com/track/3V8c7NeQIwxcsuHSsCo89e"
     },
     {
       "album": {
@@ -5975,6 +6177,24 @@
     },
     {
       "album": {
+        "name": "POWER ANDRE 99",
+        "url": "https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221390,
+      "name": "NO PAIN",
+      "url": "https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd"
+    },
+    {
+      "album": {
         "name": "No, Thanks (Feat. Zion.T)",
         "url": "https://open.spotify.com/album/1vVPwJYmieA4IgrddBOCcQ"
       },
@@ -6780,6 +7000,24 @@
       "duration_ms": 211866,
       "name": "Police Class",
       "url": "https://open.spotify.com/track/0jdXQM3NDFpxLz1ZH4XvCK"
+    },
+    {
+      "album": {
+        "name": "KOSHIEN",
+        "url": "https://open.spotify.com/album/27V5Zkabh3T1YQJjdwV8Gb"
+      },
+      "artists": [
+        {
+          "name": "Kim Seung Joo",
+          "url": "https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213807,
+      "name": "Poor Little Cake",
+      "url": "https://open.spotify.com/track/4BBHp4LONJ886Sgav5ed4L"
     },
     {
       "album": {
@@ -7607,6 +7845,24 @@
     },
     {
       "album": {
+        "name": "POWER ANDRE 99",
+        "url": "https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249159,
+      "name": "Ryudejakeiru",
+      "url": "https://open.spotify.com/track/11Ndi6W2TSe8f4jNRb0ZgO"
+    },
+    {
+      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp"
       },
@@ -8405,6 +8661,42 @@
     },
     {
       "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/6njdeDKC1o4NNfKJ70xoXB"
+      },
+      "artists": [
+        {
+          "name": "Rolling Quartz",
+          "url": "https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170793,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/0axmhpEAeimz7SJx5lA01j"
+    },
+    {
+      "album": {
+        "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218042,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
+    },
+    {
+      "album": {
         "name": "STAR DUST",
         "url": "https://open.spotify.com/album/0ltZ0m8qh833WDHfAvwai8"
       },
@@ -8636,6 +8928,24 @@
       "duration_ms": 186120,
       "name": "Summer Thief",
       "url": "https://open.spotify.com/track/67OONnnL2GIjIYl7TwlCuc"
+    },
+    {
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/4NopJoIie2kGycobjMxg1u"
+      },
+      "artists": [
+        {
+          "name": "WhiteUsedSocks",
+          "url": "https://open.spotify.com/artist/6DOPRiywZshVyewhu0XTbY"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239332,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/0bu7PlYH1oG9HNDFqKuj7x"
     },
     {
       "album": {
@@ -10027,6 +10337,24 @@
     },
     {
       "album": {
+        "name": "When You Alone",
+        "url": "https://open.spotify.com/album/5a5j76wF3KPnRnhcazQSfG"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180680,
+      "name": "When you alone",
+      "url": "https://open.spotify.com/track/3p6aAa50gOAzb6QAOuYNb2"
+    },
+    {
+      "album": {
         "name": "Where Am I",
         "url": "https://open.spotify.com/album/6nvrZGRQVezq6C8VDHENfr"
       },
@@ -10962,6 +11290,28 @@
       "duration_ms": 202440,
       "name": "\uc2dc\uc791",
       "url": "https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP"
+    },
+    {
+      "album": {
+        "name": "\uc544\ub984\ub2e4\uc6e0\ub358 \ub108\uc5d0\uac8c (Feat. \ucd94\uc11c\uc900)",
+        "url": "https://open.spotify.com/album/42NNKD5OS2Dm6OM0FDKAjZ"
+      },
+      "artists": [
+        {
+          "name": "Biyun",
+          "url": "https://open.spotify.com/artist/1AwnvAdxdytU1fwZ0uKqsZ"
+        },
+        {
+          "name": "Chu Seo Jun",
+          "url": "https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197413,
+      "name": "\uc544\ub984\ub2e4\uc6e0\ub358 \ub108\uc5d0\uac8c (Feat. \ucd94\uc11c\uc900)",
+      "url": "https://open.spotify.com/track/14RITV3hrIexqMrp1jVMpF"
     },
     {
       "album": {

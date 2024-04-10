@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-105 songs - 5 hr 33 min
+106 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ellos Dicen Mierda](https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ellos Dicen Mierda](https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R) | 4:39 | 2023-12-08 |  |
 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 | 2023-12-08 |  |
 | [Empacho de Orfidal](https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [El Mutante del Barrio Chino](https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j) | 3:12 | 2023-12-08 |  |
+| [En el submundo](https://open.spotify.com/track/5mUs1TQHbF99wGctZh38XW) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [En el submundo](https://open.spotify.com/album/4XJwrCBfNwsJMqCFV2SJcS) | 2:11 | 2024-04-04 |  |
 | [Enamorado de la Muerte](https://open.spotify.com/track/4o4Za92dG4itin0vLzLgyc) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/3E9M7ZsG1OePw7cN6KT9ZB) | 3:49 | 2023-12-08 |  |
 | [Enemigo Publico](https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:38 | 2023-12-08 |  |
 | [Esclavos del Siglo XXI](https://open.spotify.com/track/0tk6HwFFBSkbrn8sGKaZgq) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 2:39 | 2023-12-08 |  |
@@ -96,7 +97,7 @@
 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 | 2023-12-08 |  |
 | [Preso 2023](https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Raska Y Pierde](https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH) | 3:30 | 2023-12-08 |  |
 | [Qué ha sido de ti](https://open.spotify.com/track/14MU1VPIIrciowTRCdZJ4u) | [Fundación Francisco Frankenstein](https://open.spotify.com/artist/3H42o6gQ9x0SioRXqtbGcf) | [Gente de Bien](https://open.spotify.com/album/6fxxDhr98JYsoI1Zp86wcT) | 1:50 | 2023-12-08 | 2024-01-19 |
-| [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 | 2023-12-08 |  |
+| [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 | 2023-12-08 | 2024-04-10 |
 | [Resistiré \- En Directo](https://open.spotify.com/track/60qqPA0MLA1KgMCyinwjIW) | [Los Muertos de Cristo](https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p) | [Bienvenidos al Infierno \(En Directo\)](https://open.spotify.com/album/4YFrai6oEA49jgPxPbpnt7) | 3:47 | 2023-12-08 |  |
 | [Salgo a la Calle](https://open.spotify.com/track/3KOep0HeA6PxeoLT4I4Ixx) | [Elektroduendes](https://open.spotify.com/artist/7oboTHVarRYloS0WJxGSJW) | [Salgo a la Calle](https://open.spotify.com/album/3wdwyHXHc5NKboxzLsE6pS) | 4:07 | 2023-12-08 | 2024-04-05 |
 | [Salve](https://open.spotify.com/track/6KQLnQDDqaqGqog4jsiYb7) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Salve](https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP) | 3:06 | 2023-12-08 |  |

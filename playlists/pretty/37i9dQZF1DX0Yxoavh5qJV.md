@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,624,096 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,623,470 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 99 | [What Christmas Means to Me \(feat\. Stevie Wonder\)](https://open.spotify.com/track/13XMz3rpVYITzjFIsSYlZ1) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 2:40 |
 | 100 | [Silent Night](https://open.spotify.com/track/1rRb8IFx7OYqlZnt6ag7cP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 4:11 |
 
-Snapshot ID: `MCw2ZTM2M2I0YjQ2NDJiNjMzYzRjNmNiZjFhNDBjZWFjMzZiOTRhY2I0`
+Snapshot ID: `MCxkOGJkYWE4MDI2YTEwNWIwYzVkMmI0M2IzNjUzYWFlOGQyZTk4NmRi`

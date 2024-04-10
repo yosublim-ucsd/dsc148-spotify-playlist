@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,681,263 likes - 140 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,681,258 likes - 140 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 82 | [Howling Wind](https://open.spotify.com/track/4zrnQfvi5zFqZXivgpcKuP) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Looking Glass](https://open.spotify.com/album/00hzdJCM7mCbwkDRgN7r5n) | 4:11 |
 | 83 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
 | 84 | [Old Gods](https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [American Siren](https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn) | 3:46 |
-| 85 | [Collecting Dust](https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Collecting Dust](https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4) | 2:58 |
+| 85 | [Collecting Dust](https://open.spotify.com/track/7L3f431pANoi2Mq9RP4hHD) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [If your tired heart is aching...](https://open.spotify.com/album/2CIWOiav9CO8CgVXfwOatC) | 2:58 |
 | 86 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 87 | [Phoenix](https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:30 |
 | 88 | [Resolution](https://open.spotify.com/track/6WDUEu8kkQVYAucW4dFWzk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Resolution](https://open.spotify.com/album/4yftX7ZqXZ6a6e1IXZlThq) | 3:38 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 139 | [Harder Way](https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 3:17 |
 | 140 | [Stay Alive \- Cover](https://open.spotify.com/track/0cm34ja39LyPxK2oddv90s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive \(COVERS\)](https://open.spotify.com/album/3I1ZWDd8jAs6aztutLGVDm) | 3:53 |
 
-Snapshot ID: `MCxjMDk5MmZmYWJmYmY1M2UwZThmOWFkZGJiNmQ2MmM4MDY0NTdkZjk3`
+Snapshot ID: `MCwyOTkzZjI5Njk0OTliOTc4N2NiODQ0ZDlhMDM3MmNiNzU3MWEwMTZh`

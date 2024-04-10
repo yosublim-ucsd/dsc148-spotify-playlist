@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,346 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,354 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 82 | [My Love \(Work Harder\)](https://open.spotify.com/track/1vQQGG93pNmSUK4o1lNzD0) | [Soulchaser](https://open.spotify.com/artist/1kzRFs7LyMmSf4N7TEObWt) | [My Love \(Work Harder\)](https://open.spotify.com/album/0KMZfo8Xk4c9v6M1ngj8WH) | 2:24 |
 | 83 | [Hou ik te weinig van mezelf](https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Hou ik te weinig van mezelf](https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0) | 2:24 |
 | 84 | [You Win](https://open.spotify.com/track/406quAahnEyERGT0EinaiM) | [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [You Win](https://open.spotify.com/album/6ANvJpZEvGfkYNN8mFrGif) | 2:35 |
-| 85 | [Thrash](https://open.spotify.com/track/4pYh2g7nKlSZmE33sS2QxV) | [Stella](https://open.spotify.com/artist/46gCA7cp3vzZpJWB7fS1db) | [Thrash](https://open.spotify.com/album/3iDxiM9BnL4Z6Cuvz2yg3D) | 4:02 |
+| 85 | [Trash](https://open.spotify.com/track/4pYh2g7nKlSZmE33sS2QxV) | [Stella](https://open.spotify.com/artist/46gCA7cp3vzZpJWB7fS1db) | [Trash](https://open.spotify.com/album/3iDxiM9BnL4Z6Cuvz2yg3D) | 4:02 |
 | 86 | [Aardbei en Vanille](https://open.spotify.com/track/4TZjJSHcExsyHgHlgvOmwQ) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Aardbei en Vanille](https://open.spotify.com/album/5GjRV1K4ngwxvORNRo0xfn) | 3:22 |
-| 87 | [BLACK DOG / WHITE HORSE \- bd/wh](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 |
+| 87 | [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 |
 | 88 | [Oh Emma](https://open.spotify.com/track/3Hw3iY34TYPXLDochBPjqc) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Oh Emma](https://open.spotify.com/album/05X7826UK8nDVhJ0AOWNJp) | 3:34 |
 | 89 | [Concentrate](https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Concentrate](https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP) | 2:43 |
 | 90 | [9mm](https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [9mm](https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Cherish](https://open.spotify.com/track/256duzyAQ2cgNI0Bh89K0m) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Cherish](https://open.spotify.com/album/5OVwztAS3zX3ufTgXZNA8R) | 2:28 |
 | 100 | [Point of View](https://open.spotify.com/track/6aF81cWRsSIK0lF7sirYat) | [Okke Punt](https://open.spotify.com/artist/62eGoLRCLKqObqDkLfYDVP) | [Point of View](https://open.spotify.com/album/6fBdzISWaqSWYjiT3H5TXO) | 3:53 |
 
-Snapshot ID: `MCw5YTJjZGQ4ODc2YTFhZWY5YmZkNzVmZjdmODIyYTRiNTlkMzAzYTNm`
+Snapshot ID: `MCwzNTg1ZDE4MzQwMDcyNTQwNjJmYzM0NjEyMzMyNmQwYzgyNzE0NmE3`

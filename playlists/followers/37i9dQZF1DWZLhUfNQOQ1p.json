@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 247124,
+  "2024-04-10": 247131,
   "date_first_scraped": "2022-05-09",
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
   "name": "Aperitivo Time",
@@ -1229,6 +1229,24 @@
       "duration_ms": 218360,
       "name": "Crying Wolf",
       "url": "https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva"
+    },
+    {
+      "album": {
+        "name": "Cubism",
+        "url": "https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193322,
+      "name": "Cubism",
+      "url": "https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl"
     },
     {
       "album": {
@@ -5775,7 +5793,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 186173,
       "name": "WestBorn",
       "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"

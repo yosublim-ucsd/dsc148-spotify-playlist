@@ -1,12 +1,12 @@
 {
   "description": "New jazz for open minds. Cover: Kamasi Washington",
-  "num_followers": 922976,
+  "num_followers": 923125,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTdkNWU1OTVkNjczMWM1NGIwZjdhM2Q5MzM5NjIwYTZjZGM1OTNm",
+  "snapshot_id": "MCw5MTJkYzljNTI3N2NlMWUyMmY1ZjYyM2Q0MmMzZGQ3YTlhNjhkZDY2",
   "tracks": [
     {
       "added_at": "2024-04-05 04:35:11",
@@ -386,6 +386,26 @@
         {
           "name": "Ilhan Ersahin",
           "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        },
+        {
+          "name": "Z\u00e9 Nigro",
+          "url": "https://open.spotify.com/artist/2gPKUWOiCVJK5v1yJUHTpj"
+        },
+        {
+          "name": "Guizado",
+          "url": "https://open.spotify.com/artist/4NPJKSHs1jS8WnNluRkwia"
+        },
+        {
+          "name": "Samuel Fraga",
+          "url": "https://open.spotify.com/artist/2mpAj2D2BoMz4ra17HOt7V"
+        },
+        {
+          "name": "Chicao",
+          "url": "https://open.spotify.com/artist/1kkb0jK0tfP38dHvdgPCEi"
+        },
+        {
+          "name": "Tony Gordin",
+          "url": "https://open.spotify.com/artist/038cgR3JY9LjfO5Uaas1Rf"
         }
       ],
       "duration_ms": 340975,

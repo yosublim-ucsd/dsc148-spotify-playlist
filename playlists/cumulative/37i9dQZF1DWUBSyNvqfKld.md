@@ -4,12 +4,13 @@
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-68 songs - 6 hr 30 min
+69 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abroad](https://open.spotify.com/track/69KUcRKeRNSM1kZIKbACqE) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [System Theory EP](https://open.spotify.com/album/7JycrMeQMBjDdplu8dAIgh) | 6:16 | 2022-07-25 | 2023-11-09 |
-| [AF 97](https://open.spotify.com/track/4QXZWqTqFFTxCucmUNep5f) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [AF 97](https://open.spotify.com/album/0rc1NsAYfw6THSPAxGQLbM) | 6:09 | 2023-11-08 |  |
+| [AF 97](https://open.spotify.com/track/3NCTe6dLVEfn5PW23isz4b) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [Klockworks 38](https://open.spotify.com/album/2QaDKEWEunZVwWwEqVKdtV) | 6:09 | 2023-11-08 |  |
+| [AF 97](https://open.spotify.com/track/4QXZWqTqFFTxCucmUNep5f) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [AF 97](https://open.spotify.com/album/0rc1NsAYfw6THSPAxGQLbM) | 6:09 | 2023-11-08 | 2024-04-10 |
 | [After](https://open.spotify.com/track/5rvuGXmbeVKav2eIV040cY) | [TWR72](https://open.spotify.com/artist/3xppiQ1WFn0sPv4ZQJjqzO) | [Club Cult Vol\. 2](https://open.spotify.com/album/0sVDAbCohLRPMkQp65wMlF) | 5:35 | 2023-11-08 |  |
 | [Anna Purple Mix](https://open.spotify.com/track/6NnBjnd7Uap9QRXDXGlcyy) | [Talismann](https://open.spotify.com/artist/6EbNaM2bFGGDaPKTNG1PT2) | [Kliniek 1](https://open.spotify.com/album/5di0L6fNz9Lq5o3FuIOONA) | 6:55 | 2023-11-08 |  |
 | [Be Mad](https://open.spotify.com/track/5OHgprTdZ1ZFMbciajnMF6) | [Kashpitzky](https://open.spotify.com/artist/1Emez61BnxzKMb3ygXnN9E) | [Intermission](https://open.spotify.com/album/6PuWnRzSAnKsgmMTho2Chn) | 5:57 | 2022-07-25 | 2023-11-09 |

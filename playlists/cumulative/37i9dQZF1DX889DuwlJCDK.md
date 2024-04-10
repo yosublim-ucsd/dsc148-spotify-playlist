@@ -2,9 +2,9 @@
 
 ### [青春と一瞬](https://open.spotify.com/playlist/37i9dQZF1DX889DuwlJCDK)
 
-> 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: トンボコープ
+> 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: からあげ弁当
 
-618 songs - 1 day 13 hr 46 min
+619 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1999](https://open.spotify.com/track/3Q4bV0lhRmxUugbyIUCVtr) | [molly](https://open.spotify.com/artist/7gWcKdcutmkQ3igGkCuvh0) | [1999](https://open.spotify.com/album/1EYZI5SQx4qS7urzpbIBKp) | 3:21 | 2023-07-27 | 2023-08-09 |
 | [19歳](https://open.spotify.com/track/4PGO1WN2PBktU8BamRo80z) | [ポンツクピーヤ](https://open.spotify.com/artist/0j56Vr9S3Iq3Inp8pLX02Q) | [19歳/シット・バイアス・ミュージック](https://open.spotify.com/album/5Sntp3QM3VhnDAJDD56eki) | 3:15 | 2023-07-27 | 2024-01-24 |
 | [2016](https://open.spotify.com/track/0nfp4POInJUO8NggfyxJrq) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [2016](https://open.spotify.com/album/263uX6djCW564bhaGS35tN) | 4:45 | 2023-12-12 | 2024-01-10 |
+| [22](https://open.spotify.com/track/1ezSlfETdnObyRLB8UjBav) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [22](https://open.spotify.com/album/3Yri9jP2cnN0wLiYUJpTFQ) | 2:25 | 2024-04-09 |  |
 | [24/7](https://open.spotify.com/track/5Y0wyXD0vDlBB0jYaZICa9) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [24/7](https://open.spotify.com/album/143tV77vkc85Ng1qmJiheo) | 3:24 | 2023-12-19 | 2024-01-03 |
 | [456](https://open.spotify.com/track/4HJhFTBUpvQHvfm7qjQlYZ) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [456](https://open.spotify.com/album/5Eh10wXkYJPtrP8wPQ77co) | 2:52 | 2023-11-09 | 2024-03-20 |
 | [50%](https://open.spotify.com/track/5RtvjcgyI2NfATzDmExssD) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [50%](https://open.spotify.com/album/7CusFsKBwVfBIUKN1dZsni) | 4:06 | 2024-03-07 | 2024-03-31 |
@@ -64,7 +65,7 @@
 | [Date!](https://open.spotify.com/track/1isIg6cTY6nuIDfnnZdZx0) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Date!](https://open.spotify.com/album/5wF4vrkMJnn29cFWKe6MfL) | 2:09 | 2023-10-05 | 2023-10-18 |
 | [Dawn](https://open.spotify.com/track/3xFka9Fj3vn299vIBqFUVu) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Dawn](https://open.spotify.com/album/16a4yEozxkuenTZ2EZ9fkw) | 4:27 | 2024-02-06 | 2024-03-13 |
 | [DAWN](https://open.spotify.com/track/7qu2sVmtyhtUZIwh607B9w) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [DAWN](https://open.spotify.com/album/728AONhuNSuYDoo6AH4q6E) | 4:27 | 2024-02-06 | 2024-02-08 |
-| [DAY DREAM BEAT](https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [純異性交遊](https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3) | 3:58 | 2023-07-27 |  |
+| [DAY DREAM BEAT](https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [純異性交遊](https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3) | 3:58 | 2023-07-27 | 2024-04-10 |
 | [Dive](https://open.spotify.com/track/0e5R5RHym5iKSPUzES8Nt6) | [Kanna](https://open.spotify.com/artist/47U5PirBYuleMsuD307qej) | [Youth](https://open.spotify.com/album/1QS0b8uup5KXDD858XJecR) | 3:00 | 2023-12-05 | 2023-12-13 |
 | [DREAMING](https://open.spotify.com/track/1LfAIH5nQ4l6TroHIK0eDr) | [ナキシラベ](https://open.spotify.com/artist/21JFi8x5t39v1BXNANlyNc) | [DREAMING](https://open.spotify.com/album/5n31FJk4YywyQyeiTWU1nq) | 3:45 | 2023-12-05 | 2023-12-13 |
 | [Dreamy Soul Of Language](https://open.spotify.com/track/2VwjtQtzLbss67dDHtjSr0) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Dreamy Soul Of Language](https://open.spotify.com/album/28BP4mS8hNnYdC6qtzlI1O) | 3:23 | 2023-09-05 | 2023-09-27 |

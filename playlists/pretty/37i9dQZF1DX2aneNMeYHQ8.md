@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,337 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,352 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 23 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 |
 | 24 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 |
 | 25 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
-| 26 | [Good](https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Deluxe](https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS) | 3:05 |
-| 27 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
+| 26 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
+| 27 | [Good](https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Deluxe](https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS) | 3:05 |
 | 28 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
 | 29 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 |
 | 30 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 63 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 |
 | 64 | [Spit Of You](https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spit Of You](https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ) | 4:33 |
 | 65 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 |
-| 66 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
-| 67 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 |
+| 66 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 |
+| 67 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
 | 68 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 |
 | 69 | [Day by Day](https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl) | 3:12 |
 | 70 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 72 | [Evicted](https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 3:29 |
 | 73 | [Crutch](https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact) | 3:43 |
 | 74 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 |
-| 75 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
+| 75 | [Delilah](https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa) | 4:23 |
 | 76 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 |
 | 77 | [The Woodpile](https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:27 |
-| 78 | [Delilah](https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa) | 4:23 |
+| 78 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
 | 79 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
 | 80 | [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 |
 | 81 | [Another good year for the roses](https://open.spotify.com/track/7BQVqJwiQCnbE70DlpJoL5) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Back to Moon Beach](https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ) | 5:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 |
 | 100 | [Monsters](https://open.spotify.com/track/09rfu2MDFDESVeAMlKMaCf) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 3:33 |
 
-Snapshot ID: `MCw1Nzk1MTExZDA1NjNjMjcwNjZlZmU0MjgxZDQyYTBlOTdhMTZmOWQz`
+Snapshot ID: `MCxhNjgxM2Q5YTAzYWU4M2E2ZDk0ZTMyY2IyY2MyYjkxNzE4Y2UwNmUx`

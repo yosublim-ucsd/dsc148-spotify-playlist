@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-222 songs - 13 hr 34 min
+223 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2022-06-20 | 2022-07-05 |
 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 | 2022-06-20 |  |
 | [Happiness \(feat\. Vincent Blue\)](https://open.spotify.com/track/14dJLoAlJFuypnXt5DJUKj) | [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Happiness \(feat\. Vincent Blue\)](https://open.spotify.com/album/4NrlQcmJI8EUHBklSnAS7F) | 3:53 | 2022-06-20 | 2022-07-29 |
+| [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 | 2024-04-09 |  |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-06-20 | 2022-07-14 |
 | [haze](https://open.spotify.com/track/5tk3TXsF2wumsj8Cq24v5g) | [GRACY 그레씨](https://open.spotify.com/artist/58u1UWevJvtHatOoupz6bD) | [haze](https://open.spotify.com/album/4UFQ9QaMbdSfCgSZeFNXwM) | 2:50 | 2022-06-20 | 2022-06-23 |
 | [Hi, hello?](https://open.spotify.com/track/71zma1WRfDRYHxI5SBM0jb) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 4:08 | 2022-06-20 | 2022-07-24 |
@@ -226,7 +227,7 @@
 | [달](https://open.spotify.com/track/3mXE4PCmf8x62yobMefpLj) | [Jihye Lee](https://open.spotify.com/artist/5npSy7josu0VCS1YgHDHLC) | [카페 비러스윗사운드 20年 6月](https://open.spotify.com/album/1ckwykQkDdcluxytZ7035M) | 4:52 | 2022-06-20 | 2022-06-26 |
 | [부재](https://open.spotify.com/track/5FYlzhVc0DjOjBLmVDxHeY) | [새벽두시](https://open.spotify.com/artist/3amhjUtXBmRcWRP95ZqXxg) | [부재](https://open.spotify.com/album/2u6zEun4YhmDvkuWbm6Nmc) | 2:54 | 2022-07-08 | 2022-07-14 |
 | [비 오는 날](https://open.spotify.com/track/3way1Bx5wQvuMKuMKq0I5w) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [비 오는 날](https://open.spotify.com/album/6TCx3R4b6vUMkrbQqTNJJU) | 3:57 | 2022-07-08 | 2022-07-13 |
-| [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 | 2022-08-13 |  |
+| [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 | 2022-08-13 | 2024-04-10 |
 | [쏟아지는 비에](https://open.spotify.com/track/7hNmfopH2QKUSeCR6EhBss) | [Jeon Joo Hong 전주홍](https://open.spotify.com/artist/1bkeDrFoCknn3oyHstfBZr) | [쏟아지는 비에](https://open.spotify.com/album/5I8lsE4Vq1DTbQQUawT284) | 4:01 | 2022-06-20 | 2022-06-26 |
 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 | 2022-08-13 |  |
 | [위로 \(드라마 \`커피프린스 1호점\` 삽입곡\)](https://open.spotify.com/track/3GhnqwtkPibkoNvR2RXR25) | [Misty Blue](https://open.spotify.com/artist/7LyaQJxH634U3S8Xu6DDrK) | [너의 별 이름은 시리우스 B](https://open.spotify.com/album/6gz1O9yXaYpHFQmbfcqBnT) | 5:21 | 2022-07-13 | 2022-07-29 |

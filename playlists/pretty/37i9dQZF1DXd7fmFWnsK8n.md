@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,384 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,395 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 48 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 |
 | 49 | [SEPTET for...](https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [SEPTET for...](https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ) | 4:20 |
 | 50 | [No Sacrifice](https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 4:06 |
-| 51 | [Happy Days Creation!](https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 5:04 |
+| 51 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
 | 52 | [ONE dream](https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj) | [ONE dream](https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E) | 4:28 |
 | 53 | [フォトフレーム](https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [キズナ](https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B) | 5:10 |
 | 54 | [Love two you](https://open.spotify.com/track/4VE4Nm0MCqKIYqRiLffNBf) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw) | [Love two you](https://open.spotify.com/album/1mm3C2rMN35Qi1vsyfy3nd) | 4:45 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 67 | [WiSH VOYAGE](https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:07 |
 | 68 | [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 |
 | 69 | [SUISAI](https://open.spotify.com/track/7n8DHAHozfOs0BVTuLz6yf) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [SUISAI](https://open.spotify.com/album/2UyYOPqetfV1dB9MfImIol) | 4:59 |
-| 70 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
+| 70 | [Happy Days Creation!](https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 5:04 |
 
-Snapshot ID: `MCxhMDBkZDQwMzFjZTVjNTJiZDJlZTRhNTQxY2RiZmZjMDY4MWZlNWRh`
+Snapshot ID: `MCxmMGEzMGRmZmQyZWM4NjY0OTc4OWEwMWQxMzJmYmMxZGI5NzEzMTI2`

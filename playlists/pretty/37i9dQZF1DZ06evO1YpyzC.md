@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,801 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,859 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 3 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
 | 4 | [What Ifs \(feat\. Lauren Alaina\)](https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:08 |
 | 5 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 |
-| 6 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
-| 7 | [One Thing Right](https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Thing Right](https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J) | 3:01 |
-| 8 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 |
+| 6 | [One Thing Right](https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Thing Right](https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J) | 3:01 |
+| 7 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 |
+| 8 | [Famous Friends](https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 2:46 |
 | 9 | [Bury Me in Georgia \- Single Edit](https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Bury Me in Georgia](https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo) | 2:50 |
 | 10 | [Memory](https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Memory](https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk) | 2:33 |
 | 11 | [Good as You](https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:12 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 50 | [Move On](https://open.spotify.com/track/1oHaysAy4fA9EusHpPk5Bn) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:11 |
 | 51 | [Comeback](https://open.spotify.com/track/0O39q1NfkVnMurlMwMAEZm) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:45 |
 
-Snapshot ID: `MCw2MTYwYjUwMGUwNGNhYjBkNzMzNTc5ZmJmMDhiODQ5YWRlZGRiM2I1`
+Snapshot ID: `MCxjZGVkYjA5ODZmM2I4ZTk5OTk0YmMzYzI2Yzg2YTVjNTdjZWYxYjRi`

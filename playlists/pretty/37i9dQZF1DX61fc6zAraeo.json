@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98357,
+  "num_followers": 98376,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTczZjEzOTQ5MWUwM2ViNzg1NGE1NjkzY2I2ODMyMDllNGM5MmQw",
+  "snapshot_id": "MCw4N2FkN2E5MGJjZTM4NDYwMzQzODFkMzJkOGE2ZDJmNDI5NmRkODVi",
   "tracks": [
     {
       "added_at": "2024-04-03 12:35:22",
@@ -343,22 +343,18 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc"
+        "name": "Still Fall",
+        "url": "https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 195446,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC"
+      "duration_ms": 209102,
+      "name": "Still Fall",
+      "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -383,18 +379,22 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "Still Fall",
-        "url": "https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f"
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 209102,
-      "name": "Still Fall",
-      "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
+      "duration_ms": 195446,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 161658,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 181417,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 161658,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "LOUI LANE",
-          "url": "https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN"
-        }
-      ],
-      "duration_ms": 147253,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
         "name": "Careful What You Wish For (feat. Alida)",
         "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 176264,
       "name": "Careful What You Wish For (feat. Alida)",
       "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "LOUI LANE",
+          "url": "https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN"
+        }
+      ],
+      "duration_ms": 147253,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
         "name": "Rapture (with Robert Falcon)",
         "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 170039,
       "name": "Chances",
       "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        {
+          "name": "Sary",
+          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
         "name": "Waste My Time",
         "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
       },
@@ -1547,22 +1567,18 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik"
+        "name": "Can't Control",
+        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
       },
       "artists": [
         {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        },
-        {
-          "name": "Sary",
-          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
         }
       ],
-      "duration_ms": 162222,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
+      "duration_ms": 177139,
+      "name": "Can't Control",
+      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -1603,22 +1619,6 @@
       "duration_ms": 121750,
       "name": "Could You Be The One",
       "url": "https://open.spotify.com/track/3akNbKGTCFPUeB7xEaDQ5j"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
-        "name": "Can't Control",
-        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Can't Control",
-      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
+        "name": "Nothing In Common",
+        "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nothing In Common",
+      "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 174624,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
-        "name": "Nothing In Common",
-        "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Raphi",
-          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nothing In Common",
-      "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
-      },
-      "artists": [
-        {
-          "name": "HEATT",
-          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/6Y7JwDOKKOZPjvcLVQxoDc"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 180000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1fg2EDQRqMdrkDZE0JS2Wu"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
+      },
+      "artists": [
+        {
+          "name": "HEATT",
+          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
     },
     {
       "added_at": "2024-04-03 12:35:22",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2024-04-03 12:35:22",
       "album": {
-        "name": "A Little Bit More",
-        "url": "https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo"
-      },
-      "artists": [
-        {
-          "name": "Gaudini",
-          "url": "https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX"
-        },
-        {
-          "name": "KVKI",
-          "url": "https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms"
-        }
-      ],
-      "duration_ms": 145161,
-      "name": "A Little Bit More",
-      "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
-    },
-    {
-      "added_at": "2024-04-03 12:35:22",
-      "album": {
         "name": "Only You and I",
         "url": "https://open.spotify.com/album/47cpXq5eoAPVwTojjZwYP3"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 175300,
       "name": "Only You and I",
       "url": "https://open.spotify.com/track/79KGZzqNgevzXDN18Gmdqm"
+    },
+    {
+      "added_at": "2024-04-03 12:35:22",
+      "album": {
+        "name": "A Little Bit More",
+        "url": "https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo"
+      },
+      "artists": [
+        {
+          "name": "Gaudini",
+          "url": "https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX"
+        },
+        {
+          "name": "KVKI",
+          "url": "https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "A Little Bit More",
+      "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
     },
     {
       "added_at": "2024-04-03 12:35:22",

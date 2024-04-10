@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9738,
+  "num_followers": 9746,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDIyZmRmNDEzOTljZWE5OTdhZDUxMGRhOTVlYTI4YTgxMTg0NGI2",
+  "snapshot_id": "MCwyMTk2ZWM3MjY3NTMyMjdmZDZkMGVkYzM0MTA1NGI5YTY0ZDFjZTkz",
   "tracks": [
     {
       "added_at": "2024-03-27 14:49:50",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-03-27 14:49:50",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
-      },
-      "artists": [
-        {
-          "name": "CHO JUNG SEOK",
-          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
-    },
-    {
-      "added_at": "2024-03-27 14:49:50",
-      "album": {
         "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
         "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 226560,
       "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
       "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
+    },
+    {
+      "added_at": "2024-03-27 14:49:50",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
+      },
+      "artists": [
+        {
+          "name": "CHO JUNG SEOK",
+          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
     },
     {
       "added_at": "2024-03-27 14:49:50",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-27 14:49:50",
       "album": {
-        "name": "A New Decade",
-        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
-      },
-      "artists": [
-        {
-          "name": "DINDIN",
-          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Should Not Love You",
-      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
-    },
-    {
-      "added_at": "2024-03-27 14:49:50",
-      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
+    },
+    {
+      "added_at": "2024-03-27 14:49:50",
+      "album": {
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Should Not Love You",
+      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
     },
     {
       "added_at": "2024-03-27 14:49:50",

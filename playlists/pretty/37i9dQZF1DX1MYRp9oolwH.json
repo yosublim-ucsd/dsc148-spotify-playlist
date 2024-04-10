@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : The Family Star",
-  "num_followers": 120387,
+  "num_followers": 120452,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzY4ZjRlMGE1YmIyMGVlYTdhOWQ1ZjYxZThlMDYyNWM0NzVjMmZi",
+  "snapshot_id": "MCwzN2IyMzk5ZjExMDk0YmQ3MWRkZmIxYTEyMzUwNzUwODIxOGRhNzVh",
   "tracks": [
     {
       "added_at": "2024-02-07 10:49:22",
@@ -59,26 +59,6 @@
       "duration_ms": 217381,
       "name": "Gallanthe (From \"Eagle\")",
       "url": "https://open.spotify.com/track/7vfbmFFmduAa4f76UxmuVx"
-    },
-    {
-      "added_at": "2024-02-23 12:06:34",
-      "album": {
-        "name": "Paravasame (From \"Maruva Tarama\")",
-        "url": "https://open.spotify.com/album/6pPAT2KFG1TYqTse9EUjAH"
-      },
-      "artists": [
-        {
-          "name": "Vijai Bulganin",
-          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
-        },
-        {
-          "name": "Gowtham Bharadwaj",
-          "url": "https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Paravasame (From \"Maruva Tarama\")",
-      "url": "https://open.spotify.com/track/7BoWSahwaBcTHvzlW1pH6a"
     },
     {
       "added_at": "2024-02-09 12:02:40",
@@ -143,6 +123,30 @@
       "duration_ms": 230425,
       "name": "Gaganaala-Love is in the Air (From \"Operation Valentine\")",
       "url": "https://open.spotify.com/track/368K2vpr06WF92JU7cDAnD"
+    },
+    {
+      "added_at": "2024-04-09 09:04:36",
+      "album": {
+        "name": "Oh Madam (From \"Aa Okkati Adakku\")",
+        "url": "https://open.spotify.com/album/2m8aC0IEcJ8PAkB1ovb7xa"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "duration_ms": 282636,
+      "name": "Oh Madam (From \"Aa Okkati Adakku\")",
+      "url": "https://open.spotify.com/track/469cEOKrNx6i174DME9w60"
     },
     {
       "added_at": "2024-03-18 10:53:06",

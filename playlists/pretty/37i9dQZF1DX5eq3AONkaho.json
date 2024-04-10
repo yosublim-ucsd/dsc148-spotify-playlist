@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 110892,
+  "num_followers": 110905,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTdlY2FjOTU1OTUxNmZlZTU0NTM0ODE5ODMxN2EyZGUxMzJhMDRk",
+  "snapshot_id": "MCw0OWQyY2Q0NjgzNDcwNmIxMjMyMTMwM2NmMTMzYjMxN2VhY2VjNjZl",
   "tracks": [
     {
       "added_at": "2024-03-27 14:47:03",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         }
       ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+      "duration_ms": 188080,
+      "name": "Smoothie",
+      "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 174646,
       "name": "That That (prod.&feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
-        "name": "DREAM( )SCAPE",
-        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Smoothie",
-      "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210817,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 192441,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "I Love My Body",
-        "url": "https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 150176,
-      "name": "I Love My Body",
-      "url": "https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 214253,
       "name": "LILAC",
       "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "I Love My Body",
+        "url": "https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 150176,
+      "name": "I Love My Body",
+      "url": "https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -1607,18 +1607,26 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
+        "name": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit]",
+        "url": "https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068"
       },
       "artists": [
         {
           "name": "SHAUN",
           "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        },
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 214136,
-      "name": "Way Back Home",
-      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+      "duration_ms": 192452,
+      "name": "Way Back Home (feat. Conor Maynard) - Sam Feldt Edit",
+      "url": "https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -1783,26 +1791,18 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit]",
-        "url": "https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068"
+        "name": "Take",
+        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
       },
       "artists": [
         {
           "name": "SHAUN",
           "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        },
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 192452,
-      "name": "Way Back Home (feat. Conor Maynard) - Sam Feldt Edit",
-      "url": "https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk"
+      "duration_ms": 214136,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 189355,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
@@ -1927,6 +1907,42 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
+        "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 189355,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "The 1st Mini Album 'WE UNIS'",
+        "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
+      },
+      "artists": [
+        {
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "SUPERWOMAN",
+      "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
         "name": "YOUTH IN THE SHADE",
         "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
       },
@@ -1939,6 +1955,22 @@
       "duration_ms": 180988,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -1967,18 +1999,18 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "Hot Sauce - The 1st Album",
-        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 195813,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
+      "duration_ms": 217053,
+      "name": "Blueming",
+      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -1999,22 +2031,6 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Blueming",
-      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
         "name": "\u56de:Walpurgis Night",
         "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
       },
@@ -2031,22 +2047,6 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "SPIN OFF : FROM THE WITNESS",
-        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 197025,
-      "name": "HALAZIA",
-      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
         "name": "SEVENTEEN 1ST ALBUM [FIRST \u2018LOVE&LETTER\u2019]",
         "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
       },
@@ -2059,6 +2059,22 @@
       "duration_ms": 207299,
       "name": "Pretty U",
       "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 197025,
+      "name": "HALAZIA",
+      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -2083,22 +2099,6 @@
       "duration_ms": 219549,
       "name": "BTBT",
       "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
-        "name": "The 1st Mini Album 'WE UNIS'",
-        "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
-      },
-      "artists": [
-        {
-          "name": "UNIS",
-          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "SUPERWOMAN",
-      "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
-      },
-      "artists": [
-        {
-          "name": "GOT the beat",
-          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
         "name": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
         "url": "https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 184905,
       "name": "Savage Love (Laxed \u2013 Siren Beat) [BTS Remix]",
       "url": "https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
+      },
+      "artists": [
+        {
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "Chili",
-        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Chili",
-      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 175106,
       "name": "But Sometimes",
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -2679,22 +2679,6 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 205192,
-      "name": "ALWAYS",
-      "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
         "name": "Midnight Guest",
         "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
       },
@@ -2707,6 +2691,22 @@
       "duration_ms": 204293,
       "name": "DM",
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 205192,
+      "name": "ALWAYS",
+      "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -2819,22 +2819,6 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "Glitch Mode - The 2nd Album",
-        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Glitch Mode",
-      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -2855,6 +2839,22 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Glitch Mode",
+      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
       },
@@ -2867,6 +2867,22 @@
       "duration_ms": 198795,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
+        "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 220745,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -2891,38 +2907,6 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
-        "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 220745,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
-      },
-      "artists": [
-        {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
-        }
-      ],
-      "duration_ms": 189355,
-      "name": "Energetic",
-      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
         "name": "Neon Future III",
         "url": "https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV"
       },
@@ -2943,18 +2927,18 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "FIRST IMPACT",
-        "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
       "artists": [
         {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
         }
       ],
-      "duration_ms": 183693,
-      "name": "WA DA DA",
-      "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
+      "duration_ms": 189355,
+      "name": "Energetic",
+      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -2971,6 +2955,22 @@
       "duration_ms": 233586,
       "name": "Good day",
       "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "FIRST IMPACT",
+        "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "WA DA DA",
+      "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -3131,18 +3131,18 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "FATE NUMBER FOR",
-        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN"
       },
       "artists": [
         {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
         }
       ],
-      "duration_ms": 203056,
-      "name": "REALLY REALLY",
-      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
+      "duration_ms": 192240,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -3163,34 +3163,18 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN"
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
       },
       "artists": [
         {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
         }
       ],
-      "duration_ms": 192240,
-      "name": "BODY",
-      "url": "https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
-        "name": "NO MORE (MA BOY)",
-        "url": "https://open.spotify.com/album/3dmsztvqxTfUqTrsu0Z7Ke"
-      },
-      "artists": [
-        {
-          "name": "SISTAR19",
-          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "NO MORE (MA BOY)",
-      "url": "https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi"
+      "duration_ms": 203056,
+      "name": "REALLY REALLY",
+      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -3227,6 +3211,22 @@
     {
       "added_at": "2024-03-27 14:47:03",
       "album": {
+        "name": "NO MORE (MA BOY)",
+        "url": "https://open.spotify.com/album/3dmsztvqxTfUqTrsu0Z7Ke"
+      },
+      "artists": [
+        {
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "NO MORE (MA BOY)",
+      "url": "https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
         "name": "Star To A Young Culture",
         "url": "https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR"
       },
@@ -3255,6 +3255,22 @@
       "duration_ms": 178013,
       "name": "Memories",
       "url": "https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq"
+    },
+    {
+      "added_at": "2024-03-27 14:47:03",
+      "album": {
+        "name": "TREASURE EPILOGUE : Action To Answer",
+        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
     },
     {
       "added_at": "2024-03-27 14:47:03",
@@ -3335,22 +3351,6 @@
       "duration_ms": 212136,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
-    },
-    {
-      "added_at": "2024-03-27 14:47:03",
-      "album": {
-        "name": "TREASURE EPILOGUE : Action To Answer",
-        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
     },
     {
       "added_at": "2024-03-27 14:47:03",

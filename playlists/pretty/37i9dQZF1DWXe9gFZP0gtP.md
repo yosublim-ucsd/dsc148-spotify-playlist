@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,467,202 likes - 251 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,467,510 likes - 251 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -260,4 +260,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 250 | [Inevitability](https://open.spotify.com/track/0k5TnsKv68q20aE1sJYY7a) | [Fannie Shelton](https://open.spotify.com/artist/3IgG6CQo3mfhUsT1AgNWum) | [Inevitability](https://open.spotify.com/album/6nRr1olpoiH9pky8VQ1eZW) | 3:31 |
 | 251 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 |
 
-Snapshot ID: `MCxmMDlhZTU2ODcwYjIyMWY3NDUyOGMyMjBjM2I1YjZjYWI4N2I0NzY1`
+Snapshot ID: `MCw1ZDkzN2M1ZDVlNmUyMmRlMGU0MzU2MWNkZGU3ZWUyNTc4ZjU5ODBk`

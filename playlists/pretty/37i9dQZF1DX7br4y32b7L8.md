@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,804 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,856 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 2 | [Lady Killers II \- Christoph Andersson Remix](https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H) | 4:57 |
 | 3 | [Brommers Kieken](https://open.spotify.com/track/1sFOo3OyMgonEYdi4bTXHd) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os) | [Brommers Kieken](https://open.spotify.com/album/3AryJg88r4Hr8mSj74KaVP) | 2:26 |
 | 4 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 |
-| 5 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
-| 6 | [Est\-ce que tu m'aimes? \- Techno Mix](https://open.spotify.com/track/4Wfhrtx2YYGF6PuO3aejek) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf) | [Est\-ce que tu m'aimes? \(Techno Mix\)](https://open.spotify.com/album/2gHbzrnertShfYSJiCps6C) | 2:36 |
-| 7 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
+| 5 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
+| 6 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
+| 7 | [Est\-ce que tu m'aimes? \- Techno Mix](https://open.spotify.com/track/4Wfhrtx2YYGF6PuO3aejek) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf) | [Est\-ce que tu m'aimes? \(Techno Mix\)](https://open.spotify.com/album/2gHbzrnertShfYSJiCps6C) | 2:36 |
 | 8 | [Ode To The Bouncer \- Hard Techno Edit](https://open.spotify.com/track/0x3c6okTJMGsYmTYtz8NDA) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer \(Hard Techno Edit\)](https://open.spotify.com/album/3rU4QBfwX89HyLrfNk1wWF) | 3:17 |
 | 9 | [Karma](https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Karma](https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak) | 3:07 |
 | 10 | [Friendly Pressure \- Into The Sunshine Mix](https://open.spotify.com/track/0RZmpy15J6VSzx3IPuNEmR) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 79 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 80 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 
-Snapshot ID: `MCwyYWNiM2JhZDE5MjIyZDg4ZTU1YTIxZDgyMGJmNGJjMzAwYmIyMGY2`
+Snapshot ID: `MCwxYWMxZmFlNDFmN2E3NTBlMzU2YTQwNGU1MDU0OTU3NDA0ODgxNTEw`

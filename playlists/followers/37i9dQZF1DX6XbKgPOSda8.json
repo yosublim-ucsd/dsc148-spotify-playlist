@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 197709,
+  "2024-04-10": 197811,
   "date_first_scraped": "2022-05-26",
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
   "name": "Cumbias Para Bailar",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 235128,
       "name": "Alma De Acero",
       "url": "https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 210040,
       "name": "Amigos Nada M\u00e1s",
       "url": "https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3"
@@ -273,6 +273,28 @@
       "duration_ms": 232493,
       "name": "Amor Sin Primavera",
       "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
+    },
+    {
+      "album": {
+        "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
+        "url": "https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194638,
+      "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
+      "url": "https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V"
     },
     {
       "album": {
@@ -648,6 +670,24 @@
     },
     {
       "album": {
+        "name": "Recuerdos Andinos",
+        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236813,
+      "name": "Cumbia Azteca",
+      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
+    },
+    {
+      "album": {
         "name": "Disco De Oro - Cumbia",
         "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
@@ -717,7 +757,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 202200,
       "name": "Cumbia de las Flores",
       "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
@@ -793,6 +833,42 @@
       "duration_ms": 221622,
       "name": "Cumbia De Los Patos",
       "url": "https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb"
+    },
+    {
+      "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
+        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
+      },
+      "artists": [
+        {
+          "name": "Joe Rodriguez Y Su Grupo Latino",
+          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199447,
+      "name": "Cumbia de los Pobres",
+      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
+    },
+    {
+      "album": {
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+      },
+      "artists": [
+        {
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "album": {
@@ -897,7 +973,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 208560,
       "name": "Dese\u00e1ndote",
       "url": "https://open.spotify.com/track/6wciX1W2HHnpGO1dhqY0A5"
@@ -919,6 +995,24 @@
       "duration_ms": 214173,
       "name": "Destilando Amor",
       "url": "https://open.spotify.com/track/6Gi35T5449ZbiGpzn9cfBl"
+    },
+    {
+      "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "album": {
@@ -1066,6 +1160,28 @@
     },
     {
       "album": {
+        "name": "El Amor De Mi Vida",
+        "url": "https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM"
+    },
+    {
+      "album": {
         "name": "Con Musica Del Barrio y Para El Barrio",
         "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
       },
@@ -1171,6 +1287,24 @@
       "duration_ms": 216346,
       "name": "El Gigante De Hierro",
       "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
+    },
+    {
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/1r7t7V2Nd8J0HqTWyk7VVl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216362,
+      "name": "El Gigante De Hierro",
+      "url": "https://open.spotify.com/track/1ZJNo8bONshDKu7VQGeaw1"
     },
     {
       "album": {
@@ -1331,6 +1465,24 @@
       "duration_ms": 255293,
       "name": "El Viejo Del Sombrer\u00f3n",
       "url": "https://open.spotify.com/track/287DFeg3xmSQbiu2shxHlI"
+    },
+    {
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287896,
+      "name": "En Mi Escritorio (La Carta)",
+      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "album": {
@@ -1620,6 +1772,28 @@
     },
     {
       "album": {
+        "name": "La Cumbia Triste",
+        "url": "https://open.spotify.com/album/2GKBfuu1ab0QKzOpyrvMva"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "La Cumbia Triste",
+      "url": "https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr"
+    },
+    {
+      "album": {
         "name": "La Monjita Voladora - Cumbia Sonidera",
         "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
       },
@@ -1635,6 +1809,24 @@
       "duration_ms": 249768,
       "name": "La Monjita Voladora - Cumbia Sonidera",
       "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
+    },
+    {
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166256,
+      "name": "La Pobreza - Rebajada",
+      "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
     },
     {
       "album": {
@@ -1707,7 +1899,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 174933,
       "name": "La Velludita",
       "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
@@ -1786,6 +1978,24 @@
     },
     {
       "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316004,
+      "name": "Las Palmitas del Ecuador",
+      "url": "https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C"
+    },
+    {
+      "album": {
         "name": "Llorando Estoy Llorando",
         "url": "https://open.spotify.com/album/5j4KgvUsrja7wCzPpQQbgF"
       },
@@ -1805,7 +2015,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 215400,
       "name": "Llorando Estoy Llorando",
       "url": "https://open.spotify.com/track/2RKZeewX6sS5MKklB9m9VV"
@@ -1863,7 +2073,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 188333,
       "name": "Mal de Amores",
       "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
@@ -2095,7 +2305,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189040,
       "name": "Mi Ni\u00f1a Mujer",
       "url": "https://open.spotify.com/track/5T01Xvq4sH0rakGkI1T5O5"
@@ -2301,10 +2511,32 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 217973,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/3ZPxSh4Tif71ilz50LOrAT"
+    },
+    {
+      "album": {
+        "name": "Cumbia Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k"
     },
     {
       "album": {
@@ -2384,6 +2616,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Con Clase",
+        "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tecno De Beto Y Juan",
+          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254883,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
+    },
+    {
+      "album": {
         "name": "30 Mezcladitas de Oro para la Farra",
         "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
       },
@@ -2417,7 +2667,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 186213,
       "name": "Pedir Permiso",
       "url": "https://open.spotify.com/track/1pUD2zi5taWDeHbYsw2wLv"
@@ -2597,7 +2847,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 238266,
       "name": "Qu\u00e9 Locura Enamorarme De Ti",
       "url": "https://open.spotify.com/track/4yPxW8J2cW4JS1pcHvZzp6"
@@ -2615,7 +2865,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 203133,
       "name": "Rosas Para Ti",
       "url": "https://open.spotify.com/track/2WjJZOWT3BdKhB2dizZNra"
@@ -2775,7 +3025,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 225242,
       "name": "Te Ves Fatal",
       "url": "https://open.spotify.com/track/4JZ1V44A2liaxtjzrGnRLU"
@@ -2930,6 +3180,24 @@
     },
     {
       "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253857,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
+    },
+    {
+      "album": {
         "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
         "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
       },
@@ -3075,6 +3343,24 @@
       "duration_ms": 206346,
       "name": "Vuela Mariposa",
       "url": "https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2"
+    },
+    {
+      "album": {
+        "name": "Yo Quiero Chupar / Solo Exitos",
+        "url": "https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215524,
+      "name": "Yo Quiero Chupar",
+      "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12581,
+  "num_followers": 12587,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmVlMDcxZThhNDI2ZDcwM2IzYjc0NWVlNjU3MDExZjE5MTZkYjFh",
+  "snapshot_id": "MCw2ODJkYzlkZGJmYmU5ODVhY2NjN2MzMjc4YzRlMWM5MzAwZmJjMDQ3",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -279,22 +279,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Tha Smokin' Nephew",
         "url": "https://open.spotify.com/album/42LlDinsxjsByAqqpZXRp4"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 239026,
       "name": "Suga Suga",
       "url": "https://open.spotify.com/track/6Nq5lE0CeOAAAqN4qhkbZU"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -835,26 +835,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Calog3ro",
-        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        },
-        {
-          "name": "Passi",
-          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Face \u00e0 la mer",
-      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Suit",
         "url": "https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 336506,
       "name": "My Place",
       "url": "https://open.spotify.com/track/1NAyvpW70a9lxY0YlLWFV4"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Calog3ro",
+        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        },
+        {
+          "name": "Passi",
+          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Face \u00e0 la mer",
+      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
     },
     {
       "added_at": "2020-10-27 12:12:52",

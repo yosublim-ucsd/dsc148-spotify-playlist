@@ -4,7 +4,7 @@
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 12 min
+60 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Besos en Cualquier Horario](https://open.spotify.com/track/31nEAXAPZTr21xzxCxF38a) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Lucy Vives](https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4) | [Besos en Cualquier Horario](https://open.spotify.com/album/6zCIUD6SfbJWpDy7YBzH7h) | 3:00 | 2023-09-25 |  |
 | [Bota Fuego \(feat\. Dímelo Flow, Justin Quiles & Lenny Tavárez\) \- Remix](https://open.spotify.com/track/4MxYiw28F30NGOaTZ1ySqd) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Bota Fuego \(feat\. Dímelo Flow, Justin Quiles & Lenny Tavárez\) \[Remix\]](https://open.spotify.com/album/45YWYjXP1nV0l61m50E5dL) | 4:12 | 2023-09-25 |  |
 | [Cachito](https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cachito](https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf) | 3:08 | 2023-09-25 |  |
-| [Cariño Mío](https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cariño Mío](https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz) | 3:17 | 2023-09-25 |  |
+| [Cariño Mío](https://open.spotify.com/track/6Mq4WZPK1hYSVSlNMcdSMe) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cariño Mío](https://open.spotify.com/album/1ji75N7d6k9Btn72mVLWyj) | 3:17 | 2024-04-10 |  |
+| [Cariño Mío](https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cariño Mío](https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz) | 3:17 | 2023-09-25 | 2024-04-10 |
 | [Darnos Un Tiempo](https://open.spotify.com/track/1zaALt2FHgNUrOg5jzFF8J) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 3:15 | 2023-09-25 |  |
 | [Desconocidos](https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:24 | 2023-09-25 |  |
 | [Despiértate](https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Despiértate](https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF) | 2:58 | 2023-09-25 |  |

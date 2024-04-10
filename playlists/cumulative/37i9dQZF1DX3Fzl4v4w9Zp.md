@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Marcus King
 
-642 songs - 1 day 15 hr 44 min
+643 songs - 1 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-02-25 | 2022-05-14 |
 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 | 2021-12-17 | 2022-05-20 |
 | [Game For Guessing \(feat\. Robert Ellis\)](https://open.spotify.com/track/7gfAs8iAcGUN2ygd4HBEmq) | [Zachary Williams](https://open.spotify.com/artist/6u4hfometCwpGaIAanlTAv), [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Game For Guessing \(feat\. Robert Ellis\)](https://open.spotify.com/album/2QmCRzZ6vaOZS2lnuH2KWx) | 3:01 | 2021-12-17 | 2022-09-24 |
+| [Gentle Violence](https://open.spotify.com/track/4kjktXON6BJg5CVntKzsWP) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Visitor](https://open.spotify.com/album/06SkY6G0aiZJVwNCPwkcb4) | 3:53 | 2024-04-09 |  |
 | [Georgia Moon](https://open.spotify.com/track/4rccvQd9g94LPiej5ZQk4l) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Georgia Moon](https://open.spotify.com/album/1aTeIVCm5KoH9X91c1h3rR) | 4:09 | 2023-07-28 |  |
 | [Get Down](https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Get Down](https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ) | 2:31 | 2021-12-17 | 2022-06-25 |
 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/0yEK6lJ4hZw1mx2nIQ5i66) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Get It ‘Fore It’s Gone](https://open.spotify.com/album/36rWb7X5e9PkWN8wpsVFXW) | 3:34 | 2021-12-17 | 2022-08-06 |

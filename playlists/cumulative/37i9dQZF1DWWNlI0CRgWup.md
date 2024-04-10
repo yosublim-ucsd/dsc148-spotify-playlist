@@ -2,7 +2,7 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Yvnnis
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Zélie
 
 168 songs - 8 hr 43 min
 

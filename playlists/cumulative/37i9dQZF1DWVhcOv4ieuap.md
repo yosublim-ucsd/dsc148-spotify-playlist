@@ -4,7 +4,7 @@
 
 > Alegra tu día con lo más pop para la mañana.
 
-326 songs - 17 hr 33 min
+327 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Borracho De Amor](https://open.spotify.com/track/4QtQgsK7DChmU4EM5NtqyK) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Borracho De Amor](https://open.spotify.com/album/5UQzf2MzbX7qGysHDX11Pg) | 2:55 | 2022-01-01 | 2022-04-16 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 | 2024-01-12 |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-06-03 |  |
-| [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 | 2022-06-03 |  |
+| [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 | 2022-06-03 | 2024-04-10 |
 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2022-12-01 | 2023-06-19 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-12-01 |  |
 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 | 2023-11-17 |  |
@@ -58,6 +58,7 @@
 | [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 | 2022-06-03 |  |
 | [Conquistar El Planeta](https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Conquistar El Planeta](https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd) | 2:43 | 2023-03-04 | 2023-03-21 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 |  |
+| [Contravía](https://open.spotify.com/track/0RF0vTHsseW7qa0hO4Nlac) | [Alessandra Aguirre](https://open.spotify.com/artist/0m4SQNU6NyIJxjsSQRGfpB) | [Contravía](https://open.spotify.com/album/21IAal1ql6WvdscCoi3cmx) | 3:00 | 2024-04-09 |  |
 | [Contágiate](https://open.spotify.com/track/2TDO45AdrOFAVgkRwRDVU3) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Contágiate](https://open.spotify.com/album/1bC3ab18doTjxlcELYLEAc) | 3:25 | 2022-01-01 | 2022-06-04 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-06-03 | 2022-12-02 |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-05-25 |  |

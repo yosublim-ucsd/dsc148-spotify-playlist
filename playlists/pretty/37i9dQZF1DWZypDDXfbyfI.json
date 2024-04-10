@@ -1,29 +1,13 @@
 {
   "description": "\u00c9xitos de todos los tiempos musicalizan tu cocina.",
-  "num_followers": 241977,
+  "num_followers": 242062,
   "original_name": "Cocina de cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2FkMDhiMGNiZjUzN2NhNTk3NmRhNjI2Y2ZlNGM0NzE3YmFiMDY5",
+  "snapshot_id": "MCxkY2RlZWJhOThmOTVkM2VlMzhlYzkxZTdlODNlNzgwY2E2YWExZTgy",
   "tracks": [
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 233478,
-      "name": "Locked out of Heaven",
-      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
-    },
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 233478,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 281613,
       "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
       "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -519,38 +519,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -563,38 +531,6 @@
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -615,18 +551,50 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+      "duration_ms": 224493,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -647,6 +615,54 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony - Remastered 2016",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Heart Shaped World",
         "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 289066,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Point Of Know Return (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Dust in the Wind",
+      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Point Of Know Return (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
       },
       "artists": [
         {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
         }
       ],
-      "duration_ms": 206266,
-      "name": "Dust in the Wind",
-      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
+      "duration_ms": 213573,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
         "name": "Once Upon A Time (Super Deluxe)",
         "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 263040,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "La Grange (2005 Remaster)",
+      "url": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "La Grange (2005 Remaster)",
-      "url": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Some Girls",
         "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 245640,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -1519,6 +1519,38 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
         "name": "Reggatta De Blanc (Remastered 2003)",
         "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
       },
@@ -1547,38 +1579,6 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
-        "name": "The La's",
-        "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
-      },
-      "artists": [
-        {
-          "name": "The La's",
-          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
     },
     {
       "added_at": "2024-03-25 14:03:49",

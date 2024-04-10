@@ -1,12 +1,12 @@
 {
   "description": "No procrastination allowed. Only fun songs to help you get chores done.",
-  "num_followers": 507686,
+  "num_followers": 507764,
   "original_name": "Get Chores Done",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmZhYzQ0MTY2MDNkMGE4NzMwOTI5MTM2MTQzYmZmMDIzYWE1NTlj",
+  "snapshot_id": "MCxkZGE1NzAxNWRlNWMyMzI0YWVkODI0MjdjZDNjNDExNzYxNmIxNmU1",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -439,6 +439,34 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
+      },
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 258431,
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -471,30 +499,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Heist",
-        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
       "artists": [
         {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
         },
         {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 258431,
-      "name": "Can't Hold Us (feat. Ray Dalton)",
-      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
+      "duration_ms": 269666,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -515,26 +535,6 @@
       "duration_ms": 204160,
       "name": "Timber",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Uptown Special",
-        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "Uptown Funk (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 258893,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 231240,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1075,18 +1059,34 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
         }
       ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Abba",
         "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 213266,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3?",
-        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
       "artists": [
         {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 174546,
-      "name": "\u00bfC\u00f3mo Pas\u00f3?",
-      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 192190,
       "name": "My House",
       "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
     },
     {
       "added_at": "2024-03-15 04:00:00",

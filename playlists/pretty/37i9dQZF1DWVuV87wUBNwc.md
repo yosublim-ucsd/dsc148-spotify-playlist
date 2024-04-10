@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Dua Lipa au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,249,503 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,249,900 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 |
 | 50 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 |
 
-Snapshot ID: `MCw2ZTRhZDgyZDhjZThlMmVlNjAxNDZjMWYxYjI4MjkzZDliZTEyODEy`
+Snapshot ID: `MCw3MTQzYWJhZDRjNGJhODQ3ZWFiYzY2ZTU0OGI4OGRiNzJlNDQ4ODEy`

@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 29804,
+  "2024-04-10": 29856,
   "date_first_scraped": "2023-02-25",
   "description": "songs voor je playlist! #fyp",
   "name": "Viral Hits NL",
@@ -209,7 +209,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 199680,
       "name": "Ademnood",
       "url": "https://open.spotify.com/track/2eDMoEp6O5taokIJa6heCj"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 136350,
       "name": "AH TXE TXE",
       "url": "https://open.spotify.com/track/79wWpQPAcfqEeYCDjqGOVY"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 278670,
       "name": "Call Your Mom",
       "url": "https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j"
@@ -2563,7 +2563,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 255413,
       "name": "Happy Nation",
       "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
@@ -3139,6 +3139,24 @@
       "duration_ms": 156250,
       "name": "In De Brand (Tatu Tatu)",
       "url": "https://open.spotify.com/track/1450zwvqtMB5fPk8Jhgcwq"
+    },
+    {
+      "album": {
+        "name": "R.A.P.",
+        "url": "https://open.spotify.com/album/0rCJcTS4ROCxbkO5N4RvOJ"
+      },
+      "artists": [
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127578,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5XCdD3ctuEP5PcirLvhvVN"
     },
     {
       "album": {
@@ -5965,7 +5983,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 108342,
       "name": "Rare flex",
       "url": "https://open.spotify.com/track/6gIoKG5cvpoQBfdbNToMUQ"
@@ -6485,7 +6503,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 123000,
       "name": "Slowdown (girl what's up)",
       "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
@@ -6845,7 +6863,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 205520,
       "name": "Stukje Van Mij",
       "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
@@ -7197,7 +7215,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 240746,
       "name": "Things We Lost In The Fire",
       "url": "https://open.spotify.com/track/6qOxF7JKKNegcuocn14ukr"
@@ -7557,7 +7575,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 201968,
       "name": "Verliefd Op Je Moeder",
       "url": "https://open.spotify.com/track/7i23TTo8rtoPiEDeMzn7Af"
@@ -8075,7 +8093,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 191459,
       "name": "Zakelijke Crush",
       "url": "https://open.spotify.com/track/3W8JPY2BajmXFaSt273oc6"

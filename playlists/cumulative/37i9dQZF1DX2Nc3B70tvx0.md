@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Vampire Weekend
 
-2,112 songs - 5 day 7 hr 7 min
+2,114 songs - 5 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [17](https://open.spotify.com/track/1yrJuYAIcCH9oNS9T0QJPt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 3:06 | 2021-09-03 | 2022-04-09 |
 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 | 2020-12-22 | 2021-12-10 |
 | [2001](https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2001](https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX) | 4:26 | 2022-05-27 | 2022-07-01 |
-| [2016](https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [2016](https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA) | 3:00 | 2024-02-16 |  |
+| [2016](https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [2016](https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA) | 3:00 | 2024-02-16 | 2024-04-10 |
 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 | 2023-05-09 | 2023-10-07 |
 | [20200817 Proud True Toyota](https://open.spotify.com/track/4OeO5Xc50TRVG3ofaxM1rn) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:02 | 2023-04-28 | 2023-05-20 |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-03-16 | 2022-04-07 |
@@ -142,7 +142,7 @@
 | [Apple](https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Apple](https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK) | 3:24 | 2022-01-28 | 2022-04-20 |
 | [Apple Crumble](https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Apple Crumble](https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB) | 3:09 | 2021-10-04 | 2022-01-10 |
 | [April](https://open.spotify.com/track/4BWECSqC8MdCihhbcTynUk) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/1PAsUJFVKxmdofGFsFU3Df) | 3:18 | 2020-02-28 | 2020-06-12 |
-| [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 | 2024-04-04 |  |
+| [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 | 2024-04-04 | 2024-04-10 |
 | [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 | 2022-07-20 | 2022-08-26 |
 | [Archive 81](https://open.spotify.com/track/72K6hldjaNmLFpvPIBIiXp) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Archive 81](https://open.spotify.com/album/1zdajIdMnoprAM6WgaGzrH) | 3:41 | 2023-11-06 | 2023-12-11 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/2iyWlA4yxOs2hWN3x6fa8g) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Scrawny / Are You Bored Yet?](https://open.spotify.com/album/0i7wFYWvxxfR5V7DvMZFVL) | 2:58 | 2019-05-26\* | 2020-04-03 |
@@ -802,6 +802,7 @@
 | [Hitchhiking](https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:03 | 2023-11-06 | 2024-02-23 |
 | [Hold It Down](https://open.spotify.com/track/2OvuQMxW5b0VT8btiNugfL) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Hold It Down](https://open.spotify.com/album/42XEoPWaLmNLzCKZfiUywT) | 3:14 | 2020-04-03 | 2020-09-25 |
 | [Hold It Together](https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hold It Together](https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb) | 3:42 | 2020-03-14 | 2021-05-22 |
+| [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 | 2024-04-09 |  |
 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 | 2022-08-31 | 2022-10-27 |
 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 | 2021-07-29 | 2022-04-09 |
 | [Holding Back](https://open.spotify.com/track/7GpYaKxoIl1XzCjF9aGck2) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Holding Back](https://open.spotify.com/album/2BknuzgtjnuSDuPF2bjWPJ) | 3:52 | 2022-03-03 | 2022-05-16 |
@@ -1236,7 +1237,7 @@
 | [My Heart Your Heart](https://open.spotify.com/track/47LxA6pPKDv8Y5J2eRA86m) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [My Heart Your Heart](https://open.spotify.com/album/0eC8ALyJCCfX2ergC72Ikr) | 2:48 | 2024-03-28 |  |
 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 | 2021-07-19 | 2022-01-29 |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-18 | 2022-04-09 |
-| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-15 |  |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-15 | 2024-04-10 |
 | [My Name is Dark \- Art Mix](https://open.spotify.com/track/0QmLOjEusrUI7EraPfPOtU) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [My Name is Dark \(Art Mix\)](https://open.spotify.com/album/6D2snAdPa0yYZlgj0ryK4B) | 5:56 | 2019-12-07 | 2020-02-28 |
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2020-12-04 | 2020-12-22 |
 | [MyLuv](https://open.spotify.com/track/5cNPfcnT3y3JmWiqBQqtLi) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [MyLuv](https://open.spotify.com/album/0con7VlHh3THpC6TLtNoQd) | 2:01 | 2021-10-13 | 2021-10-14 |
@@ -1503,6 +1504,7 @@
 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 | 2022-07-15 | 2022-08-19 |
 | [Radio \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 2:49 | 2023-01-20 | 2023-03-15 |
 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 | 2023-11-06 | 2023-12-11 |
+| [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-09 |  |
 | [Rainforest](https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/00tnsObPbrXxDLTPBHhzbH) | 2:42 | 2021-03-10 | 2021-05-28 |
 | [Rapture in Blue](https://open.spotify.com/track/7qTf2TeEGdz9W1hFGPUiMK) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Rapture in Blue](https://open.spotify.com/album/5PZcNqeU1AmYN9wv1k1MZy) | 2:24 | 2022-01-21 | 2022-04-09 |
 | [Rare](https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Rare](https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1) | 3:41 | 2024-01-29 |  |

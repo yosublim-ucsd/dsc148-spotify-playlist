@@ -1,7 +1,7 @@
 {
-  "2024-04-09": 585568,
+  "2024-04-10": 586329,
   "date_first_scraped": "2022-02-06",
-  "description": "All the songs with more than 1 BILLION streams on Spotify. Cover: JIMIN",
+  "description": "All the songs with more than 1 BILLION streams on Spotify. Cover: Billie Eilish",
   "name": "BILLIONS CLUB",
   "tracks": [
     {
@@ -1260,6 +1260,24 @@
     },
     {
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193143,
+      "name": "bury a friend",
+      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
+    },
+    {
+      "album": {
         "name": "Butter (Hotter, Sweeter, Cooler)",
         "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
       },
@@ -2481,6 +2499,24 @@
       "duration_ms": 198293,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
+    },
+    {
+      "album": {
+        "name": "High Expectations",
+        "url": "https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178493,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/5Xc9L411IGVexidbaF7CHG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-235 songs - 10 hr 7 min
+236 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 | 2023-07-03 |  |
 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 | 2023-10-16 |  |
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2023-04-03 |  |
+| [closer](https://open.spotify.com/track/36J08RU5mlBaKPcNdkxLoa) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [closer](https://open.spotify.com/album/44ZRGnsdTom76RKEsCHSkN) | 2:56 | 2024-04-09 |  |
 | [Cloudberry Fields](https://open.spotify.com/track/0WlvEO2qqQKxCw0gj3YdCC) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Cloudberry Fields](https://open.spotify.com/album/7wCDMTG9yVQhGY8Vb6FyS4) | 2:08 | 2024-02-13 |  |
 | [cold embrace](https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [cold embrace](https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF) | 2:57 | 2023-04-03 | 2023-08-02 |
 | [Collecting Coins](https://open.spotify.com/track/411YPKaT1EFNzLUKttpB1w) | [Jan Os](https://open.spotify.com/artist/2Mr2YOyJj0TQqVYH88gUwf) | [Collecting Coins](https://open.spotify.com/album/5kQBkssjm9tXTw6WInvHYx) | 2:28 | 2023-04-03 |  |

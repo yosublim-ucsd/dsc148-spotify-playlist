@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-575 songs - 1 day 0 hr 58 min
+580 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Borrowed Time](https://open.spotify.com/track/6sdG0HUpvMNfsOiwtj6E6j) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Borrowed Time](https://open.spotify.com/album/0HkQ5lRS5R77z79ixPpWRL) | 2:31 | 2022-04-22 | 2022-07-29 |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2022-04-22 |  |
 | [branches of hope](https://open.spotify.com/track/0vaiq2ZcMe2rtd7eGqIY8b) | [mandarin + cedar](https://open.spotify.com/artist/5lKC596KgYRuupiQKGr7HF) | [branches of hope](https://open.spotify.com/album/26TKyvjmtbN1vBFX7wlJSQ) | 3:16 | 2023-02-07 |  |
+| [Breathe](https://open.spotify.com/track/10EePqFwFowFmqDqwyP1qm) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Breathe](https://open.spotify.com/album/7JfW3XHvMfeoC4ioGD9FpI) | 2:12 | 2024-04-09 |  |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2022-09-15 | 2023-08-15 |
 | [Broken Dreams](https://open.spotify.com/track/5rLF5WFvEFXONKAALc6ABb) | [Ben Berkenbosch](https://open.spotify.com/artist/052Q9RnerwsOF5MDRHiSwk) | [Broken Dreams](https://open.spotify.com/album/4l0zMN3fgA2JmxMWTXoN6o) | 4:39 | 2023-01-26 | 2023-02-01 |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-04-22 | 2023-01-27 |
@@ -187,6 +188,7 @@
 | [Gouttes de pluie](https://open.spotify.com/track/2aWlN3NzJxxY8AXlYYDj8S) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Gouttes de pluie](https://open.spotify.com/album/2ZBtySzL3lB1Kk06oBQX4x) | 2:15 | 2022-04-22 | 2023-08-08 |
 | [Ha tudnád](https://open.spotify.com/track/73NUBJWApOkAp9ioV8nI9O) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Ha tudnád](https://open.spotify.com/album/7ygjuvjtDBNaolW7rHHZoK) | 2:15 | 2023-03-21 |  |
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-01-31 |  |
+| [Harmony](https://open.spotify.com/track/6I3wMGZNIGwGvjPfzIyq01) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Harmony](https://open.spotify.com/album/2GsLI3ZuRTI5GyktudCsBd) | 2:43 | 2024-04-09 |  |
 | [Heart Questions](https://open.spotify.com/track/1rIlWy93o6je85WpMpxg6Y) | [Julian Ellwood](https://open.spotify.com/artist/4MDVendmY7CecWKdkoPjNc) | [Heart Questions](https://open.spotify.com/album/0GnPTwihfPQFLYeIP2wGNV) | 2:21 | 2022-04-22 | 2023-08-08 |
 | [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2022-04-22 | 2024-02-14 |
 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 | 2023-11-06 |  |
@@ -203,6 +205,7 @@
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2022-04-22 | 2023-01-27 |
 | [I Mellanrummen](https://open.spotify.com/track/2y5ndtKSNhKxhAmnrDbuIg) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [I Mellanrummen](https://open.spotify.com/album/5k0teDt2gqXjptNLUJltoz) | 2:09 | 2022-04-22 |  |
 | [I'll Be Dreaming](https://open.spotify.com/track/2FPuvgUV34THb0IzEBJvq6) | [Daníel Fannar](https://open.spotify.com/artist/5N36wGewpkol8rMbwxx0nj) | [I'll Be Dreaming](https://open.spotify.com/album/3qFk7Wk19e93A8wRFjPn1a) | 1:43 | 2023-03-28 | 2023-07-19 |
+| [Idyll](https://open.spotify.com/track/2IbmkbZxpaEamIoEbpJ4r5) | [Haupu](https://open.spotify.com/artist/4MmKQsRQZ1bHFIhYxMJOv0) | [Idyll](https://open.spotify.com/album/1eB9IofFwCJi40HRPo50ov) | 2:48 | 2024-04-09 |  |
 | [If I Told Him](https://open.spotify.com/track/0HspurIsQT5VsX9UD2D28q) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [If I Told Him](https://open.spotify.com/album/58xwZGnCeeKs4knfEr2oun) | 2:27 | 2023-10-09 |  |
 | [If lonely...](https://open.spotify.com/track/3w7ooeKGTjTd8W7Qp2oAop) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [If lonely...](https://open.spotify.com/album/68CGa50C8hC4xr28VhCSmZ) | 2:19 | 2023-09-18 |  |
 | [If You Should Go](https://open.spotify.com/track/4EQRrRdoQ8vC4ULe8Kygpw) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [If You Should Go](https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP) | 2:07 | 2023-01-26 |  |
@@ -259,6 +262,7 @@
 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 | 2022-04-22 | 2022-07-29 |
 | [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2022-04-22 | 2022-07-28 |
 | [Linnesondagen gynnas icke](https://open.spotify.com/track/6HnDnlQlk8EQqKv2oQnuBq) | [Kiri Ra!](https://open.spotify.com/artist/1kMbCcSenu1Kk0W9RGa8VR) | [Series N°1 \- Here, When](https://open.spotify.com/album/3J60wBOTadM5fq5wh5Kgri) | 3:10 | 2022-04-22 | 2022-05-28 |
+| [Little Things](https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Things](https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn) | 2:10 | 2024-04-09 |  |
 | [Little While](https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Little While](https://open.spotify.com/album/11gmPF0r2oGtFQ6WP943jU) | 2:35 | 2022-04-22 |  |
 | [Lleno De Ti](https://open.spotify.com/track/5uGX3dCbfTWl6hvOkTqP8l) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Lleno De Ti](https://open.spotify.com/album/2vLdVOc4bROhHeAdxjWjto) | 2:41 | 2024-03-04 |  |
 | [Lonely Leslie](https://open.spotify.com/track/1Y9CNCm8icZUaMtQV29NpC) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Lonely Leslie](https://open.spotify.com/album/1AWQaoW4Zdiubdcb0H7BAg) | 2:39 | 2022-04-22 | 2022-09-16 |
@@ -423,6 +427,7 @@
 | [schneller als der Wind](https://open.spotify.com/track/4zUEpKgqktHnXBsVraFPK8) | [Jaz Limon](https://open.spotify.com/artist/6xjq4OBddBYJ6OUaEOIyr6) | [schneller als der Wind](https://open.spotify.com/album/7G8SAjdXikta00iYT0unTf) | 2:58 | 2022-04-22 |  |
 | [Schwermut](https://open.spotify.com/track/51EGf0ICwuUiBCaem7ACTW) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Schwermut](https://open.spotify.com/album/5W27eTsZMlUo3tSjmpduWR) | 2:26 | 2023-09-18 |  |
 | [Se Réveiller](https://open.spotify.com/track/5NZHO5vtIllEHntPiTwfwd) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Se Réveiller](https://open.spotify.com/album/6zGXtuaQh1J6UHyd2Su7zt) | 3:03 | 2022-04-22 |  |
+| [Seceda](https://open.spotify.com/track/0bhgyVhN8V0GH26HgQisqE) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Seceda](https://open.spotify.com/album/2nVTO8rEyqhORMFRrlYUGt) | 2:59 | 2024-04-09 |  |
 | [Sempiternal](https://open.spotify.com/track/6aPNSFUv5X13wjZsjJAbYW) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Sempiternal](https://open.spotify.com/album/4dnpugZmM76LxImCmWfmgM) | 2:08 | 2022-04-22 |  |
 | [Sensibilities](https://open.spotify.com/track/2Utg4Imeeq5cI6DQ8AupwV) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:06 | 2022-04-22 | 2022-07-28 |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-04-22 |  |

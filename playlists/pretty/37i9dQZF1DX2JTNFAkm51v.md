@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 5/25・26に開催「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストを特集！音楽とカルチャーを極上の空間を堪能できる音楽フェス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,400 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,403 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 48 | [やらかした](https://open.spotify.com/track/6KDhbwRCxX41VehN3aTIUu) | [MARIA](https://open.spotify.com/artist/7tKxdhFrTaqJPI7rBFmIU6) | [True Color](https://open.spotify.com/album/5NQfJOBy8QMB00fdB7CXs6) | 2:43 |
 | 49 | [Set Me Free](https://open.spotify.com/track/4i2fHujkCum1QmN85sXC68) | [MARIA](https://open.spotify.com/artist/7tKxdhFrTaqJPI7rBFmIU6) | [Set Me Free](https://open.spotify.com/album/1eN68Rywsekf82Xm36We6n) | 3:21 |
 
-Snapshot ID: `MCxkMzdlODFhMTRlM2I0ZGUwODBmMjVhMGY1MTBjMjUwMDk0NzNjZTRj`
+Snapshot ID: `MCw0MGE2MTYxOTYwMjUzZTEyNTU4YTQ0ZDk3MTQ2ZjgwM2M4YTcwNjk2`

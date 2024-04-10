@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,334 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,339 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 11 | [Energy Sync \- Club Mix](https://open.spotify.com/track/4VVDbtomeX9na5sgXSj0rR) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/5pXNPQHtPyIbOjfn8xIH1F) | 6:37 |
 | 12 | [Caso Sério \- L\_cio & Tessuto Remix](https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [Tessuto](https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk) | [Rita Lee & Roberto \- Classix Remix Vol\. III](https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8) | 7:01 |
 | 13 | [Vavapo](https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0) | [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [Favela Garage Beats](https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx) | 3:07 |
-| 14 | [SINA](https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [TRAVESSIA](https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI) | 3:27 |
+| 14 | [Moleque Vampiro](https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Parente Neon](https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck) | 2:29 |
 | 15 | [VEM PRA ZONA LESTE](https://open.spotify.com/track/24orcxfAdgvrdnyLOnvuFQ) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [GUETO CLUB](https://open.spotify.com/album/2wRH4MifoleaIAhevuOn0O) | 3:55 |
 | 16 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 |
-| 17 | [Moleque Vampiro](https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Parente Neon](https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck) | 2:29 |
+| 17 | [SINA](https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [TRAVESSIA](https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI) | 3:27 |
 | 18 | [Senhor Carangeju](https://open.spotify.com/track/2WU1pLmxOS4zPiCXBE45rJ) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Na Lagoa](https://open.spotify.com/album/0acKE1PTMxBOEhijXOyOHM) | 6:49 |
 | 19 | [mate & morra](https://open.spotify.com/track/6cVw5WnMUCIhFawrGlDo8Z) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [mate & morra](https://open.spotify.com/album/2sAvfIryVuCAbCIcewxEOq) | 3:36 |
 | 20 | [Shibuya](https://open.spotify.com/track/37a26nmggsuaojxP7TauTH) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 4:07 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 41 | [Colapso](https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb) | [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6) | [Nocturnal Fear](https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP) | 5:36 |
 | 42 | [Baile do Tai Tai](https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD), [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Conexao Riocife](https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp) | 5:04 |
 | 43 | [Maelström](https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC) | [Wielki](https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB) | [Maelström](https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT) | 8:07 |
-| 44 | [Laiaraiá \(LOV.ini Remix\)](https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix) | 5:08 |
-| 45 | [Sem Sono](https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx) | [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Sem Sono](https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t) | 5:37 |
+| 44 | [Sem Sono](https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx) | [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Sem Sono](https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t) | 5:37 |
+| 45 | [Laiaraiá \(LOV.ini Remix\)](https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix) | 5:08 |
 | 46 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 |
 | 47 | [Sobre Tum Tum Ta](https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e) | [Nódulo](https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb) | 7:33 |
 | 48 | [Maytrea](https://open.spotify.com/track/77xfpj0U5Bb8Am1gcx5Mbb) | [Art in Motion](https://open.spotify.com/artist/4y3VghKwwjmfAUHo3G5rvP) | [Maytrea](https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC) | 7:32 |
 | 49 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
 | 50 | [Madame Kabukicho](https://open.spotify.com/track/5wdbMg0l4UIig9nnkRVQOz) | [Agrabah](https://open.spotify.com/artist/24lbhcjEJEOInrDEAGZfE6) | [Ghetto Hong Kong](https://open.spotify.com/album/6D1PHgImMxDMtKCSznl6L8) | 6:05 |
 
-Snapshot ID: `MCxjZDc0MTVjMTU2NmJhZDNkNDQ5YWY3MDg4MzJkOGIyZThiZTcwYzIy`
+Snapshot ID: `MCw4MTAzZGI3MzhiMTdlYjExYzZjZTZiNzZhYjc0ZmVhOGFkOGZhMTgw`

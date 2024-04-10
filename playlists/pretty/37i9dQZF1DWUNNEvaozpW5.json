@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
-  "num_followers": 575448,
+  "num_followers": 575519,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTNjNzBjNjBkZDM5M2ZmYTMwODYwMzU3OWE4NTJhYmUzMjJhOTE1",
+  "snapshot_id": "MCwwMzExNTY3OTAwZDcxMjA5Y2RmNjU1MTE2ZmU5YTU1YWZkZDQ3MTcy",
   "tracks": [
     {
       "added_at": "2024-04-04 22:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Patchanka",
-        "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
-      },
-      "artists": [
-        {
-          "name": "Mano Negra",
-          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Negociando gasolina",
         "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 208839,
       "name": "Buscando en la basura",
       "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Patchanka",
+        "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
+      },
+      "artists": [
+        {
+          "name": "Mano Negra",
+          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -951,8 +951,8 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Heroes De Los 80",
-        "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
       },
       "artists": [
         {
@@ -960,25 +960,9 @@
           "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
         }
       ],
-      "duration_ms": 293533,
-      "name": "El ritmo del garaje",
-      "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Ba\u00efonarena (Live)",
-        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 288146,
-      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
-      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -995,6 +979,22 @@
       "duration_ms": 270466,
       "name": "La senda del tiempo",
       "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Ba\u00efonarena (Live)",
+        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 288146,
+      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
+      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+        "name": "Heroes De Los 80",
+        "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
+      "duration_ms": 293533,
+      "name": "El ritmo del garaje",
+      "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Bailar\u00e9 sobre tu tumba",
-        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
-      },
-      "artists": [
-        {
-          "name": "Siniestro Total",
-          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Bailar\u00e9 sobre tu tumba",
-      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Marines A Pleno Sol",
         "url": "https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 192106,
       "name": "El imperio contraataca",
       "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Bailar\u00e9 sobre tu tumba",
+        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
+      },
+      "artists": [
+        {
+          "name": "Siniestro Total",
+          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Bailar\u00e9 sobre tu tumba",
+      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Fugitivos De Paraiso",
         "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 231000,
       "name": "Corazon de Tango",
       "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "Matricula De Honor/New Booklet",
+        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Rock And Roll en la Plaza del Pueblo",
+      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "La Poes\u00eda Destruye al Hombre (feat. Carlos Ann, Jose Mar\u00eda Ponce, Bruno Galindo)",
         "url": "https://open.spotify.com/album/2rDFe5VXltCrCUklbaISrd"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 152580,
       "name": "La Poes\u00eda Destruye al Hombre (feat. Carlos Ann, Jose Mar\u00eda Ponce, Bruno Galindo)",
       "url": "https://open.spotify.com/track/6Fl9KWlPtmIXfkv791dK9N"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Matricula De Honor/New Booklet",
-        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Rock And Roll en la Plaza del Pueblo",
-      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
     },
     {
       "added_at": "2024-04-04 22:00:00",

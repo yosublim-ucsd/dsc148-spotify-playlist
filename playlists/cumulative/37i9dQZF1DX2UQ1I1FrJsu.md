@@ -4,7 +4,7 @@
 
 > natural wine vibes, because wine not? \| Photo: Stir Crazy LA
 
-118 songs - 7 hr 15 min
+119 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Blood Milk Moon](https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Blood Milk Moon](https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3) | 2:57 | 2024-01-08 |  |
 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-03-15 |  |
 | [Bonita Applebum](https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:37 | 2024-01-08 |  |
-| [Bonnie And Clyde](https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 4:16 | 2024-01-08 |  |
+| [Bonnie And Clyde](https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 4:16 | 2024-01-08 | 2024-04-10 |
 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2024-01-08 |  |
 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 | 2024-01-08 |  |
 | [Chandelier](https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF) | 2:07 | 2024-01-08 |  |
@@ -63,6 +63,7 @@
 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 | 2024-01-08 |  |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2024-01-08 |  |
 | [Highschool Lover](https://open.spotify.com/track/366QpkppDb9f5TVamPSpgH) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 2:41 | 2024-01-08 |  |
+| [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 | 2024-04-09 |  |
 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 | 2024-01-08 |  |
 | [I Took The L](https://open.spotify.com/track/5kezlJNDGWAV8AhEZLqn0A) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [Johnny](https://open.spotify.com/album/0wivusbQpUPj6qv0gpVPVJ) | 2:54 | 2024-02-14 |  |
 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 | 2024-01-08 |  |

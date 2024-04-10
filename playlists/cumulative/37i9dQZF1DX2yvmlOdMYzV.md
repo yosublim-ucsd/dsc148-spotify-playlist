@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-682 songs - 1 day 13 hr 23 min
+684 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-16 | 2023-09-18 |
 | [Just Friends](https://open.spotify.com/track/4fECQCAJRoonwoGXi898an) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Mayila](https://open.spotify.com/artist/0hgXW6IxEjc5qbrvZbiD2O) | [Just Friends](https://open.spotify.com/album/14thQ7BVtbG7elqv2OrumA) | 2:57 | 2024-02-17 | 2024-04-07 |
 | [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 |  |
+| [Keepin' It Kool](https://open.spotify.com/track/05GPOsUWEBKwMnb3EukHpg) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Kendra Dias](https://open.spotify.com/artist/4ntiWr0UeyP1duNqALGosf) | [Keepin' It Kool](https://open.spotify.com/album/0Q0b78qSFigP7oulHLChl6) | 5:25 | 2024-03-29 |  |
 | [Kendrick \- Too Hot Outside Edit](https://open.spotify.com/track/3agOGtAAYH5dH0h8AoZXn3) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Kendrick](https://open.spotify.com/album/1Cj7R7Gp0rO6q5bSuAiFEe) | 3:38 | 2021-12-15 | 2022-04-19 |
 | [Khala My Friend](https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 3:23 | 2021-12-15 | 2023-03-11 |
 | [Kimmi](https://open.spotify.com/track/4PICq5Ndi0cEWsyRAEWED6) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [I'll Miss You](https://open.spotify.com/album/1Rmb0T7FGzLK9fOrZHmwyz) | 4:34 | 2021-12-15 | 2022-07-29 |
@@ -489,7 +490,7 @@
 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 | 2023-08-04 |  |
 | [Purple Room](https://open.spotify.com/track/67eYQpO7xtAcKlPu0oDDhe) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Pink Magnolia](https://open.spotify.com/album/5IMmIvFq2CChk3Fuz4FHf8) | 2:18 | 2023-09-15 |  |
 | [Queen Tings](https://open.spotify.com/track/5tkR9JkBj3Ueeo8W4k8IZD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 3:08 | 2021-12-15 | 2023-05-13 |
-| [Question](https://open.spotify.com/track/5tkygnHoO2NhFkYPoNd1LL) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K) | [Question](https://open.spotify.com/album/3zoXmuTK3jJTXVe0EdIwQm) | 3:21 | 2023-09-29 |  |
+| [Question](https://open.spotify.com/track/5tkygnHoO2NhFkYPoNd1LL) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K) | [Question](https://open.spotify.com/album/3zoXmuTK3jJTXVe0EdIwQm) | 3:21 | 2023-09-29 | 2024-04-10 |
 | [R U DUMM?](https://open.spotify.com/track/6DZWyOyqhudkMzwBA9Kqum) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [R U DUMM?](https://open.spotify.com/album/2Uynv1M3RGcHSkDRDxQ9uR) | 3:01 | 2021-12-15 | 2022-07-21 |
 | [Rachel and Ross](https://open.spotify.com/track/6YIlJumm3UYeXvkR8d5hC6) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Rachel and Ross](https://open.spotify.com/album/09KxFvjE7VE0MXPHj9OxZQ) | 2:46 | 2023-10-13 | 2024-02-15 |
 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 | 2023-08-11 |  |
@@ -577,7 +578,7 @@
 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 | 2022-06-30 | 2023-05-03 |
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-15 | 2022-07-29 |
 | [Summer Breeze](https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Summer Breeze](https://open.spotify.com/album/3xrqOcvw6PfsXkJEgfz1Cu) | 3:42 | 2023-10-13 |  |
-| [Summertime \- A COLORS SHOW](https://open.spotify.com/track/6Gd9Zzs5d7uALsKynGPwPn) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Summertime \- A COLORS SHOW](https://open.spotify.com/album/3E9rsZe9HelvPAH66q6U6L) | 3:35 | 2023-09-22 |  |
+| [Summertime \- A COLORS SHOW](https://open.spotify.com/track/6Gd9Zzs5d7uALsKynGPwPn) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Summertime \- A COLORS SHOW](https://open.spotify.com/album/3E9rsZe9HelvPAH66q6U6L) | 3:35 | 2023-09-22 | 2024-04-10 |
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2022-06-30 | 2023-08-26 |
 | [Superficial](https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Superficial](https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea) | 2:44 | 2024-03-29 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2022-09-02 | 2022-09-17 |
@@ -652,6 +653,7 @@
 | [Waste My Time](https://open.spotify.com/track/5OXjnUpU6Skq07ZkpDeW7c) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/4Aoj64OXu1mnhgN117qFwY) | 3:01 | 2023-06-10 | 2023-06-17 |
 | [Wasteland](https://open.spotify.com/track/3yhlH8lhTpS03d91kuwjpf) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Wasteland](https://open.spotify.com/album/4yzJgsOpjCGoH4jjcUvNTc) | 3:03 | 2021-12-15 | 2022-04-07 |
 | [Watching The News](https://open.spotify.com/track/7mRQwapf9utc4GcehUZ1VP) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Sharing is Caring](https://open.spotify.com/album/1Kj5fIqE9jXWNVzjYTPp3j) | 3:38 | 2023-09-15 | 2023-11-18 |
+| [Way Back](https://open.spotify.com/track/1wAhoNjMBg3yQc2VzCxr1j) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Way Back](https://open.spotify.com/album/6wupFmAbunLGJluegOy9lf) | 2:39 | 2024-04-05 |  |
 | [We Found Love](https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [We Found Love](https://open.spotify.com/album/0jJKXcVgzIPMkbw0uYBW0p) | 3:09 | 2023-09-08 |  |
 | [We Keep On](https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:00 | 2023-05-19 | 2024-01-28 |
 | [We Keep On](https://open.spotify.com/track/3cWwh46djB72qVMRmTpaMS) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/10brv7YGXfM12BcquAQ1Aj) | 3:00 | 2023-05-19 |  |

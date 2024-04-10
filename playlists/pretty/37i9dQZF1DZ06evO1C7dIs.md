@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,578 likes - 51 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,601 likes - 51 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 11 | [End Of All Hope](https://open.spotify.com/track/5wO7hTEOnwLt4NX1nbA16k) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 3:53 |
 | 12 | [Noise](https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:40 |
 | 13 | [Sleeping Sun](https://open.spotify.com/track/64v7AaXu9qmbefvFwOtbvm) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 4:05 |
-| 14 | [I Want My Tears Back](https://open.spotify.com/track/3HCzXf0lNpekSqsGBcGrCd) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:07 |
-| 15 | [Over The Hills And Far Away](https://open.spotify.com/track/7xgQ0KuuTmKu3pQ4Tn85p7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj) | 5:02 |
+| 14 | [Over The Hills And Far Away](https://open.spotify.com/track/7xgQ0KuuTmKu3pQ4Tn85p7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj) | 5:02 |
+| 15 | [I Want My Tears Back](https://open.spotify.com/track/3HCzXf0lNpekSqsGBcGrCd) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:07 |
 | 16 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 |
 | 17 | [Ever Dream](https://open.spotify.com/track/375WKKRNkbtqzTl50lQZuD) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 4:42 |
 | 18 | [While Your Lips Are Still Red \- Theme from the Movie "Lieksa!"](https://open.spotify.com/track/3r3KRYYOFjNGD4OJB5ddam) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Sound of Nightwish Reborn](https://open.spotify.com/album/4A8TYBcOB8B2lIOlpU4k30) | 4:18 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 48 | [Moondance](https://open.spotify.com/track/1IzlSeZQE4PwIPSaUsv0AV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/5Ox45OAhKONmMKMrJSEsLp) | 3:31 |
 | 49 | [High Hopes \- Live](https://open.spotify.com/track/7LUYlbzPVix2varjKXAk6z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [End of an Era \(Live\)](https://open.spotify.com/album/0vAgv1fFn8zW2hbpWJfgPX) | 6:54 |
 | 50 | [Dead Gardens \- Remastered](https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once \(Remastered\)](https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb) | 4:28 |
-| 51 | [Rest Calm](https://open.spotify.com/track/7zki7ndhBSNAK9hKrhWUYn) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 6:59 |
+| 51 | [Cadence of Her Last Breath](https://open.spotify.com/track/6vKMOm5QSNNIVd73VfSxuy) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 4:14 |
 
-Snapshot ID: `MCw1ZTFhZTU2ZGI5NWMzMDYzNjI0OGMwMmUzZmVmMDViYjI1MjNhOWVl`
+Snapshot ID: `MCxlMTA2YjRhNzliNGFiYzcyZWZhOThhMzliOWE4OTc5NTcxYjBiNmI0`

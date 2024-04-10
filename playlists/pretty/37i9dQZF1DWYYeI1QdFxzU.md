@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,313 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,305 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 31 | [Deer Teeth](https://open.spotify.com/track/5kw1a9O11qBlFkLAQnwb5U) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Deer Teeth](https://open.spotify.com/album/4VVZS87dI8rFiePJzsjQAm) | 3:51 |
 | 32 | [One Last Time](https://open.spotify.com/track/4Oz7IIaDnrNXpzNWWSNt6W) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [One Last Time](https://open.spotify.com/album/55A6vOF7lOl0RghquUwmh2) | 3:51 |
 | 33 | [One Last Stand](https://open.spotify.com/track/6Pz5Uucqu9D4XAysJMUxTA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [One Last Stand](https://open.spotify.com/album/0N38YlPeHTvHw9B8xf6rou) | 2:17 |
-| 34 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
-| 35 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 |
+| 34 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 |
+| 35 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
 | 36 | [Cardano Circles](https://open.spotify.com/track/4wdNS3iDj1FwfBbvvGql5d) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Seme](https://open.spotify.com/album/61qvmOwUqxttEs99FGShmn) | 3:45 |
 | 37 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 | 38 | [Journey](https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Journey](https://open.spotify.com/album/0arLnM5zOVRFXCMpFPJi0p) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [365](https://open.spotify.com/track/3y4NbKy6cgdqia74kXIZF9) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 3:09 |
 | 50 | [Wednesday Afternoon](https://open.spotify.com/track/08Ov1ejfnzW8Pc9NbhUpLa) | [FAIR GAME](https://open.spotify.com/artist/1siJGCHqSxy7R5J5nVyH2y) | [Wednesday Afternoon](https://open.spotify.com/album/3s0C0TXUihRu8cxOeOH5Nd) | 2:29 |
 
-Snapshot ID: `MCw1YjAyNTRjZTU0OTZiOWNkNzIyNGYxY2EzOGViNTJhY2VjMTEwMTk3`
+Snapshot ID: `MCxhMDNlNjg4YTMzMjkyYmQ0YTA4OWQ3NzRjMjY0MGM3YzFjY2NhMDk5`

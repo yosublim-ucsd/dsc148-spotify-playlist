@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,673 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,717 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,30 +83,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 73 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 |
 | 74 | [Ce n'est Rien](https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic \(The Complete Edition\)](https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF) | 3:00 |
 | 75 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 |
-| 76 | [Who Needs Friends](https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:10 |
-| 77 | [Rusted From the Rain](https://open.spotify.com/track/0tzWCL2uhb2xQDWgG259nU) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/3E86heHd3LiI6h4tSN608g) | 4:14 |
+| 76 | [Rusted From the Rain](https://open.spotify.com/track/0tzWCL2uhb2xQDWgG259nU) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/3E86heHd3LiI6h4tSN608g) | 4:14 |
+| 77 | [Who Needs Friends](https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:10 |
 | 78 | [Isolation](https://open.spotify.com/track/6JV3DyXgHVMPVVDsvjcM1s) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [AB III](https://open.spotify.com/album/0ocWLhnTiUKSq8Ksa3FX4Z) | 4:13 |
 | 79 | [Falling Apart](https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh) | 3:28 |
-| 80 | [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 |
-| 81 | [Breathing](https://open.spotify.com/track/1pmNAKSjWFyg8dTs0tNIj7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Halloween Mixtape II](https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5) | 3:03 |
+| 80 | [Breathing](https://open.spotify.com/track/1pmNAKSjWFyg8dTs0tNIj7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Halloween Mixtape II](https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5) | 3:03 |
+| 81 | [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 |
 | 82 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 |
 | 83 | [Seventeen](https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG) | [Ally Nicholas](https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX) | [Seventeen](https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT) | 2:30 |
 | 84 | [Love Dies Young](https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:21 |
 | 85 | [You Can Count On Me](https://open.spotify.com/track/6AO1BottKVTrfm0SDRvwsY) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [The American Dream](https://open.spotify.com/album/3tAukYNlSSBALc9RiMCwmI) | 3:11 |
 | 86 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
-| 87 | [Sick Ride](https://open.spotify.com/track/1nfkZ7p5iG7WsGD3ZWnKny) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Sick Ride](https://open.spotify.com/album/5BypS8hiBqXS9pPmzu7LVx) | 1:37 |
-| 88 | [New England](https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 3:38 |
+| 87 | [New England](https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 3:38 |
+| 88 | [Sick Ride](https://open.spotify.com/track/1nfkZ7p5iG7WsGD3ZWnKny) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Sick Ride](https://open.spotify.com/album/5BypS8hiBqXS9pPmzu7LVx) | 1:37 |
 | 89 | [Savior Mode](https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Too Quick to Forgive](https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY) | 4:21 |
 | 90 | [Nothing](https://open.spotify.com/track/7yUrBn4yvBBfwXXfHTE2Wd) | [A](https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv) | [Hi\-Fi Serious](https://open.spotify.com/album/4A66a0jsW9AJB6Com7AX4U) | 3:43 |
 | 91 | [Extract](https://open.spotify.com/track/481bSrhRx2fNpBrjOBMv3k) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Extract](https://open.spotify.com/album/4gpLVpRbhG0DjC7370KSlI) | 3:00 |
 | 92 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
 | 93 | [Never Ending Moment](https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Never Ending Moment](https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW) | 4:17 |
-| 94 | [Future Proof](https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Future Proof](https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd) | 3:30 |
-| 95 | [Out of the Dark and Into the Light](https://open.spotify.com/track/0Pcy2EWMH4LoP06L7yI5uY) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6) | 2:59 |
+| 94 | [Out of the Dark and Into the Light](https://open.spotify.com/track/0Pcy2EWMH4LoP06L7yI5uY) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6) | 2:59 |
+| 95 | [Future Proof](https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Future Proof](https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd) | 3:30 |
 | 96 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 |
 | 97 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
 | 98 | [Still Love](https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 |
 | 99 | [What’s It Take To Be Happy?](https://open.spotify.com/track/0wFr2Uk87dQY3AYKfGPZqg) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6) | 3:20 |
 | 100 | [Got It Bad](https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Got It Bad](https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz) | 2:58 |
 
-Snapshot ID: `MCwxYzQwNDc1MGU3ZTRkMzc0NTQ0MGFkOTZiMGEzYzk1OTFiY2Y2MDIy`
+Snapshot ID: `MCw1NGFlMDY4NTc4ZmM1MDFiMWExYmY0YzgxNGY4MThhYTNlMTVlYzI2`

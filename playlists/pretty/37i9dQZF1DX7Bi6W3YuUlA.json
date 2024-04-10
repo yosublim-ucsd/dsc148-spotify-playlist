@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 41426,
+  "num_followers": 41468,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTVkZmM3OTE2ZWFkMDA0YWViMzU2MWY0MWI2YzcyMDE5YjE0OGM0",
+  "snapshot_id": "MCw0NTE3ZjkwODc4ZWY5ZGE0ZDJkOWE2ODEzZWMwYmIwMTBmMWUwMTVh",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "I's On Him",
-        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
-      },
-      "artists": [
-        {
-          "name": "Jay Violet",
-          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
-        },
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "I's On Him",
-      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Who That Is",
         "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 144533,
       "name": "Who That Is",
       "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "I's On Him",
+        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
+      },
+      "artists": [
+        {
+          "name": "Jay Violet",
+          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
+        },
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "I's On Him",
+      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1567,34 +1567,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Everyone Loves A Comeback Story",
-        "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
+        "name": "Pray 2 God",
+        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
       },
       "artists": [
         {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
         }
       ],
-      "duration_ms": 202285,
-      "name": "I Can't Fail",
-      "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
-      },
-      "artists": [
-        {
-          "name": "Swoope",
-          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
-        }
-      ],
-      "duration_ms": 156749,
-      "name": "Put In Work",
-      "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
+      "duration_ms": 156781,
+      "name": "Pray 2 God",
+      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Pray 2 God",
-        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
+        "name": "24",
+        "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
       },
       "artists": [
         {
-          "name": "2'Live Bre",
-          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+          "name": "Swoope",
+          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
         }
       ],
-      "duration_ms": 156781,
-      "name": "Pray 2 God",
-      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
+      "duration_ms": 156749,
+      "name": "Put In Work",
+      "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1651,6 +1635,22 @@
       "duration_ms": 289134,
       "name": "Enemies and Foes",
       "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Everyone Loves A Comeback Story",
+        "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "I Can't Fail",
+      "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Feared By Hell (Reanimation)",
-        "url": "https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN"
-      },
-      "artists": [
-        {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 264664,
-      "name": "Is That Okay?",
-      "url": "https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Ashamed",
         "url": "https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL"
       },
@@ -1727,22 +1707,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "polaroids.",
-        "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
       },
       "artists": [
         {
-          "name": "Wes Harris",
-          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
-        },
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 155688,
-      "name": "who.",
-      "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1763,34 +1739,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+        "name": "polaroids.",
+        "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "When It Hurts: A Story By Isaiah Hill",
-        "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
-      },
-      "artists": [
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        },
         {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
         }
       ],
-      "duration_ms": 122392,
-      "name": "I Meant It",
-      "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
+      "duration_ms": 155688,
+      "name": "who.",
+      "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1819,6 +1783,42 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "When It Hurts: A Story By Isaiah Hill",
+        "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
+      },
+      "artists": [
+        {
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+        }
+      ],
+      "duration_ms": 122392,
+      "name": "I Meant It",
+      "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Feared By Hell (Reanimation)",
+        "url": "https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 264664,
+      "name": "Is That Okay?",
+      "url": "https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Sunday In Lagos",
         "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
       },
@@ -1831,6 +1831,22 @@
       "duration_ms": 153351,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "97",
+        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1851,22 +1867,6 @@
       "duration_ms": 149213,
       "name": "Holy",
       "url": "https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "97",
-        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 175217,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
     },
     {
       "added_at": "2023-02-18 05:58:41",

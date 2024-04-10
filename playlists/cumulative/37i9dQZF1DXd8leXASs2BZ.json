@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: MIKADO",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 8 & KVGGLV",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1651,6 +1651,28 @@
     },
     {
       "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/3OrVnCytoZ2vsJnTp4Ohy9"
+      },
+      "artists": [
+        {
+          "name": "Loota",
+          "url": "https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7"
+        },
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250980,
+      "name": "Don\u2019t Look Down",
+      "url": "https://open.spotify.com/track/12aiT6u1KdAW15HGUqAhSN"
+    },
+    {
+      "album": {
         "name": "dorobo",
         "url": "https://open.spotify.com/album/7AgCcXr9sUYISChejAsr5w"
       },
@@ -2239,6 +2261,24 @@
     },
     {
       "album": {
+        "name": "Force 1 Flex",
+        "url": "https://open.spotify.com/album/41rEFMjbeK4DWE71pdwMZb"
+      },
+      "artists": [
+        {
+          "name": "MELLMWOR1D",
+          "url": "https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156116,
+      "name": "Force 1 Flex",
+      "url": "https://open.spotify.com/track/2HcaNu9hpZhzAhyuIADhgC"
+    },
+    {
+      "album": {
         "name": "FREERIDE ON ROAD",
         "url": "https://open.spotify.com/album/4VqQIgEk1NAl3dNuHaBXZR"
       },
@@ -2586,7 +2626,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 121181,
       "name": "HANATABA",
       "url": "https://open.spotify.com/track/1BoeX6br7WrPILgP8UKOsr"
@@ -3106,7 +3146,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 190000,
       "name": "In My Stress",
       "url": "https://open.spotify.com/track/1DDKb721dwZdN8XWgUvKzx"
@@ -4515,6 +4555,28 @@
     },
     {
       "album": {
+        "name": "Otsukaresama!!",
+        "url": "https://open.spotify.com/album/4maKQdWDaOCy7f0TRiJvgv"
+      },
+      "artists": [
+        {
+          "name": "8",
+          "url": "https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX"
+        },
+        {
+          "name": "KVGGLV",
+          "url": "https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Otsukaresama!!",
+      "url": "https://open.spotify.com/track/6UzO17ksoRaskS8OQkKpv8"
+    },
+    {
+      "album": {
         "name": "Ourback$",
         "url": "https://open.spotify.com/album/7Cm4kX5BQgtG4MR6eIwueO"
       },
@@ -5324,7 +5386,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 132923,
       "name": "Skrrrby Doo - Delux",
       "url": "https://open.spotify.com/track/2Q8i83kzoXTCNPqx4DBcuu"
@@ -6524,7 +6586,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 177914,
       "name": "\u00b1",
       "url": "https://open.spotify.com/track/72VqxxCtgZPGSnQbO1qzZx"

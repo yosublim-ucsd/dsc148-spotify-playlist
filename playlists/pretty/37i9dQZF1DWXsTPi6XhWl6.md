@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,545 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,544 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 99 | [Man](https://open.spotify.com/track/6BDfXTstCuQuNl0BAuRNxc) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Wild Creatures](https://open.spotify.com/album/0KGcCenSL9QAN9mhonWfx5) | 3:31 |
 | 100 | [Show Me Something Higher](https://open.spotify.com/track/17IqqKRqItHYtUol1m0LLB) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Something Higher](https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj) | 5:27 |
 
-Snapshot ID: `MCw1MGY0YmEwZTkxOWU2MDIxMjQxMTZmN2JjMGZhN2I5YWVjY2MzNzBj`
+Snapshot ID: `MCxhMTY4N2MyYzU5YTk3YTE2MTZlYTE0Nzk0MGYwNjhiYzUxYTc1MWQz`

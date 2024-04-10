@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 266630,
+  "2024-04-10": 266853,
   "date_first_scraped": "2023-08-09",
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
   "name": "This Is Grupo Marca Registrada",
@@ -483,7 +483,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 234581,
       "name": "El Capit\u00e1n",
       "url": "https://open.spotify.com/track/3QNXzlNbOSv3yM5NU69Kgo"
@@ -1225,6 +1225,28 @@
       "duration_ms": 168408,
       "name": "Piloteando El Marlboro",
       "url": "https://open.spotify.com/track/5uo1aINCLqREEjMd7KdnHD"
+    },
+    {
+      "album": {
+        "name": "PLYBOY",
+        "url": "https://open.spotify.com/album/606n0J7rUfs0x3ZUF4IjGK"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192658,
+      "name": "PLYBOY",
+      "url": "https://open.spotify.com/track/6a7o80X7LrPCkkaNUmy74o"
     },
     {
       "album": {

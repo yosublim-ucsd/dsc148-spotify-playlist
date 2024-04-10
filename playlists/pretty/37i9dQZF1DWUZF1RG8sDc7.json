@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 117781,
+  "num_followers": 117896,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTYxMDQ3YjZjOTQwNWU0ZDM5ZTU3NDExMzUwZTAwODFkMDgwYmJl",
+  "snapshot_id": "MCxkOTcwNzkzYjhjY2I1Njg1OTUwY2EzNjMxMjkzN2Y2ZWIyMTQ4MDI3",
   "tracks": [
     {
       "added_at": "2024-03-28 01:45:52",
@@ -319,18 +319,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Vallenato Fest",
-        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
+        "name": "El Disco Que Me Gusta",
+        "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
       },
       "artists": [
         {
-          "name": "Grupo Vallenato",
-          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+        },
+        {
+          "name": "Rolando Ochoa",
+          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
         }
       ],
-      "duration_ms": 316279,
-      "name": "Dime Que Me Quieres",
-      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
+      "duration_ms": 225840,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -387,22 +391,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "El Disco Que Me Gusta",
-        "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
       },
       "artists": [
         {
-          "name": "Elder Day\u00e1n D\u00edaz",
-          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
-        },
-        {
-          "name": "Rolando Ochoa",
-          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
+      "duration_ms": 316279,
+      "name": "Dime Que Me Quieres",
+      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
     },
     {
       "added_at": "2024-03-28 01:45:52",

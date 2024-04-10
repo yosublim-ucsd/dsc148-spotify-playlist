@@ -4,7 +4,7 @@
 
 > a high\-quality alternative blend ft\. Marcus King
 
-1,020 songs - 2 day 14 hr 29 min
+1,021 songs - 2 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,7 +715,8 @@
 | [Ready Or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2W4KoKD91Sncc5HNZ00ilQ) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 3:12 | 2023-09-15 |  |
 | [REAL LOVE](https://open.spotify.com/track/1Ke3l9Xg0oZJANurjySmBN) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [REAL LOVE](https://open.spotify.com/album/7i4NU1t0CZEoTrW4BgbXF4) | 2:56 | 2022-06-17 | 2022-08-27 |
 | [Really Really Light](https://open.spotify.com/track/3mddquq4qcQ7hWhybpBVQn) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Really Really Light](https://open.spotify.com/album/3hO9WobttuOQ0HMx6z68cv) | 3:21 | 2023-01-13 | 2023-02-25 |
-| [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 |  |
+| [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 | 2024-04-10 |
+| [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 | 2024-04-05 |  |
 | [Reconcile](https://open.spotify.com/track/2vs0RhsIWB4XzveB4nlrSw) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Reconcile](https://open.spotify.com/album/1iC2prfgUGLnEHdoxS5yyq) | 3:05 | 2023-03-10 | 2023-04-13 |
 | [Reconcile](https://open.spotify.com/track/7KBdFKkTlDbEvy0db2JUWS) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Shabang](https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv) | 3:05 | 2023-04-07 | 2023-04-29 |
 | [Regret Me](https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Regret Me](https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA) | 3:16 | 2023-01-27 | 2023-02-18 |

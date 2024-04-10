@@ -1,5 +1,5 @@
 {
-  "2024-04-09": 530913,
+  "2024-04-10": 530981,
   "date_first_scraped": "2023-06-18",
   "description": "Kick back to these chilled out essentials.",
   "name": "Chilled Hits",
@@ -903,7 +903,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-09",
       "duration_ms": 350920,
       "name": "Follow the Sound of My Voice",
       "url": "https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv"
@@ -925,6 +925,24 @@
       "duration_ms": 350920,
       "name": "Follow the Sound of My Voice",
       "url": "https://open.spotify.com/track/1ysFmPR5LRj24sdeZ0rGSa"
+    },
+    {
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350920,
+      "name": "Follow the Sound of My Voice",
+      "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
     },
     {
       "album": {

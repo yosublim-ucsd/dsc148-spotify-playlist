@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- New Zealand.
 
-1,262 songs - 3 day 1 hr 25 min
+1,263 songs - 3 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,7 +436,7 @@
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 |  |
 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 | 2024-02-04 | 2024-02-12 |
 | [h u n g e r \. o n \. h i l l s i d e \(with Bas\)](https://open.spotify.com/track/5BwQjRasNcdRPuVWKcHto2) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:58 | 2021-05-16 | 2021-05-21 |
-| [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 | 2024-04-06 |  |
+| [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 | 2024-04-06 | 2024-04-10 |
 | [Halley's Comet](https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:54 | 2021-08-03 | 2021-08-05 |
 | [Hang On](https://open.spotify.com/track/7wV4w339UJiED03pVsk5Kw) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Castle St](https://open.spotify.com/album/125p0A4W0x8v6T7ZNHSWrz) | 2:42 | 2022-10-11 | 2022-10-14 |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-05-23 | 2021-08-11 |
@@ -457,6 +457,7 @@
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-05 |
 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 | 2023-03-25 | 2023-07-30 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-03-22 | 2023-03-26 |
+| [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 | 2024-04-09 |  |
 | [Help Me Out](https://open.spotify.com/track/1tkkNjRgaKPO9OnE3jC6UP) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Help Me Out](https://open.spotify.com/album/4fMTRTIYsVXfNWlaWmLpSK) | 2:15 | 2021-03-27\* | 2021-05-23 |
 | [Help Me Out \- Bonus Track](https://open.spotify.com/track/4zcFipmPhbPHvFf24aO56K) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [RAPLIST](https://open.spotify.com/album/4ncgzuysS2uSaQRQATy38r) | 2:15 | 2021-05-24 | 2021-07-07 |
 | [Help Me Out \- Bonus Track](https://open.spotify.com/track/7caFVygWyV6WfNcn5RrXDQ) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [RAPLIST \(Fly Edition\)](https://open.spotify.com/album/6xFq3va5V8MQ9QBytLcoYw) | 2:15 | 2021-05-23 | 2022-01-08 |

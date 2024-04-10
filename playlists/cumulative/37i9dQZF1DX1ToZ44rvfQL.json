@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281386,
+      "name": "Cae el Sol",
+      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+    },
+    {
+      "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
@@ -656,7 +674,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 181782,
       "name": "DESCARTABLE",
       "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 277318,
       "name": "Insisto",
       "url": "https://open.spotify.com/track/0yCKreevOzN7ekcw7e4PuS"
@@ -1880,6 +1898,28 @@
       "duration_ms": 235200,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
+    },
+    {
+      "album": {
+        "name": "QUEMAR\u00c1S",
+        "url": "https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263130,
+      "name": "QUEMAR\u00c1S",
+      "url": "https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF"
     },
     {
       "album": {

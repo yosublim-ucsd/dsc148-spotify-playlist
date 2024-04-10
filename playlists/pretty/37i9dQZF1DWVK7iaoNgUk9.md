@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 
 > se for pra sofrer, que seja com trilha sonora né não??
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,049 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,105 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 59 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 |
 | 60 | [Raio X \- Ao Vivo](https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:00 |
 
-Snapshot ID: `MCw1ZTdlNTYwMTgyZTdkY2Y3MWVhZWQwNGYwZjUzN2IzYWYyMTg5YjM4`
+Snapshot ID: `MCxiZmM4Yzg2Mjc2ZjVlMDM1YTJkYzZjYTJhMTkwNTQxYmVjMzZlZGI0`

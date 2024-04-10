@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,161 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,186 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 15 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 |
 | 16 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |
 | 17 | [+ \(MÁS\)](https://open.spotify.com/track/1MXzojJav1N4cREWTFm1iZ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:39 |
-| 18 | [24 Rosas](https://open.spotify.com/track/3HDYqfUZN3vToDnhqNsb6J) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:47 |
+| 18 | [Dararí](https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:50 |
 | 19 | [Berlín](https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Berlín](https://open.spotify.com/album/7s4icf5JqLJUpGuRncOTCK) | 2:26 |
 | 20 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 |
 | 21 | [SI NO VAS A VOLVER](https://open.spotify.com/track/7es67JIZ333OB30dYfjfal) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:35 |
-| 22 | [Dararí](https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:50 |
+| 22 | [24 Rosas](https://open.spotify.com/track/3HDYqfUZN3vToDnhqNsb6J) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:47 |
 | 23 | [Con La Miel En Los Labios](https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:22 |
 | 24 | [La Electricidad](https://open.spotify.com/track/0E3qf8HoJc2I7637mxgXjA) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Likes y Cicatrices](https://open.spotify.com/album/450aVb02CfLVugPpSjUlWO) | 3:55 |
 | 25 | [Tu Foto Del DNI](https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tu Foto Del DNI](https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8) | 2:59 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 35 | [Enemigos](https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Enemigos](https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4) | 3:17 |
 | 36 | [CUANDO TE FUISTE](https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:47 |
 | 37 | [El cine](https://open.spotify.com/track/5aBiUxjZM1Tvf324Fu2oQF) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:33 |
-| 38 | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB) | 3:18 |
-| 39 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Cuando No Sé Quién Soy](https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF) | 2:48 |
+| 38 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Cuando No Sé Quién Soy](https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF) | 2:48 |
+| 39 | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB) | 3:18 |
 | 40 | [TELÉFONO](https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [TELÉFONO](https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL) | 2:43 |
 | 41 | [Quiero](https://open.spotify.com/track/3SIMIGUdL2n0nfzlHXo7ni) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:30 |
 | 42 | [Ni Una Más](https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Ni Una Más](https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU) | 3:28 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 48 | [Tu culpa](https://open.spotify.com/track/5uiYxDj0w8d4PjsSDPuOxd) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:09 |
 | 49 | [Oasis](https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:56 |
 
-Snapshot ID: `MCwwMGRkYmRhZjkzZGE1YWRlYWZmNWFkZmNlYjgzMTBhNTZjZDYwMTNi`
+Snapshot ID: `MCxlY2NiZWMxZTVjN2ZhNzMzODM0YTA3MWEzYmUzZjFlYjRlYWExMmFj`

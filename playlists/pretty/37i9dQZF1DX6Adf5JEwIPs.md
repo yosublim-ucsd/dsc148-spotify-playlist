@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: LEGADO 7 y Codiciado
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,343 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,527 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 17 | [El Chargerson](https://open.spotify.com/track/6I9paxSvcPli328O9uEcbj) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [El Chargerson](https://open.spotify.com/album/4ynhOVtRoexg76vEJmoAHW) | 2:24 |
 | 18 | [Últimas Noticias](https://open.spotify.com/track/7CzUSPzGm6paKHoV0Z2R8X) | [Grupo 3 Mandos](https://open.spotify.com/artist/30NWCe5fNf3m9yC6wbPltS), [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [Últimas Noticias](https://open.spotify.com/album/3dMGQeNUvpaZYvIsBHg3KH) | 4:56 |
 | 19 | [COMO LO MUEVES](https://open.spotify.com/track/2B8LTd0wcI3WkmKtbwuROw) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [COMO LO MUEVES](https://open.spotify.com/album/015ltU2roLUHF8KvgxWoZq) | 2:57 |
-| 20 | [Bandido de Amores](https://open.spotify.com/track/7gHoeow1Cxlb2l7m4klYjM) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/2ttpwARIej8YdDGj6Z9I1P) | 3:03 |
+| 20 | [Bandido de Amores](https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:03 |
 | 21 | [La Bolsita](https://open.spotify.com/track/666QYNEcEK2g5wi771cRNd) | [Ricky Barajas](https://open.spotify.com/artist/4xPyMG3TRjeYwXiD0SIZoe), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [La Bolsita](https://open.spotify.com/album/3hGrPkpakxYRpN1mQeDYt7) | 3:08 |
 | 22 | [Listos Pal´ Topón](https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Johan Bastidas](https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u) | [Listos Pal´ Topón](https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn) | 2:16 |
 | 23 | [Baby](https://open.spotify.com/track/7rcANFXpRc0jUmizT29Rga) | [''El Obama'' Carlos Anderson](https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1), [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Baby](https://open.spotify.com/album/54s95AAfjN7bwnABUfdR6Z) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Disfrutar](https://open.spotify.com/track/5v31Wf3Bai2eG1ixK3QMQe) | [Mauricio Flores](https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Play Boyz 4 Life](https://open.spotify.com/album/3J5meRbwacbOJ0mKwuJPC6) | 2:59 |
 | 50 | [No Me Dolió \- En Vivo](https://open.spotify.com/track/5oivURgqwKtwiHdcBL3NLW) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Bricia](https://open.spotify.com/artist/1AGGma0Bngb67NJKa1RJMS) | [No Me Dolió \(En Vivo\)](https://open.spotify.com/album/0V5FnM0mtQqJ9SE2y72PEx) | 3:18 |
 
-Snapshot ID: `MCw2YmMxNTA2YzI5MDU2OTYwZjg0OGM4MzY5OWU2MGRhYTExODUxZTU2`
+Snapshot ID: `MCxkMWFkZTAzZDg3OWUyNTY2MDA5Y2IzNWNkZjg3YmNiZTAwNjBkOTRm`

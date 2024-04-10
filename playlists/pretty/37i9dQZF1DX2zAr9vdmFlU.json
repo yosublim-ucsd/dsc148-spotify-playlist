@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 432515,
+  "num_followers": 432569,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzExY2YyZjkxNTEwMmViN2JkMmZjMTU5NjNkYTU4ZWFhYTQ5MzJm",
+  "snapshot_id": "MCxiOWZlOTc2N2ViZTc2YWU4YTIyZTc3NzdhNDVkZmJiYmI4ZmFiNzcz",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Tourist (Remastered)",
-        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
-      },
-      "artists": [
-        {
-          "name": "St Germain",
-          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
-        }
-      ],
-      "duration_ms": 354715,
-      "name": "Latin Note",
-      "url": "https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 156371,
       "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "duration_ms": 354715,
+      "name": "Latin Note",
+      "url": "https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Arturo Sandoval",
         "url": "https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 211586,
       "name": "Arturo Sandoval",
       "url": "https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Musica Para Despues De Almuerzo",
+        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+      },
+      "artists": [
+        {
+          "name": "Bitman & Roban",
+          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Despues De Almuerzo Parte 3",
+      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 232960,
       "name": "Vem Pra Mim",
       "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Musica Para Despues De Almuerzo",
-        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
-      },
-      "artists": [
-        {
-          "name": "Bitman & Roban",
-          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Despues De Almuerzo Parte 3",
-      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "President Alien",
         "url": "https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 240226,
       "name": "Electric Boogaloo",
       "url": "https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 355019,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Coral Way",
         "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 209672,
       "name": "Speakin' Nuyorican",
       "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Las Flores",
-        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 355019,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
     },
     {
       "added_at": "2024-04-05 04:01:00",

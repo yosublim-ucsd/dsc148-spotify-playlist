@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,032 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,041 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 21 | [Bella ciao \- Live, Rome / 2016](https://open.spotify.com/track/64ATEI3hHvVfzTES9d4sgt) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 3:45 |
 | 22 | [La Violencia](https://open.spotify.com/track/2ZSh2anXpuTLC6utOkavyb) | [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [La Violencia](https://open.spotify.com/album/3YgJr7L4JQGqDvA7qwkzYm) | 3:10 |
 | 23 | [La Muerte](https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 4:16 |
-| 24 | [Piel Canela](https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Mambo Ska](https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6) | 2:51 |
-| 25 | [Khade sukar / How Beautiful](https://open.spotify.com/track/11qTgJvOSQQgW2NZ1cjRFB) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Rávágok A Zongorára/Hit The Piano](https://open.spotify.com/album/0HDfjaHDB5c8PIzpg5H6je) | 3:27 |
+| 24 | [Khade sukar / How Beautiful](https://open.spotify.com/track/11qTgJvOSQQgW2NZ1cjRFB) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Rávágok A Zongorára/Hit The Piano](https://open.spotify.com/album/0HDfjaHDB5c8PIzpg5H6je) | 3:27 |
+| 25 | [Piel Canela](https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Mambo Ska](https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6) | 2:51 |
 | 26 | [Vamos a Morir](https://open.spotify.com/track/2IFFqBY6Khw7vgVezoXXkY) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda, Pt\. 1](https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc) | 3:55 |
 | 27 | [Asfalt Tango](https://open.spotify.com/track/56zs50f4ZqV1TMtzkw2oTc) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Baro Biao](https://open.spotify.com/album/51fzQZ94klHH5ToOVN6Uy3) | 6:12 |
 | 28 | [Il ballo di San Vito](https://open.spotify.com/track/6oC8FuowgLT4ZSlXECLCNX) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Il Ballo Di San Vito](https://open.spotify.com/album/7dFDRhEgvQZHu77TuvoEri) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 49 | [Opa Cupa](https://open.spotify.com/track/1ramTBkEuNstQWIP6hIgDv) | [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [BalkanBeats](https://open.spotify.com/album/5MjkNUydPIUTg8EW4bXOsi) | 4:40 |
 | 50 | [When Life Was A Miracle \- 'Life Is A Miracle' Original Soundtrack](https://open.spotify.com/track/5J9r1cpWmKZOdysqJ5fKUn) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Life Is A Miracle](https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje) | 4:12 |
 
-Snapshot ID: `MCw3MjBjZGYzZGFhMDA2NWMxM2E0MDllNWFhMmQ0ZmQwOGQxZWE5N2Zi`
+Snapshot ID: `MCw2OWU1YzIzYmE3YmZjMzc3YmVjNjc1MWQxODY0MDU0M2MyNWVjNzBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,730 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,731 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 7 | [Weight of Sound](https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 7:23 |
 | 8 | [Into The Sun \- EP Version](https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 5:00 |
 | 9 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
-| 10 | [Give Thanks \(feat\. Stick Figure\)](https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Sacred Sound](https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796) | 3:36 |
-| 11 | [Laps Around The Sun](https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O) | 3:26 |
+| 10 | [Laps Around The Sun](https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O) | 3:26 |
+| 11 | [Give Thanks \(feat\. Stick Figure\)](https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Sacred Sound](https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796) | 3:36 |
 | 12 | [Storm Boy](https://open.spotify.com/track/7J4GmvwgVBKMS6BAWnhLwB) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Storm Boy](https://open.spotify.com/album/1hVCb34MRa3jaxuah3HHT7) | 3:59 |
 | 13 | [Salvation](https://open.spotify.com/track/3QGTaRZJQTB5C1aKBNmnqq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Flow State](https://open.spotify.com/album/6EN8PtrmSzYfybaZQYYaOc) | 4:19 |
 | 14 | [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 47 | [Pulse](https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Pulse](https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx) | 4:22 |
 | 48 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 |
 | 49 | [Warm Under the Light](https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f) | 3:54 |
-| 50 | [Back to the Old](https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5a1dmR0nQcrgDJKLGAg1M7) | 5:49 |
+| 50 | [Steppegrass](https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Road Goes All Night](https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D) | 5:51 |
 
-Snapshot ID: `MCxiNGEyYzlmMzI0ODFkOTBjODE2NjRlYmIzOGU5NWM5NTExMWFkZTM2`
+Snapshot ID: `MCxiNDA1ZTY2OWViZjBhZjgxMDI5Y2ViNzdiNWFmYmE4ZDZjNDAwNWVj`

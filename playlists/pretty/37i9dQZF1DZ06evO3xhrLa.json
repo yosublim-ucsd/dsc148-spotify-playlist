@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 220023,
+  "num_followers": 220095,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjYzODJiMTE3ZTVmOGUwZjM5ZmE4NjcxOThmMDZiODcxZjYzZmE4",
+  "snapshot_id": "MCwwNWI0NzFlZjJhMGY4Zjg0MGMyY2NkYzQ5NzE2MmQ5ZmMzOTllZjM0",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Eternal Sunshine",
+      "url": "https://open.spotify.com/track/3t844ssjXzE9M3SDtUxTI4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 270546,
       "name": "Never Call Me",
       "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Souled Out (Deluxe)",
-        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Eternal Sunshine",
-      "url": "https://open.spotify.com/track/3t844ssjXzE9M3SDtUxTI4"
     },
     {
       "added_at": null,
@@ -491,22 +491,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 143533,
-      "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
+      "duration_ms": 252053,
+      "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3vMVipXhMeZt3wWbSBD4th"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Souled Out (Deluxe)",
-        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/3vMVipXhMeZt3wWbSBD4th"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chilombo (Deluxe)",
         "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
@@ -567,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 252053,
-      "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
+      "duration_ms": 143533,
+      "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "2 seconds - Bonus",
+      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 189496,
       "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "2 seconds - Bonus",
-      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "you vs them",
+      "url": "https://open.spotify.com/track/68s7fE0r719vZa7E1OqNaR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First Fuck",
         "url": "https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 205489,
       "name": "First Fuck",
       "url": "https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "you vs them",
-      "url": "https://open.spotify.com/track/68s7fE0r719vZa7E1OqNaR"
     },
     {
       "added_at": null,

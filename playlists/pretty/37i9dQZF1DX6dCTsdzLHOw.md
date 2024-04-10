@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,806 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,807 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 40 | [Sidney's Lament \- From "Scream"](https://open.spotify.com/track/0V7wkk4c6GUJyVs8Ou2XpF) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i) | [Scream And Scream 2 \(Music From The Dimension Motion Pictures\)](https://open.spotify.com/album/6O5CLPCsZzKLSqyCo0XbJS) | 1:37 |
 | 41 | [Main Title \(Chucky Theme\)](https://open.spotify.com/track/3FmOCXB7Gj9931lGFXpWHl) | [Joseph Loduca](https://open.spotify.com/artist/7K8ZZVUXpoWs9KH9VAoVhi) | [Curse of Chucky \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PoC4zyUUmYyJIm4rlgpaJ) | 2:23 |
 
-Snapshot ID: `MCw1NWVhMGExZTJkNzYyYjFkYjVmYTg3NjRlMGU1MDA5ZWM2NjQ5MzQz`
+Snapshot ID: `MCwxMzMxMmY2NDQ2YjA3NjA4NTg0NDM5MTQwODYxMTQ1OWIzMzBiODBi`

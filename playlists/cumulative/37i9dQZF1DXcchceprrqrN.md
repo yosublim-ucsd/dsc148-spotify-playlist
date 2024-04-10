@@ -4,7 +4,7 @@
 
 > self\-reinvention never sounded so good.
 
-137 songs - 7 hr 1 min
+138 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 | 2023-01-13 | 2023-04-27 |
 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 | 2023-03-31 |  |
 | [The Same](https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 2:31 | 2022-09-23 | 2024-04-05 |
+| [The Same](https://open.spotify.com/track/7tcmxexcz66H462fzWsAsA) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ) | 2:31 | 2024-03-09 |  |
 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 | 2022-09-23 |  |
 | [Veronica Mars](https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Veronica Mars](https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB) | 1:57 | 2023-01-13 | 2023-09-09 |
 | [Veronica Mars](https://open.spotify.com/track/4QLqCFAGqvHnjOWCtHTsQL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 1:57 | 2023-12-06 |  |
@@ -142,7 +143,7 @@
 | [Where to Start](https://open.spotify.com/track/59AH3Da4bVx4htRwPzYlBL) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [SUGAREGG](https://open.spotify.com/album/3o5jaI0rb660GQ7SiDse2R) | 3:00 | 2022-09-23 | 2023-09-09 |
 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 | 2022-10-07 |  |
 | [x w x](https://open.spotify.com/track/23M9FijuZP9MsVQrCLdqct) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 2:25 | 2024-03-09 |  |
-| [X\-RAY](https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["DESTRUCTION FOR DUMMIES", PT\. 2 JEAN DAWSON AS "NIGHTMARE"](https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO) | 3:09 | 2023-09-08 |  |
+| [X\-RAY](https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["DESTRUCTION FOR DUMMIES", PT\. 2 JEAN DAWSON AS "NIGHTMARE"](https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO) | 3:09 | 2023-09-08 | 2024-04-10 |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2023-07-24 |  |
 | [zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [zombie](https://open.spotify.com/album/4nsvLdAnnhP2lEc5JCsDQS) | 2:11 | 2024-03-09 |  |
 
